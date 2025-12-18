@@ -132,8 +132,13 @@ export default function App() {
   };
 
   useEffect(() => {
-    const t = setTimeout(() => fetchActorSuggestions(actor), 150);
-    return () => clearTimeout(t);
+    // Only fetch if actor has text, clear if empty
+    if (actor && actor.trim()) {
+      const t = setTimeout(() => fetchActorSuggestions(actor), 150);
+      return () => clearTimeout(t);
+    } else {
+      setActorSuggestions([]);
+    }
   }, [actor]);
 
   const fetchMovieSuggestions = async (text) => {
@@ -422,6 +427,7 @@ export default function App() {
                           onSelect={(item) => {
                             setActor(item.name);
                             setShowActorSug(false);
+                            setActorSuggestions([]);  // Clear to prevent re-fetch
                           }}
                           renderItem={(item) => item.name}
                         />
