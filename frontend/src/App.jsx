@@ -132,14 +132,14 @@ export default function App() {
   };
 
   useEffect(() => {
-    // Only fetch if actor has text, clear if empty
-    if (actor && actor.trim()) {
+    // Only fetch if actor has text AND popup is open (not just closed by selection)
+    if (actor && actor.trim() && showActorSug) {
       const t = setTimeout(() => fetchActorSuggestions(actor), 150);
       return () => clearTimeout(t);
-    } else {
+    } else if (!actor || !actor.trim()) {
       setActorSuggestions([]);
     }
-  }, [actor]);
+  }, [actor, showActorSug]);
 
   const fetchMovieSuggestions = async (text) => {
     if (!text) {
