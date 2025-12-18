@@ -6,7 +6,7 @@ export default function App() {
   const [gameId, setGameId] = useState("");
   const [start, setStart] = useState(null);
   const [target, setTarget] = useState(null);
-  const [movie, setMovie] = useState("");
+  const [movie, setMovie] = useState(null);  // CHANGED: Now stores {movie_id, title} or null
   const [actor, setActor] = useState("");
   const [message, setMessage] = useState("");
   const [messageType, setMessageType] = useState("");
@@ -46,7 +46,7 @@ export default function App() {
     setPosterUrl("");
     setGraphImg("");
     setState(null);
-    setMovie("");
+    setMovie(null);  // CHANGED: Reset to null
     setActor("");
     
     try {
@@ -70,15 +70,15 @@ export default function App() {
   const submitGuess = (e) => {
     if (e) e.preventDefault();
     if (!gameId || !movie || !actor) return;
-    
+
     setLoading(true);
     setMessage("");
     setMessageType("");
-    
+
     fetch(`${API}/guess`, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ game_id: gameId, movie, actor }),
+      body: JSON.stringify({ game_id: gameId, movie_id: movie.movie_id, actor }),  // CHANGED: Send movie_id
     })
       .then(async (res) => {
         const data = await res.json();
@@ -92,14 +92,14 @@ export default function App() {
           setMessageType("success");
         }
         // Don't show error messages for incorrect guesses
-        
+
         if (data.poster_url) setPosterUrl(data.poster_url);
         if (data.graph_image_base64) {
           setGraphImg(`data:image/png;base64,${data.graph_image_base64}`);
         }
         if (data.state) setState(data.state);
         if (data.success) {
-          setMovie("");
+          setMovie(null);  // CHANGED: Reset to null
           setActor("");
         }
       })
@@ -156,8 +156,14 @@ export default function App() {
   };
 
   useEffect(() => {
-    const t = setTimeout(() => fetchMovieSuggestions(movie), 150);
-    return () => clearTimeout(t);
+    // Only fetch if movie is a string (user typing), not object (already selected)
+    if (typeof movie === 'string' && movie.trim()) {
+      const t = setTimeout(() => fetchMovieSuggestions(movie), 150);
+      return () => clearTimeout(t);
+    } else if (movie === null || (typeof movie === 'object' && movie.movie_id !== null)) {
+      // Clear suggestions if nothing selected or movie already selected
+      setMovieSuggestions([]);
+    }
   }, [movie]);
 
   return (
@@ -320,10 +326,24 @@ export default function App() {
                       </label>
                       <input
                         type="text"
-                        value={movie}
-                        onChange={(e) => setMovie(e.target.value)}
-                        onFocus={() => movie && setShowMovieSug(true)}
-                        onBlur={() => setTimeout(() => setShowMovieSug(false), 120)}
+                        value={typeof movie === 'string' ? movie : (movie ? movie.title : "")}  // Handle both string and object
+                        onChange={(e) => {
+                          const value = e.target.value;
+                          // Always set as string when typing (not object)
+                          setMovie(value === '' ? null : value);
+                          if (value) setShowMovieSug(true);
+                        }}
+                        onFocus={() => {
+                          // FIX: Don't reopen popup if movie already selected
+                          if (movie && movie.title) {
+                            if (movie.movie_id !== null) {
+                              setShowMovieSug(false);
+                            } else {
+                              setShowMovieSug(true);
+                            }
+                          }
+                        }}
+                        onBlur={() => setTimeout(() => setShowMovieSug(false), 150)}
                         onKeyDown={(e) => e.key === 'Enter' && submitGuess()}
                         placeholder="Start typing a movie..."
                         style={{
@@ -350,12 +370,14 @@ export default function App() {
                           }
                         }}
                       />
-                      {showMovieSug && movieSuggestions.length > 0 && (
+                      {showMovieSug && movieSuggestions.length > 0 && typeof movie === 'string' && (
                         <SuggestionBox
                           items={movieSuggestions}
                           onSelect={(item) => {
-                            setMovie(item.title);
+                            // FIX: Set full object with ID and close immediately
+                            setMovie({ movie_id: item.movie_id, title: item.title });
                             setShowMovieSug(false);
+                            setMovieSuggestions([]);  // Clear to prevent refetch
                           }}
                           renderItem={(item) => item.title}
                         />
