@@ -403,7 +403,11 @@ export default function App() {
                       <input
                         type="text"
                         value={actor}
-                        onChange={(e) => setActor(e.target.value)}
+                        onChange={(e) => {
+                          const value = e.target.value;
+                          setActor(value);
+                          if (value) setShowActorSug(true);
+                        }}
                         onFocus={() => actor && setShowActorSug(true)}
                         onBlur={() => setTimeout(() => setShowActorSug(false), 120)}
                         onKeyDown={(e) => e.key === 'Enter' && submitGuess()}
