@@ -33,7 +33,8 @@ app.add_middleware(
 GRAPH = None
 GRAPH_READY = False
 GRAPH_CHECKSUM = ""
-GRAPH_PATH = os.getenv("CINELINKS_GRAPH_PATH", "global_actor_movie_graph.gpickle")
+GRAPH_PATH = os.getenv("CINELINKS_GRAPH_PATH", "global_actor_actor_graph.gpickle")
+ACTOR_MOVIE_INDEX = None  # NEW: Comprehensive actor-movie index for StartActorScore & full movie coverage
 ACTOR_INDEX, MOVIE_INDEX = [], []
 ACTOR_BY_NORM, MOVIE_BY_NORM = {}, {}
 
@@ -50,58 +51,119 @@ def compute_graph_fingerprint(G) -> str:
     blob = json.dumps({"nodes": nodes, "edges": edges}, separators=(",", ":"), ensure_ascii=False).encode("utf-8")
     return hashlib.sha256(blob).hexdigest()
 
-def build_indexes(G):
-    actors, movies = [], []
-    for n, d in G.nodes(data=True):
-        if d.get("type") == "actor":
-            name = n.split("::")[-1]
-            actors.append({
-                "node": n,
-                "name": name,
-                "name_norm": norm(name),
-                "image": tmdb_img(d.get("profile_path"), "w185"),
-            })
-        elif d.get("type") == "movie":
-            title = n.split("::")[-1]
-            movies.append({
-                "node": n,
-                "title": title,
-                "title_norm": norm(title),
-                "image": tmdb_img(d.get("poster_path"), "w185"),
-            })
+def build_indexes(G, actor_movie_index=None):
+    """
+    Build actor and movie indexes for autocomplete.
+
+    For actor-actor graph:
+    - Actors come from nodes (all nodes are actors)
+    - Movies come from actor_movie_index (if available) for comprehensive coverage,
+      otherwise from edge metadata (limited to movies connecting actors)
+
+    Args:
+        G: NetworkX graph
+        actor_movie_index: Optional actor-movie index dict with 'movies' and 'actor_movies'
+
+    Returns:
+        Tuple of (actors list, movies list)
+    """
+    actors = []
+    movies_dict = {}  # Use dict to deduplicate by movie ID
+
+    # Build actor index (all nodes are actors)
+    for node, data in G.nodes(data=True):
+        name = data.get('name', node.split('_')[-1])
+        actors.append({
+            "node": node,
+            "name": name,
+            "name_norm": norm(name),
+            "image": data.get('image') or tmdb_img(data.get("profile_path"), "w185"),
+            "tmdb_id": data.get("tmdb_id")  # Add for reverse lookup
+        })
+
+    # Build movie index from actor_movie_index (NEW - comprehensive coverage)
+    if actor_movie_index:
+        for movie_id, movie_data in actor_movie_index["movies"].items():
+            movies_dict[movie_id] = {
+                "movie_id": movie_id,
+                "title": movie_data["title"],
+                "title_norm": norm(movie_data["title"]),
+                "image": tmdb_img(movie_data.get("poster_path"), "w185"),
+                "poster_path": movie_data.get("poster_path"),
+            }
+    else:
+        # Fallback: Build movie index from edge metadata (old behavior)
+        for u, v, edge_data in G.edges(data=True):
+            movies_list = edge_data.get('movies', [])
+            for movie in movies_list:
+                movie_id = movie['id']
+                if movie_id not in movies_dict:
+                    movies_dict[movie_id] = {
+                        "movie_id": movie_id,
+                        "title": movie['title'],
+                        "title_norm": norm(movie['title']),
+                        "image": tmdb_img(movie.get('poster_path'), "w185"),
+                        "poster_path": movie.get('poster_path'),
+                    }
+
+    movies = list(movies_dict.values())
     return actors, movies
 
 def build_lookup_maps(G, actor_index, movie_index):
+    """
+    Build lookup maps for autocomplete.
+
+    NEW: Maps movie titles to movie IDs (not title strings) for ID-based validation.
+    """
     actor_by_norm = defaultdict(list)
     movie_by_norm = defaultdict(list)
+
     for a in actor_index:
         actor_by_norm[a["name_norm"]].append(a["node"])
+
+    # NEW: Map to movie IDs instead of titles for ID-based validation
     for m in movie_index:
-        movie_by_norm[m["title_norm"]].append(m["node"])
+        movie_by_norm[m["title_norm"]].append(m["movie_id"])
+
     return actor_by_norm, movie_by_norm
 
 def load_graph():
-    """Load the prebuilt graph using pickle for version compatibility."""
-    global GRAPH, GRAPH_READY, GRAPH_CHECKSUM, ACTOR_INDEX, MOVIE_INDEX, ACTOR_BY_NORM, MOVIE_BY_NORM
+    """Load the prebuilt graph AND actor-movie index using pickle."""
+    global GRAPH, GRAPH_READY, GRAPH_CHECKSUM, ACTOR_INDEX, MOVIE_INDEX, ACTOR_BY_NORM, MOVIE_BY_NORM, ACTOR_MOVIE_INDEX
     if not os.path.exists(GRAPH_PATH):
         print(f"[CineLinks] Graph file not found at {GRAPH_PATH}")
         GRAPH_READY = False
         return
 
     try:
+        # Load graph
         with open(GRAPH_PATH, "rb") as f:
             GRAPH = pickle.load(f)
+
+        # Load actor-movie index (NEW - for comprehensive movie coverage)
+        index_path = GRAPH_PATH.replace('.gpickle', '_actor_movie_index.pickle')
+        if os.path.exists(index_path):
+            with open(index_path, "rb") as f:
+                ACTOR_MOVIE_INDEX = pickle.load(f)
+            print(f"[CineLinks] Loaded actor-movie index: {index_path}")
+            print(f"[CineLinks]   Movies: {len(ACTOR_MOVIE_INDEX['movies'])}, Actors: {len(ACTOR_MOVIE_INDEX['actor_movies'])}")
+        else:
+            print(f"[CineLinks] WARNING: Actor-movie index not found at {index_path}")
+            print(f"[CineLinks] Movie autocomplete will have limited coverage (edge metadata only)")
+            ACTOR_MOVIE_INDEX = None
+
         GRAPH_READY = True
         GRAPH_CHECKSUM = compute_graph_fingerprint(GRAPH)
-        ACTOR_INDEX, MOVIE_INDEX = build_indexes(GRAPH)
+        ACTOR_INDEX, MOVIE_INDEX = build_indexes(GRAPH, ACTOR_MOVIE_INDEX)  # Pass index to build_indexes
         ACTOR_BY_NORM, MOVIE_BY_NORM = build_lookup_maps(GRAPH, ACTOR_INDEX, MOVIE_INDEX)
         print(f"[CineLinks] Loaded graph: {GRAPH_PATH}")
-        print(f"[CineLinks] Nodes={GRAPH.number_of_nodes()} | Edges={GRAPH.number_of_edges()}")
+        print(f"[CineLinks] Nodes={GRAPH.number_of_nodes()} | Edges={GRAPH.number_of_edges()} | Movies indexed={len(MOVIE_INDEX)}")
     except Exception as e:
         print(f"[CineLinks] Failed to load graph: {e}")
         GRAPH = None
         GRAPH_READY = False
         GRAPH_CHECKSUM = ""
+        ACTOR_MOVIE_INDEX = None
 
 def resolve_from_map_loose(key: str, mapping: dict, contains: bool = True, limit: int = 50):
     """Return list of node IDs by normalized key; supports loose 'contains' fallback."""
@@ -119,31 +181,66 @@ def resolve_from_map_loose(key: str, mapping: dict, contains: bool = True, limit
     return []
 
 def resolve_actor_nodes(name: str):
+    """Resolve actor name to list of actor node IDs."""
     return resolve_from_map_loose(name, ACTOR_BY_NORM, contains=True, limit=50)
 
 def resolve_movie_nodes(title: str):
+    """
+    Resolve movie title to list of matching titles.
+
+    Note: Returns titles, not node IDs (movies aren't nodes in actor-actor graph).
+    """
     return resolve_from_map_loose(title, MOVIE_BY_NORM, contains=True, limit=50)
 
 # ---------- Models / Sessions ----------
 class GuessInput(BaseModel):
     game_id: str
-    movie: str
+    movie_id: int  # CHANGED: Use TMDb movie ID instead of title string
     actor: str
 
 games: Dict[str, MovieConnectionGame] = {}
 
 # ---------- Helpers ----------
-def render_current_path(graph, path_nodes):
-    sub = graph.subgraph(path_nodes)
+def render_current_path(graph, actor_path, movies_used):
+    """
+    Render path visualization for actor-actor graph.
+
+    Shows: Actor1 -> Actor2 -> Actor3...
+    Optionally shows movie names as edge labels.
+
+    Args:
+        graph: NetworkX actor-actor graph
+        actor_path: List of actor node IDs
+        movies_used: List of movie dicts used between actors
+    """
+    if len(actor_path) < 2:
+        # Single actor, no path yet - create minimal visualization
+        sub = graph.subgraph([actor_path[0]]) if actor_path else nx.Graph()
+    else:
+        sub = graph.subgraph(actor_path)
+
     pos = nx.spring_layout(sub, seed=42)
-    plt.figure(figsize=(8, 6))
-    plt.title("CineLinks – Current Path", fontsize=12)
-    node_colors = ['skyblue' if n.startswith('actor::') else 'lightgreen' for n in sub.nodes()]
-    labels = {n: n.split("::")[-1] for n in sub.nodes()}
-    nx.draw(sub, pos, labels=labels, node_color=node_colors, with_labels=True,
-            node_size=2000, font_size=10, edge_color='gray')
+    plt.figure(figsize=(10, 6))
+    plt.title("CineLinks – Current Path", fontsize=14)
+
+    # All nodes are actors (sky blue)
+    node_colors = ['skyblue' for _ in sub.nodes()]
+    labels = {n: graph.nodes[n].get('name', n.split('_')[-1]) for n in sub.nodes()}
+
+    nx.draw(sub, pos, labels=labels, node_color=node_colors,
+            with_labels=True, node_size=2500, font_size=9,
+            edge_color='gray', width=2)
+
+    # Optional: Add edge labels with movie names
+    if len(movies_used) > 0 and len(actor_path) > 1:
+        edge_labels = {}
+        for i in range(len(movies_used)):
+            if i + 1 < len(actor_path):
+                edge_labels[(actor_path[i], actor_path[i+1])] = movies_used[i]['title'][:20]
+        nx.draw_networkx_edge_labels(sub, pos, edge_labels, font_size=7)
+
     buf = io.BytesIO()
-    plt.savefig(buf, format='png', bbox_inches='tight')
+    plt.savefig(buf, format='png', bbox_inches='tight', dpi=100)
     plt.close()
     buf.seek(0)
     return base64.b64encode(buf.read()).decode('utf-8')
@@ -166,34 +263,63 @@ def health():
 def meta():
     if not GRAPH_READY:
         return graph_not_ready_response()
-    actors = sum(1 for _, d in GRAPH.nodes(data=True) if d.get("type") == "actor")
-    movies = sum(1 for _, d in GRAPH.nodes(data=True) if d.get("type") == "movie")
-    return {"ready": True, "actors": actors, "movies": movies, "edges": GRAPH.number_of_edges(), "checksum": GRAPH_CHECKSUM}
+
+    # For actor-actor graph: all nodes are actors
+    actors = GRAPH.number_of_nodes()
+    playable_actors = sum(1 for _, d in GRAPH.nodes(data=True) if d.get("in_playable_graph", False))
+    starting_pool_actors = sum(1 for _, d in GRAPH.nodes(data=True) if d.get("in_starting_pool", False))
+    movies = len(MOVIE_INDEX)  # Count unique movies from edge metadata
+
+    return {
+        "ready": True,
+        "actors": actors,
+        "playable_actors": playable_actors,
+        "starting_pool_actors": starting_pool_actors,
+        "movies": movies,
+        "edges": GRAPH.number_of_edges(),
+        "checksum": GRAPH_CHECKSUM
+    }
 
 @app.get("/start_game")
 def start_game():
     if not GRAPH_READY:
         return graph_not_ready_response()
 
-    actor_nodes = [n for n, d in GRAPH.nodes(data=True) if d.get("type") == "actor"]
+    # Select from starting pool only
+    starting_pool = [n for n, d in GRAPH.nodes(data=True) if d.get('in_starting_pool', False)]
+
+    if len(starting_pool) < 2:
+        # Fallback: use all actors if starting pool not available
+        starting_pool = list(GRAPH.nodes())
+
     for _ in range(100):
-        a1, a2 = random.sample(actor_nodes, 2)
-        # ensure they haven't co-starred directly
-        if set(GRAPH.neighbors(a1)).isdisjoint(set(GRAPH.neighbors(a2))):
+        a1, a2 = random.sample(starting_pool, 2)
+
+        # TEMPORARY: Allow directly connected actors for testing with small graph
+        # if not GRAPH.has_edge(a1, a2):
+        if True:  # Accept any pair for now
             game_id = str(uuid4())
             games[game_id] = MovieConnectionGame(
                 GRAPH, a1, a2,
                 max_incorrect_guesses=3,
                 resolve_actor=resolve_actor_nodes,
                 resolve_movie=resolve_movie_nodes,
+                actor_movie_index=ACTOR_MOVIE_INDEX,  # NEW: Pass comprehensive index
             )
             d1, d2 = GRAPH.nodes[a1], GRAPH.nodes[a2]
             return {
                 "game_id": game_id,
                 "game_name": "CineLinks",
-                "start_actor": {"name": d1.get("name"), "image": d1.get("image")},
-                "target_actor": {"name": d2.get("name"), "image": d2.get("image")},
+                "start_actor": {
+                    "name": d1.get("name"),
+                    "image": d1.get("image")
+                },
+                "target_actor": {
+                    "name": d2.get("name"),
+                    "image": d2.get("image")
+                },
             }
+
     raise HTTPException(status_code=500, detail="Failed to find a valid actor pair")
 
 @app.post("/guess")
@@ -203,9 +329,19 @@ def guess(input: GuessInput):
     game = games.get(input.game_id)
     if not game:
         raise HTTPException(status_code=404, detail="Game not found.")
-    success, message, poster_url = game.guess(input.movie, input.actor)
-    image_data = render_current_path(GRAPH, game.path)
-    return {"success": success, "message": message, "poster_url": poster_url, "graph_image_base64": image_data, "state": game.get_state()}
+
+    success, message, poster_url = game.guess(input.movie_id, input.actor)  # CHANGED: Pass movie_id
+
+    # Pass actor path and movies_used to visualization
+    image_data = render_current_path(GRAPH, game.path, game.movies_used)
+
+    return {
+        "success": success,
+        "message": message,
+        "poster_url": poster_url,
+        "graph_image_base64": image_data,
+        "state": game.get_state()
+    }
 
 @app.get("/state")
 def state(game_id: str = Query(...)):
@@ -236,12 +372,18 @@ def autocomplete_movies(q: str = Query(..., min_length=1), limit: int = 10):
         return graph_not_ready_response()
     needle = norm(q)
     out = []
+
+    # Search in MOVIE_INDEX (built from edge metadata)
     for item in MOVIE_INDEX:
         if needle in item["title_norm"]:
-            tmdb_id = GRAPH.nodes[item["node"]].get("tmdb_id")
-            out.append({"title": item["title"], "image": item["image"], "tmdb_id": tmdb_id})
+            out.append({
+                "title": item["title"],
+                "image": item["image"],
+                "movie_id": item.get("movie_id")
+            })
             if len(out) >= limit:
                 break
+
     return {"query": q, "results": out}
 
 # ---------- Initialize ----------
