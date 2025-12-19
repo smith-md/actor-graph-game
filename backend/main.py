@@ -301,9 +301,7 @@ def start_game():
     for _ in range(100):
         a1, a2 = random.sample(starting_pool, 2)
 
-        # TEMPORARY: Allow directly connected actors for testing with small graph
-        # if not GRAPH.has_edge(a1, a2):
-        if True:  # Accept any pair for now
+        if not GRAPH.has_edge(a1, a2):
             game_id = str(uuid4())
             games[game_id] = MovieConnectionGame(
                 GRAPH, a1, a2,
