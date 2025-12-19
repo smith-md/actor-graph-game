@@ -158,6 +158,12 @@ def load_graph():
         ACTOR_BY_NORM, MOVIE_BY_NORM = build_lookup_maps(GRAPH, ACTOR_INDEX, MOVIE_INDEX)
         print(f"[CineLinks] Loaded graph: {GRAPH_PATH}")
         print(f"[CineLinks] Nodes={GRAPH.number_of_nodes()} | Edges={GRAPH.number_of_edges()} | Movies indexed={len(MOVIE_INDEX)}")
+
+        # Log playable and starting pool counts
+        playable_count = sum(1 for _, d in GRAPH.nodes(data=True) if d.get("in_playable_graph", False))
+        starting_count = sum(1 for _, d in GRAPH.nodes(data=True) if d.get("in_starting_pool", False))
+        print(f"[CineLinks] Playable actors: {playable_count}")
+        print(f"[CineLinks] Starting pool: {starting_count}")
     except Exception as e:
         print(f"[CineLinks] Failed to load graph: {e}")
         GRAPH = None
@@ -360,10 +366,12 @@ def autocomplete_actors(q: str = Query(..., min_length=1), limit: int = 10):
     out = []
     for item in ACTOR_INDEX:
         if needle in item["name_norm"]:
-            tmdb_id = GRAPH.nodes[item["node"]].get("tmdb_id")
-            out.append({"name": item["name"], "image": item["image"], "tmdb_id": tmdb_id})
-            if len(out) >= limit:
-                break
+            # Filter to playable actors only (default True for backwards compatibility)
+            if GRAPH.nodes[item["node"]].get("in_playable_graph", True):
+                tmdb_id = GRAPH.nodes[item["node"]].get("tmdb_id")
+                out.append({"name": item["name"], "image": item["image"], "tmdb_id": tmdb_id})
+                if len(out) >= limit:
+                    break
     return {"query": q, "results": out}
 
 @app.get("/autocomplete/movies")
