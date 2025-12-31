@@ -40,7 +40,7 @@ Move 2: Robert Downey Jr. → "Iron Man 2" → Scarlett Johansson
 - Node.js 18+
 - TMDb API Key ([Get one free](https://www.themoviedb.org/settings/api))
 
-### 1. Build the Actor-Movie Graph
+### 1. Build the Actor-Actor Graph
 
 ```bash
 cd build
@@ -51,8 +51,10 @@ pip install -r requirements-build.txt
 # Create .env with your TMDb API key
 echo "TMDB_API_KEY=your_key_here" > .env
 
-# Build the graph (~5-10 minutes)
-python build_actor_movie_graph.py --out ../backend/global_actor_movie_graph.gpickle --top 150
+# Build the actor-actor graph (~15 minutes)
+python build_actor_actor_graph.py \
+  --out ../backend/global_actor_actor_graph.gpickle \
+  --top 750 --starting 100 --min-votes 100 --max-pages 100
 ```
 
 ### 2. Start the Backend
@@ -95,7 +97,7 @@ cinelinks/
 │   ├── GAME_RULES.md          # How to play
 │   └── TROUBLESHOOTING.md     # Common issues and solutions
 ├── build/
-│   ├── build_actor_movie_graph.py  # Graph builder script
+│   ├── build_actor_actor_graph.py  # Actor-actor graph builder
 │   ├── verify_graph.py             # Graph verification
 │   └── requirements-build.txt
 ├── backend/
@@ -135,23 +137,29 @@ cinelinks/
 
 ## 🎯 Graph Statistics
 
-With default settings (`--top 150`):
-- **Actors**: ~150 popular actors
-- **Movies**: ~2,700 movies
-- **Connections**: ~8,500 actor-movie edges
-- **Build Time**: ~8 minutes
-- **File Size**: ~4-5 MB
+With default settings (`--top 750`, `--starting 100`):
+- **Total Actors**: ~9,720 actors from popular movies
+- **Playable Actors**: 1,000 (selected by centrality measures)
+- **Starting Pool**: 100 (selected by StartActorScore - most recognizable)
+- **Movies**: ~1,681 popular movies
+- **Actor Connections**: ~71,565 edges (actors who worked together)
+- **Build Time**: ~15 minutes
+- **File Size**: ~11 MB graph + ~1 MB index
 
 ## 🔧 Configuration
 
 ### Adjust Graph Size
 
 ```bash
-# Smaller graph (faster build, easier games)
-python build_actor_movie_graph.py --top 100
+# More playable actors (larger playable pool)
+python build_actor_actor_graph.py \
+  --out ../backend/global_actor_actor_graph.gpickle \
+  --top 1000 --starting 100
 
-# Larger graph (more variety, harder games)
-python build_actor_movie_graph.py --top 200
+# More movies (larger full graph, longer build)
+python build_actor_actor_graph.py \
+  --out ../backend/global_actor_actor_graph.gpickle \
+  --top 750 --starting 100 --max-pages 200
 ```
 
 ### Adjust Game Difficulty
@@ -169,7 +177,8 @@ MovieConnectionGame(
 ## 🐛 Troubleshooting
 
 ### "Graph not ready" error
-- Make sure `global_actor_movie_graph.gpickle` exists in `backend/`
+- Make sure `global_actor_actor_graph.gpickle` exists in `backend/`
+- Make sure `global_actor_actor_graph_actor_movie_index.pickle` exists in `backend/`
 - Rebuild the graph if corrupted
 
 ### No autocomplete suggestions

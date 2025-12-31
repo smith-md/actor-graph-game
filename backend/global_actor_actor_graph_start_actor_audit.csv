@@ -1,0 +1,101 @@
+rank,actor_id,actor_name,final_score,exposure_score,hhi_score,hhi_normalized,num_eligible_credits,top_k_count,top_movie_1,top_movie_2,top_movie_3
+1,3223,Actor_3223,78.4760,91.6462,0.1026,0.0384,11,15,The Avengers,Avengers: Infinity War,Iron Man
+2,6193,Actor_6193,71.5438,83.2219,0.1168,0.0537,9,15,Inception,Titanic,The Wolf of Wall Street
+3,31,Actor_31,70.8179,82.4151,0.1143,0.0510,9,15,Forrest Gump,Toy Story,The Green Mile
+4,10980,Actor_10980,70.4888,81.9214,0.1199,0.0570,9,15,Harry Potter and the Philosopher's Stone,Harry Potter and the Chamber of Secrets,Harry Potter and the Prisoner of Azkaban
+5,287,Actor_287,66.0911,76.9579,0.1088,0.0451,10,15,Inglourious Basterds,World War Z,The Curious Case of Benjamin Button
+6,85,Actor_85,62.4830,72.3312,0.1290,0.0668,8,15,Pirates of the Caribbean: The Curse of the Black Pearl,Pirates of the Caribbean: Dead Man's Chest,Charlie and the Chocolate Factory
+7,16828,Actor_16828,45.5463,52.0856,0.1459,0.0849,8,15,Captain America: Civil War,Captain America: The First Avenger,Snowpiercer
+8,2,Actor_2,43.2780,48.7585,0.1807,0.1222,6,15,Star Wars,The Empire Strikes Back,Return of the Jedi
+9,3,Actor_3,42.7440,48.5314,0.1595,0.0995,7,15,Star Wars: The Force Awakens,Blade Runner,Raiders of the Lost Ark
+10,6384,Actor_6384,42.6929,47.7010,0.2003,0.1431,5,15,The Matrix,John Wick: Chapter 2,The Matrix Reloaded
+11,2888,Actor_2888,41.6842,46.8986,0.1799,0.1214,6,15,I Am Legend,Men in Black 3,Aladdin
+12,3894,Actor_3894,40.3865,44.7902,0.2107,0.1543,5,15,The Dark Knight,The Dark Knight Rises,Batman Begins
+13,74568,Actor_74568,38.7953,43.4319,0.1835,0.1252,7,15,Thor,Thor: Ragnarok,Thor: The Dark World
+14,30614,Actor_30614,38.7863,42.9091,0.2106,0.1542,5,15,La La Land,Blade Runner 2049,Drive
+15,10990,Actor_10990,38.4955,44.3197,0.1179,0.0549,10,15,Beauty and the Beast,Harry Potter and the Deathly Hallows: Part 2,Harry Potter and the Deathly Hallows: Part 1
+16,880,Actor_880,37.8531,41.6461,0.2194,0.1636,5,15,Gone Girl,Batman v Superman: Dawn of Justice,Justice League
+17,44735,Actor_44735,37.4782,41.2270,0.2182,0.1623,5,15,Now You See Me,Zombieland,The Social Network
+18,72129,Actor_72129,37.2032,40.6381,0.2322,0.1774,5,15,The Hunger Games,The Hunger Games: Catching Fire,The Hunger Games: Mockingjay - Part 1
+19,73457,Actor_73457,36.8646,40.2373,0.2324,0.1775,5,15,Guardians of the Galaxy Vol. 2,Jurassic World,Jurassic World: Fallen Kingdom
+20,1327,Actor_1327,36.6908,41.2160,0.1698,0.1105,7,15,The Hobbit: The Battle of the Five Armies,The Hobbit: The Desolation of Smaug,The Lord of the Rings: The Fellowship of the Ring
+21,6968,Actor_6968,35.9011,38.7688,0.2501,0.1965,4,15,Logan,The Prestige,X-Men: Days of Future Past
+22,500,Actor_500,34.7620,37.4291,0.2501,0.1965,4,15,Edge of Tomorrow,Oblivion,Mission: Impossible - Ghost Protocol
+23,1245,Actor_1245,34.7447,39.1825,0.1562,0.0960,10,15,Lucy,Black Widow,Her
+24,2524,Actor_2524,32.5176,35.6018,0.2070,0.1504,6,15,Mad Max: Fury Road,Venom,The Revenant
+25,10989,Actor_10989,32.1970,36.7147,0.1282,0.0660,8,15,Harry Potter and the Philosopher's Stone,Harry Potter and the Chamber of Secrets,Harry Potter and the Prisoner of Azkaban
+26,37625,Actor_37625,31.8092,33.6533,0.2660,0.2136,4,15,The Amazing Spider-Man,Hacksaw Ridge,The Amazing Spider-Man 2
+27,109,Actor_109,31.2096,32.3388,0.2982,0.2481,4,15,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Two Towers
+28,206,Actor_206,30.0986,31.1598,0.2915,0.2409,4,15,The Truman Show,Eternal Sunshine of the Spotless Mind,The Mask
+29,2231,Actor_2231,30.0210,33.6062,0.1572,0.0970,9,15,The Hateful Eight,Pulp Fiction,Captain Marvel
+30,62,Actor_62,29.6520,30.7213,0.2869,0.2359,4,15,The Sixth Sense,Die Hard,The Fifth Element
+31,1136406,Actor_1136406,29.5439,29.7142,0.3334,0.2858,3,15,Spider-Man: Homecoming,Spider-Man: No Way Home,Spider-Man: Far From Home
+32,380,Actor_380,29.2867,31.1535,0.2413,0.1871,5,15,GoodFellas,Taxi Driver,Joker
+33,819,Actor_819,29.1015,29.1823,0.3340,0.2864,3,15,Fight Club,The Incredible Hulk,American History X
+34,2219,Actor_2219,29.0998,29.1919,0.3334,0.2858,3,15,Spider-Man,Spider-Man 2,Spider-Man 3
+35,2176,Actor_2176,28.9030,30.7015,0.2413,0.1871,5,15,Men in Black,Men in Black II,No Country for Old Men
+36,1892,Actor_1892,28.3340,29.7265,0.2575,0.2044,5,15,The Martian,Good Will Hunting,The Departed
+37,103,Actor_103,27.5942,31.3989,0.1230,0.0603,9,15,Shutter Island,Thor: Ragnarok,Now You See Me 2
+38,131,Actor_131,27.5094,28.3968,0.2765,0.2248,4,15,Donnie Darko,Nightcrawler,Spider-Man: Far From Home
+39,134,Actor_134,26.1175,26.3133,0.3001,0.2501,5,15,Django Unchained,Soul,The Amazing Spider-Man 2
+40,71580,Actor_71580,25.8891,25.5322,0.3272,0.2791,4,15,Doctor Strange,The Imitation Game,Spider-Man: No Way Home
+41,73421,Actor_73421,25.7796,24.7786,0.3602,0.3145,3,15,Joker,Her,Gladiator
+42,65731,Actor_65731,25.7555,24.6951,0.3631,0.3176,3,15,Avatar,Avatar: The Way of Water,Hacksaw Ridge
+43,4,Actor_4,25.3784,27.2348,0.2053,0.1486,6,15,Star Wars: The Rise of Skywalker,Star Wars: The Last Jedi,Star Wars
+44,234352,Actor_234352,25.2018,25.1084,0.3068,0.2573,4,15,Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn),Barbie,The Wolf of Wall Street
+45,1158,Actor_1158,25.0188,23.9527,0.3566,0.3106,3,15,The Godfather Part II,Scarface,The Godfather
+46,3896,Actor_3896,24.9583,24.3115,0.3338,0.2862,4,15,Schindler's List,Taken,Batman Begins
+47,139,Actor_139,24.5124,22.8435,0.3837,0.3397,3,15,Kill Bill: Vol. 1,Kill Bill: Vol. 2,Pulp Fiction
+48,192,Actor_192,24.4529,24.6864,0.2825,0.2313,4,15,Se7en,The Shawshank Redemption,Lucy
+49,934,Actor_934,24.2225,22.4278,0.3877,0.3439,3,15,Gladiator,A Beautiful Mind,Man of Steel
+50,1333,Actor_1333,24.0569,22.8609,0.3545,0.3083,4,15,Rise of the Planet of the Apes,Dawn of the Planet of the Apes,The Lord of the Rings: The Return of the King
+51,12835,Actor_12835,23.8900,22.7094,0.3521,0.3058,4,15,Furious 7,The Fate of the Furious,Guardians of the Galaxy Vol. 2
+52,73968,Actor_73968,23.8272,23.9709,0.2815,0.2301,4,15,Man of Steel,Batman v Superman: Dawn of Justice,Justice League
+53,51329,Actor_51329,23.5984,21.1047,0.4188,0.3773,3,15,The Hangover,Limitless,Guardians of the Galaxy Vol. 2
+54,5081,Actor_5081,22.5993,22.2155,0.2979,0.2477,4,15,A Quiet Place,Edge of Tomorrow,Oppenheimer
+55,7060,Actor_7060,22.2977,21.4443,0.3199,0.2713,4,15,The Hobbit: An Unexpected Journey,The Hobbit: The Battle of the Five Armies,The Hobbit: The Desolation of Smaug
+56,57755,Actor_57755,22.2377,24.8129,0.1380,0.0765,8,15,Now You See Me,Zombieland,Now You See Me 2
+57,9273,Actor_9273,21.9321,21.4326,0.2978,0.2476,5,15,Arrival,Man of Steel,Justice League
+58,3061,Actor_3061,21.5384,20.6427,0.3151,0.2661,4,15,Trainspotting,Star Wars: Episode III - Revenge of the Sith,Star Wars: Episode II - Attack of the Clones
+59,11288,Actor_11288,21.4706,20.4270,0.3223,0.2738,4,15,The Batman,Twilight,Tenet
+60,10205,Actor_10205,21.4534,20.7285,0.3052,0.2556,4,15,Aliens,Alien,Avatar
+61,1230,Actor_1230,21.4016,19.2143,0.3821,0.3380,3,15,"Monsters, Inc.",The Big Lebowski,Monsters University
+62,11701,Actor_11701,21.0272,18.8689,0.3771,0.3326,3,15,Maleficent,Kung Fu Panda,Mr. & Mrs. Smith
+63,2157,Actor_2157,20.9615,18.8386,0.3746,0.3299,3,15,Dead Poets Society,Good Will Hunting,Aladdin
+64,110,Actor_110,20.7299,19.5648,0.3218,0.2733,4,15,Green Book,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Return of the King
+65,17276,Actor_17276,20.2958,17.4201,0.4082,0.3659,3,15,300,How to Train Your Dragon,How to Train Your Dragon 2
+66,2975,Actor_2975,20.2682,21.5378,0.1887,0.1307,6,15,The Matrix,The Matrix Reloaded,The Matrix Revolutions
+67,524,Actor_524,20.2090,21.1029,0.2080,0.1514,5,15,Thor,Thor: The Dark World,Léon: The Professional
+68,996701,Actor_996701,20.1543,18.2258,0.3568,0.3108,4,15,Whiplash,Top Gun: Maverick,Insurgent
+69,90633,Actor_90633,20.1491,17.8551,0.3760,0.3315,4,15,Wonder Woman,Zack Snyder's Justice League,Batman v Superman: Dawn of Justice
+70,5294,Actor_5294,20.1443,17.4321,0.3981,0.3551,3,15,The Lion King,Doctor Strange,2012
+71,24045,Actor_24045,20.0768,17.0791,0.4126,0.3706,3,15,(500) Days of Summer,Inception,The Dark Knight Rises
+72,21007,Actor_21007,20.0352,17.7965,0.3721,0.3272,4,15,21 Jump Street,The Wolf of Wall Street,How to Train Your Dragon
+73,1979,Actor_1979,19.8227,16.1651,0.4451,0.4055,3,15,American Beauty,Baby Driver,The Usual Suspects
+74,27972,Actor_27972,19.5339,19.5127,0.2501,0.1965,4,15,The Hunger Games,The Hunger Games: Catching Fire,The Hunger Games: Mockingjay - Part 1
+75,5469,Actor_5469,19.4723,15.3955,0.4640,0.4257,3,15,The Grand Budapest Hotel,Schindler's List,Harry Potter and the Deathly Hallows: Part 2
+76,1159982,Actor_1159982,19.4226,13.1376,0.5804,0.5504,3,15,Baby Driver,Insurgent,Divergent
+77,70851,Actor_70851,19.3456,16.8158,0.3810,0.3368,4,15,Kung Fu Panda,Jumanji: Welcome to the Jungle,The Super Mario Bros. Movie
+78,12898,Actor_12898,19.2399,19.1662,0.2501,0.1966,4,15,Toy Story,Toy Story 3,Toy Story 2
+79,1037,Actor_1037,19.2252,13.7013,0.5383,0.5053,3,15,Reservoir Dogs,Taxi Driver,Pulp Fiction
+80,9015,Actor_9015,19.2141,12.9682,0.5763,0.5461,3,15,Brave,No Country for Old Men,Trainspotting
+81,114,Actor_114,19.1754,20.3513,0.1834,0.1251,6,15,Pirates of the Caribbean: Dead Man's Chest,Troy,Pirates of the Caribbean: The Curse of the Black Pearl
+82,117642,Actor_117642,19.0413,15.4188,0.4360,0.3957,4,15,Aquaman,Dune,Zack Snyder's Justice League
+83,2037,Actor_2037,18.8929,12.9333,0.5582,0.5266,3,15,Oppenheimer,Dunkirk,Batman Begins
+84,54693,Actor_54693,18.1166,17.7159,0.2569,0.2039,4,15,The Amazing Spider-Man,La La Land,The Amazing Spider-Man 2
+85,118,Actor_118,17.8644,18.1283,0.2194,0.1637,5,15,Pirates of the Caribbean: The Curse of the Black Pearl,Pirates of the Caribbean: At World's End,Pirates of the Caribbean: On Stranger Tides
+86,64,Actor_64,17.8600,19.1327,0.1660,0.1065,7,15,The Dark Knight Rises,Léon: The Professional,The Fifth Element
+87,205,Actor_205,17.7666,18.0147,0.2194,0.1636,5,15,Spider-Man 2,Spider-Man 3,Spider-Man
+88,12052,Actor_12052,17.5493,17.5862,0.2285,0.1734,5,15,Iron Man 3,Iron Man 2,Se7en
+89,8691,Actor_8691,17.0112,14.9624,0.3338,0.2862,3,15,Avatar,Guardians of the Galaxy Vol. 2,Avatar: The Way of Water
+90,776,Actor_776,16.4100,14.2599,0.3335,0.2859,3,15,Shrek,Shrek 2,Mulan
+91,1813,Actor_1813,16.3343,15.2120,0.2785,0.2269,4,15,Interstellar,The Devil Wears Prada,Alice in Wonderland
+92,3895,Actor_3895,16.0899,15.9296,0.2253,0.1700,5,15,Batman Begins,Interstellar,The Prestige
+93,204,Actor_204,15.6326,14.1398,0.2915,0.2409,4,15,Titanic,Eternal Sunshine of the Spotless Mind,Insurgent
+94,16851,Actor_16851,14.9046,13.7566,0.2665,0.2141,4,15,Deadpool 2,No Country for Old Men,Men in Black 3
+95,18997,Actor_18997,14.7768,11.2959,0.3887,0.3450,3,15,Jurassic World,Jurassic World: Fallen Kingdom,Spider-Man 3
+96,17051,Actor_17051,14.7528,13.6198,0.2643,0.2117,4,15,Rise of the Planet of the Apes,Spider-Man 2,Spider-Man 3
+97,112,Actor_112,14.7320,11.8597,0.3561,0.3101,3,15,The Curious Case of Benjamin Button,How to Train Your Dragon 2,Thor: Ragnarok
+98,115150,Actor_115150,14.6806,11.4232,0.3760,0.3314,3,15,The Maze Runner,Maze Runner: The Scorch Trials,Pirates of the Caribbean: Dead Men Tell No Tales
+99,116,Actor_116,14.4022,13.0352,0.2734,0.2215,4,15,The Imitation Game,Pirates of the Caribbean: Dead Man's Chest,Pirates of the Caribbean: The Curse of the Black Pearl
+100,5293,Actor_5293,14.1526,12.5607,0.2829,0.2317,4,15,Spider-Man,Aquaman,Finding Nemo
