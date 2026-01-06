@@ -2,3 +2,230 @@
 :root { font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif; color: #e8eef7; }
 * { box-sizing: border-box; }
 body { margin: 0; background: #0b0f14; }
+
+/* Path Visualization Animations */
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes drawLine {
+  from {
+    width: 0;
+    opacity: 0;
+  }
+  to {
+    width: 80px;
+    opacity: 1;
+  }
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateX(-50%) translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+  }
+}
+
+/* Reduced motion support */
+@media (prefers-reduced-motion: reduce) {
+  * {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Responsive Actor Card Sizing */
+.actor-card {
+  width: 256px;
+  padding: 24px;
+}
+
+.actor-card-image {
+  width: 128px;
+  height: 128px;
+}
+
+.actor-card-name {
+  font-size: 20px;
+}
+
+/* App Container Padding */
+.app-container {
+  padding: 32px;
+}
+
+/* Desktop (explicit for larger screens) */
+@media (min-width: 769px) {
+  .actor-card {
+    width: 256px;
+    padding: 24px;
+  }
+
+  .actor-card-image {
+    width: 128px;
+    height: 128px;
+  }
+
+  .actor-card-name {
+    font-size: 20px;
+  }
+
+  .app-container {
+    padding: 32px;
+  }
+}
+
+/* Tablet */
+@media (max-width: 768px) {
+  .actor-card {
+    width: 200px;
+    padding: 20px;
+  }
+
+  .actor-card-image {
+    width: 96px;
+    height: 96px;
+  }
+
+  .actor-card-name {
+    font-size: 18px;
+  }
+}
+
+/* Mobile (iPhone 14 Pro Max and similar) */
+@media (max-width: 480px) {
+  .actor-card {
+    width: 160px;
+    padding: 16px;
+  }
+
+  .actor-card-image {
+    width: 80px;
+    height: 80px;
+  }
+
+  .actor-card-name {
+    font-size: 16px;
+  }
+
+  .actor-display-container {
+    gap: 16px !important;
+  }
+
+  .app-container {
+    padding: 16px;
+  }
+}
+
+/* Small mobile */
+@media (max-width: 390px) {
+  .actor-card {
+    width: 140px;
+    padding: 12px;
+  }
+
+  .actor-card-image {
+    width: 64px;
+    height: 64px;
+  }
+
+  .actor-card-name {
+    font-size: 14px;
+  }
+}
+
+/* Path Visualization Responsive Styles */
+.path-movie-poster {
+  width: 100px;
+}
+
+.path-actor-node {
+  width: 80px;
+  height: 80px;
+}
+
+.path-actor-name {
+  font-size: 13px;
+  max-width: 90px;
+}
+
+.path-movie-title {
+  font-size: 11px;
+  max-width: 100px;
+}
+
+/* Desktop path visualization */
+@media (min-width: 769px) {
+  .path-movie-poster {
+    width: 100px;
+  }
+
+  .path-actor-node {
+    width: 80px;
+    height: 80px;
+  }
+
+  .path-actor-name {
+    font-size: 13px;
+    max-width: 90px;
+  }
+
+  .path-movie-title {
+    font-size: 11px;
+    max-width: 100px;
+  }
+}
+
+@media (max-width: 768px) {
+  .path-movie-poster {
+    width: 80px;
+  }
+
+  .path-actor-node {
+    width: 60px;
+    height: 60px;
+  }
+
+  .path-actor-name {
+    font-size: 11px;
+    max-width: 70px;
+  }
+
+  .path-movie-title {
+    font-size: 10px;
+    max-width: 80px;
+  }
+}
+
+@media (max-width: 480px) {
+  .path-movie-poster {
+    width: 60px;
+  }
+
+  .path-actor-node {
+    width: 50px;
+    height: 50px;
+  }
+
+  .path-actor-name {
+    font-size: 10px;
+    max-width: 60px;
+  }
+
+  .path-movie-title {
+    font-size: 9px;
+    max-width: 60px;
+  }
+}
