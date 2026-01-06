@@ -1,0 +1,408 @@
+==============================================================================================================
+STARTING ACTOR POOL - TOP 100 ELIGIBLE ACTORS
+==============================================================================================================
+
+Total: 100 actors
+Vote threshold: 7,000+ votes per movie
+Required: 3+ qualifying movies
+
+--------------------------------------------------------------------------------------------------------------
+#1   Robert Downey Jr.
+     Score: 88.14 | Qualifying movies: 13 (of 31 total) | English: 100% | Voice: 0.0%
+     Top films: The Avengers, Avengers: Infinity War, Iron Man
+
+#2   Leonardo DiCaprio
+     Score: 79.39 | Qualifying movies: 10 (of 26 total) | English: 100% | Voice: 0.0%
+     Top films: Inception, Titanic, The Wolf of Wall Street
+
+#3   Will Smith
+     Score: 72.65 | Qualifying movies: 10 (of 24 total) | English: 100% | Voice: 0.0%
+     Top films: Suicide Squad, I Am Legend, I, Robot
+
+#4   Daniel Radcliffe
+     Score: 70.50 | Qualifying movies: 9 (of 16 total) | English: 100% | Voice: 0.0%
+     Top films: Harry Potter and the Philosopher's Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban
+
+#5   Johnny Depp
+     Score: 65.85 | Qualifying movies: 10 (of 43 total) | English: 100% | Voice: 0.0%
+     Top films: Pirates of the Caribbean: The Curse of the Black Pearl, Pirates of the Caribbean: Dead Man's Chest, Charlie and the Chocolate Factory
+
+#6   Brad Pitt
+     Score: 58.23 | Qualifying movies: 9 (of 40 total) | English: 100% | Voice: 0.0%
+     Top films: Inglourious Basterds, World War Z, Fury
+
+#7   Chris Evans
+     Score: 53.67 | Qualifying movies: 9 (of 26 total) | English: 89% | Voice: 0.0%
+     Top films: Captain America: Civil War, Captain America: The First Avenger, Captain America: The Winter Soldier
+
+#8   Jennifer Lawrence
+     Score: 50.70 | Qualifying movies: 8 (of 16 total) | English: 100% | Voice: 0.0%
+     Top films: The Hunger Games, The Hunger Games: Catching Fire, The Hunger Games: Mockingjay - Part 1
+
+#9   Keanu Reeves
+     Score: 50.59 | Qualifying movies: 6 (of 35 total) | English: 100% | Voice: 0.0%
+     Top films: The Matrix, John Wick, John Wick: Chapter 2
+
+#10  Harrison Ford
+     Score: 50.30 | Qualifying movies: 8 (of 34 total) | English: 100% | Voice: 0.0%
+     Top films: Star Wars: The Force Awakens, Blade Runner, Raiders of the Lost Ark
+
+#11  Chris Pratt
+     Score: 48.58 | Qualifying movies: 7 (of 25 total) | English: 100% | Voice: 14.3%
+     Top films: Guardians of the Galaxy, Guardians of the Galaxy Vol. 2, Jurassic World
+
+#12  Mark Hamill
+     Score: 43.28 | Qualifying movies: 6 (of 20 total) | English: 100% | Voice: 16.7%
+     Top films: Star Wars, The Empire Strikes Back, Return of the Jedi
+
+#13  Christian Bale
+     Score: 40.39 | Qualifying movies: 5 (of 28 total) | English: 100% | Voice: 0.0%
+     Top films: The Dark Knight, The Dark Knight Rises, Batman Begins
+
+#14  Samuel L. Jackson
+     Score: 40.02 | Qualifying movies: 12 (of 68 total) | English: 100% | Voice: 8.3%
+     Top films: The Hateful Eight, Pulp Fiction, Captain America: The Winter Soldier
+
+#15  Tom Hardy
+     Score: 39.88 | Qualifying movies: 7 (of 21 total) | English: 100% | Voice: 0.0%
+     Top films: Mad Max: Fury Road, Venom, Venom: Let There Be Carnage
+
+#16  Scarlett Johansson
+     Score: 39.67 | Qualifying movies: 12 (of 37 total) | English: 100% | Voice: 8.3%
+     Top films: Lucy, Black Widow, Her
+
+#17  Ryan Gosling
+     Score: 38.79 | Qualifying movies: 5 (of 17 total) | English: 100% | Voice: 0.0%
+     Top films: La La Land, Blade Runner 2049, Drive
+
+#18  Emma Watson
+     Score: 38.50 | Qualifying movies: 10 (of 16 total) | English: 100% | Voice: 0.0%
+     Top films: Beauty and the Beast, Harry Potter and the Deathly Hallows: Part 2, Harry Potter and the Deathly Hallows: Part 1
+
+#19  Natalie Portman
+     Score: 38.41 | Qualifying movies: 8 (of 24 total) | English: 88% | Voice: 0.0%
+     Top films: Black Swan, V for Vendetta, Thor
+
+#20  Ben Affleck
+     Score: 37.86 | Qualifying movies: 5 (of 35 total) | English: 100% | Voice: 0.0%
+     Top films: Gone Girl, Batman v Superman: Dawn of Justice, Justice League
+
+#21  Jesse Eisenberg
+     Score: 37.48 | Qualifying movies: 5 (of 16 total) | English: 100% | Voice: 0.0%
+     Top films: Now You See Me, Zombieland, The Social Network
+
+#22  Jim Carrey
+     Score: 36.97 | Qualifying movies: 5 (of 26 total) | English: 100% | Voice: 0.0%
+     Top films: The Truman Show, Eternal Sunshine of the Spotless Mind, Bruce Almighty
+
+#23  Hugh Jackman
+     Score: 35.90 | Qualifying movies: 4 (of 23 total) | English: 100% | Voice: 0.0%
+     Top films: Logan, The Prestige, X-Men: Days of Future Past
+
+#24  Daniel Craig
+     Score: 35.09 | Qualifying movies: 4 (of 24 total) | English: 100% | Voice: 0.0%
+     Top films: Skyfall, Knives Out, Casino Royale
+
+#25  Tom Cruise
+     Score: 34.77 | Qualifying movies: 4 (of 37 total) | English: 100% | Voice: 0.0%
+     Top films: Edge of Tomorrow, Oblivion, Mission: Impossible - Ghost Protocol
+
+#26  Jake Gyllenhaal
+     Score: 34.50 | Qualifying movies: 5 (of 28 total) | English: 100% | Voice: 0.0%
+     Top films: Donnie Darko, Nightcrawler, Zodiac
+
+#27  Bruce Willis
+     Score: 32.74 | Qualifying movies: 5 (of 52 total) | English: 80% | Voice: 0.0%
+     Top films: The Sixth Sense, Die Hard, The Fifth Element
+
+#28  Rupert Grint
+     Score: 32.20 | Qualifying movies: 8 (of 12 total) | English: 100% | Voice: 0.0%
+     Top films: Harry Potter and the Philosopher's Stone, Harry Potter and the Chamber of Secrets, Harry Potter and the Prisoner of Azkaban
+
+#29  Tobey Maguire
+     Score: 32.04 | Qualifying movies: 4 (of 12 total) | English: 100% | Voice: 0.0%
+     Top films: Spider-Man, Spider-Man 2, Spider-Man 3
+
+#30  Andrew Garfield
+     Score: 31.81 | Qualifying movies: 4 (of 9 total) | English: 100% | Voice: 0.0%
+     Top films: The Amazing Spider-Man, Hacksaw Ridge, The Amazing Spider-Man 2
+
+#31  Robert De Niro
+     Score: 31.42 | Qualifying movies: 6 (of 50 total) | English: 100% | Voice: 0.0%
+     Top films: GoodFellas, Taxi Driver, Joker
+
+#32  Chris Hemsworth
+     Score: 30.91 | Qualifying movies: 6 (of 25 total) | English: 100% | Voice: 0.0%
+     Top films: Thor, Thor: The Dark World, Avengers: Age of Ultron
+
+#33  Edward Norton
+     Score: 30.44 | Qualifying movies: 4 (of 19 total) | English: 100% | Voice: 0.0%
+     Top films: Fight Club, The Incredible Hulk, American History X
+
+#34  Woody Harrelson
+     Score: 29.68 | Qualifying movies: 10 (of 37 total) | English: 100% | Voice: 0.0%
+     Top films: Now You See Me, Zombieland, Venom: Let There Be Carnage
+
+#35  Morgan Freeman
+     Score: 29.60 | Qualifying movies: 6 (of 48 total) | English: 100% | Voice: 0.0%
+     Top films: Se7en, The Shawshank Redemption, Lucy
+
+#36  Tom Holland
+     Score: 29.55 | Qualifying movies: 3 (of 12 total) | English: 100% | Voice: 0.0%
+     Top films: Spider-Man: Homecoming, Spider-Man: No Way Home, Spider-Man: Far From Home
+
+#37  Ian McKellen
+     Score: 29.32 | Qualifying movies: 5 (of 17 total) | English: 100% | Voice: 0.0%
+     Top films: The Hobbit: The Battle of the Five Armies, The Hobbit: The Desolation of Smaug, The Lord of the Rings: The Fellowship of the Ring
+
+#38  Tommy Lee Jones
+     Score: 28.91 | Qualifying movies: 5 (of 26 total) | English: 100% | Voice: 0.0%
+     Top films: Men in Black, Men in Black II, No Country for Old Men
+
+#39  Michael J. Fox
+     Score: 28.77 | Qualifying movies: 3 (of 10 total) | English: 100% | Voice: 0.0%
+     Top films: Back to the Future, Back to the Future Part II, Back to the Future Part III
+
+#40  Matt Damon
+     Score: 28.34 | Qualifying movies: 5 (of 42 total) | English: 100% | Voice: 0.0%
+     Top films: The Martian, Good Will Hunting, The Departed
+
+#41  Shailene Woodley
+     Score: 28.15 | Qualifying movies: 3 (of 7 total) | English: 100% | Voice: 0.0%
+     Top films: Divergent, The Fault in Our Stars, Insurgent
+
+#42  Mark Ruffalo
+     Score: 27.31 | Qualifying movies: 9 (of 19 total) | English: 100% | Voice: 0.0%
+     Top films: Shutter Island, Now You See Me 2, Zodiac
+
+#43  Margot Robbie
+     Score: 27.17 | Qualifying movies: 5 (of 15 total) | English: 100% | Voice: 0.0%
+     Top films: Birds of Prey (and the Fantabulous Emancipation of One Harley Quinn), Barbie, The Wolf of Wall Street
+
+#44  Benedict Cumberbatch
+     Score: 27.15 | Qualifying movies: 5 (of 26 total) | English: 100% | Voice: 0.0%
+     Top films: Doctor Strange, The Imitation Game, Spider-Man: No Way Home
+
+#45  Joseph Gordon-Levitt
+     Score: 26.10 | Qualifying movies: 4 (of 25 total) | English: 100% | Voice: 0.0%
+     Top films: (500) Days of Summer, Looper, Inception
+
+#46  Joaquin Phoenix
+     Score: 25.78 | Qualifying movies: 3 (of 15 total) | English: 100% | Voice: 0.0%
+     Top films: Joker, Her, Gladiator
+
+#47  Sam Worthington
+     Score: 25.76 | Qualifying movies: 3 (of 26 total) | English: 100% | Voice: 0.0%
+     Top films: Avatar, Avatar: The Way of Water, Hacksaw Ridge
+
+#48  Carrie Fisher
+     Score: 25.38 | Qualifying movies: 6 (of 18 total) | English: 100% | Voice: 0.0%
+     Top films: Star Wars: The Rise of Skywalker, Star Wars: The Last Jedi, Star Wars
+
+#49  James McAvoy
+     Score: 25.24 | Qualifying movies: 3 (of 20 total) | English: 100% | Voice: 0.0%
+     Top films: Split, X-Men: Apocalypse, X-Men: Days of Future Past
+
+#50  Al Pacino
+     Score: 25.02 | Qualifying movies: 3 (of 23 total) | English: 100% | Voice: 0.0%
+     Top films: The Godfather Part II, Scarface, The Godfather
+
+#51  Uma Thurman
+     Score: 24.51 | Qualifying movies: 3 (of 19 total) | English: 100% | Voice: 0.0%
+     Top films: Kill Bill: Vol. 1, Kill Bill: Vol. 2, Pulp Fiction
+
+#52  Ewan McGregor
+     Score: 24.48 | Qualifying movies: 5 (of 30 total) | English: 100% | Voice: 0.0%
+     Top films: Trainspotting, Star Wars: Episode I - The Phantom Menace, Star Wars: Episode III - Revenge of the Sith
+
+#53  Emily Blunt
+     Score: 24.37 | Qualifying movies: 5 (of 19 total) | English: 100% | Voice: 0.0%
+     Top films: A Quiet Place, Edge of Tomorrow, Oppenheimer
+
+#54  Russell Crowe
+     Score: 24.23 | Qualifying movies: 3 (of 27 total) | English: 100% | Voice: 0.0%
+     Top films: Gladiator, A Beautiful Mind, Man of Steel
+
+#55  Jack Nicholson
+     Score: 24.16 | Qualifying movies: 3 (of 17 total) | English: 100% | Voice: 0.0%
+     Top films: The Shining, One Flew Over the Cuckoo's Nest, The Departed
+
+#56  Henry Cavill
+     Score: 23.83 | Qualifying movies: 4 (of 18 total) | English: 100% | Voice: 0.0%
+     Top films: Man of Steel, Batman v Superman: Dawn of Justice, Justice League
+
+#57  Martin Freeman
+     Score: 22.30 | Qualifying movies: 4 (of 19 total) | English: 100% | Voice: 0.0%
+     Top films: The Hobbit: An Unexpected Journey, The Hobbit: The Battle of the Five Armies, The Hobbit: The Desolation of Smaug
+
+#58  Amy Adams
+     Score: 21.93 | Qualifying movies: 5 (of 17 total) | English: 100% | Voice: 0.0%
+     Top films: Arrival, Man of Steel, Justice League
+
+#59  Laurence Fishburne
+     Score: 21.88 | Qualifying movies: 7 (of 43 total) | English: 100% | Voice: 0.0%
+     Top films: The Matrix, The Matrix Reloaded, The Matrix Revolutions
+
+#60  Sigourney Weaver
+     Score: 21.46 | Qualifying movies: 4 (of 27 total) | English: 100% | Voice: 0.0%
+     Top films: Aliens, Alien, Avatar
+
+#61  Emma Stone
+     Score: 21.31 | Qualifying movies: 5 (of 23 total) | English: 100% | Voice: 0.0%
+     Top films: The Amazing Spider-Man, La La Land, The Amazing Spider-Man 2
+
+#62  Kirsten Dunst
+     Score: 21.10 | Qualifying movies: 6 (of 16 total) | English: 100% | Voice: 0.0%
+     Top films: Spider-Man 2, Spider-Man 3, Jumanji
+
+#63  Ralph Fiennes
+     Score: 20.85 | Qualifying movies: 5 (of 34 total) | English: 100% | Voice: 0.0%
+     Top films: The Grand Budapest Hotel, Schindler's List, Harry Potter and the Deathly Hallows: Part 2
+
+#64  Ansel Elgort
+     Score: 20.25 | Qualifying movies: 4 (of 8 total) | English: 100% | Voice: 0.0%
+     Top films: Baby Driver, The Fault in Our Stars, Insurgent
+
+#65  Javier Bardem
+     Score: 20.21 | Qualifying movies: 3 (of 19 total) | English: 100% | Voice: 0.0%
+     Top films: No Country for Old Men, Pirates of the Caribbean: Dead Men Tell No Tales, Skyfall
+
+#66  Miles Teller
+     Score: 20.16 | Qualifying movies: 4 (of 12 total) | English: 100% | Voice: 0.0%
+     Top films: Whiplash, Top Gun: Maverick, Insurgent
+
+#67  Gal Gadot
+     Score: 20.15 | Qualifying movies: 4 (of 11 total) | English: 100% | Voice: 0.0%
+     Top films: Wonder Woman, Zack Snyder's Justice League, Batman v Superman: Dawn of Justice
+
+#68  Zoe Saldaña
+     Score: 20.04 | Qualifying movies: 4 (of 27 total) | English: 100% | Voice: 0.0%
+     Top films: Avatar, Guardians of the Galaxy, Guardians of the Galaxy Vol. 2
+
+#69  Michael Fassbender
+     Score: 19.84 | Qualifying movies: 6 (of 22 total) | English: 100% | Voice: 0.0%
+     Top films: X-Men: Apocalypse, Prometheus, 12 Years a Slave
+
+#70  Kevin Spacey
+     Score: 19.82 | Qualifying movies: 3 (of 23 total) | English: 100% | Voice: 0.0%
+     Top films: American Beauty, Baby Driver, The Usual Suspects
+
+#71  Robert Pattinson
+     Score: 19.63 | Qualifying movies: 3 (of 13 total) | English: 100% | Voice: 0.0%
+     Top films: The Batman, Twilight, Harry Potter and the Goblet of Fire
+
+#72  Josh Hutcherson
+     Score: 19.54 | Qualifying movies: 4 (of 20 total) | English: 100% | Voice: 0.0%
+     Top films: The Hunger Games, The Hunger Games: Catching Fire, The Hunger Games: Mockingjay - Part 1
+
+#73  Dwayne Johnson
+     Score: 19.48 | Qualifying movies: 3 (of 32 total) | English: 100% | Voice: 0.0%
+     Top films: Jumanji: Welcome to the Jungle, Furious 7, The Fate of the Furious
+
+#74  Brie Larson
+     Score: 19.46 | Qualifying movies: 3 (of 18 total) | English: 100% | Voice: 0.0%
+     Top films: Captain Marvel, 21 Jump Street, Kong: Skull Island
+
+#75  Tom Hiddleston
+     Score: 19.32 | Qualifying movies: 3 (of 9 total) | English: 100% | Voice: 0.0%
+     Top films: Kong: Skull Island, Thor, Thor: The Dark World
+
+#76  Guy Pearce
+     Score: 19.28 | Qualifying movies: 3 (of 26 total) | English: 100% | Voice: 0.0%
+     Top films: Memento, Iron Man 3, Prometheus
+
+#77  Harvey Keitel
+     Score: 19.23 | Qualifying movies: 3 (of 30 total) | English: 100% | Voice: 0.0%
+     Top films: Reservoir Dogs, Taxi Driver, Pulp Fiction
+
+#78  Orlando Bloom
+     Score: 19.18 | Qualifying movies: 6 (of 20 total) | English: 100% | Voice: 0.0%
+     Top films: Pirates of the Caribbean: Dead Man's Chest, Troy, Pirates of the Caribbean: The Curse of the Black Pearl
+
+#79  Jason Momoa
+     Score: 19.04 | Qualifying movies: 4 (of 14 total) | English: 100% | Voice: 0.0%
+     Top films: Aquaman, Dune, Zack Snyder's Justice League
+
+#80  Cillian Murphy
+     Score: 19.01 | Qualifying movies: 4 (of 19 total) | English: 100% | Voice: 0.0%
+     Top films: Oppenheimer, In Time, Dunkirk
+
+#81  Kenneth Branagh
+     Score: 18.79 | Qualifying movies: 3 (of 16 total) | English: 100% | Voice: 0.0%
+     Top films: Murder on the Orient Express, Harry Potter and the Chamber of Secrets, Dunkirk
+
+#82  Gwyneth Paltrow
+     Score: 17.55 | Qualifying movies: 5 (of 21 total) | English: 100% | Voice: 0.0%
+     Top films: Iron Man 3, Iron Man 2, Se7en
+
+#83  Willem Dafoe
+     Score: 17.06 | Qualifying movies: 7 (of 51 total) | English: 100% | Voice: 14.3%
+     Top films: Spider-Man, Aquaman, John Wick
+
+#84  Christopher Lloyd
+     Score: 16.53 | Qualifying movies: 3 (of 27 total) | English: 100% | Voice: 0.0%
+     Top films: Back to the Future, Back to the Future Part II, Back to the Future Part III
+
+#85  Anne Hathaway
+     Score: 16.34 | Qualifying movies: 4 (of 23 total) | English: 100% | Voice: 0.0%
+     Top films: Interstellar, The Devil Wears Prada, Alice in Wonderland
+
+#86  Kate Winslet
+     Score: 15.63 | Qualifying movies: 4 (of 26 total) | English: 100% | Voice: 0.0%
+     Top films: Titanic, Eternal Sunshine of the Spotless Mind, Insurgent
+
+#87  Christoph Waltz
+     Score: 15.59 | Qualifying movies: 3 (of 16 total) | English: 100% | Voice: 0.0%
+     Top films: Django Unchained, Spectre, Inglourious Basterds
+
+#88  Michael Caine
+     Score: 15.41 | Qualifying movies: 4 (of 43 total) | English: 100% | Voice: 0.0%
+     Top films: Batman Begins, Interstellar, The Prestige
+
+#89  Carrie-Anne Moss
+     Score: 15.38 | Qualifying movies: 4 (of 16 total) | English: 100% | Voice: 0.0%
+     Top films: Memento, The Matrix, The Matrix Reloaded
+
+#90  Charlize Theron
+     Score: 15.35 | Qualifying movies: 3 (of 30 total) | English: 100% | Voice: 0.0%
+     Top films: Mad Max: Fury Road, Hancock, Prometheus
+
+#91  Hugo Weaving
+     Score: 15.31 | Qualifying movies: 6 (of 25 total) | English: 100% | Voice: 0.0%
+     Top films: V for Vendetta, The Matrix, The Matrix Reloaded
+
+#92  Joe Pesci
+     Score: 15.07 | Qualifying movies: 3 (of 21 total) | English: 100% | Voice: 0.0%
+     Top films: Home Alone, Home Alone 2: Lost in New York, GoodFellas
+
+#93  Jude Law
+     Score: 15.05 | Qualifying movies: 4 (of 33 total) | English: 100% | Voice: 0.0%
+     Top films: Sherlock Holmes, Sherlock Holmes: A Game of Shadows, Captain Marvel
+
+#94  Josh Brolin
+     Score: 14.91 | Qualifying movies: 4 (of 29 total) | English: 100% | Voice: 0.0%
+     Top films: Deadpool 2, No Country for Old Men, Men in Black 3
+
+#95  Jared Leto
+     Score: 14.83 | Qualifying movies: 3 (of 18 total) | English: 100% | Voice: 0.0%
+     Top films: Suicide Squad, Requiem for a Dream, Fight Club
+
+#96  Bryce Dallas Howard
+     Score: 14.78 | Qualifying movies: 3 (of 13 total) | English: 100% | Voice: 0.0%
+     Top films: Jurassic World, Jurassic World: Fallen Kingdom, Spider-Man 3
+
+#97  James Franco
+     Score: 14.75 | Qualifying movies: 4 (of 31 total) | English: 100% | Voice: 0.0%
+     Top films: Rise of the Planet of the Apes, Spider-Man 2, Spider-Man 3
+
+#98  Kaya Scodelario
+     Score: 14.68 | Qualifying movies: 3 (of 11 total) | English: 100% | Voice: 0.0%
+     Top films: The Maze Runner, Maze Runner: The Scorch Trials, Pirates of the Caribbean: Dead Men Tell No Tales
+
+#99  Rachel McAdams
+     Score: 14.47 | Qualifying movies: 4 (of 19 total) | English: 100% | Voice: 0.0%
+     Top films: The Notebook, Doctor Strange, Sherlock Holmes
+
+#100 Keira Knightley
+     Score: 14.40 | Qualifying movies: 4 (of 20 total) | English: 100% | Voice: 0.0%
+     Top films: The Imitation Game, Pirates of the Caribbean: Dead Man's Chest, Pirates of the Caribbean: The Curse of the Black Pearl
