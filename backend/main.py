@@ -1,10 +1,9 @@
-import os, io, base64, json, hashlib, unicodedata, random, pickle
+import os, json, hashlib, unicodedata, random, pickle
 from uuid import uuid4
-from typing import Dict
+from typing import Dict, Optional, List
 from collections import defaultdict
 
 import networkx as nx
-import matplotlib.pyplot as plt
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
@@ -204,52 +203,76 @@ class GuessInput(BaseModel):
     movie_id: int  # CHANGED: Use TMDb movie ID instead of title string
     actor: str
 
+# New Pydantic models for PRD-compliant API
+class ActorNode(BaseModel):
+    id: str
+    name: str
+    imageUrl: Optional[str]
+
+class MovieConnector(BaseModel):
+    id: int
+    title: str
+    posterUrl: Optional[str]
+
+class PathSegment(BaseModel):
+    movie: MovieConnector
+    actor: ActorNode
+
+class GamePath(BaseModel):
+    startActor: ActorNode
+    targetActor: ActorNode
+    segments: List[PathSegment]
+
+class NewGuessInput(BaseModel):
+    movieId: int
+    actorName: str
+
+class CreateGameResponse(BaseModel):
+    gameId: str
+    startActor: ActorNode
+    targetActor: ActorNode
+    path: GamePath
+
+class GuessResponse(BaseModel):
+    success: bool
+    message: str
+    path: GamePath
+    state: dict
+
 games: Dict[str, MovieConnectionGame] = {}
 
 # ---------- Helpers ----------
-def render_current_path(graph, actor_path, movies_used):
-    """
-    Render path visualization for actor-actor graph.
+def build_actor_node_dict(actor_id: str) -> dict:
+    """Extract actor data from graph node."""
+    data = GRAPH.nodes[actor_id]
+    return {
+        "id": actor_id,
+        "name": data.get('name', actor_id.split('_')[-1]),
+        "imageUrl": data.get('image') or tmdb_img(data.get('profile_path'), 'w185')
+    }
 
-    Shows: Actor1 -> Actor2 -> Actor3...
-    Optionally shows movie names as edge labels.
+def build_movie_dict(movie_id: int, movie_data: dict) -> dict:
+    """Build movie connector from movie data."""
+    return {
+        "id": movie_id,
+        "title": movie_data.get('title', 'Unknown'),
+        "posterUrl": tmdb_img(movie_data.get('poster_path'), 'w500')
+    }
 
-    Args:
-        graph: NetworkX actor-actor graph
-        actor_path: List of actor node IDs
-        movies_used: List of movie dicts used between actors
-    """
-    if len(actor_path) < 2:
-        # Single actor, no path yet - create minimal visualization
-        sub = graph.subgraph([actor_path[0]]) if actor_path else nx.Graph()
-    else:
-        sub = graph.subgraph(actor_path)
+def build_path_response(game: MovieConnectionGame) -> dict:
+    """Convert game state to frontend path structure."""
+    segments = []
+    for i, movie in enumerate(game.movies_used):
+        segments.append({
+            "movie": build_movie_dict(movie['id'], movie),
+            "actor": build_actor_node_dict(game.path[i + 1])
+        })
 
-    pos = nx.spring_layout(sub, seed=42)
-    plt.figure(figsize=(10, 6))
-    plt.title("CineLinks – Current Path", fontsize=14)
-
-    # All nodes are actors (sky blue)
-    node_colors = ['skyblue' for _ in sub.nodes()]
-    labels = {n: graph.nodes[n].get('name', n.split('_')[-1]) for n in sub.nodes()}
-
-    nx.draw(sub, pos, labels=labels, node_color=node_colors,
-            with_labels=True, node_size=2500, font_size=9,
-            edge_color='gray', width=2)
-
-    # Optional: Add edge labels with movie names
-    if len(movies_used) > 0 and len(actor_path) > 1:
-        edge_labels = {}
-        for i in range(len(movies_used)):
-            if i + 1 < len(actor_path):
-                edge_labels[(actor_path[i], actor_path[i+1])] = movies_used[i]['title'][:20]
-        nx.draw_networkx_edge_labels(sub, pos, edge_labels, font_size=7)
-
-    buf = io.BytesIO()
-    plt.savefig(buf, format='png', bbox_inches='tight', dpi=100)
-    plt.close()
-    buf.seek(0)
-    return base64.b64encode(buf.read()).decode('utf-8')
+    return {
+        "startActor": build_actor_node_dict(game.start),
+        "targetActor": build_actor_node_dict(game.target),
+        "segments": segments
+    }
 
 def graph_not_ready_response():
     return JSONResponse(
@@ -286,76 +309,6 @@ def meta():
         "checksum": GRAPH_CHECKSUM
     }
 
-@app.get("/start_game")
-def start_game():
-    if not GRAPH_READY:
-        return graph_not_ready_response()
-
-    # Select from starting pool only
-    starting_pool = [n for n, d in GRAPH.nodes(data=True) if d.get('in_starting_pool', False)]
-
-    if len(starting_pool) < 2:
-        # Fallback: use all actors if starting pool not available
-        starting_pool = list(GRAPH.nodes())
-
-    for _ in range(100):
-        a1, a2 = random.sample(starting_pool, 2)
-
-        if not GRAPH.has_edge(a1, a2):
-            game_id = str(uuid4())
-            games[game_id] = MovieConnectionGame(
-                GRAPH, a1, a2,
-                max_incorrect_guesses=3,
-                resolve_actor=resolve_actor_nodes,
-                resolve_movie=resolve_movie_nodes,
-                actor_movie_index=ACTOR_MOVIE_INDEX,  # NEW: Pass comprehensive index
-            )
-            d1, d2 = GRAPH.nodes[a1], GRAPH.nodes[a2]
-            return {
-                "game_id": game_id,
-                "game_name": "CineLinks",
-                "start_actor": {
-                    "name": d1.get("name"),
-                    "image": d1.get("image")
-                },
-                "target_actor": {
-                    "name": d2.get("name"),
-                    "image": d2.get("image")
-                },
-            }
-
-    raise HTTPException(status_code=500, detail="Failed to find a valid actor pair")
-
-@app.post("/guess")
-def guess(input: GuessInput):
-    if not GRAPH_READY:
-        return graph_not_ready_response()
-    game = games.get(input.game_id)
-    if not game:
-        raise HTTPException(status_code=404, detail="Game not found.")
-
-    success, message, poster_url = game.guess(input.movie_id, input.actor)  # CHANGED: Pass movie_id
-
-    # Pass actor path and movies_used to visualization
-    image_data = render_current_path(GRAPH, game.path, game.movies_used)
-
-    return {
-        "success": success,
-        "message": message,
-        "poster_url": poster_url,
-        "graph_image_base64": image_data,
-        "state": game.get_state()
-    }
-
-@app.get("/state")
-def state(game_id: str = Query(...)):
-    if not GRAPH_READY:
-        return graph_not_ready_response()
-    game = games.get(game_id)
-    if not game:
-        raise HTTPException(status_code=404, detail="Game not found.")
-    return game.get_state()
-
 @app.get("/autocomplete/actors")
 def autocomplete_actors(q: str = Query(..., min_length=1), limit: int = 10):
     if not GRAPH_READY:
@@ -391,6 +344,115 @@ def autocomplete_movies(q: str = Query(..., min_length=1), limit: int = 10):
                 break
 
     return {"query": q, "results": out}
+
+# ---------- New PRD-Compliant API Endpoints ----------
+@app.post("/api/game")
+def create_game():
+    """Create new game with random actor pair."""
+    if not GRAPH_READY:
+        return graph_not_ready_response()
+
+    # Select from starting pool (high-quality, well-known actors only)
+    starting_actors = [n for n in GRAPH.nodes() if GRAPH.nodes[n].get('in_starting_pool', False)]
+
+    if len(starting_actors) < 2:
+        raise HTTPException(status_code=500, detail="Not enough starting actors")
+
+    # Try to find two actors that aren't directly connected
+    for _ in range(100):
+        start, target = random.sample(starting_actors, 2)
+        if not GRAPH.has_edge(start, target):
+            break
+    else:
+        # Fallback: use any two actors if all are connected
+        start, target = random.sample(starting_actors, 2)
+
+    game_id = str(uuid4())
+    games[game_id] = MovieConnectionGame(
+        GRAPH, start, target,
+        max_incorrect_guesses=3,
+        resolve_actor=resolve_actor_nodes,
+        resolve_movie=resolve_movie_nodes,
+        actor_movie_index=ACTOR_MOVIE_INDEX,
+    )
+
+    return {
+        "gameId": game_id,
+        "startActor": build_actor_node_dict(start),
+        "targetActor": build_actor_node_dict(target),
+        "path": {
+            "startActor": build_actor_node_dict(start),
+            "targetActor": build_actor_node_dict(target),
+            "segments": []
+        }
+    }
+
+@app.post("/api/game/{game_id}/guess")
+def submit_guess(game_id: str, input: NewGuessInput):
+    """Submit movie + actor guess."""
+    if not GRAPH_READY:
+        return graph_not_ready_response()
+
+    game = games.get(game_id)
+    if not game:
+        raise HTTPException(status_code=404, detail="Game not found")
+
+    # Validate guess using existing logic
+    success, message, poster_url = game.guess(input.movieId, input.actorName)
+
+    return {
+        "success": success,
+        "message": message,
+        "path": build_path_response(game),
+        "state": {
+            "completed": game.completed,
+            "totalGuesses": game.total_guesses,
+            "incorrectGuesses": game.incorrect_guesses,
+            "remainingAttempts": game.max_incorrect - game.incorrect_guesses
+        }
+    }
+
+@app.get("/api/game/{game_id}/optimal-path")
+def get_optimal_path(game_id: str):
+    """Compute shortest path using NetworkX."""
+    if not GRAPH_READY:
+        return graph_not_ready_response()
+
+    game = games.get(game_id)
+    if not game:
+        raise HTTPException(status_code=404, detail="Game not found")
+
+    if not game.completed:
+        raise HTTPException(status_code=400, detail="Complete the game first")
+
+    # Compute shortest path
+    try:
+        actor_path = nx.shortest_path(GRAPH, game.start, game.target)
+    except nx.NetworkXNoPath:
+        raise HTTPException(status_code=500, detail="No path exists")
+
+    # Build segments
+    segments = []
+    for i in range(len(actor_path) - 1):
+        current_actor = actor_path[i]
+        next_actor = actor_path[i + 1]
+
+        edge_data = GRAPH.edges[current_actor, next_actor]
+        movies = edge_data.get('movies', [])
+
+        # Pick most popular movie
+        if movies:
+            movie = max(movies, key=lambda m: m.get('popularity', 0))
+            segments.append({
+                "movie": build_movie_dict(movie['id'], movie),
+                "actor": build_actor_node_dict(next_actor)
+            })
+
+    return {
+        "startActor": build_actor_node_dict(game.start),
+        "targetActor": build_actor_node_dict(game.target),
+        "segments": segments
+    }
 
 # ---------- Initialize ----------
 try:

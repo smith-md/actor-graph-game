@@ -65,10 +65,12 @@ These actors never appear in the same movie directly, so you'll need to find a p
 ### Valid Moves
 
 A move is valid when:
-1. The **movie** exists in the database
-2. The **current actor** appeared in that movie
-3. The **new actor** also appeared in that movie
-4. Both actor and movie are found in the CineLinks graph
+1. The **movie** (by TMDb ID) exists in the comprehensive movie index
+2. The **current actor** appeared in that movie (verified from comprehensive filmography)
+3. The **new actor** also appeared in that movie (verified from comprehensive filmography)
+4. Both actors are connected in the CineLinks actor-actor graph (neighbors)
+
+**Note**: The game uses a comprehensive index of ALL filmographies, so even lesser-known shared movies between actors are valid!
 
 ### Invalid Moves
 
@@ -84,15 +86,21 @@ Common reasons moves fail:
 
 ### The Path
 
-Your path through the game looks like this:
+Your path through the game tracks actors you've visited:
 
 ```
-Actor 1 → Movie A → Actor 2 → Movie B → Actor 3 → Movie C → Target Actor
+Actor 1 → Actor 2 → Actor 3 → Target Actor
 ```
 
-Each move adds two nodes to your path:
-1. A movie node
-2. An actor node
+The movies you use to connect them are tracked separately in `movies_used`.
+
+For example, if you go:
+- Tom Hanks → (via "The Avengers") → Robert Downey Jr.
+- Robert Downey Jr. → (via "Iron Man 2") → Scarlett Johansson
+
+Your path is: `[Tom Hanks, Robert Downey Jr., Scarlett Johansson]`
+
+Your movies_used are: `["The Avengers", "Iron Man 2"]`
 
 ### Attempts
 
@@ -231,14 +239,17 @@ Or find a shorter path using less obvious connections!
 ### Know Your Graph
 
 The CineLinks graph contains:
-- **~150 actors** (popular, well-connected actors)
-- **~2,700 movies** (movies with 2+ actors from our list)
-- **~8,500 connections** (actor-movie pairs)
+- **~9,720 total actors** from popular movies
+- **~1,000 playable actors** (selected by centrality - well-connected)
+- **~100 starting pool actors** (selected by StartActorScore - most recognizable)
+- **~1,681 movies** in the comprehensive index
+- **~71,565 connections** (actor-to-actor collaborations)
 
 This means:
 - Not every actor is in the database
 - Not every movie is included
-- Focus on popular, recent actors and blockbusters
+- Focus on popular, recognizable actors and blockbusters
+- Starting actor pairs are always from the 100 most recognizable actors
 
 ### Common "Hub" Actors
 
@@ -334,7 +345,7 @@ While not currently implemented, here are fun variants:
 
 ### Q: Why isn't [Actor Name] in the game?
 
-**A**: The game uses ~150 popular actors from TMDb. Less popular actors or those with few film credits aren't included in the graph.
+**A**: The game prioritizes recognizable actors for starting pairs (100 actors selected by StartActorScore). Less popular actors might be in the full graph (~9,720 actors) but won't appear as starting/target actors. Use autocomplete to see what's available.
 
 ### Q: I know this actor was in this movie, why doesn't it work?
 
