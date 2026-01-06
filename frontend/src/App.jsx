@@ -1,4 +1,4 @@
-import { useEffect, useState, useRef } from "react";
+import React, { useEffect, useState, useRef } from "react";
 
 const API = import.meta.env.VITE_API_URL || "http://localhost:8000";
 
@@ -10,8 +10,9 @@ export default function App() {
   const [actor, setActor] = useState("");
   const [message, setMessage] = useState("");
   const [messageType, setMessageType] = useState("");
-  const [posterUrl, setPosterUrl] = useState("");
-  const [graphImg, setGraphImg] = useState("");
+  const [path, setPath] = useState(null);  // NEW: Full path structure
+  const [optimalPath, setOptimalPath] = useState(null);  // NEW: Optimal path for comparison
+  const [showOptimalPath, setShowOptimalPath] = useState(false);  // NEW: Toggle for optimal path display
   const [state, setState] = useState(null);
   const [loading, setLoading] = useState(false);
   const [healthStatus, setHealthStatus] = useState(null);
@@ -26,6 +27,8 @@ export default function App() {
 
   useEffect(() => {
     checkHealth();
+    // Auto-start game when page loads
+    startGame();
   }, []);
 
   const checkHealth = async () => {
@@ -43,22 +46,24 @@ export default function App() {
     setLoading(true);
     setMessage("");
     setMessageType("");
-    setPosterUrl("");
-    setGraphImg("");
+    setPath(null);
+    setOptimalPath(null);
+    setShowOptimalPath(false);
     setState(null);
-    setMovie(null);  // CHANGED: Reset to null
+    setMovie(null);
     setActor("");
-    
+
     try {
-      const res = await fetch(`${API}/start_game`);
+      const res = await fetch(`${API}/api/game`, { method: 'POST' });
       if (!res.ok) {
         const error = await res.json();
         throw new Error(error.message || "Failed to start game");
       }
       const data = await res.json();
-      setGameId(data.game_id);
-      setStart(data.start_actor);
-      setTarget(data.target_actor);
+      setGameId(data.gameId);
+      setStart(data.startActor);
+      setTarget(data.targetActor);
+      setPath(data.path);
     } catch (err) {
       setMessage(err.message || "Backend not ready. Try again in a moment.");
       setMessageType("error");
@@ -67,7 +72,7 @@ export default function App() {
     }
   };
 
-  const submitGuess = (e) => {
+  const submitGuess = async (e) => {
     if (e) e.preventDefault();
     if (!gameId || !movie || !actor) return;
 
@@ -75,41 +80,50 @@ export default function App() {
     setMessage("");
     setMessageType("");
 
-    fetch(`${API}/guess`, {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ game_id: gameId, movie_id: movie.movie_id, actor }),  // CHANGED: Send movie_id
-    })
-      .then(async (res) => {
-        const data = await res.json();
-        if (!res.ok) throw new Error(data.message || "Request failed");
-        return data;
-      })
-      .then((data) => {
-        // Only show message on win - suppress incorrect guess messages
-        if (data.state && data.state.completed) {
-          setMessage(data.message);
-          setMessageType("success");
-        }
-        // Don't show error messages for incorrect guesses
-
-        if (data.poster_url) setPosterUrl(data.poster_url);
-        if (data.graph_image_base64) {
-          setGraphImg(`data:image/png;base64,${data.graph_image_base64}`);
-        }
-        if (data.state) setState(data.state);
-        if (data.success) {
-          setMovie(null);  // CHANGED: Reset to null
-          setActor("");
-        }
-      })
-      .catch((err) => {
-        setMessage(err.message || "Network error. Please retry.");
-        setMessageType("error");
-      })
-      .finally(() => {
-        setLoading(false);
+    try {
+      const res = await fetch(`${API}/api/game/${gameId}/guess`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ movieId: movie.movie_id, actorName: actor }),
       });
+
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.message || "Request failed");
+
+      // Update path and state
+      setPath(data.path);
+      setState(data.state);
+
+      // Show success message only on win
+      if (data.state && data.state.completed) {
+        setMessage("🎉 You won!");
+        setMessageType("success");
+      }
+
+      // Reset inputs on successful guess
+      if (data.success) {
+        setMovie(null);
+        setActor("");
+      }
+    } catch (err) {
+      setMessage(err.message || "Network error. Please retry.");
+      setMessageType("error");
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const fetchOptimalPath = async () => {
+    try {
+      const res = await fetch(`${API}/api/game/${gameId}/optimal-path`);
+      const data = await res.json();
+      if (!res.ok) throw new Error(data.message || "Failed to fetch optimal path");
+      setOptimalPath(data);
+      setShowOptimalPath(!showOptimalPath);
+    } catch (err) {
+      setMessage(err.message || "Failed to fetch optimal path");
+      setMessageType("error");
+    }
   };
 
   const fetchActorSuggestions = async (text) => {
@@ -172,13 +186,12 @@ export default function App() {
   }, [movie]);
 
   return (
-    <div style={{
+    <div className="app-container" style={{
       minHeight: '100vh',
       backgroundColor: '#ffffff',
       display: 'flex',
       alignItems: 'center',
       justifyContent: 'center',
-      padding: '32px',
       fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
     }}>
       <div style={{ width: '100%', maxWidth: '1000px' }}>
@@ -209,63 +222,27 @@ export default function App() {
           overflow: 'hidden'
         }}>
           <div style={{ padding: '48px' }}>
-            {!gameId ? (
+            {loading && !gameId ? (
               <div style={{
                 display: 'flex',
                 flexDirection: 'column',
                 alignItems: 'center',
                 justifyContent: 'center',
-                paddingTop: '20px',
-                paddingBottom: '20px'
+                paddingTop: '60px',
+                paddingBottom: '60px'
               }}>
-                <button
-                  onClick={startGame}
-                  disabled={loading || (healthStatus && !healthStatus.ready)}
-                  style={{
-                    padding: '24px 64px',
-                    backgroundColor: '#111827',
-                    color: '#ffffff',
-                    fontSize: '20px',
-                    fontWeight: '300',
-                    borderRadius: '9999px',
-                    border: 'none',
-                    cursor: loading || (healthStatus && !healthStatus.ready) ? 'not-allowed' : 'pointer',
-                    opacity: loading || (healthStatus && !healthStatus.ready) ? 0.5 : 1,
-                    transition: 'all 0.2s',
-                  }}
-                  onMouseEnter={(e) => {
-                    if (!loading && healthStatus?.ready !== false) {
-                      e.target.style.backgroundColor = '#1f2937';
-                    }
-                  }}
-                  onMouseLeave={(e) => {
-                    e.target.style.backgroundColor = '#111827';
-                  }}
-                >
-                  {loading ? "Starting..." : "Start New Game"}
-                </button>
-                
-                <DifficultySelector />
-                
-                {message && (
-                  <div style={{
-                    marginTop: '32px',
-                    padding: '20px 24px',
-                    borderRadius: '16px',
-                    textAlign: 'center',
-                    maxWidth: '448px',
-                    backgroundColor: messageType === "error" ? '#fef2f2' : '#eff6ff',
-                    color: messageType === "error" ? '#991b1b' : '#1e3a8a',
-                    border: messageType === "error" ? '1px solid #fecaca' : '1px solid #bfdbfe'
-                  }}>
-                    <p style={{ fontSize: '16px', fontWeight: '300' }}>{message}</p>
-                  </div>
-                )}
+                <p style={{
+                  color: '#6b7280',
+                  fontSize: '18px',
+                  fontWeight: '300'
+                }}>
+                  Starting game...
+                </p>
               </div>
-            ) : (
+            ) : gameId ? (
               <div style={{ display: 'flex', flexDirection: 'column', gap: '48px' }}>
                 {/* Actor Display - Side by Side with Inline Styles */}
-                <div style={{
+                <div className="actor-display-container" style={{
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
@@ -487,60 +464,66 @@ export default function App() {
                   </div>
                 )}
 
-                {/* Results - Centered */}
-                <div style={{ display: 'flex', flexDirection: 'column', gap: '32px' }}>
-                  {posterUrl && (
-                    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-                      <h3 style={{
-                        fontSize: '14px',
-                        fontWeight: '300',
-                        color: '#6b7280',
-                        marginBottom: '16px'
-                      }}>
-                        Movie Poster
-                      </h3>
-                      <img
-                        src={posterUrl}
-                        alt="Movie Poster"
-                        style={{
-                          maxWidth: '300px',
-                          borderRadius: '16px',
-                          border: '1px solid #e5e7eb',
-                          boxShadow: '0 1px 3px 0 rgb(0 0 0 / 0.1)'
-                        }}
-                      />
-                    </div>
-                  )}
+                {/* Path Visualization */}
+                {path && (
+                  <div style={{ marginTop: '32px' }}>
+                    <PathVisualization path={path} isOptimal={false} />
+                  </div>
+                )}
 
-                  {graphImg && (
-                    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
-                      <h3 style={{
-                        fontSize: '14px',
-                        fontWeight: '300',
-                        color: '#6b7280',
-                        marginBottom: '16px'
-                      }}>
-                        Connection Path
-                      </h3>
-                      <img
-                        src={graphImg}
-                        alt="Connection Graph"
-                        style={{
-                          width: '100%',
-                          maxWidth: '900px',
-                          borderRadius: '16px',
-                          border: '1px solid #e5e7eb',
-                          boxShadow: '0 1px 3px 0 rgb(0 0 0 / 0.1)',
-                          backgroundColor: '#ffffff',
-                          padding: '32px'
-                        }}
-                      />
-                    </div>
-                  )}
-                </div>
+                {/* Post-win controls */}
+                {state?.completed && state?.incorrectGuesses < 3 && (
+                  <div style={{ textAlign: 'center', marginTop: '32px', display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
+                    <button
+                      onClick={fetchOptimalPath}
+                      style={{
+                        padding: '16px 32px',
+                        backgroundColor: '#10b981',
+                        color: '#ffffff',
+                        borderRadius: '12px',
+                        border: 'none',
+                        cursor: 'pointer',
+                        fontSize: '16px',
+                        fontWeight: '500',
+                        transition: 'all 0.2s'
+                      }}
+                      onMouseEnter={(e) => {
+                        e.target.style.backgroundColor = '#059669';
+                      }}
+                      onMouseLeave={(e) => {
+                        e.target.style.backgroundColor = '#10b981';
+                      }}
+                    >
+                      {showOptimalPath ? 'Hide Optimal Path' : 'Show Optimal Path'}
+                    </button>
 
-                {/* New Game Button - Centered */}
-                {state && state.completed && (
+                    <button
+                      onClick={startGame}
+                      style={{
+                        padding: '16px 48px',
+                        backgroundColor: '#111827',
+                        color: '#ffffff',
+                        fontWeight: '300',
+                        borderRadius: '9999px',
+                        border: 'none',
+                        cursor: 'pointer',
+                        fontSize: '18px',
+                        transition: 'all 0.2s'
+                      }}
+                      onMouseEnter={(e) => {
+                        e.target.style.backgroundColor = '#1f2937';
+                      }}
+                      onMouseLeave={(e) => {
+                        e.target.style.backgroundColor = '#111827';
+                      }}
+                    >
+                      New Game
+                    </button>
+                  </div>
+                )}
+
+                {/* New Game Button for game over (loss) */}
+                {state?.completed && state?.incorrectGuesses >= 3 && (
                   <div style={{ textAlign: 'center', paddingTop: '32px' }}>
                     <button
                       onClick={startGame}
@@ -566,6 +549,57 @@ export default function App() {
                     </button>
                   </div>
                 )}
+
+                {/* Optimal path comparison */}
+                {showOptimalPath && optimalPath && (
+                  <div style={{ marginTop: '60px', padding: '20px', backgroundColor: '#1f2937', borderRadius: '12px' }}>
+                    <h3 style={{ textAlign: 'center', color: '#f3f4f6', marginBottom: '20px' }}>
+                      Your Path: {path.segments.length} moves
+                    </h3>
+                    <PathVisualization path={path} isOptimal={false} />
+
+                    <h3 style={{ textAlign: 'center', color: '#10b981', marginTop: '40px', marginBottom: '20px' }}>
+                      Optimal Path: {optimalPath.segments.length} moves
+                    </h3>
+                    <PathVisualization path={optimalPath} isOptimal={true} />
+                  </div>
+                )}
+              </div>
+            ) : null}
+
+            {/* Error message if game failed to load */}
+            {!loading && !gameId && message && (
+              <div style={{
+                textAlign: 'center',
+                padding: '60px 20px'
+              }}>
+                <div style={{
+                  padding: '20px 32px',
+                  borderRadius: '16px',
+                  maxWidth: '448px',
+                  margin: '0 auto',
+                  backgroundColor: messageType === "error" ? '#fef2f2' : '#eff6ff',
+                  color: messageType === "error" ? '#991b1b' : '#1e3a8a',
+                  border: messageType === "error" ? '1px solid #fecaca' : '1px solid #bfdbfe'
+                }}>
+                  <p style={{ fontSize: '16px', fontWeight: '300', marginBottom: '16px' }}>{message}</p>
+                  <button
+                    onClick={startGame}
+                    style={{
+                      padding: '12px 24px',
+                      backgroundColor: '#111827',
+                      color: '#ffffff',
+                      fontSize: '16px',
+                      fontWeight: '300',
+                      borderRadius: '12px',
+                      border: 'none',
+                      cursor: 'pointer',
+                      transition: 'all 0.2s'
+                    }}
+                  >
+                    Try Again
+                  </button>
+                </div>
               </div>
             )}
           </div>
@@ -576,75 +610,202 @@ export default function App() {
   );
 }
 
-function DifficultySelector() {
-  const [difficulty, setDifficulty] = useState('Easy');
-  const options = ['Easy', 'Normal', 'Hard', 'Genius'];
-  
+function PathVisualization({ path, isOptimal = false }) {
+  if (!path) return null;
+
+  const segments = path.segments || [];
+
   return (
     <div style={{
-      display: 'flex',
-      gap: '12px',
-      marginTop: '32px',
-      padding: '6px',
-      backgroundColor: '#f9fafb',
-      borderRadius: '12px',
-      border: '1px solid #e5e7eb'
+      padding: '180px 20px 80px 20px',
+      overflowX: 'auto',
+      overflowY: 'visible'
     }}>
-      {options.map((option) => (
-        <button
-          key={option}
-          onClick={() => setDifficulty(option)}
-          style={{
-            padding: '10px 20px',
-            backgroundColor: difficulty === option ? '#111827' : 'transparent',
-            color: difficulty === option ? '#ffffff' : '#6b7280',
-            fontSize: '14px',
-            fontWeight: '300',
-            borderRadius: '8px',
-            border: 'none',
-            cursor: 'pointer',
-            transition: 'all 0.2s',
-            fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
-          }}
-          onMouseEnter={(e) => {
-            if (difficulty !== option) {
-              e.target.style.backgroundColor = '#f3f4f6';
-            }
-          }}
-          onMouseLeave={(e) => {
-            if (difficulty !== option) {
-              e.target.style.backgroundColor = 'transparent';
-            }
-          }}
-        >
-          {option}
-        </button>
-      ))}
+      <div style={{
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'flex-start',
+        gap: '0',
+        minWidth: 'fit-content',
+        position: 'relative'
+      }}>
+        {/* Start Actor */}
+        <ActorNodeInPath actor={path.startActor} index={0} />
+
+        {/* Segments (movie + actor pairs) */}
+        {segments.map((segment, i) => (
+          <React.Fragment key={i}>
+            <MovieSegment
+              movie={segment.movie}
+              index={i}
+              isOptimal={isOptimal}
+            />
+            <ActorNodeInPath actor={segment.actor} index={i + 1} />
+          </React.Fragment>
+        ))}
+      </div>
     </div>
   );
 }
 
-function ActorCard({ actor }) {
+function ActorNodeInPath({ actor, index = 0 }) {
   return (
     <div style={{
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center',
+      gap: '8px',
+      animation: `slideIn 0.3s ease-out ${index * 0.1}s both`
+    }}>
+      {/* Actor Image */}
+      <div className="path-actor-node" style={{
+        borderRadius: '50%',
+        overflow: 'hidden',
+        border: '3px solid #1f2937',
+        boxShadow: '0 4px 6px rgba(0,0,0,0.2)',
+        backgroundColor: '#374151'
+      }}>
+        {actor.imageUrl ? (
+          <img
+            src={actor.imageUrl}
+            alt={actor.name}
+            style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+          />
+        ) : (
+          <div style={{
+            width: '100%',
+            height: '100%',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            color: '#9ca3af',
+            fontSize: '24px',
+            fontWeight: 'bold'
+          }}>
+            {actor.name.charAt(0)}
+          </div>
+        )}
+      </div>
+
+      {/* Actor Name */}
+      <div className="path-actor-name" style={{
+        fontWeight: '500',
+        color: '#1f2937',
+        textAlign: 'center',
+        lineHeight: '1.2'
+      }}>
+        {actor.name}
+      </div>
+    </div>
+  );
+}
+
+function MovieSegment({ movie, index, isOptimal = false }) {
+  // Alternate movies above (even index) and below (odd index) the center line
+  const isAbove = index % 2 === 0;
+  const lineColor = isOptimal ? '#10b981' : '#6b7280';
+
+  return (
+    <div style={{
+      position: 'relative',
+      display: 'flex',
+      alignItems: 'center',
+      height: '280px', // Increased height to prevent overlap
+      animation: `slideIn 0.3s ease-out ${index * 0.15}s both`
+    }}>
+      {/* Horizontal line through center */}
+      <div style={{
+        width: '80px',
+        height: '2px',
+        backgroundColor: lineColor,
+        position: 'relative',
+        zIndex: 1
+      }}>
+        {/* Vertical connector line - positioned at center of horizontal line */}
+        <div style={{
+          position: 'absolute',
+          left: '50%',
+          top: isAbove ? '-90px' : '0',
+          transform: 'translateX(-50%)',
+          width: '2px',
+          height: '90px',
+          backgroundColor: lineColor
+        }} />
+
+        {/* Movie box - positioned at end of vertical connector */}
+        <div style={{
+          position: 'absolute',
+          left: '50%',
+          transform: 'translateX(-50%)',
+          top: isAbove ? '-250px' : '90px',
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          gap: '6px'
+        }}>
+          {/* Movie Poster Box */}
+          <div className="path-movie-poster" style={{
+            borderRadius: '8px',
+            overflow: 'hidden',
+            boxShadow: '0 4px 6px rgba(0,0,0,0.2)',
+            border: `2px solid ${isOptimal ? '#10b981' : '#374151'}`,
+            backgroundColor: '#1f2937'
+          }}>
+            {movie.posterUrl ? (
+              <img
+                src={movie.posterUrl}
+                alt={movie.title}
+                style={{
+                  width: '100%',
+                  height: 'auto',
+                  display: 'block'
+                }}
+              />
+            ) : (
+              <div style={{
+                width: '100%',
+                aspectRatio: '2/3',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                backgroundColor: '#374151',
+                color: '#9ca3af',
+                fontSize: '12px',
+                padding: '8px',
+                textAlign: 'center'
+              }}>
+                {movie.title}
+              </div>
+            )}
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+
+function ActorCard({ actor }) {
+  // Support both old and new API formats (image and imageUrl)
+  const imageUrl = actor?.imageUrl || actor?.image;
+
+  return (
+    <div className="actor-card" style={{
+      display: 'flex',
+      flexDirection: 'column',
+      alignItems: 'center',
       gap: '16px',
-      padding: '24px',
       backgroundColor: '#f9fafb',
       borderRadius: '24px',
       border: '1px solid #e5e7eb',
-      width: '256px',
       flexShrink: 0
     }}>
-      {actor?.image && (
+      {imageUrl && (
         <img
-          src={actor.image}
+          src={imageUrl}
           alt={actor?.name}
+          className="actor-card-image"
           style={{
-            width: '128px',
-            height: '128px',
             borderRadius: '16px',
             objectFit: 'cover',
             border: '2px solid #e5e7eb',
@@ -652,8 +813,7 @@ function ActorCard({ actor }) {
           }}
         />
       )}
-      <span style={{
-        fontSize: '20px',
+      <span className="actor-card-name" style={{
         fontWeight: '300',
         color: '#111827',
         textAlign: 'center',
