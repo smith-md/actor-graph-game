@@ -17,6 +17,7 @@ import time
 import argparse
 import random
 import math
+import json
 from collections import defaultdict
 from dotenv import load_dotenv
 import requests
@@ -27,19 +28,65 @@ load_dotenv()
 
 API_KEY = os.getenv("TMDB_API_KEY")
 BASE_URL = "https://api.themoviedb.org/3"
+CACHE_DIR = "tmdb_cache"
 
-def fetch_popular_movies(min_votes=100, max_pages=100):
+# Starting Pool Filter Thresholds (applied to top 100 selection only)
+MIN_ENGLISH_LANGUAGE_PERCENT = 80.0  # % of movies that must be English-language
+MAX_VOICE_ACTING_PERCENT = 20.0      # Max % of roles that can be voice acting
+STARTING_MIN_VOTE_COUNT = 7000       # Middle ground: moderate expansion without flooding
+STARTING_MIN_ELIGIBLE_CREDITS = 3    # Lowered from 5 for broader coverage
+
+
+def get_cache_path(cache_type, min_votes=None, max_pages=None):
+    """Generate cache file path based on parameters."""
+    if cache_type == "movies":
+        return os.path.join(CACHE_DIR, f"movies_minvotes{min_votes}_pages{max_pages}.json")
+    return os.path.join(CACHE_DIR, f"{cache_type}.json")
+
+
+def load_from_cache(cache_path):
+    """Load data from cache file if it exists."""
+    if os.path.exists(cache_path):
+        print(f"[CACHE] Loading from cache: {cache_path}")
+        with open(cache_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+        print(f"[CACHE] Loaded {len(data)} items from cache")
+        return data
+    return None
+
+
+def save_to_cache(cache_path, data):
+    """Save data to cache file."""
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    print(f"[CACHE] Saving {len(data)} items to cache: {cache_path}")
+    with open(cache_path, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"[CACHE] Cache saved successfully")
+
+
+def fetch_popular_movies(min_votes=100, max_pages=100, use_cache=True, refresh_cache=False):
     """
     Fetch popular movies from TMDb (global).
 
     Args:
         min_votes: Minimum vote count threshold
         max_pages: Maximum pages to fetch
+        use_cache: Whether to use cached data if available
+        refresh_cache: Force re-fetch even if cache exists
 
     Returns:
         List of movie dicts with id, title, popularity, etc.
     """
     print(f"\n=== Fetching Popular Movies (min {min_votes} votes, up to {max_pages} pages) ===")
+
+    # Check cache first (unless refresh requested)
+    cache_path = get_cache_path("movies", min_votes, max_pages)
+    if use_cache and not refresh_cache:
+        cached_movies = load_from_cache(cache_path)
+        if cached_movies is not None:
+            return cached_movies
+
+    # Fetch from API
     movies = []
     page = 1
 
@@ -80,6 +127,11 @@ def fetch_popular_movies(min_votes=100, max_pages=100):
             break
 
     print(f"OK: Fetched {len(movies)} movies (global popular)\n")
+
+    # Save to cache for future use
+    if use_cache and movies:
+        save_to_cache(cache_path, movies)
+
     return movies
 
 
@@ -124,7 +176,8 @@ def extract_cast_from_movies(movies, top_n_cast=10):
                     "id": person["id"],
                     "name": person["name"],
                     "profile_path": person.get("profile_path"),
-                    "cast_order": person.get("order", 999)  # NEW: Billing position
+                    "cast_order": person.get("order", 999),  # NEW: Billing position
+                    "character": person.get("character", "")  # NEW: For voice acting detection
                 })
 
             if cast_list:
@@ -135,7 +188,8 @@ def extract_cast_from_movies(movies, top_n_cast=10):
                     "vote_count": details_data.get("vote_count", 0),  # NEW: For StartActorScore
                     "poster_path": details_data.get("poster_path"),  # Added for completeness
                     "cast": cast_list,
-                    "cast_size": len(cast_list)
+                    "cast_size": len(cast_list),
+                    "original_language": details_data.get("original_language", "")  # NEW: For language filtering
                 }
 
             time.sleep(0.15)  # Longer delay due to 2 API calls
@@ -201,7 +255,9 @@ def build_actor_movie_index(movie_cast_data, min_votes=100, max_pages=100):
                 "cast_order": cast_member["cast_order"],
                 "popularity": movie_data["popularity"],
                 "vote_count": movie_data.get("vote_count", 0),
-                "title": movie_data["title"]
+                "title": movie_data["title"],
+                "original_language": movie_data.get("original_language", ""),  # NEW: For language filtering
+                "character": cast_member.get("character", "")  # NEW: For voice acting detection
             })
 
     # Convert defaultdict to regular dict for pickling
@@ -222,6 +278,138 @@ def build_actor_movie_index(movie_cast_data, min_votes=100, max_pages=100):
     print(f"  Avg movies per actor: {sum(len(v) for v in index['actor_movies'].values()) / len(index['actor_movies']):.1f}\n")
 
     return index
+
+
+def is_voice_acting_role(character: str) -> bool:
+    """
+    Detect if a character credit indicates voice acting.
+
+    Args:
+        character: Character name/description from TMDb credits
+
+    Returns:
+        True if role is voice acting
+    """
+    if not character:
+        return False
+
+    character_lower = character.lower()
+
+    # Common voice acting indicators in TMDb credits
+    voice_indicators = [
+        "(voice)",
+        " (voice)",
+        "voice)",
+        "- voice",
+        "/ voice",
+        "(uncredited voice",
+        "(archive footage / voice",  # Sometimes combined
+    ]
+
+    return any(indicator in character_lower for indicator in voice_indicators)
+
+
+def is_stunt_worker(character: str) -> bool:
+    """
+    Detect if a character credit indicates stunt work.
+
+    Args:
+        character: Character name/description from TMDb credits
+
+    Returns:
+        True if role is stunt work
+    """
+    if not character:
+        return False
+
+    character_lower = character.lower()
+
+    # Common stunt work indicators in TMDb credits
+    stunt_indicators = [
+        "stunt",
+        "stunts",
+        "stunt double",
+        "stunt coordinator",
+        "utility stunts",
+        "stunt performer"
+    ]
+
+    return any(indicator in character_lower for indicator in stunt_indicators)
+
+
+def calculate_actor_language_voice_stats(actor_movies_list, min_vote_count=10000, max_cast_order=5):
+    """
+    Calculate language distribution and voice acting percentage for an actor.
+
+    Only considers movies meeting the same eligibility criteria as StartActorScore
+    (vote_count >= 10k, cast_order <= 5) to ensure we're looking at prominent roles.
+
+    Args:
+        actor_movies_list: List of movie dicts for actor from actor_movie_index
+        min_vote_count: Minimum votes to consider (should match StartActorScore)
+        max_cast_order: Max billing position to consider (should match StartActorScore)
+
+    Returns:
+        Dict with:
+        - total_eligible_movies: int (movies meeting criteria)
+        - english_movies: int (count of English-language movies)
+        - english_percent: float (% of eligible movies that are English)
+        - voice_roles: int (count of voice acting roles)
+        - voice_percent: float (% of eligible roles that are voice)
+        - non_english_movies: List[str] (titles for debugging)
+        - voice_movies: List[str] (titles for debugging)
+    """
+    eligible_movies = []
+
+    # Filter to same criteria as StartActorScore eligibility
+    for credit in actor_movies_list:
+        if credit.get("vote_count", 0) >= min_vote_count and credit.get("cast_order", 999) <= max_cast_order:
+            eligible_movies.append(credit)
+
+    if not eligible_movies:
+        return {
+            "total_eligible_movies": 0,
+            "english_movies": 0,
+            "english_percent": 0.0,
+            "voice_roles": 0,
+            "voice_percent": 0.0,
+            "non_english_movies": [],
+            "voice_movies": []
+        }
+
+    # Calculate language distribution
+    english_count = 0
+    non_english_titles = []
+
+    for movie in eligible_movies:
+        lang = movie.get("original_language", "").lower()
+        # Accept all English variants (en, en-us, en-gb, etc.)
+        if lang == "en" or lang.startswith("en-"):
+            english_count += 1
+        else:
+            non_english_titles.append(f"{movie['title']} ({lang})")
+
+    # Calculate voice acting percentage
+    voice_count = 0
+    voice_titles = []
+
+    for movie in eligible_movies:
+        character = movie.get("character", "")
+        if is_voice_acting_role(character):
+            voice_count += 1
+            voice_titles.append(f"{movie['title']} (char: {character[:30]}...)")
+
+    total = len(eligible_movies)
+
+    return {
+        "total_eligible_movies": total,
+        "english_movies": english_count,
+        "english_percent": (english_count / total * 100) if total > 0 else 0.0,
+        "voice_roles": voice_count,
+        "voice_percent": (voice_count / total * 100) if total > 0 else 0.0,
+        "non_english_movies": non_english_titles[:5],  # Limit for readability
+        "voice_movies": voice_titles[:5]
+    }
 
 
 def compute_start_actor_score(actor_id, actor_movies_list):
@@ -356,6 +544,139 @@ def rank_actors_by_start_score(actor_movie_index):
     return actor_scores
 
 
+def filter_starting_pool_candidates(
+    actor_scores_ranked,
+    actor_movie_index,
+    min_english_percent=MIN_ENGLISH_LANGUAGE_PERCENT,
+    max_voice_percent=MAX_VOICE_ACTING_PERCENT,
+    starting_min_vote_count=STARTING_MIN_VOTE_COUNT,
+    starting_min_eligible_credits=STARTING_MIN_ELIGIBLE_CREDITS
+):
+    """
+    Filter actor scores to exclude actors not suitable for starting pool.
+
+    Applies additional filters beyond basic StartActorScore eligibility:
+    1. Language filter: Must have >= min_english_percent English movies
+    2. Voice acting filter: Must have < max_voice_percent voice roles
+    3. Prominence filter: Higher vote count and credit thresholds than base eligibility
+
+    Args:
+        actor_scores_ranked: List of (actor_id, score, metrics) from rank_actors_by_start_score()
+        actor_movie_index: Actor-movie index for filmography lookup
+        min_english_percent: Minimum % of English-language movies (default: 80%)
+        max_voice_percent: Maximum % of voice acting roles (default: 20%)
+        starting_min_vote_count: Higher vote threshold for starting pool (default: 25k)
+        starting_min_eligible_credits: More credits required for starting pool (default: 5)
+
+    Returns:
+        Tuple of:
+        - filtered_scores: List of (actor_id, score, enhanced_metrics) for qualifying actors
+        - filter_report: Dict with filtering statistics
+    """
+    print(f"\n=== Filtering Starting Pool Candidates ===")
+    print(f"  Criteria:")
+    print(f"    - English language: >= {min_english_percent}%")
+    print(f"    - Voice acting: < {max_voice_percent}%")
+    print(f"    - Min vote count: {starting_min_vote_count}")
+    print(f"    - Min credits: {starting_min_eligible_credits}")
+
+    filtered_scores = []
+    filter_stats = {
+        "total_candidates": len(actor_scores_ranked),
+        "language_filtered": 0,
+        "voice_filtered": 0,
+        "vote_count_filtered": 0,
+        "credit_count_filtered": 0,
+        "passed_all_filters": 0,
+        "language_failures": [],  # (actor_id, english_pct, examples)
+        "voice_failures": [],     # (actor_id, voice_pct, examples)
+    }
+
+    for actor_id, score, metrics in actor_scores_ranked:
+        # Get actor filmography
+        actor_movies = actor_movie_index["actor_movies"].get(actor_id, [])
+
+        # Calculate language and voice stats
+        lang_voice_stats = calculate_actor_language_voice_stats(actor_movies)
+
+        # Apply filters
+        filter_reason = None
+
+        # Filter 1: Prominence (stricter vote count)
+        # Re-count eligible credits with higher vote threshold
+        # NOTE: Removed cast_order filter to include ensemble cast members
+        high_vote_credits = [
+            m for m in actor_movies
+            if m.get("vote_count", 0) >= starting_min_vote_count
+        ]
+
+        if len(high_vote_credits) < starting_min_eligible_credits:
+            filter_stats["vote_count_filtered"] += 1
+            filter_stats["credit_count_filtered"] += 1
+            filter_reason = f"Insufficient high-prominence credits ({len(high_vote_credits)} < {starting_min_eligible_credits} at {starting_min_vote_count}+ votes)"
+            continue
+
+        # Filter 2: Language distribution
+        english_pct = lang_voice_stats["english_percent"]
+        if english_pct < min_english_percent:
+            filter_stats["language_filtered"] += 1
+            filter_stats["language_failures"].append({
+                "actor_id": actor_id,
+                "english_percent": english_pct,
+                "non_english_examples": lang_voice_stats["non_english_movies"][:3]
+            })
+            filter_reason = f"Low English language % ({english_pct:.1f}% < {min_english_percent}%)"
+            continue
+
+        # Filter 3: Voice acting percentage
+        voice_pct = lang_voice_stats["voice_percent"]
+        if voice_pct >= max_voice_percent:
+            filter_stats["voice_filtered"] += 1
+            filter_stats["voice_failures"].append({
+                "actor_id": actor_id,
+                "voice_percent": voice_pct,
+                "voice_examples": lang_voice_stats["voice_movies"][:3]
+            })
+            filter_reason = f"High voice acting % ({voice_pct:.1f}% >= {max_voice_percent}%)"
+            continue
+
+        # Filter 4: Stunt work detection
+        stunt_roles = sum(1 for m in actor_movies if is_stunt_worker(m.get("character", "")))
+        stunt_pct = (stunt_roles / len(actor_movies) * 100) if actor_movies else 0
+
+        if stunt_pct >= 50:  # If majority of roles are stunts
+            if "stunt_filtered" not in filter_stats:
+                filter_stats["stunt_filtered"] = 0
+            filter_stats["stunt_filtered"] += 1
+            filter_reason = f"High stunt work % ({stunt_pct:.1f}% >= 50%)"
+            continue
+
+        # Passed all filters
+        filter_stats["passed_all_filters"] += 1
+
+        # Enhance metrics with language/voice stats
+        enhanced_metrics = metrics.copy()
+        enhanced_metrics.update({
+            "english_percent": english_pct,
+            "voice_percent": voice_pct,
+            "total_eligible_movies": lang_voice_stats["total_eligible_movies"],
+            "passed_filters": True
+        })
+
+        filtered_scores.append((actor_id, score, enhanced_metrics))
+
+    # Print summary
+    print(f"\n  Filter Results:")
+    print(f"    Total candidates: {filter_stats['total_candidates']}")
+    print(f"    Passed all filters: {filter_stats['passed_all_filters']}")
+    print(f"    Filtered by language: {filter_stats['language_filtered']}")
+    print(f"    Filtered by voice acting: {filter_stats['voice_filtered']}")
+    print(f"    Filtered by prominence: {filter_stats['vote_count_filtered']}")
+    print()
+
+    return filtered_scores, filter_stats
+
+
 def apply_start_actor_scores_to_graph(G, actor_scores_ranked, actor_movie_index, top_n=100):
     """
     Mark top N actors in graph with in_starting_pool=True based on StartActorScore.
@@ -416,6 +737,7 @@ def generate_audit_csv(actor_scores_ranked, actor_movie_index, output_path):
             "rank", "actor_id", "actor_name", "final_score",
             "exposure_score", "hhi_score", "hhi_normalized",
             "num_eligible_credits", "top_k_count",
+            "english_percent", "voice_percent",
             "top_movie_1", "top_movie_2", "top_movie_3"
         ])
 
@@ -429,6 +751,10 @@ def generate_audit_csv(actor_scores_ranked, actor_movie_index, output_path):
 
             top_movies = metrics["top_k_credits"][:3]
 
+            # Extract language/voice stats (available if passed through filter)
+            english_pct = metrics.get("english_percent", 0.0)
+            voice_pct = metrics.get("voice_percent", 0.0)
+
             writer.writerow([
                 rank,
                 actor_id,
@@ -439,6 +765,8 @@ def generate_audit_csv(actor_scores_ranked, actor_movie_index, output_path):
                 f"{metrics['hhi_normalized']:.4f}",
                 metrics["num_eligible_credits"],
                 metrics["K"],
+                f"{english_pct:.1f}",
+                f"{voice_pct:.1f}",
                 top_movies[0]["title"] if len(top_movies) > 0 else "",
                 top_movies[1]["title"] if len(top_movies) > 1 else "",
                 top_movies[2]["title"] if len(top_movies) > 2 else ""
@@ -563,8 +891,8 @@ def build_full_actor_graph(movie_cast_data):
         actor1, actor2 = edge
         movies = edge_movies[edge]
 
-        # Limit to top 50 most popular shared movies (increased from 10 for better validation)
-        TOP_K_MOVIES_PER_EDGE = 50
+        # Limit to top 100 most popular shared movies (increased for better coverage)
+        TOP_K_MOVIES_PER_EDGE = 100
         movies_sorted = sorted(movies, key=lambda m: m["popularity"], reverse=True)[:TOP_K_MOVIES_PER_EDGE]
 
         G.add_edge(
@@ -742,6 +1070,105 @@ def select_playable_actors(G, top_n=500):
     return G, selected
 
 
+def enrich_playable_actor_connections(G, playable_actors, movie_cast_data):
+    """
+    For each movie, fetch FULL cast (not just top 10) and add connections
+    for any actors in the playable set, even if they were outside initial extraction.
+
+    This ensures that if Tom Hanks is in the playable graph and appeared in a movie
+    as the 15th billed actor, he'll still be connected to that movie and other actors.
+
+    Args:
+        G: NetworkX graph with playable actors
+        playable_actors: Set/list of actor node IDs in the playable graph
+        movie_cast_data: Dict of movie data from initial extraction
+
+    Returns:
+        Updated graph with enriched connections
+    """
+    print(f"\n=== Enriching Graph with Full Cast for {len(playable_actors)} Playable Actors ===")
+
+    # Get playable actor TMDb IDs (strip "actor_" prefix)
+    playable_tmdb_ids = {int(node.replace('actor_', '')) for node in playable_actors}
+
+    added_connections = 0
+    movies_processed = 0
+
+    for movie_id, movie_data in tqdm(movie_cast_data.items(), desc="Enriching with full cast"):
+        # Fetch FULL cast from TMDb (not just top 10)
+        try:
+            credits_url = f"{BASE_URL}/movie/{movie_id}/credits"
+            params = {"api_key": API_KEY}
+            response = requests.get(credits_url, params=params, timeout=10)
+            response.raise_for_status()
+            credits_data = response.json()
+
+            # Find all cast members who are in playable_actors
+            playable_cast_in_movie = []
+            for person in credits_data.get("cast", []):  # FULL cast, no slicing
+                actor_id = person["id"]
+                if actor_id in playable_tmdb_ids:
+                    playable_cast_in_movie.append({
+                        "id": actor_id,
+                        "name": person["name"],
+                        "cast_order": person.get("order", 999)
+                    })
+
+            # If we found playable actors beyond the initial top 10
+            if len(playable_cast_in_movie) > len(movie_data.get("cast", [])):
+                # Add/update edges between all pairs of playable actors in this movie
+                for i in range(len(playable_cast_in_movie)):
+                    for j in range(i + 1, len(playable_cast_in_movie)):
+                        actor1_node = f"actor_{playable_cast_in_movie[i]['id']}"
+                        actor2_node = f"actor_{playable_cast_in_movie[j]['id']}"
+
+                        # Check if edge already exists
+                        if G.has_edge(actor1_node, actor2_node):
+                            # Check if this movie is already in the edge metadata
+                            edge_movies = G[actor1_node][actor2_node].get('movies', [])
+                            if not any(m['id'] == movie_id for m in edge_movies):
+                                # Add this movie to existing edge
+                                edge_movies.append({
+                                    "id": movie_id,
+                                    "title": movie_data["title"],
+                                    "popularity": movie_data["popularity"],
+                                    "poster_path": movie_data.get("poster_path"),
+                                    "cast_size": len(playable_cast_in_movie),
+                                    "release_date": movie_data["release_date"]
+                                })
+                                # Re-sort and limit to top 100
+                                edge_movies.sort(key=lambda m: m["popularity"], reverse=True)
+                                G[actor1_node][actor2_node]['movies'] = edge_movies[:100]
+                                added_connections += 1
+                        else:
+                            # Edge doesn't exist - this is a new connection discovered via enrichment
+                            # (rare but possible if both actors were outside top 10)
+                            G.add_edge(
+                                actor1_node,
+                                actor2_node,
+                                weight=calculate_edge_weight(movie_data["popularity"], len(playable_cast_in_movie)),
+                                movies=[{
+                                    "id": movie_id,
+                                    "title": movie_data["title"],
+                                    "popularity": movie_data["popularity"],
+                                    "poster_path": movie_data.get("poster_path"),
+                                    "cast_size": len(playable_cast_in_movie),
+                                    "release_date": movie_data["release_date"]
+                                }]
+                            )
+                            added_connections += 1
+
+            movies_processed += 1
+            time.sleep(0.15)  # Rate limiting
+
+        except Exception as e:
+            print(f"Error enriching movie {movie_id}: {e}")
+            continue
+
+    print(f"OK: Enriched graph - processed {movies_processed} movies, added {added_connections} connections\n")
+    return G
+
+
 def select_starting_pool(G, playable_actors, top_n=100):
     """
     Select top N actors from playable actors for starting pool.
@@ -820,7 +1247,7 @@ def main():
     parser.add_argument(
         "--top",
         type=int,
-        default=500,
+        default=2500,
         help="Number of top actors for playable graph"
     )
     parser.add_argument(
@@ -832,14 +1259,19 @@ def main():
     parser.add_argument(
         "--min-votes",
         type=int,
-        default=100,
+        default=20,
         help="Minimum vote count for movies"
     )
     parser.add_argument(
         "--max-pages",
         type=int,
-        default=100,
-        help="Maximum pages of movies to fetch"
+        default=500,
+        help="Maximum pages of movies to fetch (TMDb limit: 500 pages = 10,000 movies)"
+    )
+    parser.add_argument(
+        "--refresh-cache",
+        action="store_true",
+        help="Force refresh TMDb cache (re-fetch from API)"
     )
 
     args = parser.parse_args()
@@ -856,15 +1288,20 @@ def main():
     print(f"Target: {args.top} playable actors, {args.starting} starting pool")
     print(f"{'='*70}\n")
 
-    # Step 1: Fetch popular movies (global)
-    movies = fetch_popular_movies(min_votes=args.min_votes, max_pages=args.max_pages)
+    # Step 1: Fetch popular movies (global) - with caching
+    movies = fetch_popular_movies(
+        min_votes=args.min_votes,
+        max_pages=args.max_pages,
+        use_cache=True,
+        refresh_cache=args.refresh_cache
+    )
 
     if not movies:
         print("ERROR: No movies fetched!")
         return
 
-    # Step 2: Extract cast
-    movie_cast_data = extract_cast_from_movies(movies, top_n_cast=10)
+    # Step 2: Extract cast (top 30 to capture supporting roles and cameos)
+    movie_cast_data = extract_cast_from_movies(movies, top_n_cast=30)
 
     if not movie_cast_data:
         print("ERROR: No cast data extracted!")
@@ -879,6 +1316,9 @@ def main():
     # Step 5: Select playable actors (top 500)
     G, playable_actors = select_playable_actors(G, top_n=args.top)
 
+    # Step 5.5: Enrich with full cast for playable actors (NEW - ensures all valid pairings)
+    G = enrich_playable_actor_connections(G, playable_actors, movie_cast_data)
+
     # Step 6: Build actor-movie index (NEW - for StartActorScore)
     actor_movie_index = build_actor_movie_index(
         movie_cast_data,
@@ -889,14 +1329,24 @@ def main():
     # Step 7: Compute StartActorScore (NEW - replaces centrality-based selection)
     actor_scores_ranked = rank_actors_by_start_score(actor_movie_index)
 
-    # Step 8: Apply StartActorScore to graph (NEW - mark top N actors)
+    # Step 7.5: Filter starting pool candidates (NEW - language, voice, prominence filters)
+    filtered_scores, filter_report = filter_starting_pool_candidates(
+        actor_scores_ranked,
+        actor_movie_index,
+        min_english_percent=MIN_ENGLISH_LANGUAGE_PERCENT,
+        max_voice_percent=MAX_VOICE_ACTING_PERCENT,
+        starting_min_vote_count=STARTING_MIN_VOTE_COUNT,
+        starting_min_eligible_credits=STARTING_MIN_ELIGIBLE_CREDITS
+    )
+
+    # Step 8: Apply filtered StartActorScore to graph (NEW - mark top N actors who passed filters)
     G, starting_pool_nodes = apply_start_actor_scores_to_graph(
-        G, actor_scores_ranked, actor_movie_index, top_n=args.starting
+        G, filtered_scores, actor_movie_index, top_n=args.starting
     )
 
     # Step 9: Generate audit CSV (NEW - PRD requirement)
     csv_path = args.out.replace('.gpickle', '_start_actor_audit.csv')
-    generate_audit_csv(actor_scores_ranked, actor_movie_index, csv_path)
+    generate_audit_csv(filtered_scores, actor_movie_index, csv_path)
 
     # Step 10: Print top actors by StartActorScore for review
     print("=== Top 20 Actors by StartActorScore ===")

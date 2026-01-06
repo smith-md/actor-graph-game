@@ -72,9 +72,11 @@ GET /meta
 ```json
 {
   "ready": true,
-  "actors": 150,
-  "movies": 2697,
-  "edges": 8432,
+  "actors": 9720,
+  "playable_actors": 1000,
+  "starting_pool_actors": 100,
+  "movies": 1681,
+  "edges": 71565,
   "checksum": "abc123def456..."
 }
 ```
@@ -84,9 +86,11 @@ GET /meta
 | Field | Type | Description |
 |-------|------|-------------|
 | `ready` | boolean | `true` if graph is loaded |
-| `actors` | integer | Number of actors in graph |
-| `movies` | integer | Number of movies in graph |
-| `edges` | integer | Number of actor-movie connections |
+| `actors` | integer | Total number of actors in graph |
+| `playable_actors` | integer | Number of actors in playable pool (centrality-filtered) |
+| `starting_pool_actors` | integer | Number of actors in starting pool (StartActorScore-filtered) |
+| `movies` | integer | Number of movies in comprehensive index |
+| `edges` | integer | Number of actor-actor connections (shared movies) |
 | `checksum` | string | SHA256 hash of graph structure |
 
 #### Status Codes
@@ -136,10 +140,11 @@ GET /start_game
 
 #### Actor Selection
 
-The API selects two actors that:
-- Have not starred in a movie together directly
-- Ensures a path exists between them
-- Provides a challenging but solvable puzzle
+The API selects two actors from the **starting pool** (100 most recognizable actors):
+- Both actors have high StartActorScore (prominent in high-visibility films)
+- Have not worked together directly (no edge between them in graph)
+- Ensures a path exists between them through the actor-actor graph
+- Provides a challenging but solvable puzzle with recognizable names
 
 #### Status Codes
 
@@ -163,7 +168,7 @@ Content-Type: application/json
 ```json
 {
   "game_id": "550e8400-e29b-41d4-a716-446655440000",
-  "movie": "The Avengers",
+  "movie_id": 24428,
   "actor": "Robert Downey Jr."
 }
 ```
@@ -173,7 +178,7 @@ Content-Type: application/json
 | Field | Type | Required | Description |
 |-------|------|----------|-------------|
 | `game_id` | string | Yes | UUID from start_game |
-| `movie` | string | Yes | Movie title |
+| `movie_id` | integer | Yes | TMDb movie ID (from autocomplete) |
 | `actor` | string | Yes | Actor name |
 
 #### Response (Success)
@@ -185,12 +190,18 @@ Content-Type: application/json
   "poster_url": "https://image.tmdb.org/t/p/w500/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg",
   "graph_image_base64": "iVBORw0KGgoAAAANSUhEUgAAB...",
   "state": {
-    "current_actor": "actor::3223::Robert Downey Jr.",
-    "target_actor": "actor::1245::Scarlett Johansson",
+    "current_actor": "actor_3223",
+    "target_actor": "actor_1245",
     "path": [
-      "actor::31::Tom Hanks",
-      "movie::24428::The Avengers",
-      "actor::3223::Robert Downey Jr."
+      "actor_31",
+      "actor_3223"
+    ],
+    "movies_used": [
+      {
+        "id": 24428,
+        "title": "The Avengers",
+        "poster_path": "/RYMX2wcKCBAr24UyPD7xwmjaTn.jpg"
+      }
     ],
     "completed": false,
     "total_guesses": 1,
@@ -209,9 +220,10 @@ Content-Type: application/json
   "poster_url": null,
   "graph_image_base64": "iVBORw0KGgoAAAANSUhEUgAAB...",
   "state": {
-    "current_actor": "actor::31::Tom Hanks",
-    "target_actor": "actor::1245::Scarlett Johansson",
-    "path": ["actor::31::Tom Hanks"],
+    "current_actor": "actor_31",
+    "target_actor": "actor_1245",
+    "path": ["actor_31"],
+    "movies_used": [],
     "completed": false,
     "total_guesses": 1,
     "incorrect_guesses": 1,
@@ -229,14 +241,16 @@ Content-Type: application/json
   "poster_url": "https://image.tmdb.org/t/p/w500/...",
   "graph_image_base64": "iVBORw0KGgoAAAANSUhEUgAAB...",
   "state": {
-    "current_actor": "actor::1245::Scarlett Johansson",
-    "target_actor": "actor::1245::Scarlett Johansson",
+    "current_actor": "actor_1245",
+    "target_actor": "actor_1245",
     "path": [
-      "actor::31::Tom Hanks",
-      "movie::24428::The Avengers",
-      "actor::3223::Robert Downey Jr.",
-      "movie::10138::Iron Man 2",
-      "actor::1245::Scarlett Johansson"
+      "actor_31",
+      "actor_3223",
+      "actor_1245"
+    ],
+    "movies_used": [
+      {"id": 24428, "title": "The Avengers"},
+      {"id": 10138, "title": "Iron Man 2"}
     ],
     "completed": true,
     "total_guesses": 2,
@@ -260,9 +274,10 @@ Content-Type: application/json
 
 | Field | Type | Description |
 |-------|------|-------------|
-| `current_actor` | string | Current position node ID |
-| `target_actor` | string | Target node ID |
-| `path` | array | List of node IDs in the path |
+| `current_actor` | string | Current actor node ID (format: `actor_{tmdb_id}`) |
+| `target_actor` | string | Target actor node ID |
+| `path` | array | List of actor node IDs in the path (actors only) |
+| `movies_used` | array | List of movie objects used between actors |
 | `completed` | boolean | `true` if game is over (win or lose) |
 | `total_guesses` | integer | Total number of guesses made |
 | `incorrect_guesses` | integer | Number of incorrect guesses |
@@ -304,12 +319,14 @@ GET /state?game_id={game_id}
 
 ```json
 {
-  "current_actor": "actor::3223::Robert Downey Jr.",
-  "target_actor": "actor::1245::Scarlett Johansson",
+  "current_actor": "actor_3223",
+  "target_actor": "actor_1245",
   "path": [
-    "actor::31::Tom Hanks",
-    "movie::24428::The Avengers",
-    "actor::3223::Robert Downey Jr."
+    "actor_31",
+    "actor_3223"
+  ],
+  "movies_used": [
+    {"id": 24428, "title": "The Avengers"}
   ],
   "completed": false,
   "total_guesses": 1,
@@ -610,13 +627,13 @@ const startResponse = await fetch('http://localhost:8000/start_game');
 const gameData = await startResponse.json();
 const gameId = gameData.game_id;
 
-// Submit a guess
+// Submit a guess (use movie_id from autocomplete)
 const guessResponse = await fetch('http://localhost:8000/guess', {
   method: 'POST',
   headers: { 'Content-Type': 'application/json' },
   body: JSON.stringify({
     game_id: gameId,
-    movie: 'The Avengers',
+    movie_id: 24428,  // TMDb movie ID
     actor: 'Robert Downey Jr.'
   })
 });
@@ -641,10 +658,10 @@ response = requests.get('http://localhost:8000/start_game')
 game_data = response.json()
 game_id = game_data['game_id']
 
-# Submit a guess
+# Submit a guess (use movie_id from autocomplete)
 guess_response = requests.post('http://localhost:8000/guess', json={
     'game_id': game_id,
-    'movie': 'The Avengers',
+    'movie_id': 24428,  # TMDb movie ID
     'actor': 'Robert Downey Jr.'
 })
 result = guess_response.json()
@@ -664,10 +681,10 @@ print([a['name'] for a in actors['results']])
 # Start a game
 curl http://localhost:8000/start_game
 
-# Submit a guess
+# Submit a guess (use movie_id from autocomplete)
 curl -X POST http://localhost:8000/guess \
   -H "Content-Type: application/json" \
-  -d '{"game_id":"YOUR_GAME_ID","movie":"The Avengers","actor":"Robert Downey Jr."}'
+  -d '{"game_id":"YOUR_GAME_ID","movie_id":24428,"actor":"Robert Downey Jr."}'
 
 # Autocomplete actors
 curl "http://localhost:8000/autocomplete/actors?q=tom&limit=5"
