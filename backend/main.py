@@ -240,6 +240,13 @@ class GuessResponse(BaseModel):
     path: GamePath
     state: dict
 
+class SwapActorsResponse(BaseModel):
+    success: bool
+    message: str
+    startActor: ActorNode
+    targetActor: ActorNode
+    path: GamePath
+
 games: Dict[str, MovieConnectionGame] = {}
 
 # ---------- Helpers ----------
@@ -410,6 +417,40 @@ def submit_guess(game_id: str, input: NewGuessInput):
             "totalGuesses": game.total_guesses,
             "incorrectGuesses": game.incorrect_guesses,
             "remainingAttempts": game.max_incorrect - game.incorrect_guesses
+        }
+    }
+
+@app.post("/api/game/{game_id}/swap-actors")
+def swap_actors(game_id: str):
+    """Swap starting and target actors (only allowed before first move)."""
+    if not GRAPH_READY:
+        return graph_not_ready_response()
+
+    game = games.get(game_id)
+    if not game:
+        raise HTTPException(status_code=404, detail="Game not found")
+
+    # Only allow swap if no moves have been made
+    if len(game.movies_used) > 0:
+        raise HTTPException(
+            status_code=400,
+            detail="Cannot swap actors after making a move"
+        )
+
+    # Swap the actors
+    game.start, game.target = game.target, game.start
+    game.current = game.start
+    game.path = [game.start]
+
+    return {
+        "success": True,
+        "message": "Actors swapped successfully",
+        "startActor": build_actor_node_dict(game.start),
+        "targetActor": build_actor_node_dict(game.target),
+        "path": {
+            "startActor": build_actor_node_dict(game.start),
+            "targetActor": build_actor_node_dict(game.target),
+            "segments": []
         }
     }
 
