@@ -25,10 +25,22 @@ export default function App() {
   const [showMovieSug, setShowMovieSug] = useState(false);
   const movieSugAbort = useRef(null);
 
+  // Onboarding state
+  const [showOnboarding, setShowOnboarding] = useState(false);
+  const [isReopenedTutorial, setIsReopenedTutorial] = useState(false);
+
   useEffect(() => {
     checkHealth();
-    // Auto-start game when page loads
-    startGame();
+
+    // Check if user has seen onboarding before
+    const hasSeenOnboarding = localStorage.getItem('cinelinks-onboarding-seen');
+    if (!hasSeenOnboarding) {
+      setIsReopenedTutorial(false);
+      setShowOnboarding(true);
+    } else {
+      // Auto-start game only if not showing onboarding
+      startGame();
+    }
   }, []);
 
   const checkHealth = async () => {
@@ -240,6 +252,31 @@ export default function App() {
     }
   }, [movie]);
 
+  const handleStartGame = () => {
+    localStorage.setItem('cinelinks-onboarding-seen', 'true');
+    setShowOnboarding(false);
+    startGame();
+  };
+
+  const handleViewTutorial = () => {
+    // Tutorial will be shown in the modal carousel
+    // Just mark as seen when they close it
+    localStorage.setItem('cinelinks-onboarding-seen', 'true');
+  };
+
+  const handleCloseOnboarding = () => {
+    localStorage.setItem('cinelinks-onboarding-seen', 'true');
+    setShowOnboarding(false);
+    if (!gameId) {
+      startGame();
+    }
+  };
+
+  const handleReopenOnboarding = () => {
+    setIsReopenedTutorial(true);
+    setShowOnboarding(true);
+  };
+
   return (
     <div className="app-container" style={{
       minHeight: '100vh',
@@ -249,8 +286,8 @@ export default function App() {
       fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
     }}>
       <div style={{ width: '100%', maxWidth: '1000px' }}>
-        {/* Header - Centered */}
-        <div className="header-container" style={{ textAlign: 'center' }}>
+        {/* Header - Centered with Help Icon */}
+        <div className="header-container" style={{ textAlign: 'center', position: 'relative' }}>
           <h1 className="game-title" style={{
             fontWeight: '300',
             color: '#111827',
@@ -258,6 +295,42 @@ export default function App() {
           }}>
             CineLinks
           </h1>
+          <button
+            onClick={handleReopenOnboarding}
+            className="help-icon-button"
+            style={{
+              position: 'absolute',
+              top: '16px',
+              right: '16px',
+              width: '40px',
+              height: '40px',
+              borderRadius: '50%',
+              border: '2px solid #e5e7eb',
+              backgroundColor: '#ffffff',
+              color: '#6b7280',
+              fontSize: '20px',
+              fontWeight: '600',
+              cursor: 'pointer',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              transition: 'all 0.2s',
+              padding: 0
+            }}
+            onMouseEnter={(e) => {
+              e.target.style.backgroundColor = '#f9fafb';
+              e.target.style.borderColor = '#111827';
+              e.target.style.color = '#111827';
+            }}
+            onMouseLeave={(e) => {
+              e.target.style.backgroundColor = '#ffffff';
+              e.target.style.borderColor = '#e5e7eb';
+              e.target.style.color = '#6b7280';
+            }}
+            title="How to Play"
+          >
+            ?
+          </button>
           <p className="game-subtitle" style={{ color: '#6b7280', fontWeight: '300' }}>
             Connect actors through their movies
           </p>
@@ -678,6 +751,15 @@ export default function App() {
           </div>
         </div>
 
+        {/* Onboarding Modal */}
+        {showOnboarding && (
+          <OnboardingModal
+            onStartGame={handleStartGame}
+            onViewTutorial={handleViewTutorial}
+            onClose={handleCloseOnboarding}
+            isReopen={isReopenedTutorial}
+          />
+        )}
       </div>
     </div>
   );
@@ -741,7 +823,13 @@ function ActorNodeInPath({ actor, index = 0 }) {
           <img
             src={actor.imageUrl}
             alt={actor.name}
-            style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+            style={{
+              width: '100%',
+              height: '100%',
+              objectFit: 'cover',
+              objectPosition: '50% 25%',
+              display: 'block'
+            }}
           />
         ) : (
           <div style={{
@@ -879,6 +967,8 @@ function ActorCard({ actor }) {
           style={{
             borderRadius: '16px',
             objectFit: 'cover',
+            objectPosition: '50% 25%',
+            display: 'block',
             border: '2px solid #e5e7eb',
             boxShadow: '0 1px 3px 0 rgb(0 0 0 / 0.1)'
           }}
@@ -955,6 +1045,376 @@ function SuggestionBox({ items, onSelect, renderItem }) {
           </span>
         </div>
       ))}
+    </div>
+  );
+}
+
+function OnboardingModal({ onStartGame, onViewTutorial, onClose, isReopen = false }) {
+  const [showTutorial, setShowTutorial] = useState(isReopen);
+  const [currentCard, setCurrentCard] = useState(0);
+  const [touchStart, setTouchStart] = useState(null);
+  const [touchEnd, setTouchEnd] = useState(null);
+
+  const tutorialCards = [
+    {
+      title: "1. Select a Movie",
+      description: "Choose a movie featuring the starting actor",
+      icon: "🎬"
+    },
+    {
+      title: "2. Pick an Actor",
+      description: "Select an actor who appeared in that movie",
+      icon: "⭐"
+    },
+    {
+      title: "3. Reach the Target",
+      description: "Repeat until you connect to the target actor",
+      icon: "🎯"
+    }
+  ];
+
+  const handleViewTutorial = () => {
+    setShowTutorial(true);
+    onViewTutorial();
+  };
+
+  const handleNext = () => {
+    if (currentCard < tutorialCards.length - 1) {
+      setCurrentCard(currentCard + 1);
+    } else {
+      onClose();
+    }
+  };
+
+  const handlePrev = () => {
+    if (currentCard > 0) {
+      setCurrentCard(currentCard - 1);
+    }
+  };
+
+  // Touch handlers for swipe
+  const minSwipeDistance = 50;
+
+  const onTouchStart = (e) => {
+    setTouchEnd(null);
+    setTouchStart(e.targetTouches[0].clientX);
+  };
+
+  const onTouchMove = (e) => {
+    setTouchEnd(e.targetTouches[0].clientX);
+  };
+
+  const onTouchEnd = () => {
+    if (!touchStart || !touchEnd) return;
+    const distance = touchStart - touchEnd;
+    const isLeftSwipe = distance > minSwipeDistance;
+    const isRightSwipe = distance < -minSwipeDistance;
+    if (isLeftSwipe) {
+      handleNext();
+    }
+    if (isRightSwipe) {
+      handlePrev();
+    }
+  };
+
+  return (
+    <div
+      className="onboarding-backdrop"
+      style={{
+        position: 'fixed',
+        top: 0,
+        left: 0,
+        right: 0,
+        bottom: 0,
+        backgroundColor: 'rgba(0, 0, 0, 0.5)',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        zIndex: 1000,
+        padding: '16px'
+      }}
+      onClick={(e) => {
+        if (e.target.className === 'onboarding-backdrop') {
+          onClose();
+        }
+      }}
+    >
+      <div
+        className="onboarding-modal"
+        style={{
+          backgroundColor: '#ffffff',
+          borderRadius: '24px',
+          maxWidth: '500px',
+          width: '100%',
+          maxHeight: '70vh',
+          overflow: 'hidden',
+          display: 'flex',
+          flexDirection: 'column',
+          boxShadow: '0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)',
+          position: 'relative'
+        }}
+        onTouchStart={onTouchStart}
+        onTouchMove={onTouchMove}
+        onTouchEnd={onTouchEnd}
+      >
+        {/* Close button */}
+        <button
+          onClick={onClose}
+          style={{
+            position: 'absolute',
+            top: '16px',
+            right: '16px',
+            width: '32px',
+            height: '32px',
+            borderRadius: '50%',
+            border: 'none',
+            backgroundColor: '#f3f4f6',
+            color: '#6b7280',
+            fontSize: '20px',
+            cursor: 'pointer',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            zIndex: 10,
+            transition: 'all 0.2s'
+          }}
+          onMouseEnter={(e) => {
+            e.target.style.backgroundColor = '#e5e7eb';
+            e.target.style.color = '#111827';
+          }}
+          onMouseLeave={(e) => {
+            e.target.style.backgroundColor = '#f3f4f6';
+            e.target.style.color = '#6b7280';
+          }}
+        >
+          ×
+        </button>
+
+        {!showTutorial ? (
+          // Welcome screen
+          <div
+            style={{
+              padding: '48px 32px',
+              textAlign: 'center',
+              display: 'flex',
+              flexDirection: 'column',
+              gap: '32px',
+              alignItems: 'center',
+              justifyContent: 'center',
+              minHeight: '400px'
+            }}
+          >
+            <div>
+              <h2 style={{
+                fontSize: '32px',
+                fontWeight: '600',
+                color: '#111827',
+                marginBottom: '16px',
+                fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
+              }}>
+                Welcome to CineLinks
+              </h2>
+              <p style={{
+                fontSize: '18px',
+                color: '#6b7280',
+                fontWeight: '300',
+                lineHeight: '1.6',
+                fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
+              }}>
+                Connect two actors through the movies they've appeared in
+              </p>
+            </div>
+
+            <div style={{
+              display: 'flex',
+              flexDirection: 'column',
+              gap: '16px',
+              width: '100%',
+              maxWidth: '320px'
+            }}>
+              <button
+                onClick={handleViewTutorial}
+                style={{
+                  padding: '16px 32px',
+                  backgroundColor: '#111827',
+                  color: '#ffffff',
+                  borderRadius: '16px',
+                  border: 'none',
+                  fontSize: '18px',
+                  fontWeight: '500',
+                  cursor: 'pointer',
+                  transition: 'all 0.2s',
+                  fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
+                }}
+                onMouseEnter={(e) => {
+                  e.target.style.backgroundColor = '#1f2937';
+                }}
+                onMouseLeave={(e) => {
+                  e.target.style.backgroundColor = '#111827';
+                }}
+              >
+                How to Play
+              </button>
+              <button
+                onClick={onStartGame}
+                style={{
+                  padding: '16px 32px',
+                  backgroundColor: '#ffffff',
+                  color: '#111827',
+                  borderRadius: '16px',
+                  border: '2px solid #e5e7eb',
+                  fontSize: '18px',
+                  fontWeight: '500',
+                  cursor: 'pointer',
+                  transition: 'all 0.2s',
+                  fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
+                }}
+                onMouseEnter={(e) => {
+                  e.target.style.borderColor = '#111827';
+                  e.target.style.backgroundColor = '#f9fafb';
+                }}
+                onMouseLeave={(e) => {
+                  e.target.style.borderColor = '#e5e7eb';
+                  e.target.style.backgroundColor = '#ffffff';
+                }}
+              >
+                Start Game
+              </button>
+            </div>
+          </div>
+        ) : (
+          // Tutorial carousel
+          <div
+            style={{
+              padding: '48px 32px 32px',
+              textAlign: 'center',
+              display: 'flex',
+              flexDirection: 'column',
+              gap: '32px',
+              minHeight: '400px',
+              justifyContent: 'space-between'
+            }}
+          >
+            {/* Card content */}
+            <div style={{
+              flex: 1,
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
+              justifyContent: 'center',
+              gap: '24px'
+            }}>
+              <div style={{
+                fontSize: '64px',
+                marginBottom: '16px'
+              }}>
+                {tutorialCards[currentCard].icon}
+              </div>
+              <h3 style={{
+                fontSize: '24px',
+                fontWeight: '600',
+                color: '#111827',
+                marginBottom: '8px',
+                fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
+              }}>
+                {tutorialCards[currentCard].title}
+              </h3>
+              <p style={{
+                fontSize: '16px',
+                color: '#6b7280',
+                fontWeight: '300',
+                lineHeight: '1.6',
+                maxWidth: '320px',
+                fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
+              }}>
+                {tutorialCards[currentCard].description}
+              </p>
+            </div>
+
+            {/* Dot indicators */}
+            <div style={{
+              display: 'flex',
+              gap: '8px',
+              justifyContent: 'center',
+              marginTop: '16px'
+            }}>
+              {tutorialCards.map((_, index) => (
+                <div
+                  key={index}
+                  onClick={() => setCurrentCard(index)}
+                  style={{
+                    width: '8px',
+                    height: '8px',
+                    borderRadius: '50%',
+                    backgroundColor: index === currentCard ? '#111827' : '#d1d5db',
+                    cursor: 'pointer',
+                    transition: 'all 0.2s'
+                  }}
+                />
+              ))}
+            </div>
+
+            {/* Navigation buttons */}
+            <div style={{
+              display: 'flex',
+              justifyContent: 'space-between',
+              alignItems: 'center',
+              marginTop: '16px'
+            }}>
+              <button
+                onClick={handlePrev}
+                disabled={currentCard === 0}
+                style={{
+                  padding: '12px 24px',
+                  backgroundColor: 'transparent',
+                  color: currentCard === 0 ? '#d1d5db' : '#6b7280',
+                  border: 'none',
+                  fontSize: '16px',
+                  fontWeight: '500',
+                  cursor: currentCard === 0 ? 'not-allowed' : 'pointer',
+                  transition: 'all 0.2s',
+                  fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
+                }}
+                onMouseEnter={(e) => {
+                  if (currentCard !== 0) {
+                    e.target.style.color = '#111827';
+                  }
+                }}
+                onMouseLeave={(e) => {
+                  if (currentCard !== 0) {
+                    e.target.style.color = '#6b7280';
+                  }
+                }}
+              >
+                Previous
+              </button>
+              <button
+                onClick={handleNext}
+                style={{
+                  padding: '12px 24px',
+                  backgroundColor: '#111827',
+                  color: '#ffffff',
+                  border: 'none',
+                  borderRadius: '12px',
+                  fontSize: '16px',
+                  fontWeight: '500',
+                  cursor: 'pointer',
+                  transition: 'all 0.2s',
+                  fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
+                }}
+                onMouseEnter={(e) => {
+                  e.target.style.backgroundColor = '#1f2937';
+                }}
+                onMouseLeave={(e) => {
+                  e.target.style.backgroundColor = '#111827';
+                }}
+              >
+                {currentCard === tutorialCards.length - 1 ? "Let's Play!" : "Next"}
+              </button>
+            </div>
+          </div>
+        )}
+      </div>
     </div>
   );
 }
