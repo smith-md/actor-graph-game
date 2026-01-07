@@ -29,6 +29,151 @@ export default function App() {
   const [showOnboarding, setShowOnboarding] = useState(false);
   const [isReopenedTutorial, setIsReopenedTutorial] = useState(false);
 
+  // Daily puzzle state
+  const [puzzleId, setPuzzleId] = useState("");
+  const [elapsedSeconds, setElapsedSeconds] = useState(0);
+  const [timerStartTime, setTimerStartTime] = useState(null);
+
+  // localStorage helper functions
+  const getCurrentPuzzleId = () => {
+    const now = new Date();
+    const year = now.getUTCFullYear();
+    const month = String(now.getUTCMonth() + 1).padStart(2, '0');
+    const day = String(now.getUTCDate()).padStart(2, '0');
+    return `${year}${month}${day}`;
+  };
+
+  const calculateElapsedSeconds = () => {
+    if (!timerStartTime) return elapsedSeconds;
+    const now = Date.now();
+    const sessionSeconds = Math.floor((now - timerStartTime) / 1000);
+    return elapsedSeconds + sessionSeconds;
+  };
+
+  const saveGameState = () => {
+    if (!gameId || !puzzleId) return;
+
+    const gameState = {
+      puzzleId,
+      gameId,
+      startActor: start,
+      targetActor: target,
+      path,
+      state,
+      elapsedSeconds: calculateElapsedSeconds(),
+      lastSaved: new Date().toISOString()
+    };
+
+    try {
+      localStorage.setItem('cinelinks-game-state', JSON.stringify(gameState));
+    } catch (err) {
+      console.error("Failed to save game state:", err);
+    }
+  };
+
+  const loadGameState = () => {
+    try {
+      const saved = localStorage.getItem('cinelinks-game-state');
+      if (!saved) return null;
+
+      const gameState = JSON.parse(saved);
+      const currentPuzzleId = getCurrentPuzzleId();
+
+      // Validate puzzle ID matches today
+      if (gameState.puzzleId !== currentPuzzleId) {
+        console.log("Saved game is from different day, clearing...");
+        localStorage.removeItem('cinelinks-game-state');
+        return null;
+      }
+
+      return gameState;
+    } catch (err) {
+      console.error("Failed to load game state:", err);
+      localStorage.removeItem('cinelinks-game-state');
+      return null;
+    }
+  };
+
+  const clearGameState = () => {
+    localStorage.removeItem('cinelinks-game-state');
+  };
+
+  const hydrateGameState = (savedState) => {
+    console.log("Hydrating game from saved state:", savedState);
+
+    setPuzzleId(savedState.puzzleId);
+    setGameId(savedState.gameId);
+    setStart(savedState.startActor);
+    setTarget(savedState.targetActor);
+    setPath(savedState.path);
+    setState(savedState.state);
+    setElapsedSeconds(savedState.elapsedSeconds || 0);
+    setTimerStartTime(Date.now());
+
+    setMessage("Welcome back! Continuing your daily puzzle...");
+    setMessageType("success");
+    setTimeout(() => {
+      setMessage("");
+      setMessageType("");
+    }, 3000);
+  };
+
+  const startDailyPuzzle = async () => {
+    setLoading(true);
+    setMessage("");
+    setMessageType("");
+    setPath(null);
+    setOptimalPath(null);
+    setShowOptimalPath(false);
+    setState(null);
+    setMovie(null);
+    setActor("");
+    setElapsedSeconds(0);
+    setTimerStartTime(null);
+
+    try {
+      // Get today's daily puzzle actors
+      const dailyRes = await fetch(`${API}/api/daily-pair`);
+      if (!dailyRes.ok) {
+        const error = await dailyRes.json();
+        throw new Error(error.message || "Failed to get daily puzzle");
+      }
+      const dailyData = await dailyRes.json();
+
+      setPuzzleId(dailyData.puzzleId);
+
+      // Create game session with those actors
+      const gameRes = await fetch(`${API}/api/game`, { method: 'POST' });
+      if (!gameRes.ok) {
+        const error = await gameRes.json();
+        throw new Error(error.message || "Failed to start game");
+      }
+      const gameData = await gameRes.json();
+
+      // Use daily puzzle actors (override random selection)
+      setGameId(gameData.gameId);
+      setStart(dailyData.startActor);
+      setTarget(dailyData.targetActor);
+      setPath({
+        startActor: dailyData.startActor,
+        targetActor: dailyData.targetActor,
+        segments: []
+      });
+
+      // Start timer
+      setTimerStartTime(Date.now());
+
+      // Save initial state
+      setTimeout(() => saveGameState(), 100);
+
+    } catch (err) {
+      setMessage(err.message || "Backend not ready. Try again in a moment.");
+      setMessageType("error");
+    } finally {
+      setLoading(false);
+    }
+  };
+
   useEffect(() => {
     checkHealth();
 
@@ -38,8 +183,16 @@ export default function App() {
       setIsReopenedTutorial(false);
       setShowOnboarding(true);
     } else {
-      // Auto-start game only if not showing onboarding
-      startGame();
+      // Try to load saved game state
+      const savedState = loadGameState();
+
+      if (savedState) {
+        // Hydrate from saved state
+        hydrateGameState(savedState);
+      } else {
+        // Start new daily puzzle
+        startDailyPuzzle();
+      }
     }
   }, []);
 
@@ -51,36 +204,6 @@ export default function App() {
     } catch (err) {
       setHealthStatus({ ok: false, ready: false });
       console.error("Health check failed:", err);
-    }
-  };
-
-  const startGame = async () => {
-    setLoading(true);
-    setMessage("");
-    setMessageType("");
-    setPath(null);
-    setOptimalPath(null);
-    setShowOptimalPath(false);
-    setState(null);
-    setMovie(null);
-    setActor("");
-
-    try {
-      const res = await fetch(`${API}/api/game`, { method: 'POST' });
-      if (!res.ok) {
-        const error = await res.json();
-        throw new Error(error.message || "Failed to start game");
-      }
-      const data = await res.json();
-      setGameId(data.gameId);
-      setStart(data.startActor);
-      setTarget(data.targetActor);
-      setPath(data.path);
-    } catch (err) {
-      setMessage(err.message || "Backend not ready. Try again in a moment.");
-      setMessageType("error");
-    } finally {
-      setLoading(false);
     }
   };
 
@@ -161,10 +284,17 @@ export default function App() {
       setPath(data.path);
       setState(data.state);
 
+      // Save updated state to localStorage
+      setTimeout(() => saveGameState(), 100);
+
       // Show success message only on win
       if (data.state && data.state.completed) {
         setMessage("🎉 You won!");
         setMessageType("success");
+
+        // Stop timer (keep completed state per plan)
+        setElapsedSeconds(calculateElapsedSeconds());
+        setTimerStartTime(null);
       }
 
       // Reset inputs on successful guess
@@ -252,10 +382,21 @@ export default function App() {
     }
   }, [movie]);
 
+  // Auto-save game state every 10 seconds
+  useEffect(() => {
+    if (!gameId || !puzzleId) return;
+
+    const interval = setInterval(() => {
+      saveGameState();
+    }, 10000); // Save every 10 seconds
+
+    return () => clearInterval(interval);
+  }, [gameId, puzzleId, path, state, elapsedSeconds, timerStartTime]);
+
   const handleStartGame = () => {
     localStorage.setItem('cinelinks-onboarding-seen', 'true');
     setShowOnboarding(false);
-    startGame();
+    startDailyPuzzle();
   };
 
   const handleViewTutorial = () => {
@@ -268,7 +409,7 @@ export default function App() {
     localStorage.setItem('cinelinks-onboarding-seen', 'true');
     setShowOnboarding(false);
     if (!gameId) {
-      startGame();
+      startDailyPuzzle();
     }
   };
 
