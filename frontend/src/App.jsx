@@ -72,6 +72,61 @@ export default function App() {
     }
   };
 
+  const handleSwapActors = async () => {
+    if (!gameId || loading) return;
+
+    // Frontend validation: prevent swap if moves have been made
+    if (state && state.totalGuesses > 0) {
+      setMessage("Cannot swap actors after making a move");
+      setMessageType("error");
+      setTimeout(() => {
+        setMessage("");
+        setMessageType("");
+      }, 3000);
+      return;
+    }
+
+    setLoading(true);
+    setMessage("");
+    setMessageType("");
+
+    try {
+      const res = await fetch(`${API}/api/game/${gameId}/swap-actors`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" }
+      });
+
+      if (!res.ok) {
+        const error = await res.json();
+        throw new Error(error.detail || error.message || "Failed to swap actors");
+      }
+
+      const data = await res.json();
+
+      // Update state with swapped actors
+      setStart(data.startActor);
+      setTarget(data.targetActor);
+      setPath(data.path);
+
+      setMessage("Actors swapped!");
+      setMessageType("success");
+      setTimeout(() => {
+        setMessage("");
+        setMessageType("");
+      }, 2000);
+
+    } catch (err) {
+      setMessage(err.message || "Failed to swap actors");
+      setMessageType("error");
+      setTimeout(() => {
+        setMessage("");
+        setMessageType("");
+      }, 3000);
+    } finally {
+      setLoading(false);
+    }
+  };
+
   const submitGuess = async (e) => {
     if (e) e.preventDefault();
     if (!gameId || !movie || !actor) return;
@@ -250,7 +305,38 @@ export default function App() {
                   flexWrap: 'wrap'
                 }}>
                   <ActorCard actor={start} />
-                  <div style={{ fontSize: '36px', color: '#d1d5db', fontWeight: '300' }}>↔</div>
+                  {(!state || state.totalGuesses === 0) ? (
+                    <button
+                      onClick={handleSwapActors}
+                      disabled={loading}
+                      style={{
+                        fontSize: '36px',
+                        color: loading ? '#d1d5db' : '#6b7280',
+                        fontWeight: '300',
+                        border: 'none',
+                        background: 'transparent',
+                        cursor: loading ? 'not-allowed' : 'pointer',
+                        padding: '8px 16px',
+                        transition: 'all 0.2s',
+                        opacity: loading ? 0.5 : 1
+                      }}
+                      onMouseEnter={(e) => {
+                        if (!loading) {
+                          e.target.style.color = '#111827';
+                          e.target.style.transform = 'scale(1.1)';
+                        }
+                      }}
+                      onMouseLeave={(e) => {
+                        e.target.style.color = '#6b7280';
+                        e.target.style.transform = 'scale(1)';
+                      }}
+                      title="Swap starting and target actors"
+                    >
+                      ⇄
+                    </button>
+                  ) : (
+                    <div style={{ fontSize: '36px', color: '#d1d5db', fontWeight: '300' }}>→</div>
+                  )}
                   <ActorCard actor={target} />
                 </div>
 
