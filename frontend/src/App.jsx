@@ -245,23 +245,20 @@ export default function App() {
       minHeight: '100vh',
       backgroundColor: '#ffffff',
       display: 'flex',
-      alignItems: 'center',
       justifyContent: 'center',
       fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
     }}>
       <div style={{ width: '100%', maxWidth: '1000px' }}>
         {/* Header - Centered */}
-        <div style={{ textAlign: 'center', marginBottom: '32px' }}>
-          <h1 style={{
-            fontSize: '72px',
+        <div className="header-container" style={{ textAlign: 'center' }}>
+          <h1 className="game-title" style={{
             fontWeight: '300',
             color: '#111827',
-            marginBottom: '12px',
             letterSpacing: '-0.02em'
           }}>
             CineLinks
           </h1>
-          <p style={{ color: '#6b7280', fontSize: '20px', fontWeight: '300' }}>
+          <p className="game-subtitle" style={{ color: '#6b7280', fontWeight: '300' }}>
             Connect actors through their movies
           </p>
           {healthStatus && !healthStatus.ready && (
@@ -276,7 +273,7 @@ export default function App() {
           backgroundColor: '#ffffff',
           overflow: 'hidden'
         }}>
-          <div style={{ padding: '48px' }}>
+          <div className="main-container-padding">
             {loading && !gameId ? (
               <div style={{
                 display: 'flex',
@@ -295,7 +292,7 @@ export default function App() {
                 </p>
               </div>
             ) : gameId ? (
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '48px' }}>
+              <div className="main-sections-container" style={{ display: 'flex', flexDirection: 'column' }}>
                 {/* Actor Display - Side by Side with Inline Styles */}
                 <div className="actor-display-container" style={{
                   display: 'flex',
@@ -309,8 +306,8 @@ export default function App() {
                     <button
                       onClick={handleSwapActors}
                       disabled={loading}
+                      className="actor-separator-button"
                       style={{
-                        fontSize: '36px',
                         color: loading ? '#d1d5db' : '#6b7280',
                         fontWeight: '300',
                         border: 'none',
@@ -335,22 +332,21 @@ export default function App() {
                       ⇄
                     </button>
                   ) : (
-                    <div style={{ fontSize: '36px', color: '#d1d5db', fontWeight: '300' }}>→</div>
+                    <div className="actor-separator-arrow" style={{ color: '#d1d5db', fontWeight: '300' }}>→</div>
                   )}
                   <ActorCard actor={target} />
                 </div>
 
                 {/* Game Stats - Centered */}
                 {state && (
-                  <div style={{
+                  <div className="game-stats" style={{
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
-                    gap: '48px',
                     textAlign: 'center'
                   }}>
                     <div>
-                      <div style={{ fontSize: '36px', fontWeight: '300', color: '#111827' }}>
+                      <div className="game-stats-number" style={{ fontWeight: '300', color: '#111827' }}>
                         {state.moves_taken || 0}
                       </div>
                       <div style={{ fontSize: '14px', color: '#6b7280', marginTop: '4px', fontWeight: '300' }}>
@@ -359,7 +355,7 @@ export default function App() {
                     </div>
                     <div style={{ width: '1px', height: '48px', backgroundColor: '#e5e7eb' }}></div>
                     <div>
-                      <div style={{ fontSize: '36px', fontWeight: '300', color: '#111827' }}>
+                      <div className="game-stats-number" style={{ fontWeight: '300', color: '#111827' }}>
                         {state.moves_remaining ?? 6}
                       </div>
                       <div style={{ fontSize: '14px', color: '#6b7280', marginTop: '4px', fontWeight: '300' }}>
@@ -369,18 +365,9 @@ export default function App() {
                   </div>
                 )}
 
-                {/* Instructions - Centered */}
-                {!state?.completed && (
-                  <div style={{ textAlign: 'center' }}>
-                    <p style={{ color: '#374151', fontWeight: '300', fontSize: '18px' }}>
-                      Enter a movie and actor to connect them
-                    </p>
-                  </div>
-                )}
-
                 {/* Input Form - Centered */}
                 {!state?.completed && (
-                  <div style={{ display: 'flex', flexDirection: 'column', gap: '24px', maxWidth: '640px', margin: '0 auto', width: '100%' }}>
+                  <div className="game-form" style={{ display: 'flex', flexDirection: 'column', maxWidth: '640px', margin: '0 auto', width: '100%' }}>
                     <div style={{ position: 'relative' }}>
                       <label style={{
                         display: 'block',
@@ -551,7 +538,7 @@ export default function App() {
                 )}
 
                 {/* Path Visualization */}
-                {path && (
+                {path && state && state.totalGuesses > 0 && (
                   <div style={{ marginTop: '32px' }}>
                     <PathVisualization path={path} isOptimal={false} />
                   </div>
@@ -702,8 +689,7 @@ function PathVisualization({ path, isOptimal = false }) {
   const segments = path.segments || [];
 
   return (
-    <div style={{
-      padding: '180px 20px 80px 20px',
+    <div className="path-visualization" style={{
       overflowX: 'auto',
       overflowY: 'visible'
     }}>
@@ -792,11 +778,10 @@ function MovieSegment({ movie, index, isOptimal = false }) {
   const lineColor = isOptimal ? '#10b981' : '#6b7280';
 
   return (
-    <div style={{
+    <div className="movie-segment" style={{
       position: 'relative',
       display: 'flex',
       alignItems: 'center',
-      height: '280px', // Increased height to prevent overlap
       animation: `slideIn 0.3s ease-out ${index * 0.15}s both`
     }}>
       {/* Horizontal line through center */}
@@ -808,7 +793,7 @@ function MovieSegment({ movie, index, isOptimal = false }) {
         zIndex: 1
       }}>
         {/* Vertical connector line - positioned at center of horizontal line */}
-        <div style={{
+        <div className={`movie-segment-connector ${isAbove ? 'movie-segment-connector-above' : ''}`} style={{
           position: 'absolute',
           left: '50%',
           top: isAbove ? '-90px' : '0',
@@ -819,7 +804,7 @@ function MovieSegment({ movie, index, isOptimal = false }) {
         }} />
 
         {/* Movie box - positioned at end of vertical connector */}
-        <div style={{
+        <div className={isAbove ? 'movie-segment-movie-above' : 'movie-segment-movie-below'} style={{
           position: 'absolute',
           left: '50%',
           transform: 'translateX(-50%)',
