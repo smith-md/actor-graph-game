@@ -2,6 +2,7 @@ import os, json, hashlib, unicodedata, random, pickle
 from uuid import uuid4
 from typing import Dict, Optional, List
 from collections import defaultdict
+from datetime import datetime
 
 import networkx as nx
 from fastapi import FastAPI, HTTPException, Query
@@ -10,6 +11,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 from game_logic import MovieConnectionGame
+from daily_puzzle import DailyPuzzleManager
 
 app = FastAPI(
     title="CineLinks API",
@@ -36,6 +38,7 @@ GRAPH_PATH = os.getenv("CINELINKS_GRAPH_PATH", "global_actor_actor_graph.gpickle
 ACTOR_MOVIE_INDEX = None  # NEW: Comprehensive actor-movie index for StartActorScore & full movie coverage
 ACTOR_INDEX, MOVIE_INDEX = [], []
 ACTOR_BY_NORM, MOVIE_BY_NORM = {}, {}
+DAILY_PUZZLE_MANAGER = None  # Daily puzzle generation with 20-day exclusion
 
 # ---------- Utilities ----------
 def norm(s: str) -> str:
@@ -129,7 +132,7 @@ def build_lookup_maps(G, actor_index, movie_index):
 
 def load_graph():
     """Load the prebuilt graph AND actor-movie index using pickle."""
-    global GRAPH, GRAPH_READY, GRAPH_CHECKSUM, ACTOR_INDEX, MOVIE_INDEX, ACTOR_BY_NORM, MOVIE_BY_NORM, ACTOR_MOVIE_INDEX
+    global GRAPH, GRAPH_READY, GRAPH_CHECKSUM, ACTOR_INDEX, MOVIE_INDEX, ACTOR_BY_NORM, MOVIE_BY_NORM, ACTOR_MOVIE_INDEX, DAILY_PUZZLE_MANAGER
     if not os.path.exists(GRAPH_PATH):
         print(f"[CineLinks] Graph file not found at {GRAPH_PATH}")
         GRAPH_READY = False
@@ -164,12 +167,17 @@ def load_graph():
         starting_count = sum(1 for _, d in GRAPH.nodes(data=True) if d.get("in_starting_pool", False))
         print(f"[CineLinks] Playable actors: {playable_count}")
         print(f"[CineLinks] Starting pool: {starting_count}")
+
+        # Initialize daily puzzle manager
+        DAILY_PUZZLE_MANAGER = DailyPuzzleManager(GRAPH)
+        print(f"[CineLinks] Daily puzzle manager initialized")
     except Exception as e:
         print(f"[CineLinks] Failed to load graph: {e}")
         GRAPH = None
         GRAPH_READY = False
         GRAPH_CHECKSUM = ""
         ACTOR_MOVIE_INDEX = None
+        DAILY_PUZZLE_MANAGER = None
 
 def resolve_from_map_loose(key: str, mapping: dict, contains: bool = True, limit: int = 50):
     """Return list of node IDs by normalized key; supports loose 'contains' fallback."""
@@ -315,6 +323,36 @@ def meta():
         "movies": movies,
         "edges": GRAPH.number_of_edges(),
         "checksum": GRAPH_CHECKSUM
+    }
+
+@app.get("/api/daily-pair")
+def get_daily_pair():
+    """
+    Get today's daily puzzle actor pair.
+
+    Returns deterministic puzzle for current date (UTC).
+    All users get same puzzle on same day.
+
+    Response:
+        {
+            "puzzleId": "20260107",
+            "startActor": { "id": "...", "name": "...", "imageUrl": "..." },
+            "targetActor": { "id": "...", "name": "...", "imageUrl": "..." }
+        }
+    """
+    if not GRAPH_READY:
+        return graph_not_ready_response()
+
+    # Get current date in UTC as puzzle ID
+    puzzle_id = datetime.utcnow().strftime("%Y%m%d")
+
+    # Get or generate today's puzzle
+    start_actor, target_actor = DAILY_PUZZLE_MANAGER.get_daily_puzzle(puzzle_id)
+
+    return {
+        "puzzleId": puzzle_id,
+        "startActor": build_actor_node_dict(start_actor),
+        "targetActor": build_actor_node_dict(target_actor)
     }
 
 @app.get("/autocomplete/actors")
