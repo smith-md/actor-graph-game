@@ -80,30 +80,31 @@ def build_indexes(G, actor_movie_index=None):
             "tmdb_id": data.get("tmdb_id")  # Add for reverse lookup
         })
 
-    # Build movie index from actor_movie_index (NEW - comprehensive coverage)
+    # Build movie index from edge metadata (always include all movies in graph)
+    for u, v, edge_data in G.edges(data=True):
+        movies_list = edge_data.get('movies', [])
+        for movie in movies_list:
+            movie_id = movie['id']
+            if movie_id not in movies_dict:
+                movies_dict[movie_id] = {
+                    "movie_id": movie_id,
+                    "title": movie['title'],
+                    "title_norm": norm(movie['title']),
+                    "image": tmdb_img(movie.get('poster_path'), "w185"),
+                    "poster_path": movie.get('poster_path'),
+                }
+
+    # Supplement with actor_movie_index if available (for additional metadata)
     if actor_movie_index:
         for movie_id, movie_data in actor_movie_index["movies"].items():
-            movies_dict[movie_id] = {
-                "movie_id": movie_id,
-                "title": movie_data["title"],
-                "title_norm": norm(movie_data["title"]),
-                "image": tmdb_img(movie_data.get("poster_path"), "w185"),
-                "poster_path": movie_data.get("poster_path"),
-            }
-    else:
-        # Fallback: Build movie index from edge metadata (old behavior)
-        for u, v, edge_data in G.edges(data=True):
-            movies_list = edge_data.get('movies', [])
-            for movie in movies_list:
-                movie_id = movie['id']
-                if movie_id not in movies_dict:
-                    movies_dict[movie_id] = {
-                        "movie_id": movie_id,
-                        "title": movie['title'],
-                        "title_norm": norm(movie['title']),
-                        "image": tmdb_img(movie.get('poster_path'), "w185"),
-                        "poster_path": movie.get('poster_path'),
-                    }
+            if movie_id not in movies_dict:
+                movies_dict[movie_id] = {
+                    "movie_id": movie_id,
+                    "title": movie_data["title"],
+                    "title_norm": norm(movie_data["title"]),
+                    "image": tmdb_img(movie_data.get("poster_path"), "w185"),
+                    "poster_path": movie_data.get("poster_path"),
+                }
 
     movies = list(movies_dict.values())
     return actors, movies
