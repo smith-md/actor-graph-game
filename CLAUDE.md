@@ -17,9 +17,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ```
 TMDb API
    ↓
-build_actor_movie_graph.py (Data Pipeline)
+build_actor_actor_graph.py (Data Pipeline)
    ↓
-global_actor_movie_graph.gpickle (NetworkX Bipartite Graph)
+global_actor_actor_graph.gpickle (NetworkX Actor-Actor Graph)
    ↓
 FastAPI Backend (game logic + REST API)
    ↓
@@ -28,10 +28,11 @@ React Frontend (UI + API client)
 
 ### Key Components
 
-**Graph Structure**: A bipartite NetworkX graph with two node types:
-- **Actor nodes**: Format `actor::tmdb_id::name` with attributes like `profile_path`
-- **Movie nodes**: Format `movie::tmdb_id::title` with attributes like `poster_path`
-- **Edges**: Connect actors to movies they appeared in
+**Graph Structure**: An actor-actor NetworkX graph where:
+- **Nodes**: Actors (format `actor_{tmdb_id}`) with attributes like `name`, `profile_path`, `in_playable_graph`, `in_starting_pool`
+- **Edges**: Connect actors who appeared in the same movie
+- **Edge metadata**: Contains list of movies the actors co-starred in with movie details (title, poster, popularity, vote_count)
+- **Actor-Movie Index**: Separate pickle file (`global_actor_actor_graph_actor_movie_index.pickle`) maps actors to their movies for autocomplete
 
 **Game Logic** (`backend/game_logic.py`):
 - `MovieConnectionGame` class manages a single game instance
@@ -70,32 +71,33 @@ Key endpoints:
 ### Setup (One-time)
 
 ```bash
-# Build the actor-movie graph from TMDb API
-cd build
-python -m venv venv
-# Windows: .\venv\Scripts\Activate.ps1
-# Unix: source venv/bin/activate
-pip install -r requirements-build.txt
-
-# Create .env with your TMDb API key
-echo "TMDB_API_KEY=your_key_here" > .env
-
-# Build graph (~8 minutes, ~4-5 MB file)
-# --top 150 (default): ~150 actors, ~2,700 movies
-# Adjust --top to change dataset size (100 for faster build, 200 for larger)
-python build_actor_movie_graph.py --out ../backend/global_actor_movie_graph.gpickle --top 150
-
-# Verify graph integrity (optional)
-python verify_graph.py ../backend/global_actor_movie_graph.gpickle
-```
-
-```bash
-# Install backend dependencies
+# Install backend dependencies (used for both backend AND build)
 cd backend
 python -m venv venv
 # Windows: .\venv\Scripts\Activate.ps1
 # Unix: source venv/bin/activate
 pip install -r requirements.txt
+```
+
+```bash
+# Create .env for TMDb API access
+cd build
+echo "TMDB_API_KEY=your_key_here" > .env
+
+# Build the actor-actor graph from TMDb API
+# Uses backend venv (consolidated setup)
+cd build
+..\backend\venv\Scripts\Activate.ps1  # Windows
+# source ../backend/venv/bin/activate  # Unix
+
+# Build graph (first run: ~10-15 minutes with API calls, subsequent runs: seconds with cache)
+# --min-votes 100: Fetch movies with 100+ votes (cast to larger pool)
+# --max-pages 100: Fetch up to 100 pages of popular movies
+python build_actor_actor_graph.py --out ../backend/global_actor_actor_graph.gpickle --min-votes 100 --max-pages 100
+
+# The build creates two files:
+# - global_actor_actor_graph.gpickle (the graph)
+# - global_actor_actor_graph_actor_movie_index.pickle (actor-movie index for autocomplete)
 ```
 
 ```bash
@@ -195,11 +197,11 @@ curl http://localhost:8000/start_game
 - `.env` - API URL configuration
 
 **Build** (`build/`):
-- `build_actor_movie_graph.py` - Fetches TMDb data, constructs graph
-- `verify_graph.py` - Validates graph integrity
-- `requirements-build.txt` - Build-only dependencies
-- `tmdb_cache/` - Cached API responses for offline/reproducible builds
+- `build_actor_actor_graph.py` - Fetches TMDb data, constructs actor-actor graph
+- `list_actors_by_popularity.py` - Utility to list top actors
+- `tmdb_cache/` - Cached API responses (movie credits, details, actor credits) for fast rebuilds
 - `.env` - TMDb API credentials
+- Note: Uses backend venv (no separate venv required)
 
 ## Key Implementation Details
 
@@ -244,19 +246,27 @@ Backend generates path graph visualization:
 
 ## Configuration & Customization
 
-**Graph Size** (`build/build_actor_movie_graph.py --top N`):
-- `--top 150` (default): ~150 actors, 2,700 movies, 8 minutes to build
-- `--top 100`: Smaller/faster (5-6 minutes)
-- `--top 200`: Larger/more variety (10+ minutes)
+**Movie Vote Threshold** (`build/build_actor_actor_graph.py` line 442):
+- `MIN_VOTE_COUNT = 3000` (current): Includes moderately popular movies for more interesting pathways
+- Increase to 10000 for only blockbuster movies (easier, more recognizable)
+- Decrease to 1000-2000 for more obscure indie films (harder, more diverse)
+- This filters which movies count toward actor selection and graph building
+
+**Graph Size** (`build/build_actor_actor_graph.py --min-votes N --max-pages N`):
+- `--min-votes 100 --max-pages 100` (default): Fetches movies with 100+ votes from up to 100 pages
+- Decrease pages for smaller dataset (faster build)
+- Increase pages for larger variety (more actors/movies)
+- First build: 10-15 minutes (API calls), subsequent builds: seconds (uses cache)
+
+**Caching** (`build/tmdb_cache/`):
+- Movie credits and details are cached automatically
+- Delete cache files to force refresh from TMDb API
+- Cache makes rebuilds instant when tweaking MIN_VOTE_COUNT or other processing parameters
+- Pass `--refresh-cache` to force re-fetch from API
 
 **Game Difficulty** (edit `backend/main.py`, search for `MovieConnectionGame`):
 - `max_incorrect_guesses=3` (default)
 - Change to 1 for hard mode, 5+ for easier mode
-
-**Increase Actor Dataset** (`build_actor_movie_graph.py`):
-- Edit `PAGES` constant to fetch more popular actors
-- Default is 8 pages × 20 actors = ~150 actors
-- More pages = more build time and larger file
 
 **CORS** (`backend/main.py`):
 - Currently allows all origins (`allow_origins=["*"]`)
@@ -266,33 +276,30 @@ Backend generates path graph visualization:
 
 - **`backend/main.py`**: All backend logic - modify here for new endpoints, game rules, API behavior
 - **`backend/game_logic.py`**: Game move validation - modify here to change how moves are validated
+- **`backend/daily_puzzle.py`**: Daily puzzle generation with 20-day actor exclusion
 - **`frontend/src/App.jsx`**: All UI - modify for visual changes, new features, layout
-- **`build/build_actor_movie_graph.py`**: Graph construction - modify for different data sources or dataset sizes
+- **`build/build_actor_actor_graph.py`**: Graph construction - modify MIN_VOTE_COUNT (line 442) to adjust movie inclusion threshold
 - **`cinelinks-readme.md`**, **`cinelinks-api.md`**, **`cinelinks-game-rules.md`**: Project documentation with detailed info
 
 ## Dependencies Summary
 
-**Backend** (`backend/requirements.txt`):
-- `fastapi==0.115.0` - Web framework
-- `uvicorn==0.30.3` - ASGI server
-- `networkx==3.3` - Graph algorithms
-- `matplotlib==3.9.2` - Visualization
-- `pydantic==2.8.2` - Data validation
-- `requests==2.32.3` - HTTP client
-- `python-multipart==0.0.9` - Form parsing
+**Backend** (`backend/requirements.txt`) - Consolidated for both backend and build:
+- `fastapi==0.128.0` - Web framework
+- `uvicorn==0.40.0` - ASGI server
+- `networkx==3.6.1` - Graph algorithms
+- `matplotlib==3.10.8` - Visualization
+- `pydantic==2.12.5` - Data validation
+- `requests==2.32.5` - HTTP client
+- `python-multipart==0.0.21` - Form parsing
+- `pandas==2.3.3` - Data manipulation (for build)
+- `tqdm==4.67.1` - Progress bars (for build)
+- `python-dotenv==1.2.1` - Load .env files (for build)
 
 **Frontend** (`frontend/package.json`):
 - `react==18.3.1` - UI framework
 - `react-dom==18.3.1` - DOM rendering
 - `vite==5.3.3` - Build tool (dev only)
 - `@vitejs/plugin-react==4.3.1` - React support (dev only)
-
-**Build** (`build/requirements-build.txt`):
-- `requests` - Fetch TMDb API
-- `tqdm` - Progress bars
-- `pandas` - Data manipulation
-- `networkx` - Graph construction
-- `python-dotenv` - Load .env files
 
 ## Common Tasks
 
@@ -307,10 +314,12 @@ Backend generates path graph visualization:
 2. Change `max_incorrect_guesses` parameter
 3. Or edit `backend/game_logic.py` - modify `guess()` validation logic
 
-**Rebuild the graph** (e.g., after changing data sources):
-1. Update `build/build_actor_movie_graph.py` as needed
-2. Run: `python build_actor_movie_graph.py --out ../backend/global_actor_movie_graph.gpickle --top 150`
-3. Backend will reload graph on next restart (or poll for changes)
+**Rebuild the graph** (e.g., after changing MIN_VOTE_COUNT or other parameters):
+1. Update `build/build_actor_actor_graph.py` as needed (e.g., change MIN_VOTE_COUNT on line 442)
+2. Activate backend venv: `cd build && ..\backend\venv\Scripts\Activate.ps1`
+3. Run: `python build_actor_actor_graph.py --out ../backend/global_actor_actor_graph.gpickle`
+4. First run fetches from API (~10-15 min), subsequent runs use cache (seconds)
+5. Backend will reload graph on next restart
 
 **Add UI features** (autocomplete, animations, etc.):
 1. Edit `frontend/src/App.jsx`

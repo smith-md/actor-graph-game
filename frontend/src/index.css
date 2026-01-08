@@ -524,3 +524,21 @@ body { margin: 0; background: #0b0f14; }
     font-size: 14px !important;
   }
 }
+
+/* Give Up Button - Desktop positioning (top right) */
+@media (min-width: 481px) {
+  .give-up-button {
+    position: absolute !important;
+    top: 0 !important;
+    right: 0 !important;
+  }
+}
+
+/* Give Up Button - Mobile positioning (below actor cards, centered) */
+@media (max-width: 480px) {
+  .give-up-button {
+    position: static !important;
+    margin: 16px auto 0 auto !important;
+    display: block !important;
+  }
+}

@@ -142,21 +142,28 @@ export default function App() {
 
       setPuzzleId(dailyData.puzzleId);
 
-      // Create game session with those actors
-      const gameRes = await fetch(`${API}/api/game`, { method: 'POST' });
+      // Create game session with daily puzzle actors
+      const gameRes = await fetch(`${API}/api/game`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({
+          startActorId: dailyData.startActor.id,
+          targetActorId: dailyData.targetActor.id
+        })
+      });
       if (!gameRes.ok) {
         const error = await gameRes.json();
         throw new Error(error.message || "Failed to start game");
       }
       const gameData = await gameRes.json();
 
-      // Use daily puzzle actors (override random selection)
+      // Set game state from response
       setGameId(gameData.gameId);
-      setStart(dailyData.startActor);
-      setTarget(dailyData.targetActor);
+      setStart(gameData.startActor);
+      setTarget(gameData.targetActor);
       setPath({
-        startActor: dailyData.startActor,
-        targetActor: dailyData.targetActor,
+        startActor: gameData.startActor,
+        targetActor: gameData.targetActor,
         segments: []
       });
 
@@ -243,6 +250,9 @@ export default function App() {
       setTarget(data.targetActor);
       setPath(data.path);
 
+      // Save updated state to localStorage
+      setTimeout(() => saveGameState(), 100);
+
       setMessage("Actors swapped!");
       setMessageType("success");
       setTimeout(() => {
@@ -257,6 +267,64 @@ export default function App() {
         setMessage("");
         setMessageType("");
       }, 3000);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleGiveUp = async () => {
+    if (!gameId || loading) return;
+
+    // Confirm before giving up
+    if (!window.confirm("Are you sure you want to give up? This will count as a loss and show you the solution.")) {
+      return;
+    }
+
+    setLoading(true);
+    setMessage("");
+    setMessageType("");
+
+    try {
+      const res = await fetch(`${API}/api/game/${gameId}/give-up`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" }
+      });
+
+      if (!res.ok) {
+        const error = await res.json();
+        throw new Error(error.detail || error.message || "Failed to give up");
+      }
+
+      const data = await res.json();
+
+      // Update state with gave-up status
+      setState({
+        ...state,
+        completed: true,
+        gaveUp: true,
+        incorrectGuesses: 3,
+        remainingAttempts: 0
+      });
+
+      // Stop timer
+      setElapsedSeconds(calculateElapsedSeconds());
+      setTimerStartTime(null);
+
+      // Clear game state from localStorage (daily puzzle is over)
+      clearGameState();
+
+      // Show message
+      setMessage("You gave up. Here's the optimal solution:");
+      setMessageType("error");
+
+      // Automatically fetch and show optimal path
+      setTimeout(() => {
+        fetchOptimalPath();
+      }, 500);
+
+    } catch (err) {
+      setMessage(err.message || "Failed to give up");
+      setMessageType("error");
     } finally {
       setLoading(false);
     }
@@ -506,7 +574,38 @@ export default function App() {
                 </p>
               </div>
             ) : gameId ? (
-              <div className="main-sections-container" style={{ display: 'flex', flexDirection: 'column' }}>
+              <div className="main-sections-container" style={{ display: 'flex', flexDirection: 'column', position: 'relative' }}>
+                {/* Give Up Button - Top Right Corner */}
+                {!state?.completed && (
+                  <button
+                    onClick={handleGiveUp}
+                    disabled={loading}
+                    className="give-up-button"
+                    style={{
+                      padding: '8px 16px',
+                      backgroundColor: 'transparent',
+                      color: '#111827',
+                      fontWeight: '300',
+                      fontSize: '14px',
+                      border: '1px solid #111827',
+                      borderRadius: '8px',
+                      cursor: loading ? 'not-allowed' : 'pointer',
+                      opacity: loading ? 0.3 : 1,
+                      transition: 'all 0.2s'
+                    }}
+                    onMouseEnter={(e) => {
+                      if (!loading) {
+                        e.target.style.backgroundColor = '#f9fafb';
+                      }
+                    }}
+                    onMouseLeave={(e) => {
+                      e.target.style.backgroundColor = 'transparent';
+                    }}
+                  >
+                    Give Up?
+                  </button>
+                )}
+
                 {/* Actor Display - Side by Side with Inline Styles */}
                 <div className="actor-display-container" style={{
                   display: 'flex',
@@ -758,8 +857,8 @@ export default function App() {
                   </div>
                 )}
 
-                {/* Post-win controls */}
-                {state?.completed && state?.incorrectGuesses < 3 && (
+                {/* Win state - Show controls to view optimal path */}
+                {state?.completed && state?.incorrectGuesses < 3 && !state?.gaveUp && (
                   <div style={{ textAlign: 'center', marginTop: '32px', display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
                     <button
                       onClick={fetchOptimalPath}
@@ -785,7 +884,7 @@ export default function App() {
                     </button>
 
                     <button
-                      onClick={startGame}
+                      onClick={startDailyPuzzle}
                       style={{
                         padding: '16px 48px',
                         backgroundColor: '#111827',
@@ -809,31 +908,112 @@ export default function App() {
                   </div>
                 )}
 
-                {/* New Game Button for game over (loss) */}
-                {state?.completed && state?.incorrectGuesses >= 3 && (
-                  <div style={{ textAlign: 'center', paddingTop: '32px' }}>
-                    <button
-                      onClick={startGame}
-                      style={{
-                        padding: '16px 48px',
-                        backgroundColor: '#111827',
-                        color: '#ffffff',
-                        fontWeight: '300',
-                        borderRadius: '9999px',
-                        border: 'none',
-                        cursor: 'pointer',
-                        fontSize: '18px',
-                        transition: 'all 0.2s'
-                      }}
-                      onMouseEnter={(e) => {
-                        e.target.style.backgroundColor = '#1f2937';
-                      }}
-                      onMouseLeave={(e) => {
-                        e.target.style.backgroundColor = '#111827';
-                      }}
-                    >
-                      Start New Game
-                    </button>
+                {/* Loss by incorrect attempts */}
+                {state?.completed && state?.incorrectGuesses >= 3 && !state?.gaveUp && (
+                  <div>
+                    <div style={{
+                      textAlign: 'center',
+                      padding: '20px',
+                      backgroundColor: '#fef2f2',
+                      borderRadius: '16px',
+                      marginTop: '32px',
+                      border: '1px solid #fecaca'
+                    }}>
+                      <p style={{ fontSize: '18px', fontWeight: '500', color: '#991b1b', marginBottom: '16px' }}>
+                        Game Over - You ran out of attempts
+                      </p>
+                      <button
+                        onClick={fetchOptimalPath}
+                        style={{
+                          padding: '12px 24px',
+                          backgroundColor: '#10b981',
+                          color: '#ffffff',
+                          borderRadius: '12px',
+                          border: 'none',
+                          cursor: 'pointer',
+                          fontSize: '16px',
+                          fontWeight: '500',
+                          transition: 'all 0.2s'
+                        }}
+                        onMouseEnter={(e) => {
+                          e.target.style.backgroundColor = '#059669';
+                        }}
+                        onMouseLeave={(e) => {
+                          e.target.style.backgroundColor = '#10b981';
+                        }}
+                      >
+                        {showOptimalPath ? 'Hide Optimal Path' : 'Show Optimal Path'}
+                      </button>
+                    </div>
+                    <div style={{ textAlign: 'center', paddingTop: '16px' }}>
+                      <button
+                        onClick={startDailyPuzzle}
+                        style={{
+                          padding: '16px 48px',
+                          backgroundColor: '#111827',
+                          color: '#ffffff',
+                          fontWeight: '300',
+                          borderRadius: '9999px',
+                          border: 'none',
+                          cursor: 'pointer',
+                          fontSize: '18px',
+                          transition: 'all 0.2s'
+                        }}
+                        onMouseEnter={(e) => {
+                          e.target.style.backgroundColor = '#1f2937';
+                        }}
+                        onMouseLeave={(e) => {
+                          e.target.style.backgroundColor = '#111827';
+                        }}
+                      >
+                        Start New Game
+                      </button>
+                    </div>
+                  </div>
+                )}
+
+                {/* Gave up - Show optimal path automatically */}
+                {state?.completed && state?.gaveUp && (
+                  <div>
+                    <div style={{
+                      textAlign: 'center',
+                      padding: '20px',
+                      backgroundColor: '#fff7ed',
+                      borderRadius: '16px',
+                      marginTop: '32px',
+                      border: '1px solid #fed7aa'
+                    }}>
+                      <p style={{ fontSize: '18px', fontWeight: '500', color: '#9a3412', marginBottom: '8px' }}>
+                        You gave up on this puzzle
+                      </p>
+                      <p style={{ fontSize: '14px', color: '#9a3412', fontWeight: '300' }}>
+                        Here's the optimal solution:
+                      </p>
+                    </div>
+                    <div style={{ textAlign: 'center', paddingTop: '16px' }}>
+                      <button
+                        onClick={startDailyPuzzle}
+                        style={{
+                          padding: '16px 48px',
+                          backgroundColor: '#111827',
+                          color: '#ffffff',
+                          fontWeight: '300',
+                          borderRadius: '9999px',
+                          border: 'none',
+                          cursor: 'pointer',
+                          fontSize: '18px',
+                          transition: 'all 0.2s'
+                        }}
+                        onMouseEnter={(e) => {
+                          e.target.style.backgroundColor = '#1f2937';
+                        }}
+                        onMouseLeave={(e) => {
+                          e.target.style.backgroundColor = '#111827';
+                        }}
+                      >
+                        Start New Game
+                      </button>
+                    </div>
                   </div>
                 )}
 
@@ -871,7 +1051,7 @@ export default function App() {
                 }}>
                   <p style={{ fontSize: '16px', fontWeight: '300', marginBottom: '16px' }}>{message}</p>
                   <button
-                    onClick={startGame}
+                    onClick={startDailyPuzzle}
                     style={{
                       padding: '12px 24px',
                       backgroundColor: '#111827',

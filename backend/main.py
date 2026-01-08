@@ -236,6 +236,10 @@ class NewGuessInput(BaseModel):
     movieId: int
     actorName: str
 
+class CreateGameRequest(BaseModel):
+    startActorId: Optional[str] = None
+    targetActorId: Optional[str] = None
+
 class CreateGameResponse(BaseModel):
     gameId: str
     startActor: ActorNode
@@ -393,25 +397,36 @@ def autocomplete_movies(q: str = Query(..., min_length=1), limit: int = 10):
 
 # ---------- New PRD-Compliant API Endpoints ----------
 @app.post("/api/game")
-def create_game():
-    """Create new game with random actor pair."""
+def create_game(request: CreateGameRequest = CreateGameRequest()):
+    """Create new game with specified or random actor pair."""
     if not GRAPH_READY:
         return graph_not_ready_response()
 
-    # Select from starting pool (high-quality, well-known actors only)
-    starting_actors = [n for n in GRAPH.nodes() if GRAPH.nodes[n].get('in_starting_pool', False)]
+    # Use provided actors if given, otherwise select random pair
+    if request.startActorId and request.targetActorId:
+        # Validate provided actors exist in graph
+        if request.startActorId not in GRAPH.nodes():
+            raise HTTPException(status_code=400, detail=f"Start actor not found: {request.startActorId}")
+        if request.targetActorId not in GRAPH.nodes():
+            raise HTTPException(status_code=400, detail=f"Target actor not found: {request.targetActorId}")
 
-    if len(starting_actors) < 2:
-        raise HTTPException(status_code=500, detail="Not enough starting actors")
-
-    # Try to find two actors that aren't directly connected
-    for _ in range(100):
-        start, target = random.sample(starting_actors, 2)
-        if not GRAPH.has_edge(start, target):
-            break
+        start = request.startActorId
+        target = request.targetActorId
     else:
-        # Fallback: use any two actors if all are connected
-        start, target = random.sample(starting_actors, 2)
+        # Select from starting pool (high-quality, well-known actors only)
+        starting_actors = [n for n in GRAPH.nodes() if GRAPH.nodes[n].get('in_starting_pool', False)]
+
+        if len(starting_actors) < 2:
+            raise HTTPException(status_code=500, detail="Not enough starting actors")
+
+        # Try to find two actors that aren't directly connected
+        for _ in range(100):
+            start, target = random.sample(starting_actors, 2)
+            if not GRAPH.has_edge(start, target):
+                break
+        else:
+            # Fallback: use any two actors if all are connected
+            start, target = random.sample(starting_actors, 2)
 
     game_id = str(uuid4())
     games[game_id] = MovieConnectionGame(
@@ -492,9 +507,9 @@ def swap_actors(game_id: str):
         }
     }
 
-@app.get("/api/game/{game_id}/optimal-path")
-def get_optimal_path(game_id: str):
-    """Compute shortest path using NetworkX."""
+@app.post("/api/game/{game_id}/give-up")
+def give_up_game(game_id: str):
+    """Give up on the current game (counts as a loss)."""
     if not GRAPH_READY:
         return graph_not_ready_response()
 
@@ -502,16 +517,66 @@ def get_optimal_path(game_id: str):
     if not game:
         raise HTTPException(status_code=404, detail="Game not found")
 
-    if not game.completed:
-        raise HTTPException(status_code=400, detail="Complete the game first")
+    success, message = game.give_up()
 
-    # Compute shortest path
+    if not success:
+        raise HTTPException(status_code=400, detail=message)
+
+    return {
+        "success": True,
+        "message": message,
+        "state": {
+            "completed": game.completed,
+            "totalGuesses": game.total_guesses,
+            "incorrectGuesses": game.incorrect_guesses,
+            "remainingAttempts": 0,
+            "gaveUp": game.gave_up
+        }
+    }
+
+@app.get("/api/game/{game_id}/optimal-path")
+def get_optimal_path(game_id: str):
+    """
+    Compute shortest path using NetworkX.
+    Picks path with highest total movie popularity when multiple paths exist.
+    Can be called for incomplete games (e.g., after giving up).
+    """
+    if not GRAPH_READY:
+        return graph_not_ready_response()
+
+    game = games.get(game_id)
+    if not game:
+        raise HTTPException(status_code=404, detail="Game not found")
+
+    # Compute ALL shortest paths
     try:
-        actor_path = nx.shortest_path(GRAPH, game.start, game.target)
+        all_shortest_paths = list(nx.all_shortest_paths(GRAPH, game.start, game.target))
     except nx.NetworkXNoPath:
         raise HTTPException(status_code=500, detail="No path exists")
 
-    # Build segments
+    # Pick path with highest total movie popularity
+    if len(all_shortest_paths) == 1:
+        actor_path = all_shortest_paths[0]
+    else:
+        best_path = None
+        best_popularity = -1
+
+        for path in all_shortest_paths:
+            total_popularity = 0
+            for i in range(len(path) - 1):
+                edge_data = GRAPH.edges[path[i], path[i + 1]]
+                movies = edge_data.get('movies', [])
+                if movies:
+                    max_movie_popularity = max(m.get('popularity', 0) for m in movies)
+                    total_popularity += max_movie_popularity
+
+            if total_popularity > best_popularity:
+                best_popularity = total_popularity
+                best_path = path
+
+        actor_path = best_path if best_path else all_shortest_paths[0]
+
+    # Build segments with most popular movies
     segments = []
     for i in range(len(actor_path) - 1):
         current_actor = actor_path[i]

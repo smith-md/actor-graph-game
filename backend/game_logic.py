@@ -169,6 +169,7 @@ class MovieConnectionGame:
         self.max_incorrect = max_incorrect_guesses
         self.incorrect_guesses = 0
         self.total_guesses = 0
+        self.gave_up = False
 
         self.resolve_actor = resolve_actor or (lambda name: [])
         self.resolve_movie = resolve_movie or (lambda title: [])
@@ -236,6 +237,25 @@ class MovieConnectionGame:
 
         return True, f"✅ Valid move to {self._label(self.current)}.", poster_url
 
+    def give_up(self):
+        """
+        Give up on the game. Counts as a loss.
+
+        Sets completed=True, incorrect_guesses to max, and gave_up=True.
+        Can be called at any time during the game.
+
+        Returns:
+            Tuple of (success: bool, message: str)
+        """
+        if self.completed:
+            return False, "Game is already complete."
+
+        self.completed = True
+        self.incorrect_guesses = self.max_incorrect
+        self.gave_up = True
+
+        return True, "You gave up. Game over."
+
     def _get_movie_title(self, movie_id: int) -> str:
         """
         Get movie title from ID for error messages.
@@ -291,4 +311,5 @@ class MovieConnectionGame:
             "total_guesses": self.total_guesses,
             "incorrect_guesses": self.incorrect_guesses,
             "remaining_attempts": self.max_incorrect - self.incorrect_guesses,
+            "gave_up": self.gave_up,
         }
