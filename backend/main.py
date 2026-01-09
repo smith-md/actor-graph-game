@@ -2,6 +2,7 @@ import os, json, hashlib, unicodedata, random, pickle
 from uuid import uuid4
 from typing import Dict, Optional, List
 from collections import defaultdict
+from datetime import datetime
 
 import networkx as nx
 from fastapi import FastAPI, HTTPException, Query
@@ -10,6 +11,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 
 from game_logic import MovieConnectionGame
+from daily_puzzle import DailyPuzzleManager
 
 app = FastAPI(
     title="CineLinks API",
@@ -36,6 +38,7 @@ GRAPH_PATH = os.getenv("CINELINKS_GRAPH_PATH", "global_actor_actor_graph.gpickle
 ACTOR_MOVIE_INDEX = None  # NEW: Comprehensive actor-movie index for StartActorScore & full movie coverage
 ACTOR_INDEX, MOVIE_INDEX = [], []
 ACTOR_BY_NORM, MOVIE_BY_NORM = {}, {}
+DAILY_PUZZLE_MANAGER = None  # Daily puzzle generation with 20-day exclusion
 
 # ---------- Utilities ----------
 def norm(s: str) -> str:
@@ -129,7 +132,7 @@ def build_lookup_maps(G, actor_index, movie_index):
 
 def load_graph():
     """Load the prebuilt graph AND actor-movie index using pickle."""
-    global GRAPH, GRAPH_READY, GRAPH_CHECKSUM, ACTOR_INDEX, MOVIE_INDEX, ACTOR_BY_NORM, MOVIE_BY_NORM, ACTOR_MOVIE_INDEX
+    global GRAPH, GRAPH_READY, GRAPH_CHECKSUM, ACTOR_INDEX, MOVIE_INDEX, ACTOR_BY_NORM, MOVIE_BY_NORM, ACTOR_MOVIE_INDEX, DAILY_PUZZLE_MANAGER
     if not os.path.exists(GRAPH_PATH):
         print(f"[CineLinks] Graph file not found at {GRAPH_PATH}")
         GRAPH_READY = False
@@ -164,12 +167,17 @@ def load_graph():
         starting_count = sum(1 for _, d in GRAPH.nodes(data=True) if d.get("in_starting_pool", False))
         print(f"[CineLinks] Playable actors: {playable_count}")
         print(f"[CineLinks] Starting pool: {starting_count}")
+
+        # Initialize daily puzzle manager
+        DAILY_PUZZLE_MANAGER = DailyPuzzleManager(GRAPH)
+        print(f"[CineLinks] Daily puzzle manager initialized")
     except Exception as e:
         print(f"[CineLinks] Failed to load graph: {e}")
         GRAPH = None
         GRAPH_READY = False
         GRAPH_CHECKSUM = ""
         ACTOR_MOVIE_INDEX = None
+        DAILY_PUZZLE_MANAGER = None
 
 def resolve_from_map_loose(key: str, mapping: dict, contains: bool = True, limit: int = 50):
     """Return list of node IDs by normalized key; supports loose 'contains' fallback."""
@@ -227,6 +235,10 @@ class GamePath(BaseModel):
 class NewGuessInput(BaseModel):
     movieId: int
     actorName: str
+
+class CreateGameRequest(BaseModel):
+    startActorId: Optional[str] = None
+    targetActorId: Optional[str] = None
 
 class CreateGameResponse(BaseModel):
     gameId: str
@@ -317,6 +329,36 @@ def meta():
         "checksum": GRAPH_CHECKSUM
     }
 
+@app.get("/api/daily-pair")
+def get_daily_pair():
+    """
+    Get today's daily puzzle actor pair.
+
+    Returns deterministic puzzle for current date (UTC).
+    All users get same puzzle on same day.
+
+    Response:
+        {
+            "puzzleId": "20260107",
+            "startActor": { "id": "...", "name": "...", "imageUrl": "..." },
+            "targetActor": { "id": "...", "name": "...", "imageUrl": "..." }
+        }
+    """
+    if not GRAPH_READY:
+        return graph_not_ready_response()
+
+    # Get current date in UTC as puzzle ID
+    puzzle_id = datetime.utcnow().strftime("%Y%m%d")
+
+    # Get or generate today's puzzle
+    start_actor, target_actor = DAILY_PUZZLE_MANAGER.get_daily_puzzle(puzzle_id)
+
+    return {
+        "puzzleId": puzzle_id,
+        "startActor": build_actor_node_dict(start_actor),
+        "targetActor": build_actor_node_dict(target_actor)
+    }
+
 @app.get("/autocomplete/actors")
 def autocomplete_actors(q: str = Query(..., min_length=1), limit: int = 10):
     if not GRAPH_READY:
@@ -355,25 +397,36 @@ def autocomplete_movies(q: str = Query(..., min_length=1), limit: int = 10):
 
 # ---------- New PRD-Compliant API Endpoints ----------
 @app.post("/api/game")
-def create_game():
-    """Create new game with random actor pair."""
+def create_game(request: CreateGameRequest = CreateGameRequest()):
+    """Create new game with specified or random actor pair."""
     if not GRAPH_READY:
         return graph_not_ready_response()
 
-    # Select from starting pool (high-quality, well-known actors only)
-    starting_actors = [n for n in GRAPH.nodes() if GRAPH.nodes[n].get('in_starting_pool', False)]
+    # Use provided actors if given, otherwise select random pair
+    if request.startActorId and request.targetActorId:
+        # Validate provided actors exist in graph
+        if request.startActorId not in GRAPH.nodes():
+            raise HTTPException(status_code=400, detail=f"Start actor not found: {request.startActorId}")
+        if request.targetActorId not in GRAPH.nodes():
+            raise HTTPException(status_code=400, detail=f"Target actor not found: {request.targetActorId}")
 
-    if len(starting_actors) < 2:
-        raise HTTPException(status_code=500, detail="Not enough starting actors")
-
-    # Try to find two actors that aren't directly connected
-    for _ in range(100):
-        start, target = random.sample(starting_actors, 2)
-        if not GRAPH.has_edge(start, target):
-            break
+        start = request.startActorId
+        target = request.targetActorId
     else:
-        # Fallback: use any two actors if all are connected
-        start, target = random.sample(starting_actors, 2)
+        # Select from starting pool (high-quality, well-known actors only)
+        starting_actors = [n for n in GRAPH.nodes() if GRAPH.nodes[n].get('in_starting_pool', False)]
+
+        if len(starting_actors) < 2:
+            raise HTTPException(status_code=500, detail="Not enough starting actors")
+
+        # Try to find two actors that aren't directly connected
+        for _ in range(100):
+            start, target = random.sample(starting_actors, 2)
+            if not GRAPH.has_edge(start, target):
+                break
+        else:
+            # Fallback: use any two actors if all are connected
+            start, target = random.sample(starting_actors, 2)
 
     game_id = str(uuid4())
     games[game_id] = MovieConnectionGame(
@@ -454,9 +507,9 @@ def swap_actors(game_id: str):
         }
     }
 
-@app.get("/api/game/{game_id}/optimal-path")
-def get_optimal_path(game_id: str):
-    """Compute shortest path using NetworkX."""
+@app.post("/api/game/{game_id}/give-up")
+def give_up_game(game_id: str):
+    """Give up on the current game (counts as a loss)."""
     if not GRAPH_READY:
         return graph_not_ready_response()
 
@@ -464,16 +517,66 @@ def get_optimal_path(game_id: str):
     if not game:
         raise HTTPException(status_code=404, detail="Game not found")
 
-    if not game.completed:
-        raise HTTPException(status_code=400, detail="Complete the game first")
+    success, message = game.give_up()
 
-    # Compute shortest path
+    if not success:
+        raise HTTPException(status_code=400, detail=message)
+
+    return {
+        "success": True,
+        "message": message,
+        "state": {
+            "completed": game.completed,
+            "totalGuesses": game.total_guesses,
+            "incorrectGuesses": game.incorrect_guesses,
+            "remainingAttempts": 0,
+            "gaveUp": game.gave_up
+        }
+    }
+
+@app.get("/api/game/{game_id}/optimal-path")
+def get_optimal_path(game_id: str):
+    """
+    Compute shortest path using NetworkX.
+    Picks path with highest total movie popularity when multiple paths exist.
+    Can be called for incomplete games (e.g., after giving up).
+    """
+    if not GRAPH_READY:
+        return graph_not_ready_response()
+
+    game = games.get(game_id)
+    if not game:
+        raise HTTPException(status_code=404, detail="Game not found")
+
+    # Compute ALL shortest paths
     try:
-        actor_path = nx.shortest_path(GRAPH, game.start, game.target)
+        all_shortest_paths = list(nx.all_shortest_paths(GRAPH, game.start, game.target))
     except nx.NetworkXNoPath:
         raise HTTPException(status_code=500, detail="No path exists")
 
-    # Build segments
+    # Pick path with highest total movie popularity
+    if len(all_shortest_paths) == 1:
+        actor_path = all_shortest_paths[0]
+    else:
+        best_path = None
+        best_popularity = -1
+
+        for path in all_shortest_paths:
+            total_popularity = 0
+            for i in range(len(path) - 1):
+                edge_data = GRAPH.edges[path[i], path[i + 1]]
+                movies = edge_data.get('movies', [])
+                if movies:
+                    max_movie_popularity = max(m.get('popularity', 0) for m in movies)
+                    total_popularity += max_movie_popularity
+
+            if total_popularity > best_popularity:
+                best_popularity = total_popularity
+                best_path = path
+
+        actor_path = best_path if best_path else all_shortest_paths[0]
+
+    # Build segments with most popular movies
     segments = []
     for i in range(len(actor_path) - 1):
         current_actor = actor_path[i]
