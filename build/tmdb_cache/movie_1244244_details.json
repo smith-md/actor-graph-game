@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/sAnpF9jooAGWA8pwuMK4aX2uLvA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.janusfilms.com/films/2273",
+  "id": 1244244,
+  "imdb_id": "tt32828123",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "Cloud クラウド",
+  "overview": "Ryōsuke Yoshii, an ordinary reseller, carelessly earns grudges by people and becomes entangled in a life-threatening struggle.",
+  "popularity": 4.5709,
+  "poster_path": "/bmUTHMmqiLWBo19U2y5kk2uqJbA.jpg",
+  "production_companies": [
+    {
+      "id": 955,
+      "logo_path": "/5xnXD3PJI1HqOJceSAKZ3fDqO1V.png",
+      "name": "Nikkatsu Corporation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 146106,
+      "logo_path": "/eW8K469XBEJdaHtzgLe2r0IxZim.png",
+      "name": "Django Film",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2024-09-27",
+  "revenue": 1011386,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everything has a price.",
+  "title": "Cloud",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 84
+}

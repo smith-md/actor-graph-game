@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/s1r2aBDzkvlFkNnAgxWFTCQjKPe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.biutiful-themovie.com/",
+  "id": 45958,
+  "imdb_id": "tt1164999",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Biutiful",
+  "overview": "This is a story of a man in free fall. On the road to redemption, darkness lights his way. Connected with the afterlife, Uxbal is a tragic hero and father of two who's sensing the danger of death. He struggles with a tainted reality and a fate that works against him in order to forgive, for love, and forever.",
+  "popularity": 4.4301,
+  "poster_path": "/4BLshBMp8INRDhvfuKwxMlHDIIt.jpg",
+  "production_companies": [
+    {
+      "id": 7116,
+      "logo_path": null,
+      "name": "Menage Atroz",
+      "origin_country": "MX"
+    },
+    {
+      "id": 5444,
+      "logo_path": "/xrpAU7lNpwoZXuNXtafp7p4hi5.png",
+      "name": "Mod Producciones",
+      "origin_country": "ES"
+    },
+    {
+      "id": 10146,
+      "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+      "name": "Focus Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 2875,
+      "logo_path": "/3fNapBvM3EHlyL9TxdP5qEOUNeN.png",
+      "name": "Ikiru Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 1720,
+      "logo_path": null,
+      "name": "Cha Cha Chá",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-10-20",
+  "revenue": 25147786,
+  "runtime": 148,
+  "spoken_languages": [
+    {
+      "english_name": "Wolof",
+      "iso_639_1": "wo",
+      "name": "Wolof"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You don't choose your family. We all belong to somebody, but to belong to Uxbal and Marambra, is both a blessing and a curse.",
+  "title": "Biutiful",
+  "video": false,
+  "vote_average": 7.244,
+  "vote_count": 1167
+}

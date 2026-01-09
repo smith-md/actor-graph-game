@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/gjUk32ohE9A05Y4NK9bbkCkAgMB.jpg",
+  "belongs_to_collection": {
+    "id": 1230356,
+    "name": "Oslo Stories Trilogy",
+    "poster_path": "/wZHhcEvUd3k1MwSrh9XpGbuo00K.jpg",
+    "backdrop_path": "/eOFijuW42tJP3NAp7IWlbtDTWXP.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.modernfilms.com/dreams",
+  "id": 1228682,
+  "imdb_id": "tt30810787",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Drømmer",
+  "overview": "Johanne falls in love with her teacher and records her fantasies and feelings in writing. Together with her mother and grandmother, they debate the literary potential and whether to publish it.",
+  "popularity": 4.3805,
+  "poster_path": "/3qGCUTeVlyUszOUqLTwo2vQrJek.jpg",
+  "production_companies": [
+    {
+      "id": 2783,
+      "logo_path": "/mBN9Pu2qP0gEdzi9R2NvARodQ5X.png",
+      "name": "Motlys",
+      "origin_country": "NO"
+    },
+    {
+      "id": 189258,
+      "logo_path": "/i77SPCRCRDsFffKvcosikw4dhpP.png",
+      "name": "Oslo Filmfond",
+      "origin_country": "NO"
+    },
+    {
+      "id": 178553,
+      "logo_path": "/ifjbQWgwqHEye4YeGfMVnkEz3Tu.png",
+      "name": "Viaplay Group",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2024-10-04",
+  "revenue": 378128,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dreams",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 53
+}

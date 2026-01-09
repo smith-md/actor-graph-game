@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/3bh0G5axCkRnd433fbo76Ajt5ix.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 27870,
+  "imdb_id": "tt0251874",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Muppets Celebrate Jim Henson",
+  "overview": "While the Muppets prepare a tribute to the late Jim Henson, they learn about the life and career of the renowned puppeteer/film maker.",
+  "popularity": 10.3331,
+  "poster_path": "/aTe0U124EjNVFTggA2QDvtnAVoI.jpg",
+  "production_companies": [
+    {
+      "id": 2504,
+      "logo_path": "/yxP3Gnk7sm7rACmDj0InTjXZw8R.png",
+      "name": "Jim Henson Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 89914,
+      "logo_path": null,
+      "name": "Don Mischer Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 670,
+      "logo_path": "/rRGi5UkwvdOPSfr5Xf42RZUsYgd.png",
+      "name": "Walt Disney Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-11-21",
+  "revenue": 0,
+  "runtime": 47,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Kermit, Miss Piggy, and the Muppet family celebrate the life of a man loved worldwide",
+  "title": "The Muppets Celebrate Jim Henson",
+  "video": false,
+  "vote_average": 6.827,
+  "vote_count": 26
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/97bwlJw220Z5XE3xAHF6G8gA8g6.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/dampyr",
+  "id": 644124,
+  "imdb_id": "tt10315050",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Dampyr",
+  "overview": "In war-torn Balkans, bogus monster hunter Harlan Draka is hired by soldiers who happen to be under attack by an army of actual vampires, uncovering the hidden truth about his past in the process: he is half-human and half-vampire... a Dampyr.",
+  "popularity": 5.1335,
+  "poster_path": "/xdWjqmX4x0ObKIPqkr8Vptj99AZ.jpg",
+  "production_companies": [
+    {
+      "id": 56151,
+      "logo_path": null,
+      "name": "Sergio Bonelli Editore",
+      "origin_country": "IT"
+    },
+    {
+      "id": 10400,
+      "logo_path": "/9LlB2YAwXTkUAhx0pItSo6pDlkB.png",
+      "name": "Eagle Pictures",
+      "origin_country": "IT"
+    },
+    {
+      "id": 124732,
+      "logo_path": null,
+      "name": "Brandon Box",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2022-10-28",
+  "revenue": 362113,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Shall a vampire unite with a human woman, she will give birth to a...",
+  "title": "Dampyr",
+  "video": false,
+  "vote_average": 6.229,
+  "vote_count": 175
+}

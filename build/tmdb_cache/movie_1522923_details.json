@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/ptHXfOc0gEIG8CrieQ3t8MUBuiP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1522923,
+  "imdb_id": "tt30954952",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Safe House",
+  "overview": "Trapped in a high-security safe house after a terrorist attack in downtown Los Angeles, six government agents realize they must survive not just the enemy outside, but the potential traitor among them.",
+  "popularity": 8.4323,
+  "poster_path": "/peUlWeJaqTi0YnsM4L6gnWzz0Ko.jpg",
+  "production_companies": [
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 116018,
+      "logo_path": null,
+      "name": "Green Light Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-30",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Betrayal is the ultimate weapon.",
+  "title": "Safe House",
+  "video": false,
+  "vote_average": 6.789,
+  "vote_count": 45
+}

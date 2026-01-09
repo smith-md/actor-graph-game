@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/ju2i7Is6T4d6u4abdgXsHYkcg2d.jpg",
+  "belongs_to_collection": null,
+  "budget": 1987650,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.experienceburied.com/index.html",
+  "id": 26388,
+  "imdb_id": "tt1462758",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "en",
+  "original_title": "Buried",
+  "overview": "Paul is a U.S. truck driver working in Iraq. After an attack by a group of Iraqis he wakes to find he is buried alive inside a coffin. With only a lighter and a cell phone it's a race against time to escape this claustrophobic death trap.",
+  "popularity": 6.3605,
+  "poster_path": "/splPNB0vAoNlb8l5WYxz2E3FK2G.jpg",
+  "production_companies": [
+    {
+      "id": 11564,
+      "logo_path": null,
+      "name": "Versus Entertainment",
+      "origin_country": "ES"
+    },
+    {
+      "id": 11565,
+      "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+      "name": "The Safran Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 11566,
+      "logo_path": null,
+      "name": "Dark Trick Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 2577,
+      "logo_path": "/QZ4zbeJ0sULzGNJvfukrzgx4d8.png",
+      "name": "Studio 37",
+      "origin_country": "FR"
+    },
+    {
+      "id": 29566,
+      "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+      "name": "Atresmedia",
+      "origin_country": "ES"
+    },
+    {
+      "id": 9335,
+      "logo_path": "/ldfniRgxCYegCbGEROEBKbmg4A5.png",
+      "name": "Canal+ España",
+      "origin_country": "ES"
+    },
+    {
+      "id": 18626,
+      "logo_path": "/gb0xmYIKvNy2LnUOfLVglww7U0g.png",
+      "name": "Kinology",
+      "origin_country": "FR"
+    },
+    {
+      "id": 29259,
+      "logo_path": null,
+      "name": "ICO",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-09-24",
+  "revenue": 19152480,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "170,000 sq miles of desert. 90 minutes of oxygen. No way out.",
+  "title": "Buried",
+  "video": false,
+  "vote_average": 6.634,
+  "vote_count": 2953
+}

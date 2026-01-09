@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/aIOSM79COU9YAEs0Yqsudvx5X3V.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 52705,
+  "imdb_id": "tt0056905",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Carabiniers",
+  "overview": "During a war in an imaginary country, unscrupulous soldiers recruit poor farmers with promises of an easy and happy life. Two of these farmers write to their wives of their exploits.",
+  "popularity": 4.226,
+  "poster_path": "/oBL7ragSWtX8rHswM25BkdzQzWZ.jpg",
+  "production_companies": [
+    {
+      "id": 109,
+      "logo_path": null,
+      "name": "Rome-Paris Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 512,
+      "logo_path": null,
+      "name": "Cocinor",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2260,
+      "logo_path": null,
+      "name": "Les Films Marceau",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1495,
+      "logo_path": null,
+      "name": "Laetitia Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1963-05-31",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Les Carabiniers",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 89
+}

@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/c8dlIxgLwoR7DAJGrIPTrh7vNdt.jpg",
+  "belongs_to_collection": {
+    "id": 495,
+    "name": "Shaft Collection",
+    "poster_path": "/9cjIFDiofkzLXsQ6EimpaKMLDwE.jpg",
+    "backdrop_path": "/dvFvX16cpsj2Us6Lvb03Oq4eEZI.jpg"
+  },
+  "budget": 1125000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 482,
+  "imdb_id": "tt0067741",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shaft",
+  "overview": "Cool Black private eye John Shaft is hired by a crime lord to find and retrieve his kidnapped daughter.",
+  "popularity": 3.9298,
+  "poster_path": "/yJChPuu2V339IiDPQDHeIh1SYpA.jpg",
+  "production_companies": [
+    {
+      "id": 12145,
+      "logo_path": null,
+      "name": "Shaft Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1971-06-23",
+  "revenue": 12121618,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The mob wanted Harlem back. They got Shaft...up to here.",
+  "title": "Shaft",
+  "video": false,
+  "vote_average": 6.408,
+  "vote_count": 398
+}

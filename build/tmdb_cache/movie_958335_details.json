@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/zYThYpCSBEyEuPAgBLGJhFz58lS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 958335,
+  "imdb_id": "tt18671246",
+  "origin_country": [
+    "BE",
+    "FR",
+    "GR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Cyclades",
+  "overview": "As teenagers, Blandine and Magalie were inseparable. Years passed and they lost sight of each other. As their paths cross again, they decide to take the trip together that they have always dreamed of. Direction Greece, its sun, its islands but also its galleys because the two former best friends now have a very different approach to holidays... and to life!",
+  "popularity": 5.1236,
+  "poster_path": "/t974TGJkpoWO8mQaB574pcZFL5i.jpg",
+  "production_companies": [
+    {
+      "id": 36321,
+      "logo_path": "/tvZTbJIQVsaw9Enr7iKwFOIi1sK.png",
+      "name": "Avenue B Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 51401,
+      "logo_path": "/fVS0ghIwUgjwpHj2vJonkAOlyI5.png",
+      "name": "Blonde Audiovisual Productions",
+      "origin_country": "GR"
+    },
+    {
+      "id": 11199,
+      "logo_path": "/tWXanyy8XwpcOPannNJ33QUcXp5.png",
+      "name": "SCOPE Pictures",
+      "origin_country": "BE"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 792,
+      "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF",
+      "origin_country": "BE"
+    },
+    {
+      "id": 92187,
+      "logo_path": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+      "name": "Proximus",
+      "origin_country": "BE"
+    },
+    {
+      "id": 19159,
+      "logo_path": "/t0zR0Ap7u0FD3i6huj8xdEb3don.png",
+      "name": "Vito Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-01-11",
+  "revenue": 3657542,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Two Tickets to Greece",
+  "video": false,
+  "vote_average": 5.952,
+  "vote_count": 125
+}

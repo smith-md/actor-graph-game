@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": "/6epfs9UMFbYuj4UfjHq5EDic8V9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 7549,
+  "imdb_id": "tt0446059",
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "original_language": "zh",
+  "original_title": "霍元甲",
+  "overview": "After going through a series of tragic events in his life, martial arts master Huo Yuanjia returns to Tianjin and must fight four international soldiers, in order to safeguard his nation's pride.",
+  "popularity": 4.113,
+  "poster_path": "/yKJ7rjIwOa8XvACELo9eV8IvMPb.jpg",
+  "production_companies": [
+    {
+      "id": 14714,
+      "logo_path": "/dSHaVKtBCpMU5VP9wMbTkqov62i.png",
+      "name": "China Film Group Corporation",
+      "origin_country": "CN"
+    },
+    {
+      "id": 708,
+      "logo_path": null,
+      "name": "Beijing Film Studio",
+      "origin_country": "CN"
+    },
+    {
+      "id": 2269,
+      "logo_path": null,
+      "name": "China Film Co-Production Corp.",
+      "origin_country": "CN"
+    },
+    {
+      "id": 2271,
+      "logo_path": null,
+      "name": "Hero China International",
+      "origin_country": "CN"
+    },
+    {
+      "id": 2272,
+      "logo_path": null,
+      "name": "Wide River Investments",
+      "origin_country": "CN"
+    },
+    {
+      "id": 134,
+      "logo_path": "/2uKAP9aAAhVMpfSqa4wtlIHod5g.png",
+      "name": "Rogue Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10146,
+      "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+      "name": "Focus Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 142725,
+      "logo_path": null,
+      "name": "Elite Group Enterprises",
+      "origin_country": "HK"
+    },
+    {
+      "id": 10284,
+      "logo_path": "/u0FCdiR026xbEbuY4yqaKj9Lf2O.png",
+      "name": "Edko Films",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-01-26",
+  "revenue": 68072848,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mastering others is strength. Mastering yourself makes you fearless.",
+  "title": "Fearless",
+  "video": false,
+  "vote_average": 7.507,
+  "vote_count": 1358
+}

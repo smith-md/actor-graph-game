@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/au3o84ub27qTZiMiEc9UYzN74V3.jpg",
+  "belongs_to_collection": null,
+  "budget": 18000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.elevationmovie.com",
+  "id": 1035048,
+  "imdb_id": "tt23558280",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Elevation",
+  "overview": "Post-apocalyptic survivors find refuge in the Rocky Mountains to hide from giant, insect-like creatures that can't live above 8,000 feet. However, when one of them needs life-saving supplies, they risk it all to venture into the danger zone.",
+  "popularity": 9.6516,
+  "poster_path": "/tnfc0NJ3BzhJrGJhkkEd6MHBdq5.jpg",
+  "production_companies": [
+    {
+      "id": 180839,
+      "logo_path": "/v2A9SsZdaWpmZdXPf3I7Ajxn1Pc.png",
+      "name": "Lyrical Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 242398,
+      "logo_path": null,
+      "name": "Grinder Monkey",
+      "origin_country": ""
+    },
+    {
+      "id": 242399,
+      "logo_path": null,
+      "name": "John Glenn Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 88548,
+      "logo_path": null,
+      "name": "Story Ink",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-11-07",
+  "revenue": 3300000,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Don't go down without a fight.",
+  "title": "Elevation",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 857
+}

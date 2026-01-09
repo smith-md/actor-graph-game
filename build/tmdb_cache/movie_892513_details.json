@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/irX3pZNRpErpwqQocjCQR2ZcVaR.jpg",
+  "belongs_to_collection": null,
+  "budget": 4490000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 892513,
+  "imdb_id": "tt14163992",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "L'Établi",
+  "overview": "A few months after May '68, Robert, a graduate of the Ecole Normale Supérieure and a far-left activist, decides to get a job at Citroën as a line worker. Like other comrades, he wants to infiltrate the factory to rekindle the revolutionary fire, but the majority of workers no longer want to hear about politics. When Citroën decides to pay back the Grenelle Agreements by requiring workers to work 3 hours overtime per week for free, Robert and some others see the possibility of a social movement.",
+  "popularity": 3.8716,
+  "poster_path": "/IPhULxzFXIFZl6fDJovRXDuD1S.jpg",
+  "production_companies": [
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 23577,
+      "logo_path": "/2e69chGou2s3oizXcL36hnT2W1j.png",
+      "name": "Karé Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11199,
+      "logo_path": "/tWXanyy8XwpcOPannNJ33QUcXp5.png",
+      "name": "SCOPE Pictures",
+      "origin_country": "BE"
+    },
+    {
+      "id": 109756,
+      "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+      "name": "Auvergne-Rhône-Alpes Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2023-04-05",
+  "revenue": 0,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Asembly Line",
+  "video": false,
+  "vote_average": 6.708,
+  "vote_count": 36
+}

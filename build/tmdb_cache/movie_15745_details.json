@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/bfrkFpsNYRkzVTf1arVn6w2Kphe.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 15745,
+  "imdb_id": "tt0227005",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Made",
+  "overview": "Two aspiring boxers and lifelong friends get involved in a money-laundering scheme through a low-level organized crime group.",
+  "popularity": 4.2886,
+  "poster_path": "/4HC6ieptXO2gjqbSEsfkOwsGubN.jpg",
+  "production_companies": [
+    {
+      "id": 2188,
+      "logo_path": "/f1zrx8bIsS81AHoPQq4riJx68Lt.png",
+      "name": "Artisan Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 56222,
+      "logo_path": null,
+      "name": "Cardiff Giant Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 43498,
+      "logo_path": null,
+      "name": "Resnick Interactive Development",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2001-07-13",
+  "revenue": 5476060,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The easy part is surviving the mob. The hard part is surviving the friendship.",
+  "title": "Made",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 201
+}

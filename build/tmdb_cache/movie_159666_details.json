@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/5XGSGQQK3sp3DionQXesbuPcUTq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 159666,
+  "imdb_id": "tt0232079",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Mela",
+  "overview": "Best mates Kishen and Shankar decide to help village belle Roopa avenge her family's death, but their friendship is tested in the process.",
+  "popularity": 3.5451,
+  "poster_path": "/rPF46QLaBni9PXvbjmA8zSeaiJ5.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2000-01-07",
+  "revenue": 0,
+  "runtime": 156,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Georgian",
+      "iso_639_1": "ka",
+      "name": "ქართული"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mela",
+  "video": false,
+  "vote_average": 4.515,
+  "vote_count": 33
+}

@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/cgOZCBWVp2MqYiBOfrcAb3p2NuN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1001044,
+  "imdb_id": "tt28590661",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Drone",
+  "overview": "Émilie lives in a world of surveillance: her camgirl work; the camera phone lingering on a crush from afar; the headset affording her a drone’s perspective. The same drone that stalks each move she makes, offering inspiration, noting rivals. An unsolicited companion is conspiring with or against her. A financially strapped transplant now living in the Paris suburbs, Émilie is thrust into a high-powered world when she is chosen for a renovation workshop with a prestigious architect. Her classmates come mostly from “filthy rich” backgrounds, like cocky Olivier, who wants Émilie as his conquest. But Émilie has shy eyes only for self-sufficient Mina, whose music builds like a “helicoid.” A drone—unlike any known model—is watching her all along waiting for her next move and paying handily for the privilege.",
+  "popularity": 2.9555,
+  "poster_path": "/flIYY0q6x5k6XpYSGtZz3hlOoBP.jpg",
+  "production_companies": [
+    {
+      "id": 726,
+      "logo_path": "/hHaQQgxqg2NohqZSxbMTB9E483m.png",
+      "name": "Haut et Court",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-10-02",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Drone",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 24
+}

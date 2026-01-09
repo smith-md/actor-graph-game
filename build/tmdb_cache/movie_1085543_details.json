@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/tTfj4Uq5hq0yi0pIWNjj9GmKExe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 1085543,
+  "imdb_id": "tt26658360",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "DC Down",
+  "overview": "After an earthquake rocks D.C., the Army Corp races against the clock to rescue the President trapped under the rubble while a sinister plot aims to capitalize on the disaster.",
+  "popularity": 2.641,
+  "poster_path": "/8DyAgM340pP402ABl1Jt0uQ7tgZ.jpg",
+  "production_companies": [
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    },
+    {
+      "id": 185065,
+      "logo_path": "/jOB4ZZVEepRbkIxSyWfy3pW50pi.png",
+      "name": "Emerald City Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 153734,
+      "logo_path": "/bsgAvAzw5U06P73A3n1pqeFiu4F.png",
+      "name": "Tubi",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-06-20",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "DC Down",
+  "video": false,
+  "vote_average": 5.447,
+  "vote_count": 66
+}

@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/rmJrzo3dXgEwS2Pgwsr8v2Jwsw8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 16325,
+  "imdb_id": "tt1124039",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Echelon Conspiracy",
+  "overview": "Mysterious cell phone messages promise a young American engineer untold wealth - then make him the target of a deadly international plot. Dangerous security operatives chase the engineer across the globe, while a powerful government official pursues a mysterious agenda that threatens the stability of the entire world.",
+  "popularity": 3.7341,
+  "poster_path": "/eQgT8kdjWJots3dX5Xy11le2vHk.jpg",
+  "production_companies": [
+    {
+      "id": 1786,
+      "logo_path": "/dVSnNBwhb0WW5zGis3HjI6Q66Gp.png",
+      "name": "Dark Castle Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 11640,
+      "logo_path": null,
+      "name": "Mobicom Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 8935,
+      "logo_path": null,
+      "name": "Zinc Entertainment Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 29185,
+      "logo_path": "/3SHlavyUJiZIn4ZS5h3B9ggP0Cf.png",
+      "name": "BUFO",
+      "origin_country": "BG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "BG",
+      "name": "Bulgaria"
+    }
+  ],
+  "release_date": "2009-02-27",
+  "revenue": 2186782,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Security comes at a price...",
+  "title": "Echelon Conspiracy",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 473
+}

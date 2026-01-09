@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/gOJJjBB1aj6vqzuJLspERcwZuPQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 32000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 936059,
+  "imdb_id": "tt16491414",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Naughty Nine",
+  "overview": "Fifth-grader Andy finds himself without a present from Santa on Christmas morning. Realizing he must have landed on the “naughty list” and feeling unfairly maligned, Andy pulls together a team of eight other naughty-listers to help him execute an elaborate heist on Santa’s Village at the North Pole to get the presents they feel they deserve.",
+  "popularity": 2.5807,
+  "poster_path": "/5JoTI5Nrh2U639WfwUk0Akum7fQ.jpg",
+  "production_companies": [
+    {
+      "id": 215268,
+      "logo_path": null,
+      "name": "Poutine Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 241784,
+      "logo_path": "/sepE4Kn7ZJdpdahWsXW1fPXRkPI.png",
+      "name": "Disney Branded Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-09",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Rebels with a claus.",
+  "title": "The Naughty Nine",
+  "video": false,
+  "vote_average": 6.274,
+  "vote_count": 82
+}

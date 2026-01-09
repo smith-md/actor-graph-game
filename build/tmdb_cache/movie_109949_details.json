@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/vNY25kB1At5vU6RRYAKkaLCYzDG.jpg",
+  "belongs_to_collection": null,
+  "budget": 234,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 109949,
+  "imdb_id": "tt0052617",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Beloved Infidel",
+  "overview": "In the late 1930s, Sheilah Graham’s Hollywood column quickly becomes popular for its biting tone. At a party, she meets author F. Scott Fitzgerald, and the two begin a torrid affair. Scott laments that his writing has fallen out of fashion, and when he is fired from his screenwriting position, he begins drinking heavily. Soon his intrusive, volatile behavior threatens their relationship and Sheilah's career.",
+  "popularity": 4.2132,
+  "poster_path": "/6ABKWW1tklOiP3oWaF2GVBcczgz.jpg",
+  "production_companies": [
+    {
+      "id": 45228,
+      "logo_path": null,
+      "name": "The Company of Artists",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1959-11-17",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The bitter-sweet love affair of the East End orphan girl who became the friend of the famous.",
+  "title": "Beloved Infidel",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 27
+}

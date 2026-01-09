@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/jDjmnEuNUfWHg8rbW6u8mylkcO0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80237245",
+  "id": 832502,
+  "imdb_id": "tt8637498",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Monkey King",
+  "overview": "A stick-wielding monkey teams with a young girl on an epic quest for immortality, battling demons, dragons, gods — and his own ego — along the way.",
+  "popularity": 4.838,
+  "poster_path": "/i6ye8ueFhVE5pXatgyRrZ83LBD8.jpg",
+  "production_companies": [
+    {
+      "id": 178464,
+      "logo_path": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png",
+      "name": "Netflix",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-08-11",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The legend has arrived",
+  "title": "The Monkey King",
+  "video": false,
+  "vote_average": 6.532,
+  "vote_count": 324
+}

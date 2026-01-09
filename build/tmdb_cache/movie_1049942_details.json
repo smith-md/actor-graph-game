@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/tG5ZSx57zkijfK975aENinlOdIy.jpg",
+  "belongs_to_collection": null,
+  "budget": 325000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1049942,
+  "imdb_id": "tt23621682",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Bambi: The Reckoning",
+  "overview": "After a mother and son get in a car wreck, they soon become hunted by Bambi, a mutated grief-stricken deer on a deadly rampage seeking revenge for the death of his mother and wife.",
+  "popularity": 8.0385,
+  "poster_path": "/8oBbWxWDJrrDtNkmd0OzZpPFFUR.jpg",
+  "production_companies": [
+    {
+      "id": 155744,
+      "logo_path": "/qwVw2UPwBOQZkhOb3LyHgID5xKQ.png",
+      "name": "Jagged Edge Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-07-11",
+  "revenue": 534030,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Welcome to his stomping grounds.",
+  "title": "Bambi: The Reckoning",
+  "video": false,
+  "vote_average": 5.545,
+  "vote_count": 112
+}

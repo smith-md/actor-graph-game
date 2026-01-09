@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/eopVgDBSBUzAPXf0z5sk4pVVsp8.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.sonypictures.com/movies/promnight/",
+  "id": 8617,
+  "imdb_id": "tt0926129",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Prom Night",
+  "overview": "Donna's senior prom is supposed to be the best night of her life, though a sadistic killer from her past has different plans for her and her friends.",
+  "popularity": 3.6068,
+  "poster_path": "/pKSeyN02R5khphImEIpAdBjQgEP.jpg",
+  "production_companies": [
+    {
+      "id": 2514,
+      "logo_path": "/zEyrFF8Nn325PXG0Q9j7my0JqIJ.png",
+      "name": "Alliance Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 333,
+      "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+      "name": "Original Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 28,
+      "logo_path": "/7tRG0ZsmtptmzPMKupd1FZkjtnn.png",
+      "name": "Newmarket Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 3287,
+      "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+      "name": "Screen Gems",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-04-10",
+  "revenue": 14800000,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Night To Die For.",
+  "title": "Prom Night",
+  "video": false,
+  "vote_average": 5.064,
+  "vote_count": 774
+}

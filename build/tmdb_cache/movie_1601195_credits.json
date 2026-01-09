@@ -1,0 +1,86 @@
+{
+  "id": 1601195,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 4169,
+      "known_for_department": "Acting",
+      "name": "Dave Chappelle",
+      "original_name": "Dave Chappelle",
+      "popularity": 2.492,
+      "profile_path": "/hDVe67wjmjtbOTzDrFaJfcobcE.jpg",
+      "cast_id": 1,
+      "character": "Self",
+      "credit_id": "69465b542ee03d54d9154a51",
+      "order": 0
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 4169,
+      "known_for_department": "Acting",
+      "name": "Dave Chappelle",
+      "original_name": "Dave Chappelle",
+      "popularity": 2.492,
+      "profile_path": "/hDVe67wjmjtbOTzDrFaJfcobcE.jpg",
+      "credit_id": "6946cb05b3365ea1108cdedd",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1781535,
+      "known_for_department": "Production",
+      "name": "Rikki Hughes",
+      "original_name": "Rikki Hughes",
+      "popularity": 1.07,
+      "profile_path": "/4Pd9MShuiXvKRjSXYNpuACZ32Ih.jpg",
+      "credit_id": "69472fac8b05685e88fb0f32",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 4169,
+      "known_for_department": "Acting",
+      "name": "Dave Chappelle",
+      "original_name": "Dave Chappelle",
+      "popularity": 2.492,
+      "profile_path": "/hDVe67wjmjtbOTzDrFaJfcobcE.jpg",
+      "credit_id": "694dea8937935bc522154b54",
+      "department": "Production",
+      "job": "Executive Producer"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1781535,
+      "known_for_department": "Production",
+      "name": "Rikki Hughes",
+      "original_name": "Rikki Hughes",
+      "popularity": 1.07,
+      "profile_path": "/4Pd9MShuiXvKRjSXYNpuACZ32Ih.jpg",
+      "credit_id": "694dea8f51a689d7eb0728c2",
+      "department": "Production",
+      "job": "Executive Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1781542,
+      "known_for_department": "Production",
+      "name": "Sina Sadighi",
+      "original_name": "Sina Sadighi",
+      "popularity": 0.2645,
+      "profile_path": null,
+      "credit_id": "694dea9a5508b7d2ca2fb827",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

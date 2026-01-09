@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/me2CRfQvaOiylQDLjqANEt7Lb2Q.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 31277,
+  "imdb_id": "tt0426550",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Popstar",
+  "overview": "A teenage girls life gets turned upside down when a new school friend turns out to be a popstar.",
+  "popularity": 3.5764,
+  "poster_path": "/s5QIkzyQR5ekNaZDWmLLAbeZy30.jpg",
+  "production_companies": [
+    {
+      "id": 2636,
+      "logo_path": null,
+      "name": "Tag Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 39657,
+      "logo_path": "/uJmO05SQwMGqpkQSkQY0eGRKF1L.png",
+      "name": "New Line Home Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-11-08",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He topped the charts. Can he top high school?",
+  "title": "Popstar",
+  "video": false,
+  "vote_average": 4.1,
+  "vote_count": 37
+}

@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/7TNqLr09aHfBxr67Dm7hLSQvLKq.jpg",
+  "belongs_to_collection": null,
+  "budget": 700000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 243856,
+  "imdb_id": "tt0115701",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Blast",
+  "overview": "A deadly team of terrorists mounts a precision attack on a swimming complex, which holds the world's finest women's swimming team hostage, and unknowingly traps a janitor inside.",
+  "popularity": 4.0168,
+  "poster_path": "/tSIHQJWX6AfPkS84js1j0A2GoAp.jpg",
+  "production_companies": [
+    {
+      "id": 7954,
+      "logo_path": null,
+      "name": "Filmwerks",
+      "origin_country": ""
+    },
+    {
+      "id": 40702,
+      "logo_path": null,
+      "name": "Cruel Stories Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1997-03-13",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Terror Has No Limits",
+  "title": "Blast",
+  "video": false,
+  "vote_average": 4.104,
+  "vote_count": 24
+}

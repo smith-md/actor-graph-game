@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/xoLuu4u6CpiL72n5nLo2f4H9613.jpg",
+  "belongs_to_collection": null,
+  "budget": 5500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 11889,
+  "imdb_id": "tt0280778",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Iris",
+  "overview": "True story of the lifelong romance between novelist Iris Murdoch and her husband John Bayley, from their student days through her battle with Alzheimer's disease.",
+  "popularity": 4.4975,
+  "poster_path": "/pqtVPrv3xPLTUayC0bPruRjYWDF.jpg",
+  "production_companies": [
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 763,
+      "logo_path": "/mCnIVkImjm8rUxIpGR5NgrGlIYL.png",
+      "name": "Intermedia Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 932,
+      "logo_path": "/o7leiZVIDBHxODfK8pjGPV2SdMp.png",
+      "name": "Mirage Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 213476,
+      "logo_path": "/pDT6S52QwddfDSf80iuar4S2LAa.png",
+      "name": "Robert Fox Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 258,
+      "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+      "name": "Scott Rudin Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2001-12-14",
+  "revenue": 16153953,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Her greatest talent was for life.",
+  "title": "Iris",
+  "video": false,
+  "vote_average": 6.405,
+  "vote_count": 205
+}

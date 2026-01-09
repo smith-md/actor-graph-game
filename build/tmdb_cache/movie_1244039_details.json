@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/8BfXvZio7fB1FFWqB2Oz6tbi3ZX.jpg",
+  "belongs_to_collection": {
+    "id": 1262375,
+    "name": "Butchers Collection",
+    "poster_path": "/vfF3T26FRivJHHDLOfPmxV7vopL.jpg",
+    "backdrop_path": "/6VKqcpU1sKvtbbf1KMmOSp8hISL.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1244039,
+  "imdb_id": "tt27911892",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Butchers Book Two: Raghorn",
+  "overview": "Book one followed a family of sadistic butchers, living in the backcountry, who see anyone that crosses their path as dead meat. In “Butchers Book Two: Raghorn,” the story continues when an accident leaves the captors in the hands of brutal cannibals who plan to hack them up for meat.",
+  "popularity": 6.4013,
+  "poster_path": "/uSLYBuDTHpTAJI9vcm2brMu4J9H.jpg",
+  "production_companies": [
+    {
+      "id": 171376,
+      "logo_path": null,
+      "name": "Grimehouse",
+      "origin_country": "CA"
+    },
+    {
+      "id": 220807,
+      "logo_path": "/cUBASxM0lvCMBpKUHOoz0GHUzu4.png",
+      "name": "NW9 Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 220806,
+      "logo_path": "/iD7hL0g7MEbkiJ6BIoNjH0baTQH.png",
+      "name": "Red Hound Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2024-02-29",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The hunt continues",
+  "title": "Butchers Book Two: Raghorn",
+  "video": false,
+  "vote_average": 4.75,
+  "vote_count": 20
+}

@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/3zjR5hQnke7o3JVEKNOK9Zip81B.jpg",
+  "belongs_to_collection": {
+    "id": 573111,
+    "name": "Life-Size Collection",
+    "poster_path": "/lKenIMLXG8QFYCD0zlrGba4bw9K.jpg",
+    "backdrop_path": null
+  },
+  "budget": 7000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 36968,
+  "imdb_id": "tt0200809",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Life-Size",
+  "overview": "Sad and lonely after the death of her mother, Casey would do anything to see her again. But when a series of mystic mishaps mistakenly brings her fashion doll “Eve” to life instead, it changes Casey’s world forever!",
+  "popularity": 4.797,
+  "poster_path": "/rMoMXfFrdKWhN446i4MpeKFxvdL.jpg",
+  "production_companies": [
+    {
+      "id": 16971,
+      "logo_path": null,
+      "name": "Pacific Motion Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 670,
+      "logo_path": "/rRGi5UkwvdOPSfr5Xf42RZUsYgd.png",
+      "name": "Walt Disney Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-03-05",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She was a perfect doll. Now she's the real thing.",
+  "title": "Life-Size",
+  "video": false,
+  "vote_average": 6.429,
+  "vote_count": 451
+}

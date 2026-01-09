@@ -1,0 +1,132 @@
+{
+  "id": 769098,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2871973,
+      "known_for_department": "Acting",
+      "name": "Sokol Martin Pepkolaj",
+      "original_name": "Sokol Martin Pepkolaj",
+      "popularity": 0.8237,
+      "profile_path": null,
+      "cast_id": 1,
+      "character": "Killer",
+      "credit_id": "5fc1041fc613ce00417f6715",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2871974,
+      "known_for_department": "Acting",
+      "name": "Ieva Lykos",
+      "original_name": "Ieva Lykos",
+      "popularity": 0.7665,
+      "profile_path": "/tIJVtEppg3YxoPMQ43PX4HJtdcU.jpg",
+      "cast_id": 2,
+      "character": "Ieva",
+      "credit_id": "5fc1042b25b955003c9b8b44",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2871975,
+      "known_for_department": "Acting",
+      "name": "Melina Arena",
+      "original_name": "Melina Arena",
+      "popularity": 0.3756,
+      "profile_path": null,
+      "cast_id": 3,
+      "character": "Melina",
+      "credit_id": "5fc10438ac8e6b003f3563a5",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2871976,
+      "known_for_department": "Acting",
+      "name": "Francesco David Clemente",
+      "original_name": "Francesco David Clemente",
+      "popularity": 0.7569,
+      "profile_path": null,
+      "cast_id": 4,
+      "character": "Lawyer",
+      "credit_id": "5fc104484c1d9a003f86f818",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 147,
+      "known_for_department": "Acting",
+      "name": "Michael Madsen",
+      "original_name": "Michael Madsen",
+      "popularity": 9.432,
+      "profile_path": "/2pKJJKeCggtLOE4hzqgq07KYqFh.jpg",
+      "cast_id": 5,
+      "character": "Michael",
+      "credit_id": "5fc10458ac8e6b003e34ad7a",
+      "order": 4
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2871977,
+      "known_for_department": "Acting",
+      "name": "Ilaria Malvezzi",
+      "original_name": "Ilaria Malvezzi",
+      "popularity": 0.1882,
+      "profile_path": null,
+      "cast_id": 6,
+      "character": "Ilaria",
+      "credit_id": "5fc10467271ca5004158841b",
+      "order": 5
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 2871978,
+      "known_for_department": "Acting",
+      "name": "Eleonora Puglia",
+      "original_name": "Eleonora Puglia",
+      "popularity": 0.1391,
+      "profile_path": null,
+      "cast_id": 7,
+      "character": "",
+      "credit_id": "5fc104764c1d9a0041863600",
+      "order": 6
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 21315,
+      "known_for_department": "Acting",
+      "name": "Eric Roberts",
+      "original_name": "Eric Roberts",
+      "popularity": 6.3543,
+      "profile_path": "/NiWg1TaUcal7xn1ZQeyA2dLd5F.jpg",
+      "cast_id": 9,
+      "character": "Eric",
+      "credit_id": "5fc824a6383df2003c55d6ab",
+      "order": 7
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1169373,
+      "known_for_department": "Directing",
+      "name": "Carlo Fusco",
+      "original_name": "Carlo Fusco",
+      "popularity": 1.1477,
+      "profile_path": null,
+      "credit_id": "5fc105164c1d9a003f86f959",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

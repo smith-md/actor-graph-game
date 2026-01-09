@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/cc48kfehVAkgG73BsPcFLMoxa8h.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81692347",
+  "id": 1272166,
+  "imdb_id": "tt32063098",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "en",
+  "original_title": "Ballad of a Small Player",
+  "overview": "Amid the glittering casinos of Macau, a gambler running from his past—and his debts—becomes fascinated by an enigmatic woman at the baccarat table.",
+  "popularity": 3.6938,
+  "poster_path": "/yiXpXNiBWENaSJmdKfoT5DU0bL4.jpg",
+  "production_companies": [
+    {
+      "id": 182028,
+      "logo_path": "/mTsDayzbpU8eXyO99NfBOXP6C2U.png",
+      "name": "Good Chaos",
+      "origin_country": "GB"
+    },
+    {
+      "id": 74390,
+      "logo_path": "/dP2JoIyAHBGp2V9r0r8LkHcGXHP.png",
+      "name": "Stigma Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 227641,
+      "logo_path": "/oX3s6MJ8yJU9QUNYQhyXtjmGlZA.png",
+      "name": "Nine Hours",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-10-15",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ballad of a Small Player",
+  "video": false,
+  "vote_average": 5.805,
+  "vote_count": 251
+}

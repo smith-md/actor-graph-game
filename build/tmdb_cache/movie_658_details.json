@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/f1Is9VLQZSRpeLMU7mIcj5aXclt.jpg",
+  "belongs_to_collection": {
+    "id": 645,
+    "name": "James Bond Collection",
+    "poster_path": "/ofwSiqOFShhunAIYYdSMHMJQSx2.jpg",
+    "backdrop_path": "/dOSECZImeyZldoq0ObieBE0lwie.jpg"
+  },
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://mgm.com/movies/goldfinger",
+  "id": 658,
+  "imdb_id": "tt0058150",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Goldfinger",
+  "overview": "Special agent 007 comes face to face with one of the most notorious villains of all time, and now he must outwit and outgun the powerful tycoon to prevent him from cashing in on a devious scheme to raid Fort Knox -- and obliterate the world's economy.",
+  "popularity": 7.9543,
+  "poster_path": "/aKNFzaqQgPzsGXnsMc4kJH5hFIV.jpg",
+  "production_companies": [
+    {
+      "id": 7576,
+      "logo_path": "/oYcUi1byZ312Z3xiz5ojz9RQLND.png",
+      "name": "EON Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1964-09-20",
+  "revenue": 124900000,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everything he touches turns into excitement!",
+  "title": "Goldfinger",
+  "video": false,
+  "vote_average": 7.357,
+  "vote_count": 3819
+}

@@ -1,0 +1,140 @@
+{
+  "id": 6166,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 48327,
+      "known_for_department": "Acting",
+      "name": "Freddie Frinton",
+      "original_name": "Freddie Frinton",
+      "popularity": 0.999,
+      "profile_path": "/lvU08MOsxsj2e73hxQdBKyvYH3B.jpg",
+      "cast_id": 4,
+      "character": "James",
+      "credit_id": "52fe4442c3a36847f808b8a1",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 48328,
+      "known_for_department": "Acting",
+      "name": "May Warden",
+      "original_name": "May Warden",
+      "popularity": 1.9946,
+      "profile_path": "/bq25SH9r5ghwALevsv5KjC4sYdu.jpg",
+      "cast_id": 5,
+      "character": "Miss Sophie",
+      "credit_id": "52fe4442c3a36847f808b8a5",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 48329,
+      "known_for_department": "Acting",
+      "name": "Heinz Piper",
+      "original_name": "Heinz Piper",
+      "popularity": 0.4978,
+      "profile_path": "/ziG3cnbv30JqCUUCyl8kxwWa5ea.jpg",
+      "cast_id": 6,
+      "character": "Narrator (voice)",
+      "credit_id": "52fe4442c3a36847f808b8a9",
+      "order": 2
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 48325,
+      "known_for_department": "Production",
+      "name": "Heinz Dunkhase",
+      "original_name": "Heinz Dunkhase",
+      "popularity": 0.1345,
+      "profile_path": null,
+      "credit_id": "52fe4442c3a36847f808b891",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 48326,
+      "known_for_department": "Art",
+      "name": "Herbert Lerche",
+      "original_name": "Herbert Lerche",
+      "popularity": 0.0498,
+      "profile_path": null,
+      "credit_id": "52fe4442c3a36847f808b897",
+      "department": "Art",
+      "job": "Production Design"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 48182,
+      "known_for_department": "Camera",
+      "name": "Frank A. Banuscher",
+      "original_name": "Frank A. Banuscher",
+      "popularity": 0.1999,
+      "profile_path": null,
+      "credit_id": "52fe4442c3a36847f808b89d",
+      "department": "Camera",
+      "job": "Director of Photography"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 48327,
+      "known_for_department": "Acting",
+      "name": "Freddie Frinton",
+      "original_name": "Freddie Frinton",
+      "popularity": 0.999,
+      "profile_path": "/lvU08MOsxsj2e73hxQdBKyvYH3B.jpg",
+      "credit_id": "592b01aac3a368787005c3b4",
+      "department": "Writing",
+      "job": "Adaptation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 48325,
+      "known_for_department": "Production",
+      "name": "Heinz Dunkhase",
+      "original_name": "Heinz Dunkhase",
+      "popularity": 0.1345,
+      "profile_path": null,
+      "credit_id": "592b01b79251413b8a061b7e",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1370664,
+      "known_for_department": "Writing",
+      "name": "Lauri Wylie",
+      "original_name": "Lauri Wylie",
+      "popularity": 0.6963,
+      "profile_path": null,
+      "credit_id": "68ecbc3452690e6b685ee6ec",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5746377,
+      "known_for_department": "Sound",
+      "name": "Lew Pollack",
+      "original_name": "Lew Pollack",
+      "popularity": 0.1614,
+      "profile_path": null,
+      "credit_id": "68ecbe219602e344649dec27",
+      "department": "Sound",
+      "job": "Music"
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/uxCPPTqVmTogIrxEWQDcUTOI8JJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 63313,
+  "imdb_id": "tt1571219",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Tatanka",
+  "overview": "Michele and Rosario, childhood friends, grow up in Marcianise, a town in Campania where the laws of the Camorra prevail over those of the state. However, the two men have different destinies: Rosario becomes a crime boss, while Michele, after being arrested for murder and released from prison, discovers the world of boxing thanks to his trainer Sabatino (Giorgio Colangeli). Seeking a definitive change of life and emancipation, Michele moves to Berlin, where he is introduced to the underground boxing circuit.",
+  "popularity": 2.4637,
+  "poster_path": "/wrb0PB4ajr34hxQbk9frsKOcrXg.jpg",
+  "production_companies": [
+    {
+      "id": 8343,
+      "logo_path": null,
+      "name": "Margherita Film",
+      "origin_country": ""
+    },
+    {
+      "id": 8344,
+      "logo_path": null,
+      "name": "Gruppo Minerva International",
+      "origin_country": ""
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 12377,
+      "logo_path": "/yL9lfoO2IX6sssqEJuifsOPgcxP.png",
+      "name": "Minerva Pictures",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2011-05-06",
+  "revenue": 260434,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tatanka",
+  "video": false,
+  "vote_average": 5.1,
+  "vote_count": 23
+}

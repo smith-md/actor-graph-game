@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/A7KwHKB5faRRRRveVQC5TPI35kV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.polar-bear.tv/young-hearts",
+  "id": 1232449,
+  "imdb_id": "tt15245268",
+  "origin_country": [
+    "BE",
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "Young Hearts",
+  "overview": "14-year-old Elias increasingly feels like an outsider in his village. When he meets his new neighbour of the same age, Alexander, Elias is confronted with his burgeoning sexuality.",
+  "popularity": 12.26,
+  "poster_path": "/iGCtYxfuvXfy0BD5m6p7vKuPOxS.jpg",
+  "production_companies": [
+    {
+      "id": 87096,
+      "logo_path": "/sqt7ajp5cVUueF0UveIKvDjOiUd.png",
+      "name": "Polar Bear Films",
+      "origin_country": "BE"
+    },
+    {
+      "id": 26389,
+      "logo_path": "/eZG7nmYHpVpp6jsOytILEmITHNf.png",
+      "name": "Family Affair Films",
+      "origin_country": "NL"
+    },
+    {
+      "id": 104097,
+      "logo_path": "/tzhYtZqLNn0TFEQ27dmT8qFTEA1.png",
+      "name": "Kwassa Films",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2024-10-26",
+  "revenue": 129692,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Young Hearts",
+  "video": false,
+  "vote_average": 8.5,
+  "vote_count": 195
+}

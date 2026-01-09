@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/3OODjz1SnzEXuJIVNkVU3MixaWF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 919950,
+  "imdb_id": "tt15761584",
+  "origin_country": [],
+  "original_language": "it",
+  "original_title": "Grazie ragazzi",
+  "overview": "An actor past his prime gives drama lessons to prisoners in an attempt to stage \"Waiting for Godot.\"",
+  "popularity": 3.8609,
+  "poster_path": "/7vykcxsJeVVEcrrmFORF519Di1A.jpg",
+  "production_companies": [
+    {
+      "id": 7699,
+      "logo_path": "/fHasfMWVRXGOmao2p1ijwicv9f4.png",
+      "name": "Palomar",
+      "origin_country": "IT"
+    },
+    {
+      "id": 21246,
+      "logo_path": "/e5NWP10OYWCUa0T363WxkNzL78s.png",
+      "name": "Wildside",
+      "origin_country": "IT"
+    },
+    {
+      "id": 115535,
+      "logo_path": "/mYoc1K3UPAUqKfuCYkvDLJN2aAA.png",
+      "name": "Vision Distribution",
+      "origin_country": "IT"
+    },
+    {
+      "id": 53597,
+      "logo_path": null,
+      "name": "Sky Italia",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2023-01-12",
+  "revenue": 0,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Thank You Guys",
+  "video": false,
+  "vote_average": 7.069,
+  "vote_count": 173
+}

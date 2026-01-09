@@ -1,0 +1,113 @@
+{
+  "id": 1263421,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1210634,
+      "known_for_department": "Acting",
+      "name": "Nobunaga Shimazaki",
+      "original_name": "島﨑信長",
+      "popularity": 2.6782,
+      "profile_path": "/qke5rZusHsjSlvB0NKlJ5dQF5D.jpg",
+      "cast_id": 1,
+      "character": "Baki Hanma (voice)",
+      "credit_id": "65fe5f5a7f6c8d017c706612",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1154452,
+      "known_for_department": "Acting",
+      "name": "Tatsuhisa Suzuki",
+      "original_name": "鈴木達央",
+      "popularity": 1.8573,
+      "profile_path": "/foytL2OreKzQcTNftz2qMgClKKg.jpg",
+      "cast_id": 2,
+      "character": "Tokita Ohma (voice)",
+      "credit_id": "65fe5f6a459ad6014af777c6",
+      "order": 1
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 552040,
+      "known_for_department": "Writing",
+      "name": "Keisuke Itagaki",
+      "original_name": "板垣恵介",
+      "popularity": 0.3773,
+      "profile_path": null,
+      "credit_id": "65fe6002226c56017d702735",
+      "department": "Writing",
+      "job": "Original Concept"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2363487,
+      "known_for_department": "Writing",
+      "name": "Yabako Sandrovich",
+      "original_name": "Yabako Sandrovich",
+      "popularity": 0.1498,
+      "profile_path": "/z6UZuSGQcd93b6wuGcOAsQBsfKT.jpg",
+      "credit_id": "65fe60090929f6017e9b6f0e",
+      "department": "Writing",
+      "job": "Original Concept"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1028316,
+      "known_for_department": "Directing",
+      "name": "Toshiki Hirano",
+      "original_name": "平野俊貴",
+      "popularity": 1.0349,
+      "profile_path": null,
+      "credit_id": "65fe60110c125501650c3a41",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2363487,
+      "known_for_department": "Writing",
+      "name": "Yabako Sandrovich",
+      "original_name": "Yabako Sandrovich",
+      "popularity": 0.1498,
+      "profile_path": "/z6UZuSGQcd93b6wuGcOAsQBsfKT.jpg",
+      "credit_id": "65fe601962f335017d511fdb",
+      "department": "Crew",
+      "job": "Other"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2267223,
+      "known_for_department": "Writing",
+      "name": "Atsuo Ishino",
+      "original_name": "イシノアツオ",
+      "popularity": 1.001,
+      "profile_path": null,
+      "credit_id": "65fe60200929f601649a6ee6",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2052141,
+      "known_for_department": "Camera",
+      "name": "Tatsuo Noguchi",
+      "original_name": "野口龍生",
+      "popularity": 1.2259,
+      "profile_path": null,
+      "credit_id": "679253d77c2da21c06b58ac0",
+      "department": "Camera",
+      "job": "Director of Photography"
+    }
+  ]
+}

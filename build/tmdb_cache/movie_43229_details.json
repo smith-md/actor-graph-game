@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/uskl5KETb1YOXiw49XqIeV7KEvR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 43229,
+  "imdb_id": "tt0050567",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Johnny Tremain",
+  "overview": "When an injury bars him from pursuing his trade, Revolutionary War-era silversmith's apprentice Johnny Tremain finds a new life in the ranks of the Sons of Liberty army, taking part in the Boston Tea Party and Paul Revere's legendary ride.",
+  "popularity": 4.6007,
+  "poster_path": "/cQKl3B4lfqKB9hoO8EGYRQiWZfm.jpg",
+  "production_companies": [
+    {
+      "id": 3166,
+      "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+      "name": "Walt Disney Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1957-06-19",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Hungry for Adventure...Burning to Fight!",
+  "title": "Johnny Tremain",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 31
+}

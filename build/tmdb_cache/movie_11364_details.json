@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/8QZMXIjksrlIQ5BZLtVpUnhh09Z.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 11364,
+  "imdb_id": "tt0102768",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Regarding Henry",
+  "overview": "After being shot, a lawyer loses his memory and must relearn speech and mobility, but he has a loving family to support him.",
+  "popularity": 3.8467,
+  "poster_path": "/1gyViKAIpy1jAcM3B17iXNbiHrh.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 214248,
+      "logo_path": null,
+      "name": "Mike Nichols Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 258,
+      "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+      "name": "Scott Rudin Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-07-10",
+  "revenue": 43001500,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The story of a man who had everything, but found something more.",
+  "title": "Regarding Henry",
+  "video": false,
+  "vote_average": 6.54,
+  "vote_count": 623
+}

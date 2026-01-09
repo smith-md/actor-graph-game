@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/nj1sc2adxEk7fseElV8RIuCaoZD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81207588",
+  "id": 739993,
+  "imdb_id": "tt12141112",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Metal Lords",
+  "overview": "For teenage misfits Hunter and Kevin, the path to glory is clear: Devote themselves to metal. Win Battle of the Bands. And be worshipped like gods.",
+  "popularity": 4.7717,
+  "poster_path": "/r97txZRmBb75SGsIAWqmplWJnO3.jpg",
+  "production_companies": [
+    {
+      "id": 12526,
+      "logo_path": null,
+      "name": "Bighead Littlehead",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-04-08",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Metal up your ass.",
+  "title": "Metal Lords",
+  "video": false,
+  "vote_average": 6.885,
+  "vote_count": 729
+}

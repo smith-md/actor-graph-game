@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/8or4S9BPhkeYK0vlKsPFee4JVWI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1315986,
+  "imdb_id": "tt31974129",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Man with No Past",
+  "overview": "Waking up in an unfamiliar city, a man with no memory must confront the mysteries of his own identity. However, his desperate search to uncover the past pits him against a powerful enemy, leading to a showdown that ultimately reveals the truth.",
+  "popularity": 6.0602,
+  "poster_path": "/eWHvROuznSzcxBAAkzX1X0Rmzoe.jpg",
+  "production_companies": [
+    {
+      "id": 177095,
+      "logo_path": "/nfwWCvMNaK687bjyM7un8p7ilz0.png",
+      "name": "SP Media Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 44311,
+      "logo_path": null,
+      "name": "Steven Paul Production",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-01-13",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Connect with memory.",
+  "title": "Man with No Past",
+  "video": false,
+  "vote_average": 6.534,
+  "vote_count": 58
+}

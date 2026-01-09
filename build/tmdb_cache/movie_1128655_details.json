@@ -1,0 +1,104 @@
+{
+  "adult": false,
+  "backdrop_path": "/iuW4CPRcaTZzTRDr8iLg2KYdKCM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.thesurferfilm.com",
+  "id": 1128655,
+  "imdb_id": "tt27813235",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Surfer",
+  "overview": "A man returns to the idyllic beach of his childhood to surf with his son. When he is humiliated by a group of locals, the man is drawn into a conflict that keeps rising and pushes him to his breaking point.",
+  "popularity": 5.4019,
+  "poster_path": "/gm9Ou0dkxhb1vcrkB6uRhoifcHC.jpg",
+  "production_companies": [
+    {
+      "id": 7888,
+      "logo_path": "/6HhOnizpDOvKjprTl47tPqvHLvZ.png",
+      "name": "ScreenWest",
+      "origin_country": "AU"
+    },
+    {
+      "id": 831,
+      "logo_path": "/vLENXiYTyITnMDrTKabUXhgTKX2.png",
+      "name": "Saturn Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 15780,
+      "logo_path": "/bdQFj7E5yNsir5pMgacux2SoLGQ.png",
+      "name": "Arenamedia",
+      "origin_country": "AU"
+    },
+    {
+      "id": 111422,
+      "logo_path": "/6H3JNNi6bFy7RAMYcTHbf0uSozR.png",
+      "name": "Lovely Productions",
+      "origin_country": "IE"
+    },
+    {
+      "id": 155758,
+      "logo_path": "/iZi0zd9ijrcWR9zlEUUthG8d600.png",
+      "name": "Tea Shop Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 74346,
+      "logo_path": "/1akCJMjyZsiS4v3NTJD5Y0LFZ4R.png",
+      "name": "Stan",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-04-11",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Don't live here, don't surf here.",
+  "title": "The Surfer",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 248
+}

@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/8XC9pHHRPSpjVmAX6qBMogRV3tU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 361064,
+  "imdb_id": "tt0252388",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Doktor Civanım",
+  "overview": "Kemal writes a letter to his mother telling her that he is a doctor. His mother is so happy that she spreads the news throughout the village. When the girls in the village learn that Kemal is returning to the village, they do everything they can to win him over. However, Kemal falls in love with Sümbül, the daughter of Ruşen Ağa. The discovery that Kemal is not a doctor will put this love in jeopardy.",
+  "popularity": 3.1401,
+  "poster_path": "/ZUMnXDpGACSPiIExbeeOjd4C9g.jpg",
+  "production_companies": [
+    {
+      "id": 14418,
+      "logo_path": null,
+      "name": "Uğur Film",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "1983-02-01",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Doktor Civanım",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 39
+}

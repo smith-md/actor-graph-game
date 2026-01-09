@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/ozbkcXmqcGqWKMKLE2o1QBIlPeW.jpg",
+  "belongs_to_collection": null,
+  "budget": 38000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.sonypictures.com/movies/enough/",
+  "id": 1957,
+  "imdb_id": "tt0278435",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Enough",
+  "overview": "Working-class waitress Slim thought she was entering a life of domestic bliss when she married Mitch, the man of her dreams. After the arrival of their first child, her picture perfect life is shattered when she discovers Mitch's hidden possessive dark side, a controlling and abusive alter ego that can turn trust, love and tranquility into terror. Terrified for her child's safety, Slim flees with her daughter. Relentless in his pursuit and enlisting the aid of lethal henchmen, Mitch continually stalks the prey that was once his family.",
+  "popularity": 4.6321,
+  "poster_path": "/yAfXnB6B69iM8KiWwzGulCXF4Mo.jpg",
+  "production_companies": [
+    {
+      "id": 8880,
+      "logo_path": "/fE7LBw7Jz8R29EABFGCvWNriZxN.png",
+      "name": "Winkler Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-05-21",
+  "revenue": 51800000,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everyone has a limit.",
+  "title": "Enough",
+  "video": false,
+  "vote_average": 6.653,
+  "vote_count": 1216
+}

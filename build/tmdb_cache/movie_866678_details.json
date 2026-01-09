@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/4G7216ezKodauyP7cvNswiEf33k.jpg",
+  "belongs_to_collection": {
+    "id": 1072703,
+    "name": "Furioza Collection",
+    "poster_path": "/ami2R2wE7SuBsqxwZmDVyt5wYZO.jpg",
+    "backdrop_path": "/8H0lBjRnrHFwnQd7kCdsb5vcBsX.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81570254",
+  "id": 866678,
+  "imdb_id": "tt10515864",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Furioza",
+  "overview": "A policewoman makes her ex-boyfriend an offer he can't refuse: either he infiltrates and informs on a gang of hooligans, or his brother goes to jail.",
+  "popularity": 4.959,
+  "poster_path": "/sSIo1vG0IILxzHkLKmtFEoTbVE9.jpg",
+  "production_companies": [
+    {
+      "id": 85055,
+      "logo_path": null,
+      "name": "2 Hungry Crocodiles",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2021-10-22",
+  "revenue": 2419521,
+  "runtime": 139,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Furioza",
+  "video": false,
+  "vote_average": 6.339,
+  "vote_count": 199
+}

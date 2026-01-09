@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/9cSU5vbkY2UpHKScO8IbhcsoBPg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.gobmg.com/product/forever-strong",
+  "id": 31451,
+  "imdb_id": "tt0840322",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Forever Strong",
+  "overview": "Hotshot rugby player Rick Penning was the star player of his Arizona high school team until a fateful brush with the law forces him to ponder the consequences of his actions in a Salt Lake City juvenile detention center.",
+  "popularity": 6.0214,
+  "poster_path": "/zEc17IDqnAAkLiyRcCzPT0oXO7j.jpg",
+  "production_companies": [
+    {
+      "id": 102521,
+      "logo_path": null,
+      "name": "Go Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 212634,
+      "logo_path": null,
+      "name": "BNR FILMS LLP",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-09-26",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The greatest victories are born in the heart.",
+  "title": "Forever Strong",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 214
+}

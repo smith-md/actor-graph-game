@@ -1,0 +1,214 @@
+{
+  "adult": false,
+  "backdrop_path": "/CKGSEnFTpcxPJM5TzTFUJz53s.jpg",
+  "belongs_to_collection": null,
+  "budget": 3400000,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://fleemovie.com/",
+  "id": 680813,
+  "imdb_id": "tt8430054",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Flugt",
+  "overview": "Recounted mostly through animation to protect his identity, Amin looks back over his past as a child refugee from Afghanistan as he grapples with a secret he’s kept hidden for 20 years.",
+  "popularity": 4.0269,
+  "poster_path": "/vlMIbqOpYG553J1kOJXA7mwQvE6.jpg",
+  "production_companies": [
+    {
+      "id": 29062,
+      "logo_path": "/hwlA6f2HhaOJP1ZcrYL8f8g8UbJ.png",
+      "name": "Final Cut for Real",
+      "origin_country": "DK"
+    },
+    {
+      "id": 12430,
+      "logo_path": "/lkWMDyfpBYL1hVnVCd9CvexQqQz.png",
+      "name": "Vivement lundi !",
+      "origin_country": "FR"
+    },
+    {
+      "id": 118108,
+      "logo_path": "/4s94doXw4KxBhdChNjwtaSk6Iop.png",
+      "name": "Sun Creature",
+      "origin_country": "DK"
+    },
+    {
+      "id": 6735,
+      "logo_path": "/pAQW38WU8ychBvYU2aGPTEbynEN.png",
+      "name": "Participant",
+      "origin_country": "US"
+    },
+    {
+      "id": 130146,
+      "logo_path": null,
+      "name": "MostFilm",
+      "origin_country": "SE"
+    },
+    {
+      "id": 21979,
+      "logo_path": "/pVdOYVNJracFdcEsDihqz3VSZ0U.png",
+      "name": "Mer Film",
+      "origin_country": "NO"
+    },
+    {
+      "id": 239,
+      "logo_path": "/96hCWEsfmTZQsoUap0CcG21qaA.png",
+      "name": "VPRO",
+      "origin_country": "NL"
+    },
+    {
+      "id": 149332,
+      "logo_path": "/3pvLAa2Q3bWiRLPgBGokWSRSvWe.png",
+      "name": "Vice Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 73068,
+      "logo_path": "/m669bsYloJvsocBzYlgAftIgVsE.png",
+      "name": "RYOT Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 149331,
+      "logo_path": "/bNQ61EvZO1HWvAQKqzVqCqXNqkr.png",
+      "name": "Left Handed Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 201,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "FR"
+    },
+    {
+      "id": 28367,
+      "logo_path": "/kw6n8hNwQXQSPlGdwVZvmbO0Haq.png",
+      "name": "RTV Slovenija",
+      "origin_country": "SI"
+    },
+    {
+      "id": 45345,
+      "logo_path": "/fb5rZB6gnthrxAeIYlRutKdGzV.png",
+      "name": "Estonian Public Broadcasting (ERR)",
+      "origin_country": "EE"
+    },
+    {
+      "id": 851,
+      "logo_path": "/kieSA3GFVysJcAUXNRer06u6e5x.png",
+      "name": "MEDIA Programme of the European Union",
+      "origin_country": "BE"
+    },
+    {
+      "id": 47815,
+      "logo_path": "/i083ezPVOG73vFgpE4KkZBuS4KH.png",
+      "name": "I Wonder Pictures",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "EE",
+      "name": "Estonia"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "SI",
+      "name": "Slovenia"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2021-06-17",
+  "revenue": 712229,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "فارسی"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sometimes it takes years to start living your life",
+  "title": "Flee",
+  "video": false,
+  "vote_average": 7.745,
+  "vote_count": 380
+}

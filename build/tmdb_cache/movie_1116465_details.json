@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/7FDVhmCur4LMOfnXMteiSCtsdOb.jpg",
+  "belongs_to_collection": {
+    "id": 1452167,
+    "name": "The Myth Collection",
+    "poster_path": "/6TRuMYz8mmbBxucQbyksbOFfieY.jpg",
+    "backdrop_path": "/5GC4cUCAk5RSqVVZWsbCFh6KbEa.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1116465,
+  "imdb_id": "tt27589902",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "传说",
+  "overview": "An archeologist noticed that the texture of the relics discovered during the excavation of a glacier closely resembled a jade pendant seen in one of his dreams. He and his team then embark on an expedition into the depths of the glacier.",
+  "popularity": 40.5998,
+  "poster_path": "/qbImUt1d3itXcB81BCItPZlfbyr.jpg",
+  "production_companies": [
+    {
+      "id": 30148,
+      "logo_path": "/zerhOenUD6CkH8SMgZUhrDkOs4w.png",
+      "name": "Bona Film Group",
+      "origin_country": "CN"
+    },
+    {
+      "id": 235676,
+      "logo_path": null,
+      "name": "Just Creative Studio",
+      "origin_country": "HK"
+    },
+    {
+      "id": 140473,
+      "logo_path": null,
+      "name": "Shanghai Lix Entertainment",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2024-07-05",
+  "revenue": 11242056,
+  "runtime": 129,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Legend",
+  "video": false,
+  "vote_average": 6.841,
+  "vote_count": 132
+}

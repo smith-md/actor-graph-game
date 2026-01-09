@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/77kMh12hJtPI8pHQZfyn6TtzfSx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1299372,
+  "imdb_id": "tt26750774",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "El llanto",
+  "overview": "Andrea, in search of her biological family, feels stalked by an invisible threat. Other women before them have suffered the same fate. Twenty years earlier, on the other side of the world, Camille, fascinated by Marie, tries to warn her of a threat hanging over her.",
+  "popularity": 3.8506,
+  "poster_path": "/wB5fVj1Se9TFt9q1CHAtoPiuMyZ.jpg",
+  "production_companies": [
+    {
+      "id": 23295,
+      "logo_path": "/qhcd72CVp5XobLPpr4J4uDppm5T.png",
+      "name": "Tandem Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 88421,
+      "logo_path": "/1iFSj2TyBsIyGaoS3hCKV8ELupB.png",
+      "name": "Setembro Cine",
+      "origin_country": "ES"
+    },
+    {
+      "id": 21736,
+      "logo_path": "/p4gIH0sLL5sAPYY5l50s0Q1rPNQ.png",
+      "name": "Caballo Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 64499,
+      "logo_path": "/5HGLr0kVceenzykDT2FviwS2rtF.png",
+      "name": "Tarea Fina",
+      "origin_country": "AR"
+    },
+    {
+      "id": 7792,
+      "logo_path": "/ik1JWvnBmVY6Rrw8iQWB2cPuuf.png",
+      "name": "Noodles Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 201633,
+      "logo_path": "/6Ox2aOmqNP6vEmlh02fqygwOkeE.png",
+      "name": "Instituto de la Cinematografía y de las Artes Audiovisuales",
+      "origin_country": "ES"
+    },
+    {
+      "id": 246607,
+      "logo_path": null,
+      "name": "Ayuntamiento de Madrid",
+      "origin_country": ""
+    },
+    {
+      "id": 208240,
+      "logo_path": "/hYREaYiVyoGVP26CbDpAWD3wDRD.png",
+      "name": "Amazon Studios",
+      "origin_country": "ES"
+    },
+    {
+      "id": 265749,
+      "logo_path": "/vFqHb0z4jNbA4h6iMQ52OaQRdEQ.png",
+      "name": "RTVE",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2024-10-25",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Wailing",
+  "video": false,
+  "vote_average": 5.909,
+  "vote_count": 99
+}

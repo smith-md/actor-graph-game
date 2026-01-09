@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/351R85FxY6gHefB6tK5CWorjwpC.jpg",
+  "belongs_to_collection": null,
+  "budget": 12000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/movies/sleeping-dictionary",
+  "id": 25988,
+  "imdb_id": "tt0242888",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Sleeping Dictionary",
+  "overview": "In the 1930s, British officer John Truscott journeys to a remote village in colonial Malaysia to educate and Westernize the local Iban population. There, he's introduced to the lovely Selima. In keeping with tradition, Selima is assigned to sleep with Truscott and teach him the native language and customs. But when they fall in love, both colonists and natives object to their plans to marry.",
+  "popularity": 2.7947,
+  "poster_path": "/bszp3HdnaBE6ptfio37vB3JckuL.jpg",
+  "production_companies": [
+    {
+      "id": 8,
+      "logo_path": "/78ilmDNTpdCfsakrsLqmAUkFTrO.png",
+      "name": "Fine Line Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 18939,
+      "logo_path": "/9nn3qLPVfbQJsAmH9ccebkp3fyN.png",
+      "name": "Hat Trick Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 26083,
+      "logo_path": null,
+      "name": "Katira Productions GmbH & Co. KG",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-01-31",
+  "revenue": 57524,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's an unexpected education.",
+  "title": "The Sleeping Dictionary",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 174
+}

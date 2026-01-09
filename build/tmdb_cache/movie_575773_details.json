@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/imLqj1YdhxPSCeinP0AKYwC6IZc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.rocks.film",
+  "id": 575773,
+  "imdb_id": "tt9067182",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Rocks",
+  "overview": "15-year-old Rocks fears that she and her little brother Emmanuel will be taken into care and forced apart if anyone finds out that their mother has left them. Against all odds, and with the help of her loyal friends, she evades the authorities and navigates the most defining days of her young life.",
+  "popularity": 2.4463,
+  "poster_path": "/8Mg4ew6drIax6ZmeY22dxM8ujBk.jpg",
+  "production_companies": [
+    {
+      "id": 107190,
+      "logo_path": "/2bulClv7G3kbAoGRUyKUD3wwl9M.png",
+      "name": "Fable Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 72311,
+      "logo_path": null,
+      "name": "The Wellcome Trust",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5056,
+      "logo_path": "/583ITs4w9sK31FnJwKiRwapTpzb.png",
+      "name": "Head Gear Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 50079,
+      "logo_path": "/hqfJCkivo3juHdqKjMq4pZI4hih.png",
+      "name": "Kreo Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 25954,
+      "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7281,
+      "logo_path": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+      "name": "BFI",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2019-09-05",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rocks",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 102
+}

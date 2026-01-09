@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/2D9eBSe9e8p3mBRytxihWlo2Z54.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 70345,
+  "imdb_id": "tt0070622",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sssssss",
+  "overview": "David, a college student, is looking for a job. He is hired by Dr. Stoner as a lab assistant for his research and experiments on snakes. David also begins to fall for Stoner's young daughter, Kristina. However, the good doctor has secretly brewed up a serum that can transform any man into a King Cobra snake-and he plans to use it on David.",
+  "popularity": 11.1752,
+  "poster_path": "/fIKiHta0LrDpb2f80u7ybPFesoy.jpg",
+  "production_companies": [
+    {
+      "id": 1865,
+      "logo_path": null,
+      "name": "The Zanuck/Brown Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1973-07-06",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Terror is ready to strike!",
+  "title": "Sssssss",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 108
+}

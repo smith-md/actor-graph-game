@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/eJWf8MTRmDVgUk6koy9Fg58yPNP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 190853,
+  "imdb_id": "tt2298416",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Suzanne",
+  "overview": "The story of a family and a love affair told through the journey of a young woman called Suzanne.",
+  "popularity": 2.7641,
+  "poster_path": "/ewDCuvoKKDrX0I8S4DkPDIULjb1.jpg",
+  "production_companies": [
+    {
+      "id": 3500,
+      "logo_path": null,
+      "name": "Move Movie",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2908,
+      "logo_path": "/8TnTh3wLfwCHMryk1ujHdxEG2Kc.png",
+      "name": "Mars Distribution",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12407,
+      "logo_path": "/g11ZDtSicimXi5MmwUznAsEomXZ.png",
+      "name": "Panache Productions",
+      "origin_country": "BE"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2013-12-17",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Suzanne",
+  "video": false,
+  "vote_average": 6.864,
+  "vote_count": 140
+}

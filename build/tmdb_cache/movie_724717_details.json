@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/9o7Wlok067ApGIkUY5qaz0yItUN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 724717,
+  "imdb_id": "tt11697484",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The 2nd",
+  "overview": "Secret-service agent Vic Davis is on his way to pick up his estranged son, Sean, from his college campus when he finds himself in the middle of a high-stakes terrorist operation. His son's friend Erin Walton, the daughter of Supreme Court Justice Walton is the target, and this armed faction will stop at nothing to kidnap her and use her as leverage for a pending landmark legal case.",
+  "popularity": 6.0165,
+  "poster_path": "/o1WvNhoackad1QiAGRgjJCQ1Trj.jpg",
+  "production_companies": [
+    {
+      "id": 137230,
+      "logo_path": null,
+      "name": "Fury Film Franchise",
+      "origin_country": ""
+    },
+    {
+      "id": 137231,
+      "logo_path": null,
+      "name": "Lucid Film",
+      "origin_country": ""
+    },
+    {
+      "id": 106787,
+      "logo_path": null,
+      "name": "Turbo Panda Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 2688,
+      "logo_path": null,
+      "name": "FilmPool",
+      "origin_country": "US"
+    },
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-12-14",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Family comes first",
+  "title": "The 2nd",
+  "video": false,
+  "vote_average": 5.256,
+  "vote_count": 133
+}

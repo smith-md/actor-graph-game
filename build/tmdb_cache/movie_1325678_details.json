@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/rUrOOrPZFY43F6TLpq1FoGs3pqN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.amazon.com/salp/sarahsoil?hhf",
+  "id": 1325678,
+  "imdb_id": "tt31727267",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sarah's Oil",
+  "overview": "Sarah Rector, an African-American girl born in Oklahoma Indian Territory in the early 1900s, believes there is oil beneath the barren land she’s allotted, and her faith is proven right. As greedy oil sharks close in, Sarah turns to her family, friends, and some Texas wildcatters to maintain control of her oil-rich land, eventually becoming among the nation's first female African-American millionaires—at eleven years old.",
+  "popularity": 6.4085,
+  "poster_path": "/Av1CK61z33v2OBFLD1yF5rdRxQ1.jpg",
+  "production_companies": [
+    {
+      "id": 144002,
+      "logo_path": "/k1uzQeFSgzGuiyoxfjbPZF9ofAz.png",
+      "name": "Kingdom Story Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 218666,
+      "logo_path": "/1FyQYjUUIijNZEJBUPqrpDxCZz3.png",
+      "name": "Wonder Project",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-06",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Inspired by a true story of faith and fortune.",
+  "title": "Sarah's Oil",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 30
+}

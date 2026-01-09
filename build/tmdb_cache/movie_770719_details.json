@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/qIS1v5r2VIejdqsNglOynb7UZJs.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 770719,
+  "imdb_id": "tt14998390",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Brado",
+  "overview": "On a ranch surrounded by nature, a man broken by life spends his days taming wild horses, the only creatures he could ever relate to. When he hears that his dad is embarking on yet another dangerous endeavor, his son Tommaso comes back home to try and dissuade him. It is a chance for them to bond again and to face the resentment that has long been keeping them apart. Day by day, father and son will learn to face each other to heal from their pain and walk together on the steep path to forgiveness.",
+  "popularity": 3.0363,
+  "poster_path": "/9ikaEuDkjnpGjbZj2GJCgU15xPF.jpg",
+  "production_companies": [
+    {
+      "id": 7699,
+      "logo_path": "/fHasfMWVRXGOmao2p1ijwicv9f4.png",
+      "name": "Palomar",
+      "origin_country": "IT"
+    },
+    {
+      "id": 115535,
+      "logo_path": "/mYoc1K3UPAUqKfuCYkvDLJN2aAA.png",
+      "name": "Vision Distribution",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 19079,
+      "logo_path": "/3hskOJPppWrWq7gZaBJzP7aFB9.png",
+      "name": "Sky",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2022-10-20",
+  "revenue": 0,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Brado",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 39
+}

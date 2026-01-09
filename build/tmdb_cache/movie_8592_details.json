@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/zkIMr5t0B95nZPhY4AvI4v3qYH.jpg",
+  "belongs_to_collection": null,
+  "budget": 47000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 8592,
+  "imdb_id": "tt0099422",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dick Tracy",
+  "overview": "The comic strip detective finds his life vastly complicated when Breathless Mahoney makes advances towards him while he is trying to battle Big Boy Caprice's united mob.",
+  "popularity": 4.4617,
+  "poster_path": "/sjeP4bpgsUvAGE8oFcICy2GaHxw.jpg",
+  "production_companies": [
+    {
+      "id": 9195,
+      "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 210080,
+      "logo_path": null,
+      "name": "Mulholland Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 10282,
+      "logo_path": null,
+      "name": "Silver Screen Partners IV",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-04-05",
+  "revenue": 103738726,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Their turf. Their game. Their rules. They didn't count on HIS law...",
+  "title": "Dick Tracy",
+  "video": false,
+  "vote_average": 6.143,
+  "vote_count": 998
+}

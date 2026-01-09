@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/gmYpUbSGOwmZnevCr0iwLEYdpVB.jpg",
+  "belongs_to_collection": null,
+  "budget": 14500000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 978796,
+  "imdb_id": "tt21201300",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bagman",
+  "overview": "For centuries and across cultures, parents have warned their children of the legendary Bagman, who snatches innocent children and stuffs them into his vile, rotting bag—never to be seen again. Patrick McKee narrowly escaped such an encounter as a boy, which left him with lasting scars throughout his adulthood. Now, Patrick’s childhood tormentor has returned, threatening the safety of his wife Karina and son Jake.",
+  "popularity": 6.7398,
+  "poster_path": "/53IK9rlZJbwFYbNnJZiLq7UWxkT.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 12292,
+      "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+      "name": "Temple Hill Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 221429,
+      "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+      "name": "Media Capital Technologies",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-09-20",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's always closer than you think.",
+  "title": "Bagman",
+  "video": false,
+  "vote_average": 6.14,
+  "vote_count": 412
+}

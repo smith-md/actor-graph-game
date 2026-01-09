@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/7AvbU0ei7Fz21jqBL4tlgSufnMp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 2721,
+  "imdb_id": "tt0065234",
+  "origin_country": [
+    "DZ",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Z",
+  "overview": "A prominent politician is murdered during a demonstration. The government and army are trying to suppress the truth. But, a tenacious magistrate is determined to not to let them get away with it.",
+  "popularity": 3.8704,
+  "poster_path": "/dFAJyFNgvOv24f2RQyI9KDxjGr3.jpg",
+  "production_companies": [
+    {
+      "id": 72,
+      "logo_path": null,
+      "name": "Valoria Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2399,
+      "logo_path": null,
+      "name": "Reggane Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 139395,
+      "logo_path": "/4NXn9zAMa8SH9zZnYPmt6okp6VM.png",
+      "name": "Office National pour le Commerce et l'Industrie Cinématographique (ONCIC)",
+      "origin_country": "DZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DZ",
+      "name": "Algeria"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1969-02-26",
+  "revenue": 83305,
+  "runtime": 127,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He is alive!",
+  "title": "Z",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 594
+}

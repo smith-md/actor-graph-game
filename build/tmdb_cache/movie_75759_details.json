@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/tsGTKW6nTcGNJkgYfQiyO9VsidJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 75759,
+  "imdb_id": "tt0079822",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Roller Boogie",
+  "overview": "Teen lovers Bobby and Terry band together with other roller skaters to try and prevent a powerful mobster taking over the land their favourite skating rink sits on, and compete in the Boogie Contest.",
+  "popularity": 3.5065,
+  "poster_path": "/qzerjrsQSnijpA1PuZzRbCXMnqR.jpg",
+  "production_companies": [
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    },
+    {
+      "id": 14323,
+      "logo_path": "/efnw45BcPQve9ACNchnDufgV1po.png",
+      "name": "Compass International Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1979-12-19",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's love on wheels!",
+  "title": "Roller Boogie",
+  "video": false,
+  "vote_average": 5.534,
+  "vote_count": 44
+}

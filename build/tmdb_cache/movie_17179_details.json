@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/6zZ47ilB3uQloFSV2XLiht0xxi6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 17179,
+  "imdb_id": "tt0448166",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Two Weeks",
+  "overview": "In this bittersweet comedy, four adult siblings gather at their dying mother's house in North Carolina for what they expect to be a quick, last goodbye. Instead, they find themselves trapped — together — for two weeks.",
+  "popularity": 3.6828,
+  "poster_path": "/jO7tUjxEVpx4RPuO8lw3lS8P57g.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-10-20",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Two Weeks",
+  "video": false,
+  "vote_average": 6.03,
+  "vote_count": 33
+}

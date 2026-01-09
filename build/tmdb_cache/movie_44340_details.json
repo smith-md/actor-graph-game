@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/v5QbzUkzCKzkTPbO50GvaI18gzD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 44340,
+  "imdb_id": "tt0275067",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wendigo",
+  "overview": "A family from the city decide to spend a weekend away at a friend's country farmhouse. But a fluke accident sets off a chain of events that alters their lives forever and conjures up the ferocious spirit of the Wendigo.",
+  "popularity": 3.9445,
+  "poster_path": "/cPtteHPYzO0ZBgr94Bx0a87zmzy.jpg",
+  "production_companies": [
+    {
+      "id": 1360,
+      "logo_path": "/lqVvISZwlXQpEl27erWszcPdPsR.png",
+      "name": "Glass Eye Pix",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-02-15",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some myths are real.",
+  "title": "Wendigo",
+  "video": false,
+  "vote_average": 4.734,
+  "vote_count": 92
+}

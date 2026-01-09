@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/qQksZdRMIaZwttaT0pzbyJklWQz.jpg",
+  "belongs_to_collection": {
+    "id": 14246,
+    "name": "Sniper Collection",
+    "poster_path": "/2NbhXWB5SKRCdMqEpMz9XieQqxU.jpg",
+    "backdrop_path": "/kvuUWjeSFEXmc7DytEFKehlNHo4.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 9545,
+  "imdb_id": "tt0108171",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sniper",
+  "overview": "Tough guy Thomas Beckett is an US soldier working in the Panamanian jungle. His job is to seek out rebels and remove them using his sniper skills. Beckett is notorious for losing his partners on such missions. This time he's accompanied by crack marksman Richard Miller.",
+  "popularity": 5.0418,
+  "poster_path": "/ayYsC7Jp2BxhCLWghOBWzZlO4FI.jpg",
+  "production_companies": [
+    {
+      "id": 559,
+      "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11134,
+      "logo_path": null,
+      "name": "Iguana Producciones",
+      "origin_country": "PE"
+    },
+    {
+      "id": 11407,
+      "logo_path": "/qPYLq3Q7BijSn1l11zz0Ax7o3E2.png",
+      "name": "Baltimore Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11409,
+      "logo_path": null,
+      "name": "Sniper Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PE",
+      "name": "Peru"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1993-01-29",
+  "revenue": 18994652,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One Shot. One Kill. No Exceptions.",
+  "title": "Sniper",
+  "video": false,
+  "vote_average": 6.189,
+  "vote_count": 449
+}

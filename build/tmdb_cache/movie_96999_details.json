@@ -1,0 +1,50 @@
+{
+  "adult": false,
+  "backdrop_path": "/1wVvd8G2FG9KQBIeQaactQ0zpXo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 96999,
+  "imdb_id": "tt1531914",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Smitty",
+  "overview": "SMITTY is a family film about a rescue dog. When life gets tough for Ben, a friendly paw is all it takes to pull him through. Mischievous thirteen-year-old Ben is sent to his grandfather's farm for the summer, where he crosses paths with a lovable mutt. With help from the unlikely canine companion, Ben learns the importance of friendship, family and responsibility.",
+  "popularity": 3.1114,
+  "poster_path": "/wKSozn2WTHp64ZzkdG9wioA5gLy.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-04-10",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everyone needs a friendly paw",
+  "title": "Smitty",
+  "video": false,
+  "vote_average": 5.94,
+  "vote_count": 25
+}

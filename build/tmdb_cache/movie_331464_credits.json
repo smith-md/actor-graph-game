@@ -1,0 +1,142 @@
+{
+  "id": 331464,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 8395,
+      "known_for_department": "Acting",
+      "name": "Luke Perry",
+      "original_name": "Luke Perry",
+      "popularity": 2.1246,
+      "profile_path": "/78TAr0wLoRHyubnYxjyHNCt70V2.jpg",
+      "cast_id": 3,
+      "character": "James",
+      "credit_id": "550ad0d9c3a3681db20012d3",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 52374,
+      "known_for_department": "Acting",
+      "name": "Bruce Davison",
+      "original_name": "Bruce Davison",
+      "popularity": 2.5334,
+      "profile_path": "/41JtouCUhnnBwWmdsemPydtk3FB.jpg",
+      "cast_id": 4,
+      "character": "Grandpa",
+      "credit_id": "550ad0e692514146950015a8",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 58793,
+      "known_for_department": "Acting",
+      "name": "Sarah Ann Schultz",
+      "original_name": "Sarah Ann Schultz",
+      "popularity": 0.5963,
+      "profile_path": "/mcEat6GqHgmoLSoy9y76Q1co0hs.jpg",
+      "cast_id": 5,
+      "character": "Kym",
+      "credit_id": "550ad0f1c3a3681db20012d8",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1198994,
+      "known_for_department": "Production",
+      "name": "Anthony Del Negro",
+      "original_name": "Anthony Del Negro",
+      "popularity": 1.5555,
+      "profile_path": "/r6wOE1Y5fwOCaAamdZczpcwPOga.jpg",
+      "cast_id": 6,
+      "character": "Josh",
+      "credit_id": "5666dd73c3a36808fa000fb3",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1546394,
+      "known_for_department": "Acting",
+      "name": "Jennifer Mckenzie",
+      "original_name": "Jennifer Mckenzie",
+      "popularity": 0.246,
+      "profile_path": null,
+      "cast_id": 7,
+      "character": "Audry",
+      "credit_id": "5666dda1c3a36808ec000da6",
+      "order": 4
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 92062,
+      "known_for_department": "Directing",
+      "name": "Daniel Zirilli",
+      "original_name": "Daniel Zirilli",
+      "popularity": 1.3721,
+      "profile_path": null,
+      "credit_id": "550ad0b8c3a36848800015c7",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 92062,
+      "known_for_department": "Directing",
+      "name": "Daniel Zirilli",
+      "original_name": "Daniel Zirilli",
+      "popularity": 1.3721,
+      "profile_path": null,
+      "credit_id": "550ad0b2c3a3684886001792",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1442203,
+      "known_for_department": "Writing",
+      "name": "Amy Zirilli",
+      "original_name": "Amy Zirilli",
+      "popularity": 0.2265,
+      "profile_path": null,
+      "credit_id": "550ad0ca925141469c0015df",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1023377,
+      "known_for_department": "Camera",
+      "name": "Luc G. Nicknair",
+      "original_name": "Luc G. Nicknair",
+      "popularity": 0.0402,
+      "profile_path": null,
+      "credit_id": "5666df63c3a36808f30010d4",
+      "department": "Camera",
+      "job": "Director of Photography"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2114595,
+      "known_for_department": "Production",
+      "name": "David S. Bellino",
+      "original_name": "David S. Bellino",
+      "popularity": 0.0852,
+      "profile_path": null,
+      "credit_id": "5b80c25992514159ce00479e",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

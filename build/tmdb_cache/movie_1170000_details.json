@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/vPUjVO4v0UofvkGR9wyfNsroLaB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1170000,
+  "imdb_id": "tt27550567",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Little Wing",
+  "overview": "For 13-year-old Kaitlyn, her world threatens to collapse when she learns that her parents want to get a divorce, especially because it threatens the loss of the house they shared in Portland, which had always been Kaitlyn's home. The teenage girl has dark thoughts and lost interest in life. The breeding pigeons given to her by her mother's police colleague don't make things any better. What should she do with the birds? Then her best friend Adam gives her an idea: they could steal the very valuable racing pigeon named Granger from the local breeder Jaan Vari, sell it and use the proceeds to pay off the mortgage on her family's home. The plan initially works, but then everything seems to go wrong and Kaitlyn loses her footing even more. But surprisingly, the old man who was robbed takes care of the girl and a bond develops between the two, which ultimately leads her to a new outlook on life.",
+  "popularity": 4.1881,
+  "poster_path": "/nEMc5IK3rkAtKCMhzBe3CX2Wpds.jpg",
+  "production_companies": [
+    {
+      "id": 2609,
+      "logo_path": "/ocmrEBfmecJvrbIM4C50vjYWtlq.png",
+      "name": "De Line Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 229790,
+      "logo_path": null,
+      "name": "On the Hops",
+      "origin_country": ""
+    },
+    {
+      "id": 63484,
+      "logo_path": "/aVLlAODQm57VkgqWlVAOGiy8zs0.png",
+      "name": "Awesomeness Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-03-13",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The only way out is up.",
+  "title": "Little Wing",
+  "video": false,
+  "vote_average": 6.635,
+  "vote_count": 26
+}

@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/egNz2a18eQ9ycBfQQkQehSTeNwH.jpg",
+  "belongs_to_collection": null,
+  "budget": 4600000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1356670,
+  "imdb_id": "tt32204858",
+  "origin_country": [
+    "DE",
+    "CH"
+  ],
+  "original_language": "de",
+  "original_title": "Heldin",
+  "overview": "An entirely ordinary day on the beds ward of a surgical department. The nursing team is understaffed due to a shortage of personnel. Despite the hectic environment, Floria cares for her patients with expertise and full dedication. Although she gives her all, the shift gradually spirals out of control – until it eventually leads to a dramatic outburst.",
+  "popularity": 5.1019,
+  "poster_path": "/2X2FZIYdXYNwDbStJhgeoVn0pWH.jpg",
+  "production_companies": [
+    {
+      "id": 5485,
+      "logo_path": "/nN4hD2hrcJ3g1RrDsAIILb4Xwm5.png",
+      "name": "Zodiac Pictures",
+      "origin_country": "CH"
+    },
+    {
+      "id": 42145,
+      "logo_path": "/fX8uY3tXWh814PLVqKM0IJEoDPW.png",
+      "name": "SRF",
+      "origin_country": "CH"
+    },
+    {
+      "id": 12431,
+      "logo_path": "/3m45frhaRCLsCKuMtuj7ZwfGwBB.png",
+      "name": "SRG SSR",
+      "origin_country": "CH"
+    },
+    {
+      "id": 86278,
+      "logo_path": null,
+      "name": "MMC Zodiac",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-02-27",
+  "revenue": 2248056,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Late Shift",
+  "video": false,
+  "vote_average": 7.785,
+  "vote_count": 165
+}

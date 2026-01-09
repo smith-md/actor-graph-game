@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/ydRoUWyhAMv1FstnWlo5EiZWEbc.jpg",
+  "belongs_to_collection": null,
+  "budget": 26000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 239571,
+  "imdb_id": "tt1972779",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Best of Me",
+  "overview": "A pair of former high school sweethearts reunite after many years when they return to visit their small hometown.",
+  "popularity": 3.1248,
+  "poster_path": "/twv17hergmeqXR2jVpKdv0JRPir.jpg",
+  "production_companies": [
+    {
+      "id": 7295,
+      "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+      "name": "Relativity Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 813,
+      "logo_path": null,
+      "name": "Di Novi Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-10-15",
+  "revenue": 35926213,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You never forget your first love.",
+  "title": "The Best of Me",
+  "video": false,
+  "vote_average": 7.461,
+  "vote_count": 2657
+}

@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/snxv1JsbZKORhPeufMquHn05SF1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 101520,
+  "imdb_id": "tt1484114",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Reel Injun",
+  "overview": "The evolution of the depiction of the various Native American peoples in cinema, from the silent era to the present day: how their image on the screen has changed the way to understand their history and culture.",
+  "popularity": 3.1034,
+  "poster_path": "/t4KJwgqlhe5aNFNWdx4QiNMR1kS.jpg",
+  "production_companies": [
+    {
+      "id": 36946,
+      "logo_path": null,
+      "name": "Rezolution Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 201696,
+      "logo_path": null,
+      "name": "CBC Newsworld",
+      "origin_country": "CA"
+    },
+    {
+      "id": 53476,
+      "logo_path": null,
+      "name": "CTF | FCT",
+      "origin_country": "CA"
+    },
+    {
+      "id": 806,
+      "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+      "name": "Téléfilm Canada",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2010-02-19",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "On the trail of the Hollywood Indian",
+  "title": "Reel Injun",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 38
+}

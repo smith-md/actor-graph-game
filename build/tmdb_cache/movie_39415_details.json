@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/A89qKnhI2UiqdnmbsCd6v1ussvQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 39415,
+  "imdb_id": "tt0081076",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Loulou",
+  "overview": "A bored wife leaves her husband for an unemployed, petty criminal.",
+  "popularity": 3.6511,
+  "poster_path": "/qTujCgEaVs9SkZxKOMkDH1t23ji.jpg",
+  "production_companies": [
+    {
+      "id": 9,
+      "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+      "name": "Gaumont",
+      "origin_country": "FR"
+    },
+    {
+      "id": 21505,
+      "logo_path": null,
+      "name": "Action Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1980-09-03",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Loulou",
+  "video": false,
+  "vote_average": 6.181,
+  "vote_count": 102
+}

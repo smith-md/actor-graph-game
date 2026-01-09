@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/4A0f1oqkJLohy8LXjmJpops7CMB.jpg",
+  "belongs_to_collection": null,
+  "budget": 55000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 8984,
+  "imdb_id": "tt0109635",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Disclosure",
+  "overview": "A computer specialist is sued for sexual harassment by a former lover turned boss who initiated the act forcefully, which threatens both his career and his personal life.",
+  "popularity": 4.5803,
+  "poster_path": "/1DcDAJ5vM5XKKONmTaadq5GHpfk.jpg",
+  "production_companies": [
+    {
+      "id": 11407,
+      "logo_path": "/qPYLq3Q7BijSn1l11zz0Ax7o3E2.png",
+      "name": "Baltimore Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 23370,
+      "logo_path": null,
+      "name": "Constant c Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-12-09",
+  "revenue": 214015089,
+  "runtime": 128,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sex Is Power.",
+  "title": "Disclosure",
+  "video": false,
+  "vote_average": 6.251,
+  "vote_count": 1237
+}

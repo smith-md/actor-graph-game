@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/sfZsUTH7MYxX2FsHOcWcx0YgkYa.jpg",
+  "belongs_to_collection": null,
+  "budget": 14000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 9827,
+  "imdb_id": "tt0119891",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Phantoms",
+  "overview": "In the peaceful Colorado town of Snowfield, something evil has wiped out the community. And now, it's up to a group of people to stop it, or at least get out of Snowfield alive.",
+  "popularity": 3.9315,
+  "poster_path": "/aWkmnhNBlQNIPNNz4r0PGksXgT1.jpg",
+  "production_companies": [
+    {
+      "id": 7405,
+      "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+      "name": "Dimension Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 218994,
+      "logo_path": null,
+      "name": "Raven House",
+      "origin_country": "US"
+    },
+    {
+      "id": 86906,
+      "logo_path": null,
+      "name": "NEO Motion Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 64421,
+      "logo_path": "/mB7zlD6FiYd0j0AtQ9AGyPbyAUA.png",
+      "name": "Fuji Creative Corporation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1998-01-23",
+  "revenue": 5624282,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "For centuries they told us the terror would come from above. We've been looking the wrong way.",
+  "title": "Phantoms",
+  "video": false,
+  "vote_average": 5.396,
+  "vote_count": 380
+}

@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/vXqBQUTEpbuT035JgRS6R72NKyb.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 49299,
+  "imdb_id": "tt0106660",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dangerous Game",
+  "overview": "A New York film director, working on his latest movie in Los Angeles, begins to reflect the actions in his movie and real life, especially when he begins an affair with the lead actress.",
+  "popularity": 2.8729,
+  "poster_path": "/lHD4z6KAjtDWKIMeChezIFon5bX.jpg",
+  "production_companies": [
+    {
+      "id": 371,
+      "logo_path": "/caz3eGyRd4OW7oR31Aij5ZwjOXD.png",
+      "name": "Cecchi Gori Group Tiger Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 36863,
+      "logo_path": "/70BTBI5AmbbiSfeiZuulSVNMOEA.png",
+      "name": "Maverick Picture Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1993-10-13",
+  "revenue": 1261210,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Turbulence. Redemption. Hollywood.",
+  "title": "Dangerous Game",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 83
+}

@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/xGiqZw1AJJ6BZRNUT1XVBMBofnr.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 802,
+  "imdb_id": "tt0056193",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lolita",
+  "overview": "Humbert Humbert is a middle-aged British novelist who is both appalled by and attracted to the vulgarity of American culture. When he comes to stay at the boarding house run by Charlotte Haze, he soon becomes obsessed with Lolita, the woman's teenaged daughter.",
+  "popularity": 4.8621,
+  "poster_path": "/8Puqbeh0D95DpXFWep1rmH78btu.jpg",
+  "production_companies": [
+    {
+      "id": 516,
+      "logo_path": "/ibZFDcpmcpY0emmO8mo1HCenlGk.png",
+      "name": "Seven Arts Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 216222,
+      "logo_path": null,
+      "name": "Harris Kubrick Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 216225,
+      "logo_path": null,
+      "name": "A.A. Productions, Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 216226,
+      "logo_path": null,
+      "name": "Anya Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 518,
+      "logo_path": null,
+      "name": "Transworld Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1962-06-13",
+  "revenue": 9250000,
+  "runtime": 154,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "How did they ever make a movie of Lolita?",
+  "title": "Lolita",
+  "video": false,
+  "vote_average": 7.31,
+  "vote_count": 2192
+}

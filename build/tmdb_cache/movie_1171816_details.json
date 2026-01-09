@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/5UlQDjIuJ0t8q4anVxzkW06FrDM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81728930",
+  "id": 1171816,
+  "imdb_id": "tt28865980",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "American Symphony",
+  "overview": "Musician Jon Batiste attempts to compose a symphony as his wife, writer Suleika Jaouad, undergoes cancer treatment.",
+  "popularity": 3.9637,
+  "poster_path": "/skfO62LOEg805x9fMYeEDQRorXP.jpg",
+  "production_companies": [
+    {
+      "id": 52707,
+      "logo_path": "/tdwDYDKNAqHz7NoP43xoR0UD3ri.png",
+      "name": "Our Time Projects",
+      "origin_country": "US"
+    },
+    {
+      "id": 122147,
+      "logo_path": "/eotra9uY7zyivEzDL4bFdn7Elm4.png",
+      "name": "Higher Ground",
+      "origin_country": "US"
+    },
+    {
+      "id": 178150,
+      "logo_path": "/aWXC584uLR18zZQZHsuqJnodwSg.png",
+      "name": "Mercury Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-24",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "American Symphony",
+  "video": false,
+  "vote_average": 6.689,
+  "vote_count": 61
+}

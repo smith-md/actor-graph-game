@@ -1,0 +1,96 @@
+{
+  "adult": false,
+  "backdrop_path": "/2ha0wAOqrUcLScStWQcgeOOXapQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 45000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://abigboldbeautifuljourney.movie",
+  "id": 1241921,
+  "imdb_id": "tt13650700",
+  "origin_country": [
+    "IE",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Big Bold Beautiful Journey",
+  "overview": "Sarah and David are single strangers who meet at a mutual friend’s wedding and soon, through a surprising twist of fate, find themselves on a funny, fantastical, sweeping adventure together where they get to re-live important moments from their respective pasts, illuminating how they got to where they are in the present... and possibly getting a chance to alter their futures.",
+  "popularity": 7.2151,
+  "poster_path": "/uMAkmQlKthQpTMiyPAKOYK3JnMs.jpg",
+  "production_companies": [
+    {
+      "id": 81121,
+      "logo_path": "/1z9ocv9A1qlXhH1ehq2hFqIl0J5.png",
+      "name": "Imperative Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 104363,
+      "logo_path": "/tKIimrvYUH02D4km00lCEDUYvIF.png",
+      "name": "30WEST",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 225329,
+      "logo_path": "/haFdiPRSK9wRJ3xQZOqRNpk77jB.png",
+      "name": "Chapel Place Productions",
+      "origin_country": "IE"
+    },
+    {
+      "id": 274023,
+      "logo_path": null,
+      "name": "Tempo Basho",
+      "origin_country": "US"
+    },
+    {
+      "id": 253443,
+      "logo_path": null,
+      "name": "Original Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2025-09-17",
+  "revenue": 22188987,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Relive your past. Change your future.",
+  "title": "A Big Bold Beautiful Journey",
+  "video": false,
+  "vote_average": 6.255,
+  "vote_count": 274
+}

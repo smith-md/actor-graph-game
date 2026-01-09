@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/hKhsgLfJlIQVa88dZWR7kIEwgbI.jpg",
+  "belongs_to_collection": null,
+  "budget": 179000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 27429,
+  "imdb_id": "tt0073705",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Shivers",
+  "overview": "The residents of a suburban high-rise apartment building are infected by parasites that turn them into mindless nymphomaniac fiends.",
+  "popularity": 4.1536,
+  "poster_path": "/wcgfPA5FicDgQXaw67kjtUxuxdb.jpg",
+  "production_companies": [
+    {
+      "id": 15989,
+      "logo_path": null,
+      "name": "DAL Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 4952,
+      "logo_path": null,
+      "name": "Canadian Film Development Corporation",
+      "origin_country": "CA"
+    },
+    {
+      "id": 6270,
+      "logo_path": null,
+      "name": "Cinépix Film Properties (CFP)",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "1975-05-16",
+  "revenue": 1000000,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Being Terrified is Just the Beginning!",
+  "title": "Shivers",
+  "video": false,
+  "vote_average": 6.381,
+  "vote_count": 693
+}

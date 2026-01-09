@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/uuTKt6mcqtMEDeP4i7vCNcMI3jK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 59500,
+  "imdb_id": "tt0416871",
+  "origin_country": [
+    "FI"
+  ],
+  "original_language": "fi",
+  "original_title": "Jadesoturi",
+  "overview": "Thousands of years ago in ancient China, a man fights against his destiny. He wants another chance to be reunited with his loved one and he gets that chance, in a far away place and a far away time, in modern Finland.",
+  "popularity": 3.2191,
+  "poster_path": "/uYdcCSnJ9Mb9rruJWp4os2zF1sc.jpg",
+  "production_companies": [
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 201,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7330,
+      "logo_path": null,
+      "name": "Blind Spot Pictures",
+      "origin_country": "FI"
+    },
+    {
+      "id": 12046,
+      "logo_path": "/wauD5HrRmaR5TdQr0ylGTLyifpQ.png",
+      "name": "Fu Works",
+      "origin_country": "NL"
+    },
+    {
+      "id": 28053,
+      "logo_path": null,
+      "name": "Troika Entertainment GmbH",
+      "origin_country": ""
+    },
+    {
+      "id": 74694,
+      "logo_path": null,
+      "name": "Film Tower",
+      "origin_country": "EE"
+    },
+    {
+      "id": 74695,
+      "logo_path": null,
+      "name": "Ming Productions",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "EE",
+      "name": "Estonia"
+    },
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2006-10-13",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Forge me the Sampo and you will get your loved one back.",
+  "title": "Jade Warrior",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 57
+}

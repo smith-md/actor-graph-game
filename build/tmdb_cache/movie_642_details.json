@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/C6jcUqld8M6hZQmzBxgwHuQ4qT.jpg",
+  "belongs_to_collection": {
+    "id": 625812,
+    "name": "Butch Cassidy and the Sundance Kid Collection",
+    "poster_path": "/tH6CdgYjbJ9KJlsVU3zU7KOH4XD.jpg",
+    "backdrop_path": "/nvlkWZRoWlef0aDTJDgXxhffQM2.jpg"
+  },
+  "budget": 6000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 642,
+  "imdb_id": "tt0064115",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Butch Cassidy and the Sundance Kid",
+  "overview": "As the west rapidly becomes civilized, a pair of outlaws in 1890s Wyoming find themselves pursued by a posse and decide to flee to South America in hopes of evading the law.",
+  "popularity": 4.8209,
+  "poster_path": "/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg",
+  "production_companies": [
+    {
+      "id": 381,
+      "logo_path": null,
+      "name": "Campanile Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 135092,
+      "logo_path": null,
+      "name": "George Roy Hill-Paul Monash Production",
+      "origin_country": "US"
+    },
+    {
+      "id": 12443,
+      "logo_path": null,
+      "name": "Newman-Foreman Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1969-09-23",
+  "revenue": 102308889,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Not that it matters, but most of it is true.",
+  "title": "Butch Cassidy and the Sundance Kid",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 2381
+}

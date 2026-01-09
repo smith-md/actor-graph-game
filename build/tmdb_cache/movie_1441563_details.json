@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/bXZcSDQoyXlzzUw9qxjZjiUSYov.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81734567",
+  "id": 1441563,
+  "imdb_id": "tt35219851",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "My Secret Santa",
+  "overview": "A single mom needs a job. A ski resort needs a Santa. Disguised as a St. Nick lookalike, can Taylor fool a charming hotel heir into ho-ho-hiring her?",
+  "popularity": 7.7158,
+  "poster_path": "/tpOAzBasKPsKwsUtPZOx1Mzuqq3.jpg",
+  "production_companies": [
+    {
+      "id": 63939,
+      "logo_path": null,
+      "name": "Howard Braunstein Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-02",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Single mom. Double life.",
+  "title": "My Secret Santa",
+  "video": false,
+  "vote_average": 6.248,
+  "vote_count": 163
+}

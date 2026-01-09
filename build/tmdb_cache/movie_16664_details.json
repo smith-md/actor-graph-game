@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/nZ7PeP09wioVQppxopmXHUfrAn1.jpg",
+  "belongs_to_collection": null,
+  "budget": 1250000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 16664,
+  "imdb_id": "tt0297721",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "リリイ・シュシュのすべて",
+  "overview": "Charts the troubled teenage years of students Yūichi Hasumi and Shūsuke Hoshino, exploring the shifting and complex power dynamics of their relationship against the backdrop of Yūichi's love for the dreamy and abstract music of pop star Lily Chou-Chou.",
+  "popularity": 4.7895,
+  "poster_path": "/pLBNmJUH9JYRCRsh349PJ22WpkS.jpg",
+  "production_companies": [
+    {
+      "id": 2487,
+      "logo_path": "/zxbajHpbztstj8QgRU4SEmX6J1V.png",
+      "name": "Rockwell Eyes",
+      "origin_country": "JP"
+    },
+    {
+      "id": 182,
+      "logo_path": "/1BPbXmwi1DZS1Qp0koK7AuponY6.png",
+      "name": "JVC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 157807,
+      "logo_path": "/tyrJOOVAUIxQEJzjP1PhP2H5zFi.png",
+      "name": "WOWOW",
+      "origin_country": "JP"
+    },
+    {
+      "id": 139463,
+      "logo_path": null,
+      "name": "OORONG-SHA",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2001-10-06",
+  "revenue": 6776921,
+  "runtime": 146,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Pain can take you in prison. The ether can set you free.",
+  "title": "All About Lily Chou-Chou",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 266
+}

@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/w66mT7g0cA7lcHcdJ9SGRIONdo8.jpg",
+  "belongs_to_collection": null,
+  "budget": 3800000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 947507,
+  "imdb_id": "tt21212718",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Helt super",
+  "overview": "11-year-old gaming enthusiast Hedvig finds her life turned upside down when she is forced to replace her father as the town’s superhero much earlier than expected. But Hedvig is no superhero, and the challenges are far greater than her coaching father anticipated.",
+  "popularity": 3.9701,
+  "poster_path": "/iZxqMQTIQ6HYOzyeiDxYYtyj4H7.jpg",
+  "production_companies": [
+    {
+      "id": 32314,
+      "logo_path": "/eQ334MC49QQuy6lZnAO2RcxNREX.png",
+      "name": "Qvisten Animation",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2022-09-30",
+  "revenue": 2013434,
+  "runtime": 76,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What is your superpower?",
+  "title": "Just Super",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 22
+}

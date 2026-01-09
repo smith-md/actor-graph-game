@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/9o4dGUgFpI1aYKzkYLkQk8BfxQM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 41054,
+  "imdb_id": "tt0050458",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il Grido",
+  "overview": "A sugar-refinery worker flees his Northern Italy town after a woman refuses his marriage proposal.",
+  "popularity": 5.2863,
+  "poster_path": "/anUoCgC45XL1nmLJoXD1kVKnwka.jpg",
+  "production_companies": [
+    {
+      "id": 12239,
+      "logo_path": null,
+      "name": "SpA Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 18272,
+      "logo_path": null,
+      "name": "Robert Alexander Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1957-09-26",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Il Grido",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 162
+}

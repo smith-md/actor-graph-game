@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/mwI1OarF7BVWwn5O1Ng73UhyctP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.victorymanproductions.com/films/humane",
+  "id": 914215,
+  "imdb_id": "tt16280912",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Humane",
+  "overview": "In the wake of an environmental collapse that has forced humanity to shed 20% of its population, a family dinner erupts into chaos when a father's plan to enlist in the government's new euthanasia program goes horribly awry.",
+  "popularity": 4.2774,
+  "poster_path": "/ecOvKaoM1hwQbp0uTnULGrSV32e.jpg",
+  "production_companies": [
+    {
+      "id": 11221,
+      "logo_path": "/6jVbb4ylJb74WlrtIDqcIlhwUQY.png",
+      "name": "Victory Man",
+      "origin_country": "CA"
+    },
+    {
+      "id": 82552,
+      "logo_path": "/cLEXKtCpRQs0meQwT7HK6u3QmRH.png",
+      "name": "Elevation Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2844,
+      "logo_path": "/80lJ1OQzjWXI99Hj1VgUO3vu2qi.png",
+      "name": "Prospero Pictures",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2024-04-26",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Dying makes all the difference in the world.",
+  "title": "Humane",
+  "video": false,
+  "vote_average": 5.439,
+  "vote_count": 212
+}

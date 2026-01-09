@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/nkVsFtaCZTIgGwCTTkjqzMPGeAk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 31546,
+  "imdb_id": "tt0115530",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "American Buffalo",
+  "overview": "Three inner-city losers plan a robbery of a valuable coin in a seedy second-hand junk shop.",
+  "popularity": 3.4704,
+  "poster_path": "/tkIMquxwzMzZUrnAv43e3w0eX0F.jpg",
+  "production_companies": [
+    {
+      "id": 826,
+      "logo_path": "/aqiR1prl8N00FfkC4FCJWsOpZIy.png",
+      "name": "Capitol Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 28206,
+      "logo_path": null,
+      "name": "Prairie Oyster Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 2154,
+      "logo_path": null,
+      "name": "Punch Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 798,
+      "logo_path": "/nQgX1MOLySgug7FDONdIkht3xob.png",
+      "name": "The Samuel Goldwyn Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-09-13",
+  "revenue": 665450,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They had a plan. It wasn't worth a nickel.",
+  "title": "American Buffalo",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 65
+}

@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/rodjjIJ8oh9nuBp86PhojcYHTEN.jpg",
+  "belongs_to_collection": null,
+  "budget": 85645,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://theavenue.film/movies/savage-salvation",
+  "id": 740952,
+  "imdb_id": "tt13055982",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Savage Salvation",
+  "overview": "Newly engaged Shelby John and Ruby Red want a fresh start after their struggles with addiction, but when Shelby discovers his beloved Ruby dead on their porch, he embarks on a vengeful killing spree of the dealers who supplied her. Armed with nothing but adrenaline and a nail gun, Shelby begins to unleash chaos on the town’s criminal underbelly, as he hunt’s down crime lord Coyote. Sheriff Church must race against the clock to put an end to Shelby's vigilante justice before the entire town descends into a bloodbath.",
+  "popularity": 4.6991,
+  "poster_path": "/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg",
+  "production_companies": [
+    {
+      "id": 85562,
+      "logo_path": null,
+      "name": "River Bay Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 290,
+      "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
+      "name": "Ingenious Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 142122,
+      "logo_path": "/oqZHKDB4izafodDDD9BABNNq7VN.png",
+      "name": "Lucky 13 Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 185127,
+      "logo_path": "/lD5UjvX5MsbIwbZJvdC5aee1nwm.png",
+      "name": "The Avenue Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 7417,
+      "logo_path": "/13GyIWMzFvDqJN6I6tZCQYzWr7L.png",
+      "name": "Convergence Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 103330,
+      "logo_path": null,
+      "name": "Diamond Film Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 76991,
+      "logo_path": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
+      "name": "Highland Film Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 24513,
+      "logo_path": "/tW8mCKX6JgFyPAZjszZ3scCTqZk.png",
+      "name": "Pimienta",
+      "origin_country": "PR"
+    },
+    {
+      "id": 75357,
+      "logo_path": "/zXT1JFP82YL245wlLpauAJDZA25.png",
+      "name": "BondIt",
+      "origin_country": "US"
+    },
+    {
+      "id": 37765,
+      "logo_path": "/qzSgwjZkVmruPVT6oUTocut4znA.png",
+      "name": "Verdi Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 112429,
+      "logo_path": "/hQf6EO8akiWSfbLMmr1A7ZXO0sa.png",
+      "name": "VVS Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 65649,
+      "logo_path": "/tXTuZTEcYYB1hIyAAwDyhZE0f7c.png",
+      "name": "SSS Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 20555,
+      "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+      "name": "Taurus Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "PR",
+      "name": "Puerto Rico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-12-02",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Payback is dirty.",
+  "title": "Savage Salvation",
+  "video": false,
+  "vote_average": 6.175,
+  "vote_count": 269
+}

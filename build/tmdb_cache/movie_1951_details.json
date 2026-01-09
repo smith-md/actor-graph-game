@@ -1,0 +1,171 @@
+{
+  "adult": false,
+  "backdrop_path": "/dbAAQhptC6FyxBJx91IQv9zRiki.jpg",
+  "belongs_to_collection": {
+    "id": 1952,
+    "name": "USA: Land of Opportunities Collection",
+    "poster_path": "/A4atgNoJJi1IK8AP2Bx4yzoXh6z.jpg",
+    "backdrop_path": "/qMA0dQpuhOb8UtAaEj5PasG3mCB.jpg"
+  },
+  "budget": 14200000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1951,
+  "imdb_id": "tt0342735",
+  "origin_country": [
+    "DK",
+    "GB"
+  ],
+  "original_language": "da",
+  "original_title": "Manderlay",
+  "overview": "In 1933, a young woman and her father discover an Alabama plantation whose inhabitants live as if slavery had never been abolished. Feeling a sense of duty to those behind the heavy gates, she stays to liberate the people and see them through their first harvest. With four of her father's colleagues and a lawyer, she faces the daunting task of resurrecting the place known as Manderlay.",
+  "popularity": 3.4414,
+  "poster_path": "/6HYoHEcLNgETHlJDyQrC4Y7e01.jpg",
+  "production_companies": [
+    {
+      "id": 76,
+      "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+      "name": "Zentropa Entertainments",
+      "origin_country": "DK"
+    },
+    {
+      "id": 814,
+      "logo_path": null,
+      "name": "Isabella Films B.V.",
+      "origin_country": "NL"
+    },
+    {
+      "id": 30268,
+      "logo_path": null,
+      "name": "Pain Unlimited Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 55428,
+      "logo_path": null,
+      "name": "Manderlay",
+      "origin_country": "GB"
+    },
+    {
+      "id": 53874,
+      "logo_path": "/mZJMAPElHQBIuWWXSyHtyaMf26C.png",
+      "name": "Sigma Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 321,
+      "logo_path": "/pfp6VWF3tYfOHHVRHpYe2iGcYrf.png",
+      "name": "Memfis Film",
+      "origin_country": "SE"
+    },
+    {
+      "id": 1711,
+      "logo_path": null,
+      "name": "Ognon Pictures",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 119,
+      "logo_path": "/1di2gITGUZr730AMuMKiCrP90Vl.png",
+      "name": "DR",
+      "origin_country": "DK"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    },
+    {
+      "id": 46,
+      "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 201,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12023,
+      "logo_path": "/97tVKGqnkjn0hwTGGRDPRgYWbrE.png",
+      "name": "NPS",
+      "origin_country": "NL"
+    },
+    {
+      "id": 5975,
+      "logo_path": "/vvjgoKygWWYZvYyidT3RmOCq5If.png",
+      "name": "YLE",
+      "origin_country": "FI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2005-06-03",
+  "revenue": 674918,
+  "runtime": 139,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Liberation. Whether they want it or not.",
+  "title": "Manderlay",
+  "video": false,
+  "vote_average": 6.873,
+  "vote_count": 377
+}

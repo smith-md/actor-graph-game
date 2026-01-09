@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/5gCBJuXCjP1PCuHT3XzTq1bL81d.jpg",
+  "belongs_to_collection": {
+    "id": 91799,
+    "name": "Tremors Collection",
+    "poster_path": "/dvNb7S2jXGPfaAZFextA5ojvwrS.jpg",
+    "backdrop_path": "/wZeBvDh9lpGpqHB0FyltARuMSmK.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 670266,
+  "imdb_id": "tt8322060",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tremors: Shrieker Island",
+  "overview": "When a group of hunters genetically modify Graboid eggs, they face an all-out war against the larger, terrifyingly intelligent creatures, and swiftly multiplying Shriekers!",
+  "popularity": 2.7281,
+  "poster_path": "/46qwaON7l11M407rqh8lD4vXcAR.jpg",
+  "production_companies": [
+    {
+      "id": 17009,
+      "logo_path": "/ssowAxOrrqsSR2CKeiytOXwLoCW.png",
+      "name": "Universal 1440 Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 2877,
+      "logo_path": "/a1pn9aou2NsfB7QJVNAUOsE8LqR.png",
+      "name": "Living Films",
+      "origin_country": "TH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-10-20",
+  "revenue": 2399882,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tremors: Shrieker Island",
+  "video": false,
+  "vote_average": 6.083,
+  "vote_count": 242
+}

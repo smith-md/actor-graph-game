@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/7rgwd3OruyWyKpBxMJiKzKq88mm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 439552,
+  "imdb_id": "tt5765192",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La tenerezza",
+  "overview": "Back from the hospital where he has been treated after a heart attack, Lorenzo is on his way upstairs to his top-floor apartment in Naples when he meets Michela. The charming young woman, who has just moved to the facing apartment, has forgotten her keys and finds herself locked out. Cynical and grumpy, the retired lawyer who has been living estranged from the rest of the world, should normally leave her to her fate but he mellows under her spontaneous charm. He helps her, becomes friends not only with her but with her husband Fabio and their two children. For once, the self-declared misanthropist seems to be experiencing the long forgotten feeling of empathy.",
+  "popularity": 3.5765,
+  "poster_path": "/7PMIXj8jHgeNKulzsJIo2HnvHi9.jpg",
+  "production_companies": [
+    {
+      "id": 25056,
+      "logo_path": "/AnfGSQNFHva8XTh0kk3HgEIRKB2.png",
+      "name": "Pepito Produzioni",
+      "origin_country": "IT"
+    },
+    {
+      "id": 103456,
+      "logo_path": null,
+      "name": "Comune di Napoli",
+      "origin_country": ""
+    },
+    {
+      "id": 20389,
+      "logo_path": "/8B0nGD3muECd0vKTgNss3cPVQYK.png",
+      "name": "Campania Film Commission",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 103457,
+      "logo_path": null,
+      "name": "Focchi S.p.A.",
+      "origin_country": ""
+    },
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2017-04-24",
+  "revenue": 2410469,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tenderness",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 213
+}

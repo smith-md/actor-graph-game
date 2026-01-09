@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/laydWR0K1bwk4HVKWyW13BEPzHo.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.firstlookstudios.com/films/warinc/",
+  "id": 13191,
+  "imdb_id": "tt0884224",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "War, Inc.",
+  "overview": "In the future, the desert country of Turaqistan is torn by a riot after private corporation Tamerlane, owned by the former Vice President of the United States, has taken over. Brand Hauser, a hitman who suppresses his emotions by gobbling down hot sauce, is hired by the corporation's head to kill the CEO of their competitors.",
+  "popularity": 5.7415,
+  "poster_path": "/nlGsWWYC9n4lkbIoTXmI42dkJqb.jpg",
+  "production_companies": [
+    {
+      "id": 12886,
+      "logo_path": "/eLRJ9Rxd2JCDMXvRgF3HSMZma9t.png",
+      "name": "New Crime Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 263345,
+      "logo_path": null,
+      "name": "Nu Image Entertainment",
+      "origin_country": "DE"
+    },
+    {
+      "id": 120256,
+      "logo_path": null,
+      "name": "Boyana Film Studios",
+      "origin_country": "BG"
+    },
+    {
+      "id": 263348,
+      "logo_path": null,
+      "name": "B & W Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "BG",
+      "name": "Bulgaria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2008-04-28",
+  "revenue": 1296184,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When it comes to war... America means business",
+  "title": "War, Inc.",
+  "video": false,
+  "vote_average": 5.531,
+  "vote_count": 291
+}

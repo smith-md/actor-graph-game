@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/aqm0i13UOmow0K30gB1hrNYpJca.jpg",
+  "belongs_to_collection": null,
+  "budget": 2500000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.songbird.movie",
+  "id": 721625,
+  "imdb_id": "tt12592252",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Songbird",
+  "overview": "During a pandemic lockdown, Nico, a young man with rare immunity, must overcome martial law, murderous vigilantes and a powerful family to reunite with his love, Sara.",
+  "popularity": 4.8838,
+  "poster_path": "/pm7pstYup0ZHpImjT0k6YyxGVkX.jpg",
+  "production_companies": [
+    {
+      "id": 136721,
+      "logo_path": null,
+      "name": "Invisible Narratives",
+      "origin_country": "US"
+    },
+    {
+      "id": 2481,
+      "logo_path": "/vOQg26GjR0LnkN1Ph9uyog1UuOE.png",
+      "name": "Platinum Dunes",
+      "origin_country": "US"
+    },
+    {
+      "id": 47729,
+      "logo_path": "/bAxh897TGgdR0Py6wdd0UuE147Z.png",
+      "name": "STXfilms",
+      "origin_country": "US"
+    },
+    {
+      "id": 150758,
+      "logo_path": "/hYDtgClCwBnHLN74g2afEAud1El.png",
+      "name": "CatchLight Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-12-10",
+  "revenue": 1000000,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The only way out is together.",
+  "title": "Songbird",
+  "video": false,
+  "vote_average": 6.181,
+  "vote_count": 770
+}

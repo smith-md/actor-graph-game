@@ -1,0 +1,194 @@
+{
+  "adult": false,
+  "backdrop_path": "/d6kRjfaKuUxUz1nXZw93T3fjZba.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.theturningmovie.com.au/",
+  "id": 199570,
+  "imdb_id": "tt2322641",
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Turning",
+  "overview": "Seventeen talented Australian directors from diverse artistic disciplines each create a chapter of the hauntingly beautiful novel by multi award-winning author Tim Winton. The linking and overlapping stories explore the extraordinary turning points in ordinary people’s lives in a stunning portrait of a small coastal community. As characters face second thoughts and regret, relationships irretrievably alter, resolves are made or broken, and lives change direction forever.",
+  "popularity": 3.9155,
+  "poster_path": "/eV8aZ816MZKFWZF1e1QfLAQuMI7.jpg",
+  "production_companies": [
+    {
+      "id": 15780,
+      "logo_path": "/bdQFj7E5yNsir5pMgacux2SoLGQ.png",
+      "name": "Arenamedia",
+      "origin_country": "AU"
+    },
+    {
+      "id": 7584,
+      "logo_path": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+      "name": "Screen Australia",
+      "origin_country": "AU"
+    },
+    {
+      "id": 6880,
+      "logo_path": null,
+      "name": "Madman Films",
+      "origin_country": "AU"
+    },
+    {
+      "id": 170222,
+      "logo_path": null,
+      "name": "LevelK",
+      "origin_country": ""
+    },
+    {
+      "id": 1253,
+      "logo_path": "/6f0A0AqIPHYheRb90tVMutuzSnP.png",
+      "name": "Australian Broadcasting Corporation",
+      "origin_country": "AU"
+    },
+    {
+      "id": 11840,
+      "logo_path": "/8oyCRYf6ezxB5h8HJIPVG8JjzgL.png",
+      "name": "Film Victoria",
+      "origin_country": "AU"
+    },
+    {
+      "id": 7888,
+      "logo_path": "/6HhOnizpDOvKjprTl47tPqvHLvZ.png",
+      "name": "ScreenWest",
+      "origin_country": "AU"
+    },
+    {
+      "id": 29051,
+      "logo_path": "/A1XlmlkNkrMe4AAeFpSHCjW68BJ.png",
+      "name": "Lotterywest",
+      "origin_country": "AU"
+    },
+    {
+      "id": 200420,
+      "logo_path": null,
+      "name": "Studio Balloon",
+      "origin_country": ""
+    },
+    {
+      "id": 12128,
+      "logo_path": "/gqN7u1StkZGllkQUKqiLODLRXHb.png",
+      "name": "Scarlett Pictures",
+      "origin_country": "AU"
+    },
+    {
+      "id": 200421,
+      "logo_path": null,
+      "name": "8th In Line Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 98157,
+      "logo_path": "/fLczneIGOqD0rbbN3oAw74Abh97.png",
+      "name": "Film Camp",
+      "origin_country": "AU"
+    },
+    {
+      "id": 134052,
+      "logo_path": null,
+      "name": "Sacred Cow Films",
+      "origin_country": ""
+    },
+    {
+      "id": 29506,
+      "logo_path": "/6006n0zLX6EqGkOO1JIIbkeLDTp.png",
+      "name": "Matchbox Pictures",
+      "origin_country": "AU"
+    },
+    {
+      "id": 21462,
+      "logo_path": "/pCgWcVLnHAxz9r7ANKXfWjKjqNj.png",
+      "name": "Savage Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 102798,
+      "logo_path": null,
+      "name": "Brown Cab",
+      "origin_country": "AU"
+    },
+    {
+      "id": 102797,
+      "logo_path": null,
+      "name": "Bangarra Dance Theatre",
+      "origin_country": "AU"
+    },
+    {
+      "id": 200424,
+      "logo_path": null,
+      "name": "Little Window Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 2607,
+      "logo_path": "/seTLhXW5D1kUCTkQyNXceWnlW9T.png",
+      "name": "Dirty Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 65870,
+      "logo_path": null,
+      "name": "Soft Tread Enterprises",
+      "origin_country": "AU"
+    },
+    {
+      "id": 23315,
+      "logo_path": null,
+      "name": "Warp Films",
+      "origin_country": "AU"
+    },
+    {
+      "id": 200426,
+      "logo_path": null,
+      "name": "Circa Contemporary Circus",
+      "origin_country": ""
+    },
+    {
+      "id": 71767,
+      "logo_path": null,
+      "name": "Carver Films",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2013-09-25",
+  "revenue": 1110918,
+  "runtime": 180,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A unique cinema event.",
+  "title": "The Turning",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 31
+}

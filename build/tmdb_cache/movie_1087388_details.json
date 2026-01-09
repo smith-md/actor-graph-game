@@ -1,0 +1,96 @@
+{
+  "adult": false,
+  "backdrop_path": "/nxWLeBDkzW9py6vBAkvQ7o68ZHM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://wellgousa.com/films/sting",
+  "id": 1087388,
+  "imdb_id": "tt20112746",
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sting",
+  "overview": "After raising an unnervingly talented spider in secret, 12-year-old Charlotte must face the truth about her pet and fight for her family's survival.",
+  "popularity": 5.513,
+  "poster_path": "/97XZtLd461e5e0WBIBJREK1lzqC.jpg",
+  "production_companies": [
+    {
+      "id": 25231,
+      "logo_path": "/q8aYQQd4eILlcgucbTPNu0o8Gte.png",
+      "name": "See Pictures",
+      "origin_country": "AU"
+    },
+    {
+      "id": 144803,
+      "logo_path": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
+      "name": "Align",
+      "origin_country": "US"
+    },
+    {
+      "id": 3207,
+      "logo_path": null,
+      "name": "Pictures in Paradise",
+      "origin_country": "AU"
+    },
+    {
+      "id": 221102,
+      "logo_path": "/p3CHiolEOizR5MJzvyfxelmWEQl.png",
+      "name": "Cumulus VFX",
+      "origin_country": "AU"
+    },
+    {
+      "id": 14604,
+      "logo_path": "/nayCQwYiu9QfYn1IprLuo48d8q5.png",
+      "name": "Spectrum Films",
+      "origin_country": "AU"
+    },
+    {
+      "id": 118715,
+      "logo_path": "/mRCdjLcjvRvCqIMovDzOcqmRFfv.png",
+      "name": "Cornerstone Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-04-12",
+  "revenue": 2801252,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Your biggest fear just got bigger.",
+  "title": "Sting",
+  "video": false,
+  "vote_average": 6.231,
+  "vote_count": 472
+}

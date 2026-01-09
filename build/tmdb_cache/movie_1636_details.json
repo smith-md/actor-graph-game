@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": "/uaTVgIzIn02wd1SBTDXouGTpiIG.jpg",
+  "belongs_to_collection": null,
+  "budget": 48000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1636,
+  "imdb_id": "tt0230030",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bedazzled",
+  "overview": "Elliot Richards, a socially awkward IT worker, is given seven wishes to get the girl of his dreams when he meets a very seductive Satan. The catch: his soul. Some of his wishes include being a 7 foot basketball star, a wealthy, powerful man, and a sensitive caring guy. But, as could be expected, the Devil puts her own little twist on each of his fantasies.",
+  "popularity": 4.8865,
+  "poster_path": "/sBV28EVvWsJRosMsEFCbVmpAZEl.jpg",
+  "production_companies": [
+    {
+      "id": 73949,
+      "logo_path": null,
+      "name": "KirchMedia",
+      "origin_country": "DE"
+    },
+    {
+      "id": 508,
+      "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 20555,
+      "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+      "name": "Taurus Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-10-19",
+  "revenue": 90383208,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Meet the Devil. She's giving Elliott seven wishes. But not a chance in Hell.",
+  "title": "Bedazzled",
+  "video": false,
+  "vote_average": 6.074,
+  "vote_count": 2034
+}

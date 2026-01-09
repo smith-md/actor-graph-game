@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/f9oNiTUoharENGjdDufG0aDbSIO.jpg",
+  "belongs_to_collection": {
+    "id": 48188,
+    "name": "Poison Ivy Collection",
+    "poster_path": "/b6kT8PNdIw3sxpahpZQP5l2DQTR.jpg",
+    "backdrop_path": "/zkrYEsyeWUe9fSMzKkpwTPyhWdY.jpg"
+  },
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 9264,
+  "imdb_id": "tt0105156",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Poison Ivy",
+  "overview": "A seductive teen befriends an introverted high school student and schemes her way into the lives of her wealthy family.",
+  "popularity": 4.049,
+  "poster_path": "/3pYkklZMMD00B00jDT5PHvN0Dhm.jpg",
+  "production_companies": [
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-05-08",
+  "revenue": 1829804,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ivy thought her best friend had the perfect house, the perfect family, the perfect life. So she took them.",
+  "title": "Poison Ivy",
+  "video": false,
+  "vote_average": 5.428,
+  "vote_count": 387
+}

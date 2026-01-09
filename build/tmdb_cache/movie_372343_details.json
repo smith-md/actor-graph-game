@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/rfBUlspOpxPavxrhkhvzlBlwfD8.jpg",
+  "belongs_to_collection": null,
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://www.thesnowmanmovie.com/",
+  "id": 372343,
+  "imdb_id": "tt1758810",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Snowman",
+  "overview": "Detective Harry Hole investigates the disappearance of a woman whose pink scarf is found wrapped around an ominous looking snowman.",
+  "popularity": 2.7939,
+  "poster_path": "/mKsQ8KMOk0VBX26Ev0Lj6EmfGJu.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10163,
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 70986,
+      "logo_path": null,
+      "name": "Another Park Film",
+      "origin_country": "SE"
+    },
+    {
+      "id": 214539,
+      "logo_path": "/7gLb5n9flgH3aGn28Q0jNtPhlwx.png",
+      "name": "Perfect World Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-08-24",
+  "revenue": 43203413,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Soon the first snow will fall, and the hunt for a killer begins.",
+  "title": "The Snowman",
+  "video": false,
+  "vote_average": 5.219,
+  "vote_count": 2331
+}

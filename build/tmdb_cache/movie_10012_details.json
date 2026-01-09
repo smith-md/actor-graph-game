@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/mT26Lktm0paarsL2Au2VlOLJICh.jpg",
+  "belongs_to_collection": null,
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 10012,
+  "imdb_id": "tt0257516",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cursed",
+  "overview": "A werewolf loose in Los Angeles changes the lives of three young adults who, after being mauled by the beast, learn that the only way to break the curse put upon them is to kill the one who started it all.",
+  "popularity": 6.131,
+  "poster_path": "/tjiWECm7KlnkHOZqhaLhJMIUdvd.jpg",
+  "production_companies": [
+    {
+      "id": 20376,
+      "logo_path": null,
+      "name": "Kalis Productions GmbH & Co. Zweite KG",
+      "origin_country": ""
+    },
+    {
+      "id": 1600,
+      "logo_path": null,
+      "name": "Craven-Maddalena Films",
+      "origin_country": ""
+    },
+    {
+      "id": 2180,
+      "logo_path": "/gWKrSLAo06z8IDvP1WemvbvDwtB.png",
+      "name": "Outerbanks Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 7405,
+      "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+      "name": "Dimension Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-02-25",
+  "revenue": 19300000,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Beware the full moon",
+  "title": "Cursed",
+  "video": false,
+  "vote_average": 5.43,
+  "vote_count": 752
+}

@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/yDN1cTJk0JVMlbJ0dwOntEdOpvM.jpg",
+  "belongs_to_collection": null,
+  "budget": 7000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 21915,
+  "imdb_id": "tt0118750",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Booty Call",
+  "overview": "Rushon is sexually pent-up and ready to take thing things to the next level with his girlfriend, Nikki. But when he calls for a date, she asks to make it a double — bringing along her brash friend, Lysterine, whom Rushon sets up with his lewd buddy, Bunz. Things go better than expected. As the evening transitions from the restaurant to the bedroom, the two men go on a madcap search for what will surely make the night complete: condoms.",
+  "popularity": 5.8619,
+  "poster_path": "/1pQpHVm3AXIwbBUnwGEQ0q95E0L.jpg",
+  "production_companies": [
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 924,
+      "logo_path": null,
+      "name": "The Turman-Morrissey Company",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1997-02-26",
+  "revenue": 20050376,
+  "runtime": 79,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some guys will do anything for a little somethin', somethin'.",
+  "title": "Booty Call",
+  "video": false,
+  "vote_average": 5.252,
+  "vote_count": 123
+}

@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/yEP3KF4YBOn4CMO5kc5aQWuqLmi.jpg",
+  "belongs_to_collection": {
+    "id": 495027,
+    "name": "Cochise Collection",
+    "poster_path": "/t35b2iPQEQ5PRKgS3mmvObWHwwz.jpg",
+    "backdrop_path": "/vim270fYRe5Z9AbMCWiYdDG8TWN.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 37292,
+  "imdb_id": "tt0042286",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Broken Arrow",
+  "overview": "Indian scout Tom Jeffords is sent out to stem the war between the American settlers and Apaches in the late 1870s Arizona. He learns that the Indians kill only to protect themselves, or out of retaliation for white atrocities.",
+  "popularity": 6.974,
+  "poster_path": "/1gafYQCpDxtfIj7HYBNs4Z3m4oW.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1950-07-21",
+  "revenue": 3600000,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The most powerful weapon is courage...",
+  "title": "Broken Arrow",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 213
+}

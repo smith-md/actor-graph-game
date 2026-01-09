@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/zGgIlpKE2xP18bhCGsnn79vh80j.jpg",
+  "belongs_to_collection": null,
+  "budget": 14000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "http://www.dasboot.com",
+  "id": 387,
+  "imdb_id": "tt0082096",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Das Boot",
+  "overview": "A German submarine hunts allied ships during the Second World War, but it soon becomes the hunted. The crew tries to survive below the surface, while stretching both the boat and themselves to their limits.",
+  "popularity": 6.5215,
+  "poster_path": "/u8FhQPncOAkwcei2OI9orPWhV6K.jpg",
+  "production_companies": [
+    {
+      "id": 209,
+      "logo_path": null,
+      "name": "Radiant Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1704,
+      "logo_path": "/sb3PuMTgJgpPUY7x634etBAhodu.png",
+      "name": "Bavaria Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1981-09-17",
+  "revenue": 85000000,
+  "runtime": 150,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "On land they dreamed of being heroes. Beneath the sea they pray to be survivors.",
+  "title": "Das Boot",
+  "video": false,
+  "vote_average": 8.086,
+  "vote_count": 2406
+}

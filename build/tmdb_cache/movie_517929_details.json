@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/akwjg4reniSZY8tBItXPwBlZQS2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://watchfogcity.com/",
+  "id": 517929,
+  "imdb_id": "tt5105136",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Fog City",
+  "overview": "A group of friends seal themselves inside a secluded Cape Cod vacation home after a mysterious orange fog leaks from an old nearby factory. Once trapped, they quickly learn there is no escape.",
+  "popularity": 2.7885,
+  "poster_path": "/isewxmxthIUrmPpGHQQlIuOid3s.jpg",
+  "production_companies": [
+    {
+      "id": 49011,
+      "logo_path": null,
+      "name": "WithAnO Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 207220,
+      "logo_path": "/jIohwjqy4GPcHYtQvSzgGfixvrH.png",
+      "name": "Living Dead Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-10-20",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Fog City",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 52
+}

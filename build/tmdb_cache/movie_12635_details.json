@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/qpQDSAOZMjT0RnPnF5I7tfktmO0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 12635,
+  "imdb_id": "tt0106339",
+  "origin_country": [
+    "DE",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Backbeat",
+  "overview": "Chronicles the early days of The Beatles in Hamburg, Germany. The film focuses primarily on the relationship between Stuart Sutcliffe, John Lennon, and Sutcliffe's girlfriend Astrid Kirchherr.",
+  "popularity": 2.5493,
+  "poster_path": "/1BuFx7P8veAUUZDXqdMNhtdCUSM.jpg",
+  "production_companies": [
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1382,
+      "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 364,
+      "logo_path": null,
+      "name": "The Rank Organisation",
+      "origin_country": "GB"
+    },
+    {
+      "id": 191,
+      "logo_path": "/5Cz9SVf733VhCvKpaivl1jlAXAK.png",
+      "name": "Senator Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1994-04-01",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "5 guys. 4 legends. 3 lovers. 2 friends. 1 band.",
+  "title": "Backbeat",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 107
+}

@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/giQy3vmsOIbNCMZ9EAZScSQZ3jo.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 10718,
+  "imdb_id": "tt0329691",
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Torque",
+  "overview": "Biker Cary Ford is framed by an old rival and biker gang leader for the murder of another gang member who happens to be the brother of Trey, leader of the most feared biker gang in the country. Ford is now on the run trying to clear his name from the murder with Trey and his gang looking for his blood.",
+  "popularity": 5.9882,
+  "poster_path": "/pY35tW8BMAjZewl87OxjXK8ui02.jpg",
+  "production_companies": [
+    {
+      "id": 333,
+      "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+      "name": "Original Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 79,
+      "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+      "name": "Village Roadshow Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-01-16",
+  "revenue": 46546197,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Circuit of Fire",
+  "title": "Torque",
+  "video": false,
+  "vote_average": 5.281,
+  "vote_count": 612
+}

@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/2yo2k8CmgZxfBQYAZ8TnHIYzEme.jpg",
+  "belongs_to_collection": {
+    "id": 1072703,
+    "name": "Furioza Collection",
+    "poster_path": "/ami2R2wE7SuBsqxwZmDVyt5wYZO.jpg",
+    "backdrop_path": "/8H0lBjRnrHFwnQd7kCdsb5vcBsX.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81623506",
+  "id": 1072699,
+  "imdb_id": "tt36265413",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Druga Furioza",
+  "overview": "In the wake of murder, new Furioza leader Golden claims the reins of his violent and formidable hooligan gang and takes on a new focus across borders.",
+  "popularity": 12.3642,
+  "poster_path": "/dbe1zKVKNBIczdmRcm7jxEphYLz.jpg",
+  "production_companies": [
+    {
+      "id": 85055,
+      "logo_path": null,
+      "name": "2 Hungry Crocodiles",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2025-10-14",
+  "revenue": 0,
+  "runtime": 166,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "Український"
+    },
+    {
+      "english_name": "Irish",
+      "iso_639_1": "ga",
+      "name": "Gaeilge"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Inside Furioza",
+  "video": false,
+  "vote_average": 6.662,
+  "vote_count": 77
+}

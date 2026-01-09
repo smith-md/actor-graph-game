@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/q41offRbAHn8r4EeuTqs61JGp61.jpg",
+  "belongs_to_collection": {
+    "id": 1425038,
+    "name": "The Wizard of the Emerald City Collection",
+    "poster_path": "/9CiCI0nUobEnz3eiRo5JtbhyzCF.jpg",
+    "backdrop_path": null
+  },
+  "budget": 9100000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://centpart.international/film/3106",
+  "id": 658224,
+  "imdb_id": "tt24218194",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Волшебник Изумрудного Города. Дорога из Жёлтого Кирпича",
+  "overview": "Ellie lives in a distant city. One day, the evil witch Gingema conjured a hurricane that took Ellie and her dog Totoshka to the country of the Munchkins. To return home, Ellie and her friends the Scarecrow, the Tin Woodman and the Cowardly Lion will set off along the yellow brick road to the Emerald City in search of the Wizard who will grant their cherished wishes.",
+  "popularity": 3.6173,
+  "poster_path": "/f3aj5s4rOqjMrtYKoNfRy9uJy5p.jpg",
+  "production_companies": [
+    {
+      "id": 3419,
+      "logo_path": "/byrxE2pJD9JLyBCIzyK0pYVanyG.png",
+      "name": "Central Partnership",
+      "origin_country": "RU"
+    },
+    {
+      "id": 21179,
+      "logo_path": null,
+      "name": "Kinoslovo",
+      "origin_country": "RU"
+    },
+    {
+      "id": 104485,
+      "logo_path": null,
+      "name": "CGF Films",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2025-01-01",
+  "revenue": 42244414,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Wizard of the Emerald City, Part I",
+  "video": false,
+  "vote_average": 7.347,
+  "vote_count": 75
+}

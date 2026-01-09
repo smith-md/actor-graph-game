@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/mnrqxJaBMLGmqJKlq2UfFZFDdSr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.hulu.com/movie/2578b8d5-5624-456f-b858-5a2db3f3c9c7",
+  "id": 1392117,
+  "imdb_id": "tt33305511",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Umami",
+  "overview": "Chef and owner Sina Bora faces personal and professional challenges on one of his restaurant's busiest nights. His father's emergency surgery, staff tensions and his former mentor Renzo's plans to take over push Sina to make tough decisions.",
+  "popularity": 8.6042,
+  "poster_path": "/bjHGT2f65Tim3YFJJci766FOgzH.jpg",
+  "production_companies": [
+    {
+      "id": 128029,
+      "logo_path": "/2LfqHWU7jQkdsGQq6di77CS36zQ.png",
+      "name": "Karga Seven Pictures",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2025-02-11",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cooked",
+  "video": false,
+  "vote_average": 6.375,
+  "vote_count": 36
+}

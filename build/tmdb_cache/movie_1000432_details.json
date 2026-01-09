@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": "/1tiJGrwi70SklEnJKQnfwTwvf8t.jpg",
+  "belongs_to_collection": null,
+  "budget": 3284000,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1000432,
+  "imdb_id": "tt28545881",
+  "origin_country": [
+    "BE",
+    "CA",
+    "FR",
+    "LU"
+  ],
+  "original_language": "fr",
+  "original_title": "Fanon",
+  "overview": "Frantz Fanon, a French psychiatrist from Martinique, has just been appointed head of department at the psychiatric hospital in Blida, Algeria. His methods contrast with those of the other doctors in a context of colonization. A biopic in the heart of the Algerian war where a fight is waged in the name of Humanity.",
+  "popularity": 2.9263,
+  "poster_path": "/eseIExk6NMLs3IRE86JZNayRKsS.jpg",
+  "production_companies": [
+    {
+      "id": 122128,
+      "logo_path": "/iYPn1TwMpJXPRTF9O0m4h0nEmCS.png",
+      "name": "Special Touch Studios",
+      "origin_country": "FR"
+    },
+    {
+      "id": 19437,
+      "logo_path": "/1VqbDOThEcmDR6gn7et7cAs4lwr.png",
+      "name": "Paul Thiltges Distributions",
+      "origin_country": "LU"
+    },
+    {
+      "id": 17704,
+      "logo_path": "/wf9blZfYeKwIWs9Im4V9lfgjLNb.png",
+      "name": "Peripheria Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 122123,
+      "logo_path": "/sBBbrl16VZCGRu0DeOcHCjUTHjX.png",
+      "name": "WebSpider Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2025-04-02",
+  "revenue": 0,
+  "runtime": 132,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Fanon",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 28
+}

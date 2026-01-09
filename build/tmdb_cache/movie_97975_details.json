@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/hgyzQhmvO1aaIZ0kjeiTt5cBOCB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 97975,
+  "imdb_id": "tt0088157",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Special Effects",
+  "overview": "Reality and illusion collide as megalomaniacal filmmaker Chris Neville murders a young would-be actress, then sets about making a feature about the deed, casting the deceased's clueless husband as the patsy, and finding a dead ringer to play the late actress.",
+  "popularity": 3.2769,
+  "poster_path": "/qxZzD0tNaVmJQncdb4MCt7lGIfZ.jpg",
+  "production_companies": [
+    {
+      "id": 3952,
+      "logo_path": "/hLfS5FjBQjK5MUNl7kdXgIHSSWy.png",
+      "name": "Hemdale",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 17069,
+      "logo_path": null,
+      "name": "Larco Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1984-11-16",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mary Jean is just dying to get in the movies… She's about to get her wish.",
+  "title": "Special Effects",
+  "video": false,
+  "vote_average": 4.602,
+  "vote_count": 44
+}

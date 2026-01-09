@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/ea0AQV7dE2fj7MNJUQispY2sgA8.jpg",
+  "belongs_to_collection": {
+    "id": 52985,
+    "name": "Wrong Turn Collection",
+    "poster_path": "/dtfQY5ZxvdHNG4HqNDy0ifwk1q6.jpg",
+    "backdrop_path": "/soWEzM8FooUK30RMcD16ryWrfil.jpg"
+  },
+  "budget": 12600000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 9902,
+  "imdb_id": "tt0295700",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wrong Turn",
+  "overview": "Chris crashes into a carload of other young people, and the group of stranded motorists is soon lost in the woods of West Virginia, where they're hunted by three cannibalistic mountain men who are grossly disfigured by generations of inbreeding.",
+  "popularity": 11.201,
+  "poster_path": "/7lyxwOg7SdGff79yKCQmJ3AKWSf.jpg",
+  "production_companies": [
+    {
+      "id": 491,
+      "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+      "name": "Summit Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 47,
+      "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 506,
+      "logo_path": "/obIWjrmF9pWzxXcDCd3810YzJpk.png",
+      "name": "Newmarket Capital Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 3121,
+      "logo_path": null,
+      "name": "Stan Winston Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 24212,
+      "logo_path": null,
+      "name": "Media Cooperation One",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-05-30",
+  "revenue": 28650575,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's the last one you'll ever take.",
+  "title": "Wrong Turn",
+  "video": false,
+  "vote_average": 6.373,
+  "vote_count": 2898
+}

@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/pslxxnls9RVdHTpA2K9cFN3GsN8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 28389,
+  "imdb_id": "tt0099384",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Death Spa",
+  "overview": "Michael's health club is beseiged with a series of terrible murders involving killer saunas and other grisly devices. Michael's wife killed herself a while before and her brother holds Michael responsible. Michael needs to stop the bloodshed before he loses all of his clients.",
+  "popularity": 6.0129,
+  "poster_path": "/sfpiArvzsX8mnlw7g50alGUha4Q.jpg",
+  "production_companies": [
+    {
+      "id": 16636,
+      "logo_path": null,
+      "name": "Shapiro-Glickenhaus Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 11506,
+      "logo_path": null,
+      "name": "Maljack Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1988-07-29",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You’ll sweat blood!",
+  "title": "Death Spa",
+  "video": false,
+  "vote_average": 5.204,
+  "vote_count": 103
+}

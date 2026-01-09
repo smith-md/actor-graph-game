@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/qTa3K7UUxEHMgbRbNylLAQoxViz.jpg",
+  "belongs_to_collection": null,
+  "budget": 916000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 333384,
+  "imdb_id": "tt1366338",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lowriders",
+  "overview": "A young street artist in East Los Angeles is caught between his father's obsession with lowrider car culture, his ex-felon brother and his need for self-expression.",
+  "popularity": 4.9036,
+  "poster_path": "/mafycJVTwbsArAycD9yv1KzeAxH.jpg",
+  "production_companies": [
+    {
+      "id": 23,
+      "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3172,
+      "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+      "name": "Blumhouse Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 73625,
+      "logo_path": "/7EXbyLJBKifYXWZgOjR5M3qhyei.png",
+      "name": "BH Tilt",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-04-28",
+  "revenue": 6312033,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lowriders",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 121
+}

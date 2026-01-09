@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/pHSTy4aFEcBnslMACAawkr6oum5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 287426,
+  "imdb_id": "tt3136112",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shelter",
+  "overview": "Hannah and Tahir fall in love while homeless on the streets of New York. Shelter explores how they got there, and as we learn about their pasts we realize they need each other to build a future.",
+  "popularity": 3.9673,
+  "poster_path": "/1EtMTtKDLp2MGhddZuLgeGZVbRk.jpg",
+  "production_companies": [
+    {
+      "id": 39707,
+      "logo_path": null,
+      "name": "The Bridge Finance Company",
+      "origin_country": ""
+    },
+    {
+      "id": 38284,
+      "logo_path": null,
+      "name": "Bifrost Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-09-12",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Shelter",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 108
+}

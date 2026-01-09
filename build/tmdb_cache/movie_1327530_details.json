@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/qjZUL1ajr94Vax9KQJ3joD3C3qH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1327530,
+  "imdb_id": "tt10080130",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Lockdown",
+  "overview": "Siblings Charlie and Jack are trapped in Myanmar's toughest prison and accused of a crime they didn't commit. Forced into televised fights against other inmates, they must work together and fight for their freedom.",
+  "popularity": 2.2459,
+  "poster_path": "/78ZjjWtG2AxHMo9buTJbzXsbTJq.jpg",
+  "production_companies": [
+    {
+      "id": 214103,
+      "logo_path": null,
+      "name": "Tiger Style Media",
+      "origin_country": ""
+    },
+    {
+      "id": 214102,
+      "logo_path": null,
+      "name": "McIntosh Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 237061,
+      "logo_path": null,
+      "name": "Topanga Venom Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-16",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Lockdown",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 28
+}

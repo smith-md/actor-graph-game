@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/zDnfGy0zfjOauAjnmFb1wtfUtka.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 106909,
+  "imdb_id": "tt0073170",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "L'Insegnante",
+  "overview": "A rich Sicilian, Fefè Mottola, decides to call a wealthy girl graduate: Giovanna, who is about to become a teacher, because his son needs repetitions. The boy, named Franco, is shocked by the physical beauty of the teacher, and so to restrain himself decides to pose as gay. But the deception does not last long, because the sexual impulses of Alfredo explode.",
+  "popularity": 3.7488,
+  "poster_path": "/zKXvN2Ez55CloBZL8ny31u4IE2P.jpg",
+  "production_companies": [
+    {
+      "id": 15868,
+      "logo_path": null,
+      "name": "Medusa Distribuzione",
+      "origin_country": "IT"
+    },
+    {
+      "id": 9152,
+      "logo_path": null,
+      "name": "Devon Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1975-07-11",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She gave him private lessons.",
+  "title": "The School Teacher",
+  "video": false,
+  "vote_average": 5.531,
+  "vote_count": 49
+}

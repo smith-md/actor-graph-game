@@ -1,0 +1,141 @@
+{
+  "id": 31022,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 935934,
+      "known_for_department": "Acting",
+      "name": "Pep Tosar",
+      "original_name": "Pep Tosar",
+      "popularity": 2.0424,
+      "profile_path": "/smKTVFGwQxxB7xViCg7pp3TST9R.jpg",
+      "cast_id": 3,
+      "character": "Forensic",
+      "credit_id": "52fe44569251416c9100d375",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1068684,
+      "known_for_department": "Acting",
+      "name": "Xevi Collellmir",
+      "original_name": "Xevi Collellmir",
+      "popularity": 0.2688,
+      "profile_path": null,
+      "cast_id": 4,
+      "character": "Cadáver Vin",
+      "credit_id": "52fe44569251416c9100d379",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1681778,
+      "known_for_department": "Acting",
+      "name": "Jordi Tarrida",
+      "original_name": "Jordi Tarrida",
+      "popularity": 0.1219,
+      "profile_path": null,
+      "cast_id": 9,
+      "character": "Médico #2",
+      "credit_id": "57df628ec3a3681da00041d1",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1681779,
+      "known_for_department": "Acting",
+      "name": "Ángel Tarris",
+      "original_name": "Ángel Tarris",
+      "popularity": 0.1398,
+      "profile_path": null,
+      "cast_id": 10,
+      "character": "Watchman",
+      "credit_id": "57df629f9251416c55003e63",
+      "order": 3
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 66795,
+      "known_for_department": "Directing",
+      "name": "Nacho Cerdá",
+      "original_name": "Nacho Cerdá",
+      "popularity": 0.19,
+      "profile_path": "/cgxNd78iHFSZxbWSQryhVPCg813.jpg",
+      "credit_id": "52fe44569251416c9100d371",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 66795,
+      "known_for_department": "Directing",
+      "name": "Nacho Cerdá",
+      "original_name": "Nacho Cerdá",
+      "popularity": 0.19,
+      "profile_path": "/cgxNd78iHFSZxbWSQryhVPCg813.jpg",
+      "credit_id": "52fe44569251416c9100d36b",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 66795,
+      "known_for_department": "Directing",
+      "name": "Nacho Cerdá",
+      "original_name": "Nacho Cerdá",
+      "popularity": 0.19,
+      "profile_path": "/cgxNd78iHFSZxbWSQryhVPCg813.jpg",
+      "credit_id": "57df61cbc3a36808ec00c8a5",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 50723,
+      "known_for_department": "Camera",
+      "name": "Christopher Baffa",
+      "original_name": "Christopher Baffa",
+      "popularity": 0.3332,
+      "profile_path": null,
+      "credit_id": "57df61ad9251413d6800b73c",
+      "department": "Camera",
+      "job": "Director of Photography"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1681775,
+      "known_for_department": "Editing",
+      "name": "Raul Almanzan",
+      "original_name": "Raul Almanzan",
+      "popularity": 0.0735,
+      "profile_path": null,
+      "credit_id": "57df61b8c3a3681da000415f",
+      "department": "Editing",
+      "job": "Editor"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1681777,
+      "known_for_department": "Production",
+      "name": "Joseph Maar",
+      "original_name": "Joseph Maar",
+      "popularity": 0.9493,
+      "profile_path": null,
+      "credit_id": "57df61e89251416c55003e12",
+      "department": "Production",
+      "job": "Executive Producer"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/k9ckmSgxUT3TJTxRAFAdYXqD9fQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 1300000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 18415,
+  "imdb_id": "tt0119237",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Gummo",
+  "overview": "Solomon and Tummler are two teenagers killing time in Xenia, Ohio, a small town that has never recovered from the tornado that ravaged the community in the 1970s.",
+  "popularity": 5.7453,
+  "poster_path": "/tMdoCRx0XIPR5uYBwxbxR7WCNBb.jpg",
+  "production_companies": [
+    {
+      "id": 2833,
+      "logo_path": "/a3aoOysGArJDIwPtxYCqF5LMVKs.png",
+      "name": "Independent Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1997-10-17",
+  "revenue": 116799,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Prepare to visit a town you'd never want to call home.",
+  "title": "Gummo",
+  "video": false,
+  "vote_average": 6.624,
+  "vote_count": 681
+}

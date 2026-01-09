@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/wbW4w4HvvzDavQCjUKtLMosyNn5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.the-match-factory.com/catalogue/films/afire.html",
+  "id": 900379,
+  "imdb_id": "tt26440619",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Roter Himmel",
+  "overview": "Self-important author Leon joins his best friend on a summer holiday near the Baltic Sea to complete his novel. When they arrive, they find their house is already occupied by a carefree woman who challenges Leon to open up. Meanwhile, forest wildfires rage around them and impending disaster looms.",
+  "popularity": 3.5431,
+  "poster_path": "/k8NYzD01zAUsdqocjhLXbO9BSS8.jpg",
+  "production_companies": [
+    {
+      "id": 138,
+      "logo_path": null,
+      "name": "Schramm Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 587,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2023-04-20",
+  "revenue": 2147526,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Afire",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 226
+}

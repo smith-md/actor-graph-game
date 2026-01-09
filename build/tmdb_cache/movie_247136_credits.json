@@ -1,0 +1,116 @@
+{
+  "id": 247136,
+  "cast": [
+    {
+      "adult": true,
+      "gender": 1,
+      "id": 1510322,
+      "known_for_department": "Acting",
+      "name": "Elly Akira",
+      "original_name": "晶エリー",
+      "popularity": 6.849,
+      "profile_path": "/4GRtSqGay9PIPBnrpvk4thrI6bi.jpg",
+      "cast_id": 0,
+      "character": "Mikage",
+      "credit_id": "55f75e5f9251415852002579",
+      "order": 0
+    },
+    {
+      "adult": true,
+      "gender": 1,
+      "id": 1510323,
+      "known_for_department": "Acting",
+      "name": "Risa Sakamoto",
+      "original_name": "Risa Sakamoto",
+      "popularity": 2.834,
+      "profile_path": "/z25EQTkRzGQ8ntEwWNVBAZ65ya2.jpg",
+      "cast_id": 1,
+      "character": "",
+      "credit_id": "55f75e71925141585200257e",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2139374,
+      "known_for_department": "Acting",
+      "name": "Mika Muroi",
+      "original_name": "Mika Muroi",
+      "popularity": 0.3334,
+      "profile_path": null,
+      "cast_id": 3,
+      "character": "",
+      "credit_id": "5bb26f97c3a368142801e5f2",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2139375,
+      "known_for_department": "Acting",
+      "name": "Taro Kai",
+      "original_name": "Taro Kai",
+      "popularity": 2.6334,
+      "profile_path": null,
+      "cast_id": 4,
+      "character": "",
+      "credit_id": "5bb26fc6925141167201ea7e",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2139381,
+      "known_for_department": "Acting",
+      "name": "Yoshihiro Tanbara",
+      "original_name": "Yoshihiro Tanbara",
+      "popularity": 0.2145,
+      "profile_path": null,
+      "cast_id": 5,
+      "character": "",
+      "credit_id": "5bb271440e0a26339801f3fb",
+      "order": 4
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1487686,
+      "known_for_department": "Writing",
+      "name": "Heitaro Han",
+      "original_name": "Heitaro Han",
+      "popularity": 0.5903,
+      "profile_path": null,
+      "credit_id": "5bb610259251410dd100f4d0",
+      "department": "Writing",
+      "job": "Screenplay"
+    },
+    {
+      "adult": true,
+      "gender": 1,
+      "id": 1079324,
+      "known_for_department": "Directing",
+      "name": "Tadashi Kyouya",
+      "original_name": "Tadashi Kyouya",
+      "popularity": 1.61,
+      "profile_path": null,
+      "credit_id": "5bb272500e0a26339c020ac5",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1620345,
+      "known_for_department": "Production",
+      "name": "Shinpei Okuda",
+      "original_name": "Shinpei Okuda",
+      "popularity": 0.3964,
+      "profile_path": null,
+      "credit_id": "5bb26d4e925141166c01e3a5",
+      "department": "Production",
+      "job": "Executive Producer"
+    }
+  ]
+}

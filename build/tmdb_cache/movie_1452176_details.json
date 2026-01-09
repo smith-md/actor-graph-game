@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/b0yK9BHyTNHGS6fBFLXBFtLC9AW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.shudder.com/movies/watch/abrahams-boys-a-dracula-story/58231a259ba38485",
+  "id": 1452176,
+  "imdb_id": "tt14808764",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Abraham's Boys: A Dracula Story",
+  "overview": "Max and Rudy Van Helsing have spent their lives under the strict and overprotective rule of their father, Abraham. Unaware of his dark past, they struggle to understand his paranoia and increasingly erratic behavior. But when they begin to uncover the violent truths behind their father’s history with Dracula, their world unravels, forcing them to confront the terrifying legacy they were never meant to inherit.",
+  "popularity": 3.2711,
+  "poster_path": "/owUZI7rRIN85TnXJY8gD9LdMiGU.jpg",
+  "production_companies": [
+    {
+      "id": 123722,
+      "logo_path": null,
+      "name": "RLJE Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 142877,
+      "logo_path": "/c0Qhy9uvdXfvAZQ9e8GnT5Nb75m.png",
+      "name": "Shudder",
+      "origin_country": "US"
+    },
+    {
+      "id": 45756,
+      "logo_path": null,
+      "name": "Illium Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 155758,
+      "logo_path": "/iZi0zd9ijrcWR9zlEUUthG8d600.png",
+      "name": "Tea Shop Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-11",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Abraham's Boys: A Dracula Story",
+  "video": false,
+  "vote_average": 5.435,
+  "vote_count": 31
+}

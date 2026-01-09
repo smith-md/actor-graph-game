@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/2GHJGnF2jgnzeqT3XTHjHXgk5Fx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81735104",
+  "id": 1401318,
+  "imdb_id": "tt34992378",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Merry Little Ex-Mas",
+  "overview": "All Kate and Everett want for Christmas is an amicable divorce and one last holiday as a family, but new flames and old feelings complicate their plans.",
+  "popularity": 4.8149,
+  "poster_path": "/w4ytu75uJ1b0AgPd0wLm7iZMsWJ.jpg",
+  "production_companies": [
+    {
+      "id": 5452,
+      "logo_path": "/piIgZnVf0h0PoHY7wpHXQtFZ3O9.png",
+      "name": "Hartbreak Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-12",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Merry Little Ex-Mas",
+  "video": false,
+  "vote_average": 6.084,
+  "vote_count": 154
+}

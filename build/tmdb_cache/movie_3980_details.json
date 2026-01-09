@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/omoQkyiQ94FfyR4gUmA66VXQyZ9.jpg",
+  "belongs_to_collection": {
+    "id": 10893,
+    "name": "Critters Collection",
+    "poster_path": "/6DTwPOGG1FVebElsUqH9UAJg2Qw.jpg",
+    "backdrop_path": "/wqqvfXVm6fQwEVLSWImt4yYdgCD.jpg"
+  },
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 3980,
+  "imdb_id": "tt0090887",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Critters",
+  "overview": "Carnivorous aliens arrive unannounced at a Kansas family farm; two intergalactic bounty hunters soon follow, determined to blow them off the planet.",
+  "popularity": 7.0389,
+  "poster_path": "/zLL6nX13AfigvvNQ9GyNXhKVrmg.jpg",
+  "production_companies": [
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 1531,
+      "logo_path": null,
+      "name": "Smart Egg Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1532,
+      "logo_path": null,
+      "name": "Sho Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-04-11",
+  "revenue": 13167232,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The battle began in another galaxy. It's about to end in the Brown's backyard.",
+  "title": "Critters",
+  "video": false,
+  "vote_average": 6.47,
+  "vote_count": 1056
+}

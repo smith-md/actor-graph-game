@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/5XaXMFgcecAzAtfOCu7WlHhQJRK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1319504,
+  "imdb_id": "tt22827888",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Boot Camp",
+  "overview": "Unathletic Whitney Carmichael signs up for an intense summer boot camp to reinvent herself and falls for her personal trainer. She then finds the strength to embrace her true self and ignore the others' expectations.",
+  "popularity": 4.2122,
+  "poster_path": "/nQ5q2QhlekcUFrU2fWXCGJMVHRO.jpg",
+  "production_companies": [
+    {
+      "id": 81242,
+      "logo_path": "/qDqp143aZVXkykSiqivXfkSmX0b.png",
+      "name": "Great Pacific Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 78028,
+      "logo_path": "/sTFcDFfJaSVT3sv3DoaZDE4SlGB.png",
+      "name": "Thunderbird Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 182897,
+      "logo_path": "/5jZX93pvheCYowROn9LAz499FC5.png",
+      "name": "Wattpad WEBTOON Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 235311,
+      "logo_path": null,
+      "name": "Channel Zero",
+      "origin_country": ""
+    },
+    {
+      "id": 231830,
+      "logo_path": null,
+      "name": "December Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 235312,
+      "logo_path": null,
+      "name": "Junction Hammer Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-02",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love is worth the sweat",
+  "title": "Boot Camp",
+  "video": false,
+  "vote_average": 6.338,
+  "vote_count": 37
+}

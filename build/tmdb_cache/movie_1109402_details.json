@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/ffOxfVhSMcHiM26kWFQ9Lto4v6s.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1109402,
+  "imdb_id": "tt21997328",
+  "origin_country": [
+    "CZ"
+  ],
+  "original_language": "cs",
+  "original_title": "Její tělo",
+  "overview": "A Czech high diver's Olympic dreams are shattered when she suffers a devastating injury while training. Forced to leave the sport she loves, she follows a photographer friend into the world of nude modeling, ultimately reinventing herself as an adult film actress. Inspired by the true story of diving champion Andrea Absolonová.",
+  "popularity": 5.1272,
+  "poster_path": "/foNYeBzrTpz94Sg9yV6hGMsax8A.jpg",
+  "production_companies": [
+    {
+      "id": 24860,
+      "logo_path": "/lsocLEGyTX7agkfApaBef36tIrL.png",
+      "name": "Cineart TV Prague",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    },
+    {
+      "iso_3166_1": "SK",
+      "name": "Slovakia"
+    }
+  ],
+  "release_date": "2023-11-16",
+  "revenue": 929614,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Her Body",
+  "video": false,
+  "vote_average": 5.944,
+  "vote_count": 36
+}

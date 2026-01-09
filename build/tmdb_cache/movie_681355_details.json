@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/yAk1PpHMG6BY6ABlpWAXPyKZDmy.jpg",
+  "belongs_to_collection": null,
+  "budget": 1800000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.illegalciv.com/video/film/north-hollywood-the-movie/",
+  "id": 681355,
+  "imdb_id": "tt11165716",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "North Hollywood",
+  "overview": "A kid must decide between choosing the future his father wants and following his dream of becoming a pro skater.",
+  "popularity": 2.971,
+  "poster_path": "/rLVxpEkiSs8OnOqg8QmLT7Bs09e.jpg",
+  "production_companies": [
+    {
+      "id": 107018,
+      "logo_path": "/AiiKgXlYSahFr73K507pKCZh6s7.png",
+      "name": "Illegal Civ",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-03-26",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Your board. Your rules.",
+  "title": "North Hollywood",
+  "video": false,
+  "vote_average": 5.356,
+  "vote_count": 45
+}

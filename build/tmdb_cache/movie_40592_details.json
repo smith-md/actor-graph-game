@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/uHQm8v8R1koLXx7fbjLgXtr75Hf.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 40592,
+  "imdb_id": "tt0443231",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "LOFT ロフト",
+  "overview": "A writer retreats to a secluded suburban house to work on her new novel. But her attention is instead occupied by her archaeologist neighbor's newly discovered mummy and a ghostly presence in her house.",
+  "popularity": 3.4372,
+  "poster_path": "/iTCLWAwriIn66jseKQwGBd838nk.jpg",
+  "production_companies": [
+    {
+      "id": 5072,
+      "logo_path": null,
+      "name": "Twins Japan",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2006-09-09",
+  "revenue": 2500000,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Another misery is coming... I can feel it.",
+  "title": "Loft",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 38
+}

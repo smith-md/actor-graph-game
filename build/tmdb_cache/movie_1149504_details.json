@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/1BpjcVIztlsk0mym7OLF6CW97eh.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.focusfeatures.com/honey-dont",
+  "id": 1149504,
+  "imdb_id": "tt30645201",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Honey Don't!",
+  "overview": "Honey O'Donahue, a small-town private investigator, delves into a series of strange deaths tied to a mysterious church.",
+  "popularity": 7.5896,
+  "poster_path": "/fJm3kmd9NLZWypMas7g34oNFgbk.jpg",
+  "production_companies": [
+    {
+      "id": 10146,
+      "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+      "name": "Focus Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 10163,
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-21",
+  "revenue": 7445237,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She only has two desires, and one of them is justice.",
+  "title": "Honey Don't!",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 265
+}

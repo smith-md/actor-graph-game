@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/4AOfqDQdtag59wdOzKzJbEyVTL4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.magpictures.com/plainclothes",
+  "id": 1255718,
+  "imdb_id": "tt27550504",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Plainclothes",
+  "overview": "In 1990s New York, an undercover police officer receives an assignment to lure and arrest gay men. However, he's surprised to discover a scintillating connection with one of his targets. As their secret connection deepens and internal pressure to deliver arrests intensifies, he finds himself torn between duty and desire.",
+  "popularity": 4.3421,
+  "poster_path": "/bT5QN5QARV5TblAt9jDVQQsnSec.jpg",
+  "production_companies": [
+    {
+      "id": 82963,
+      "logo_path": "/u6Z0LZZsQeVelUsvjZDmEPvkHHL.png",
+      "name": "Lorton Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 99491,
+      "logo_path": null,
+      "name": "Page 1",
+      "origin_country": "US"
+    },
+    {
+      "id": 1030,
+      "logo_path": "/bus7KzJshT0VMXuKR7dwK5bqPSO.png",
+      "name": "Magnolia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-19",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everyone has a secret.",
+  "title": "Plainclothes",
+  "video": false,
+  "vote_average": 7.739,
+  "vote_count": 23
+}

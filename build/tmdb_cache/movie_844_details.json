@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/h3JAMIeywbzobkhu2rt3mQAwRR1.jpg",
+  "belongs_to_collection": {
+    "id": 1454788,
+    "name": "In the Mood for Love Collection",
+    "poster_path": "/fEjJEh9G6AuyrJtfNlQuWKVSMrG.jpg",
+    "backdrop_path": null
+  },
+  "budget": 12000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://www.sonyclassics.com/2046/main.html",
+  "id": 844,
+  "imdb_id": "tt0212712",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "zh",
+  "original_title": "2046",
+  "overview": "Women enter and exit a science fiction author's life over the course of a few years after the author loses the woman he considers his one true love.",
+  "popularity": 3.5595,
+  "poster_path": "/jIN65qw0Giplo4CshzMrxz204Wn.jpg",
+  "production_companies": [
+    {
+      "id": 3407,
+      "logo_path": "/iVMjKOFyRvm9PW45lW1wW6TSvnj.png",
+      "name": "Shanghai Film Group",
+      "origin_country": "CN"
+    },
+    {
+      "id": 354,
+      "logo_path": null,
+      "name": "Orly Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 255,
+      "logo_path": "/b1zTOpnNn5g0nHjhpn3Dx17QaoP.png",
+      "name": "Paradis Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 33155,
+      "logo_path": null,
+      "name": "Classic Productions",
+      "origin_country": "IT"
+    },
+    {
+      "id": 149264,
+      "logo_path": null,
+      "name": "Precious Yield",
+      "origin_country": "HK"
+    },
+    {
+      "id": 540,
+      "logo_path": "/gqx0uCS4P0hEgaDl61TfKODIwMe.png",
+      "name": "Jet Tone Production",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2004-10-20",
+  "revenue": 20205757,
+  "runtime": 128,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Are you still in the mood for love?",
+  "title": "2046",
+  "video": false,
+  "vote_average": 7.238,
+  "vote_count": 1027
+}

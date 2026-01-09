@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/tdGCuUge9wZUYP785WTGVrMIxBk.jpg",
+  "belongs_to_collection": {
+    "id": 304025,
+    "name": "Gwendolyn Shepherd Collection",
+    "poster_path": "/9kWnCaQiCEtPik5A3mmB3gT8NiO.jpg",
+    "backdrop_path": "/lz1UpgmMJL2A4Xa8q1ENveMzIwx.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 337556,
+  "imdb_id": "tt4960934",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Smaragdgrün",
+  "overview": "Emerald Green is the stunning conclusion to Kerstin Gier's Ruby Red Trilogy, picking up where Sapphire Blue left off, reaching new heights of intrigue and romance as Gwen finally uncovers the secrets of the time-traveling society and learns her fate.",
+  "popularity": 3.2342,
+  "poster_path": "/bIBLt7TVRu22cWtQiMptNUoJ9Ho.jpg",
+  "production_companies": [
+    {
+      "id": 13537,
+      "logo_path": "/z1izDvyJ1ryqCqqJXRcrT1184y2.png",
+      "name": "Geißendörfer Film-und Fernsehproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 13535,
+      "logo_path": "/i4RHbgBZnE2GcjiKqncBhydInIk.png",
+      "name": "Lieblingsfilm",
+      "origin_country": "DE"
+    },
+    {
+      "id": 13536,
+      "logo_path": null,
+      "name": "mem-film",
+      "origin_country": ""
+    },
+    {
+      "id": 1469,
+      "logo_path": "/AwbErjR0AMpVnN9PbdHiBB3g3q0.png",
+      "name": "Tele München",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2016-07-07",
+  "revenue": 0,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Emerald Green",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 873
+}

@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/dEkFlZzj2cb5F7SShvqkL54E4lr.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://mubi.com/en/diemylove",
+  "id": 1033148,
+  "imdb_id": "tt9362736",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Die My Love",
+  "overview": "After inheriting a remote Montana house, Jackson moves there from New York with his partner Grace, and the couple soon welcome a child. As Jackson becomes increasingly absent and rural isolation sets in, Grace struggles with loneliness, creative frustration, and unresolved emotional wounds. What begins as an attempt at renewal gradually turns into an intense psychological descent, placing strain on their relationship and exposing the fragile balance between love, identity, and motherhood.",
+  "popularity": 29.797,
+  "poster_path": "/kajpShbFhOdpl6yCrLezMrr9tB4.jpg",
+  "production_companies": [
+    {
+      "id": 117188,
+      "logo_path": null,
+      "name": "Excellent Cadaver",
+      "origin_country": "US"
+    },
+    {
+      "id": 23243,
+      "logo_path": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
+      "name": "Sikelia Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 33681,
+      "logo_path": "/dHx2nsV9AC7IBlKN2dk1FDImvOz.png",
+      "name": "Black Label Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-06",
+  "revenue": 7421995,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Finding herself losing herself.",
+  "title": "Die My Love",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 278
+}

@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": "/vfbxysLCXrvcI8NdzeQTR1Kxfky.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81920791",
+  "id": 1243381,
+  "imdb_id": "tt32084246",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mary",
+  "overview": "A miraculous conception. A merciless king. A murderous pursuit. Mary's journey to give birth to Jesus unfolds in this biblical coming-of-age epic.",
+  "popularity": 4.1627,
+  "poster_path": "/wpApuf1xky92ug8n5mP5aP7DiDy.jpg",
+  "production_companies": [
+    {
+      "id": 5322,
+      "logo_path": "/6Vk4WZnKJuC6z6HKBGFirbWwWwV.png",
+      "name": "Aloe Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 243770,
+      "logo_path": null,
+      "name": "Luna Films",
+      "origin_country": ""
+    },
+    {
+      "id": 199728,
+      "logo_path": null,
+      "name": "Ludascripts",
+      "origin_country": "US"
+    },
+    {
+      "id": 233099,
+      "logo_path": null,
+      "name": "Peachtree Media Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 10280,
+      "logo_path": null,
+      "name": "Arc Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 117747,
+      "logo_path": "/brD72VA95qgjCtGx0hJEAVUeldW.png",
+      "name": "Media Finance Capital",
+      "origin_country": "GB"
+    },
+    {
+      "id": 246708,
+      "logo_path": null,
+      "name": "LONY Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 223220,
+      "logo_path": null,
+      "name": "FitzHenry Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 246709,
+      "logo_path": null,
+      "name": "Dorman Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-12-12",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Her grace changed the world. Her courage lit the way.",
+  "title": "Mary",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 187
+}

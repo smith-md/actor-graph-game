@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/tWzWYnlvrUFwcEeRNKbsXPpjiRS.jpg",
+  "belongs_to_collection": {
+    "id": 398740,
+    "name": "Mister Roberts Collection",
+    "poster_path": "/6sSWpaejLozv63G3368jgoxAda2.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 37853,
+  "imdb_id": "tt0048380",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mister Roberts",
+  "overview": "Mr. Roberts is a Navy officer who's yearning for battle but is stuck in the backwaters of World War II on a non-commissioned ship run by the bullying Captain Morton.",
+  "popularity": 4.3287,
+  "poster_path": "/5B8Gc1N2S3CDWHBzm0VxaMPTyzJ.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 128896,
+      "logo_path": null,
+      "name": "Orange Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1955-07-10",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All The Uproarious Fun Of the Smash Broadway Play!",
+  "title": "Mister Roberts",
+  "video": false,
+  "vote_average": 7.045,
+  "vote_count": 166
+}

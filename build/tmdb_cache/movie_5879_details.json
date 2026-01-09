@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/g3L6tOvJIRWSkxnhmoEW1SKEvW3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 5879,
+  "imdb_id": "tt0074102",
+  "origin_country": [
+    "JP",
+    "FR"
+  ],
+  "original_language": "ja",
+  "original_title": "愛のコリーダ",
+  "overview": "A passionate telling of the story of Sada Abe, a woman whose affair with her master led to an obsessive and ultimately destructive sexual relationship.",
+  "popularity": 9.6438,
+  "poster_path": "/AiFQbgjgSXWPfbi9iIYT39iXWMW.jpg",
+  "production_companies": [
+    {
+      "id": 6116,
+      "logo_path": "/yCu2D15iD7lcYsBWqXjU65U9nkH.png",
+      "name": "Argos films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 13139,
+      "logo_path": null,
+      "name": "Oshima Productions",
+      "origin_country": "JP"
+    },
+    {
+      "id": 14668,
+      "logo_path": null,
+      "name": "Shibata Organisation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1976-09-15",
+  "revenue": 7650000,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Never before had a man and a woman loved each other so intensely.",
+  "title": "In the Realm of the Senses",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 697
+}

@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/oaliethcvyREtDbNBp94hi5IXeP.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.angel.com/tickets/rule-breakers",
+  "id": 1379520,
+  "imdb_id": "tt23398348",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rule Breakers",
+  "overview": "In a nation where educating girls is seen as rebellion, a visionary woman dares to teach young minds to dream. When their innovation draws global attention, their success sparks hope—and opposition. As threats loom and sacrifices are made, their courage and unity ignite a movement that could forever transform the world.",
+  "popularity": 3.0958,
+  "poster_path": "/zJ6yH7e7XFsVTbF1gZnERCVeQJn.jpg",
+  "production_companies": [
+    {
+      "id": 64890,
+      "logo_path": null,
+      "name": "Slingshot Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 65247,
+      "logo_path": null,
+      "name": "Shape Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 111311,
+      "logo_path": "/hCteZeAEtG0Q0brc3QKLwVHEoOX.png",
+      "name": "Parallax Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 216019,
+      "logo_path": null,
+      "name": "Black Autumn Show",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-06",
+  "revenue": 2972865,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some rules are made to be broken.",
+  "title": "Rule Breakers",
+  "video": false,
+  "vote_average": 7.35,
+  "vote_count": 20
+}

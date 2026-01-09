@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/k8NQUrnUtX20bCreOKyEv9J7U3S.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1258151,
+  "imdb_id": "tt28364592",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Кракен",
+  "overview": "A Russian missile submarine disappears without trace during a secret mission in the Greenland Sea. A vessel is deployed to search for it, captained by the brother of the missing submarine’s commander. The search crew is tasked with locating the submarine and preventing a top-secret weapon from falling into enemy hands. Meanwhile, a geological research operation at the North Pole awakens the Kraken, a giant deep-water monster with an incredible ability to camouflage and an uncanny intelligence. As the search party narrows in on the missing submarine, they will encounter the legendary creature of the deep.",
+  "popularity": 4.0932,
+  "poster_path": "/c97Xlokfn4M6ZOQmt7OfXfLDwd5.jpg",
+  "production_companies": [
+    {
+      "id": 3467,
+      "logo_path": "/pumbDNR4udEagb3ldNUMFSA85Fn.png",
+      "name": "Studio Trite",
+      "origin_country": "RU"
+    },
+    {
+      "id": 69587,
+      "logo_path": "/u0Jy8wJ05m3MZCNiba1EXgf0zoK.png",
+      "name": "Russia 1",
+      "origin_country": "RU"
+    },
+    {
+      "id": 3419,
+      "logo_path": "/byrxE2pJD9JLyBCIzyK0pYVanyG.png",
+      "name": "Central Partnership",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2025-04-17",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kraken",
+  "video": false,
+  "vote_average": 6.625,
+  "vote_count": 28
+}

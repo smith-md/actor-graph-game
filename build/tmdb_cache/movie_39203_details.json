@@ -1,0 +1,102 @@
+{
+  "adult": false,
+  "backdrop_path": "/z4T0CZxl8WQqNA8K5tZoBQib4jL.jpg",
+  "belongs_to_collection": {
+    "id": 39199,
+    "name": "Detective Conan Collection",
+    "poster_path": "/bV6EHK0Q65hHKSoVDeACbc960jQ.jpg",
+    "backdrop_path": "/tCn2416CQcLHvDkAL7II20v5YO3.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.tms-e.co.jp/global/alltitles/conan/087308.html",
+  "id": 39203,
+  "imdb_id": "tt1133559",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "名探偵コナン 銀翼の奇術師",
+  "overview": "Once again, Kaitou Kid crosses swords with Conan Edogawa in this annual installment of the Detective Conan movie franchise. After receiving a letter from the thief, famous actress Juri Maki seeks the help of private detective Kogorou Mouri to protect the Star Sapphire—the \"Jewel of Destiny,\" said to represent faith, fate, and hope.",
+  "popularity": 3.4242,
+  "poster_path": "/bozQR8pgW43WFI4VpV9vCgyXlDq.jpg",
+  "production_companies": [
+    {
+      "id": 7164,
+      "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+      "name": "TMS Entertainment",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9149,
+      "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+      "name": "Shogakukan",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11727,
+      "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+      "name": "Yomiuri Telecasting Corporation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6755,
+      "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+      "name": "Nippon Television Network Corporation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5261,
+      "logo_path": null,
+      "name": "Shogakukan Production",
+      "origin_country": "JP"
+    },
+    {
+      "id": 12655,
+      "logo_path": "/dfGqf2NoMVPrDywDL90D5HAhBlW.png",
+      "name": "Shogakukan-Shueisha Productions",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2004-04-17",
+  "revenue": 22618511,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Detective Conan: Magician of the Silver Sky",
+  "video": false,
+  "vote_average": 7.08,
+  "vote_count": 163
+}

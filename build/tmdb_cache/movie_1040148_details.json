@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/r2u2MOaOLWSi6onaAo37Vf39xGy.jpg",
+  "belongs_to_collection": null,
+  "budget": 70000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.teenagekrakenmovie.com",
+  "id": 1040148,
+  "imdb_id": "tt27155038",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ruby Gillman, Teenage Kraken",
+  "overview": "Ruby Gillman, a sweet and awkward high school student, discovers she's a direct descendant of the warrior kraken queens. The kraken are sworn to protect the oceans of the world against the vain, power-hungry mermaids. Destined to inherit the throne from her commanding grandmother, Ruby must use her newfound powers to protect those she loves most.",
+  "popularity": 5.1798,
+  "poster_path": "/8ChIb3WzYAcza1vrXR56v510MWk.jpg",
+  "production_companies": [
+    {
+      "id": 521,
+      "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+      "name": "DreamWorks Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-06-28",
+  "revenue": 46247409,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Discover the hero just beneath the surface.",
+  "title": "Ruby Gillman, Teenage Kraken",
+  "video": false,
+  "vote_average": 7.178,
+  "vote_count": 1080
+}

@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/z6Pi72HrGhc50GDhDdREUTEh2xm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1169210,
+  "imdb_id": "tt11261532",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Mannequin",
+  "overview": "A stylist assistant investigates her sister's death in a historic LA building, only to face a vengeful ghost of a serial killer who dismembered victims decades ago. She must escape before she's next.",
+  "popularity": 6.7267,
+  "poster_path": "/oFTpB1gzS02LtrsenTWxOKbsMpM.jpg",
+  "production_companies": [
+    {
+      "id": 136547,
+      "logo_path": null,
+      "name": "Shatterproof Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-24",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She likes to watch.",
+  "title": "The Mannequin",
+  "video": false,
+  "vote_average": 5.524,
+  "vote_count": 21
+}

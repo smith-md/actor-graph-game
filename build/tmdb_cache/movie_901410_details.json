@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": "/wN6aUgXotlGVSgKGOdeYpWeyCnD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://xxxholic-movie.asmik-ace.co.jp/",
+  "id": 901410,
+  "imdb_id": "tt16233104",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ホリック xxxHOLiC",
+  "overview": "To be free of his dark visions, Kimihiro Watanuki will work for Dimensional Witch Yūko, a mystical woman quick to help those in a bind—for a fee.",
+  "popularity": 3.4948,
+  "poster_path": "/9anVNOiOTBhO1vet1Q31rQR2xtO.jpg",
+  "production_companies": [
+    {
+      "id": 192,
+      "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+      "name": "Shochiku",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3033,
+      "logo_path": "/AwgX2FHGJd54aSWfWJqptFvT1h.png",
+      "name": "Asmik Ace",
+      "origin_country": "JP"
+    },
+    {
+      "id": 255564,
+      "logo_path": null,
+      "name": "HACHINOJI",
+      "origin_country": "JP"
+    },
+    {
+      "id": 138203,
+      "logo_path": null,
+      "name": "Dragonfly Entertainment",
+      "origin_country": "JP"
+    },
+    {
+      "id": 168206,
+      "logo_path": "/AmGd7pnZZ8VWTrOtlVZAm3siR4C.png",
+      "name": "Happinet Phantom Studios",
+      "origin_country": "JP"
+    },
+    {
+      "id": 196891,
+      "logo_path": "/epH16V3DzLIKSfVKWCvD0kHNnCx.png",
+      "name": "Dokuso",
+      "origin_country": "JP"
+    },
+    {
+      "id": 59118,
+      "logo_path": "/9nTCEBgGaaI5swkv8gy2vny0Mb5.png",
+      "name": "Kodansha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 157407,
+      "logo_path": null,
+      "name": "Lucky Star",
+      "origin_country": "JP"
+    },
+    {
+      "id": 81419,
+      "logo_path": "/ccCHsFEJgj2TTErgY7uI35xGSQa.png",
+      "name": "Shochiku Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 255574,
+      "logo_path": null,
+      "name": "CHIMNEY TOWN",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2022-04-29",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "xxxHOLiC",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 25
+}

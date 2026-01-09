@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": "/68TGPnvmZ21NBOoV5IUZ4fQDyvZ.jpg",
+  "belongs_to_collection": {
+    "id": 683698,
+    "name": "Z-O-M-B-I-E-S Collection",
+    "poster_path": "/hYeuC97Nyw7GxNKrqrFvV3ujzjV.jpg",
+    "backdrop_path": "/vn9pn3we8gH11qGAN9giRVLpeNJ.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 1243341,
+  "imdb_id": "tt31241595",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
+  "overview": "A new adventure dawns for Zed and Addison when their summer road trip takes an unexpected detour, landing them in the middle of yet another monster rivalry: Daywalkers vs. Vampires. Tensions flare when Zed and Addison find themselves acting as camp counselors between the two opposing supernatural factions. With the help of Eliza and Willa, they must convince sworn enemies Nova and Victor to try to unite their warring worlds before an even greater threat endangers them all.",
+  "popularity": 3.8246,
+  "poster_path": "/6rGsqBxI4r1YkS9FuraovWi465w.jpg",
+  "production_companies": [
+    {
+      "id": 151462,
+      "logo_path": "/vpMcuCCjmRk0ka31dXDSztnD7DC.png",
+      "name": "Bloor Street Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 260157,
+      "logo_path": null,
+      "name": "Night Zone Productions",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 241784,
+      "logo_path": "/sepE4Kn7ZJdpdahWsXW1fPXRkPI.png",
+      "name": "Disney Branded Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 30023,
+      "logo_path": "/byhvEbKsEOjmhKccroy73esbE6n.png",
+      "name": "Court Five",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-10",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fight for what you believe in.",
+  "title": "Z-O-M-B-I-E-S 4: Dawn of the Vampires",
+  "video": false,
+  "vote_average": 6.84,
+  "vote_count": 131
+}

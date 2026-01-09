@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/5YqRkuIrq7ze7i58XTPCuSY2tnz.jpg",
+  "belongs_to_collection": {
+    "id": 1185967,
+    "name": "Lupin the Third Collection",
+    "poster_path": "/rLq44jhaEuupNyLPWSSW2ZoUC25.jpg",
+    "backdrop_path": "/33WQjdK6QXUq39FgzzO8sZ3TVPR.jpg"
+  },
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://tmsanime.com/lupin-the-3rd-mystery-of-mamo",
+  "id": 30143,
+  "imdb_id": "tt0078187",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ルパン三世 ルパンVS複製人間",
+  "overview": "While attempting to win the affections of a beautiful rival, a master thief risks death to learn the secret intentions of a wealthy and seemingly immortal, but certainly ruthless, recluse.",
+  "popularity": 4.8288,
+  "poster_path": "/6XyexLxAWQ2lezWtcfq6LqmJ5Tt.jpg",
+  "production_companies": [
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3069,
+      "logo_path": "/tpGaXEBassYaiEBvnJ7K5vchT50.png",
+      "name": "Tokyo Movie Shinsha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 20868,
+      "logo_path": "/jhJGtYghSVawQJygEnJymQAqAb2.png",
+      "name": "Telecom Animation Film",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1978-12-16",
+  "revenue": 4200000,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sometimes, being able to put together a world-class art collection takes a thief... this time it takes an extraordinary thief!",
+  "title": "Lupin the Third: The Mystery of Mamo",
+  "video": false,
+  "vote_average": 7.005,
+  "vote_count": 110
+}

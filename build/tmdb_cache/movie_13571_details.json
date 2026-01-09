@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/3ObLgqTlqeey6E8cfyy6xki2rCs.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 13571,
+  "imdb_id": "tt0103125",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "True Colors",
+  "overview": "Two law school friends find themselves at odds when one becomes a Justice Department lawyer and the other goes into politics.",
+  "popularity": 4.5268,
+  "poster_path": "/iRchyRu07YagzHv9bQ7Jfz1CsAc.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-03-15",
+  "revenue": 418807,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All the shades of friendship. Including betrayal and revenge.",
+  "title": "True Colors",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 79
+}

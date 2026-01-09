@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": "/jgKix9qqZUkfNU92cBG08oLCxOj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1443576,
+  "imdb_id": "tt35513027",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Los domingos",
+  "overview": "A 17-year-old idealist has to choose her course at university, and declares that she feels ever closer to God. Contemplating a membership within an enclosed religious order raises questions regarding the liberal principles of her father and her aunt, the latter who feels she should choose the life she wants but should experience life before doing so.",
+  "popularity": 6.7029,
+  "poster_path": "/3682SbY3rsNKsQzFpPUKrWdGmmx.jpg",
+  "production_companies": [
+    {
+      "id": 13285,
+      "logo_path": "/eSTUEqS5IAoUZdGEnm36TMiD2ft.png",
+      "name": "Encanta Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 7344,
+      "logo_path": "/wSPFwK4I42Z63YWcuTzcq8e4dhw.png",
+      "name": "Sayaka Producciones",
+      "origin_country": "ES"
+    },
+    {
+      "id": 10128,
+      "logo_path": "/apcQLKRuLLqhi9fD1gaSL3argeo.png",
+      "name": "Think Studio",
+      "origin_country": "ES"
+    },
+    {
+      "id": 55260,
+      "logo_path": "/camFxiEQydhhZF5in1SGzMkLKuU.png",
+      "name": "Colosé Producciones",
+      "origin_country": "ES"
+    },
+    {
+      "id": 5125,
+      "logo_path": "/t3oWTsVukmEzrZzvfr37XRBibo5.png",
+      "name": "Le Pacte",
+      "origin_country": "FR"
+    },
+    {
+      "id": 67412,
+      "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+      "name": "Movistar Plus+",
+      "origin_country": "ES"
+    },
+    {
+      "id": 200804,
+      "logo_path": "/7rQ6WdOccPyIPI0pTztsxy3QikE.png",
+      "name": "Buena Pinta Media",
+      "origin_country": "ES"
+    },
+    {
+      "id": 107262,
+      "logo_path": "/1zigukoYBEqJfsEl6fVhmamXXX9.png",
+      "name": "Crea SGR",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-10-17",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Family sundays wil never be the same.",
+  "title": "Sundays",
+  "video": false,
+  "vote_average": 8.5,
+  "vote_count": 27
+}

@@ -1,0 +1,117 @@
+{
+  "adult": false,
+  "backdrop_path": "/167r4h8RzFh9YqNxhWInkkni3qD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.7minuti-ilfilm.it",
+  "id": 418399,
+  "imdb_id": "tt6085482",
+  "origin_country": [
+    "FR",
+    "CH",
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "7 Minuti",
+  "overview": "Women in a failing silk factory, fight to find a way to keep their jobs.",
+  "popularity": 2.7208,
+  "poster_path": "/lx15SY4vHWWMPKm4fTlBAQQKSZW.jpg",
+  "production_companies": [
+    {
+      "id": 112625,
+      "logo_path": null,
+      "name": "Goldenart Production",
+      "origin_country": "IT"
+    },
+    {
+      "id": 232510,
+      "logo_path": null,
+      "name": "Manny Films",
+      "origin_country": ""
+    },
+    {
+      "id": 104356,
+      "logo_path": null,
+      "name": "A&G",
+      "origin_country": ""
+    },
+    {
+      "id": 232512,
+      "logo_path": null,
+      "name": "Amer",
+      "origin_country": ""
+    },
+    {
+      "id": 12431,
+      "logo_path": "/3m45frhaRCLsCKuMtuj7ZwfGwBB.png",
+      "name": "SRG SSR",
+      "origin_country": "CH"
+    },
+    {
+      "id": 10358,
+      "logo_path": "/pvgiWovEFHYoOO49V7arAhitWTM.png",
+      "name": "Ventura Film",
+      "origin_country": "CH"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 102960,
+      "logo_path": null,
+      "name": "Roma Lazio Film Commission",
+      "origin_country": ""
+    },
+    {
+      "id": 21649,
+      "logo_path": "/6Ji6E59Wt9O4VA6nqwAd6RW7ijs.png",
+      "name": "Sky Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2016-11-03",
+  "revenue": 593966,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One condition. Everyone's fate.",
+  "title": "7 Minutes",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 162
+}

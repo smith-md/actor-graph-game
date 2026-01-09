@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/bp7G5Y6cDYL5sOpJkpq7EoNdzZa.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 44006,
+  "imdb_id": "tt0059555",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Othello",
+  "overview": "General Othello's marriage is destroyed when vengeful Ensign Iago convinces him that his new wife has been unfaithful.",
+  "popularity": 3.1821,
+  "poster_path": "/7If3MBeG5LH0iUScL5ddqB0qB3q.jpg",
+  "production_companies": [
+    {
+      "id": 2008,
+      "logo_path": null,
+      "name": "BHE Films",
+      "origin_country": ""
+    },
+    {
+      "id": 16355,
+      "logo_path": "/tWuPpLrD2urqKPXIit4VLTHWvgK.png",
+      "name": "National Theatre",
+      "origin_country": "GB"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1965-12-15",
+  "revenue": 0,
+  "runtime": 165,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The greatest Othello ever by the greatest actor of our time",
+  "title": "Othello",
+  "video": false,
+  "vote_average": 6.241,
+  "vote_count": 29
+}

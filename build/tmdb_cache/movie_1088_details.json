@@ -1,0 +1,102 @@
+{
+  "adult": false,
+  "backdrop_path": "/ppcLeOwKQLzg7BT1spZhaafuGL5.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.whaleriderthemovie.com/",
+  "id": 1088,
+  "imdb_id": "tt0298228",
+  "origin_country": [
+    "NZ"
+  ],
+  "original_language": "en",
+  "original_title": "Whale Rider",
+  "overview": "A contemporary story of love, rejection, and triumph as a young Maori girl fights to fulfill a destiny her grandfather refuses to recognize.",
+  "popularity": 4.2543,
+  "poster_path": "/1ZQSkyEDRJdk6TCAThBojB5hJcK.jpg",
+  "production_companies": [
+    {
+      "id": 654,
+      "logo_path": null,
+      "name": "South Pacific Pictures",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 140,
+      "logo_path": "/ooz5b0ov3PLfBoOJyMmdoffVuHs.png",
+      "name": "Pandora Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 16850,
+      "logo_path": null,
+      "name": "ApolloMedia",
+      "origin_country": "DE"
+    },
+    {
+      "id": 12327,
+      "logo_path": null,
+      "name": "New Zealand Film Production Fund",
+      "origin_country": ""
+    },
+    {
+      "id": 294,
+      "logo_path": "/a05DY2oSeUOVFDM61RsQa9x9RoC.png",
+      "name": "New Zealand Film Commission",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 295,
+      "logo_path": "/24lAsHZaGi4GzNrWzlkK60HLMBx.png",
+      "name": "NZ on Air",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 315,
+      "logo_path": "/hdu0sVxgtCuQud0xF8ZBiN7hEhY.png",
+      "name": "Filmstiftung Nordrhein-Westfalen",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    }
+  ],
+  "release_date": "2003-01-30",
+  "revenue": 41400000,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "Maori",
+      "iso_639_1": "mi",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In the ways of the ancients she found a hope for the future.",
+  "title": "Whale Rider",
+  "video": false,
+  "vote_average": 7.059,
+  "vote_count": 431
+}

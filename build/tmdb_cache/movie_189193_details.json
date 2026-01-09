@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/3XMVMuKu1oew01grdUK7FRzlUog.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 189193,
+  "imdb_id": "tt0050875",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rabbit Romeo",
+  "overview": "Elmer Fudd's Uncle Judd sends him an ugly, temperamental Slobovian rabbit named Millicent to babysit until he arrives. Elmer happens upon Bugs Bunny and thinks he'll be the perfect match for Millicent.  But as soon as Bugs gets a look at her, he tries to get away!",
+  "popularity": 2.7715,
+  "poster_path": "/1dEbTXraipQaLdi5lG431k6B4z1.jpg",
+  "production_companies": [
+    {
+      "id": 8298,
+      "logo_path": "/r6cuEYq7DqrHCNVa7vSanTS0cuw.png",
+      "name": "Warner Bros. Cartoons",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1957-12-15",
+  "revenue": 0,
+  "runtime": 7,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rabbit Romeo",
+  "video": false,
+  "vote_average": 6.425,
+  "vote_count": 20
+}

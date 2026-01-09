@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/jPKsE8cgehlau8V6YgNNVCMsoRK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/movies/prom-pact/7KnBInqYGawq",
+  "id": 932430,
+  "imdb_id": "tt17321230",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Prom Pact",
+  "overview": "It's prom season, and high school senior Mandy and her best friend and fellow outsider Ben are surrounded by over-the-top \"promposals.\" Mandy is only focused on getting into her dream school Harvard, but as she starts tutoring basketball all-star Graham, she must re-evaluate whether her dream school is worth the cost of everything she believes in.",
+  "popularity": 5.0648,
+  "poster_path": "/zVgRfuBvsFTU4mFvDt1Qlqo1CRo.jpg",
+  "production_companies": [
+    {
+      "id": 92693,
+      "logo_path": "/rMKRo8kFoJKxZr0MFEVRoZ8b54E.png",
+      "name": "The Detective Agency",
+      "origin_country": "US"
+    },
+    {
+      "id": 188542,
+      "logo_path": null,
+      "name": "Rotten Eggs Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 196863,
+      "logo_path": "/wXnbK0jkrGc6UclzbWTi8k3KIQ3.png",
+      "name": "Bowen and Sons",
+      "origin_country": "US"
+    },
+    {
+      "id": 196864,
+      "logo_path": "/hGbesRYgkR4SHQib5syHjIYi9QE.png",
+      "name": "Bear Claw Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 241784,
+      "logo_path": "/sepE4Kn7ZJdpdahWsXW1fPXRkPI.png",
+      "name": "Disney Branded Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-03-30",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ambition is risky business.",
+  "title": "Prom Pact",
+  "video": false,
+  "vote_average": 7.204,
+  "vote_count": 179
+}

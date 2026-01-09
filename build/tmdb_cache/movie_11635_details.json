@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/2tZVYiosztNM1DAYUF59VPsNp9L.jpg",
+  "belongs_to_collection": null,
+  "budget": 24000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 11635,
+  "imdb_id": "tt0302886",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Old School",
+  "overview": "Three friends attempt to recapture their glory days by opening up a fraternity near their alma mater.",
+  "popularity": 9.1049,
+  "poster_path": "/nYtuwNHpEoIbTgS3aFPSEwZNN6l.jpg",
+  "production_companies": [
+    {
+      "id": 2364,
+      "logo_path": "/oZyR5maGM96jReVgW7oJ7mXN8ts.png",
+      "name": "The Montecito Picture Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 7,
+      "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+      "name": "DreamWorks Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-02-21",
+  "revenue": 87100000,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All the fun of college. None of the education.",
+  "title": "Old School",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 2025
+}

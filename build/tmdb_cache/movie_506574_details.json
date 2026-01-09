@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/wWLUUGtemgrRyH24v8lAkSR58US.jpg",
+  "belongs_to_collection": {
+    "id": 466463,
+    "name": "Descendants Collection",
+    "poster_path": "/htZuHIuG9ybcw6xkrWz4khZRBu0.jpg",
+    "backdrop_path": "/bGhp9ANBOcsbnDcicSmtO8AelzG.jpg"
+  },
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 506574,
+  "imdb_id": "tt8022928",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Descendants 3",
+  "overview": "The teenagers of Disney's most infamous villains return to the Isle of the Lost to recruit a new batch of villainous offspring to join them at Auradon Prep.",
+  "popularity": 4.248,
+  "poster_path": "/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg",
+  "production_companies": [
+    {
+      "id": 11072,
+      "logo_path": null,
+      "name": "Bad Angels Productions, Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 138908,
+      "logo_path": null,
+      "name": "5678 Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 241787,
+      "logo_path": "/7wRFRKnGTX8J4URYQA0jQbMBgGt.png",
+      "name": "Disney Channels Worldwide",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-08-02",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You didn't think this was the end of the story, did you?",
+  "title": "Descendants 3",
+  "video": false,
+  "vote_average": 7.672,
+  "vote_count": 1589
+}

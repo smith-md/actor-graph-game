@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/kL1V6LpdI1nozZaqGbt8FvDzdTC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 65496,
+  "imdb_id": "tt1570970",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Mes chères études",
+  "overview": "Nineteen-year-old Laura is stressed by her first year at college when money worries distract her from her studies and so, desperate for cash, she answers an online advertisement for intimate companionship that leads her down a dangerous path.",
+  "popularity": 4.383,
+  "poster_path": "/vSpMWP1iX2KeRyIcHV3nINeBxlQ.jpg",
+  "production_companies": [
+    {
+      "id": 2951,
+      "logo_path": "/eKuMbpKtI0T8T4LmPsldgNbCaIE.png",
+      "name": "Les Films du Kiosque",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2010-01-18",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Student Services",
+  "video": false,
+  "vote_average": 5.292,
+  "vote_count": 137
+}

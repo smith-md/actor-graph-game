@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/u60tPFNQKASYiOANyIfIAC6ylYR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 191073,
+  "imdb_id": "tt0253420",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Ortadirek Şaban",
+  "overview": "Şaban, who works as a clerk in a factory, is madly in love with Bahar, who works as a secretary in the same factory and attends university thanks to the financial support of the famous oil tycoon Adnan Bıçakçı. However, Bahar has her eye on the famous athlete Erkan. After Adnan Bıçakçı reveals that Bahar is his granddaughter, she is kidnapped by gangsters. However, the only person who tries to rescue her is not her boyfriend Erkan, but Orta Direk Şaban.",
+  "popularity": 4.1201,
+  "poster_path": "/9RH6gn1KtuISydcIjzXmP1ez6dO.jpg",
+  "production_companies": [
+    {
+      "id": 14418,
+      "logo_path": null,
+      "name": "Uğur Film",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "1984-03-01",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Şaban, a Man from the Middle Class",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 59
+}

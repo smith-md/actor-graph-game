@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/xtnfoFs9vOLBF7Ox13mFmFUovey.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1311844,
+  "imdb_id": "tt31828378",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Twisters",
+  "overview": "A deadly patchwork of destructive cyclones is on an apocalyptic path of convergence at a populated Midwest city center. There, the twisters will merge into one mega tornado that threatens to obliterate the cities for hundreds of miles around.",
+  "popularity": 6.8594,
+  "poster_path": "/9xjSHm0R9tII8JCWHS1VdbftFk1.jpg",
+  "production_companies": [
+    {
+      "id": 162087,
+      "logo_path": null,
+      "name": "Atomic Blonde Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 152189,
+      "logo_path": null,
+      "name": "The Global Asylum, LLC.",
+      "origin_country": ""
+    },
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-06-28",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When Two Become One",
+  "title": "The Twisters",
+  "video": false,
+  "vote_average": 5.873,
+  "vote_count": 83
+}

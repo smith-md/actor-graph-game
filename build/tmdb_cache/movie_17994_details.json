@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/oMKG9VmiPkOUR64Pp628CMkZwhw.jpg",
+  "belongs_to_collection": {
+    "id": 168186,
+    "name": "Witchboard Collection",
+    "poster_path": "/lLHuZ5fu0tuwAqFSiuQq87n2Ijr.jpg",
+    "backdrop_path": "/sfvX1M9EKqnqPewQed3P1Vp9WD6.jpg"
+  },
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 17994,
+  "imdb_id": "tt0090327",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Witchboard",
+  "overview": "Playing around with a Ouija board, a trio of friends succeeds in contacting the spirit of a young boy. Trouble begins when the evil spirit, Malfeitor, takes over one of their bodies.",
+  "popularity": 3.6022,
+  "poster_path": "/d5lDHBzEgBkgAarXpUl56u2vM8c.jpg",
+  "production_companies": [
+    {
+      "id": 17951,
+      "logo_path": null,
+      "name": "Paragon Arts International",
+      "origin_country": ""
+    },
+    {
+      "id": 2623,
+      "logo_path": "/7Bkm1yUF0y8x6jw8dHRfzS3B6dq.png",
+      "name": "Blue Rider Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-12-31",
+  "revenue": 7369373,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's more than just a game.",
+  "title": "Witchboard",
+  "video": false,
+  "vote_average": 5.693,
+  "vote_count": 197
+}

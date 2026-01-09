@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/i4nVONDi6brdbG8K8J1NmMrD0NJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 1400000,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 16442,
+  "imdb_id": "tt0034167",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sergeant York",
+  "overview": "Alvin York a hillbilly sharpshooter transforms himself from ruffian to religious pacifist. He is then called to serve his country and despite deep religious and moral objections to fighting becomes one of the most celebrated American heroes of WWI.",
+  "popularity": 3.5911,
+  "poster_path": "/54LTgyRHSixyeeFhLtCFj0SMAQ3.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1941-09-27",
+  "revenue": 16361885,
+  "runtime": 134,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Missiles! Jets! Tanks! ... It's still the guy with guts and a gun who wins the war!",
+  "title": "Sergeant York",
+  "video": false,
+  "vote_average": 7.193,
+  "vote_count": 225
+}

@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/gjEiHrj8dSsgL25XbIxT9o5qO3u.jpg",
+  "belongs_to_collection": {
+    "id": 117354,
+    "name": "Crayon Shin-chan Collection",
+    "poster_path": "/byaQpxzuzO1PDZ7yvA9zyB7krdn.jpg",
+    "backdrop_path": "/2IxX864lSyaC3Yn748Bw3ulhoeT.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1059572,
+  "imdb_id": "tt26862791",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "しん次元！クレヨンしんちゃんTHE MOVIE 超能力大決戦 ～とべとべ手巻き寿司～",
+  "overview": "40-years ago, there was a prophecy claiming that in the year of “20” and “23”, two emitting lights would come to the Earth from outer space. And the dark light with strong power will bring out a huge disaster. In the summer of 2023, as predicted, two mysterious lights approach Japan and descend on Kasukabe. The white light hits Shin-chan, which makes him get a superpower. Meanwhile, a man called Mitsuru Hiriya, has been bathed in dark light and has acquired psychic powers begins to run amok. A man who wants the destruction of the world, Hiriya VS A happy-go-lucky kindergarten child, Shinnosuke. A superpower battle is going to begin!",
+  "popularity": 3.0724,
+  "poster_path": "/a56Fm2YWrlnqlC3TIgDvCJdzlKI.jpg",
+  "production_companies": [
+    {
+      "id": 11327,
+      "logo_path": "/gJM4ZwaQEKz9zsus8MNGWbm4maV.png",
+      "name": "Shirogumi",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4720,
+      "logo_path": "/7wQgZTA4FCkFMDedBYVZiVE87c7.png",
+      "name": "ADK",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5141,
+      "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+      "name": "Shin-Ei Animation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 62866,
+      "logo_path": "/uYawQ0Lb8smRXNNCoq8gTHG92Pz.png",
+      "name": "Futabasha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9300,
+      "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+      "name": "TV Asahi",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2023-08-04",
+  "revenue": 23839864,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Shinchan that you've never seen.",
+  "title": "New Dimension! Crayon Shin-chan the Movie: Battle of Supernatural Powers ~Flying Sushi~",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 38
+}

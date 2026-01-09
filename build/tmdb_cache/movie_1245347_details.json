@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/fnvTC96lA7pf8ZlMKI2FgBZ86AP.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.twinlessfilm.com",
+  "id": 1245347,
+  "imdb_id": "tt31322753",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Twinless",
+  "overview": "Two young men meet in a twin support group and form an unlikely friendship.",
+  "popularity": 9.9355,
+  "poster_path": "/9vaw9Az5tPLMjNLj426KgKsp0k8.jpg",
+  "production_companies": [
+    {
+      "id": 20312,
+      "logo_path": "/iYmytRQt5jqlBIEaMQ0Cb6iAHh8.png",
+      "name": "TPC",
+      "origin_country": "US"
+    },
+    {
+      "id": 455,
+      "logo_path": null,
+      "name": "Permut Presentations",
+      "origin_country": "US"
+    },
+    {
+      "id": 144185,
+      "logo_path": null,
+      "name": "Backyard Plane",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-04",
+  "revenue": 1390057,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Twinless",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 68
+}

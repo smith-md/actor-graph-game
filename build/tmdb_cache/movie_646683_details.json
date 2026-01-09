@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/93dDAqtrFQk5zeofDtQGExPlYjC.jpg",
+  "belongs_to_collection": null,
+  "budget": 22000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.theexorcismmovie.com/",
+  "id": 646683,
+  "imdb_id": "tt11240348",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Exorcism",
+  "overview": "A troubled actor begins to unravel while shooting a supernatural horror film, leading his estranged daughter to wonder if he's slipping back into his past addictions or if there's something more sinister at play.",
+  "popularity": 5.7779,
+  "poster_path": "/ar2h87jlTfMlrDZefR3VFz1SfgH.jpg",
+  "production_companies": [
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 2180,
+      "logo_path": "/gWKrSLAo06z8IDvP1WemvbvDwtB.png",
+      "name": "Outerbanks Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-05-30",
+  "revenue": 12610418,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They were making a cursed movie. They were warned not to. They should have listened.",
+  "title": "The Exorcism",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 396
+}

@@ -1,0 +1,109 @@
+{
+  "adult": false,
+  "backdrop_path": "/wtenyFz8VcTkY6gjr3hWtxLBCAU.jpg",
+  "belongs_to_collection": null,
+  "budget": 7000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 300906,
+  "imdb_id": "tt4497686",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Atroz",
+  "overview": "After they're arrested, the horrific crimes of two serial killers are revealed via confiscated videotapes. These tapes contain brutal murders displaying pure human wickedness, the background, paraphilias and psyche of these murderers.",
+  "popularity": 3.5668,
+  "poster_path": "/7x43axWAQjFXGJfp99Ys76YcjGt.jpg",
+  "production_companies": [
+    {
+      "id": 149486,
+      "logo_path": null,
+      "name": "Cinenauta",
+      "origin_country": ""
+    },
+    {
+      "id": 149487,
+      "logo_path": null,
+      "name": "Grotesque",
+      "origin_country": ""
+    },
+    {
+      "id": 22696,
+      "logo_path": null,
+      "name": "LSD Audio",
+      "origin_country": ""
+    },
+    {
+      "id": 193587,
+      "logo_path": null,
+      "name": "Zebra Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 125277,
+      "logo_path": null,
+      "name": "rABYa Producciones",
+      "origin_country": ""
+    },
+    {
+      "id": 88810,
+      "logo_path": null,
+      "name": "Zeno Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 193588,
+      "logo_path": null,
+      "name": "Reality FX Studios (RFX)",
+      "origin_country": ""
+    },
+    {
+      "id": 83879,
+      "logo_path": null,
+      "name": "Home Movies",
+      "origin_country": "IT"
+    },
+    {
+      "id": 116012,
+      "logo_path": null,
+      "name": "Spasmo Video",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2018-10-26",
+  "revenue": 0,
+  "runtime": 79,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Atrocious",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 85
+}

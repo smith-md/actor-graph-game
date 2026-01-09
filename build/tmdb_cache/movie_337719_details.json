@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/nqCG9JunmZE8d0o3zHQx6KGKy2p.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.basquefilms.com/en/title-item/pos-eso",
+  "id": 337719,
+  "imdb_id": "tt3740416",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Pos eso",
+  "overview": "Trini, a world-renowned flamenco dancer, abandons the stage after suffering a personal tragedy.",
+  "popularity": 4.2713,
+  "poster_path": "/rxbvbVK8RT7DRvSlaIJi67crw1H.jpg",
+  "production_companies": [
+    {
+      "id": 52269,
+      "logo_path": null,
+      "name": "Conflictivos Productions",
+      "origin_country": "ES"
+    },
+    {
+      "id": 52270,
+      "logo_path": "/cmHyuZRHMn2yD5yoLZo02dfIVCE.png",
+      "name": "Basque Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 31123,
+      "logo_path": "/Q9F9wXH9XRsSwvR9eA0Yn8P1wT.png",
+      "name": "EiTB",
+      "origin_country": "ES"
+    },
+    {
+      "id": 9335,
+      "logo_path": "/ldfniRgxCYegCbGEROEBKbmg4A5.png",
+      "name": "Canal+ España",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2015-04-30",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Possessed",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 27
+}

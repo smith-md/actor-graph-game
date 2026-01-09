@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/gSVk4r8Q4R8aeGY0hhEG3bE0QzL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1252428,
+  "imdb_id": "tt11668530",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "狂蟒之灾",
+  "overview": "A struggling circus crew gets deceived by its former partner, as it embarks on a tour in Thailand. During the journey through a Southeast Asian rainforest, they encounter attacks by a giant python. They meet a mysterious man named Jeff who offers to help, but they soon realize he's a poacher. As they search for Jeff's boat, they face life-and-death struggles with the python and Jeff himself.",
+  "popularity": 17.4101,
+  "poster_path": "/pPfsEXzfk2URkQ1OxhUShAXdxMr.jpg",
+  "production_companies": [
+    {
+      "id": 150781,
+      "logo_path": null,
+      "name": "Xiang Brothers Pictures",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2024-03-01",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Anaconda",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 117
+}

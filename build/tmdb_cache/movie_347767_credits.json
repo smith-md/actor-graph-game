@@ -1,0 +1,142 @@
+{
+  "id": 347767,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1485127,
+      "known_for_department": "Acting",
+      "name": "Rodrigo Falla",
+      "original_name": "Rodrigo Falla",
+      "popularity": 0.1725,
+      "profile_path": null,
+      "cast_id": 3,
+      "character": "Joshua",
+      "credit_id": "559b1b819251413ccf000632",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1485128,
+      "known_for_department": "Acting",
+      "name": "Daniella Mendoza",
+      "original_name": "Daniella Mendoza",
+      "popularity": 0.0973,
+      "profile_path": "/sS20lCAKQG1EVKyqSHdaKOlMerN.jpg",
+      "cast_id": 4,
+      "character": "Carla",
+      "credit_id": "559b1b92c3a368717b000675",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1372512,
+      "known_for_department": "Acting",
+      "name": "Carlos Casella",
+      "original_name": "Carlos Casella",
+      "popularity": 0.0915,
+      "profile_path": null,
+      "cast_id": 5,
+      "character": "Lucas",
+      "credit_id": "559b1baac3a36871760005b3",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1607080,
+      "known_for_department": "Acting",
+      "name": "Mario Gaviria",
+      "original_name": "Mario Gaviria",
+      "popularity": 0.1126,
+      "profile_path": null,
+      "cast_id": 8,
+      "character": "Benjamín",
+      "credit_id": "5713a2c7925141317400531e",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1607081,
+      "known_for_department": "Acting",
+      "name": "Analú Polanco",
+      "original_name": "Analú Polanco",
+      "popularity": 0.1294,
+      "profile_path": null,
+      "cast_id": 9,
+      "character": "Isabel",
+      "credit_id": "5713a2df92514141a500228f",
+      "order": 4
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1359643,
+      "known_for_department": "Directing",
+      "name": "Sandro Ventura",
+      "original_name": "Sandro Ventura",
+      "popularity": 0.2498,
+      "profile_path": null,
+      "credit_id": "559b1b629251413ccc0005f7",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1045855,
+      "known_for_department": "Directing",
+      "name": "Eduardo Schuldt",
+      "original_name": "Eduardo Schuldt",
+      "popularity": 1.3836,
+      "profile_path": "/ylzeCIt9IS2arQvfDYmpznYDw7S.jpg",
+      "credit_id": "559b1b3d9251413ccc0005e9",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1045855,
+      "known_for_department": "Directing",
+      "name": "Eduardo Schuldt",
+      "original_name": "Eduardo Schuldt",
+      "popularity": 1.3836,
+      "profile_path": "/ylzeCIt9IS2arQvfDYmpznYDw7S.jpg",
+      "credit_id": "559b1b489251413cc60005c0",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1045855,
+      "known_for_department": "Directing",
+      "name": "Eduardo Schuldt",
+      "original_name": "Eduardo Schuldt",
+      "popularity": 1.3836,
+      "profile_path": "/ylzeCIt9IS2arQvfDYmpznYDw7S.jpg",
+      "credit_id": "5713a26d92514141a500227d",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1607079,
+      "known_for_department": "Editing",
+      "name": "Alvaro Iparraguirre",
+      "original_name": "Alvaro Iparraguirre",
+      "popularity": 0.1813,
+      "profile_path": null,
+      "credit_id": "5713a27f92514151cf002015",
+      "department": "Editing",
+      "job": "Editor"
+    }
+  ]
+}

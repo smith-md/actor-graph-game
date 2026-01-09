@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/v9wC8Rf3RHYQ6yKO4yQAlQLHSA6.jpg",
+  "belongs_to_collection": null,
+  "budget": 45000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 7095,
+  "imdb_id": "tt0116669",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Jack",
+  "overview": "Born with a rare condition that makes him age four times faster than normal, ten-year-old Jack Powell looks like a forty-year-old man. After years of homeschooling, he enters public school for the first time, eager to make friends and live like any other kid—only to discover that growing up too fast means learning some of life’s hardest lessons early.",
+  "popularity": 5.0088,
+  "poster_path": "/9W6UI8UQ4YdLCAaPFd0lcKJ1tX4.jpg",
+  "production_companies": [
+    {
+      "id": 915,
+      "logo_path": "/4neXXpjSJDZPBGBnfWtqysB5htV.png",
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2173,
+      "logo_path": "/tvcLdY0u2hJjacYkoItfEuUNt4k.png",
+      "name": "Great Oaks Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 70,
+      "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+      "name": "American Zoetrope",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-08-09",
+  "revenue": 58620973,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's a healthy ten year old who's growing four times faster than normal. Now he's about to take off on the biggest adventure of his life... 5th grade.",
+  "title": "Jack",
+  "video": false,
+  "vote_average": 6.297,
+  "vote_count": 1323
+}

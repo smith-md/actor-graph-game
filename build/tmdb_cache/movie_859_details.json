@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/2gm0EEn4RsfvOOV20GOZrwAZ5mA.jpg",
+  "belongs_to_collection": null,
+  "budget": 14000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 859,
+  "imdb_id": "tt0094947",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Dangerous Liaisons",
+  "overview": "In 18th century France, Marquise de Merteuil asks her ex-lover Vicomte de Valmont to seduce the future wife of another ex-lover of hers in return for one last night with her. Yet things don’t go as planned.",
+  "popularity": 4.6936,
+  "poster_path": "/eNvJXuTQ7lusuUrIvS7wplORXBX.jpg",
+  "production_companies": [
+    {
+      "id": 1176,
+      "logo_path": null,
+      "name": "Lorimar Film Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 18737,
+      "logo_path": null,
+      "name": "NFH Films",
+      "origin_country": ""
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1988-12-21",
+  "revenue": 34670720,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Lust. Seduction. Revenge. The game as you've never seen it played before.",
+  "title": "Dangerous Liaisons",
+  "video": false,
+  "vote_average": 7.191,
+  "vote_count": 1237
+}

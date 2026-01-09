@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": "/2cn22NVt8khIUnubnB5oAUAoImF.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 2405,
+  "imdb_id": "tt0113483",
+  "origin_country": [
+    "DE",
+    "US",
+    "IT"
+  ],
+  "original_language": "en",
+  "original_title": "Joseph",
+  "overview": "Joseph, favored son of Jacob and great-grandson of Abraham, is sold into slavery by his jealous brothers. Rising to become prime minister of Egypt. Joseph governed the country during a seven year famine, during which his brothers visit Egypt seeking grain, only to encounter their brother, presumed long dead.",
+  "popularity": 6.3411,
+  "poster_path": "/lBscKQzEJY1XF2ReZT2vIGrMQ1k.jpg",
+  "production_companies": [
+    {
+      "id": 1765,
+      "logo_path": "/oqMb5Xwbvvle7riett66WbI06fQ.png",
+      "name": "Turner Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1080,
+      "logo_path": "/6bZ0BiLDzCZSqVCjiSqweWwp9Ew.png",
+      "name": "Beta Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 6370,
+      "logo_path": null,
+      "name": "Quinta Communications",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1082,
+      "logo_path": "/lEvojpyYkqD9W8mIEH5LB1cft2q.png",
+      "name": "Lux Vide",
+      "origin_country": "IT"
+    },
+    {
+      "id": 7196,
+      "logo_path": null,
+      "name": "Lube",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-04-10",
+  "revenue": 0,
+  "runtime": 185,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Joseph",
+  "video": false,
+  "vote_average": 8.2,
+  "vote_count": 218
+}

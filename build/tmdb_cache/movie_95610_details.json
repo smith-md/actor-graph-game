@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/hTReEn9kCeZLxgQmC46hQszLKSq.jpg",
+  "belongs_to_collection": {
+    "id": 8936,
+    "name": "Bridget Jones Collection",
+    "poster_path": "/9VUsbuTMFoRgUgK0z3pEWmkujFe.jpg",
+    "backdrop_path": "/9WuJ3iHkCEm5jtxIRwRAp45QZjL.jpg"
+  },
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 95610,
+  "imdb_id": "tt1473832",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Bridget Jones's Baby",
+  "overview": "After breaking up, Bridget Jones' happily-ever-after hasn't quite gone according to plan. Fortysomething and single again, she decides to focus on her job and surround herself with old friends and new. For once, Bridget has everything completely under control. Then her love life takes a turn when she meets Jack. A week later, she runs into Mark before she finds herself pregnant, but with one hitch - she's not sure of the identity of her baby's father - Mark or Jack.",
+  "popularity": 3.5034,
+  "poster_path": "/5hHomngoPZrNoXOPlyaHV6eXaQW.jpg",
+  "production_companies": [
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10163,
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2016-09-14",
+  "revenue": 211952420,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Relationship status: beyond complicated",
+  "title": "Bridget Jones's Baby",
+  "video": false,
+  "vote_average": 6.407,
+  "vote_count": 3039
+}

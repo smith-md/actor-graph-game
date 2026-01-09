@@ -1,0 +1,98 @@
+{
+  "adult": false,
+  "backdrop_path": "/iHDgL6vulhP9j8ygG47gnOEyybf.jpg",
+  "belongs_to_collection": {
+    "id": 167613,
+    "name": "Alvin and the Chipmunks Collection",
+    "poster_path": "/iNNpXUsi6tFTLT1M7U20xDMFSwk.jpg",
+    "backdrop_path": "/oLbsrl70GSwntrXxRxusfeLid0F.jpg"
+  },
+  "budget": 75000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 55301,
+  "imdb_id": "tt1615918",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Alvin and the Chipmunks: Chipwrecked",
+  "overview": "Playing around while aboard a cruise ship, the Chipmunks and Chipettes accidentally go overboard and end up marooned in a tropical paradise. They discover their new turf is not as deserted as it seems.",
+  "popularity": 8.0575,
+  "poster_path": "/npOXWVoZyl8UrF2wtByHtfmsWSX.jpg",
+  "production_companies": [
+    {
+      "id": 711,
+      "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+      "name": "Fox 2000 Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 508,
+      "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 444,
+      "logo_path": null,
+      "name": "Dune Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 10930,
+      "logo_path": "/gTl5zq214ifd2qW7sp7to0aHS6C.png",
+      "name": "Bagdasarian Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-12-14",
+  "revenue": 342695435,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sun, Sea and Squeaks.",
+  "title": "Alvin and the Chipmunks: Chipwrecked",
+  "video": false,
+  "vote_average": 5.695,
+  "vote_count": 2304
+}

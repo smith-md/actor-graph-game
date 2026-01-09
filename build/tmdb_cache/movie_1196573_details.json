@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/ytCi1wg6YHpYcFRWCO2jpzN31Kf.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1196573,
+  "imdb_id": "tt27986457",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "She Rides Shotgun",
+  "overview": "Newly released from prison and marked for death by unrelenting enemies, Nate must now protect his estranged 11-year-old daughter, Polly, at all costs. With scant resources and no one to trust, Nate and Polly forge a bond under fire as he shows her how to fight and survive—and she teaches him the true meaning of unconditional love.",
+  "popularity": 20.4438,
+  "poster_path": "/nvqW8mOm818QDio3GKKmPLK8kXj.jpg",
+  "production_companies": [
+    {
+      "id": 181874,
+      "logo_path": "/crrgXvLhDO9c57HYrbO4H58Vxmb.png",
+      "name": "Fifth Season",
+      "origin_country": "US"
+    },
+    {
+      "id": 106839,
+      "logo_path": "/uUIoRabgmUH5VYSXs02bgjO92no.png",
+      "name": "Makeready",
+      "origin_country": "US"
+    },
+    {
+      "id": 133908,
+      "logo_path": "/6kofNnLeex4wLR5oW3Cgf74hgu6.png",
+      "name": "Super Frog",
+      "origin_country": "US"
+    },
+    {
+      "id": 22842,
+      "logo_path": "/buyfiDYTfPVTHxvYZ4yHu69zFPs.png",
+      "name": "Waypoint Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 22146,
+      "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+      "name": "Black Bear Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-31",
+  "revenue": 23443,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "Irish",
+      "iso_639_1": "ga",
+      "name": "Gaeilge"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All a father needs is a fighting chance.",
+  "title": "She Rides Shotgun",
+  "video": false,
+  "vote_average": 7.085,
+  "vote_count": 194
+}

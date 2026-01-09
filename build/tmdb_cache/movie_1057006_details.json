@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/l33t6mBBipYlZCdthRyeAQmhQ46.jpg",
+  "belongs_to_collection": null,
+  "budget": 6000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "https://www.angel.com/movies/sight",
+  "id": 1057006,
+  "imdb_id": "tt12873300",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sight",
+  "overview": "Ming Wang is an impoverished Chinese prodigy who flees Communist China to become a pioneering eye surgeon in America. When tasked with restoring the sight of an orphan in India, who was blinded by her stepmother, Wang must confront the trauma of living through the violent uprising in his youth, the Cultural Revolution.",
+  "popularity": 2.9632,
+  "poster_path": "/tSkMkPyIT80YUc5RVRJNJ6Ps13G.jpg",
+  "production_companies": [
+    {
+      "id": 211985,
+      "logo_path": null,
+      "name": "Open River Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 113613,
+      "logo_path": "/bjBZiYQm3N5utVw90hHHV2eNvh4.png",
+      "name": "Reserve Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-05-24",
+  "revenue": 7,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The present is made possible by the past.",
+  "title": "Sight",
+  "video": false,
+  "vote_average": 6.135,
+  "vote_count": 37
+}

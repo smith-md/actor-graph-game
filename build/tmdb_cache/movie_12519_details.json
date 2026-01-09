@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/A0YCPfLrxv2xX0Hno9eFBEemYPL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 12519,
+  "imdb_id": "tt0111201",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Sirens",
+  "overview": "In 1930s Australia, Anglican clergyman Anthony Campion and his prim wife, Estella, are asked to visit noted painter Norman Lindsay, whose planned contribution to an international art exhibit is considered blasphemous. While Campion and Lindsay debate, Estella finds herself drawn to the three beautiful models sitting for the painter's current work, freethinking Sheela, sensual Pru and virginal Giddy.",
+  "popularity": 4.4359,
+  "poster_path": "/bOUDHgOlxANs1KsYZEsLSjZBTkd.jpg",
+  "production_companies": [
+    {
+      "id": 25159,
+      "logo_path": null,
+      "name": "British Screen Finance Ltd",
+      "origin_country": "GB"
+    },
+    {
+      "id": 25692,
+      "logo_path": null,
+      "name": "Sarah Radclyffe Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 186006,
+      "logo_path": null,
+      "name": "Samson Productions Pty. Ltd.",
+      "origin_country": "AU"
+    },
+    {
+      "id": 8923,
+      "logo_path": null,
+      "name": "WMG Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1994-03-04",
+  "revenue": 7770731,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love, Lust, Art and Religion",
+  "title": "Sirens",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 163
+}

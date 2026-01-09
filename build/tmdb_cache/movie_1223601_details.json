@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": "/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
+  "belongs_to_collection": {
+    "id": 1262937,
+    "name": "Sisu Collection",
+    "poster_path": "/vMJdvbDvISk2GtbsbGi1vodkusW.jpg",
+    "backdrop_path": "/dEiZ4HMNCXNr1abZIv6dfiyAd2Q.jpg"
+  },
+  "budget": 12200000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "https://sisuroadtorevenge.movie",
+  "id": 1223601,
+  "imdb_id": "tt31844586",
+  "origin_country": [
+    "FI"
+  ],
+  "original_language": "fi",
+  "original_title": "Sisu 2",
+  "overview": "Returning to the house where his family was brutally murdered during the war, ‘the man who refuses to die’ dismantles it, loads it on a truck, and is determined to rebuild it somewhere safe in their honor. When the commander who killed his family comes back hellbent on finishing the job, a relentless, eye-popping cross-country chase ensues.",
+  "popularity": 90.5001,
+  "poster_path": "/jNsttCWZyPtW66MjhUozBzVsRb7.jpg",
+  "production_companies": [
+    {
+      "id": 177094,
+      "logo_path": null,
+      "name": "Cosmic Snowball",
+      "origin_country": "FI"
+    },
+    {
+      "id": 182028,
+      "logo_path": "/mTsDayzbpU8eXyO99NfBOXP6C2U.png",
+      "name": "Good Chaos",
+      "origin_country": "GB"
+    },
+    {
+      "id": 62408,
+      "logo_path": null,
+      "name": "Subzero Film Entertainment",
+      "origin_country": "FI"
+    },
+    {
+      "id": 11341,
+      "logo_path": "/xytTBODEy3p20ksHL4Ftxr483Iv.png",
+      "name": "Stage 6 Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 3287,
+      "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+      "name": "Screen Gems",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-10-21",
+  "revenue": 9169696,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When they took his family, he took revenge.",
+  "title": "Sisu: Road to Revenge",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 427
+}

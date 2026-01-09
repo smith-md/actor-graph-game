@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/UJje4GZglCtC8ZtYY8T4jj1RHm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 72808,
+  "imdb_id": "tt0101548",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La carne",
+  "overview": "A beautiful film which is basically about a man, a piano player, who meets and falls in love with a beautiful and voluptuous woman, who, by some strange procedure, leaves the man unable to move but with a permanent priapism! After some time he becomes sick of it and she relieves his paralysis. Eventually she gets bored and decides to leave, but he can't take it because he loves her…",
+  "popularity": 4.7871,
+  "poster_path": "/5s9UarEgQWXHtZbm8fakXQnveRt.jpg",
+  "production_companies": [
+    {
+      "id": 110321,
+      "logo_path": null,
+      "name": "M.M.D. Rome",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1991-05-09",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Flesh",
+  "video": false,
+  "vote_average": 5.531,
+  "vote_count": 65
+}

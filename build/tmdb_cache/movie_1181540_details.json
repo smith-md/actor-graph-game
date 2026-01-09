@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/1KwliRKTw61fRGmbG4Sf8eWOHP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1181540,
+  "imdb_id": "tt28026215",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Guns Up",
+  "overview": "When a job goes horribly wrong, an ex-cop and family man who moonlights as a mob henchman has one night to get his family out of the city.",
+  "popularity": 8.3714,
+  "poster_path": "/3RokBWEkQqJRZEVP3DPwGm5MYh6.jpg",
+  "production_companies": [
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 121204,
+      "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital",
+      "origin_country": "US"
+    },
+    {
+      "id": 260327,
+      "logo_path": "/72LhEAyy5Y2f9PZyjoLb5saEsaQ.png",
+      "name": "Good Complex",
+      "origin_country": "US"
+    },
+    {
+      "id": 41735,
+      "logo_path": "/je9Ko1f6iu0AfLL3dINJEaxLvEb.png",
+      "name": "Buffalo 8",
+      "origin_country": "US"
+    },
+    {
+      "id": 268952,
+      "logo_path": null,
+      "name": "Lightnin' Production Rentals",
+      "origin_country": ""
+    },
+    {
+      "id": 243197,
+      "logo_path": null,
+      "name": "Rearview Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 215935,
+      "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
+      "name": "Gramercy Park Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-05-15",
+  "revenue": 198534,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Guns Up",
+  "video": false,
+  "vote_average": 6.506,
+  "vote_count": 164
+}

@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/lULtHGIa0d0mzlmpYmoZIdOC9dO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 49146,
+  "imdb_id": "tt0119825",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Oliver Twist",
+  "overview": "When 9-year-old orphan Oliver Twist dares to ask his cruel taskmaster, Mr. Bumble, for a second serving of gruel, he's hired out as an apprentice. Escaping that dismal fate, young Oliver falls in with the street urchin known as the Artful Dodger and his criminal mentor, Fagin. When kindly Mr. Brownlow takes Oliver in, Fagin's evil henchman Bill Sikes plots to kidnap the boy.",
+  "popularity": 2.9848,
+  "poster_path": "/zAYTgtQlQzFK8xGu6mREuOZTkJX.jpg",
+  "production_companies": [
+    {
+      "id": 415,
+      "logo_path": null,
+      "name": "Laurence Mark Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 670,
+      "logo_path": "/rRGi5UkwvdOPSfr5Xf42RZUsYgd.png",
+      "name": "Walt Disney Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1997-05-15",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Oliver Twist",
+  "video": false,
+  "vote_average": 6.206,
+  "vote_count": 114
+}

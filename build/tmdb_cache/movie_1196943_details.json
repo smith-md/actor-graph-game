@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/s37s21YPqS7txyB0x0TRel24vgi.jpg",
+  "belongs_to_collection": null,
+  "budget": 15800000,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1196943,
+  "imdb_id": "tt27922706",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "छावा",
+  "overview": "Shivaji's death sparks the Maratha-Mughal conflict. His son Sambhaji leads resistance against Aurangzeb's forces. Amid battles and intrigue, both sides face challenges in a struggle for power.",
+  "popularity": 3.7271,
+  "poster_path": "/ubRsrzb6NRW8YhVTJ6jG1kpNvCi.jpg",
+  "production_companies": [
+    {
+      "id": 86699,
+      "logo_path": null,
+      "name": "Maddock Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2025-02-14",
+  "revenue": 94988235,
+  "runtime": 161,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One warrior, one aim and one epic saga.",
+  "title": "Chhaava",
+  "video": false,
+  "vote_average": 6.896,
+  "vote_count": 48
+}

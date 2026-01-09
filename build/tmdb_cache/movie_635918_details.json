@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/kXwm3nfiLGjlbxdOfYcZ963TWuc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://www.altitudefilment.com/film/sales/69/beards",
+  "id": 635918,
+  "imdb_id": "tt7886936",
+  "origin_country": [
+    "IE"
+  ],
+  "original_language": "en",
+  "original_title": "Dating Amber",
+  "overview": "Eddie and Amber decide to stage a relationship in order to stop everyone speculating about their sexuality. Eddie is keen to follow his dad into the military, while Amber dreams of moving to the liberal hub of London. The plan seems solid, but as their arrangement begins to fall apart, Eddie’s denial gets deeper as Amber realizes that a perilous future awaits her best friend unless she intervenes.",
+  "popularity": 2.7054,
+  "poster_path": "/r9aro2Op31Bjp1DdOT3pfk3t3LR.jpg",
+  "production_companies": [
+    {
+      "id": 235583,
+      "logo_path": null,
+      "name": "Atomic 80",
+      "origin_country": ""
+    },
+    {
+      "id": 53509,
+      "logo_path": "/xmJMAss7BDsQPvODjYkDQKiNhUX.png",
+      "name": "Wrong Men",
+      "origin_country": "BE"
+    },
+    {
+      "id": 1898,
+      "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2020-07-03",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They have their secret.",
+  "title": "Dating Amber",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 177
+}

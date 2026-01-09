@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/5PD7GeOq9Npk7wz7QPz1MoK09Mh.jpg",
+  "belongs_to_collection": {
+    "id": 991946,
+    "name": "Satan's Slaves Collection",
+    "poster_path": "/heI32V3XGEjG1eDrbWhbi388zye.jpg",
+    "backdrop_path": null
+  },
+  "budget": 120000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 467012,
+  "imdb_id": "tt7076834",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "Pengabdi Setan",
+  "overview": "After dying from a strange illness that she suffered for three years, a mother returns home to pick up her children.",
+  "popularity": 5.5339,
+  "poster_path": "/k16xOaI9x5fqepxVwBwUJAozsW8.jpg",
+  "production_companies": [
+    {
+      "id": 7036,
+      "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+      "name": "CJ Entertainment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 7872,
+      "logo_path": "/5zodgZbBTlY5PAviS6KxOCyOlGH.png",
+      "name": "Rapi Films",
+      "origin_country": "ID"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    },
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2017-09-28",
+  "revenue": 9033726,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She comes back for the last child.",
+  "title": "Satan's Slaves",
+  "video": false,
+  "vote_average": 6.665,
+  "vote_count": 285
+}

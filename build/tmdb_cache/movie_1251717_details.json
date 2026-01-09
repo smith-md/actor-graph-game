@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/da1mXvCrQrFcw6BxovCavBFbIvz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.primevideo.com/detail/Vicious/0JS3TBF7WRKT49K48FDTU97CFT",
+  "id": 1251717,
+  "imdb_id": "tt31511689",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Vicious",
+  "overview": "When Polly receives a mysterious box, it comes with one rule: place inside something she needs, something she hates, and something she loves. If she doesn’t obey, it will consume everything—and everyone—she’s ever known.",
+  "popularity": 8.2487,
+  "poster_path": "/shKGDGrwqmc9x2aTJcQszoXinq0.jpg",
+  "production_companies": [
+    {
+      "id": 18239,
+      "logo_path": null,
+      "name": "Atlas Independent",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-19",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Give it something you hate, something you need, something you love.",
+  "title": "Vicious",
+  "video": false,
+  "vote_average": 5.988,
+  "vote_count": 209
+}

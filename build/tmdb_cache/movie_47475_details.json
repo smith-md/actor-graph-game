@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/sNMFqW8HCorpOQYpAOGXb7ADQSV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 47475,
+  "imdb_id": "tt0117102",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mr. Wrong",
+  "overview": "A single and lonely woman finds the seemingly perfect man to date, but soon regrets it when his deranged and possessive other personality emerges and worst still, she cannot convince anyone else of his Jekyll/Hyde true nature.",
+  "popularity": 5.1395,
+  "poster_path": "/csSkKS6rcGjG8jjpwKZPVCD7Kiq.jpg",
+  "production_companies": [
+    {
+      "id": 9195,
+      "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10227,
+      "logo_path": "/3YfRy3DBl4abcqkzGx4RVNz12yl.png",
+      "name": "Mandeville Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 12552,
+      "logo_path": null,
+      "name": "Marty Katz Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-02-16",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He loved her from afar. It wasn't far enough.",
+  "title": "Mr. Wrong",
+  "video": false,
+  "vote_average": 3.952,
+  "vote_count": 63
+}

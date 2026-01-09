@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/esdhJI8DcJuRJooQ7pAtK2ekNqE.jpg",
+  "belongs_to_collection": {
+    "id": 752992,
+    "name": "Hercule Poirot (Peter Ustinov) Collection",
+    "poster_path": "/pFYfM9sniKBoFLX81uGToyliLm5.jpg",
+    "backdrop_path": "/wkGMFnfRYU6kpPixHUZBxH08PjC.jpg"
+  },
+  "budget": 7920000,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 4192,
+  "imdb_id": "tt0077413",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Death on the Nile",
+  "overview": "As Hercule Poirot enjoys a luxurious cruise down the Nile, a newlywed heiress is found murdered on board and every elegant passenger becomes a prime suspect.",
+  "popularity": 3.896,
+  "poster_path": "/7qEymSp6wCT19AJxb7T3u6aKpi1.jpg",
+  "production_companies": [
+    {
+      "id": 1581,
+      "logo_path": null,
+      "name": "Mersham Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 538,
+      "logo_path": "/oGpxL5lFf8VpWsAQ6tut0on25LW.png",
+      "name": "EMI Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1978-09-29",
+  "revenue": 14560084,
+  "runtime": 140,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A murderer strikes on board the luxury Nile steamer Karnak – and Hercule Poirot faces his most baffling case.",
+  "title": "Death on the Nile",
+  "video": false,
+  "vote_average": 7.14,
+  "vote_count": 871
+}

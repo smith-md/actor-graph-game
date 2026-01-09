@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/iRl2k4TMhfESV2W3ygu3OmIVVwh.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "http://www.onthebasisofsexmovie.com",
+  "id": 339380,
+  "imdb_id": "tt4669788",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "On the Basis of Sex",
+  "overview": "Young lawyer Ruth Bader Ginsburg teams with her husband Marty to bring a groundbreaking case before the U.S. Court of Appeals and overturn a century of sex discrimination.",
+  "popularity": 4.1102,
+  "poster_path": "/izY9Le3QWtu7xkHq7bjJnuE5yGI.jpg",
+  "production_companies": [
+    {
+      "id": 6735,
+      "logo_path": "/pAQW38WU8ychBvYU2aGPTEbynEN.png",
+      "name": "Participant",
+      "origin_country": "US"
+    },
+    {
+      "id": 69484,
+      "logo_path": "/2xtmvbEse87LM7OJXVksv7DToZx.png",
+      "name": "Alibaba Pictures Group",
+      "origin_country": "CN"
+    },
+    {
+      "id": 99962,
+      "logo_path": null,
+      "name": "Robert Cort Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-12-25",
+  "revenue": 38755968,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Her story made history",
+  "title": "On the Basis of Sex",
+  "video": false,
+  "vote_average": 7.332,
+  "vote_count": 1101
+}

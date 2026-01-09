@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/vZK3f5N8Fv2LcyFYLwt6dz0HE1H.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://auraentertainment.com/aura/titles/code-3",
+  "id": 1161617,
+  "imdb_id": "tt26394837",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Code 3",
+  "overview": "A burned-out paramedic tries to survive his last 24 hours on the job while training a new recruit.",
+  "popularity": 16.9593,
+  "poster_path": "/gIAYMDb5mIAeCAj76q1sRsKjkzo.jpg",
+  "production_companies": [
+    {
+      "id": 144610,
+      "logo_path": "/879WnwsOH1oP6NlLY7ChD6vL6lh.png",
+      "name": "Wayfarer Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 23921,
+      "logo_path": "/simDvqT8y6jhP530ggUMbikvVKc.png",
+      "name": "Circle of Confusion",
+      "origin_country": "US"
+    },
+    {
+      "id": 248202,
+      "logo_path": null,
+      "name": "Electro Corduroy Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 248203,
+      "logo_path": null,
+      "name": "Realdream",
+      "origin_country": ""
+    },
+    {
+      "id": 248204,
+      "logo_path": null,
+      "name": "Silver Hearts Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-12",
+  "revenue": 12140,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The best medical care minimum wage can buy.",
+  "title": "Code 3",
+  "video": false,
+  "vote_average": 6.826,
+  "vote_count": 158
+}

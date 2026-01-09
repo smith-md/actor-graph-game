@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/v1zYiJJYeRoacgQWcJNVjmwauVC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 49979,
+  "imdb_id": "tt0204761",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Fidélité",
+  "overview": "A talented photographer who lands a lucrative job in Paris with a scandal-mongering tabloid and becomes romantically involved with an eccentric children's book publisher while resisting the sexual advances of another photographer.",
+  "popularity": 4.3249,
+  "poster_path": "/3nMKtqNHs69URTAgO85KxELfyn2.jpg",
+  "production_companies": [
+    {
+      "id": 11143,
+      "logo_path": null,
+      "name": "Madragoa Filmes",
+      "origin_country": "PT"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6584,
+      "logo_path": null,
+      "name": "Gemini Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "2000-04-05",
+  "revenue": 0,
+  "runtime": 166,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sometimes... There is a desire for another man.",
+  "title": "Fidelity",
+  "video": false,
+  "vote_average": 5.774,
+  "vote_count": 53
+}

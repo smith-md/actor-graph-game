@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/epWGHdO6rkttobpVxo0XVdlHdo3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.20thcenturystudios.com/movies/swiped",
+  "id": 1265344,
+  "imdb_id": "tt31909270",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Swiped",
+  "overview": "Whitney Wolfe uses extraordinary grit and ingenuity to break into the male-dominated tech industry.",
+  "popularity": 3.9109,
+  "poster_path": "/mEeFRU5ADkyP7JtOFFV8tYMm3zD.jpg",
+  "production_companies": [
+    {
+      "id": 127928,
+      "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 158529,
+      "logo_path": null,
+      "name": "Ethea Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-09",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Meet the woman who made the first move.",
+  "title": "Swiped",
+  "video": false,
+  "vote_average": 6.518,
+  "vote_count": 138
+}

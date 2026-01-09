@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/sAk9UwRR9eeFkAT2vKK7k6vAOPQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 1705000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 22744,
+  "imdb_id": "tt0036969",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Jane Eyre",
+  "overview": "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meet the dark, cold, and abrupt master of the house, Mr. Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Mr. Rochester's terrible secret be about to destroy it forever?",
+  "popularity": 3.7533,
+  "poster_path": "/stD4BQiN4TLNf6P5ju95AVRPdto.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1943-12-24",
+  "revenue": 3550000,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A love story every woman would die a thousand deaths to live!",
+  "title": "Jane Eyre",
+  "video": false,
+  "vote_average": 6.898,
+  "vote_count": 147
+}

@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/cqi6BIqbAQQg1xR3g9lAMx1YSGO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 108553,
+  "imdb_id": "tt0100611",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sibling Rivalry",
+  "overview": "Marjorie Turner is suffocating in her marriage and day to day life. An extramarital affair with a stranger seems to be the answer until her paramour has a fatal heart attack, and turns out to be less of a stranger than she could have thought...",
+  "popularity": 3.3958,
+  "poster_path": "/nBrfiqeiB8L6VU04NSZy1e3qc2v.jpg",
+  "production_companies": [
+    {
+      "id": 97,
+      "logo_path": "/qv3ih9pR9w2XNKZDsqDqAGuZjqc.png",
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 365,
+      "logo_path": "/3InSlF0bcc5zuObBGMQpDoSCjYV.png",
+      "name": "Nelson Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-10-26",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She did it. And boy, is she sorry.",
+  "title": "Sibling Rivalry",
+  "video": false,
+  "vote_average": 5.147,
+  "vote_count": 58
+}

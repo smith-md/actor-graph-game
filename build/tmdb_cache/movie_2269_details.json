@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/s0ChBkAuxCm1eNOkPvMccW9PMix.jpg",
+  "belongs_to_collection": {
+    "id": 3106,
+    "name": "World of Watches Collection",
+    "poster_path": "/oBhPtRA5UDIqTXZdIp1t5UFyqzz.jpg",
+    "backdrop_path": "/lL38dm9YfEfTAcognv3yhTmmV6X.jpg"
+  },
+  "budget": 4200000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.searchlightpictures.com/daywatch",
+  "id": 2269,
+  "imdb_id": "tt0409904",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Дневной дозор",
+  "overview": "A man who serves in the war between the forces of Light and Dark comes into possession of a device that can restore life to Moscow, which was nearly destroyed by an apocalyptic event.",
+  "popularity": 2.9245,
+  "poster_path": "/c99EkthlyDtdVh0xTaKsk9PRDg1.jpg",
+  "production_companies": [
+    {
+      "id": 1038,
+      "logo_path": "/o62j8ZNXmRTrq6ThviFWiL9zb8J.png",
+      "name": "Bazelevs",
+      "origin_country": "RU"
+    },
+    {
+      "id": 1040,
+      "logo_path": "/A2L91XUbTm6FWQD631oOQ0HxuTb.png",
+      "name": "Tabbak",
+      "origin_country": "RU"
+    },
+    {
+      "id": 1039,
+      "logo_path": "/vTDwphEW5Ikiqu6UxrRCzhfFcVo.png",
+      "name": "Channel One",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2006-01-01",
+  "revenue": 42918532,
+  "runtime": 146,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The second chapter in the epic fantasy trilogy",
+  "title": "Day Watch",
+  "video": false,
+  "vote_average": 6.136,
+  "vote_count": 573
+}

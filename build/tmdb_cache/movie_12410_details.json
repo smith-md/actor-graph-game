@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/xzDSOYk2WpbDZDSynFsN9S1Uv0M.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 12410,
+  "imdb_id": "tt0436364",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Good",
+  "overview": "When John Halder's latest novel is enlisted by powerful political figures in the Nazi party to push their agenda, his career and social standing instantly advance. But after learning of the Reich's horrific plans for the future and the devastating effects they will have on people close to him, John must decide whether or not to take a stand and risk losing everything.",
+  "popularity": 4.4437,
+  "poster_path": "/AgNssumEnPaT6kzzJyj4oLypOOG.jpg",
+  "production_companies": [
+    {
+      "id": 130197,
+      "logo_path": null,
+      "name": "Good Films Collective",
+      "origin_country": "US"
+    },
+    {
+      "id": 85569,
+      "logo_path": null,
+      "name": "Miromar Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-12-31",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Evil triumphs when good men do nothing.",
+  "title": "Good",
+  "video": false,
+  "vote_average": 6.097,
+  "vote_count": 159
+}

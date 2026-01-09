@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/PnVnb629Y4iD4alVm4uROy5P6Q.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1321412,
+  "imdb_id": "tt33298226",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "À bicyclette !",
+  "overview": "From the Atlantic to the Black Sea, Mathias and Philippe, two old friends, embark on a bicycle journey that Mathias’s son made before his tragic death. The two men ride through the ordeals with tenderness, humor and emotion.",
+  "popularity": 4.2144,
+  "poster_path": "/lBWfBI9LFLtiDKpxrDFICC2bv0b.jpg",
+  "production_companies": [
+    {
+      "id": 58668,
+      "logo_path": "/fQuxB2LBtBXObebsSWA17sW8zFT.png",
+      "name": "M.E.S. Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11778,
+      "logo_path": "/rIiLv4yt20WOQAk1HD1EvLOfDgh.png",
+      "name": "F Comme Film",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-02-26",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ride Away",
+  "video": false,
+  "vote_average": 7.199,
+  "vote_count": 88
+}

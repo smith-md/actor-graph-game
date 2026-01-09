@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/rjw4AXWCJ3AYmmM2CkNOD6LcGT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 770724,
+  "imdb_id": "tt13051724",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "L'immensità",
+  "overview": "Clara and Felice struggle to raise their three children in 1970s Rome. The eldest, Andrea, is transgender and yearns for another life where he gets to live as the boy he knows himself to be. Clara instinctively strives to protect her son by escaping into their imaginations to defuse family tensions.",
+  "popularity": 4.3475,
+  "poster_path": "/8zVoxTnEXEbCAv4BCJRvb54sJKl.jpg",
+  "production_companies": [
+    {
+      "id": 21246,
+      "logo_path": "/e5NWP10OYWCUa0T363WxkNzL78s.png",
+      "name": "Wildside",
+      "origin_country": "IT"
+    },
+    {
+      "id": 20339,
+      "logo_path": "/zPj4RPXztwznZcKDef583wqKERy.png",
+      "name": "Chapter 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12923,
+      "logo_path": null,
+      "name": "Warner Bros Pictures Italia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 7981,
+      "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+      "name": "Pathé",
+      "origin_country": "FR"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2022-09-15",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "L'immensità",
+  "video": false,
+  "vote_average": 6.309,
+  "vote_count": 225
+}

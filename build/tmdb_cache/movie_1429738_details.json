@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/xmnqFHhGNYHf5JFy4GSfiIEG0ly.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81739747",
+  "id": 1429738,
+  "imdb_id": "tt35669044",
+  "origin_country": [
+    "TH"
+  ],
+  "original_language": "th",
+  "original_title": "ตี๋ใหญ่ ฤกษ์ดาวโจร",
+  "overview": "In 1980s Bangkok, a wily thief stages a series of daring heists, baffling the authorities and the public — until one cop sets out to take him down.",
+  "popularity": 9.9415,
+  "poster_path": "/ig00LBM2rv4fmCJOPATyRWOJnlL.jpg",
+  "production_companies": [
+    {
+      "id": 207401,
+      "logo_path": null,
+      "name": "18 Tanwa",
+      "origin_country": "TH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "release_date": "2025-11-12",
+  "revenue": 0,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Meet the \"King of Thieves\", whose life is coming to an end.",
+  "title": "Tee Yai: Born to Be Bad",
+  "video": false,
+  "vote_average": 5.1,
+  "vote_count": 42
+}

@@ -1,0 +1,46 @@
+{
+  "adult": false,
+  "backdrop_path": "/cX8dX9njl9VYPkTLMMvzZufEVjv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 98022,
+  "imdb_id": "tt2081167",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Amazing Love",
+  "overview": "Teen friends, Steve, Carrie, Cooper, and Gameboy embark on a weekend camping trip lead by their church youth group leader Stuart and his wife Beth. Joining them is an outsider Ashley, a self-involved rich kid, whose attitude causes a major commotion within the group, specifically between her and Carrie. Before it gets too out of hand though, Stuart takes this opportunity to share with the kids the incredibly powerful biblical story of Hosea; a story of immovable faith, impeccable commitment, and impervious love.",
+  "popularity": 4.6997,
+  "poster_path": "/3EqbA1E399gjRuCusHjzykCvY2u.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-11-06",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Amazing Love",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 29
+}

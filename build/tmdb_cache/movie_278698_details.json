@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/6Hi2ABmZiPOw7lbH4NYSnbDhiEx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 278698,
+  "imdb_id": "tt1900832",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Avatar Spirits",
+  "overview": "Bryan Konietzko and Michael Dante DiMartino, co-creators of the hit television series, Avatar: The Last Airbender, reflect on the creation of the masterful series.",
+  "popularity": 3.9157,
+  "poster_path": "/oBWVyOdntLJd5bBpE0wkpN6B6vy.jpg",
+  "production_companies": [
+    {
+      "id": 165386,
+      "logo_path": null,
+      "name": "Prologue Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-06-22",
+  "revenue": 0,
+  "runtime": 32,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In 2002, two friends set out to create a groundbreaking animated epic. This is their story.",
+  "title": "Avatar Spirits",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 38
+}

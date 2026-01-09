@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/pZ00Rcw888SFzpjlAErm8uQWUuW.jpg",
+  "belongs_to_collection": null,
+  "budget": 2100,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 30645,
+  "imdb_id": "tt0064683",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mondo Trasho",
+  "overview": "A day in the lives of a hit-and-run driver and her victim, and the bizarre things that happen to them before and after they collide (sexual assault by a crazed foot-fetishist, visions of the Virgin Mary, strange chicken-foot grafting operations).",
+  "popularity": 3.5247,
+  "poster_path": "/yxMYVGGnX4lo8S5zYfZpCDWtnte.jpg",
+  "production_companies": [
+    {
+      "id": 38223,
+      "logo_path": null,
+      "name": "Dreamland",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1969-03-14",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "At Last... A \"Gutter Film\"",
+  "title": "Mondo Trasho",
+  "video": false,
+  "vote_average": 5.083,
+  "vote_count": 36
+}

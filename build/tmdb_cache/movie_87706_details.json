@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/bjT7eI9xqSvYgqRrjkDaxNmrErq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 87706,
+  "imdb_id": "tt0079027",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Dark",
+  "overview": "At night the Mangler stalks the streets of Los Angeles, killing and mutilating random victims. On the trail are a TV reporter, the father of one of the victims, and a police detective, but despite their efforts only the mysterious psychic DeRenzy knows what the killer is and how to stop it.",
+  "popularity": 3.0753,
+  "poster_path": "/iZygDHDL6FAzYJCqhINtYwCR7oK.jpg",
+  "production_companies": [
+    {
+      "id": 4805,
+      "logo_path": null,
+      "name": "Film Ventures International",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1979-04-27",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An alien mutilator stalks and kills human prey during the night.",
+  "title": "The Dark",
+  "video": false,
+  "vote_average": 4.614,
+  "vote_count": 35
+}

@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/lfLVH3F8Xt8nITqG9cn97b54au1.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 10734,
+  "imdb_id": "tt0079116",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Escape from Alcatraz",
+  "overview": "San Francisco Bay, January 18, 1960. Frank Lee Morris is transferred to Alcatraz, a maximum security prison located on a rocky island. Although no one has ever managed to escape from there, Frank and other inmates begin to carefully prepare an escape plan.",
+  "popularity": 4.2357,
+  "poster_path": "/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 171,
+      "logo_path": "/bqLWwuNCHcY3IjB5e4o29h7l80D.png",
+      "name": "Malpaso Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1979-06-22",
+  "revenue": 43004381,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No one has ever escaped from Alcatraz… and no one ever will!",
+  "title": "Escape from Alcatraz",
+  "video": false,
+  "vote_average": 7.504,
+  "vote_count": 3038
+}

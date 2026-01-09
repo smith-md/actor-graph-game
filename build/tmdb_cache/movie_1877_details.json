@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/Ak4qIGjRY2CYrTTB1VsM9i9nF13.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1877,
+  "imdb_id": "tt0104115",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Doctor Mordrid",
+  "overview": "Bound by hate and a mystical amulet that holds the powers of life and death, two immortal wizards meet for the last time in an ancient struggle of good versus evil.",
+  "popularity": 2.806,
+  "poster_path": "/zH9TkMZHSVRokg6vyyeLdu5SJxf.jpg",
+  "production_companies": [
+    {
+      "id": 4867,
+      "logo_path": "/ifNDQE2NMX3QAJgX0517FZMkLq5.png",
+      "name": "Full Moon Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-11-02",
+  "revenue": 0,
+  "runtime": 74,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Doctor Mordrid will have you believing in magic all over again!",
+  "title": "Doctor Mordrid",
+  "video": false,
+  "vote_average": 5.108,
+  "vote_count": 65
+}

@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/boprqXZexBatujVC07gZzzxjWk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1109406,
+  "imdb_id": "tt26744645",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Compulsion",
+  "overview": "Two women—Diana, a flamboyant and ruthless thief, and Evie, a seemingly innocent young woman with a troubled past—become embroiled in a series of horrific murders on the island of Malta.",
+  "popularity": 4.9118,
+  "poster_path": "/bBbSvahNRfr4iJjI6GhrkFYvTkK.jpg",
+  "production_companies": [
+    {
+      "id": 68755,
+      "logo_path": null,
+      "name": "Cork Films",
+      "origin_country": ""
+    },
+    {
+      "id": 8464,
+      "logo_path": null,
+      "name": "Do Productions",
+      "origin_country": "ZA"
+    },
+    {
+      "id": 251012,
+      "logo_path": null,
+      "name": "Primal Empire Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 14262,
+      "logo_path": "/x04bvG6G7J3EfweMELPmTRnYwSL.png",
+      "name": "Templeheart Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-11-10",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Desire is a dangerous game.",
+  "title": "Compulsion",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 22
+}

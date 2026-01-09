@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/sHgzLcGV1SLTxXZxy5JWM6A3nTQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/veneciafrenia",
+  "id": 756681,
+  "imdb_id": "tt12412166",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Veneciafrenia",
+  "overview": "When a group of young Spanish tourists travel to Venice for a bachelorette party, they are met by angry locals who are not keen on foreigners and soon they find themselves fighting for their lives.",
+  "popularity": 3.2119,
+  "poster_path": "/90ZsEVSiZZABzO8bh1OcqguomIn.jpg",
+  "production_companies": [
+    {
+      "id": 32485,
+      "logo_path": "/fVXreZkiJTOq1cCi6htSQlPSy7R.png",
+      "name": "Pokeepsie Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 103476,
+      "logo_path": "/1Wj9FXynetoCaNxUoBRvKxcKDsB.png",
+      "name": "Mogambo Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 208240,
+      "logo_path": "/hYREaYiVyoGVP26CbDpAWD3wDRD.png",
+      "name": "Amazon Studios",
+      "origin_country": "ES"
+    },
+    {
+      "id": 63520,
+      "logo_path": "/ytQNtv7i4wtkuLyguqRLC0FX8GL.png",
+      "name": "Sony Pictures International Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 276536,
+      "logo_path": null,
+      "name": "Elio Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2022-04-22",
+  "revenue": 543561,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Veneciafrenia",
+  "video": false,
+  "vote_average": 6.002,
+  "vote_count": 236
+}

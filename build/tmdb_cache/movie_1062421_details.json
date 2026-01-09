@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/miL1LsOOKGwG7621RPmVPitjW9R.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1062421,
+  "imdb_id": "tt22399738",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sweet Dreams",
+  "overview": "Morris navigates his way through a mandatory stay at Sweet Dreams sober living. In an attempt to get his life back on track, he agrees to coach a misfit softball team of his fellow housemates.",
+  "popularity": 7.0733,
+  "poster_path": "/e1TyT5umEoAM2SXQIp7OwNBn7Hv.jpg",
+  "production_companies": [
+    {
+      "id": 188569,
+      "logo_path": "/qNIySI0i5IMgHXZDqdV6KKADemy.png",
+      "name": "1993",
+      "origin_country": "US"
+    },
+    {
+      "id": 188570,
+      "logo_path": null,
+      "name": "The Barnum Picture Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 116018,
+      "logo_path": null,
+      "name": "Green Light Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 20312,
+      "logo_path": "/iYmytRQt5jqlBIEaMQ0Cb6iAHh8.png",
+      "name": "TPC",
+      "origin_country": "US"
+    },
+    {
+      "id": 224001,
+      "logo_path": null,
+      "name": "Gravel",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-04-12",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sweet Dreams",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 31
+}

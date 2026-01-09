@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/qVQmGToej01BjzZ1FUPGKNSiK7n.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 31643,
+  "imdb_id": "tt0110197",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Jimmy Hollywood",
+  "overview": "Jimmy Alto is an actor wannabe who stumbles into the role of a lifetime. He becomes a vigilante crime-fighter, aided by his sidekick William, who has suffered a head wound and has problems with short-term memory. Jimmy's vigilante alter ego soon becomes a media wonder--but Jimmy remains a total unknown and his long-suffering girl friend Lorraine is getting fed up with the whole situation.",
+  "popularity": 4.2517,
+  "poster_path": "/sTLLLD6shSp6lrbIKa4v5N4wDso.jpg",
+  "production_companies": [
+    {
+      "id": 11407,
+      "logo_path": "/qPYLq3Q7BijSn1l11zz0Ax7o3E2.png",
+      "name": "Baltimore Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-03-30",
+  "revenue": 3800000,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One thing stands between Jimmy and stardom. Reality.",
+  "title": "Jimmy Hollywood",
+  "video": false,
+  "vote_average": 5.154,
+  "vote_count": 68
+}

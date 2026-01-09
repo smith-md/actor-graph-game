@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/5HfY4YoMDwbPSrvKOoO9FPr9t0j.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 20391,
+  "imdb_id": "tt0064782",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Paint Your Wagon",
+  "overview": "A Michigan farmer and a prospector form a partnership in the California gold country. Their adventures include buying and sharing a wife, hijacking a stage, kidnapping six prostitutes, and turning their mining camp into a boom town. Along the way there is plenty of drinking, gambling, and singing. They even find time to do some creative gold mining.",
+  "popularity": 3.441,
+  "poster_path": "/fwnYGuba3ZSM2bXwBZZs4DqqKTl.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 12049,
+      "logo_path": null,
+      "name": "Alan Jay Lerner Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 171,
+      "logo_path": "/bqLWwuNCHcY3IjB5e4o29h7l80D.png",
+      "name": "Malpaso Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1969-10-15",
+  "revenue": 31678778,
+  "runtime": 164,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Stake Your Claim To The Musical Goldmine of '69!",
+  "title": "Paint Your Wagon",
+  "video": false,
+  "vote_average": 6.328,
+  "vote_count": 268
+}

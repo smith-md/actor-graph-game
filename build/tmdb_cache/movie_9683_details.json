@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/vUq8oKAnONAbYxIDNw4CQcEuADd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 9683,
+  "imdb_id": "tt0258470",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bubble Boy",
+  "overview": "Jimmy is a young man who was born without an immune system and has lived his life within a plastic bubble in his bedroom... who pines for the sweet caresses of girl-next-door Chloe. But when Chloe decides to marry her high school boyfriend, Jimmy – bubble suit and all – treks cross-country to stop her.",
+  "popularity": 6.4104,
+  "poster_path": "/tFwvUSc8g0HHvDOBQ2rvC9LWVSj.jpg",
+  "production_companies": [
+    {
+      "id": 9195,
+      "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 377,
+      "logo_path": null,
+      "name": "Bandeira Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2001-08-24",
+  "revenue": 5007209,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Life is an adventure. Don't blow it.",
+  "title": "Bubble Boy",
+  "video": false,
+  "vote_average": 5.745,
+  "vote_count": 611
+}

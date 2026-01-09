@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/vgT0kAaWU88do5RrCfHhXRVPnXM.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://bleeckerstreetmedia.com/the-return",
+  "id": 975511,
+  "imdb_id": "tt19861162",
+  "origin_country": [
+    "GR",
+    "IT",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Return",
+  "overview": "After twenty years away, Odysseus washes up on the shores of Ithaca, haggard and unrecognizable. The king has finally returned home, but much has changed in his kingdom since he left to fight in the Trojan war.",
+  "popularity": 4.2678,
+  "poster_path": "/xSj6EbdwHs3MFT2tRj9L3I7TE5j.jpg",
+  "production_companies": [
+    {
+      "id": 94785,
+      "logo_path": "/u1DBUwYHOPsbTB7ZTqmg2kwfRQU.png",
+      "name": "Picomedia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 8764,
+      "logo_path": null,
+      "name": "Redwave Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 76888,
+      "logo_path": "/eQzzrPMtHbgAxKgQysFH73mHaHF.png",
+      "name": "Heretic",
+      "origin_country": "GR"
+    },
+    {
+      "id": 118121,
+      "logo_path": null,
+      "name": "Kabo Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 149633,
+      "logo_path": "/1LT1nCWM3A8D2KSLoQkbbFnWGRh.png",
+      "name": "Marvelous Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 149894,
+      "logo_path": null,
+      "name": "Ithaca Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-11-28",
+  "revenue": 3300444,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some legends are more than myths.",
+  "title": "The Return",
+  "video": false,
+  "vote_average": 6.524,
+  "vote_count": 379
+}

@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/cCvM5imkUyvO17eryldxwUfvOa2.jpg",
+  "belongs_to_collection": {
+    "id": 1289801,
+    "name": "Costa Collectie",
+    "poster_path": "/hjCsyFDBV3Nxt79Ep2KIGVso9j.jpg",
+    "backdrop_path": null
+  },
+  "budget": 2498210,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 73678,
+  "imdb_id": "tt0270891",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "Costa!",
+  "overview": "The story about a wild week at the Spanish coast. Romance at the beach, competition on the dance floor. Salty water, sweet kisses...",
+  "popularity": 2.9859,
+  "poster_path": "/nQJASZFsnzYqMTHmiX4jnQNNWQz.jpg",
+  "production_companies": [
+    {
+      "id": 12046,
+      "logo_path": "/wauD5HrRmaR5TdQr0ylGTLyifpQ.png",
+      "name": "Fu Works",
+      "origin_country": "NL"
+    },
+    {
+      "id": 62404,
+      "logo_path": null,
+      "name": "Solo Film Company BV",
+      "origin_country": ""
+    },
+    {
+      "id": 96905,
+      "logo_path": "/tEmGTKWCPz87Gl7ZExY4k7Ks9GQ.png",
+      "name": "BNN",
+      "origin_country": "NL"
+    },
+    {
+      "id": 60652,
+      "logo_path": "/pNlPbnwBkKgZsc2yXrDmkakCOyb.png",
+      "name": "Johan Nijenhuis & Co",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2001-03-01",
+  "revenue": 4810190,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Costa!",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 30
+}

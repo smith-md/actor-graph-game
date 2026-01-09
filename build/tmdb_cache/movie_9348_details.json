@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/tEHmWaIzM0nuFi1CKQL8mJdJZsT.jpg",
+  "belongs_to_collection": {
+    "id": 9887,
+    "name": "Species Collection",
+    "poster_path": "/ucFAYoB8Ko9oCNSn5Nc7xpYMKXj.jpg",
+    "backdrop_path": "/azNgAdFCaKH5q15MjscigO57QQ7.jpg"
+  },
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 9348,
+  "imdb_id": "tt0114508",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Species",
+  "overview": "In 1993, the Search for Extra Terrestrial Intelligence Project receives a transmission detailing an alien DNA structure, along with instructions on how to splice it with human DNA. The result is Sil, a sensual but deadly creature who can change from a beautiful woman to an armour-plated killing machine in the blink of an eye.",
+  "popularity": 5.0058,
+  "poster_path": "/cT5wdyo8kT7dycqjrolJ2sHWkFx.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    },
+    {
+      "id": 2347,
+      "logo_path": null,
+      "name": "FGM Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-07-07",
+  "revenue": 113400000,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "For three million years, the human race has been at the top of the evolutionary ladder. Nothing lasts forever.",
+  "title": "Species",
+  "video": false,
+  "vote_average": 5.972,
+  "vote_count": 1780
+}

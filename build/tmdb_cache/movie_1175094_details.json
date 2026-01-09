@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/hG2wTlRLNa1FZinSWVUppyBuoKu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1175094,
+  "imdb_id": "tt29290741",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Eravamo bambini",
+  "overview": "In a police station in a small village, a sergeant interrogates a young and frightened postman, known as \"Cacasotto\". He, normally known for being calm and good-hearted, was arrested for having threatened a policeman on patrol with a knife. Eventually, Cacasotto begins to speak with the cop. And he tells what happened twenty years earlier to him and to his five best friends: Gianluca, Walter, Peppino, Margherita and his little brother, Andrea.",
+  "popularity": 3.4562,
+  "poster_path": "/gm7qGYaAENEim5aJM3K30HDGQUB.jpg",
+  "production_companies": [
+    {
+      "id": 115535,
+      "logo_path": "/mYoc1K3UPAUqKfuCYkvDLJN2aAA.png",
+      "name": "Vision Distribution",
+      "origin_country": "IT"
+    },
+    {
+      "id": 21246,
+      "logo_path": "/e5NWP10OYWCUa0T363WxkNzL78s.png",
+      "name": "Wildside",
+      "origin_country": "IT"
+    },
+    {
+      "id": 12377,
+      "logo_path": "/yL9lfoO2IX6sssqEJuifsOPgcxP.png",
+      "name": "Minerva Pictures",
+      "origin_country": "IT"
+    },
+    {
+      "id": 80296,
+      "logo_path": null,
+      "name": "Europictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2024-03-21",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "We Were Children",
+  "video": false,
+  "vote_average": 6.545,
+  "vote_count": 22
+}

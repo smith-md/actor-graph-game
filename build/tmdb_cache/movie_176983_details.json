@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/cHc7wnX6AIo71gUhwTo6IsAFirO.jpg",
+  "belongs_to_collection": {
+    "id": 23456,
+    "name": "One Piece Collection",
+    "poster_path": "/89eVIW6qPr2x6DrsphrqKQAoMRM.jpg",
+    "backdrop_path": "/3RqSKjokWlXyTBUt3tcR9CrOG57.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 176983,
+  "imdb_id": "tt2375379",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ONE PIECE FILM Z",
+  "overview": "Zephyr, now known as Z, rides the seas with only one goal: Destroy all pirates and their dreams at becoming King of Pirates. When Luffy and his crew encounter him at sea, not only are they utterly defeated by the man with an arm made of Seastone, Nami, Robin, and Chopper are turned 10 years younger due to Z's minion Ain. Luffy is so determined to win against him that he does not even notice Z's master plan that could sacrifice thousands of lives.",
+  "popularity": 4.1449,
+  "poster_path": "/dd0HwfxstffjRgbBcQvtw3uqS6O.jpg",
+  "production_companies": [
+    {
+      "id": 5542,
+      "logo_path": "/ayE4LIqoAWotavo7xdvYngwqGML.png",
+      "name": "Toei Animation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 50411,
+      "logo_path": null,
+      "name": "Yasahi-Mation Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 5822,
+      "logo_path": "/qyTbRgCyU9NLKvKaiQVbadtr7RY.png",
+      "name": "Toei Company",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3341,
+      "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+      "name": "Fuji Television Network",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2918,
+      "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+      "name": "Shueisha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 155586,
+      "logo_path": "/rogLuRSNdqLI9r29ZCzD0i0kfJW.png",
+      "name": "Bandai",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2012-12-15",
+  "revenue": 74223861,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The most wanted pirate in history... is about to save the world!",
+  "title": "One Piece Film: Z",
+  "video": false,
+  "vote_average": 7.484,
+  "vote_count": 545
+}

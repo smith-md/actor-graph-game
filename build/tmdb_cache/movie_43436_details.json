@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/wKnPgDWpQRLDnpzNUeb1p8IKsKt.jpg",
+  "belongs_to_collection": null,
+  "budget": 2776000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 43436,
+  "imdb_id": "tt0041594",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Little Women",
+  "overview": "Four sisters come of age in America in the aftermath of the Civil War.",
+  "popularity": 4.6373,
+  "poster_path": "/qrshhX8dywIOljtITGHGNK6TJcB.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1949-03-10",
+  "revenue": 5910000,
+  "runtime": 121,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "THRILLS OF YOUNG LOVE!",
+  "title": "Little Women",
+  "video": false,
+  "vote_average": 7.384,
+  "vote_count": 224
+}

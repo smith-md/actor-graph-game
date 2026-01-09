@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/1IAfcPyenMK6tiV4lopm2tMSRgS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 444490,
+  "imdb_id": "tt5798432",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sequence Break",
+  "overview": "A reclusive video arcade technician experiences bizarre biomechanical mutations and hallucinations when a mysterious new arcade machine appears in his shop.",
+  "popularity": 3.7709,
+  "poster_path": "/5mWMJK4EA58NXmSfBa1kUelGcP6.jpg",
+  "production_companies": [
+    {
+      "id": 85230,
+      "logo_path": null,
+      "name": "Destroy All Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 105901,
+      "logo_path": null,
+      "name": "The Basement Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-07-18",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It will pull you in.",
+  "title": "Sequence Break",
+  "video": false,
+  "vote_average": 4.488,
+  "vote_count": 41
+}

@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/2Bii9A3IibMrzmYOahsbC5hUMUm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.focusfeatures.com/didi",
+  "id": 1158915,
+  "imdb_id": "tt30319503",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dìdi (弟弟)",
+  "overview": "In 2008, during the last month of summer before high school begins, an impressionable 13-year-old Taiwanese American boy learns what his family can't teach him: how to skate, how to flirt, and how to love your mom.",
+  "popularity": 5.5897,
+  "poster_path": "/3UCTNaZgxW6BbeHMMTe6uL07MpV.jpg",
+  "production_companies": [
+    {
+      "id": 216060,
+      "logo_path": "/h42S9Av3sIaHMGF8egYrAN1elo0.png",
+      "name": "Unapologetic Projects",
+      "origin_country": "US"
+    },
+    {
+      "id": 191842,
+      "logo_path": "/aGne4vOerQTqqMLnGLRzaDGYCtx.png",
+      "name": "Spark Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 205236,
+      "logo_path": "/yETnxIFACP6UYFgV8BmINw4xbGU.png",
+      "name": "Antigravity Academy",
+      "origin_country": "US"
+    },
+    {
+      "id": 41641,
+      "logo_path": "/rBlfMlCcxulmS25zTQwmXDHZmnB.png",
+      "name": "Maiden Voyage Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 218427,
+      "logo_path": null,
+      "name": "Cedar Road",
+      "origin_country": "US"
+    },
+    {
+      "id": 218428,
+      "logo_path": "/kN6S7kKIAFUyV2MyUveUhO3955Y.png",
+      "name": "Liucrative Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-07-26",
+  "revenue": 5067608,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "For anyone who's ever been a teenager.",
+  "title": "Dìdi (弟弟)",
+  "video": false,
+  "vote_average": 7.191,
+  "vote_count": 183
+}

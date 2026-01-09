@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/f3xcA9b0Hl02PNLu9DRPe6S1A7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "http://www.ronalthebarbarian.com/",
+  "id": 79433,
+  "imdb_id": "tt1629374",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Ronal Barbaren",
+  "overview": "Ronal is a young barbarian with low self-esteem, the polar opposite of all the muscular barbarians in his village. He's a real wuss. However, as fate would have it, responsibility for the tribe's survival falls on Ronal's scrawny shoulders, when the evil Lord Volcazar raids the village and abducts every living barbarian with the exception of Ronal, who is forced to go on a perilous quest to save his enslaved clan and thwart Volcazar’s plot to rule the world.",
+  "popularity": 3.4081,
+  "poster_path": "/vT8m9Ji4mrUExpuIX0LGjMPHEHX.jpg",
+  "production_companies": [
+    {
+      "id": 235,
+      "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+      "name": "Nordisk Film Denmark",
+      "origin_country": "DK"
+    },
+    {
+      "id": 93732,
+      "logo_path": null,
+      "name": "Einstein Film",
+      "origin_country": ""
+    },
+    {
+      "id": 758,
+      "logo_path": "/fft3jrctrZNcgAxgN1w5Givtzip.png",
+      "name": "TV 2",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "release_date": "2011-09-27",
+  "revenue": 2400000,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Babes, balls and muscles in 3D for the whole family",
+  "title": "Ronal the Barbarian",
+  "video": false,
+  "vote_average": 6.133,
+  "vote_count": 311
+}

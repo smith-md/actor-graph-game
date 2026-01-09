@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/bGuGorGm3DXUfghtb4fnJX8szEg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1160923,
+  "imdb_id": "tt5613018",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "DarkGame",
+  "overview": "A determined detective is in a race against time to stop a twisted game show on the dark web, where captives are forced to compete for their lives.",
+  "popularity": 3.018,
+  "poster_path": "/kaARRhlsuJGnpOGeDmIhraxmOxi.jpg",
+  "production_companies": [
+    {
+      "id": 112164,
+      "logo_path": "/hs1iHVrBvQzQPakkuMEzD6YJby7.png",
+      "name": "Principal Film Finance",
+      "origin_country": "GB"
+    },
+    {
+      "id": 215418,
+      "logo_path": null,
+      "name": "JCG Bits Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 112163,
+      "logo_path": null,
+      "name": "Happy Hour Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 38078,
+      "logo_path": null,
+      "name": "Happy Hour Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-02-29",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You lose, you die.",
+  "title": "DarkGame",
+  "video": false,
+  "vote_average": 5.149,
+  "vote_count": 47
+}

@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/iwCti1LGupsMjCzuhaccUA4OZfo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 745881,
+  "imdb_id": "tt13446168",
+  "origin_country": [
+    "TH"
+  ],
+  "original_language": "th",
+  "original_title": "ร่างทรง",
+  "overview": "A shaman's family learn that their goddess is supposedly controlling one of them. However, their lives take a frightening turn when they realise the goddess has nothing to do with the possession.",
+  "popularity": 4.8675,
+  "poster_path": "/tWoSE8SH6XhgWKHIL3p0sj7lA3V.jpg",
+  "production_companies": [
+    {
+      "id": 150211,
+      "logo_path": null,
+      "name": "Northern Cross",
+      "origin_country": ""
+    },
+    {
+      "id": 3491,
+      "logo_path": "/hXRKXi3M9qfP4Npi1kjAaH4eGnM.png",
+      "name": "Showbox",
+      "origin_country": "KR"
+    },
+    {
+      "id": 11590,
+      "logo_path": "/7OOrgnVw0RAX3tq8ikWUmNud8qT.png",
+      "name": "Finecut",
+      "origin_country": "KR"
+    },
+    {
+      "id": 93758,
+      "logo_path": "/g5TvAwkWnZyoZtVTpGo9eQT2EQ1.png",
+      "name": "GDH 559",
+      "origin_country": "TH"
+    },
+    {
+      "id": 8450,
+      "logo_path": "/A9Fyxru0SLt09ygbqahW4z2i6y4.png",
+      "name": "Jor Kwang Films",
+      "origin_country": "TH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    },
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "release_date": "2021-07-14",
+  "revenue": 7230000,
+  "runtime": 131,
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A story about shamanism in Thailand.",
+  "title": "The Medium",
+  "video": false,
+  "vote_average": 6.993,
+  "vote_count": 714
+}

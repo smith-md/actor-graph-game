@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/5KWXtqlJZmjgEJCisDk49eCUE5g.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 26347,
+  "imdb_id": "tt0360845",
+  "origin_country": [
+    "FR",
+    "CH"
+  ],
+  "original_language": "fr",
+  "original_title": "Notre musique",
+  "overview": "A three-chapter (Hell, Purgatory and Paradise) meditation on the city of Sarajevo in the wake of the Bosnian war, on Palestine and Israel, and on war itself.",
+  "popularity": 4.0019,
+  "poster_path": "/xdVNsn6om2DHOeRyyQtyrYqWKHF.jpg",
+  "production_companies": [
+    {
+      "id": 4491,
+      "logo_path": null,
+      "name": "Avventura Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1245,
+      "logo_path": "/suKdkPTtHn0DzGYmrXCA506dJON.png",
+      "name": "TSR",
+      "origin_country": "CH"
+    },
+    {
+      "id": 33266,
+      "logo_path": null,
+      "name": "Périphéria",
+      "origin_country": "FR"
+    },
+    {
+      "id": 8138,
+      "logo_path": "/4P6c8TiJZhL2z7b0LbPOUTZwP4z.png",
+      "name": "Vega Film",
+      "origin_country": "CH"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 14983,
+      "logo_path": null,
+      "name": "DFI",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2004-11-24",
+  "revenue": 293681,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Notre Musique",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 38
+}

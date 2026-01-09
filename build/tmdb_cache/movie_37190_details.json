@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/y7y5F8PAuTEWWFcdeeTv0oDjTAR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://www.transylmaniathemovie.com/",
+  "id": 37190,
+  "imdb_id": "tt0936471",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Transylmania",
+  "overview": "Spoof horror in which a group of college kids do a semester abroad in Romania and realise that if the partying doesn't kill them, the vampires just might!",
+  "popularity": 2.4974,
+  "poster_path": "/qup755rk1zDeNmQrYOJg3B45ik.jpg",
+  "production_companies": [
+    {
+      "id": 214600,
+      "logo_path": null,
+      "name": "Full Circle Releasing",
+      "origin_country": ""
+    },
+    {
+      "id": 8002,
+      "logo_path": null,
+      "name": "Hill & Brand Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 214602,
+      "logo_path": null,
+      "name": "Lifeworks Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-12-04",
+  "revenue": 408229,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Transylmania",
+  "video": false,
+  "vote_average": 4.179,
+  "vote_count": 56
+}

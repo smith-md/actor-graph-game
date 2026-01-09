@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": "/tvTeb8MJXVZooE3rFYQ8JShDCkq.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 14753,
+  "imdb_id": "tt0494834",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Silk",
+  "overview": "French silkworm trader Hervé is married to the beautiful Hélène. When an outbreak of disease ravages European silkworms, Hervé must travel to Japan to retrieve healthy eggs. After a long journey, Hervé finally arrives at a village where he can buy them. He becomes infatuated with a young concubine and goes to great lengths to see her again. But, when war breaks out in Japan, the concubine flees, forcing Hervé to return home to his wife.",
+  "popularity": 3.4121,
+  "poster_path": "/hQyTooR8UthIcRRmBsY9ROxQWJV.jpg",
+  "production_companies": [
+    {
+      "id": 164,
+      "logo_path": "/v3zcUepvKC7Vz36yjklk1rw6k8Q.png",
+      "name": "Rhombus Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2441,
+      "logo_path": "/7Vutdea75apwXkRyfQ4Ne6j0KcN.png",
+      "name": "Fandango",
+      "origin_country": "IT"
+    },
+    {
+      "id": 2439,
+      "logo_path": null,
+      "name": "Bee Vine Pictures",
+      "origin_country": "JP"
+    },
+    {
+      "id": 160686,
+      "logo_path": null,
+      "name": "Vice Versa Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2007-09-14",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Come Back, or I Shall Die...",
+  "title": "Silk",
+  "video": false,
+  "vote_average": 5.745,
+  "vote_count": 220
+}

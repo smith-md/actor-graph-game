@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/z2ZiFPibdguCYJBN9rZeHCMHxcO.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 28503,
+  "imdb_id": "tt0056983",
+  "origin_country": [
+    "IE",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dementia 13",
+  "overview": "A scheming widow hatches a bold plan to acquire her late husband's inheritance, unaware that she is being targeted by an ax murderer who lurks in the family's estate.",
+  "popularity": 4.2506,
+  "poster_path": "/aLv5491Q11zhIZbpqz7rnRZkSLZ.jpg",
+  "production_companies": [
+    {
+      "id": 13733,
+      "logo_path": null,
+      "name": "The Filmgroup",
+      "origin_country": "US"
+    },
+    {
+      "id": 14047,
+      "logo_path": null,
+      "name": "Roger Corman Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 9266,
+      "logo_path": "/lRinQ7scVye5N8qkUIoCB4QXbRh.png",
+      "name": "American International Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1963-09-25",
+  "revenue": 47664,
+  "runtime": 75,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Are you afraid of death by drowning? Have you ever attempted suicide? Have you ever thought of committing murder?",
+  "title": "Dementia 13",
+  "video": false,
+  "vote_average": 5.492,
+  "vote_count": 188
+}

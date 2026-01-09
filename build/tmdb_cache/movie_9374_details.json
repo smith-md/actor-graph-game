@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/vDFhaKEMKPIUePtQH2nOwSHfgPy.jpg",
+  "belongs_to_collection": null,
+  "budget": 55000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 9374,
+  "imdb_id": "tt0104070",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Death Becomes Her",
+  "overview": "Madeline is married to Ernest, who was once her arch-rival Helen's fiancé. After recovering from a mental breakdown, Helen vows to kill Madeline and steal back Ernest. Unfortunately for everyone, the introduction of a magic potion causes things to be a great deal more complicated than a mere murder plot.",
+  "popularity": 6.6391,
+  "poster_path": "/kkWxyyyWFK5KNk9WVwQuGEC9H9H.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-07-30",
+  "revenue": 149000000,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In one small bottle... The fountain of youth. The secret of eternal life. The power of an ancient potion. Sometimes it works... sometimes it doesn't.",
+  "title": "Death Becomes Her",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 2877
+}

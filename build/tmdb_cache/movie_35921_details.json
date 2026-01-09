@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/3RoZyKnW4jzMChlYs4yJ38oo5gG.jpg",
+  "belongs_to_collection": null,
+  "budget": 1345000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 35921,
+  "imdb_id": "tt0052700",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Compulsion",
+  "overview": "Two close friends' plan to execute a flawless crime is crushed when one of them inadvertently leaves his glasses at the crime scene.",
+  "popularity": 4.3036,
+  "poster_path": "/fdYoG4uxbTbQ8Wv4BLxWiP7rrkm.jpg",
+  "production_companies": [
+    {
+      "id": 13630,
+      "logo_path": null,
+      "name": "Darryl F. Zanuck Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1959-04-01",
+  "revenue": 1800000,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "THEIRS WAS THE PERFECT CRIME they thought! They were too sure...too smart...too careful to leave a clue -- but they did! and it exploded -- The shocking story of two teenagers out for kicks...looking for thrills...and finding them!",
+  "title": "Compulsion",
+  "video": false,
+  "vote_average": 7.096,
+  "vote_count": 156
+}

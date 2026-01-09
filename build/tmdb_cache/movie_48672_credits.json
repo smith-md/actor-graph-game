@@ -1,0 +1,89 @@
+{
+  "id": 48672,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 89670,
+      "known_for_department": "Acting",
+      "name": "Stan Laurel",
+      "original_name": "Stan Laurel",
+      "popularity": 1.0965,
+      "profile_path": "/eT15ERUT5T3CVyf2a9JD1VAzC6q.jpg",
+      "cast_id": 2,
+      "character": "Stan",
+      "credit_id": "52fe4770c3a36847f81359f7",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 78057,
+      "known_for_department": "Acting",
+      "name": "Oliver Hardy",
+      "original_name": "Oliver Hardy",
+      "popularity": 1.0014,
+      "profile_path": "/qRMGQo5oWwcLpwgXSoArXK5riwe.jpg",
+      "cast_id": 3,
+      "character": "Ollie",
+      "credit_id": "52fe4770c3a36847f81359fb",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 34574,
+      "known_for_department": "Acting",
+      "name": "Lucien Littlefield",
+      "original_name": "Lucien Littlefield",
+      "popularity": 0.5666,
+      "profile_path": "/65jnSJmU2BC4Jrpg2Nfg6glU6wN.jpg",
+      "cast_id": 4,
+      "character": "Professor Noodle (uncredited)",
+      "credit_id": "5536272d9251414716003124",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 959996,
+      "known_for_department": "Acting",
+      "name": "Samuel Adams",
+      "original_name": "Samuel Adams",
+      "popularity": 0.3246,
+      "profile_path": "/9ERUIwtir1wv4wTsBjJ5h3OvFz6.jpg",
+      "cast_id": 6,
+      "character": "Jessup",
+      "credit_id": "647c82820e29a200a660dff0",
+      "order": 3
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 137400,
+      "known_for_department": "Directing",
+      "name": "Lloyd French",
+      "original_name": "Lloyd French",
+      "popularity": 0.7899,
+      "profile_path": "/1OxZbBlJrHK7QVy9NLVMdrWVEsQ.jpg",
+      "credit_id": "52fe4770c3a36847f81359f3",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 33223,
+      "known_for_department": "Production",
+      "name": "Hal Roach",
+      "original_name": "Hal Roach",
+      "popularity": 0.916,
+      "profile_path": "/cV3xbMdZEQdNhHKdI9T6BL2PBSy.jpg",
+      "credit_id": "61e2976a1967570066533b35",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

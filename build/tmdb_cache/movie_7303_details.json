@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/gsvb3zclYWlgCoUJ1hraO7mTav3.jpg",
+  "belongs_to_collection": null,
+  "budget": 55000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/maidinmanhattan",
+  "id": 7303,
+  "imdb_id": "tt0252076",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Maid in Manhattan",
+  "overview": "Marisa Ventura is a struggling single mom who works at a posh Manhattan hotel and dreams of a better life for her and her young son. One fateful day, hotel guest and senatorial candidate Christopher Marshall meets Marisa and mistakes her for a wealthy socialite. After an enchanting evening together, the two fall madly in love. But when Marisa's true identity is revealed, issues of class and social status threaten to separate them. Can two people from very different worlds overcome their differences and live happily ever after?",
+  "popularity": 3.696,
+  "poster_path": "/5qweTKkAwvGPt2Wd76TFoh2c9yt.jpg",
+  "production_companies": [
+    {
+      "id": 2455,
+      "logo_path": null,
+      "name": "Red Om Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 497,
+      "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
+      "name": "Revolution Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-12-13",
+  "revenue": 154906693,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "...love checks in.",
+  "title": "Maid in Manhattan",
+  "video": false,
+  "vote_average": 6.135,
+  "vote_count": 2017
+}

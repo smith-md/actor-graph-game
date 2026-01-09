@@ -1,0 +1,102 @@
+{
+  "adult": false,
+  "backdrop_path": "/bRiFQLsuocS95owFwOyNANHY6D9.jpg",
+  "belongs_to_collection": null,
+  "budget": 4600000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://razor-film.de/en/movies/langue-etrangere/",
+  "id": 803690,
+  "imdb_id": "tt31015291",
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Langue étrangère",
+  "overview": "Fanny, a shy and lonely teenager, goes on a language exchange to Germany. In Leipzig, she meets her pen pal, Lena, a teenager eager to become politically active. Fanny is troubled. To win over Lena, she invents a life for herself, to the extent of becoming trapped in her lies.",
+  "popularity": 2.978,
+  "poster_path": "/cPFCJ1VsSYKyTFpvWl6Nrt0ddNL.jpg",
+  "production_companies": [
+    {
+      "id": 58568,
+      "logo_path": "/2qxPHPKa29w2MsaPKpYRfBnQcyq.png",
+      "name": "Les Films de Pierre",
+      "origin_country": "FR"
+    },
+    {
+      "id": 703,
+      "logo_path": "/lMV4teVPQWJxIaiDsAsU7Vdh1iC.png",
+      "name": "Razor Film Produktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1926,
+      "logo_path": "/eSnbNBmDyok9rcpWxYRaBjTaq1n.png",
+      "name": "Les Films du Fleuve",
+      "origin_country": "BE"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 46,
+      "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 587,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-09-11",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Foreign Language",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 47
+}

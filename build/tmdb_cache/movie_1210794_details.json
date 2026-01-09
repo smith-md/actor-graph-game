@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/AowNXLFNKWDRYBKHLsgTK0T7Bxf.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81727408",
+  "id": 1210794,
+  "imdb_id": "tt30217143",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Strul",
+  "overview": "Wrongfully convicted of murder, a clumsy electronics salesman faces police corruption and criminal conspiracies in an attempt to prove his innocence.",
+  "popularity": 3.4323,
+  "poster_path": "/ildbg7ho14EHbt1fZWAkgqIyPqy.jpg",
+  "production_companies": [
+    {
+      "id": 25297,
+      "logo_path": "/eBEOs6T0nVa8RKWmZbBWIvc4daL.png",
+      "name": "FLX",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2024-10-02",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It gets complicated.",
+  "title": "Trouble",
+  "video": false,
+  "vote_average": 6.684,
+  "vote_count": 201
+}

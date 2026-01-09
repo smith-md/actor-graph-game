@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/fheyOmaLi8m5Iv3C83A5HQMqwUv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 30712,
+  "imdb_id": "tt0120678",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Free Money",
+  "overview": "A deranged prison warden with a nasty habit of killing escapees forces the boyfriends of his teenage twin daughters into a shotgun wedding, after they claim to be pregnant. All hope seems lost, until the husbands hatch a madcap plan to rob a money train to freedom.",
+  "popularity": 5.553,
+  "poster_path": "/rthoTWBsSiaSdtQGwgvr1HcAweT.jpg",
+  "production_companies": [
+    {
+      "id": 40758,
+      "logo_path": null,
+      "name": "Sheen/Michaels Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 40759,
+      "logo_path": null,
+      "name": "Filmline International",
+      "origin_country": ""
+    },
+    {
+      "id": 106726,
+      "logo_path": null,
+      "name": "Behaviour Worldwide",
+      "origin_country": ""
+    },
+    {
+      "id": 10828,
+      "logo_path": null,
+      "name": "MDP Worldwide",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "1998-12-03",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Right scheme, wrong guys!",
+  "title": "Free Money",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 52
+}

@@ -1,0 +1,143 @@
+{
+  "id": 1169210,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1720041,
+      "known_for_department": "Acting",
+      "name": "Isabella Gómez",
+      "original_name": "Isabella Gómez",
+      "popularity": 0.7135,
+      "profile_path": "/57Rn6oDA1a5CRUCbSGydxwoWD2z.jpg",
+      "cast_id": 1,
+      "character": "Liana Rojas",
+      "credit_id": "64e7f6425258ae010bd90add",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1679770,
+      "known_for_department": "Acting",
+      "name": "Lindsay LaVanchy",
+      "original_name": "Lindsay LaVanchy",
+      "popularity": 1.4782,
+      "profile_path": "/izTspHKOpOAslVtlOsMv89o0rNe.jpg",
+      "cast_id": 2,
+      "character": "Hazel Miller",
+      "credit_id": "64e7f6521feac1011b2cd5c6",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 3343796,
+      "known_for_department": "Acting",
+      "name": "Shireen Lai",
+      "original_name": "Shireen Lai",
+      "popularity": 0.5079,
+      "profile_path": null,
+      "cast_id": 3,
+      "character": "Nadine Yang",
+      "credit_id": "64e7f6611feac100e169a36d",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2141746,
+      "known_for_department": "Acting",
+      "name": "Maxwell Hamilton",
+      "original_name": "Maxwell Hamilton",
+      "popularity": 0.7833,
+      "profile_path": "/rjEbKoseP83MO51c27SmAUeKL9o.jpg",
+      "cast_id": 4,
+      "character": "Peter Adler",
+      "credit_id": "64e7f66f90ea4b00c73926d1",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 4232799,
+      "known_for_department": "Acting",
+      "name": "Gabriella Rivera",
+      "original_name": "Gabriella Rivera",
+      "popularity": 0.1225,
+      "profile_path": null,
+      "cast_id": 5,
+      "character": "Sophia Rojas",
+      "credit_id": "64e7f68190ea4b011e78bda9",
+      "order": 4
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1677346,
+      "known_for_department": "Acting",
+      "name": "Jack Sochet",
+      "original_name": "Jack Sochet",
+      "popularity": 0.179,
+      "profile_path": "/d4pgivQaT7eNKFZzNZi9spqGzkQ.jpg",
+      "cast_id": 6,
+      "character": "Jack Bernard",
+      "credit_id": "64e7f698594c940139c83161",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1679765,
+      "known_for_department": "Directing",
+      "name": "John Berardo",
+      "original_name": "John Berardo",
+      "popularity": 0.4913,
+      "profile_path": null,
+      "credit_id": "64e7f6b690ea4b011e78bdd4",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2141746,
+      "known_for_department": "Acting",
+      "name": "Maxwell Hamilton",
+      "original_name": "Maxwell Hamilton",
+      "popularity": 0.7833,
+      "profile_path": "/rjEbKoseP83MO51c27SmAUeKL9o.jpg",
+      "credit_id": "64e7f6ca5258ae00add43270",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 3115990,
+      "known_for_department": "Production",
+      "name": "Ashley Rosenberg",
+      "original_name": "Ashley Rosenberg",
+      "popularity": 0.0907,
+      "profile_path": null,
+      "credit_id": "64e7f6dd1feac100c46dedbf",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1679765,
+      "known_for_department": "Directing",
+      "name": "John Berardo",
+      "original_name": "John Berardo",
+      "popularity": 0.4913,
+      "profile_path": null,
+      "credit_id": "64e7f6b05258ae012ca4b6dd",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

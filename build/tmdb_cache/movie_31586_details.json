@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/gXLwU18p3UrwqT3DLlymTjfCZek.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 31586,
+  "imdb_id": "tt0110687",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "North",
+  "overview": "Eleven-year-old North has had it with his parents. They are always busy with their careers and don't give North the attention he needs, so he files a lawsuit against them. The judge rules that North should either find new parents or return to his own parents within two months. Thus North starts off on a journey around the world to find parents that really care about him.",
+  "popularity": 4.1042,
+  "poster_path": "/e4JEG7dstmurXMUPOW9Jy6UDR9F.jpg",
+  "production_companies": [
+    {
+      "id": 97,
+      "logo_path": "/qv3ih9pR9w2XNKZDsqDqAGuZjqc.png",
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-07-22",
+  "revenue": 7182747,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ever wonder what your life would be like with different parents? A boy named North did.",
+  "title": "North",
+  "video": false,
+  "vote_average": 5.004,
+  "vote_count": 271
+}

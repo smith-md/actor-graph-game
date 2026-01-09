@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/zERY2aaCrLExpR6NQ1ceIs0WG8S.jpg",
+  "belongs_to_collection": {
+    "id": 9649,
+    "name": "Mexico Collection",
+    "poster_path": "/yJy16pGr7xWub8tj92NGY5NMjyt.jpg",
+    "backdrop_path": "/6p1OzuIKWnTDfDea7IpB9xra5J.jpg"
+  },
+  "budget": 7225,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 9367,
+  "imdb_id": "tt0104815",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "es",
+  "original_title": "El Mariachi",
+  "overview": "El Mariachi just wants to play his guitar and carry on the family tradition. Unfortunately, the town he tries to find work in has another visitor, a killer who carries his guns in a guitar case. The drug lord and his henchmen mistake el Mariachi for the killer, Azul, and chase him around town trying to kill him and get his guitar case.",
+  "popularity": 5.675,
+  "poster_path": "/zRh7K4SV1xQ419m8gzGITak51vc.jpg",
+  "production_companies": [
+    {
+      "id": 11705,
+      "logo_path": null,
+      "name": "Los Hooligans Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1993-02-22",
+  "revenue": 2040920,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "With a guitar in his hand and a price on his head, he wasn't looking for trouble. But trouble came looking for him.",
+  "title": "El Mariachi",
+  "video": false,
+  "vote_average": 6.744,
+  "vote_count": 1231
+}

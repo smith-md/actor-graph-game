@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/ggzUa7gPXs7mnLhJEcwP9r10Z9e.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/82051730",
+  "id": 1312150,
+  "imdb_id": "tt32767869",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Ricky Gervais: Mortality",
+  "overview": "Ricky Gervais tackles life, death and the state of the world in a brutally honest special that spares no topic, even his own mortality.",
+  "popularity": 6.0205,
+  "poster_path": "/u54OhdSaaLBh02Y4Nf5cETkh8Ku.jpg",
+  "production_companies": [
+    {
+      "id": 12368,
+      "logo_path": null,
+      "name": "Derek Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-12-29",
+  "revenue": 0,
+  "runtime": 60,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ricky Gervais: Mortality",
+  "video": false,
+  "vote_average": 6.791,
+  "vote_count": 43
+}

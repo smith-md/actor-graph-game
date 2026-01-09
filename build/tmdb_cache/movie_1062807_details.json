@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": "/zVDJ4cRgSpHlILSm7kGiklHQ6O7.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.spyfamily.movie",
+  "id": 1062807,
+  "imdb_id": "tt26684398",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "劇場版 SPY×FAMILY CODE: White",
+  "overview": "While under the guise of taking his family on a weekend winter getaway, Loid's attempt to make progress on his current mission Operation Strix proves difficult when Anya mistakenly gets involved and triggers events that threaten world peace.",
+  "popularity": 5.9545,
+  "poster_path": "/xlIQf4y9eB14iYzNN142tROIWON.jpg",
+  "production_companies": [
+    {
+      "id": 31058,
+      "logo_path": "/1vwZPG0zMVRvThCY8Lljh0ppxQo.png",
+      "name": "WIT STUDIO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 121589,
+      "logo_path": "/kZvTniBgpTzAThHCa0OZ1FJtRjy.png",
+      "name": "CloverWorks",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2918,
+      "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+      "name": "Shueisha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3034,
+      "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+      "name": "TV Tokyo",
+      "origin_country": "JP"
+    },
+    {
+      "id": 12655,
+      "logo_path": "/dfGqf2NoMVPrDywDL90D5HAhBlW.png",
+      "name": "Shogakukan-Shueisha Productions",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2023-12-22",
+  "revenue": 59629242,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Survive family vacation. Save the world.",
+  "title": "SPY x FAMILY CODE: White",
+  "video": false,
+  "vote_average": 7.092,
+  "vote_count": 601
+}

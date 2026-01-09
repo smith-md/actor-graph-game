@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/o9waw6sQvm6NeEMdDXeoCQI0nYo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 42172,
+  "imdb_id": "tt0079271",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hardcore",
+  "overview": "A conservative Midwest businessman ventures into the sordid underworld of pornography in search of his runaway teenage daughter who’s making hardcore films in the pits of Los Angeles.",
+  "popularity": 3.9021,
+  "poster_path": "/g6m9xBTAzxXVhdJ624s9BLK9o6.jpg",
+  "production_companies": [
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 279528,
+      "logo_path": null,
+      "name": "A-Team Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1979-02-09",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "“Oh my God, that's my daughter.”",
+  "title": "Hardcore",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 300
+}

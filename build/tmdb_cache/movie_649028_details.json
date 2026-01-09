@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/31DZq5AdlCknBf3Mna9yGtOxp91.jpg",
+  "belongs_to_collection": {
+    "id": 730695,
+    "name": "Class Reunion Collection",
+    "poster_path": "/pxBQPlMIdCumGq0GZsmc3XFAS5.jpg",
+    "backdrop_path": "/b9WaDpvFtNaW96e1S5ru4yoZce2.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 649028,
+  "imdb_id": "tt10709742",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Die Hochzeit",
+  "overview": "Three friends from school, Thomas, Nils and Andreas, are still searching for love in their adult lives.",
+  "popularity": 3.5677,
+  "poster_path": "/7OkNZ5kOdPWJlt3wfph0hNSqqqd.jpg",
+  "production_companies": [
+    {
+      "id": 1989,
+      "logo_path": "/yhrCiL7ymx6xI3o80p0hT2qKMOc.png",
+      "name": "Barefoot Films",
+      "origin_country": "DE"
+    },
+    {
+      "id": 145282,
+      "logo_path": null,
+      "name": "Erfttal Film- und Fernsehproduktion GmbH & Co KG",
+      "origin_country": ""
+    },
+    {
+      "id": 331,
+      "logo_path": "/fzP3jKd8Crzkxq0YDUQEviu4p9J.png",
+      "name": "SevenPictures Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 96105,
+      "logo_path": "/yTIbkYK1VGE64FSFqPj5jGDvLG.png",
+      "name": "Warner Bros. Film Productions Germany",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2020-01-23",
+  "revenue": 0,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Wedding",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 41
+}

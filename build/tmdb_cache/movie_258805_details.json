@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/tOp0HxHsQBQiTkD7vmTSkgRVlk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 258805,
+  "imdb_id": "tt2091325",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bad Johnson",
+  "overview": "With women practically throwing themselves at him, Rich can’t control himself. But he continually blames his penis, which seems to have a mind of its own. After ruining yet another promising relationship with Jamie, Rich has finally had enough and wishes his penis would just leave him alone. The next morning, Rich wakes up to find his wish has come true and his johnson is no longer on his body.",
+  "popularity": 4.9453,
+  "poster_path": "/j9w5V6N5RqzoYGeLDgrBpJ2iy6a.jpg",
+  "production_companies": [
+    {
+      "id": 3815,
+      "logo_path": null,
+      "name": "2DS Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 22827,
+      "logo_path": null,
+      "name": "Roman Empire",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-05-02",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Say hello to his little friend.",
+  "title": "Bad Johnson",
+  "video": false,
+  "vote_average": 4.6,
+  "vote_count": 139
+}

@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/rmsj3O1e1fFmIKIuFjkN572s7xQ.jpg",
+  "belongs_to_collection": {
+    "id": 729425,
+    "name": "Team Thor Collection",
+    "poster_path": "/3RS6PrXua9vJ6wT0xExdTPaW0RX.jpg",
+    "backdrop_path": "/ikGlyyi7JMmXy3sPdOAdhsvCOSI.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 413279,
+  "imdb_id": "tt6016776",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Team Thor",
+  "overview": "Discover what Thor was up to during the events of Captain America: Civil War.",
+  "popularity": 4.2974,
+  "poster_path": "/hpHvGuMc46pppwpcW0Xk7eys3L4.jpg",
+  "production_companies": [
+    {
+      "id": 420,
+      "logo_path": "/hUzeosd33nzE5MCNsZxCGEKTXaQ.png",
+      "name": "Marvel Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-08-28",
+  "revenue": 0,
+  "runtime": 3,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Team Thor",
+  "video": false,
+  "vote_average": 7.235,
+  "vote_count": 563
+}

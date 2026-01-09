@@ -1,0 +1,117 @@
+{
+  "adult": false,
+  "backdrop_path": "/sBS5qnEFuX8K5FVaOjQqxeaePKa.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1243650,
+  "imdb_id": "tt31190009",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Caída libre",
+  "overview": "Marisol is the national rhythmic gymnastics coach, methodical, demanding and authoritative. The World Championship is approaching and she places all her gold medal hopes on Angelica, the team's most promising newcomer. Two weeks before the final, Marisol discovers that her husband is having an affair with a much younger woman with whom she is expecting a child. Marisol does not contemplate failure, so she embarks on a desperate race to win him back, without taking into account her motives and feelings. Her pain is transferred to her tatami, where she becomes even more implacable towards Angelica, in whom she places her hopes of success. At this point, winning gold is all that's left for him.",
+  "popularity": 2.9154,
+  "poster_path": "/2GoWWyizDzceBjgUK9F725FcCdC.jpg",
+  "production_companies": [
+    {
+      "id": 79124,
+      "logo_path": null,
+      "name": "Corte y Confección de Películas",
+      "origin_country": "ES"
+    },
+    {
+      "id": 221279,
+      "logo_path": null,
+      "name": "Suspense Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 55260,
+      "logo_path": "/camFxiEQydhhZF5in1SGzMkLKuU.png",
+      "name": "Colosé Producciones",
+      "origin_country": "ES"
+    },
+    {
+      "id": 67412,
+      "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+      "name": "Movistar Plus+",
+      "origin_country": "ES"
+    },
+    {
+      "id": 211922,
+      "logo_path": "/jXI0xZEJabWaYtfqWxXyKuJJxzX.png",
+      "name": "3Cat",
+      "origin_country": "ES"
+    },
+    {
+      "id": 107262,
+      "logo_path": "/1zigukoYBEqJfsEl6fVhmamXXX9.png",
+      "name": "Crea SGR",
+      "origin_country": "ES"
+    },
+    {
+      "id": 120257,
+      "logo_path": null,
+      "name": "Marrowbone",
+      "origin_country": "ES"
+    },
+    {
+      "id": 29570,
+      "logo_path": "/8zUOYJ9sSq5SWsQhZ6rrdEveN4Z.png",
+      "name": "Triodos Bank",
+      "origin_country": "NL"
+    },
+    {
+      "id": 29259,
+      "logo_path": null,
+      "name": "ICO",
+      "origin_country": "ES"
+    },
+    {
+      "id": 35559,
+      "logo_path": "/xLqNfq5xXETBKjq3jSSiNqqPiN7.png",
+      "name": "ICEC",
+      "origin_country": "ES"
+    },
+    {
+      "id": 265749,
+      "logo_path": "/vFqHb0z4jNbA4h6iMQ52OaQRdEQ.png",
+      "name": "RTVE",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2024-05-17",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Free Falling",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 22
+}

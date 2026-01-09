@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/nT0jNH7ttu5Sy00rchmf2UloEsZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 2100000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.studiocanal.com/title/bully-2001/",
+  "id": 9517,
+  "imdb_id": "tt0242193",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bully",
+  "overview": "A group of teenagers in South Florida enact a murder plot against their mutual bully, Kent, who has emotionally, physically, and sexually abused them for years.",
+  "popularity": 5.1865,
+  "poster_path": "/vMJ2WHBbK4Jr3eDuF1e7O6lbC8m.jpg",
+  "production_companies": [
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 15231,
+      "logo_path": "/iFbzMtXFBv2ekA9Ldrw6LqjLrvX.png",
+      "name": "Muse Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 216273,
+      "logo_path": null,
+      "name": "Blacklist Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 8682,
+      "logo_path": null,
+      "name": "Gravity Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2001-06-15",
+  "revenue": 480811,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's 4 a.m... do you know where your kids are?",
+  "title": "Bully",
+  "video": false,
+  "vote_average": 6.668,
+  "vote_count": 523
+}

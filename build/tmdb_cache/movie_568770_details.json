@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/j7b27zJOkjLylvjxFEd7Hc7BRfz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 568770,
+  "imdb_id": "tt6415126",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Poseída",
+  "overview": "A girl is possessed by a dark and mysterious entity. She will fight with all the elements at her disposal to get rid of it. Neither her mother, nor traditional medicine, nor a supposed expert in exorcisms, will be able to make the demon disappear, until a nun gets involved in the case and sows a doubt more terrible than the possession itself.",
+  "popularity": 4.0524,
+  "poster_path": "/5w2Ti3DTrW74KkrGaVCskYxu6yu.jpg",
+  "production_companies": [
+    {
+      "id": 62860,
+      "logo_path": "/stmUyzbOOW2rG5tk9VLlpAJnWTJ.png",
+      "name": "Avanti Pictures",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2025-06-05",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Darkness has awakened",
+  "title": "The Containment",
+  "video": false,
+  "vote_average": 7.957,
+  "vote_count": 23
+}

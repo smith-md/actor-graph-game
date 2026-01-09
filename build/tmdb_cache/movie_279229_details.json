@@ -1,0 +1,96 @@
+{
+  "adult": false,
+  "backdrop_path": "/y95HIJdesNQQaujZkGZczX7ejp2.jpg",
+  "belongs_to_collection": {
+    "id": 304025,
+    "name": "Gwendolyn Shepherd Collection",
+    "poster_path": "/9kWnCaQiCEtPik5A3mmB3gT8NiO.jpg",
+    "backdrop_path": "/lz1UpgmMJL2A4Xa8q1ENveMzIwx.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 279229,
+  "imdb_id": "tt3260022",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Saphirblau",
+  "overview": "Gwen has just discovered, that she's the final member of the secret time-traveling Circle of Twelve. Now she has to juggle with constant trips to the past, her relationships with Gideon and figuring out dark secrets surrounding the Circle.",
+  "popularity": 3.8946,
+  "poster_path": "/kxRqokSkj6HWuwVCbnddPFg73CM.jpg",
+  "production_companies": [
+    {
+      "id": 16942,
+      "logo_path": null,
+      "name": "ARRI Film & TV Services",
+      "origin_country": ""
+    },
+    {
+      "id": 13536,
+      "logo_path": null,
+      "name": "mem-film",
+      "origin_country": ""
+    },
+    {
+      "id": 13535,
+      "logo_path": "/i4RHbgBZnE2GcjiKqncBhydInIk.png",
+      "name": "Lieblingsfilm",
+      "origin_country": "DE"
+    },
+    {
+      "id": 13537,
+      "logo_path": "/z1izDvyJ1ryqCqqJXRcrT1184y2.png",
+      "name": "Geißendörfer Film-und Fernsehproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 42272,
+      "logo_path": "/2bAuO4EvS59O1uXZQAKXG0HIXQg.png",
+      "name": "RTL",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1469,
+      "logo_path": "/AwbErjR0AMpVnN9PbdHiBB3g3q0.png",
+      "name": "Tele München",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2014-08-14",
+  "revenue": 5188128,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sapphire Blue",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 1016
+}

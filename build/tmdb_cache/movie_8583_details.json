@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/nT6udCjGaYih9VUZQU7xnwX99RK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 8583,
+  "imdb_id": "tt0118892",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dangerous Beauty",
+  "overview": "Veronica is brilliant, gifted and beautiful, but the handsome aristocrat she loves, Marco Venier, cannot marry her because she is penniless and of questionable family. So Veronica's mother, Paola, teaches her to become a courtesan, one of the exotic companions favored by the richest and most powerful Venetian men. Veronica courageously uses her charms to change destiny -- and to give herself a chance at true love.",
+  "popularity": 4.5903,
+  "poster_path": "/7uHX8qIr8VYPwdpVv4TCjXcVxDo.jpg",
+  "production_companies": [
+    {
+      "id": 348,
+      "logo_path": "/mztvNjgx77cXUL6vWR3r7fyeZCa.png",
+      "name": "Bedford Falls Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 508,
+      "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 25087,
+      "logo_path": null,
+      "name": "Arnon Milchan Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-02-20",
+  "revenue": 4553271,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Born without privilege. Bound by tradition. She found the courage to follow her heart.",
+  "title": "Dangerous Beauty",
+  "video": false,
+  "vote_average": 7.036,
+  "vote_count": 290
+}

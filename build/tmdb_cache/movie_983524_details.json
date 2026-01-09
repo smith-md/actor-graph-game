@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/yjA8aw25U7XBmXlT3FhsPS1882F.jpg",
+  "belongs_to_collection": null,
+  "budget": 3700000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://trustnordisk.com/movie/birthday-girl",
+  "id": 983524,
+  "imdb_id": "tt19883220",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Birthday Girl",
+  "overview": "On a cruise ship bound for the Caribbean, 42 year old Nanna has invited her daughter Cille and her best friend on a cruise to celebrate Cille's 18th birthday. The expectations are high, and they have big plans set for the three days aboard the cruise. But on the first evening, the dream vacation descends a nightmare, and Nanna realizes that in order to get justice, she must take matters into her own hands.",
+  "popularity": 2.7938,
+  "poster_path": "/tkUtWGKI7O4efZ2yEqDjIj7tGpq.jpg",
+  "production_companies": [
+    {
+      "id": 235,
+      "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+      "name": "Nordisk Film Denmark",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "release_date": "2024-04-04",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A night of celebration becomes a nightmare.",
+  "title": "Birthday Girl",
+  "video": false,
+  "vote_average": 5.574,
+  "vote_count": 27
+}

@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/jNFHtD1vSPxLc2kdoNGIUuuu015.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "http://www.itnfilms.net/catalog/H.P.-LOVECRAFT'S-MONSTER-PORTAL",
+  "id": 891931,
+  "imdb_id": "tt14157332",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Monster Portal",
+  "overview": "A young woman inherits her estranged father's estate after his mysterious death. Once she and her friends arrive at the mansion, they discover that the home is on an old cemetery, which has the power of opening a portal to another realm, which contains the creatures foretold to the world by writer H.P. Lovecraft.",
+  "popularity": 2.7137,
+  "poster_path": "/8R7LbNCvDMFq3dCGaVbH6tPHd69.jpg",
+  "production_companies": [
+    {
+      "id": 155744,
+      "logo_path": "/qwVw2UPwBOQZkhOb3LyHgID5xKQ.png",
+      "name": "Jagged Edge Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2022-01-29",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Monster Portal",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 98
+}

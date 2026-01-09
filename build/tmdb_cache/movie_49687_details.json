@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/gyoYWae5mqg6MjbwKu1AE9bgGMt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 49687,
+  "imdb_id": "tt0058335",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Matrimonio all'italiana",
+  "overview": "During the bombing of Naples in World War II, a cynical businessman helps a naive prostitute, who spends the next two decades desperate to have him reciprocate her feelings.",
+  "popularity": 2.3019,
+  "poster_path": "/1VVQFXwr4i6QSAoPnCs9UmGTUVw.jpg",
+  "production_companies": [
+    {
+      "id": 10000,
+      "logo_path": null,
+      "name": "C. C. Champion",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1714,
+      "logo_path": null,
+      "name": "Les Films Concordia",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1964-12-18",
+  "revenue": 12800000,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You have never seen it before! A New torrent of emotions! A New Triumph of Film-Making from Embassy Pictures who brought you \"Divorce Italian Style\" and \"Yesterday, Today and Tomorrow\" now brings you...",
+  "title": "Marriage Italian Style",
+  "video": false,
+  "vote_average": 7.709,
+  "vote_count": 534
+}

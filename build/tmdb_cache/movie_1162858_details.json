@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/k3xS5HuixDQXRFg4eX9vLohuGjP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1162858,
+  "imdb_id": "tt28498159",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Other",
+  "overview": "Unable to conceive, a couple seeks to build a family with a young orphan, survivor of tragic childhood. But their act of love turns to horror when they realize the violence in their foster's past has returned to destroy the new family.",
+  "popularity": 28.9551,
+  "poster_path": "/kE6FV8Lc9Aqir6OlgaNgnbFcy9E.jpg",
+  "production_companies": [
+    {
+      "id": 227522,
+      "logo_path": "/ttR3l79x4eOfOhRJUEYoSwtF7xB.png",
+      "name": "Camp Lucky",
+      "origin_country": "US"
+    },
+    {
+      "id": 176522,
+      "logo_path": "/tfjNjXOi54Vp7CtcslpIsPgPEOK.png",
+      "name": "Terraform Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-04-26",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Other",
+  "video": false,
+  "vote_average": 5.64,
+  "vote_count": 50
+}

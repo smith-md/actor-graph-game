@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/aYLxKo6ApWCFxPQ7PLR2hnxkKKr.jpg",
+  "belongs_to_collection": null,
+  "budget": 7500000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.khattameethathefilm.com/",
+  "id": 44565,
+  "imdb_id": "tt1455811",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Khatta Meetha",
+  "overview": "The story follows Sachin Tichkule, a struggling contractor whose failure in making peace with the corrupt bureaucracy in town as well as strained relation with his ex-girlfriend and his family leads to misadventures that deprive him of his closest relations. However, as he begins to mend his ways, justice comes knocking on his door.",
+  "popularity": 3.263,
+  "poster_path": "/rIM83O7WUcZIlg9pd6SgXgB0w2v.jpg",
+  "production_companies": [
+    {
+      "id": 3942,
+      "logo_path": null,
+      "name": "Hari Om Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2010-07-23",
+  "revenue": 10000000,
+  "runtime": 155,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Khatta Meetha",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 68
+}

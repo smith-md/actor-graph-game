@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/7Lzqpkdwmhmok2WGxmNWgBp82s.jpg",
+  "belongs_to_collection": {
+    "id": 10893,
+    "name": "Critters Collection",
+    "poster_path": "/6DTwPOGG1FVebElsUqH9UAJg2Qw.jpg",
+    "backdrop_path": "/wqqvfXVm6fQwEVLSWImt4yYdgCD.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 12525,
+  "imdb_id": "tt0101628",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Critters 4",
+  "overview": "A super strain of genetically engineered mutants are designed to take over the universe, hungry to conquer the galaxy, with an appetite for mankind.",
+  "popularity": 4.061,
+  "poster_path": "/k1Xio02tnxgyFA9PnlP2OSCIK2C.jpg",
+  "production_companies": [
+    {
+      "id": 66755,
+      "logo_path": null,
+      "name": "OH Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-08-20",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In Space, They Love to Hear You Scream!",
+  "title": "Critters 4",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 326
+}

@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/bAO9hLGRWOJMUFXmKwa4kST6I5N.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0DDJ31FYB",
+  "id": 616446,
+  "imdb_id": "tt9860566",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Brothers",
+  "overview": "A reformed criminal's attempt at going straight is derailed when he reunites with his sanity-testing twin brother on a road trip for the score of a lifetime. Dodging bullets, the law, and an overbearing mother along the way, they must heal their severed family bond before they end up killing each other.",
+  "popularity": 5.9289,
+  "poster_path": "/Akweo95FGyDpucYVT81h0SbX8Ky.jpg",
+  "production_companies": [
+    {
+      "id": 1757,
+      "logo_path": "/fc9qw5GoTbyWGa0QcfbsZFzuMKQ.png",
+      "name": "Mad Chance",
+      "origin_country": "US"
+    },
+    {
+      "id": 120915,
+      "logo_path": null,
+      "name": "Brolin Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 923,
+      "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+      "name": "Legendary Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 107244,
+      "logo_path": null,
+      "name": "Estuary Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-10",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Family is a life sentence.",
+  "title": "Brothers",
+  "video": false,
+  "vote_average": 5.942,
+  "vote_count": 308
+}

@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/eQWEVTdqYfwfZrNcxqp8dGaBzVV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 132923,
+  "imdb_id": "tt1675161",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Guns, Girls and Gambling",
+  "overview": "The story throws Elvis impersonators, Indians, modern cowboys, a 6-foot-tall blond assassin, a frat boy, a corrupt sheriff and a prostitute into a chase for a priceless American Indian artifact stolen during a poker game at an Indian casino",
+  "popularity": 2.6392,
+  "poster_path": "/uh9nzmODurUN2EtS5wwbdMHJDxe.jpg",
+  "production_companies": [
+    {
+      "id": 12701,
+      "logo_path": "/6BUtQL9OId8iMr9qruQvxJFYbkV.png",
+      "name": "Incognito Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10962,
+      "logo_path": null,
+      "name": "Freefall Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 12702,
+      "logo_path": null,
+      "name": "Hollywood Sky Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 12703,
+      "logo_path": null,
+      "name": "Releaseme Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-09-05",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Guns, Girls and Gambling",
+  "video": false,
+  "vote_average": 5.397,
+  "vote_count": 121
+}

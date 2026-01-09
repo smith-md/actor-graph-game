@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/7G8V5q7kbEvot2ebdwKrQz1WsL7.jpg",
+  "belongs_to_collection": null,
+  "budget": 2300000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 467373,
+  "imdb_id": "tt6581440",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "ml",
+  "original_title": "ആദം Joan",
+  "overview": "Adam, a young man from Kerala, returns to Scotland upon learning that his family has been murdered and his daughter, Ila, kidnapped. He then sets out to find the offenders and rescue Ila.",
+  "popularity": 2.7725,
+  "poster_path": "/qAf5HfTyvAVK2Dx9pepRm6Etq7q.jpg",
+  "production_companies": [
+    {
+      "id": 92728,
+      "logo_path": "/zmBDTWWqCABtZWINQLLC90BIuZI.png",
+      "name": "B Cinemas",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2017-09-01",
+  "revenue": 0,
+  "runtime": 155,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Adam Joan",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 28
+}

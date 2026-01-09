@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/btmQVS7TGeXDOFPfh8Adv46oYX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 42658,
+  "imdb_id": "tt0049301",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Helen of Troy",
+  "overview": "Prince Paris of Troy, shipwrecked on a mission to the king of Sparta, meets and falls for Queen Helen before he knows who she is. Rudely received by the royal Greeks, he must flee...but fate and their mutual passions lead him to take Helen along. This gives the Greeks just the excuse they need for much-desired war.",
+  "popularity": 2.3653,
+  "poster_path": "/u0JgGavnWfisAkFEhGfu9xbzceS.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1956-01-26",
+  "revenue": 0,
+  "runtime": 121,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Its towering wonders span the age of titans!",
+  "title": "Helen of Troy",
+  "video": false,
+  "vote_average": 6.218,
+  "vote_count": 55
+}

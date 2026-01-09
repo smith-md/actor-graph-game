@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/mHi1zNvKnfLqV85RDDGmuQoPMP8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 97406,
+  "imdb_id": "tt0113158",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Georgia",
+  "overview": "Sadie looks up to her older sister Georgia, a successful folk singer. Unfortunately it is this very obsession — coupled with her self-destructive tendencies and rampant drug abuse — that keeps her spiraling down the drain.",
+  "popularity": 4.0095,
+  "poster_path": "/uXjfK404xo7SiVlFcAoRyaFqXR4.jpg",
+  "production_companies": [
+    {
+      "id": 105,
+      "logo_path": "/pyiNvPJYGz4W2SImgULoG2sn4y4.png",
+      "name": "CiBy 2000",
+      "origin_country": "FR"
+    },
+    {
+      "id": 252707,
+      "logo_path": null,
+      "name": "Georgia Film Corporation",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1995-05-19",
+  "revenue": 1110974,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The toughest act to follow was their dreams.",
+  "title": "Georgia",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 46
+}

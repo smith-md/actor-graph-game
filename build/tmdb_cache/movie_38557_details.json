@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/tEodwsC1kRFFbI4CJCZJopdX0D.jpg",
+  "belongs_to_collection": null,
+  "budget": 18000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 38557,
+  "imdb_id": "tt0088007",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The River",
+  "overview": "Tom and Mae Garvey are a Tennessee farming couple battling violent floods to save their land. In addition to natural disasters, the Garveys fight to stop a selfish land developer and a local corporation from foreclosing on their farm. While Mae stays at home to care for their children and tend to the crops, Tom finds work as a scab at a steel mill to preserve his family's property.",
+  "popularity": 4.7062,
+  "poster_path": "/bXIlE2QVIarVug9wpyPIz2xiWxf.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1984-12-01",
+  "revenue": 11500000,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He might be able to hold back the river. But could he hold back the greed of man?",
+  "title": "The River",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 134
+}

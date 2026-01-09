@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/pqVNPjSwu1NsSjREl14HTbm3dXQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 9299,
+  "imdb_id": "tt0117883",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Tesis",
+  "overview": "While doing a thesis about violence, Ángela finds a snuff video where a girl is tortured to death. Soon she discovers that the girl was a former student at her college...",
+  "popularity": 4.1371,
+  "poster_path": "/w1ynKTlqOfbIMwcDsTSvCku9bQg.jpg",
+  "production_companies": [
+    {
+      "id": 11955,
+      "logo_path": "/ejsZYTo3EM5nAErdL2KNgK2bW4t.png",
+      "name": "Sogepaq",
+      "origin_country": "ES"
+    },
+    {
+      "id": 18332,
+      "logo_path": null,
+      "name": "Las Producciones del Escorpión S.L.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1996-04-11",
+  "revenue": 2647055,
+  "runtime": 125,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "My name is Ángela. They're going to kill me.",
+  "title": "Thesis",
+  "video": false,
+  "vote_average": 7.468,
+  "vote_count": 905
+}

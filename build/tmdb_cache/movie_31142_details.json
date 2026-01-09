@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/iNDvNf2JUJasIUC3AR5xb3bfWq0.jpg",
+  "belongs_to_collection": null,
+  "budget": 1200000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.jetboythemovie.com",
+  "id": 31142,
+  "imdb_id": "tt0271580",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Jet Boy",
+  "overview": "A coming-of-age story of a reluctant 13-year-old hustler named Nathan who will do whatever it takes to feel loved.",
+  "popularity": 5.6947,
+  "poster_path": "/d31LKiVdfztUlY8MF1oE30wl4iO.jpg",
+  "production_companies": [
+    {
+      "id": 241991,
+      "logo_path": null,
+      "name": "Smash It Up Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 114388,
+      "logo_path": null,
+      "name": "Interstate 80 Entertainment",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2001-09-30",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He wanted to be loved for more than just a night",
+  "title": "Jet Boy",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 43
+}

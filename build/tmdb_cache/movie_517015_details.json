@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/JM3IUFRp7KUNAcVlGJ54lAZfcs.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 517015,
+  "imdb_id": "tt6772946",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Campus",
+  "overview": "Robert Wainwright dies after breaking his deal with the Devil, passing that debt onto his estranged daughter Morgan. She soon finds herself in a never-ending cycle of terror as she is brutally murdered then resurrected over and over again, each time losing a piece of her soul. Now she must discover why this is happening and break the deadly cycle in order to escape.",
+  "popularity": 4.5347,
+  "poster_path": "/gEgb80VJPC4StB2I4AYnzq3bPZJ.jpg",
+  "production_companies": [
+    {
+      "id": 104582,
+      "logo_path": null,
+      "name": "Gas Money Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 104583,
+      "logo_path": null,
+      "name": "ANC Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 78474,
+      "logo_path": "/iNGB3WAR4IuOiPbMoOgDF21nUa5.png",
+      "name": "Small Factory Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-01-26",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Make a Wish...To Survive",
+  "title": "The Campus",
+  "video": false,
+  "vote_average": 3.8,
+  "vote_count": 25
+}

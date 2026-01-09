@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/nhhsKLA46CUa7kXwXgamaDYZ1mA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81551457",
+  "id": 1216268,
+  "imdb_id": "tt28288477",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Die Liebeskümmerer",
+  "overview": "When a skeptical journalist reluctantly participates in heartbreak therapy for an article, he ends up opening his heart to his charming therapist.",
+  "popularity": 3.8289,
+  "poster_path": "/zkLo1lMjqloUqhnAji4YbnSH2vb.jpg",
+  "production_companies": [
+    {
+      "id": 24307,
+      "logo_path": "/xJo66MG6C99FeO81ddXVswjEmSB.png",
+      "name": "UFA Fiction",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2024-02-13",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Heartbreak Agency",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 40
+}

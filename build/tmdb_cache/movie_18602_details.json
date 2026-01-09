@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/aRFsgk8X8J6mRvgStvUDBIaDdlX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 18602,
+  "imdb_id": "tt0300214",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Morvern Callar",
+  "overview": "After her boyfriend commits suicide, a young woman attempts to use the unpublished manuscript of a novel and a sum of money he left behind to reinvent her life.",
+  "popularity": 4.1263,
+  "poster_path": "/mQqOG4w5xAlmtIxRUqodECYuJ5l.jpg",
+  "production_companies": [
+    {
+      "id": 11842,
+      "logo_path": "/eNw316EUzXBLVOzlZPVwOcPKoDw.png",
+      "name": "Company Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 803,
+      "logo_path": "/jEMVaCuEjQ3lzkhakWDKNVjwd9Q.png",
+      "name": "Alliance Atlantis",
+      "origin_country": "CA"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 698,
+      "logo_path": null,
+      "name": "Scottish Screen",
+      "origin_country": "GB"
+    },
+    {
+      "id": 980,
+      "logo_path": null,
+      "name": "The Glasgow Film Fund",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2002-11-01",
+  "revenue": 869820,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Morvern Callar",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 180
+}

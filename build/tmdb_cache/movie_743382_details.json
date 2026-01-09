@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/w083lWLiFv8JTBYJBI44FlJVapO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81086997",
+  "id": 743382,
+  "imdb_id": "tt10230414",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Serious Men",
+  "overview": "Tormented with his 'under-privileged' societal status, a father capitalizes on his son's newfound fame as a boy-genius. Little does he realize that the secret he harbors will destroy the very thing he loves the most.",
+  "popularity": 2.6553,
+  "poster_path": "/vRrVmiXapjHAcc3tW7wvY5n3WLi.jpg",
+  "production_companies": [
+    {
+      "id": 140178,
+      "logo_path": null,
+      "name": "Bombay Fables",
+      "origin_country": "IN"
+    },
+    {
+      "id": 140179,
+      "logo_path": null,
+      "name": "CineRaas Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2020-10-02",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Serious Men",
+  "video": false,
+  "vote_average": 6.684,
+  "vote_count": 38
+}

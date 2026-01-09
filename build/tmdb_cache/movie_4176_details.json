@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/tAXK5R0ytrN2l2qgGfyxums5J0w.jpg",
+  "belongs_to_collection": null,
+  "budget": 1400000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 4176,
+  "imdb_id": "tt0071877",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Murder on the Orient Express",
+  "overview": "In 1935, when his train is stopped by deep snow, detective Hercule Poirot is called on to solve a murder that occurred in his car the night before.",
+  "popularity": 4.172,
+  "poster_path": "/oJjKcuoH7SuiqZaEpHt2Nd5ZxNY.jpg",
+  "production_companies": [
+    {
+      "id": 538,
+      "logo_path": "/oGpxL5lFf8VpWsAQ6tut0on25LW.png",
+      "name": "EMI Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1555,
+      "logo_path": null,
+      "name": "G.W. Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1974-11-22",
+  "revenue": 35700000,
+  "runtime": 128,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The who's who in the whodunnit!",
+  "title": "Murder on the Orient Express",
+  "video": false,
+  "vote_average": 7.147,
+  "vote_count": 1522
+}

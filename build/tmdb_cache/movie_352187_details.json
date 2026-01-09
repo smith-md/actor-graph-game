@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/5UeGMsjIE4UTZnAEjcPVodXBBqn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 352187,
+  "imdb_id": "tt3582040",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Boomerang",
+  "overview": "When Antoine returns to the island of Noirmoutier, secrets kept in the past resurfaces and threatens to change his family’s present.",
+  "popularity": 2.7748,
+  "poster_path": "/nmca3IeMIe3DLD8WOyvnmvGanIo.jpg",
+  "production_companies": [
+    {
+      "id": 8350,
+      "logo_path": "/rSMDAaHwcKiLbXOCIfw1v74xdRg.png",
+      "name": "TF1 Droits Audiovisuels",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 581,
+      "logo_path": "/pzJLNyKypqwAgLR4OjmaxA5WEjm.png",
+      "name": "UGC",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2015-09-23",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Boomerang",
+  "video": false,
+  "vote_average": 6.212,
+  "vote_count": 139
+}

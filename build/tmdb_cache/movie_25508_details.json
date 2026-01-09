@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/dAE4x4BgauvsRkErmLg1L05LNAV.jpg",
+  "belongs_to_collection": {
+    "id": 272673,
+    "name": "Cat People Collection",
+    "poster_path": "/faeXfLsDaqG2gOCF4GlzXPTum9E.jpg",
+    "backdrop_path": "/mMN1S9UkPntpgD5NkzUqzPDCyMn.jpg"
+  },
+  "budget": 134000,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 25508,
+  "imdb_id": "tt0034587",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cat People",
+  "overview": "A Serbian émigré in Manhattan believes that, because of an ancient curse, any physical intimacy with the man she loves will turn her into a feline predator.",
+  "popularity": 4.1197,
+  "poster_path": "/zSNTDd5Q6No5BmY39Zp5BVgl8XE.jpg",
+  "production_companies": [
+    {
+      "id": 6,
+      "logo_path": "/n53F7K9scQWFXYbrCablqLKqJdp.png",
+      "name": "RKO Radio Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1942-12-05",
+  "revenue": 4000000,
+  "runtime": 73,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She knew strange, fierce pleasures that no other woman could ever feel!",
+  "title": "Cat People",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 651
+}

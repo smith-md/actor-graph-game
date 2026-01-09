@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/yjisfgMwHr4jnSfiLKuMRZ0J0vl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.bluefoxentertainment.com/films/abe",
+  "id": 484297,
+  "imdb_id": "tt5805768",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Abe",
+  "overview": "A 12-year-old boy from Brooklyn tries to unite his half-Israeli and half-Palestinian family through cooking.",
+  "popularity": 3.628,
+  "poster_path": "/76p3jexoFjSxTiChHbyDh0FwAun.jpg",
+  "production_companies": [
+    {
+      "id": 17090,
+      "logo_path": "/jBySWM1rnLX2oZ8bXImCGqAB4pr.png",
+      "name": "FJ Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 92048,
+      "logo_path": "/bEHvtPu7mCoSPbbvGC1czOcITqt.png",
+      "name": "Spray Filmes",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2020-06-24",
+  "revenue": 28657,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You can’t choose your family",
+  "title": "Abe",
+  "video": false,
+  "vote_average": 6.929,
+  "vote_count": 63
+}

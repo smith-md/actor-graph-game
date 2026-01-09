@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/3q6XHCXII7qRZOx5EqU5NfYkVx8.jpg",
+  "belongs_to_collection": {
+    "id": 150954,
+    "name": "My Friends Collection",
+    "poster_path": "/upqgqWqajI5Eqf8qOAAXKJY8x9H.jpg",
+    "backdrop_path": "/qQNZQpqljEzYjUwE5roT4THfv3I.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 20914,
+  "imdb_id": "tt0072637",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Amici miei",
+  "overview": "Four inseparable friends try to face their midlife crisis with daytrips and pranks at the expense of their families and the people around them.",
+  "popularity": 3.4831,
+  "poster_path": "/8Pm8SLjq2UHCwisd56ipHtzvZI1.jpg",
+  "production_companies": [
+    {
+      "id": 44165,
+      "logo_path": null,
+      "name": "RPA Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1131,
+      "logo_path": null,
+      "name": "Rizzoli Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1975-10-24",
+  "revenue": 0,
+  "runtime": 140,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They played together, they drank together, they whorekistand together and when the semiwattle was in crispation, they had a boobchik of a time!",
+  "title": "My Friends",
+  "video": false,
+  "vote_average": 8.121,
+  "vote_count": 730
+}

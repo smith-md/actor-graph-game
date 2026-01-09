@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/vy3CTp0UnH3cR5HvMXzSF0lFOx4.jpg",
+  "belongs_to_collection": {
+    "id": 294226,
+    "name": "The Dead Collection",
+    "poster_path": "/5ktVahJejSiHQFARdYDl7WfZTWp.jpg",
+    "backdrop_path": "/fi8rckkIPpR1jc9aLQn0x4h6Z8f.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 74471,
+  "imdb_id": "tt1386925",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Dead",
+  "overview": "When the last evacuation flight out of war-torn Africa crashes off the coast, American Air Force Engineer Lieutenant Brian Murphy emerges as the sole survivor in a land where the dead are returning to life and attacking the living.",
+  "popularity": 3.9369,
+  "poster_path": "/oJAbF41N7ZvoTAhZTaQ85AYpLJG.jpg",
+  "production_companies": [
+    {
+      "id": 7795,
+      "logo_path": null,
+      "name": "Indelible Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2010-08-30",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Feeding Begins",
+  "title": "The Dead",
+  "video": false,
+  "vote_average": 5.495,
+  "vote_count": 187
+}

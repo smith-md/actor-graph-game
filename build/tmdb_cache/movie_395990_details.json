@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/uQqQvmptJLPTcWDrZXn22p7j7s3.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.deathwish.movie/",
+  "id": 395990,
+  "imdb_id": "tt1137450",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Death Wish",
+  "overview": "A mild-mannered father is transformed into a killing machine after his family is torn apart by a violent act.",
+  "popularity": 5.1758,
+  "poster_path": "/g0eEEZAqMf98ULQnoiORuazjOpn.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    },
+    {
+      "id": 102500,
+      "logo_path": "/4kHox5M7GpwQntsKEsfR7vljwv0.png",
+      "name": "Cave 76 Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-03-01",
+  "revenue": 34017028,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They came for his family. Now he's coming for them.",
+  "title": "Death Wish",
+  "video": false,
+  "vote_average": 6.215,
+  "vote_count": 2707
+}

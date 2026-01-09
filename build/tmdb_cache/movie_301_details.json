@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/38uM6QuI06znUCELfOSiVQy05CX.jpg",
+  "belongs_to_collection": null,
+  "budget": 1200000,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 301,
+  "imdb_id": "tt0053221",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rio Bravo",
+  "overview": "A small-town sheriff in the American West enlists the help of a disabled man, a drunk, and a young gunfighter in his efforts to hold in jail the brother of the local bad guy.",
+  "popularity": 5.2388,
+  "poster_path": "/4gI4KKmoi0d3yfsF71YU3S0I5t8.jpg",
+  "production_companies": [
+    {
+      "id": 73577,
+      "logo_path": null,
+      "name": "Armada Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1959-03-08",
+  "revenue": 5750000,
+  "runtime": 141,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They fought back to back... No quarter given... No quarter asked... No way in... No way out... of Rio Bravo!",
+  "title": "Rio Bravo",
+  "video": false,
+  "vote_average": 7.805,
+  "vote_count": 1220
+}

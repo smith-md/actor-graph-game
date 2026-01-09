@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/xNE1g8F5plrUGtFF2bOfMPMDcsl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 108083,
+  "imdb_id": "tt0093789",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Profumo",
+  "overview": "A wife escapes her pressure-filled marriage only to have her husband haunt her literally and figuratively.",
+  "popularity": 3.0934,
+  "poster_path": "/szzMi5duQHn38hC8ow0QrIXOQ7A.jpg",
+  "production_companies": [
+    {
+      "id": 51562,
+      "logo_path": null,
+      "name": "Metrofilm",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1987-01-16",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Where fantasy becomes reality!",
+  "title": "Bizarre",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 28
+}

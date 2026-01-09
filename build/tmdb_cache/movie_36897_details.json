@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/pJszL2mPl084IDSzLDPH8NqIq0r.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 36897,
+  "imdb_id": "tt0304564",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ポケットモンスター ミュウツー! 我ハココニ在リ MEWTWO SAGA",
+  "overview": "The Team Rocket leader, Giovanni, has found Mewtwo in a remote area of the Johto region. As Giovanni tries to re-capture Mewtwo, Ash and his friends are kidnapped by Domino, a new Team Rocket member, while trying to rescue Pikachu from Jessie and James. The Clone Pokemon are also captured and are then used as bait for Mewtwo. The situation then becomes a battle between the wills of Mewtwo and Giovanni; and Mewtwo also tries to discover if it and the clones have a purpose in life, even though they are products of science.",
+  "popularity": 4.9801,
+  "poster_path": "/zIYljUBF2rXzB0yYZVEPY1l8zHp.jpg",
+  "production_companies": [
+    {
+      "id": 5372,
+      "logo_path": "/tPtJc2rCOTHEzJQPStT6m3dI0eK.png",
+      "name": "OLM",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5261,
+      "logo_path": null,
+      "name": "Shogakukan Production",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3034,
+      "logo_path": "/jnuO8pZNEBLEq5YaOP1f5OkmG91.png",
+      "name": "TV Tokyo",
+      "origin_country": "JP"
+    },
+    {
+      "id": 8157,
+      "logo_path": "/pEqcMX1aG3JvtDgfh2wNZJLCcb4.png",
+      "name": "jeki",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2001-08-17",
+  "revenue": 0,
+  "runtime": 63,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An all-new Johto movie adventure!",
+  "title": "Pokémon: Mewtwo Returns",
+  "video": false,
+  "vote_average": 6.714,
+  "vote_count": 420
+}

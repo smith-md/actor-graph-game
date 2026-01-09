@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/jvMqAkk1vAkOIJPaWkpMwRia4OC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "http://jezabelfilm.com",
+  "id": 772445,
+  "imdb_id": "tt9339850",
+  "origin_country": [
+    "VE"
+  ],
+  "original_language": "es",
+  "original_title": "Jezabel",
+  "overview": "Four upper-class high school students live carefree between drugs, games and love until one of the girls, Eli, is brutally killed. Sixteen years later, the memory of the crime torments Alain, another member of the group.",
+  "popularity": 3.8246,
+  "poster_path": "/4zBkbAXsx5IUx97ndJm18UoxIKd.jpg",
+  "production_companies": [
+    {
+      "id": 176248,
+      "logo_path": null,
+      "name": "AGfilms",
+      "origin_country": ""
+    },
+    {
+      "id": 52057,
+      "logo_path": null,
+      "name": "Río Negro Producciones",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "VE",
+      "name": "Venezuela"
+    }
+  ],
+  "release_date": "2022-03-10",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Memory is so fucked up, right?",
+  "title": "Jezabel",
+  "video": false,
+  "vote_average": 5.304,
+  "vote_count": 23
+}

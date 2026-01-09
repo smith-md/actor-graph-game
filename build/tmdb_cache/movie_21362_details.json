@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/pBCeeGfLmpJGtfQgik62xI0Bnej.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 21362,
+  "imdb_id": "tt0095304",
+  "origin_country": [
+    "IE",
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "High Spirits",
+  "overview": "When a hotelier attempts to fill the chronic vacancies at his castle by launching an advertising campaign that falsely portrays the property as haunted, two actual ghosts show up and end up falling for two guests.",
+  "popularity": 4.0062,
+  "poster_path": "/88sqqQrltIok7ayhs21mAHoSrcK.jpg",
+  "production_companies": [
+    {
+      "id": 927,
+      "logo_path": null,
+      "name": "Palace Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 4109,
+      "logo_path": null,
+      "name": "Vision PDG",
+      "origin_country": ""
+    },
+    {
+      "id": 18189,
+      "logo_path": "/pvMfF4Fwb3sbyZa1OoBrKygXV3T.png",
+      "name": "Spelling Films International",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1988-11-18",
+  "revenue": 8500000,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's an American. She's a ghost. Vacation romances are always a hassle.",
+  "title": "High Spirits",
+  "video": false,
+  "vote_average": 5.765,
+  "vote_count": 238
+}

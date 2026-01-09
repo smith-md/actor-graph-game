@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/wcjlAaNE9pFK4Av5WBbDBmJ9Wc5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1117644,
+  "imdb_id": "tt28097834",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Mission",
+  "overview": "American Christian missionary John Chau was murdered when he tried to illegally contact and convert some of the world’s last uncontacted indigenous people. Through exclusive interviews and archival footage of John’s journey, THE MISSION explores themes that strike deep at the heart of religion, colonialism, and anthropology, questioning where we draw the line between faith and fanaticism, exploration and exploitation, imagination and destruction.",
+  "popularity": 4.2309,
+  "poster_path": "/uGmeAMvTlgvziM2CVDhl9Dumwe5.jpg",
+  "production_companies": [
+    {
+      "id": 15285,
+      "logo_path": "/wvM3yt9OZwmAYzYWE4RWn45eZeh.png",
+      "name": "Lightbox Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 48874,
+      "logo_path": null,
+      "name": "Mile End Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 189457,
+      "logo_path": "/a0ruFlMfEs2pTOLZ1tPHqzDH7Fc.png",
+      "name": "National Geographic Documentary Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-10-13",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There's a fine line between faith and madness.",
+  "title": "The Mission",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 21
+}

@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/cHSWE4nW0VyoTDHGgTEwFIDuEUq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 16174,
+  "imdb_id": "tt0210294",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Snow Queen",
+  "overview": "Since a bitter winter storm stole the life of Gerda's mother, she and her father have sadly continued to run the remote hotel they call home. Lonely and isolated, Gerda's only joy is Kai, the handsome bellboy. A mysterious guest with an icy stare arrives at the hotel one night, wrapped in fur and diamonds. By daybreak, the \"Snow Queen\" has vanished with Kai! Gerda embarks on a journey of morphing seasons, fantastical creatures, and long-frozen mysteries in a desperate quest to find her stolen love.",
+  "popularity": 5.3423,
+  "poster_path": "/qufo7G0OTQs1hMtO7B5axnCdm4E.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-12-07",
+  "revenue": 0,
+  "runtime": 180,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Once a year she rises. For one season she reigns.",
+  "title": "Snow Queen",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 75
+}

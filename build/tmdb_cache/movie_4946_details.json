@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/wZ2VyKzicIigva0yvBYB3D07P01.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 4946,
+  "imdb_id": "tt0064816",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Piscine",
+  "overview": "Set in a magnificent villa near a sun-drenched St. Tropez, lovers Jean-Paul and Marianne are spending a happy, lazy summer holiday. Their only concern is to gratify their mutual passion - until the day when Marianne invites her former lover and his beautiful teenage daughter to spend a few days with them. From the first moment, a certain uneasiness and tension begin to develop between the four, which soon escalates in a dangerous love-game.",
+  "popularity": 2.972,
+  "poster_path": "/pIR9bZM0bN1TwM1tppP7wZ2eJrL.jpg",
+  "production_companies": [
+    {
+      "id": 249,
+      "logo_path": null,
+      "name": "Société Nouvelle de Cinématographie",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1818,
+      "logo_path": null,
+      "name": "Tritone Cinematografica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1969-01-31",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The most dangerous love-game ever played",
+  "title": "The Swimming Pool",
+  "video": false,
+  "vote_average": 6.994,
+  "vote_count": 551
+}

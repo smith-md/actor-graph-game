@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/iu5RMfBVlU4v0drskl7sx3Gai0s.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1058619,
+  "imdb_id": "tt15444046",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Divinity",
+  "overview": "Two brothers crash into the decaying Earth to stop a capitalist from manufacturing an immortality serum, which is synthesized utilizing heinous methods and leaving an increasingly dire infertility rate in its wake.",
+  "popularity": 3.3656,
+  "poster_path": "/3Ri4XxXNCUKwlZWXgoVNftF7GIY.jpg",
+  "production_companies": [
+    {
+      "id": 194424,
+      "logo_path": null,
+      "name": "Divinity the Film",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-10-13",
+  "revenue": 100000,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Divinity",
+  "video": false,
+  "vote_average": 5.186,
+  "vote_count": 43
+}

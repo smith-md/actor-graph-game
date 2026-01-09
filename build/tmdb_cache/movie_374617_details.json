@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/4IvMs0GxI2ObYhleDydRi0qjVR4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.imperiumthemovie.com/",
+  "id": 374617,
+  "imdb_id": "tt4781612",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Imperium",
+  "overview": "Nate Foster, a young, idealistic FBI agent, goes undercover to take down a radical white supremacy terrorist group. The bright up-and-coming analyst must confront the challenge of sticking to a new identity while maintaining his real principles as he navigates the dangerous underworld of white supremacy. Inspired by real events.",
+  "popularity": 4.8099,
+  "poster_path": "/fEwo3gZfbeoovdcTyf4o4wATE1r.jpg",
+  "production_companies": [
+    {
+      "id": 46299,
+      "logo_path": "/uDZRaTBTF1mUvxwd1TXWBx0eZLT.png",
+      "name": "Tycor International Film Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 3604,
+      "logo_path": "/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png",
+      "name": "Grindstone Entertainment Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 80292,
+      "logo_path": "/2s4EgAlqccfIPvbQPeRfNEBe1e0.png",
+      "name": "Sculptor Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 80294,
+      "logo_path": null,
+      "name": "Green-Light International",
+      "origin_country": "US"
+    },
+    {
+      "id": 80528,
+      "logo_path": null,
+      "name": "Atomic Features",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-08-19",
+  "revenue": 302109,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Defend your nation. Become your enemy.",
+  "title": "Imperium",
+  "video": false,
+  "vote_average": 6.469,
+  "vote_count": 1456
+}

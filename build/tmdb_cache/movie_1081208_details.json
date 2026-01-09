@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/48LdnfGahm8LuM2cg7LFWEmrTEd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1081208,
+  "imdb_id": "tt7873304",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "The Dogs",
+  "overview": "After fleeing his psychotic father, a young teen and his mom seek refuge in a remote farmhouse, only to face a pack of ferocious dogs and the sinister spirits that haunt the property.",
+  "popularity": 8.3322,
+  "poster_path": "/kz6oqKyKCjmR8V1JdnF9brp9DSn.jpg",
+  "production_companies": [
+    {
+      "id": 264321,
+      "logo_path": null,
+      "name": "Wild Media Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 264322,
+      "logo_path": null,
+      "name": "2ofaMind Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-06-13",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Unbury the past, unleash the nightmare.",
+  "title": "The Dogs",
+  "video": false,
+  "vote_average": 6.741,
+  "vote_count": 29
+}

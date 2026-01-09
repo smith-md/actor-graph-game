@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/zOz4Dsg2JiplITr4SnPir0SyRIp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81785089",
+  "id": 1217345,
+  "imdb_id": "tt29892095",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Girl Haunts Boy",
+  "overview": "Cole, a teen grieving the loss of his dad, forms an unlikely bond with Bea, a ghost. As they navigate life and death, they must break an ancient curse.",
+  "popularity": 3.1385,
+  "poster_path": "/6mabVBqKWdGbBKgUz6YK4G6Caws.jpg",
+  "production_companies": [
+    {
+      "id": 181874,
+      "logo_path": "/crrgXvLhDO9c57HYrbO4H58Vxmb.png",
+      "name": "Fifth Season",
+      "origin_country": "US"
+    },
+    {
+      "id": 199265,
+      "logo_path": "/mv2yDqAgT1ea1eTXZMDr89zX95M.png",
+      "name": "CJ ENM Studios",
+      "origin_country": "KR"
+    },
+    {
+      "id": 159520,
+      "logo_path": null,
+      "name": "Wonder Worldwide",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-09",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Girl Haunts Boy",
+  "video": false,
+  "vote_average": 6.735,
+  "vote_count": 51
+}

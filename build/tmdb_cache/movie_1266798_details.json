@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/nHKOcY1VrVLA4bIt8phzTx28bt0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1266798,
+  "imdb_id": "tt33255286",
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Chien 51",
+  "overview": "In the near future, Paris is divided into three zones that separate social classes, and no one can escape ALMA, a predictive AI that has revolutionized law enforcement. When ALMA’s creator is assassinated, Salia, a top agent, and Zem, a jaded cop, are forced to work together to solve a murder that may expose the dark secrets of the system they serve.",
+  "popularity": 4.3088,
+  "poster_path": "/zZJACnkGZfSfHGvRxWFZe1dDxWR.jpg",
+  "production_companies": [
+    {
+      "id": 34780,
+      "logo_path": "/ahgzFRXKF2fkOV0WfB0RCxEmxki.png",
+      "name": "Chi-Fou-Mi Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11773,
+      "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+      "name": "Artémis Productions",
+      "origin_country": "BE"
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 95061,
+      "logo_path": "/gAt0ztKNX5gKyzNmIdaVxI5aoHv.png",
+      "name": "Shelter Prod",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2025-10-15",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In a city divided, they fight for the truth.",
+  "title": "Dog 51",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 143
+}

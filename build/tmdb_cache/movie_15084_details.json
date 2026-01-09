@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/smdfHW8azRAqn1aQ2ZZUSC29JuH.jpg",
+  "belongs_to_collection": null,
+  "budget": 2500000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 15084,
+  "imdb_id": "tt0456165",
+  "origin_country": [
+    "IN",
+    "AU"
+  ],
+  "original_language": "hi",
+  "original_title": "Salaam Namaste",
+  "overview": "Salaam Namaste is about two Indians who have left their houses to make a life on their own, and how they meet and how they tackle their own relationships and problems and overcome them themselves without their families",
+  "popularity": 2.9702,
+  "poster_path": "/wL1lm92Da9R7VEPXD0ZCSt1kuUd.jpg",
+  "production_companies": [
+    {
+      "id": 1569,
+      "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+      "name": "Yash Raj Films",
+      "origin_country": "IN"
+    },
+    {
+      "id": 60690,
+      "logo_path": null,
+      "name": "Films & Casting TEMPLE",
+      "origin_country": "AU"
+    },
+    {
+      "id": 11840,
+      "logo_path": "/8oyCRYf6ezxB5h8HJIPVG8JjzgL.png",
+      "name": "Film Victoria",
+      "origin_country": "AU"
+    },
+    {
+      "id": 15357,
+      "logo_path": "/uvaRT02pY9U8qLH8a9WwwAroDqr.png",
+      "name": "Prime Focus",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2005-09-09",
+  "revenue": 0,
+  "runtime": 158,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Let's get to know each other.",
+  "title": "Salaam Namaste",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 95
+}

@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/drNqIJYcrjBUiq5NGDtVISSR0Kk.jpg",
+  "belongs_to_collection": {
+    "id": 107949,
+    "name": "Puppet Master Collection",
+    "poster_path": "/qXDKe9xqEpJckT6UWghk3T0d4pd.jpg",
+    "backdrop_path": "/Wbd5xjXhZLDFKWK7wMPnoIJe3B.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 26953,
+  "imdb_id": "tt0098143",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Puppet Master",
+  "overview": "After being contacted by their mysterious former colleague, four psychics arrive at a secluded hotel where they are stalked by a group of murderous puppets.",
+  "popularity": 3.3839,
+  "poster_path": "/6bcRspKbsM21HqLcxIBANbts3X7.jpg",
+  "production_companies": [
+    {
+      "id": 4867,
+      "logo_path": "/ifNDQE2NMX3QAJgX0517FZMkLq5.png",
+      "name": "Full Moon Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-10-12",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Evil comes in all sizes.",
+  "title": "Puppet Master",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 376
+}

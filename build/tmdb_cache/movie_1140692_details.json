@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/k8O9vvhrwrKBrExmDcJhEMfeXJI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1140692,
+  "imdb_id": "tt15665274",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Channel",
+  "overview": "After their bank heist goes wrong, a desperate criminal, his out-of-control brother, and their motley crew of ex-marines must escape New Orleans, United States.",
+  "popularity": 4.0632,
+  "poster_path": "/9Z7TzgY3qcBX7VHaNG3E3t8YP1v.jpg",
+  "production_companies": [
+    {
+      "id": 229821,
+      "logo_path": null,
+      "name": "Frenzy Media",
+      "origin_country": ""
+    },
+    {
+      "id": 269406,
+      "logo_path": null,
+      "name": "Appalachian Film",
+      "origin_country": ""
+    },
+    {
+      "id": 220196,
+      "logo_path": "/29YTwNxKsEWKByHb76JX9bWnRdV.png",
+      "name": "Denton Film",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-07-14",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Channel",
+  "video": false,
+  "vote_average": 6.317,
+  "vote_count": 60
+}

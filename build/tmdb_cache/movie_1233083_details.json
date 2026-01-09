@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/trkjOO36aYRldrHzDqpQ4cbVZ3t.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1233083,
+  "imdb_id": "tt31308426",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Hotel Bitcoin",
+  "overview": "A group of friends have to survive a weekend in a hotel with a huge amount of virtual money to guard, putting their ingenuity to the test.",
+  "popularity": 4.0766,
+  "poster_path": "/yGZfoYDHOIJbK9IQtXTlnshtuP6.jpg",
+  "production_companies": [
+    {
+      "id": 78370,
+      "logo_path": "/vUrbxyePsBv2dkiM3SFkrkEzhSV.png",
+      "name": "La Canica Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 219201,
+      "logo_path": null,
+      "name": "Ídolo Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 219378,
+      "logo_path": null,
+      "name": "Golpe de Cripto",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2024-09-13",
+  "revenue": 131186,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hotel Bitcoin",
+  "video": false,
+  "vote_average": 5.95,
+  "vote_count": 30
+}

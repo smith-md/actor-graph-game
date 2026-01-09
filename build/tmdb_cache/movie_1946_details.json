@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/epmwIWdQLouFJ8yx55quVvgnTKu.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1946,
+  "imdb_id": "tt0120907",
+  "origin_country": [
+    "CA",
+    "FR",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "eXistenZ",
+  "overview": "A game designer on the run from assassins must play her latest virtual reality creation with a marketing trainee to determine if the game has been damaged.",
+  "popularity": 4.5756,
+  "poster_path": "/kETKF0JhdTPn1knci8CAdYL0d79.jpg",
+  "production_companies": [
+    {
+      "id": 803,
+      "logo_path": "/jEMVaCuEjQ3lzkhakWDKNVjwd9Q.png",
+      "name": "Alliance Atlantis",
+      "origin_country": "CA"
+    },
+    {
+      "id": 805,
+      "logo_path": "/A83WG8qZA4JdaudhJl0G3iG6W4M.png",
+      "name": "Serendipity Point Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 804,
+      "logo_path": null,
+      "name": "Natural Nylon Entertainment",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1999-04-14",
+  "revenue": 2856712,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Play it. Live it. Kill for it.",
+  "title": "eXistenZ",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 2095
+}

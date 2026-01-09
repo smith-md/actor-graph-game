@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/dfkE2LppPbJ1qUzi3tdND5iuMFp.jpg",
+  "belongs_to_collection": null,
+  "budget": 3800000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 10607,
+  "imdb_id": "tt0116126",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+  "overview": "When Ashtray moves to South Central L.A. to live with his father (who appears to be the same age he is) and grandmother (who likes to talk tough and smoke reefer), he falls in with his gang-banging cousin Loc Dog, who along with the requisite pistols and Uzi carries a thermo-nuclear warhead for self-defense. Will Ashtray be able to keep living the straight life?",
+  "popularity": 8.6206,
+  "poster_path": "/HZQBF7JDd2e9p4rPSbSHuWHaCC.jpg",
+  "production_companies": [
+    {
+      "id": 5441,
+      "logo_path": null,
+      "name": "Ivory Way Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 3492,
+      "logo_path": "/r8hXWahj8kPvEJO9nmN09ScILgk.png",
+      "name": "Island Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-01-12",
+  "revenue": 20100000,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Finally, the movie that proves that Justice isn't always Poetic, Jungle Fever isn't always pretty, and Higher Learning can be a waste of time.",
+  "title": "Don't Be a Menace to South Central While Drinking Your Juice in the Hood",
+  "video": false,
+  "vote_average": 7.026,
+  "vote_count": 1430
+}

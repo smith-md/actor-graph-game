@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/3gLffhgP3aOCCdCbXpZLFETmXr9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.tornasolmedia.com/the-substitute/?lang=en",
+  "id": 776279,
+  "imdb_id": "tt11579538",
+  "origin_country": [
+    "BE",
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "El sustituto",
+  "overview": "Spain, 1982. Andrés Expósito, a young police inspector, accepts a posting in Denia, a small town on the Mediterranean coast, in the hope of leading a quieter life and that the natural environment will help improve the fragile health of his daughter; but once in his new post he becomes involved by chance in the investigation of the strange death of the inspector he has come to replace.",
+  "popularity": 4.7952,
+  "poster_path": "/7HEMT4mHLr0YvAwuwxvNbPfELrI.jpg",
+  "production_companies": [
+    {
+      "id": 7680,
+      "logo_path": "/aZ5xfV3J3kSShvHxo06ypgE2QBD.png",
+      "name": "Tornasol Media",
+      "origin_country": "ES"
+    },
+    {
+      "id": 170338,
+      "logo_path": null,
+      "name": "Voramar Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 3984,
+      "logo_path": "/pvOBu9K0zTRuwJW7WII34x17kdz.png",
+      "name": "Entre Chien et Loup",
+      "origin_country": "BE"
+    },
+    {
+      "id": 170339,
+      "logo_path": null,
+      "name": "Isaba",
+      "origin_country": "ES"
+    },
+    {
+      "id": 981,
+      "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+      "name": "TVE",
+      "origin_country": "ES"
+    },
+    {
+      "id": 121972,
+      "logo_path": "/x2Umogd8FZBK2Pg09Wug28kv2er.png",
+      "name": "À Punt",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2021-10-29",
+  "revenue": 0,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Replacement",
+  "video": false,
+  "vote_average": 6.098,
+  "vote_count": 56
+}

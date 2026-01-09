@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/ch2fz27m2R0qj8P3Kv992mhjNzh.jpg",
+  "belongs_to_collection": null,
+  "budget": 1700000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1193115,
+  "imdb_id": "tt30826062",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Dis-moi juste que tu m'aimes",
+  "overview": "Julien and Marie have enjoyed 15 years of seemingly stable marriage until Anaëlle, Julien’s childhood flame, returns. Her sudden presence awakens old insecurities in Marie, who begins to doubt Julien’s devotion and question her self-worth. Amid this emotional storm, Marie is drawn to Thomas, a charismatic stranger who offers her the validation she craves.",
+  "popularity": 14.3271,
+  "poster_path": "/ogGfNlDQ8Tdwa1FdmKx4JpnuMJZ.jpg",
+  "production_companies": [
+    {
+      "id": 3500,
+      "logo_path": null,
+      "name": "Move Movie",
+      "origin_country": "FR"
+    },
+    {
+      "id": 118657,
+      "logo_path": null,
+      "name": "Korokoro",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2902,
+      "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
+      "name": "SND",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-02-19",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Out of Control",
+  "video": false,
+  "vote_average": 5.854,
+  "vote_count": 48
+}

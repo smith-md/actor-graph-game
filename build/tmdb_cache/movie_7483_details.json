@@ -1,0 +1,158 @@
+{
+  "adult": false,
+  "backdrop_path": "/9MIVMcFo5B8R5pNuCg9gkc82mzZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.amosgitai.com/html/film.asp?docid=76&lang=1",
+  "id": 7483,
+  "imdb_id": "tt0441761",
+  "origin_country": [
+    "IL"
+  ],
+  "original_language": "en",
+  "original_title": "Free Zone",
+  "overview": "Rebecca, an American who has been living in Jerusalem for a few months now, has just broken off her engagement. She gets into a cab driven by Hanna, an Israeli. But Hanna is on her way to Jordan, to the Free Zone, to pick up a large sum of money.",
+  "popularity": 5.2554,
+  "poster_path": "/ud4A2xRAa6j92dTuOy2B2Glv5xY.jpg",
+  "production_companies": [
+    {
+      "id": 30983,
+      "logo_path": null,
+      "name": "AGAV Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 207,
+      "logo_path": "/uskenzq65wJe0cT0D8StQI3hJnO.png",
+      "name": "Agat Films & Cie / Ex Nihilo",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 208,
+      "logo_path": "/bxQYlRhQu6nbohBEL0SWz8xIAGy.png",
+      "name": "Bac Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 39718,
+      "logo_path": null,
+      "name": "Agav Hafakot",
+      "origin_country": "IL"
+    },
+    {
+      "id": 64199,
+      "logo_path": null,
+      "name": "Hamon Hafakot",
+      "origin_country": "IL"
+    },
+    {
+      "id": 11773,
+      "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+      "name": "Artémis Productions",
+      "origin_country": "BE"
+    },
+    {
+      "id": 792,
+      "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF",
+      "origin_country": "BE"
+    },
+    {
+      "id": 19930,
+      "logo_path": "/6fuViPKdQxDuJ6qGwqiniAh1X37.png",
+      "name": "Cinéart",
+      "origin_country": "BE"
+    },
+    {
+      "id": 37215,
+      "logo_path": null,
+      "name": "Golem",
+      "origin_country": "ES"
+    },
+    {
+      "id": 16,
+      "logo_path": "/7690NQfOfnbvrY3vFgyMO2Pc8WS.png",
+      "name": "United King Films",
+      "origin_country": "IL"
+    },
+    {
+      "id": 2250,
+      "logo_path": "/459Y6FWZNaSjMJUicqfvlNpZXJe.png",
+      "name": "SCOPE Invest",
+      "origin_country": "BE"
+    },
+    {
+      "id": 33244,
+      "logo_path": "/kNQbbo0UaSrHVF3RjPWgXnUs00g.png",
+      "name": "yes",
+      "origin_country": "IL"
+    },
+    {
+      "id": 137213,
+      "logo_path": null,
+      "name": "Channel 10",
+      "origin_country": "IL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2005-06-18",
+  "revenue": 427083,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Free Zone",
+  "video": false,
+  "vote_average": 5.407,
+  "vote_count": 54
+}

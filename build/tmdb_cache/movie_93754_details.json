@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/wZFhIA3UyHVQitWp4s16IrYU944.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 93754,
+  "imdb_id": "tt0074268",
+  "origin_country": [
+    "GB",
+    "HK"
+  ],
+  "original_language": "en",
+  "original_title": "Shatter",
+  "overview": "Shatter, an international contract killer, has been assigned to assassinate the President of a small African country and collect his fee from a bank in the Far East. On arrival in Hong Kong his life is threatened and when the bank denies all knowledge of payment arrangements, he realises he has been drawn into a dangerous game where there are no rules. Amongst the players are the Mafia and several foreign intelligence services and the stakes being played for are deadly.",
+  "popularity": 4.0553,
+  "poster_path": "/aymvVJWMLqJAp1hGvUTEHRSRZwR.jpg",
+  "production_companies": [
+    {
+      "id": 1314,
+      "logo_path": "/gQBluDqe6dc2ZdzfJbabEHoSGoG.png",
+      "name": "Hammer Film Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5798,
+      "logo_path": "/tmuI9BGXgpWLmokhlxpnG3IGNQB.png",
+      "name": "Shaw Brothers",
+      "origin_country": "HK"
+    },
+    {
+      "id": 494,
+      "logo_path": "/ioc65azmsAeL1XQN4dFnrpdJoMO.png",
+      "name": "AVCO Embassy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1974-12-06",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mr. Shatter isn't crushproof, but cross him and he'll put you in a box!",
+  "title": "Shatter",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 23
+}

@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/s2VnckvPwr9zCv0uPI1biPbc6xO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 502025,
+  "imdb_id": "tt2460640",
+  "origin_country": [
+    "US",
+    "MX"
+  ],
+  "original_language": "en",
+  "original_title": "Munchausen",
+  "overview": "A mother, unable to confront the heartbreak of her son leaving for college, delays his departure by making him sick. Unfortunately, she goes too far.",
+  "popularity": 3.473,
+  "poster_path": "/560dinuPqIGkjETqS8hp9KeI6c3.jpg",
+  "production_companies": [
+    {
+      "id": 22965,
+      "logo_path": null,
+      "name": "Invicta Films",
+      "origin_country": ""
+    },
+    {
+      "id": 21063,
+      "logo_path": null,
+      "name": "Fondo de Promocion al Cine de Nuevo Leon (Promocine)",
+      "origin_country": "MX"
+    },
+    {
+      "id": 267139,
+      "logo_path": null,
+      "name": "Faux Beef",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-09-19",
+  "revenue": 0,
+  "runtime": 17,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Munchausen",
+  "video": false,
+  "vote_average": 6.732,
+  "vote_count": 69
+}

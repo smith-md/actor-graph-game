@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/o43OBkuXHtfyl05CaxwqbOVdjf7.jpg",
+  "belongs_to_collection": null,
+  "budget": 13000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 50463,
+  "imdb_id": "tt0109783",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Favor",
+  "overview": "On the eve of her high school reunion, bored housewife Kathy convinces her single best friend Emily to seduce her old flame Tom, so she can get all the juicy details. But when Emily falls for Tom, it's like high school all over again!",
+  "popularity": 5.039,
+  "poster_path": "/uFooKexRxruACuxnkQVmwf3nNcU.jpg",
+  "production_companies": [
+    {
+      "id": 365,
+      "logo_path": "/3InSlF0bcc5zuObBGMQpDoSCjYV.png",
+      "name": "Nelson Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-04-29",
+  "revenue": 3134081,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Two Women. Three Men. One Secret.",
+  "title": "The Favor",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 53
+}

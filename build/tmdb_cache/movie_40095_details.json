@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/4YXapzUiQHsgkR1aVdt2IJ9fVIC.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 40095,
+  "imdb_id": "tt0094961",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dead Heat",
+  "overview": "Detective Roger Mortis is killed in action while investigating a string of mysterious robberies: until he's brought back from the dead with a chemical company's secret re-animation technology. Now he has twelve hours to solve the case of his own death before he dies: And stays dead.",
+  "popularity": 3.5058,
+  "poster_path": "/7jBtDMQrXpHlyuJImTAs6Oexv7H.jpg",
+  "production_companies": [
+    {
+      "id": 1950,
+      "logo_path": "/eIoDtHIJKZaZ4hGbKgqC0PzlqJc.png",
+      "name": "New World Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 8043,
+      "logo_path": null,
+      "name": "Helpern / Meltzer",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1988-05-06",
+  "revenue": 3588626,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You can't keep a good cop dead.",
+  "title": "Dead Heat",
+  "video": false,
+  "vote_average": 6.191,
+  "vote_count": 225
+}

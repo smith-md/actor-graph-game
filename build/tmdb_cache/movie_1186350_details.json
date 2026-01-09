@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/a6RkQIOZ6wThQOEDv6lHsfH53hD.jpg",
+  "belongs_to_collection": null,
+  "budget": 3467000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1186350,
+  "imdb_id": "tt29383379",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "ml",
+  "original_title": "മാർക്കോ",
+  "overview": "The adoptive son of the Adattu family, Marco, sets off on a ruthless quest for vengeance after his brother is brutally murdered, finding only betrayal, loss and unimaginable brutality at every step.",
+  "popularity": 17.8742,
+  "poster_path": "/il3ao5gcF6fZNqo1o9o7lusmEyU.jpg",
+  "production_companies": [
+    {
+      "id": 210027,
+      "logo_path": null,
+      "name": "Cubes Entertainments",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2024-12-20",
+  "revenue": 11559000,
+  "runtime": 145,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Marco",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 95
+}

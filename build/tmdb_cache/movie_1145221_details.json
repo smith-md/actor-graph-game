@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/4FQoxqPxMQjlqluCvBQMlfX5hy2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://blackfawnfilms.com/film/it-feeds/",
+  "id": 1145221,
+  "imdb_id": "tt28230296",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "It Feeds",
+  "overview": "A clairvoyant therapist confronts her own personal demons while trying to save a young girl who believes a malevolent entity is feeding on her.",
+  "popularity": 7.6487,
+  "poster_path": "/uC3lzzgOUgkubje7HR20qznAAGj.jpg",
+  "production_companies": [
+    {
+      "id": 9315,
+      "logo_path": null,
+      "name": "Black Fawn Films",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-04-17",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "It Feeds",
+  "video": false,
+  "vote_average": 6.758,
+  "vote_count": 180
+}

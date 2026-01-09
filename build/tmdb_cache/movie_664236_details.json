@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/yd2xws5wVT2Ss6f0Q0oTkdYtiQE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81159137",
+  "id": 664236,
+  "imdb_id": "tt8241000",
+  "origin_country": [
+    "CA",
+    "CN",
+    "UA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Extinct",
+  "overview": "Op and Ed, two adorable donut-shaped animals - flummels - accidentally time-travel from 1835 to modern-day Shanghai.  There they discover traffic, trans fats, and worst of all, that flummels are now extinct. It's up to this bumbling pair to save themselves and their species...and, just maybe, change the course of history.",
+  "popularity": 3.8531,
+  "poster_path": "/kchu0regBPDjWORUzvTblyoA5aE.jpg",
+  "production_companies": [
+    {
+      "id": 127846,
+      "logo_path": "/kl0Q9ybMW4PSk9O4tvrQamK9q9e.png",
+      "name": "China Lion Entertainment Production",
+      "origin_country": "CN"
+    },
+    {
+      "id": 127847,
+      "logo_path": "/bLOD324IK5x3gJs0lps4hn8fLTE.png",
+      "name": "HB Wink Animation",
+      "origin_country": "CN"
+    },
+    {
+      "id": 17012,
+      "logo_path": "/enLvrlJMjhMwmL9BiJrnF0uCzTf.png",
+      "name": "Timeless Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 150495,
+      "logo_path": null,
+      "name": "Tolerable Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 3393,
+      "logo_path": "/rv37YfhPg03ugK252E4oXMzgvks.png",
+      "name": "Huayi Brothers Pictures",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-02-11",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The end is just their beginning.",
+  "title": "Extinct",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 180
+}

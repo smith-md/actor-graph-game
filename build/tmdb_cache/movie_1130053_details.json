@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/orTQxcx2aoNpx1DIKTjBzpzvzd0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1130053,
+  "imdb_id": "tt27819388",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Cinderella's Curse",
+  "overview": "Desperate Cinderella summons her fairy godmother from an ancient flesh-bound book, seeking revenge on her evil stepmother and stepsisters who abuse and torment her daily.",
+  "popularity": 3.0069,
+  "poster_path": "/8M4G8mRPCFE3kkNhDyUd5KpKiAs.jpg",
+  "production_companies": [
+    {
+      "id": 111974,
+      "logo_path": "/972APERrz9kelCZtUJdfSJd1u4n.png",
+      "name": "ChampDog Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 148176,
+      "logo_path": null,
+      "name": "ITN Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-05-31",
+  "revenue": 47300,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Cinderella goes on a massacre at the ball.",
+  "title": "Cinderella's Curse",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 80
+}

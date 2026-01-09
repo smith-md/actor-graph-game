@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/84HzMOgL2gyTHnmkt1hrhep98FB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 10960,
+  "imdb_id": "tt0117397",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Project: ALF",
+  "overview": "Six years ago, the space alien ALF was on his way back to his new home when the Alien Task Force finally caught up with him. Now he is being studied at a top-secret base. There he finds allies who feel that ALF's existence should be announced to the world to ensure his safety... especially when they learn that the abrasive Colonel Milfoil wants ALF destroyed.",
+  "popularity": 5.767,
+  "poster_path": "/cI69vlDUuSrkSM5sFvBPgxptdt5.jpg",
+  "production_companies": [
+    {
+      "id": 62631,
+      "logo_path": null,
+      "name": "Alien Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 4963,
+      "logo_path": null,
+      "name": "Patchett Kaufman Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 62630,
+      "logo_path": null,
+      "name": "Paul Fusco Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 18692,
+      "logo_path": "/nZNzWVy6Da5r7WCuV8Mocwj2Ebe.png",
+      "name": "UFA Fernsehproduktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-02-17",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Call the government! Alert the media! Hide the cat! ALF's back!",
+  "title": "Project: ALF",
+  "video": false,
+  "vote_average": 5.928,
+  "vote_count": 125
+}

@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/jX1lMK3YIJZyNTV7mK6f2LRaQk6.jpg",
+  "belongs_to_collection": null,
+  "budget": 5500000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 39293,
+  "imdb_id": "tt0080903",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Human Factor",
+  "overview": "When a leak of information in the African section of British Intelligence is discovered, a security man is brought in to investigate.",
+  "popularity": 0.6552,
+  "poster_path": "/9u3aUUbjPGFKgdtkR0wlHGPddMh.jpg",
+  "production_companies": [
+    {
+      "id": 800,
+      "logo_path": null,
+      "name": "Wheel Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 364,
+      "logo_path": null,
+      "name": "The Rank Organisation",
+      "origin_country": "GB"
+    },
+    {
+      "id": 97446,
+      "logo_path": null,
+      "name": "The Sigma Production",
+      "origin_country": ""
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1979-12-18",
+  "revenue": 376050,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every man in love is a potential traitor.",
+  "title": "The Human Factor",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 30
+}

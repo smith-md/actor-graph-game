@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/sATm0ugYIXojJehHOJie7F80jGu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.web10824.editorweb.es/",
+  "id": 303451,
+  "imdb_id": "tt3381028",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Cuerdas",
+  "overview": "María's routine at school is altered by the arrival of a very special child. Soon, they become close friends.",
+  "popularity": 2.8632,
+  "poster_path": "/4E8xmnY7ipl04hcKgRvCYBMtXQ0.jpg",
+  "production_companies": [
+    {
+      "id": 38412,
+      "logo_path": null,
+      "name": "La Fiesta",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2013-11-15",
+  "revenue": 0,
+  "runtime": 10,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Strings",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 221
+}

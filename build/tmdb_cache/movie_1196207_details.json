@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/X5N8GliuEHrKBydQnKcztqT7AV.jpg",
+  "belongs_to_collection": {
+    "id": 1576831,
+    "name": "La Navidad en sus manos - Colección",
+    "poster_path": "/5gVxsREqgvhoGthV8WxRx4WVDrM.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81760566",
+  "id": 1196207,
+  "imdb_id": "tt38895441",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "La Navidad en sus manos 2",
+  "overview": "When Santa vanishes during a chaotic Christmas, a quirky actor tries to replace him. A father, his teen son and special friends must rescue Santa to save Christmas.",
+  "popularity": 5.1623,
+  "poster_path": "/n1YtLc6viVt93gOdU8SX7mnq22y.jpg",
+  "production_companies": [
+    {
+      "id": 91991,
+      "logo_path": "/ngEpBkH7nkFfyCCtvGhhIzPS1xF.png",
+      "name": "Bowfinger",
+      "origin_country": "ES"
+    },
+    {
+      "id": 149886,
+      "logo_path": "/oDG7mNqzGZGRI8Q4qIAPOS0wdh4.png",
+      "name": "Esto También Pasará",
+      "origin_country": "ES"
+    },
+    {
+      "id": 10012,
+      "logo_path": "/p2lszp9t84Mq9H87ITBCzopuUu4.png",
+      "name": "Nadie es Perfecto",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-12-05",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Night My Dad Saved Christmas 2",
+  "video": false,
+  "vote_average": 5.533,
+  "vote_count": 30
+}

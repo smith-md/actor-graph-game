@@ -1,0 +1,120 @@
+{
+  "adult": false,
+  "backdrop_path": "/6EWrPiEy8aZfNNc8pS0Y6NYct5z.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 575659,
+  "imdb_id": "tt6470924",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Berlin Alexanderplatz",
+  "overview": "In 2015, thirty year old refugee Francis, the sole survivor of a boat that illegally crossed the Mediterranean, is drawn into Berlin's seedy underbelly.",
+  "popularity": 4.7157,
+  "poster_path": "/5i3ZUjsjDWrcqPGRoKrHsAltBvD.jpg",
+  "production_companies": [
+    {
+      "id": 2345,
+      "logo_path": "/nozBgqHmM9A22IHkghTnLiUrM7Q.png",
+      "name": "Lemming Film",
+      "origin_country": "NL"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 89928,
+      "logo_path": "/2YWbDh8M0QzX2vx4eojaK0zSetd.png",
+      "name": "Wild At Art",
+      "origin_country": "NL"
+    },
+    {
+      "id": 2685,
+      "logo_path": "/ewmxzGZreCRo3qbz6xoAlulnnKL.png",
+      "name": "Sommerhaus Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 8147,
+      "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+      "name": "Entertainment One",
+      "origin_country": "CA"
+    },
+    {
+      "id": 201,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "FR"
+    },
+    {
+      "id": 60227,
+      "logo_path": null,
+      "name": "Two Oceans Production (TOP)",
+      "origin_country": "ZA"
+    },
+    {
+      "id": 1080,
+      "logo_path": "/6bZ0BiLDzCZSqVCjiSqweWwp9Ew.png",
+      "name": "Beta Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2020-06-25",
+  "revenue": 263274,
+  "runtime": 184,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Berlin Alexanderplatz",
+  "video": false,
+  "vote_average": 6.904,
+  "vote_count": 83
+}

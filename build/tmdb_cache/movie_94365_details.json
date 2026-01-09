@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/b2AfxdTbNifN9cAH8KVqH51Y4VS.jpg",
+  "belongs_to_collection": {
+    "id": 96671,
+    "name": "The Human Centipede Collection",
+    "poster_path": "/mv0MySTqfXg2ndthOkBg6bGwlnk.jpg",
+    "backdrop_path": "/wEux24WEOO5re5alLJZR7vMgeRN.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 94365,
+  "imdb_id": "tt1883367",
+  "origin_country": [
+    "US",
+    "NL"
+  ],
+  "original_language": "en",
+  "original_title": "The Human Centipede 3 (Final Sequence)",
+  "overview": "Taking inspiration from The Human Centipede films, the warden of a notorious and troubled prison looks to create a 500-person human centipede as a solution to his problems.",
+  "popularity": 3.7202,
+  "poster_path": "/xUk5AGcGvybPBvvMqrDPbAFAknD.jpg",
+  "production_companies": [
+    {
+      "id": 5652,
+      "logo_path": null,
+      "name": "Six Entertainment",
+      "origin_country": "NL"
+    },
+    {
+      "id": 116969,
+      "logo_path": null,
+      "name": "Six Entertainment Company",
+      "origin_country": ""
+    },
+    {
+      "id": 70784,
+      "logo_path": "/17G3JkSIjyFBbvSkmk0xPf6pysm.png",
+      "name": "IFC Midnight",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-05-22",
+  "revenue": 16184,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "100% politically incorrect.",
+  "title": "The Human Centipede 3 (Final Sequence)",
+  "video": false,
+  "vote_average": 3.754,
+  "vote_count": 829
+}

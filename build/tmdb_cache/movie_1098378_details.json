@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/uiEgyO6bFsNRt4CGd8VJwXcBnmD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.yourmonstermovie.com",
+  "id": 1098378,
+  "imdb_id": "tt22741760",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Your Monster",
+  "overview": "After her life falls apart, soft-spoken actress Laura Franco finds her voice again when she meets a terrifying, yet weirdly charming, monster living in her closet.",
+  "popularity": 4.5881,
+  "poster_path": "/nHlHRntqfDM0ORsfgPL28u4GiTT.jpg",
+  "production_companies": [
+    {
+      "id": 100888,
+      "logo_path": "/vY5s0Blx7Q57DFsfC6ZHAcbRDVB.png",
+      "name": "Bombo Sports and Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 149867,
+      "logo_path": null,
+      "name": "Mermade",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-25",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love can be a beast.",
+  "title": "Your Monster",
+  "video": false,
+  "vote_average": 6.524,
+  "vote_count": 85
+}

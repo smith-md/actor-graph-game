@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/kK7C6OpoeLwEOBh2cnls7Cf5crw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 97814,
+  "imdb_id": "tt0304722",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Skinned Deep",
+  "overview": "An ordinary family goes on a trip by car, but their car breaks down. The dutiful father of the family immediately sets off to get help and seems to find it with a nice elderly lady. The woman invites the whole family to dinner, but the hospitality soon turns out to be an ambush.",
+  "popularity": 3.9299,
+  "poster_path": "/gBVWqUMsJSILw5Z7IlwNAne9Tou.jpg",
+  "production_companies": [
+    {
+      "id": 9133,
+      "logo_path": null,
+      "name": "Center Ring Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-02-14",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Meet the surgeon general!",
+  "title": "Skinned Deep",
+  "video": false,
+  "vote_average": 3.856,
+  "vote_count": 45
+}

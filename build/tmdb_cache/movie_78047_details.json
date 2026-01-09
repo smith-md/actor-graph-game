@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/wEM5V7acuvIE0h2FtNCDCCX2U8C.jpg",
+  "belongs_to_collection": {
+    "id": 91657,
+    "name": "Buddies Collection",
+    "poster_path": "/dBTf3e1Cgh9t1i4g8XkJBvytL8d.jpg",
+    "backdrop_path": "/teaPmKzKuk1lR6hOq71THl8u2A5.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 78047,
+  "imdb_id": "tt1791658",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Treasure Buddies",
+  "overview": "In a race against a devious cat, the Buddies and their new friends, Cammy and Babi, must avoid booby traps, solve puzzles and explore a mysterious tomb - all in search of the greatest treasure known to animalkind!",
+  "popularity": 3.8073,
+  "poster_path": "/1wNGZzH3gTmrf7k7CdQ2aQrAeOM.jpg",
+  "production_companies": [
+    {
+      "id": 19649,
+      "logo_path": null,
+      "name": "Key Pix Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 63908,
+      "logo_path": null,
+      "name": "Treasure Buddies Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 3202,
+      "logo_path": "/rwiCINCud2HXc7Rf9aSnQDDMyQX.png",
+      "name": "Walt Disney Studios Home Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-01-31",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Treasure Buddies",
+  "video": false,
+  "vote_average": 6.081,
+  "vote_count": 118
+}

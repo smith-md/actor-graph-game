@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/fzzaX1JBBiRzaJR55TMuvWl5m56.jpg",
+  "belongs_to_collection": {
+    "id": 1023610,
+    "name": "Name Collection",
+    "poster_path": "/v0aFydLWMcUvVwtJaoe1W726BHd.jpg",
+    "backdrop_path": "/onSs0KMK58kpH9I1wIrpdWgg4H3.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1219552,
+  "imdb_id": "tt33111620",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Der Spitzname",
+  "overview": "Anna and Thomas want to get married in the South Tyrolean Alps. However, Stephan's daughter Antigone and the family clan bring so much chaos to the planned idyll that it's not just the wedding that is on the rocks.",
+  "popularity": 4.3421,
+  "poster_path": "/xS0IqNxxpEHJHOZy3ky3IwbfzXt.jpg",
+  "production_companies": [
+    {
+      "id": 47,
+      "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1833,
+      "logo_path": "/6Ot5X5xRv0PvZ9cUUD5ZymSruLi.png",
+      "name": "Epo-Film",
+      "origin_country": "AT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2024-12-19",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Weddings and Wokes: A Family Dilemma",
+  "video": false,
+  "vote_average": 6.398,
+  "vote_count": 59
+}

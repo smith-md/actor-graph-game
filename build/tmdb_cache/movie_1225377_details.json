@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/o9FgMDfXUQPXh3khwCnDMiX6Cyi.jpg",
+  "belongs_to_collection": {
+    "id": 1353169,
+    "name": "The Mouse Trap Collection",
+    "poster_path": "/gIuOtmTlzQnZDe3nM46t43uBK8u.jpg",
+    "backdrop_path": "/vekKVGsXyD2Tpv5cKLnEdyy1uDg.jpg"
+  },
+  "budget": 800000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1225377,
+  "imdb_id": "tt30743549",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "The Mouse Trap",
+  "overview": "It's Alex's 21st Birthday, but she's stuck at the amusement arcade on a late shift so her friends decide to surprise her, but a masked killer dressed as Mickey Mouse decides to play a game of his own with them which she must survive.",
+  "popularity": 2.4689,
+  "poster_path": "/3ovFaFeojLFIl5ClqhtgYMDS8sE.jpg",
+  "production_companies": [
+    {
+      "id": 217337,
+      "logo_path": null,
+      "name": "Into Frame Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 217394,
+      "logo_path": null,
+      "name": "Bailey Phillips Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 238324,
+      "logo_path": null,
+      "name": "MM TRAP",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2024-08-23",
+  "revenue": 5737,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This is not the funhouse.",
+  "title": "The Mouse Trap",
+  "video": false,
+  "vote_average": 4.2,
+  "vote_count": 122
+}

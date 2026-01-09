@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/gYF5RQCdLiG7fSwID6ZG46F5Pe2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 74192,
+  "imdb_id": "tt0115536",
+  "origin_country": [
+    "FR",
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "El amor perjudica seriamente la salud",
+  "overview": "Madrid, 1965. When The Beatles arrive in the city, Diana goes to great lengths to meet them.",
+  "popularity": 2.0597,
+  "poster_path": "/ytw0cAAowy6JxHfzKrKmqPTfTeK.jpg",
+  "production_companies": [
+    {
+      "id": 15469,
+      "logo_path": "/g5vcTT1IgeRyhcpqPvThutjBtOa.png",
+      "name": "Sogetel",
+      "origin_country": "ES"
+    },
+    {
+      "id": 1936,
+      "logo_path": "/kwmlQtcywUuEpXr4PX05bW169Ci.png",
+      "name": "BocaBoca Producciones",
+      "origin_country": "ES"
+    },
+    {
+      "id": 183,
+      "logo_path": "/eadyph99FClrWlnE0jPniwOcvvw.png",
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 21113,
+      "logo_path": null,
+      "name": "DMVB Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1997-07-01",
+  "revenue": 0,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love Can Seriously Damage Your Health",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 52
+}

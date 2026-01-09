@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/dUbOGH7CWEIr2aCZBpG2n33Vhw2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1141182,
+  "imdb_id": "tt21097192",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Die Alone",
+  "overview": "Lost in a world reclaimed by nature and overrun by mysterious creatures, Ethan, a young man with amnesia navigates the dangerous landscape in search of his lost love Emma.  His journey takes an unexpected turn when he encounters Mae, a hardened and eccentric survivor.  Together, Ethan and Mae face threats both human and otherwise before a fateful encounter with Kai unravels a secret that lies just beyond Ethan's fractured memory.",
+  "popularity": 4.2904,
+  "poster_path": "/dQdIj2OYELhLzECWONY932wGRxA.jpg",
+  "production_companies": [
+    {
+      "id": 8583,
+      "logo_path": null,
+      "name": "Minds Eye Entertainment",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2024-09-27",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Bodies die. Love survives.",
+  "title": "Die Alone",
+  "video": false,
+  "vote_average": 5.953,
+  "vote_count": 118
+}

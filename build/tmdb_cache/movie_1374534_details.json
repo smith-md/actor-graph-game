@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/9l6bcHNFLR2fcCBSPzEeqxiQhwU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81661402",
+  "id": 1374534,
+  "imdb_id": "tt27675583",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "Bad Boa's",
+  "overview": "When an overeager community officer and a reckless ex-detective are forced to team up, plenty of chaos ensues on the streets of Rotterdam.",
+  "popularity": 7.7474,
+  "poster_path": "/7bcndiaTgu1Kj5a6qyCmsWYdtI.jpg",
+  "production_companies": [
+    {
+      "id": 67254,
+      "logo_path": "/oV4xUvzWljGW1QVAa8qR2INNyN7.png",
+      "name": "Kaap Holland Film",
+      "origin_country": "NL"
+    },
+    {
+      "id": 214324,
+      "logo_path": "/mdSSOWMQQqye3FTfrirwKQYF24T.png",
+      "name": "Het huis van Asporaat",
+      "origin_country": "NL"
+    },
+    {
+      "id": 267752,
+      "logo_path": "/lYnzjlFXv8EC0kUvu6nu3MURSib.png",
+      "name": "Huntu Productions",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2025-07-10",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Almost Cops",
+  "video": false,
+  "vote_average": 5.96,
+  "vote_count": 164
+}

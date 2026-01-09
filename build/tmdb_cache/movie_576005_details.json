@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/aGZLVp1O4SWOGxJ0HeWc3vHQ5Mg.jpg",
+  "belongs_to_collection": null,
+  "budget": 150000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.saintfrancesmovie.com/",
+  "id": 576005,
+  "imdb_id": "tt9016016",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Saint Frances",
+  "overview": "At the start of the summer, Bridget has an abortion just as she lands a much-needed job in affluent Evanston, Illinois — nannying a six-year old.",
+  "popularity": 3.9967,
+  "poster_path": "/mkiI2VzPLyvZvlsX8WD84P16Cee.jpg",
+  "production_companies": [
+    {
+      "id": 76403,
+      "logo_path": "/29apFW9Vbo98hQIyIZvXKwnpL6i.png",
+      "name": "Visit Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 62513,
+      "logo_path": null,
+      "name": "Easy Open Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 94902,
+      "logo_path": null,
+      "name": "Runaway Train",
+      "origin_country": "US"
+    },
+    {
+      "id": 62514,
+      "logo_path": null,
+      "name": "Metropolitan Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-02-28",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Saint Frances",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 92
+}

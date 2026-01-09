@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/z35zKhZexQ7SZR3sKqtCf66LKcC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1188423,
+  "imdb_id": "tt10278542",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Site",
+  "overview": "After a terrifying encounter at an abandoned government test site, a small town family man begins seeing haunting visions of a past that threatens to destroy his present.",
+  "popularity": 4.3356,
+  "poster_path": "/ynfYUQ2qIFtE2sd7YiN1XzaKOjt.jpg",
+  "production_companies": [
+    {
+      "id": 210423,
+      "logo_path": null,
+      "name": "Entelekey Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-08",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The past is present.",
+  "title": "Site",
+  "video": false,
+  "vote_average": 6.396,
+  "vote_count": 24
+}

@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/pbcKKVPlySkjr1oMCQyNKZBoI5A.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1299046,
+  "imdb_id": "tt32810496",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Diamanti",
+  "overview": "A film director gathers his favorite actresses, those he worked with and those he loved. He wants to make a film about women but he doesn’t reveal much: he observes them, takes cue, until his imaginary throw them into another era, in a past where the noise of the sewing machines fills a workplace handled and populated by women, where men have minor and marginal roles and cinema can be told from another point of view: the one of costume. Between loneliness, passions, anxieties, heartbreaking absence and unbreakable bonds, reality and fiction permeate, as well as the lives of the actresses and those of the characters, the competition and the sisterhood, the visible and the invisible.",
+  "popularity": 4.6495,
+  "poster_path": "/l9Gwwr7nMQzCsOZ9B0b6FlOWTU6.jpg",
+  "production_companies": [
+    {
+      "id": 194105,
+      "logo_path": "/lpvY9NTFDTdm0AqvfUDREkmWmcM.png",
+      "name": "GreenBoo",
+      "origin_country": "IT"
+    },
+    {
+      "id": 181416,
+      "logo_path": null,
+      "name": "Faros Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 115535,
+      "logo_path": "/mYoc1K3UPAUqKfuCYkvDLJN2aAA.png",
+      "name": "Vision Distribution",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2024-12-19",
+  "revenue": 10115104,
+  "runtime": 135,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Diamonds",
+  "video": false,
+  "vote_average": 7.192,
+  "vote_count": 279
+}

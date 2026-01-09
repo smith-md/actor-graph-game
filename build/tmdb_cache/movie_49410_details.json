@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/bpjXnHzkbXbb09XsRNpufEr3TVw.jpg",
+  "belongs_to_collection": null,
+  "budget": 1800000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 49410,
+  "imdb_id": "tt0104922",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Motorama",
+  "overview": "A ten year old boy gets tired of life with abusive parents and cashes in his piggy bank and steals a Mustang. He rides off into a surreal America playing \"Motorama,\" a game sponsored by Chimera Gas Company. He has various encounters with different people, and eventually reaches the Chimera Gas Company where he finds they are not playing by the rules of the game.",
+  "popularity": 3.2132,
+  "poster_path": "/158yiojjP5YxoCkTLcznXeccxUV.jpg",
+  "production_companies": [
+    {
+      "id": 35868,
+      "logo_path": null,
+      "name": "Proletariat Productions Corporation",
+      "origin_country": ""
+    },
+    {
+      "id": 6562,
+      "logo_path": null,
+      "name": "Planet Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-09-10",
+  "revenue": 10535,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There's only one way to win the girl of your dreams: floor it!",
+  "title": "Motorama",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 59
+}

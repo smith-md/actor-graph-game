@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/a2tys4sD7xzVaogPntGsT1ypVoT.jpg",
+  "belongs_to_collection": {
+    "id": 1322637,
+    "name": "Cocaine Bear Collection",
+    "poster_path": "/uGQ0tsfxAppjP5BuJzb83X4hHGe.jpg",
+    "backdrop_path": "/y07NC0quUSSxF8lwkwgqTXvQd2r.jpg"
+  },
+  "budget": 32500000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.cocainebear.movie/",
+  "id": 804150,
+  "imdb_id": "tt14209916",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cocaine Bear",
+  "overview": "Inspired by a true story, an oddball group of cops, criminals, tourists and teens converge in a Georgia forest where a 500-pound black bear goes on a murderous rampage after unintentionally ingesting cocaine.",
+  "popularity": 6.156,
+  "poster_path": "/gOnmaxHo0412UVr1QM5Nekv1xPi.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 12365,
+      "logo_path": "/nwjOaV5QmJ7cbXOBRG4wf8AVeUx.png",
+      "name": "Brownstone Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 77973,
+      "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
+      "name": "Lord Miller",
+      "origin_country": "US"
+    },
+    {
+      "id": 118800,
+      "logo_path": null,
+      "name": "Jurassic Party",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-02-22",
+  "revenue": 88314672,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Get in line.",
+  "title": "Cocaine Bear",
+  "video": false,
+  "vote_average": 6.01,
+  "vote_count": 2328
+}

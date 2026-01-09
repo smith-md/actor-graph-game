@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/2vxKa3gMHc84O1iHRkslqeHSsxE.jpg",
+  "belongs_to_collection": null,
+  "budget": 7819000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1068452,
+  "imdb_id": "tt25433734",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "హాయ్ నాన్న",
+  "overview": "Six-year-old Mahi, a spirited child with cystic fibrosis, shares a deep yet complex bond with her father, Viraj, a dedicated single parent and successful fashion photographer. Her curiosity about her absent mother leads to a journey of discovery when she runs away with her loyal dog, Pluto. A chance encounter with a kind woman named Yashna sparks unexpected revelations, intertwining their lives in ways they never anticipated. Set against a backdrop of love, sacrifice, and redemption, Mahi’s story is a heartfelt exploration of family, resilience, and the enduring power of connection.",
+  "popularity": 10.1528,
+  "poster_path": "/hhMLtq9m1aK0dpY9Wcq26XeDH2z.jpg",
+  "production_companies": [
+    {
+      "id": 189491,
+      "logo_path": "/6eJXkSYVMkAF3GXjwtUxeZH3EuS.png",
+      "name": "Vyra Entertainments",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2023-12-07",
+  "revenue": 9184966,
+  "runtime": 155,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hi Nanna",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 59
+}

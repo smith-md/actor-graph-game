@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/jDmsdUZbkBMY0cCZPwD5xJOKGd4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "http://www.szabadsagszerelemafilm.hu/",
+  "id": 13616,
+  "imdb_id": "tt0486219",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Szabadság, szerelem",
+  "overview": "During the ill-fated Hungarian revolution of 1956, Karcsi Szabo, star player on the water polo team, is torn between his love for a revolutionary student and his training for the Melbourne Olympics.",
+  "popularity": 4.3707,
+  "poster_path": "/nItIaVLewCOqeEWt8Kamj8TBM9B.jpg",
+  "production_companies": [
+    {
+      "id": 73899,
+      "logo_path": "/hlM9Omz5BG0t5jOl2khg4vkRbOt.png",
+      "name": "Flashback Productions",
+      "origin_country": "HU"
+    },
+    {
+      "id": 7340,
+      "logo_path": "/6md5HA8YherOD0apQ1XwsAbXiz5.png",
+      "name": "C2 Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11968,
+      "logo_path": null,
+      "name": "Magyar Mozgókép Közalapítány",
+      "origin_country": ""
+    },
+    {
+      "id": 150531,
+      "logo_path": null,
+      "name": "Országos Rádió és Televízió Testület (ORTT)",
+      "origin_country": ""
+    },
+    {
+      "id": 238633,
+      "logo_path": null,
+      "name": "Oktatási és Kulturális Minisztérium",
+      "origin_country": ""
+    },
+    {
+      "id": 10379,
+      "logo_path": null,
+      "name": "Film and General Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-10-23",
+  "revenue": 71446,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Children of Glory",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 36
+}

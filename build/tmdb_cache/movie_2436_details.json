@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/gJXt3gMz4EF39mdyhvy5EsXdiPk.jpg",
+  "belongs_to_collection": null,
+  "budget": 3500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 2436,
+  "imdb_id": "tt0106761",
+  "origin_country": [
+    "DK",
+    "US",
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "Double Dragon",
+  "overview": "Two brothers have half of a powerful ancient Chinese talisman. An evil gang leader has the other half, and determines to get the brothers' half and have a complete medallion so he can gain absolute power.",
+  "popularity": 4.0272,
+  "poster_path": "/9ZTYSD8ZesYMKqLRbmVfZUW1FiE.jpg",
+  "production_companies": [
+    {
+      "id": 37,
+      "logo_path": "/wniaiKc5UCnC8qZcNKZNYwdKnUv.png",
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 21437,
+      "logo_path": "/4JzGnT8XGMrdGHHOfVaMNNKLZAp.png",
+      "name": "Imperial Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 17559,
+      "logo_path": null,
+      "name": "Scanbox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-11-04",
+  "revenue": 2341309,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Power. Justice. Darkness. Light.",
+  "title": "Double Dragon",
+  "video": false,
+  "vote_average": 4.539,
+  "vote_count": 372
+}

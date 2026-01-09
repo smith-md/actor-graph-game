@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/accTIUygtg24TM7wT7uQMMdvYUW.jpg",
+  "belongs_to_collection": null,
+  "budget": 36000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.meangirls.com",
+  "id": 673593,
+  "imdb_id": "tt11762114",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mean Girls",
+  "overview": "New student Cady Heron is welcomed into the top of the social food chain by the elite group of popular girls called ‘The Plastics,’ ruled by the conniving queen bee Regina George and her minions Gretchen and Karen. However, when Cady makes the major misstep of falling for Regina’s ex-boyfriend Aaron Samuels, she finds herself prey in Regina’s crosshairs. As Cady sets to take down the group’s apex predator with the help of her outcast friends Janis and Damian, she must learn how to stay true to herself while navigating the most cutthroat jungle of all: high school.",
+  "popularity": 6.2549,
+  "poster_path": "/fbbj3viSUDEGT1fFFMNpHP1iUjw.jpg",
+  "production_companies": [
+    {
+      "id": 26402,
+      "logo_path": "/1BFbFgEhD1tJShFTYPNt87q99rD.png",
+      "name": "Little Stranger",
+      "origin_country": "US"
+    },
+    {
+      "id": 1756,
+      "logo_path": "/d7YyNzysIF0lSb4lJRf1ar6MHxi.png",
+      "name": "Broadway Video",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-01-10",
+  "revenue": 104970953,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Plastic is forever.",
+  "title": "Mean Girls",
+  "video": false,
+  "vote_average": 5.926,
+  "vote_count": 680
+}

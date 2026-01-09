@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/cugd16e3WbCG3Zogb8N7lwUnVXH.jpg",
+  "belongs_to_collection": {
+    "id": 48655,
+    "name": "Deathstalker Collection",
+    "poster_path": "/lXxbywRtTyCBY6PhrRHV8RHwNUN.jpg",
+    "backdrop_path": "/t96b8refI7jfKTWBhW6go68rLd6.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.kickstarter.com/projects/deathstalker-movie/deathstalker",
+  "id": 1253000,
+  "imdb_id": "tt33996087",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Deathstalker",
+  "overview": "A powerful swordsman known as Deathstalker recovers a cursed amulet from a corpse-strewn battlefield. Marked by dark magic and hunted by monstrous assassins, he must face the rising evil and break the curse.",
+  "popularity": 4.1339,
+  "poster_path": "/nEI3DnzQC1afAjJOAizx6UX27pL.jpg",
+  "production_companies": [
+    {
+      "id": 166352,
+      "logo_path": "/iGT88rHQbaTOqlGka0FcDA7Yudw.png",
+      "name": "Hangar 18 Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 272552,
+      "logo_path": "/qEdWbPT5fq85RjpcAJ2RY1dpGlY.png",
+      "name": "BerserkerGang",
+      "origin_country": "US"
+    },
+    {
+      "id": 118155,
+      "logo_path": "/gZh4ZgiE9bNfDvdhwKE2peIhOY9.png",
+      "name": "Shout! Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 25884,
+      "logo_path": null,
+      "name": "Raven Banner Entertainment",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-10-10",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Evil has many names. Adventure has only one...",
+  "title": "Deathstalker",
+  "video": false,
+  "vote_average": 6.177,
+  "vote_count": 31
+}

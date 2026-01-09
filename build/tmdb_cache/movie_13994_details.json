@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/4RbxxPAUushqUYNO8EW09GSluBt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 13994,
+  "imdb_id": "tt0368222",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Romance & Cigarettes",
+  "overview": "Ironworker Nick lives with his wife, Kitty, and three daughters. When he meets a significantly younger woman, Tula, he starts an affair with her, much to the chagrin of his wife, and his life is thrown into upheaval. Kitty kicks Nick out of the house, and he is forced to make some difficult decisions.",
+  "popularity": 4.2151,
+  "poster_path": "/phSntD46jD5IfYAa2lSoU6xJDJ6.jpg",
+  "production_companies": [
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 4564,
+      "logo_path": "/pQQ5WKlDFbTIrsgkCTUoMqDtmpy.png",
+      "name": "Icon Entertainment International",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2150,
+      "logo_path": null,
+      "name": "GreeneStreet Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 533,
+      "logo_path": "/yhjt5QW0JINvDPwdMBDMYnvlMKF.png",
+      "name": "Janus Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-09-13",
+  "revenue": 2945242,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Romance & Cigarettes",
+  "video": false,
+  "vote_average": 5.931,
+  "vote_count": 149
+}

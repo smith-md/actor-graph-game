@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/i3fkCA1syexLsxINZJad5ERteT5.jpg",
+  "belongs_to_collection": null,
+  "budget": 600000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 18209,
+  "imdb_id": "tt0061391",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Bedazzled",
+  "overview": "A hapless loser sells his soul to the Devil in exchange for seven wishes, but has trouble winning over the girl of his dreams.",
+  "popularity": 3.3586,
+  "poster_path": "/4POWJtOXt19PWfO18rHpw5GIQc6.jpg",
+  "production_companies": [
+    {
+      "id": 11404,
+      "logo_path": null,
+      "name": "Stanley Donen Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1967-10-30",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An irreverent romp that raises hell",
+  "title": "Bedazzled",
+  "video": false,
+  "vote_average": 6.152,
+  "vote_count": 168
+}

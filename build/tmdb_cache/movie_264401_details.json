@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/yXuJeoPkxYjWS9XyNzuR8VDZLLJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.glorialapelicula.com",
+  "id": 264401,
+  "imdb_id": "tt2618368",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Gloria",
+  "overview": "Gloria never imagined that an audition for the music producer Sergio Andrade was going to change her life so drastically. King Midas not only brought her to stardom, but also to a dramatic story of love, heartbreak and betrayal. Based on the life story of  pop/rock singer Gloria Trevi.",
+  "popularity": 2.8396,
+  "poster_path": "/1yVRLamL1TixPSrWAJQ51AI6PZr.jpg",
+  "production_companies": [
+    {
+      "id": 5726,
+      "logo_path": "/7AYU97zQGg3aV3sTiSV0NihOgXG.png",
+      "name": "Universal Pictures International",
+      "origin_country": "GB"
+    },
+    {
+      "id": 10630,
+      "logo_path": null,
+      "name": "Rio Negro",
+      "origin_country": ""
+    },
+    {
+      "id": 58879,
+      "logo_path": "/le0j7yzBOYcxGqC7YeuiFmgP5E3.png",
+      "name": "Labo",
+      "origin_country": "MX"
+    },
+    {
+      "id": 9980,
+      "logo_path": "/tvtK88MhdxjOZN3zSeyrkP8iWd1.png",
+      "name": "Fondo para la Producción Cinematográfica de Calidad",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2014-10-20",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fame is very difficult to control",
+  "title": "Gloria",
+  "video": false,
+  "vote_average": 7.375,
+  "vote_count": 128
+}

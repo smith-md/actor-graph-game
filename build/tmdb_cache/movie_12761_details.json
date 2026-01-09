@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/3DOOgeZfoYUKXAyYrpRObv2PNDd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 12761,
+  "imdb_id": "tt0077711",
+  "origin_country": [
+    "DE",
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Höstsonaten",
+  "overview": "After a seven-year absence, Charlotte Andergast travels to Sweden to reunite with her daughter Eva. The pair have a troubled relationship: Charlotte sacrificed the responsibilities of motherhood for a career as a classical pianist. Over an emotional night, the pair reopen the wounds of the past. Charlotte gets another shock when she finds out that her mentally impaired daughter, Helena, is out of the asylum and living with Eva.",
+  "popularity": 4.1285,
+  "poster_path": "/6beNbtCXv3GkzHkxkGYf38ib7v8.jpg",
+  "production_companies": [
+    {
+      "id": 26239,
+      "logo_path": null,
+      "name": "Suede Film",
+      "origin_country": ""
+    },
+    {
+      "id": 7447,
+      "logo_path": null,
+      "name": "Personafilm",
+      "origin_country": ""
+    },
+    {
+      "id": 1155,
+      "logo_path": "/rKTzFu5woCo8k0u9ML7mWeLY541.png",
+      "name": "ITC Entertainment",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1978-10-08",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A mother and a daughter. What a terrible combination of feelings, confusion and destruction.",
+  "title": "Autumn Sonata",
+  "video": false,
+  "vote_average": 7.987,
+  "vote_count": 673
+}

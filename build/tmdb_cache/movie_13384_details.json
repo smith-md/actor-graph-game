@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/eWvxOS5g67B1b46Cff9TlYuJleY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 13384,
+  "imdb_id": "tt0064541",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Kes",
+  "overview": "Bullied at school and ignored and abused at home by his indifferent mother and older brother, Billy Casper, a 15-year-old working-class Yorkshire boy, tames and trains his pet kestrel falcon whom he names Kes. Helped and encouraged by his English teacher and his fellow students, Billy finally finds a positive purpose to his unhappy existence.",
+  "popularity": 3.1511,
+  "poster_path": "/r1FMq75irhsQBVGjXhPU4xA9SDo.jpg",
+  "production_companies": [
+    {
+      "id": 1980,
+      "logo_path": null,
+      "name": "Woodfall Film Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 27023,
+      "logo_path": null,
+      "name": "Kestrel Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1970-04-03",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They beat him. They deprived him. They ridiculed him. They broke his heart. But they couldn’t break his spirit.",
+  "title": "Kes",
+  "video": false,
+  "vote_average": 7.42,
+  "vote_count": 424
+}

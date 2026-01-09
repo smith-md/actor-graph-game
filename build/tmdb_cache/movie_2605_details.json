@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/q5bvUaw6xjPvsdnjaoPknXoxHur.jpg",
+  "belongs_to_collection": {
+    "id": 86347,
+    "name": "Short Circuit Collection",
+    "poster_path": "/Asq0lR57TrctD5ZhWsVvKA9gRuK.jpg",
+    "backdrop_path": "/6o0PEsENKA7DLIs2G2lAlD5WBrd.jpg"
+  },
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 2605,
+  "imdb_id": "tt0091949",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Short Circuit",
+  "overview": "After a lightning bolt zaps a robot named Number 5, the lovable machine starts to think he's human and escapes the lab. Hot on his trail is his designer, Newton, who hopes to get to Number 5 before the military does. In the meantime, a spunky animal lover mistakes the robot for an alien and takes him in, teaching her new guest about life on Earth.",
+  "popularity": 6.6745,
+  "poster_path": "/e3eimdUK6lLe0iaSlLrYVQF3yeL.jpg",
+  "production_companies": [
+    {
+      "id": 559,
+      "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1256,
+      "logo_path": "/7uiQEAkpcngVIBiQEkok4G93G5E.png",
+      "name": "PSO",
+      "origin_country": "US"
+    },
+    {
+      "id": 662,
+      "logo_path": null,
+      "name": "The Turman-Foster Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-05-09",
+  "revenue": 40697761,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Something wonderful has happened... No. 5 is alive.",
+  "title": "Short Circuit",
+  "video": false,
+  "vote_average": 6.641,
+  "vote_count": 1572
+}

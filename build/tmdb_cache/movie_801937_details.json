@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/qG2uiyOgXkqWhAG7EpfNgwaYTJ3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 801937,
+  "imdb_id": "tt34508974",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Silent Night, Deadly Night",
+  "overview": "After witnessing his parents’ brutal murder on Christmas Eve, Billy transforms into a Killer Santa, delivering a yearly spree of calculated, chilling violence. This year, his blood-soaked mission collides with love, as a young woman challenges him to confront his darkness.",
+  "popularity": 3.2711,
+  "poster_path": "/xCdSd7NnRdnL8DGLVhI95WhUNoi.jpg",
+  "production_companies": [
+    {
+      "id": 238902,
+      "logo_path": "/jLAg5fOlAw1Jl8Q7WoyKxh1H22y.png",
+      "name": "Cineverse",
+      "origin_country": "US"
+    },
+    {
+      "id": 260081,
+      "logo_path": null,
+      "name": "New Dimension Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 166729,
+      "logo_path": null,
+      "name": "White Bear Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 218453,
+      "logo_path": null,
+      "name": "Rebel 6 Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 252730,
+      "logo_path": null,
+      "name": "Sixth Dimension",
+      "origin_country": "FR"
+    },
+    {
+      "id": 150235,
+      "logo_path": null,
+      "name": "Wonderwheel Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 201651,
+      "logo_path": null,
+      "name": "Bear Paw Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-12-11",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Akan",
+      "iso_639_1": "ak",
+      "name": "Ákán"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Santa’s gonna slay.",
+  "title": "Silent Night, Deadly Night",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 29
+}

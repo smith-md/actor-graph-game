@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/tCQfubckzzcuCbsGugkpLhfjS5z.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.peacocktv.com/stream-movies/the-killer",
+  "id": 970347,
+  "imdb_id": "tt1121948",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Killer",
+  "overview": "Zee is a feared contract killer known as \"the Queen of the Dead,\" but when she refuses to murder a young blind woman, she finds herself hunted both by criminal colleagues and a determined police detective.",
+  "popularity": 4.2827,
+  "poster_path": "/6PCnxKZZIVRanWb710pNpYVkCSw.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 507,
+      "logo_path": "/aRmHe6GWxYMRCQljF75rn2B9Gv8.png",
+      "name": "Atlas Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 172860,
+      "logo_path": null,
+      "name": "A Better Tomorrow Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 8147,
+      "logo_path": "/q6HOAdSNgCbeOqwoMVRc6REgbXF.png",
+      "name": "Entertainment One",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-22",
+  "revenue": 318618,
+  "runtime": 126,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some alliances form. Others will crumble.",
+  "title": "The Killer",
+  "video": false,
+  "vote_average": 6.288,
+  "vote_count": 486
+}

@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/aXrw7OZmS2dNEa1Vcj1RYirAASa.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 408272,
+  "imdb_id": "tt5294198",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Catfight",
+  "overview": "The rivalry between two former college friends comes to a head when they both attend the same glamorous event.",
+  "popularity": 4.9363,
+  "poster_path": "/j3kLVDNJlU6IIMmtMmFjtSBat7y.jpg",
+  "production_companies": [
+    {
+      "id": 23457,
+      "logo_path": null,
+      "name": "MPI Media Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-09-09",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A black and blue comedy",
+  "title": "Catfight",
+  "video": false,
+  "vote_average": 5.534,
+  "vote_count": 203
+}

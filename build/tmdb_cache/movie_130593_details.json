@@ -1,0 +1,122 @@
+{
+  "adult": false,
+  "backdrop_path": "/qaWWVqXZ7JVr7eJGfyQmN7zA9o2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 130593,
+  "imdb_id": "tt1920945",
+  "origin_country": [
+    "IE",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Good Vibrations",
+  "overview": "The story of music legend Terri Hooley, a key figure in Belfast's punk rock scene. Hooley founded the Good Vibrations store from which a record label sprung, representing bands such as The Undertones, Rudi and The Outcasts.",
+  "popularity": 3.4627,
+  "poster_path": "/s3C0o05CE1zumEB6XTwLI5yLSA0.jpg",
+  "production_companies": [
+    {
+      "id": 260504,
+      "logo_path": null,
+      "name": "Canderblinks Film and Music",
+      "origin_country": ""
+    },
+    {
+      "id": 163,
+      "logo_path": null,
+      "name": "Revolution Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 21872,
+      "logo_path": "/sex8X2qwrKfFTSJLEXMPH4kmDxN.png",
+      "name": "Treasure Entertainment",
+      "origin_country": "IE"
+    },
+    {
+      "id": 707,
+      "logo_path": null,
+      "name": "Matador Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 49252,
+      "logo_path": null,
+      "name": "Cinema One",
+      "origin_country": ""
+    },
+    {
+      "id": 12696,
+      "logo_path": null,
+      "name": "Regent Capital",
+      "origin_country": "GB"
+    },
+    {
+      "id": 167436,
+      "logo_path": null,
+      "name": "Rialtas na hÉireann (Government of Ireland)",
+      "origin_country": ""
+    },
+    {
+      "id": 1898,
+      "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    },
+    {
+      "id": 11667,
+      "logo_path": "/dhBJdstAolGmqRfbQfElhsU1cTo.png",
+      "name": "Northern Ireland Screen",
+      "origin_country": "GB"
+    },
+    {
+      "id": 224442,
+      "logo_path": null,
+      "name": "European Regional Development Fund",
+      "origin_country": ""
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2012-05-31",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Are teenage dreams so hard to beat?",
+  "title": "Good Vibrations",
+  "video": false,
+  "vote_average": 6.739,
+  "vote_count": 111
+}

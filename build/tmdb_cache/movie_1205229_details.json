@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/h2SEtzuABKmcZAnKBJ1za3kETTY.jpg",
+  "belongs_to_collection": null,
+  "budget": 12000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://nightofthezoopocalypse.com/",
+  "id": 1205229,
+  "imdb_id": "tt29544253",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Night of the Zoopocalypse",
+  "overview": "A wolf and mountain lion team up when a meteor unleashes a virus turning zoo animals into zombies. They join forces with other survivors to rescue the zoo and stop the deranged mutant leader from spreading the virus.",
+  "popularity": 3.3948,
+  "poster_path": "/nCejOVZcOxKS27nnbh28NKXOdXF.jpg",
+  "production_companies": [
+    {
+      "id": 5106,
+      "logo_path": "/UjER6i4eM9WuBCVxSSWFtMrsuT.png",
+      "name": "Copperheart Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 102874,
+      "logo_path": "/3oHMY8bVdqo8c9KSQw1ehMc0o3V.png",
+      "name": "Charades",
+      "origin_country": "FR"
+    },
+    {
+      "id": 19037,
+      "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+      "name": "uMedia",
+      "origin_country": "BE"
+    },
+    {
+      "id": 133977,
+      "logo_path": null,
+      "name": "IDL Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 49755,
+      "logo_path": "/iom7Z8e1dzoTfCvwq8F4bJvbeIJ.png",
+      "name": "Apollo Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 75052,
+      "logo_path": "/e2lYXv85KVYCA1bbD7SNy22SaUS.png",
+      "name": "House of Cool Studios",
+      "origin_country": "CA"
+    },
+    {
+      "id": 19890,
+      "logo_path": "/pnStF74qoRvrhJuktGJZCUCGX9W.png",
+      "name": "Mac Guff Ligne",
+      "origin_country": "FR"
+    },
+    {
+      "id": 76742,
+      "logo_path": "/7DPDeTgKBiuiRUtX4VLQJo2ojpr.png",
+      "name": "L'Atelier Animation",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2025-01-23",
+  "revenue": 5598939,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Don't feed the animals.",
+  "title": "Night of the Zoopocalypse",
+  "video": false,
+  "vote_average": 6.586,
+  "vote_count": 64
+}

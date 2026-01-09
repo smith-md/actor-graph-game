@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/gcW8rMiA9OKbetpjAVAAdbGrDd8.jpg",
+  "belongs_to_collection": null,
+  "budget": 100000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81221340",
+  "id": 831815,
+  "imdb_id": "tt23063732",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+  "overview": "When Bikini Bottom is scooped from the ocean, scientific squirrel Sandy Cheeks and her pal SpongeBob SquarePants saddle up for Texas to save their town.",
+  "popularity": 5.5942,
+  "poster_path": "/30YnfZdMNIV7noWLdvmcJS0cbnQ.jpg",
+  "production_companies": [
+    {
+      "id": 2348,
+      "logo_path": "/oydqrfwRAm6qqdYbxuMmmPsVi87.png",
+      "name": "Nickelodeon Movies",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-01",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Buckle up.",
+  "title": "Saving Bikini Bottom: The Sandy Cheeks Movie",
+  "video": false,
+  "vote_average": 6.058,
+  "vote_count": 138
+}

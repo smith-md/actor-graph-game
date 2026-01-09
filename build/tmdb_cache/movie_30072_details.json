@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/aHhlnznHGimQbIo6CXov0g0RG2b.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 30072,
+  "imdb_id": "tt0256276",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Possession",
+  "overview": "Maud Bailey, a brilliant English academic, is researching the life and work of poet Christabel La Motte. Roland Michell is an American scholar in London to study Randolph Henry Ash, now best-known for a collection of poems dedicated to his wife. When Maud and Roland discover a cache of love letters that appear to be from Ash to La Motte, they follow a trail of clues across England, echoing the journey of the couple over a century earlier.",
+  "popularity": 3.597,
+  "poster_path": "/12z5oCy4s3GBOUrNCWvcKYBK4eI.jpg",
+  "production_companies": [
+    {
+      "id": 10146,
+      "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+      "name": "Focus Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 139373,
+      "logo_path": null,
+      "name": "Contagious Films",
+      "origin_country": ""
+    },
+    {
+      "id": 705,
+      "logo_path": null,
+      "name": "Spring Creek Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11407,
+      "logo_path": "/qPYLq3Q7BijSn1l11zz0Ax7o3E2.png",
+      "name": "Baltimore Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-08-16",
+  "revenue": 10113733,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The past will connect them. The passion will possess them.",
+  "title": "Possession",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 190
+}

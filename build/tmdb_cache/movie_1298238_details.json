@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/sqfam7wEpmyG9Fx0AdVQYrLcIfy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81686583",
+  "id": 1298238,
+  "imdb_id": "tt31227161",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Príncipes salvajes",
+  "overview": "A group of wealthy teenagers commit crimes that escalate from petty mischief to dangerous plots, causing chaotic consequences — but not for themselves.",
+  "popularity": 3.8206,
+  "poster_path": "/iEe9RODlNgobupiksZ2vE4TZwUg.jpg",
+  "production_companies": [
+    {
+      "id": 95249,
+      "logo_path": "/2pM7Vj4HZyDkuB6hwi4thYdZm6I.png",
+      "name": "BH5",
+      "origin_country": "MX"
+    },
+    {
+      "id": 17333,
+      "logo_path": null,
+      "name": "Tigre Pictures",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2024-08-27",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Untamed Royals",
+  "video": false,
+  "vote_average": 6.25,
+  "vote_count": 84
+}

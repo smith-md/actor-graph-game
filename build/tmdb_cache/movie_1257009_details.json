@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/bWF5ImUscXXYia8owpm8coadR4m.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "https://primitivewarmovie.com/",
+  "id": 1257009,
+  "imdb_id": "tt18312380",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Primitive War",
+  "overview": "During the Vietnam War, a recon unit ventures to an isolated jungle valley to uncover the fate of a missing platoon. They soon find themselves in a fight for their lives against an unexpected enemy — prehistoric dinosaurs.",
+  "popularity": 20.2562,
+  "poster_path": "/fZnY97zAyATRH50Q1I92fQy1hUg.jpg",
+  "production_companies": [
+    {
+      "id": 135020,
+      "logo_path": "/wqj9mXcpTrWs7yW6lrjYu37G0FC.png",
+      "name": "Sparke Films",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2025-08-21",
+  "revenue": 217753,
+  "runtime": 133,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This ain't no walk in the park.",
+  "title": "Primitive War",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 202
+}

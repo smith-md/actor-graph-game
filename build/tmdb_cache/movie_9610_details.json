@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/soayFfANJdm3ykSQO71d6hAuMDR.jpg",
+  "belongs_to_collection": {
+    "id": 43055,
+    "name": "Conan the Barbarian Collection",
+    "poster_path": "/p4qQR0XYgSCCxV1GmH36qYgJT1s.jpg",
+    "backdrop_path": "/rJw7mflYzuHXBdRYEJyjAXDru5t.jpg"
+  },
+  "budget": 18000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 9610,
+  "imdb_id": "tt0087078",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Conan the Destroyer",
+  "overview": "Conan is commissioned by the evil queen Taramis to safely escort a teen princess and her powerful bodyguard to a far away castle to retrieve the magic Horn of Dagoth. Unknown to Conan, the queen plans to sacrifice the princess when she returns and inherit her kingdom after the bodyguard kills Conan. The queen's plans fail to take into consideration Conan's strength and cunning and the abilities of his sidekicks: the eccentric wizard Akiro, the warrior woman Zula, and the inept Malak. Together the hero and his allies must defeat both mortal and supernatural foes in this voyage to sword-and-sorcery land.",
+  "popularity": 4.7385,
+  "poster_path": "/m5i7S46DT1ESy7URkh2l92awGRr.jpg",
+  "production_companies": [
+    {
+      "id": 10308,
+      "logo_path": "/5AEHeflZe2YavcjL0s99gJA8csi.png",
+      "name": "The De Laurentiis Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1984-06-29",
+  "revenue": 31042035,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The most powerful legend of all is back in a new adventure.",
+  "title": "Conan the Destroyer",
+  "video": false,
+  "vote_average": 6.117,
+  "vote_count": 1594
+}

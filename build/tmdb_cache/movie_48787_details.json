@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/1QZBkYj1XbjfpYmMbCiXH6xqGXx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 48787,
+  "imdb_id": "tt0110604",
+  "origin_country": [
+    "RU",
+    "DE",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Mute Witness",
+  "overview": "When a mute makeup/special effects artist working on a low-budget slasher film gets locked in a dilapidated Moscow movie studio late one night, she thinks she witnesses the making of a snuff film. Thus begins a night of terror.",
+  "popularity": 3.6235,
+  "poster_path": "/kfCIZNpb2bWspnQNkIQftQlksCU.jpg",
+  "production_companies": [
+    {
+      "id": 38959,
+      "logo_path": null,
+      "name": "Avrora Media",
+      "origin_country": "DE"
+    },
+    {
+      "id": 38960,
+      "logo_path": null,
+      "name": "Cobblestone Pictures",
+      "origin_country": "DE"
+    },
+    {
+      "id": 279097,
+      "logo_path": null,
+      "name": "Patmos Film",
+      "origin_country": "RU"
+    },
+    {
+      "id": 8178,
+      "logo_path": null,
+      "name": "Comet Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "1995-09-15",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She won't be silenced.",
+  "title": "Mute Witness",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 150
+}

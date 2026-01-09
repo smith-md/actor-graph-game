@@ -1,0 +1,54 @@
+{
+  "adult": false,
+  "backdrop_path": "/pJg0uCexeVKmr24x9OFvs7lwRlp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1221415,
+  "imdb_id": "tt30561103",
+  "origin_country": [
+    "MQ",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Brute 1976",
+  "overview": "In 1976 a group of people in the desert for a photo shoot, stumble upon an abandoned town called Savage. But they are not alone. A family of masked psychopaths have claimed Savage as their own and are hell bent on living up to its name.",
+  "popularity": 3.9599,
+  "poster_path": "/jrbYuJNMRPzdQ5RZ2FGKfQbD1Qz.jpg",
+  "production_companies": [
+    {
+      "id": 203112,
+      "logo_path": null,
+      "name": "Neon Noir",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-03-13",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Land of the Free...Home of the Depraved!",
+  "title": "Brute 1976",
+  "video": false,
+  "vote_average": 4.4,
+  "vote_count": 24
+}

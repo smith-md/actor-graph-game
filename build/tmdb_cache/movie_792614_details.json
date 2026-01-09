@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/ru8H1c0vzYG4AwP9kEsW0yZ58jc.jpg",
+  "belongs_to_collection": null,
+  "budget": 6700000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://rialtodistribution.com/film/mr-blake-at-your-service/",
+  "id": 792614,
+  "imdb_id": "tt18224752",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Complètement Cramé !",
+  "overview": "Since his wife's death, Andrew Blake is depressed. In an ultimate impetus, he leaves London to go back to France, in the house he met her. This journey through happy days memories won't go as planned.",
+  "popularity": 4.2979,
+  "poster_path": "/hpszN3PHW9ubsKcrCia1g6y8mAr.jpg",
+  "production_companies": [
+    {
+      "id": 106612,
+      "logo_path": "/ygHUNIBl4C8KjYI25iDVOtdaGwr.png",
+      "name": "Superprod",
+      "origin_country": "FR"
+    },
+    {
+      "id": 20338,
+      "logo_path": "/yCTqaPPzFfjqKU2YAGWce4qQk1S.png",
+      "name": "Bidibul Productions",
+      "origin_country": "LU"
+    },
+    {
+      "id": 11776,
+      "logo_path": "/33JMuTtwY5UhPwkmCEyH1YaCD23.png",
+      "name": "Film Fund Luxembourg",
+      "origin_country": "LU"
+    },
+    {
+      "id": 310,
+      "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+      "name": "CNC",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    }
+  ],
+  "release_date": "2023-11-01",
+  "revenue": 2726128,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A tale of second chances, served with elegance",
+  "title": "Mr. Blake at Your Service!",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 97
+}

@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/rx7aw7NGnIuCYorPBWeNPrgOMAc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1294949,
+  "imdb_id": "tt35538004",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Mamá Reinventada",
+  "overview": "Marina decides to take Patricia, her mother, to live with her, who believes that she should behave like the widow she is now. Living with Marina, he realizes that there are many things to do. Both find a new world to explore.",
+  "popularity": 3.9983,
+  "poster_path": "/9HOJUlJ0aZfLdsjgKIDjjc5FbUV.jpg",
+  "production_companies": [
+    {
+      "id": 258969,
+      "logo_path": "/nWK3YjlZRs5w2egEmnvJLkXhAq2.png",
+      "name": "Spectrum Films",
+      "origin_country": "MX"
+    },
+    {
+      "id": 7570,
+      "logo_path": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+      "name": "Videocine",
+      "origin_country": "MX"
+    },
+    {
+      "id": 89127,
+      "logo_path": "/bCjod1AL15DQgCQu3TFe75nO1oW.png",
+      "name": "Eficine",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2025-05-08",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Reinvented Mom",
+  "video": false,
+  "vote_average": 8.6,
+  "vote_count": 29
+}

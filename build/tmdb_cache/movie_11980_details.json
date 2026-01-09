@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/kZbLOAlCB3htkhyZzTkUv21i0gv.jpg",
+  "belongs_to_collection": {
+    "id": 9068,
+    "name": "The Prophecy Collection",
+    "poster_path": "/spMoiL0jL3dli6iZHtPI0J8Qlyp.jpg",
+    "backdrop_path": "/sd7YtWrOwm44TAkxV8VOL2ow8eu.jpg"
+  },
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 11980,
+  "imdb_id": "tt0114194",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Prophecy",
+  "overview": "The angel Gabriel comes to Earth to collect a soul which will end the stalemated war in Heaven, and only a former priest and a little girl can stop him.",
+  "popularity": 4.5241,
+  "poster_path": "/4ZWFhQipzBHJze2llzCzhrSIZsn.jpg",
+  "production_companies": [
+    {
+      "id": 888,
+      "logo_path": null,
+      "name": "Overseas FilmGroup",
+      "origin_country": "US"
+    },
+    {
+      "id": 7405,
+      "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+      "name": "Dimension Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 86906,
+      "logo_path": null,
+      "name": "NEO Motion Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11054,
+      "logo_path": "/ydEsA5xqHtIKNHXAgYqQJAQwJP5.png",
+      "name": "First Look International",
+      "origin_country": "US"
+    },
+    {
+      "id": 97097,
+      "logo_path": null,
+      "name": "Lewis Horwitz Organization, The",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-08-05",
+  "revenue": 16115878,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "On ancient ground, at the edge of the world, an evil born in heaven is about to be unleashed on earth.",
+  "title": "The Prophecy",
+  "video": false,
+  "vote_average": 6.499,
+  "vote_count": 544
+}

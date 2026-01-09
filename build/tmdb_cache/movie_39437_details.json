@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/5v7vW8fRA70Y02FMB0W8ubCQebc.jpg",
+  "belongs_to_collection": null,
+  "budget": 80000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 39437,
+  "imdb_id": "tt0120603",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Beloved",
+  "overview": "After Paul D. finds his old slave friend Sethe in Ohio and moves in with her and her daughter Denver, a strange girl comes along by the name of \"Beloved\". Sethe and Denver take her in and then strange things start to happen...",
+  "popularity": 5.6426,
+  "poster_path": "/bLZo9tJijRBbxHAxMNXhs51pvC8.jpg",
+  "production_companies": [
+    {
+      "id": 9195,
+      "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3298,
+      "logo_path": null,
+      "name": "Harpo Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 1274,
+      "logo_path": "/lGEGe7gVCVNexgGXSEo8mBObJrw.png",
+      "name": "Clinica Estetico",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-10-16",
+  "revenue": 22900000,
+  "runtime": 172,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The past has a life of its own.",
+  "title": "Beloved",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 105
+}

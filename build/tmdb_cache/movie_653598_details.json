@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/2wKOO39vOvWK1vBDb72NuNfkE55.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://spreefilm.com/",
+  "id": 653598,
+  "imdb_id": "tt11394332",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Spree",
+  "overview": "Desperate for an online following, a rideshare driver has figured out a deadly plan to go viral and he will stop at nothing to get his five minutes of fame.",
+  "popularity": 6.0279,
+  "poster_path": "/tbYvzpy4QFhUHRBHe4VeUKJst96.jpg",
+  "production_companies": [
+    {
+      "id": 124433,
+      "logo_path": "/35qnhOVKH84U5hehax1QvwXfRJt.png",
+      "name": "DreamCrew",
+      "origin_country": "US"
+    },
+    {
+      "id": 125824,
+      "logo_path": null,
+      "name": "Forest Hill Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 146684,
+      "logo_path": "/kINySnvmdW2HhjHm4aHy6jwq0J3.png",
+      "name": "Spacemaker Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 119056,
+      "logo_path": "/vbhwOf0TQ4z12GIytYGWmhPJAOz.png",
+      "name": "Particular Crowd",
+      "origin_country": "US"
+    },
+    {
+      "id": 141991,
+      "logo_path": null,
+      "name": "SuperBloom Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-08-14",
+  "revenue": 43840,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Murder is trending.",
+  "title": "Spree",
+  "video": false,
+  "vote_average": 6.417,
+  "vote_count": 512
+}

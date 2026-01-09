@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/v9w0xds8GUzOwHTZRuw2yeObRzD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/watch/82109253",
+  "id": 1227739,
+  "imdb_id": "tt26733325",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "होमबाउंड",
+  "overview": "Two childhood friends from a small North Indian village chase a police job that promises them the dignity they’ve long been denied. But as they inch closer to their dream, mounting desperation threatens the bond that holds them together.",
+  "popularity": 4.6092,
+  "poster_path": "/vyezjSvSdLO0bvr6jSNuFi6yuiw.jpg",
+  "production_companies": [
+    {
+      "id": 19146,
+      "logo_path": "/5Ff25ornzVNhm5skuAvMAR556NB.png",
+      "name": "Dharma Productions",
+      "origin_country": "IN"
+    },
+    {
+      "id": 23243,
+      "logo_path": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
+      "name": "Sikelia Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 274469,
+      "logo_path": null,
+      "name": "Quercus Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-09-26",
+  "revenue": 0,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No feeling is final",
+  "title": "Homebound",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 23
+}

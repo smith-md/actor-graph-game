@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/75qqVcvbeJ6PWL5sJ5a7ZE3gRsd.jpg",
+  "belongs_to_collection": null,
+  "budget": 9500000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 16135,
+  "imdb_id": "tt0475984",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "en",
+  "original_title": "Mister Lonely",
+  "overview": "In Paris, a young American who works as a Michael Jackson lookalike meets Marilyn Monroe, who invites him to her commune in Scotland, where she lives with Charlie Chaplin and her daughter, Shirley Temple.",
+  "popularity": 2.6064,
+  "poster_path": "/2r9QMXMePZ1Ggx8mySiOleNLWPj.jpg",
+  "production_companies": [
+    {
+      "id": 23680,
+      "logo_path": "/fYQ5pWLvFgVEdNIt2yZ3oQohVC3.png",
+      "name": "Agnès B. Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 26676,
+      "logo_path": null,
+      "name": "O' Salvation",
+      "origin_country": "US"
+    },
+    {
+      "id": 11561,
+      "logo_path": "/8HB3TFUeo83keAPHfFfrNtN2MmA.png",
+      "name": "Recorded Picture Company",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1158,
+      "logo_path": null,
+      "name": "Love Streams Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2506,
+      "logo_path": null,
+      "name": "Dreamachine",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3656,
+      "logo_path": "/mY6L0bHRp8fNWfICPqLjxp3khvq.png",
+      "name": "GAGA Communications",
+      "origin_country": "JP"
+    },
+    {
+      "id": 278687,
+      "logo_path": null,
+      "name": "O'South",
+      "origin_country": ""
+    },
+    {
+      "id": 86504,
+      "logo_path": "/7ppNVcvDg0ZXSR1bZi397hLD206.png",
+      "name": "Metropolitan Pictures",
+      "origin_country": "IE"
+    },
+    {
+      "id": 278688,
+      "logo_path": null,
+      "name": "Funny Bunny",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2008-02-02",
+  "revenue": 407674,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You are whoever you want to be.",
+  "title": "Mister Lonely",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 132
+}

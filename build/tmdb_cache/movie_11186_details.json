@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/fNkt4S5iXgBD4ea5bP9MZRHO8su.jpg",
+  "belongs_to_collection": {
+    "id": 10455,
+    "name": "Child's Play Collection",
+    "poster_path": "/fLWDbZziq47lcN28Q1ILnIMLHEC.jpg",
+    "backdrop_path": "/wGfs53K3NH9q4NolrmLWSahPVkf.jpg"
+  },
+  "budget": 13000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 11186,
+  "imdb_id": "tt0099253",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Child's Play 2",
+  "overview": "Chucky is reconstructed by a toy factory to dispel the negative publicity surrounding the doll, and tracks young Andy Barclay to a foster home where the chase begins again.",
+  "popularity": 4.7081,
+  "poster_path": "/2tPQbPQeHEYAGoXFSW61IWNmoce.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11050,
+      "logo_path": null,
+      "name": "David Kirschner Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-11-09",
+  "revenue": 35763605,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sorry Jack... Chucky's back!",
+  "title": "Child's Play 2",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 1966
+}

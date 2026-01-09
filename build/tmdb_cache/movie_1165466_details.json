@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/5PuM2lWFRVLZbyzErGVd8qHi55p.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1165466,
+  "imdb_id": "tt28662887",
+  "origin_country": [
+    "CA",
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "Wake Up",
+  "overview": "A group of young activists set out to make an environmental statement by vandalizing a home superstore as it closes. But their plan goes terribly wrong when they become trapped inside and must face a deranged security guard with a gruesome passion for primitive hunting. As the night fills with violence and terror, the teenagers find themselves in a desperate fight for their lives.",
+  "popularity": 3.8104,
+  "poster_path": "/erEAU7ygq2XFjziI3FpAdMajJFZ.jpg",
+  "production_companies": [
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 58726,
+      "logo_path": "/jyjhaJdl5hcOoMwajYJJgVIwX8M.png",
+      "name": "Borsalino Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83399,
+      "logo_path": "/hkFrweC8U1StSmdoq9DYAV7v5CO.png",
+      "name": "WAG Prod",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-05-08",
+  "revenue": 251071,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Wake Up",
+  "video": false,
+  "vote_average": 6.827,
+  "vote_count": 127
+}

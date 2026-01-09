@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/pA4J371Gk2F47vyGQOWapcsnOzz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81350429",
+  "id": 601666,
+  "imdb_id": "tt9893250",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "I Care a Lot",
+  "overview": "A court-appointed legal guardian defrauds her older clients and traps them under her care. But her latest mark comes with some unexpected baggage.",
+  "popularity": 3.9254,
+  "poster_path": "/gKnhEsjNefpKnUdAkn7INzIFLSu.jpg",
+  "production_companies": [
+    {
+      "id": 47729,
+      "logo_path": "/bAxh897TGgdR0Py6wdd0UuE147Z.png",
+      "name": "STXfilms",
+      "origin_country": "US"
+    },
+    {
+      "id": 22146,
+      "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+      "name": "Black Bear Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 148512,
+      "logo_path": null,
+      "name": "Crimple Beck",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-02-19",
+  "revenue": 0,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "I Care a Lot",
+  "video": false,
+  "vote_average": 6.574,
+  "vote_count": 2885
+}

@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/w9681jZnzZBGTi0JiVbXz01d57w.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 584004,
+  "imdb_id": "tt15340206",
+  "origin_country": [
+    "US",
+    "RU"
+  ],
+  "original_language": "en",
+  "original_title": "Resurrected",
+  "overview": "In a dystopian future, the Vatican knows how to resurrect people. A priest discovers a conspiracy behind the resurrections and their possible link to a series of murders.",
+  "popularity": 2.8223,
+  "poster_path": "/nWw1x5CpLN25s4i5ZUIXOMhqyY6.jpg",
+  "production_companies": [
+    {
+      "id": 109501,
+      "logo_path": "/4dtmZKPLHzIALpGbdeSNX6Rw1p3.png",
+      "name": "Bazelevs",
+      "origin_country": "US"
+    },
+    {
+      "id": 92840,
+      "logo_path": "/4LyDs7gsAMq5sg3fPjUa1P52emj.png",
+      "name": "Logical Pictures",
+      "origin_country": "FR"
+    },
+    {
+      "id": 125613,
+      "logo_path": "/4igxnZjJeSStLiMWf7xDCEaJWUN.png",
+      "name": "Kinoprime Foundation",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-04-27",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There are no saints among the living",
+  "title": "Resurrected",
+  "video": false,
+  "vote_average": 6.289,
+  "vote_count": 109
+}

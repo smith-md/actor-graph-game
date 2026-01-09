@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/sp6egj5NHHRGmCMdIoTNdbLwACR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0CGNN63MH",
+  "id": 1022964,
+  "imdb_id": "tt21328106",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Candy Cane Lane",
+  "overview": "A man, determined to win the neighborhood's annual Christmas decorating contest, makes a pact with an elf to help him win. However, the elf casts a spell bringing the twelve days of Christmas to life, bringing chaos to the small, unsuspecting town.",
+  "popularity": 3.4042,
+  "poster_path": "/of6Ds591FJTKoBHYjDFzH6jlTyK.jpg",
+  "production_companies": [
+    {
+      "id": 23,
+      "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 30,
+      "logo_path": null,
+      "name": "Eddie Murphy Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-29",
+  "revenue": 0,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Be careful what you wish for.",
+  "title": "Candy Cane Lane",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 473
+}

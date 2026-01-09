@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": "/k2vb1fl7j2mqGYpX8JKaCVmQWrN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.vertigoreleasing.com/movie/timestalker",
+  "id": 706693,
+  "imdb_id": "tt7340766",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Timestalker",
+  "overview": "A karmic journey that sees the hapless heroine Agnes reincarnated every time she makes the same mistake: falling in love with the wrong man.",
+  "popularity": 3.5222,
+  "poster_path": "/gUIBW4NKSFQ2GiJLLULDmtHT21.jpg",
+  "production_companies": [
+    {
+      "id": 21873,
+      "logo_path": null,
+      "name": "Western Edge Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7281,
+      "logo_path": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+      "name": "BFI",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12177,
+      "logo_path": "/9P2VDiqTAr9qupVBbgCpf6FhLhn.png",
+      "name": "Ffilm Cymru Wales",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5056,
+      "logo_path": "/583ITs4w9sK31FnJwKiRwapTpzb.png",
+      "name": "Head Gear Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 112109,
+      "logo_path": null,
+      "name": "Popcorn Group",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-10-11",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love isn't dead.",
+  "title": "Timestalker",
+  "video": false,
+  "vote_average": 5.1,
+  "vote_count": 28
+}

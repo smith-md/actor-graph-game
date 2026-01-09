@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/h1An6CRfuzwlUAKtnmGpKuHCW37.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1032372,
+  "imdb_id": "tt17067574",
+  "origin_country": [
+    "CA",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Cold Meat",
+  "overview": "David Petersen is passing through the Colorado Rockies. After saving a young diner waitress from her violent ex-husband during a break from driving, he hits the road again alone through a dangerous snow blizzard. One false move behind the wheel has him waking up inside a ravine, in the eye of the storm. But the cold is the least of his worries when a beast starts prowling outside. How will he survive?",
+  "popularity": 5.4447,
+  "poster_path": "/gcACvRRy9nE9de5gTetoXiheIZ5.jpg",
+  "production_companies": [
+    {
+      "id": 126471,
+      "logo_path": null,
+      "name": "Featuristic Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 92116,
+      "logo_path": null,
+      "name": "Trilight Entertainment",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-02-23",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Outside is dangerous. Inside is deadly.",
+  "title": "Cold Meat",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 136
+}

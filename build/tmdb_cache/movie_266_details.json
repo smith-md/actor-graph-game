@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/qBpRJrbaofPzb9pwgi5LiuNDLmM.jpg",
+  "belongs_to_collection": null,
+  "budget": 900000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 266,
+  "imdb_id": "tt0057345",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Le Mépris",
+  "overview": "A philistine in the art film business, Jeremy Prokosch is a producer unhappy with the work of his director. Prokosch has hired Fritz Lang to direct an adaptation of \"The Odyssey,\" but when it seems that the legendary filmmaker is making a picture destined to bomb at the box office, he brings in a screenwriter to energize the script. The professional intersects with the personal when a rift develops between the writer and his wife.",
+  "popularity": 3.4661,
+  "poster_path": "/kNElbRcp4Qz6wmJ9kH5vdY004Hq.jpg",
+  "production_companies": [
+    {
+      "id": 109,
+      "logo_path": null,
+      "name": "Rome-Paris Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1714,
+      "logo_path": null,
+      "name": "Les Films Concordia",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10000,
+      "logo_path": null,
+      "name": "C. C. Champion",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1963-10-29",
+  "revenue": 528428,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "More bold! More brazen! And much, much more Bardot!",
+  "title": "Contempt",
+  "video": false,
+  "vote_average": 7.037,
+  "vote_count": 921
+}

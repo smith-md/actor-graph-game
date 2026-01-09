@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/d4p6VPoN70CnTV74jbW5ltlDgsh.jpg",
+  "belongs_to_collection": null,
+  "budget": 31000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 4587,
+  "imdb_id": "tt0100140",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mermaids",
+  "overview": "Fifteen-year-old Charlotte Flax is tired of her wacky mom moving their family to a different town any time she feels it is necessary. When they move to a small Massachusetts town and Mrs. Flax begins dating a shopkeeper, Charlotte and her 9-year-old sister, Kate, hope that they can finally settle down. But when Charlotte's attraction to an older man gets in the way, the family must learn to accept each other for who they truly are.",
+  "popularity": 3.783,
+  "poster_path": "/1VufMcp0euY2LpmKiVv8xnbB9Om.jpg",
+  "production_companies": [
+    {
+      "id": 41,
+      "logo_path": "/em0rOXVRu3qprWZCx58uDDV2fze.png",
+      "name": "Orion Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-12-14",
+  "revenue": 35419397,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mom is many things... normal isn't one of them.",
+  "title": "Mermaids",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 550
+}

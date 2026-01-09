@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/1gKDAWgzHTbBM5OcWzhVBw4H3wt.jpg",
+  "belongs_to_collection": null,
+  "budget": 3500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 25571,
+  "imdb_id": "tt0116147",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Drive",
+  "overview": "A prototype enhanced human, on the run from Chinese-hired hit men, hooks up with a dread-locked bystander, and the two of them elude their pursuers narrowly each time.",
+  "popularity": 4.9165,
+  "poster_path": "/bJiau5UDnDIjemil7z3d7kUbUHm.jpg",
+  "production_companies": [
+    {
+      "id": 86906,
+      "logo_path": null,
+      "name": "NEO Motion Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 888,
+      "logo_path": null,
+      "name": "Overseas FilmGroup",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1997-08-06",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There ain't no cruise control.",
+  "title": "Drive",
+  "video": false,
+  "vote_average": 6.108,
+  "vote_count": 153
+}

@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/4VRvPpCVGL81h144wvswn0ivTmM.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.snackshackmovie.com",
+  "id": 1037113,
+  "imdb_id": "tt22004344",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Snack Shack",
+  "overview": "Inseparable best friends AJ and Moose decide to run the local pool's snack shack after their plan to sell home-brewed beer goes down the drain. Things take a turn when they meet Brooke, an effortlessly cool lifeguard who puts their big plans, and friendship, at risk.",
+  "popularity": 6.257,
+  "poster_path": "/wCXd5tpUSc12LVPd2oN9OKU1EVQ.jpg",
+  "production_companies": [
+    {
+      "id": 37871,
+      "logo_path": "/aUOo1S2AabqQnRrXK6XuObWPDyK.png",
+      "name": "T-Street",
+      "origin_country": "US"
+    },
+    {
+      "id": 111866,
+      "logo_path": "/ndiNWuj6RvZ5XYLWrcv2y4iYuJP.png",
+      "name": "Paperclip",
+      "origin_country": "US"
+    },
+    {
+      "id": 2531,
+      "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+      "name": "MRC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-03-15",
+  "revenue": 455708,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One summer can change everything.",
+  "title": "Snack Shack",
+  "video": false,
+  "vote_average": 7.172,
+  "vote_count": 203
+}

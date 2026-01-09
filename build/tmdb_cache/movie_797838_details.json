@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": "/rJFerFqrKx6jL2i9TjbMNAx5ptd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "https://firebirdmovie.com",
+  "id": 797838,
+  "imdb_id": "tt4061620",
+  "origin_country": [
+    "DE",
+    "EE",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Firebird",
+  "overview": "At the height of the Cold War, a troubled soldier forms a forbidden love triangle with a daring fighter pilot and his female comrade amid the dangerous surroundings of a Soviet Air Force Base.",
+  "popularity": 5.5856,
+  "poster_path": "/uECWNRjCEwewHBjt0leyZiAyiXb.jpg",
+  "production_companies": [
+    {
+      "id": 51454,
+      "logo_path": null,
+      "name": "The Factory",
+      "origin_country": ""
+    },
+    {
+      "id": 152776,
+      "logo_path": null,
+      "name": "No Reservations Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 188320,
+      "logo_path": null,
+      "name": "Firebird Production",
+      "origin_country": "GB"
+    },
+    {
+      "id": 74635,
+      "logo_path": "/c2tRRTOeyjiFUxyJ5LNnIlSTRX.png",
+      "name": "Estonian Film Institute",
+      "origin_country": "EE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "EE",
+      "name": "Estonia"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-10-29",
+  "revenue": 253583,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Estonian",
+      "iso_639_1": "et",
+      "name": "Eesti"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Risk everything, trust no one",
+  "title": "Firebird",
+  "video": false,
+  "vote_average": 7.347,
+  "vote_count": 215
+}

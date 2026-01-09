@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/b5vGfHN23WV8gk6RDKLI228HZgj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 987578,
+  "imdb_id": "tt7922238",
+  "origin_country": [
+    "ES",
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "La Piedad",
+  "overview": "Mateo lives with his mother Libertad in a rose-tinted world: a microcosm that has precisely two inhabitants, mother and son. One day Mateo is diagnosed with cancer.",
+  "popularity": 3.869,
+  "poster_path": "/hKfNLdvHB4uHApinrWA6T5vUpMZ.jpg",
+  "production_companies": [
+    {
+      "id": 6458,
+      "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+      "name": "INCAA",
+      "origin_country": "AR"
+    },
+    {
+      "id": 32485,
+      "logo_path": "/fVXreZkiJTOq1cCi6htSQlPSy7R.png",
+      "name": "Pokeepsie Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 201633,
+      "logo_path": "/6Ox2aOmqNP6vEmlh02fqygwOkeE.png",
+      "name": "Instituto de la Cinematografía y de las Artes Audiovisuales",
+      "origin_country": "ES"
+    },
+    {
+      "id": 65091,
+      "logo_path": "/7D7JB71JEiWigcRwkUawvukMocx.png",
+      "name": "Programa Ibermedia",
+      "origin_country": "ES"
+    },
+    {
+      "id": 107262,
+      "logo_path": "/1zigukoYBEqJfsEl6fVhmamXXX9.png",
+      "name": "Crea SGR",
+      "origin_country": "ES"
+    },
+    {
+      "id": 6878,
+      "logo_path": "/fIfZV1HuiG27Ijk6apChuyoUMTf.png",
+      "name": "Canal Sur",
+      "origin_country": "ES"
+    },
+    {
+      "id": 29856,
+      "logo_path": null,
+      "name": "Crudo Films",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2023-01-13",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Piety",
+  "video": false,
+  "vote_average": 4.9,
+  "vote_count": 31
+}

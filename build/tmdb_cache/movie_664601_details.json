@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/5iqk9TjyF71PdmVoJLCvUIP2if9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.gunda.movie",
+  "id": 664601,
+  "imdb_id": "tt11464016",
+  "origin_country": [
+    "US",
+    "NO"
+  ],
+  "original_language": "en",
+  "original_title": "Gunda",
+  "overview": "A glimpse into the raw and simple power of nature through encounters with farm animals: the eponymous Gunda, a mother pig; two cows, and a one-legged chicken.",
+  "popularity": 2.5607,
+  "poster_path": "/XMlouldLxRt0RkH34GdGst9pxo.jpg",
+  "production_companies": [
+    {
+      "id": 8469,
+      "logo_path": "/gSSXLuayChi5h9KEuzfwd2UjWjm.png",
+      "name": "Louverture Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 61810,
+      "logo_path": "/fCTx5ZgcOvCVCorbgx6hgXdjBrZ.png",
+      "name": "Sant & Usant",
+      "origin_country": "NO"
+    },
+    {
+      "id": 66478,
+      "logo_path": "/u7WmMkfo9MqsqfD5cuDAbd0u1qY.png",
+      "name": "Artemis Rising",
+      "origin_country": "US"
+    },
+    {
+      "id": 154207,
+      "logo_path": "/4WNhIRsOM6YGIzYMPAVKjgv76ab.png",
+      "name": "Hailstone Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 154208,
+      "logo_path": null,
+      "name": "Empathy Arts",
+      "origin_country": ""
+    },
+    {
+      "id": 851,
+      "logo_path": "/kieSA3GFVysJcAUXNRer06u6e5x.png",
+      "name": "MEDIA Programme of the European Union",
+      "origin_country": "BE"
+    },
+    {
+      "id": 154209,
+      "logo_path": null,
+      "name": "Storyline Studios",
+      "origin_country": "NO"
+    },
+    {
+      "id": 16551,
+      "logo_path": "/itTk5EYYzWPXrynrwTBhvREq4iC.png",
+      "name": "Norsk Filminstitutt",
+      "origin_country": "NO"
+    },
+    {
+      "id": 123320,
+      "logo_path": "/j2P5auvMdyWiMZlT4xnVxPG4cJu.png",
+      "name": "Fritt Ord",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2021-04-15",
+  "revenue": 142531,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Gunda",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 52
+}

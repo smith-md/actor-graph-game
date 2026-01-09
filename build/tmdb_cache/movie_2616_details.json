@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/mpEc2EPp6aJt3omHxw5IMZTDjt3.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 2616,
+  "imdb_id": "tt0098554",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Uncle Buck",
+  "overview": "Buck Russell, a lovable but slovenly bachelor, suddenly becomes the temporary caretaker of his nephew and nieces after a family emergency. His freewheeling attitude soon causes tension with his older niece Tia, loyal girlfriend Chanice and just about everyone else who crosses his path.",
+  "popularity": 6.9909,
+  "poster_path": "/euWPWqpujKQg2KnfBUVkBSZ6kf4.jpg",
+  "production_companies": [
+    {
+      "id": 477,
+      "logo_path": "/4wfCdggcE3ZG26uJpnAvyI0vEeL.png",
+      "name": "Hughes Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-08-16",
+  "revenue": 79300000,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's crude. He's crass. He's family.",
+  "title": "Uncle Buck",
+  "video": false,
+  "vote_average": 6.798,
+  "vote_count": 1295
+}

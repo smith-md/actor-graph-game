@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/xYxPm3ZW78RHYuwJzMkaKxJ8jZC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 14232,
+  "imdb_id": "tt0870122",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Humboldt County",
+  "overview": "Peter is a medical student about to graduate and begin his residency. When his professor fails him, he winds up in bed with an actress and singer named Bogart rolling through Los Angeles. He accompanies her to the redwoods of northern California, where he encounters her eccentric family of pot farmers. But when Bogart runs away without a word, Peter is thrust into the picturesque and bizarre world.",
+  "popularity": 4.2831,
+  "poster_path": "/o5x5YXmXOtW9Kk9FH9MNbdEIfq5.jpg",
+  "production_companies": [
+    {
+      "id": 55145,
+      "logo_path": null,
+      "name": "Embark Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-09-26",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Welcome to the Lost Coast",
+  "title": "Humboldt County",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 41
+}

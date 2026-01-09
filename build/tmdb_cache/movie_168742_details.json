@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/mcZO2pc3MKS6ijmt48MczMbWOks.jpg",
+  "belongs_to_collection": null,
+  "budget": 1525000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 168742,
+  "imdb_id": "tt2178256",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "lo",
+  "original_title": "The Rocket",
+  "overview": "Laos. In a land ravaged by war and exploitation, a boy whose family believe he is cursed must redeem himself by taking part in a dangerous rocket competition.",
+  "popularity": 3.1222,
+  "poster_path": "/nFh4GRrEnrc3L29SueSP4DqFMqT.jpg",
+  "production_companies": [
+    {
+      "id": 13185,
+      "logo_path": null,
+      "name": "Red Lamp Films",
+      "origin_country": ""
+    },
+    {
+      "id": 254742,
+      "logo_path": null,
+      "name": "Curious Film",
+      "origin_country": ""
+    },
+    {
+      "id": 254743,
+      "logo_path": null,
+      "name": "Ecoventure",
+      "origin_country": ""
+    },
+    {
+      "id": 254744,
+      "logo_path": null,
+      "name": "Milsearch",
+      "origin_country": ""
+    },
+    {
+      "id": 254745,
+      "logo_path": null,
+      "name": "Screen New South Wales",
+      "origin_country": ""
+    },
+    {
+      "id": 254746,
+      "logo_path": null,
+      "name": "Ton Enterprises",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "LA",
+      "name": "Lao People's Democratic Republic"
+    },
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "release_date": "2013-02-10",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Lao",
+      "iso_639_1": "lo",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Rocket",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 64
+}

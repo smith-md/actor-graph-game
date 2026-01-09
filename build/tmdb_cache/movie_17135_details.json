@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/rDRBp8SrUfndHAnP7siwGGARu0N.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 17135,
+  "imdb_id": "tt0117238",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Omega Doom",
+  "overview": "After earth is taken over by an army of robots, the small number of humans left are forced into hiding. In the nuclear winter, only droids walk the face of the earth, in fear of the rumored human resurgence, and in search of a hidden cache of weapons. One robot, his evil circuits destroyed, enters a small town where a robot civil war is taking place.",
+  "popularity": 3.0722,
+  "poster_path": "/j8gSAdGQRxf4eGOSueff1LjZREW.jpg",
+  "production_companies": [
+    {
+      "id": 1644,
+      "logo_path": "/l5JFudbLN3vr1sSkjRoqF7To8Ky.png",
+      "name": "Largo Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 7954,
+      "logo_path": null,
+      "name": "Filmwerks",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-10-21",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Robots rule the Earth. Only one man can stop them.",
+  "title": "Omega Doom",
+  "video": false,
+  "vote_average": 4.394,
+  "vote_count": 68
+}

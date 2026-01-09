@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/evlniPoPke6WOZ7onIx5EJAvII4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 18888,
+  "imdb_id": "tt0170232",
+  "origin_country": [],
+  "original_language": "cs",
+  "original_title": "Zamilované maso",
+  "overview": "Two pieces of meat fall in love.",
+  "popularity": 3.3996,
+  "poster_path": "/1ueGQlNSB1cj3niaqOIt9Ra2xCi.jpg",
+  "production_companies": [
+    {
+      "id": 3541,
+      "logo_path": null,
+      "name": "Koninck Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2329,
+      "logo_path": null,
+      "name": "Krátký film Praha",
+      "origin_country": "XC"
+    },
+    {
+      "id": 8136,
+      "logo_path": "/zHS0wY1haJ3GOvkHFOf8Dfjkyt3.png",
+      "name": "MTV",
+      "origin_country": "US"
+    },
+    {
+      "id": 12914,
+      "logo_path": null,
+      "name": "Nomad Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "XC",
+      "name": "Czechoslovakia"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-01-01",
+  "revenue": 0,
+  "runtime": 1,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Meat Love",
+  "video": false,
+  "vote_average": 6.722,
+  "vote_count": 81
+}

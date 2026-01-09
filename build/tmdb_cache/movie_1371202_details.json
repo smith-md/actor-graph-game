@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/4mM7m9L3XlPLq4vNNy3P8yDSXNM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81709663",
+  "id": 1371202,
+  "imdb_id": "tt31181421",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "iHostage",
+  "overview": "When a gunman enters an Apple Store in the heart of Amsterdam, the police face a delicate challenge to resolve the standoff.",
+  "popularity": 5.051,
+  "poster_path": "/tn3Ckxyc7OWXnhMPkiIBvqLdFC6.jpg",
+  "production_companies": [
+    {
+      "id": 99572,
+      "logo_path": "/3isj7Aaml4vofmVenbXptppb3kd.png",
+      "name": "Horizon Film Productions",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2025-04-18",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "iHostage",
+  "video": false,
+  "vote_average": 5.93,
+  "vote_count": 286
+}

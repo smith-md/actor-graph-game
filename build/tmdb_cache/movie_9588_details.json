@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/wro8QfQhL9GoQJgG8WK9pC7wGyX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 9588,
+  "imdb_id": "tt0102744",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Quigley Down Under",
+  "overview": "American Matt Quigley answers Australian land baron Elliott Marston's ad for a sharpshooter to kill the dingoes on his property. But when Quigley finds out that Marston's real target is the aborigines, Quigley hits the road. Now, even American expatriate Crazy Cora can't keep Quigley safe in his cat-and-mouse game with the homicidal Marston.",
+  "popularity": 2.3996,
+  "poster_path": "/sRgeovNyj1pARroKclXzJhOwPbW.jpg",
+  "production_companies": [
+    {
+      "id": 15526,
+      "logo_path": null,
+      "name": "MGM-Pathé Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-10-17",
+  "revenue": 21413845,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The West was never this far west.",
+  "title": "Quigley Down Under",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 411
+}

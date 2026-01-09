@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/AjYX2r2dn1s31A8fDaPPiYRrZ6L.jpg",
+  "belongs_to_collection": null,
+  "budget": 1365000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1859,
+  "imdb_id": "tt0031725",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ninotchka",
+  "overview": "A stern Russian woman sent to Paris on official business finds herself attracted to a man who represents everything she is supposed to detest.",
+  "popularity": 3.7079,
+  "poster_path": "/v4MkgNqZyodYwBDNbZ64MF9tVEL.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1939-11-16",
+  "revenue": 2279000,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Garbo Laughs!",
+  "title": "Ninotchka",
+  "video": false,
+  "vote_average": 7.495,
+  "vote_count": 416
+}

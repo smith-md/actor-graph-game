@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/uoGTKAi4qTk4lfOlbSkVKZA72lG.jpg",
+  "belongs_to_collection": null,
+  "budget": 7000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 27834,
+  "imdb_id": "tt0254199",
+  "origin_country": [
+    "IT",
+    "LU",
+    "US",
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "CQ",
+  "overview": "A young filmmaker in 1960s Paris juggles directing a cheesy sci-fi debacle, directing his own personal art film, coping with his crumbling relationship with his girlfriend, and a new-found infatuation with the sci-fi film's starlet.",
+  "popularity": 3.4963,
+  "poster_path": "/aFAPOT77Jh7lNWYtojC6nxi4CpJ.jpg",
+  "production_companies": [
+    {
+      "id": 70,
+      "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+      "name": "American Zoetrope",
+      "origin_country": "US"
+    },
+    {
+      "id": 1472,
+      "logo_path": null,
+      "name": "Delux Productions",
+      "origin_country": "LU"
+    },
+    {
+      "id": 11776,
+      "logo_path": "/33JMuTtwY5UhPwkmCEyH1YaCD23.png",
+      "name": "Film Fund Luxembourg",
+      "origin_country": "LU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    }
+  ],
+  "release_date": "2001-05-12",
+  "revenue": 499891,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every picture tells a story.",
+  "title": "CQ",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 70
+}

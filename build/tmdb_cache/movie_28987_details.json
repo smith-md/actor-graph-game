@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/2emtDkbxtAgtzEZOPVYVH9MBbUS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 28987,
+  "imdb_id": "tt1371160",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Kid",
+  "overview": "Based on the real life story of Kevin Lewis, the film follows his childhood of abuse, his descent into a life of crime and the way he put his life together again afterwards.",
+  "popularity": 3.6401,
+  "poster_path": "/nKuquL5Xs0yCvBuPQnAw6zC89Wy.jpg",
+  "production_companies": [
+    {
+      "id": 4885,
+      "logo_path": null,
+      "name": "Tin House Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2010-04-22",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When you have nothing to lose, you have everything to fight for.",
+  "title": "The Kid",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 25
+}

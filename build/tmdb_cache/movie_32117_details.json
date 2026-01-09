@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/tU3UcgURmi7d8VRXzeMDmEE2kIP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 32117,
+  "imdb_id": "tt0118635",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Aprile",
+  "overview": "Nanni Moretti takes another look at the ebbs and flows of life in April 1996, as he becomes a father for the first time and seems unable to focus on his documentary about the upcoming national elections.",
+  "popularity": 4.2489,
+  "poster_path": "/bUIgUu5ZahvuAqk0mEO7HKmTFNV.jpg",
+  "production_companies": [
+    {
+      "id": 9364,
+      "logo_path": "/4AuJw54SSgKZifQBl2OsaOVWt9I.png",
+      "name": "Sacher Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 208,
+      "logo_path": "/bxQYlRhQu6nbohBEL0SWz8xIAGy.png",
+      "name": "Bac Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 183,
+      "logo_path": "/eadyph99FClrWlnE0jPniwOcvvw.png",
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 16366,
+      "logo_path": "/llLC13cdNDmJbq0E0PG8fraWsLp.png",
+      "name": "La Sept Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1998-03-27",
+  "revenue": 0,
+  "runtime": 78,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Aprile",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 233
+}

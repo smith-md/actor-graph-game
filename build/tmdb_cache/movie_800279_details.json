@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/5SBgIj4PejTBe3gGMb2zTTCMkXB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.lionsgate.com/movies/corner-office",
+  "id": 800279,
+  "imdb_id": "tt13849558",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Corner Office",
+  "overview": "In this office satire, Orson, a straight-laced employee, retreats to a blissfully empty corner office to get away from his lackluster colleagues. But why does this seem to upset them so much?",
+  "popularity": 4.4302,
+  "poster_path": "/2JOPMnpaaTBvhy0HCby9uSBkt11.jpg",
+  "production_companies": [
+    {
+      "id": 10039,
+      "logo_path": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+      "name": "Anonymous Content",
+      "origin_country": "US"
+    },
+    {
+      "id": 15855,
+      "logo_path": null,
+      "name": "Goldenlight Films",
+      "origin_country": ""
+    },
+    {
+      "id": 149924,
+      "logo_path": null,
+      "name": "Tilt9 Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 149926,
+      "logo_path": null,
+      "name": "Space Pilot Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-08-04",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Uncover the corners of reality.",
+  "title": "Corner Office",
+  "video": false,
+  "vote_average": 6.53,
+  "vote_count": 133
+}

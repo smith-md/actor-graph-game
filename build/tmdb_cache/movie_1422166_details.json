@@ -1,0 +1,60 @@
+{
+  "adult": false,
+  "backdrop_path": "/6CdrnONBaZsmoEMTn0A4S2Nj4t5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 1422166,
+  "imdb_id": "tt35520315",
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Age of Disclosure",
+  "overview": "Director Dan Farah got 34 senior members of the U.S. Government, military, and intelligence community to come on camera. He says they reveal an 80 year cover-up of the existence of non-human intelligent life and a secret war amongst major nations to reverse engineer technology of non-human origin. The film explores the profound impact the situation has on the future of humanity, while providing a look behind-the-scenes with those at the forefront of the bi-partisan disclosure effort.",
+  "popularity": 3.2139,
+  "poster_path": "/rVTGlKuJUeqgmznxhlpKDKClili.jpg",
+  "production_companies": [
+    {
+      "id": 65368,
+      "logo_path": null,
+      "name": "Farah Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 145055,
+      "logo_path": null,
+      "name": "Born Ready Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-21",
+  "revenue": 0,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "34 government insiders reveal the truth.",
+  "title": "The Age of Disclosure",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 31
+}

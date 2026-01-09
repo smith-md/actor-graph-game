@@ -1,0 +1,98 @@
+{
+  "adult": false,
+  "backdrop_path": "/izGizT2wzaHrnkVb6iDG6WaMKxO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 24734,
+  "imdb_id": "tt0102178",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "K2",
+  "overview": "They call it the savage mountain. 27 people have perished trying to reach the summit on K2, the world's second highest peak. A U.S. climbing team, funded by millionaire Clairborne is determined to conquer K2.",
+  "popularity": 4.3947,
+  "poster_path": "/dyVuiQKY6hOK08gIyi22lfAvXUh.jpg",
+  "production_companies": [
+    {
+      "id": 2630,
+      "logo_path": "/pShvFIFfmFoGXPYFyAKaeK1jPUW.png",
+      "name": "Majestic Films International",
+      "origin_country": "GB"
+    },
+    {
+      "id": 4351,
+      "logo_path": null,
+      "name": "Trans Pacific Films",
+      "origin_country": ""
+    },
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 23164,
+      "logo_path": "/mScLdXKEvqQub5BJo1e6RRlRVpn.png",
+      "name": "EFD Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-10-10",
+  "revenue": 3106559,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "28,000 feet. You're hanging on by your fingernails. The adrenaline alone could kill you.",
+  "title": "K2",
+  "video": false,
+  "vote_average": 5.663,
+  "vote_count": 135
+}

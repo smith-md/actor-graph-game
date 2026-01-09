@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/fNtmDJGvQWetrqzwnoh2PcI1C0x.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81744811",
+  "id": 1422179,
+  "imdb_id": "tt31828532",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "På villspor",
+  "overview": "When chaotic single mother Emilie hits a new low, she looks to her brother for help. He has a brilliant plan: to enter a cross-country ski marathon.",
+  "popularity": 3.5652,
+  "poster_path": "/7uVdqyf7xiHeGjxhnRTKjGnO0Gm.jpg",
+  "production_companies": [
+    {
+      "id": 67216,
+      "logo_path": "/e3AOYXCR50ov2R8faMlrD7zkpeb.png",
+      "name": "Rubicon TV AS",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2025-02-27",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Wrong Track",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 35
+}

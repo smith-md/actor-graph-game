@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/mP9PSsj7SQ3j2KTsF2GTAVJSx6O.jpg",
+  "belongs_to_collection": {
+    "id": 1288693,
+    "name": "Agent - Collection",
+    "poster_path": "/uAktLoepkheSuqGOAdVd439EOiM.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 786532,
+  "imdb_id": "tt8955940",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Agent Revelation",
+  "overview": "An ancient dust that controls humans is unleashed, but mysteriously affects Jim Yung who gains superpowers. Jim is taken to an underground base where he's trained to be an operative to take on an imminent alien threat and learn why aliens have returned to Earth.",
+  "popularity": 4.1837,
+  "poster_path": "/lnihobYZTZZ88PUKKw30WpaCveV.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-01-22",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Agent Revelation",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 32
+}

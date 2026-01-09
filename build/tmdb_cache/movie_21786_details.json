@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/8aCSN8HXRR9252IHhDYKMvc5cnh.jpg",
+  "belongs_to_collection": {
+    "id": 86553,
+    "name": "Cold Prey Collection",
+    "poster_path": "/xIpFtZacjn0VOcLi2iVcFKVeJIy.jpg",
+    "backdrop_path": "/kBK4qx9YGQ1wq3KC2Xzj98TZLdk.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.frittvilt.com/frittvilt/",
+  "id": 21786,
+  "imdb_id": "tt0808276",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Fritt vilt",
+  "overview": "When one of them breaks a leg, five friends snowboarding in the Norwegian mountains take shelter in an abandoned ski lodge and soon realize they’re not alone.",
+  "popularity": 4.5769,
+  "poster_path": "/sxYjsslcs5FSsAkEfjr50gAQWNo.jpg",
+  "production_companies": [
+    {
+      "id": 3079,
+      "logo_path": "/12cb7xhHlYnW4uksoVR8hp48psC.png",
+      "name": "Fantefilm",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2006-10-13",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You'll Catch Your Death.",
+  "title": "Cold Prey",
+  "video": false,
+  "vote_average": 6.273,
+  "vote_count": 444
+}

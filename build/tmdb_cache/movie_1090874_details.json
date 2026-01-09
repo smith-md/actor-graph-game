@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/mXLqmRDY3HUokHSjdSCLenM5nfJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1090874,
+  "imdb_id": "tt26861992",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mea Culpa",
+  "overview": "A criminal defense attorney must choose between family, duty and her own dangerous desires when she takes on the case of an artist accused of murder.",
+  "popularity": 4.3988,
+  "poster_path": "/roxD9VCTTXYfPjVj9HiSC5IMtc7.jpg",
+  "production_companies": [
+    {
+      "id": 3096,
+      "logo_path": "/fkZTZ4veYYr3lwr2riVrVAOfeqD.png",
+      "name": "Tyler Perry Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-02-22",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everyone's guilty of something.",
+  "title": "Mea Culpa",
+  "video": false,
+  "vote_average": 5.598,
+  "vote_count": 194
+}

@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/j20fVMGNGiUfwZ2BvoqUiAK01Bi.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1170719,
+  "imdb_id": "tt31639859",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Sirènes",
+  "overview": "Alison Flesh, a rebellious and intrepid Nice police captain, is forced by her superior, Commissioner Djiba, to work in tandem with Parisian lieutenant Leïla Balani, an expert in criminology but a real drag in the field. On the trail of a serial killer, Flesh and Balani will have to team up even if it means turning over the entire Riviera.",
+  "popularity": 3.3918,
+  "poster_path": "/fUAzK5RRPIrmY2gFVKgfdXlrTiX.jpg",
+  "production_companies": [
+    {
+      "id": 121654,
+      "logo_path": "/3IzRrnakUemajC7fzC07WRNyZ9D.png",
+      "name": "Mandarin Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-03-15",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sirènes",
+  "video": false,
+  "vote_average": 5.597,
+  "vote_count": 36
+}

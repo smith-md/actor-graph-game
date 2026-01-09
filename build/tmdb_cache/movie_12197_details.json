@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/l9OZmtjVoFhicaY0PtdmTRKiaSR.jpg",
+  "belongs_to_collection": {
+    "id": 1610757,
+    "name": "Oslo Trilogy",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 12197,
+  "imdb_id": "tt0827517",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Reprise",
+  "overview": "Phillip and Erik have been best friends since childhood. Both young men share a passion for the works of reclusive novelist Sten Egil Dahl, and both harbor literary ambitions. However, fate deals differently with the friends as each strives to make his dream come true.",
+  "popularity": 3.3185,
+  "poster_path": "/9GdptmzKh5Sx1KFiABJeUEt9eS.jpg",
+  "production_companies": [
+    {
+      "id": 7843,
+      "logo_path": "/t0GdV2JfyWFlAKSYYXe0j2Co368.png",
+      "name": "4 1/2",
+      "origin_country": "NO"
+    },
+    {
+      "id": 2669,
+      "logo_path": "/xuSvgLUZJyrY4IO1jBpmlqpHqyc.png",
+      "name": "Filmlance International",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2006-09-08",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Reprise",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 227
+}

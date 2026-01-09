@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/vNR2HcqGrIK1BX570en1SpzOYF7.jpg",
+  "belongs_to_collection": null,
+  "budget": 6000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 14902,
+  "imdb_id": "tt0068156",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "1776",
+  "overview": "Colonial representatives gather in Philadelphia with the aim of establishing a set of governmental rules for the burgeoning United States. Benjamin Franklin and John Adams charge Thomas Jefferson with the task of writing a statement announcing the new country's emancipation from British rule.",
+  "popularity": 4.6613,
+  "poster_path": "/o50REDExdajGxTWczsmC3qcawGr.jpg",
+  "production_companies": [
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 217309,
+      "logo_path": null,
+      "name": "Jack L. Warner Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1972-11-09",
+  "revenue": 2800000,
+  "runtime": 141,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The award winning musical comes to the screen!",
+  "title": "1776",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 81
+}

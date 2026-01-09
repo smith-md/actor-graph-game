@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/A0M9DYbCF85aqoIxdYsaph9WY4u.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 26116,
+  "imdb_id": "tt0435696",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Mechanik",
+  "overview": "A Russian ex-hit man is called back to Russia for one last job. This time against his former employees, the Russian mob.",
+  "popularity": 4.9534,
+  "poster_path": "/ojnpoHH7ofeJymSs19FiXHOtu5x.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2005-11-02",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They took his family. Now he's out for revenge.",
+  "title": "The Russian Specialist",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 83
+}

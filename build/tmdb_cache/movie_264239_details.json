@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/8BmxtHpyh3X1TcXMWyMag4OQbTn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 264239,
+  "imdb_id": "tt0094242",
+  "origin_country": [
+    "YU"
+  ],
+  "original_language": "sh",
+  "original_title": "Вeћ виђeно",
+  "overview": "Mihajlo, an introvert piano teacher starts romance with a pretty careerist who teaches modeling at the university in Belgrade where they both work. His feelings are awakened after a long period, but this relationship makes him see the flashbacks, as well as yet unseen images that remind him of his troubled childhood - as if he experienced this already. When their university wins a contest to hold public TV performance, Mihailo fails to play the piano on the decisive night and she dumps him. The boiling point is about to come.",
+  "popularity": 3.9329,
+  "poster_path": "/8k3Wf9soKQv8taEBVMexX3AnbMs.jpg",
+  "production_companies": [
+    {
+      "id": 5940,
+      "logo_path": "/pJR6Hhx3FsRPzoh4LyJyHEa6cD3.png",
+      "name": "Avala Film",
+      "origin_country": "YU"
+    },
+    {
+      "id": 16785,
+      "logo_path": null,
+      "name": "Croatia Film",
+      "origin_country": "HR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "YU",
+      "name": "Yugoslavia"
+    }
+  ],
+  "release_date": "1987-02-01",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "Bosnian",
+      "iso_639_1": "bs",
+      "name": "Bosanski"
+    },
+    {
+      "english_name": "Esperanto",
+      "iso_639_1": "eo",
+      "name": "Esperanto"
+    },
+    {
+      "english_name": "Serbo-Croatian",
+      "iso_639_1": "sh",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Reflections",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 24
+}

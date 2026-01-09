@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/z7OrG1YBDEpGJ3awOnvk7BMZryE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.primevideo.com/detail/Coyotes/0L554POB0Y24T8LMD8DX1GDQI7",
+  "id": 1386827,
+  "imdb_id": "tt34581826",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Coyotes",
+  "overview": "Trapped in their Hollywood Hills home, a family fights for survival when caught between a raging wildfire and a pack of savage coyotes.",
+  "popularity": 5.3409,
+  "poster_path": "/fSzs9ZXYcrln0FRrjGIPCjuB6En.jpg",
+  "production_companies": [
+    {
+      "id": 179831,
+      "logo_path": "/9yUvtr26VMnSRJnePouXgOLFV7K.png",
+      "name": "Capstone Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 215935,
+      "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
+      "name": "Gramercy Park Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 164800,
+      "logo_path": "/qZHPu9QptBtyCRtHhigklmPWvaQ.png",
+      "name": "Source Management + Production",
+      "origin_country": "US"
+    },
+    {
+      "id": 155758,
+      "logo_path": "/iZi0zd9ijrcWR9zlEUUthG8d600.png",
+      "name": "Tea Shop Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 200059,
+      "logo_path": "/q4gItsJvWmKluHx7VPYEhECQ620.png",
+      "name": "Magnetic Labs",
+      "origin_country": "US"
+    },
+    {
+      "id": 83191,
+      "logo_path": "/cir3g4iXLD6UayUJeM2nspw8RAj.png",
+      "name": "Sugar Studios LA",
+      "origin_country": "US"
+    },
+    {
+      "id": 128081,
+      "logo_path": "/c7e41WNx0l9UWKwTEHmFxVwNtCd.png",
+      "name": "Jaguar Bite",
+      "origin_country": "CO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "release_date": "2025-10-02",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Eat the rich.",
+  "title": "Coyotes",
+  "video": false,
+  "vote_average": 5.757,
+  "vote_count": 35
+}

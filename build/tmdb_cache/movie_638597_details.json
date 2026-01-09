@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/cJwkku3SPprS0Splfgh8VFRd0xn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81011712",
+  "id": 638597,
+  "imdb_id": "tt8521876",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "YES DAY",
+  "overview": "A mom and dad who usually say no decide to say yes to their kids' wildest requests — with a few ground rules — on a whirlwind day of fun and adventure.",
+  "popularity": 5.0193,
+  "poster_path": "/rejrD9ovTHJbfmpLM0mbEliEPV6.jpg",
+  "production_companies": [
+    {
+      "id": 78984,
+      "logo_path": "/vJLYh9YHQaEryuzu7GNUa1zwKG1.png",
+      "name": "Entertainment 360",
+      "origin_country": "US"
+    },
+    {
+      "id": 159314,
+      "logo_path": null,
+      "name": "Grey Matter Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-03-11",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "For 24 hours, kids make the rules.",
+  "title": "YES DAY",
+  "video": false,
+  "vote_average": 6.688,
+  "vote_count": 1264
+}

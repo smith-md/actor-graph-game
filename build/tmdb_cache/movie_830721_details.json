@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/bWmMLl3codxRsykbkmXcmjrmy4c.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.sonyclassics.com/film/themiracleclub/",
+  "id": 830721,
+  "imdb_id": "tt12712604",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Miracle Club",
+  "overview": "Three close friends who have never left the outskirts of Dublin (much less Ireland) get the journey of a lifetime — a visit to Lourdes, the picturesque French town and place of miracles.",
+  "popularity": 1.5371,
+  "poster_path": "/5MOOL38IZTylA7K04FvJ4PaklaI.jpg",
+  "production_companies": [
+    {
+      "id": 16923,
+      "logo_path": null,
+      "name": "Zephyr Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 199556,
+      "logo_path": null,
+      "name": "City Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 290,
+      "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
+      "name": "Ingenious Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 65226,
+      "logo_path": "/9cTKDJVWBRecXgAZhluczVzQKtp.png",
+      "name": "ShinAwiL",
+      "origin_country": "IE"
+    },
+    {
+      "id": 86902,
+      "logo_path": "/uTXXIOJMikSZteOB6V284SDQer4.png",
+      "name": "Embankment Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-07-14",
+  "revenue": 6800000,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Four women went to Lourdes in search of a miracle.",
+  "title": "The Miracle Club",
+  "video": false,
+  "vote_average": 6.314,
+  "vote_count": 132
+}

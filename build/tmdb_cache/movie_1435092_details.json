@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/9MJifKtwH3hSDPSqguyvFfgdmtA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81955146",
+  "id": 1435092,
+  "imdb_id": "tt35766629",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Goodbye June",
+  "overview": "Four siblings' lives change drastically when their ailing mother takes a turn for the worse over the holiday season.",
+  "popularity": 16.3661,
+  "poster_path": "/ygsMOnttVCekvJZgvmnvaemxPHA.jpg",
+  "production_companies": [
+    {
+      "id": 10163,
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 280463,
+      "logo_path": null,
+      "name": "55 Jugglers",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-12-12",
+  "revenue": 0,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A good goodbye... It's all that matters.",
+  "title": "Goodbye June",
+  "video": false,
+  "vote_average": 6.572,
+  "vote_count": 76
+}

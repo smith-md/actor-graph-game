@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/eDqf1F85rU7cxUeBBArL6k2QVtv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 9956,
+  "imdb_id": "tt0118768",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Brave",
+  "overview": "A down-on-his-luck American Indian recently released from jail is offered the chance to \"star\" as the victim of a snuff film, the resulting pay of which could greatly help his poverty stricken family.",
+  "popularity": 2.655,
+  "poster_path": "/pVEVtkbvKfZyXm9aZ6fxAvPFg6i.jpg",
+  "production_companies": [
+    {
+      "id": 2630,
+      "logo_path": "/pShvFIFfmFoGXPYFyAKaeK1jPUW.png",
+      "name": "Majestic Films International",
+      "origin_country": "GB"
+    },
+    {
+      "id": 11561,
+      "logo_path": "/8HB3TFUeo83keAPHfFfrNtN2MmA.png",
+      "name": "Recorded Picture Company",
+      "origin_country": "GB"
+    },
+    {
+      "id": 278957,
+      "logo_path": null,
+      "name": "Acappella Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1997-07-30",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Brave",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 198
+}

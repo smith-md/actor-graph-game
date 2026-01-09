@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/is9bmV6uYXu7LjZGJczxrjJDlv8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.amazon.com/gp/video/detail/B0DCYJL1GN",
+  "id": 1229730,
+  "imdb_id": "tt35683795",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Carjackers",
+  "overview": "By day, they're invisible—valets, hostesses, and bartenders at a luxury hotel. By night, they're the Carjackers, a crew of skilled drivers who track and rob wealthy clients on the road. As they plan their ultimate heist, the hotel director hires a ruthless hitman, to stop them at all costs. With danger closing in, can Nora, Zoe, Steve, and Prestance pull off their biggest score yet?",
+  "popularity": 4.6745,
+  "poster_path": "/wbkPMTz2vVai7Ujyp0ag7AM9SrO.jpg",
+  "production_companies": [
+    {
+      "id": 9,
+      "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+      "name": "Gaumont",
+      "origin_country": "FR"
+    },
+    {
+      "id": 218149,
+      "logo_path": null,
+      "name": "Kalpa Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 19037,
+      "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+      "name": "uMedia",
+      "origin_country": "BE"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2025-03-27",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Carjackers",
+  "video": false,
+  "vote_average": 6.118,
+  "vote_count": 208
+}

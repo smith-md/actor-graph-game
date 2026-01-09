@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/fd9K7ZDfzRAcbLh8JlG4HIKbtuR.jpg",
+  "belongs_to_collection": {
+    "id": 847029,
+    "name": "The Old Guard Collection",
+    "poster_path": "/nxPsCTVDH4HITAlSBIxxlpDsHNN.jpg",
+    "backdrop_path": "/buoxWuS1fo3AjSwWV8LMNZkg8Gd.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81328881",
+  "id": 846422,
+  "imdb_id": "tt14961624",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Old Guard 2",
+  "overview": "Andy and her team of immortal warriors fight with renewed purpose as they face a powerful new foe threatening their mission to protect humanity.",
+  "popularity": 9.9683,
+  "poster_path": "/wqfu3bPLJaEWJVk3QOm0rKhxf1A.jpg",
+  "production_companies": [
+    {
+      "id": 82819,
+      "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+      "name": "Skydance Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 3574,
+      "logo_path": "/j3iU6FoWplGPoO1Vxn8fFHX4VPE.png",
+      "name": "Denver & Delilah Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 159794,
+      "logo_path": null,
+      "name": "Marc Evans Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-01",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Tiếng Việt"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Eternity has a price.",
+  "title": "The Old Guard 2",
+  "video": false,
+  "vote_average": 5.947,
+  "vote_count": 844
+}

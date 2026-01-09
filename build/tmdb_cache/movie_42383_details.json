@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/aMZYX05Qgi3NqfD1h3nmOhJLdfh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 42383,
+  "imdb_id": "tt0245573",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "XX/XY",
+  "overview": "Three friends begin a dangerous three-way relationship that spirals out of control, leading to dire consequences that haunt them ten years later.",
+  "popularity": 3.48,
+  "poster_path": "/Avc51Le5NQbjbzE1PVmLFdi1nVs.jpg",
+  "production_companies": [
+    {
+      "id": 5708,
+      "logo_path": null,
+      "name": "The 7th Floor",
+      "origin_country": "US"
+    },
+    {
+      "id": 87897,
+      "logo_path": null,
+      "name": "Robbins Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 2828,
+      "logo_path": "/lIsBprOFBD4VNs2DnDWO81EcsL9.png",
+      "name": "Intrinsic Value Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 804,
+      "logo_path": null,
+      "name": "Natural Nylon Entertainment",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-01-11",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There's no room for honesty in a healthy relationship...",
+  "title": "XX/XY",
+  "video": false,
+  "vote_average": 5.847,
+  "vote_count": 49
+}

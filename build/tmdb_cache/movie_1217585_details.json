@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/kGP3hLDNQLEp2E8xCwnWuXQ68eH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1217585,
+  "imdb_id": "tt27791972",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Outbreak",
+  "overview": "A State Park Ranger and his wife, grappling with the disappearance of their teenage son, face a mysterious outbreak that threatens not only their relationship, but in the end, their grip on reality.",
+  "popularity": 3.6292,
+  "poster_path": "/86veNrARvGRyBRiGT94Lxpy5Z4S.jpg",
+  "production_companies": [
+    {
+      "id": 248004,
+      "logo_path": "/e3mZCqWGiEv2r4WiMOBrriOEcuM.png",
+      "name": "SilverCrest Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 248005,
+      "logo_path": null,
+      "name": "WolfePride Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-02-20",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It starts as an infection. It ends in devastation.",
+  "title": "Outbreak",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 34
+}

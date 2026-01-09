@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/43U82uXEsPd0fchBT49nSUSXHMz.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 64622,
+  "imdb_id": "tt1664664",
+  "origin_country": [
+    "CA",
+    "IT"
+  ],
+  "original_language": "en",
+  "original_title": "Hidden 3D",
+  "overview": "Following the death of celebrated scientist Susan Carter, her son Brian is surprised to inherit her controversial experimental addiction treatment center. When he and some friends visit the property, they uncover a terrifying and deadly secret.",
+  "popularity": 3.5975,
+  "poster_path": "/mVJuiBgeHygy6JLh6KVtJTdPeAH.jpg",
+  "production_companies": [
+    {
+      "id": 6623,
+      "logo_path": "/qvtEf5tM9IAEJUUhX9EcBl12Fhr.png",
+      "name": "Caramel Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 4253,
+      "logo_path": "/qgFBsEmKTckDM0Fk6ZTB8RyW0Rc.png",
+      "name": "Don Carmody Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 21527,
+      "logo_path": null,
+      "name": "ReDark",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2011-04-21",
+  "revenue": 1670477,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hidden 3D",
+  "video": false,
+  "vote_average": 3.431,
+  "vote_count": 58
+}

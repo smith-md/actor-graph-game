@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/eEF2L9hfUh25g7Vd4AVEhwxLxGr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.picturetree-international.com/films/details/sweethearts.html",
+  "id": 573042,
+  "imdb_id": "tt8881102",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Sweethearts",
+  "overview": "It's double trouble when fate and an ill-executed diamond robbery throw Mel and Franny together in a race and chase against time.",
+  "popularity": 4.0027,
+  "poster_path": "/wETpfUcZhtGYbW98zJspC3ush7s.jpg",
+  "production_companies": [
+    {
+      "id": 67049,
+      "logo_path": "/rMleYBpiJNDFdWt9zVXJJETIDta.png",
+      "name": "Hellinger / Doll Filmproduktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2019-02-14",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sweethearts",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 55
+}

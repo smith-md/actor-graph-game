@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/sc600L1efonWcAm1HDA6WMAAmn0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 51857,
+  "imdb_id": "tt0074360",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Cría cuervos",
+  "overview": "Ana, an eight-year-old girl living in Madrid with her grandmother and two sisters, mourns the death of her mother.",
+  "popularity": 2.5595,
+  "poster_path": "/hueMt6pkaV8nwVGwKP2uuiqF5DJ.jpg",
+  "production_companies": [
+    {
+      "id": 12009,
+      "logo_path": null,
+      "name": "Elías Querejeta PC",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1976-06-03",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cria!",
+  "video": false,
+  "vote_average": 7.531,
+  "vote_count": 260
+}

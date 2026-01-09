@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/wbjoD8BN5W9VusuLJYdd7tWUxqh.jpg",
+  "belongs_to_collection": {
+    "id": 210006,
+    "name": "Machete Collection",
+    "poster_path": "/rXHJRWQ2PQlagWEkzmk9XziZ2p3.jpg",
+    "backdrop_path": "/nxCWYlyf67148ve2PwvNzESuO5c.jpg"
+  },
+  "budget": 10500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 23631,
+  "imdb_id": "tt0985694",
+  "origin_country": [
+    "DE",
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Machete",
+  "overview": "After being set-up and betrayed by the man who hired him to assassinate a Texas Senator, an ex-Federale launches a brutal rampage of revenge against his former boss.",
+  "popularity": 7.1423,
+  "poster_path": "/dcPSm1rGEFdiEc7DaKz0t5kb66b.jpg",
+  "production_companies": [
+    {
+      "id": 10808,
+      "logo_path": null,
+      "name": "Overnight Films",
+      "origin_country": ""
+    },
+    {
+      "id": 10807,
+      "logo_path": "/5MhGwwNnXXcTKjIXJ9oALnUas4t.png",
+      "name": "Troublemaker Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2010-09-01",
+  "revenue": 45491656,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They just messed with the wrong Mexican.",
+  "title": "Machete",
+  "video": false,
+  "vote_average": 6.337,
+  "vote_count": 3460
+}

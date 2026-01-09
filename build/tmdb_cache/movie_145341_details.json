@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/afVowAl99Vqjo3Ji6RyFI17Tk5r.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 145341,
+  "imdb_id": "tt0114204",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Pułkownik Kwiatkowski",
+  "overview": "Military doctor Kwiatkowski, serving in a barracks hospital on the Western Territories, is rewarded with a week’s leave after successfully operating on Colonel Kiziora of the UB. He and his friend steal a truck bound for Warsaw, where among the ruins of his former home he meets his prewar neighbor Krysia, instantly falls in love, and, after a brawl with a Russian officer at a dance in the surviving “Polonia” hotel, pretends to be a high-ranking UB colonel to save face.",
+  "popularity": 6.1149,
+  "poster_path": "/q6Jb1IdOJ8k7QO9vk3tJkaMGyIF.jpg",
+  "production_companies": [
+    {
+      "id": 127919,
+      "logo_path": null,
+      "name": "Ikam",
+      "origin_country": "PL"
+    },
+    {
+      "id": 6480,
+      "logo_path": "/qJUUNzFYXNUDaisssBTV3Zdki9R.png",
+      "name": "Telewizja Polska",
+      "origin_country": "PL"
+    },
+    {
+      "id": 266,
+      "logo_path": null,
+      "name": "Agencja Produkcji Filmowej",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "1996-05-10",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Colonel Kwiatkowski",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 30
+}

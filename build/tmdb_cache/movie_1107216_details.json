@@ -1,0 +1,145 @@
+{
+  "adult": false,
+  "backdrop_path": "/3Gjo73aMqNWxNdBa7PeEj7AXJ3E.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://tatprod.com/falcon-express",
+  "id": 1107216,
+  "imdb_id": "tt36424914",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Falcon Express",
+  "overview": "When a train unexpectedly starts up, taking only pets with it, the animals discover that Hans, a badger with a grudge is behind it all. While the crash seems inevitable, the animals can count on Falcon, a roguish Raccoon who will do anything to save them.",
+  "popularity": 14.5857,
+  "poster_path": "/xSibLTRfsUQagQnbOQLjp5oGbcq.jpg",
+  "production_companies": [
+    {
+      "id": 28792,
+      "logo_path": "/v50Ht1JMylIOeMfjHGO9u4YU6iF.png",
+      "name": "TAT Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 49755,
+      "logo_path": "/iom7Z8e1dzoTfCvwq8F4bJvbeIJ.png",
+      "name": "Apollo Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7131,
+      "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 234479,
+      "logo_path": null,
+      "name": "Cine+ OCS",
+      "origin_country": "FR"
+    },
+    {
+      "id": 310,
+      "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+      "name": "CNC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11620,
+      "logo_path": "/f3hRdCaK1w9qH1Qs8nLd2L2bae1.png",
+      "name": "OCS",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 67723,
+      "logo_path": "/rEydCIsdSlmWy7hJlQe6gB7IC5Z.png",
+      "name": "Procirep-Angoa",
+      "origin_country": ""
+    },
+    {
+      "id": 11699,
+      "logo_path": "/83QgqlqE0sqlpyDNfelHdUlkw6E.png",
+      "name": "Sacem",
+      "origin_country": "FR"
+    },
+    {
+      "id": 234643,
+      "logo_path": null,
+      "name": "Cinémage 18",
+      "origin_country": ""
+    },
+    {
+      "id": 18626,
+      "logo_path": "/gb0xmYIKvNy2LnUOfLVglww7U0g.png",
+      "name": "Kinology",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-02",
+  "revenue": 3082436,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Adventure off the rails.",
+  "title": "Pets on a Train",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 31
+}

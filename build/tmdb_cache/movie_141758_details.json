@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/cNt10XVXh48gbQ6WJobvDEXSJmK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 141758,
+  "imdb_id": "tt0060379",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "El escapulario",
+  "overview": "A woman who is about to die calls the town's priest and hands him a scapulary, saying that she knows of its great powers. Anybody who does not believe in them will end up dead.",
+  "popularity": 4.2751,
+  "poster_path": "/1krO4DeXUCQA33ZU4Xv0Vjkyj5G.jpg",
+  "production_companies": [
+    {
+      "id": 18526,
+      "logo_path": null,
+      "name": "Producciones Yanco",
+      "origin_country": ""
+    },
+    {
+      "id": 81991,
+      "logo_path": null,
+      "name": "Películas Mexicanas (Peli-Mex)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "1968-01-18",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Scapular",
+  "video": false,
+  "vote_average": 8.3,
+  "vote_count": 38
+}

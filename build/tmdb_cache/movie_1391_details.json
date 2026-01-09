@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/7aW9IZjpsoTXYEARlnOvTtl6EBr.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1391,
+  "imdb_id": "tt0245574",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Y tu mamá también",
+  "overview": "In Mexico, two teenage boys and an attractive older woman embark on a road trip and learn a thing or two about life, friendship, sex, and each other.",
+  "popularity": 5.3136,
+  "poster_path": "/aj3rqjab8jfc2fWmcS3H3c5qbur.jpg",
+  "production_companies": [
+    {
+      "id": 1101,
+      "logo_path": null,
+      "name": "Bésame Mucho Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 561,
+      "logo_path": null,
+      "name": "Anhelo Productions",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2001-06-08",
+  "revenue": 33600000,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Life has its ways of teaching.",
+  "title": "Y Tu Mamá También",
+  "video": false,
+  "vote_average": 7.42,
+  "vote_count": 1672
+}

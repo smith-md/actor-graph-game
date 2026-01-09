@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/z8HBS853iRUYjK9p3plmmayiCtE.jpg",
+  "belongs_to_collection": {
+    "id": 1342037,
+    "name": "Slaughter Collection",
+    "poster_path": "/wUpwFJ087AOrfiKhijf72ab728M.jpg",
+    "backdrop_path": "/kitRm0gIA01mgxGDHkGmgV7aIZs.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 56535,
+  "imdb_id": "tt0069279",
+  "origin_country": [
+    "MX",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Slaughter",
+  "overview": "Slaughter, a former Green Beret, avenges the killing of loved ones by the Mob, and after being blackmailed by the feds, is forced to head to South America to finish the mobsters off.",
+  "popularity": 3.3466,
+  "poster_path": "/vVwOhNDw0GLvxXTgOVzrUBD49Mx.jpg",
+  "production_companies": [
+    {
+      "id": 9266,
+      "logo_path": "/lRinQ7scVye5N8qkUIoCB4QXbRh.png",
+      "name": "American International Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 239138,
+      "logo_path": null,
+      "name": "Slaughter Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "1972-08-16",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's not only his name, it's his business and sometimes--his pleasure!",
+  "title": "Slaughter",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 23
+}

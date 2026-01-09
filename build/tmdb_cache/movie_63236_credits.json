@@ -1,0 +1,131 @@
+{
+  "id": 63236,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 72983,
+      "known_for_department": "Acting",
+      "name": "Manny Perez",
+      "original_name": "Manny Perez",
+      "popularity": 1.0537,
+      "profile_path": "/auDXIA7COAJkgPFYlZWAvCuezRG.jpg",
+      "cast_id": 1,
+      "character": "Luisito",
+      "credit_id": "52fe46a1c3a368484e09b247",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 236654,
+      "known_for_department": "Acting",
+      "name": "Denise Quiñones",
+      "original_name": "Denise Quiñones",
+      "popularity": 1.2521,
+      "profile_path": "/rojBBECTQqH5fGfKiJuWiPP1rwJ.jpg",
+      "cast_id": 8,
+      "character": "Jenny",
+      "credit_id": "57595540c3a36869810012eb",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1607,
+      "known_for_department": "Acting",
+      "name": "Juan Fernández",
+      "original_name": "Juan Fernández",
+      "popularity": 0.9529,
+      "profile_path": "/gd5gNboWvdpoEtiNtIUJoWn8SSR.jpg",
+      "cast_id": 3,
+      "character": "General Colon",
+      "credit_id": "52fe46a1c3a368484e09b24f",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 3137,
+      "known_for_department": "Acting",
+      "name": "Paul Calderon",
+      "original_name": "Paul Calderon",
+      "popularity": 1.5123,
+      "profile_path": "/xIORhcIDmFMlaS3ZS3em1QiTkt5.jpg",
+      "cast_id": 4,
+      "character": "Rafa",
+      "credit_id": "52fe46a1c3a368484e09b253",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 164208,
+      "known_for_department": "Acting",
+      "name": "Hemky Madera",
+      "original_name": "Hemky Madera",
+      "popularity": 1.5468,
+      "profile_path": "/net1kEEpSrr9QC9be6YRhLGuM0k.jpg",
+      "cast_id": 5,
+      "character": "Tavo",
+      "credit_id": "52fe46a1c3a368484e09b257",
+      "order": 4
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 452,
+      "known_for_department": "Acting",
+      "name": "Margo Martindale",
+      "original_name": "Margo Martindale",
+      "popularity": 2.3741,
+      "profile_path": "/6ANuYnZZJTuQLL4bbt8vH1qDYje.jpg",
+      "cast_id": 6,
+      "character": "Flannigan",
+      "credit_id": "52fe46a1c3a368484e09b25b",
+      "order": 5
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 2116931,
+      "known_for_department": "Acting",
+      "name": "Edilsy Vargas",
+      "original_name": "Edilsy Vargas",
+      "popularity": 0.5073,
+      "profile_path": "/vwUQSlZtaRsPUW7bcAtRhfw010R.jpg",
+      "cast_id": 9,
+      "character": "Julia",
+      "credit_id": "5c1379e00e0a26037f3b8220",
+      "order": 6
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 86038,
+      "known_for_department": "Directing",
+      "name": "Josh Crook",
+      "original_name": "Josh Crook",
+      "popularity": 0.8037,
+      "profile_path": null,
+      "credit_id": "52fe46a1c3a368484e09b261",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 72983,
+      "known_for_department": "Acting",
+      "name": "Manny Perez",
+      "original_name": "Manny Perez",
+      "popularity": 1.0537,
+      "profile_path": "/auDXIA7COAJkgPFYlZWAvCuezRG.jpg",
+      "credit_id": "61de113c8cfcc700411c16c6",
+      "department": "Writing",
+      "job": "Screenplay"
+    }
+  ]
+}

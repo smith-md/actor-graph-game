@@ -1,0 +1,104 @@
+{
+  "adult": false,
+  "backdrop_path": "/mohiVnDYwd9SWG8yIk4nOkiwO5l.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 1231035,
+  "imdb_id": "tt26757264",
+  "origin_country": [
+    "IT",
+    "CH"
+  ],
+  "original_language": "it",
+  "original_title": "Gloria!",
+  "overview": "In late 18th century Venice, in a convent school for girls, Teresa, a student with prophetic gifts, joins forces with some amazing music-makers. They create a new kind of pop, bright and bold, and challenge the ancient and rigid system.",
+  "popularity": 3.5009,
+  "poster_path": "/Nm0umpaFx2FthwtdTqGdegohu6.jpg",
+  "production_companies": [
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 34086,
+      "logo_path": "/aBKkhycyubHlCsszV8KibiKZGg0.png",
+      "name": "tellfilm",
+      "origin_country": "CH"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 38591,
+      "logo_path": "/fa8Jp9NDuVxwokaKMah081ILYh4.png",
+      "name": "Friuli Venezia Giulia Film Commission",
+      "origin_country": "IT"
+    },
+    {
+      "id": 202146,
+      "logo_path": null,
+      "name": "Ticino Film Commission",
+      "origin_country": "CH"
+    },
+    {
+      "id": 76129,
+      "logo_path": "/wadqq2xlU1fWkRT2BSOb2VDyDVZ.png",
+      "name": "Tempesta",
+      "origin_country": "IT"
+    },
+    {
+      "id": 21990,
+      "logo_path": null,
+      "name": "Office Fédéral de la Culture",
+      "origin_country": "FR"
+    },
+    {
+      "id": 91435,
+      "logo_path": null,
+      "name": "Regione Autonoma della Sardegna",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2024-04-11",
+  "revenue": 892018,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Gloria!",
+  "video": false,
+  "vote_average": 6.942,
+  "vote_count": 104
+}

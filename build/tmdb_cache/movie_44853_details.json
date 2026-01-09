@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/aWvmJrHlKL34bue1OJzC2lm9arW.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 44853,
+  "imdb_id": "tt0218378",
+  "origin_country": [
+    "CA",
+    "FR",
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Claim",
+  "overview": "A prospector sells his wife and daughter to another gold miner for the rights to a gold mine. Twenty years later, the prospector is a wealthy man who owns much of the old west town named Kingdom Come. But changes are brewing and his past is coming back to haunt him. A surveyor and his crew scouts the town as a location for a new railroad line and a young woman suddenly appears in the town and is evidently the man's daughter.",
+  "popularity": 4.1876,
+  "poster_path": "/drpLBTmnMOzDUVAd3jqeLjdolcf.jpg",
+  "production_companies": [
+    {
+      "id": 163,
+      "logo_path": null,
+      "name": "Revolution Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 718,
+      "logo_path": "/fnLOZ8Eufk81K0pSI547IrcTHKQ.png",
+      "name": "Arts Council of England",
+      "origin_country": "GB"
+    },
+    {
+      "id": 803,
+      "logo_path": "/jEMVaCuEjQ3lzkhakWDKNVjwd9Q.png",
+      "name": "Alliance Atlantis",
+      "origin_country": "CA"
+    },
+    {
+      "id": 18335,
+      "logo_path": null,
+      "name": "DB Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 114739,
+      "logo_path": null,
+      "name": "Grosvenor Park Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    },
+    {
+      "id": 7981,
+      "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+      "name": "Pathé",
+      "origin_country": "FR"
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-12-29",
+  "revenue": 669258,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everything has a price.",
+  "title": "The Claim",
+  "video": false,
+  "vote_average": 5.953,
+  "vote_count": 107
+}

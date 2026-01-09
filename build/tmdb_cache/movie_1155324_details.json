@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/gcLFtgUEdbxacgZkLfLnrYw2wXQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1155324,
+  "imdb_id": "tt25147850",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "King Ivory",
+  "overview": "Based on extensive research involving law enforcement and gang members, a never-before-seen, authentic look inside the underworld of fentanyl trafficking from gangs inside the Oklahoma State Penitentiary at McAlester a.k.a. \"Big Mac.\"",
+  "popularity": 4.24,
+  "poster_path": "/qtNdrKvD5MqvUbAQEja5WaKuVN1.jpg",
+  "production_companies": [
+    {
+      "id": 115524,
+      "logo_path": "/wuiorJ03MpFB2u5lSTxkbJIQUE7.png",
+      "name": "Roxwell Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-05-08",
+  "revenue": 0,
+  "runtime": 130,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "King Ivory",
+  "video": false,
+  "vote_average": 7.096,
+  "vote_count": 26
+}

@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/rxMcBJoZnBeiYqRTCgh1d9aZtx0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.mrburtonfilm.co.uk/movie/mr-burton",
+  "id": 1242454,
+  "imdb_id": "tt5171016",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Mr. Burton",
+  "overview": "In the Welsh town of Port Talbot, 1942, Richard Jenkins lives as a wayward schoolboy, caught between the pressures of his struggling family, a devastating war and his own ambitions. However, a new opportunity arises when Richard’s natural talent for drama catches the attention of his teacher, Philip Burton.",
+  "popularity": 3.7548,
+  "poster_path": "/2xJMwrYBge97v4v3W2K5gCotuG1.jpg",
+  "production_companies": [
+    {
+      "id": 93637,
+      "logo_path": "/aW4weh0t8yUm2e62w4t3KlKJsLX.png",
+      "name": "Severn Screen",
+      "origin_country": "GB"
+    },
+    {
+      "id": 220381,
+      "logo_path": null,
+      "name": "Promise Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 180130,
+      "logo_path": "/yT0lPVCXuvvCSBGvo9OWkqRlMg5.png",
+      "name": "Independent Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12177,
+      "logo_path": "/9P2VDiqTAr9qupVBbgCpf6FhLhn.png",
+      "name": "Ffilm Cymru Wales",
+      "origin_country": "GB"
+    },
+    {
+      "id": 163,
+      "logo_path": null,
+      "name": "Revolution Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 4762,
+      "logo_path": "/igWZmjr5Zhbnxf7DinSOLoiggLU.png",
+      "name": "BBC Cymru Wales",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-04-04",
+  "revenue": 1396769,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Welsh",
+      "iso_639_1": "cy",
+      "name": "Cymraeg"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some are born great. Some are inspired to be great.",
+  "title": "Mr. Burton",
+  "video": false,
+  "vote_average": 6.795,
+  "vote_count": 22
+}

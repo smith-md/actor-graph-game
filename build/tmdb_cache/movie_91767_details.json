@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/nIWyiZD1fYXytFoLzcM5GWoTiE0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 91767,
+  "imdb_id": "tt0087386",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Harry & Son",
+  "overview": "Widower Harry Keach is a construction worker who was raised to appreciate the importance of working for a living. He takes a dim view of his sensitive son Howard's lackadaisical lifestyle and has a strained relationship with his daughter Nina as he does not approve of her husband. When Harry is fired from his job, his life changes drastically as he is made to focus on the relationships around him.",
+  "popularity": 4.4807,
+  "poster_path": "/kl9yUlWRBEyXNGIXav1WIRBy5te.jpg",
+  "production_companies": [
+    {
+      "id": 41,
+      "logo_path": "/em0rOXVRu3qprWZCx58uDDV2fze.png",
+      "name": "Orion Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1984-03-02",
+  "revenue": 4864602,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Two men with nothing in common... except the blood in their veins.",
+  "title": "Harry & Son",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 66
+}

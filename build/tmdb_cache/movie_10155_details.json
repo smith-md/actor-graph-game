@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/rq6duKhgffOtMs9LqgyhrJ9Y8EX.jpg",
+  "belongs_to_collection": null,
+  "budget": 19000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 10155,
+  "imdb_id": "tt0120399",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "U Turn",
+  "overview": "When a desperate man’s car breaks down in a bizarre desert town while evading vengeful bookies, he becomes entangled in a dangerous love triangle. Caught between a married couple, he’s faced with deadly contracts to kill them both.",
+  "popularity": 4.9316,
+  "poster_path": "/nBPTj1ApIDWo04M14rXFwLPdtr2.jpg",
+  "production_companies": [
+    {
+      "id": 53473,
+      "logo_path": null,
+      "name": "Canal+ Droits Audiovisuels",
+      "origin_country": "FR"
+    },
+    {
+      "id": 3480,
+      "logo_path": null,
+      "name": "Illusion Entertainment Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 11317,
+      "logo_path": "/hMboqqmeILXFeOJjuCsn3FvCIT3.png",
+      "name": "Phoenix Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 12263,
+      "logo_path": null,
+      "name": "Clyde Is Hungry Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1997-10-03",
+  "revenue": 6682098,
+  "runtime": 125,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sex. Murder. Betrayal. Everything that makes life worth living.",
+  "title": "U Turn",
+  "video": false,
+  "vote_average": 6.613,
+  "vote_count": 780
+}

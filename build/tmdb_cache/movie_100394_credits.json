@@ -1,0 +1,151 @@
+{
+  "id": 100394,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 33923,
+      "known_for_department": "Acting",
+      "name": "Mel Blanc",
+      "original_name": "Mel Blanc",
+      "popularity": 1.4595,
+      "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+      "cast_id": 1,
+      "character": "Bugs Bunny",
+      "credit_id": "52fe49d7c3a36847f81a9449",
+      "order": 0
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 113285,
+      "known_for_department": "Visual Effects",
+      "name": "Ben Washam",
+      "original_name": "Ben Washam",
+      "popularity": 1.1833,
+      "profile_path": "/7qyzNgVAcuzgtOjqYffkGp7YzpO.jpg",
+      "credit_id": "52fe49d7c3a36847f81a9479",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1125248,
+      "known_for_department": "Production",
+      "name": "John W. Burton",
+      "original_name": "John W. Burton",
+      "popularity": 0.5544,
+      "profile_path": null,
+      "credit_id": "52fe49d7c3a36847f81a945b",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 155076,
+      "known_for_department": "Visual Effects",
+      "name": "Ken Harris",
+      "original_name": "Ken Harris",
+      "popularity": 0.2335,
+      "profile_path": null,
+      "credit_id": "52fe49d7c3a36847f81a946d",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 422939,
+      "known_for_department": "Sound",
+      "name": "Milt Franklyn",
+      "original_name": "Milt Franklyn",
+      "popularity": 1.4117,
+      "profile_path": "/wvwkvfkRYm9txQNGaqwkOj7Hn8b.jpg",
+      "credit_id": "52fe49d7c3a36847f81a9467",
+      "department": "Sound",
+      "job": "Music"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 100890,
+      "known_for_department": "Visual Effects",
+      "name": "Abe Levitow",
+      "original_name": "Abe Levitow",
+      "popularity": 1.1768,
+      "profile_path": "/k73isOkYIdwGwD7Qr3aYa5Alkdw.jpg",
+      "credit_id": "52fe49d7c3a36847f81a9455",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 163663,
+      "known_for_department": "Visual Effects",
+      "name": "Richard Thompson",
+      "original_name": "Richard Thompson",
+      "popularity": 0.6822,
+      "profile_path": null,
+      "credit_id": "52fe49d7c3a36847f81a9473",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1142729,
+      "known_for_department": "Art",
+      "name": "Tom O'Loughlin",
+      "original_name": "Tom O'Loughlin",
+      "popularity": 0.5,
+      "profile_path": null,
+      "credit_id": "52fe49d7c3a36847f81a9485",
+      "department": "Art",
+      "job": "Background Designer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 362742,
+      "known_for_department": "Writing",
+      "name": "Michael Maltese",
+      "original_name": "Michael Maltese",
+      "popularity": 0.4843,
+      "profile_path": "/kh0VmXGxAAUPybZHMFsir5beXiH.jpg",
+      "credit_id": "52fe49d7c3a36847f81a9461",
+      "department": "Writing",
+      "job": "Story"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 100888,
+      "known_for_department": "Directing",
+      "name": "Chuck Jones",
+      "original_name": "Chuck Jones",
+      "popularity": 0.8504,
+      "profile_path": "/6LaYJXpfX6hry3mT8QTEGCPIUdi.jpg",
+      "credit_id": "52fe49d7c3a36847f81a944f",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 179923,
+      "known_for_department": "Visual Effects",
+      "name": "Maurice Noble",
+      "original_name": "Maurice Noble",
+      "popularity": 0.4052,
+      "profile_path": "/c4BKLkVSdbn1l3wV3l1KDmnxgmq.jpg",
+      "credit_id": "6456039860620a00ff3ff261",
+      "department": "Visual Effects",
+      "job": "Layout Supervisor"
+    }
+  ]
+}

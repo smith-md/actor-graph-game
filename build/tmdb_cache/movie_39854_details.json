@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/vjzHGQ8U6g88LU5rNTeAznfjM2C.jpg",
+  "belongs_to_collection": {
+    "id": 242765,
+    "name": "In the Line of Duty Collection",
+    "poster_path": "/p1VFrN3dgYWVDBve2SpDuC7R7tz.jpg",
+    "backdrop_path": "/9UfnrJ68cfWd3tS54XX0yQBVMvH.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 39854,
+  "imdb_id": "tt0097539",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "皇家師姐IV直擊證人",
+  "overview": "Two detectives who are up to their necks in trouble and in each other's face, as they try to shut down a drug-trafficking scheme that could be connected with international ties to organized crime. But in the midst of their investigation, innocent immigrant dock worker Luk Wan-Ting gets caught up in the mix when he witnesses the murder of an intelligence operative and is framed for the crime.",
+  "popularity": 4.0157,
+  "poster_path": "/w3IqNotgwl8RRS17P50xCOB9EEB.jpg",
+  "production_companies": [
+    {
+      "id": 22060,
+      "logo_path": null,
+      "name": "D & B Films",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1989-07-21",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "In the Line of Duty 4",
+  "video": false,
+  "vote_average": 6.897,
+  "vote_count": 58
+}

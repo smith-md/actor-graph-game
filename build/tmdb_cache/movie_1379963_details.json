@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/rtv6da2U8poERiAZSAbCOePXzql.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0FY3V1MWB",
+  "id": 1379963,
+  "imdb_id": "tt34434461",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Dímelo bajito",
+  "overview": "Kamila has everything under control: studies, social life, her image... Everything except the unexpected return of her neighbors, the Di Bianco brothers, after seven years of absence. Thiago stole her first kiss, and Taylor was her best friend, but now their return will turn Kami's world upside down. Can the three overcome the past that binds them? Or will everything explode into pieces once again?",
+  "popularity": 27.2087,
+  "poster_path": "/6Z37lW0JfLdeFcgH9yaTyg6B9A6.jpg",
+  "production_companies": [
+    {
+      "id": 7345,
+      "logo_path": "/gB3XmmLmm3W4vpXyziCHHLtYpWN.png",
+      "name": "Vaca Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-12-11",
+  "revenue": 0,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tell Me Softly",
+  "video": false,
+  "vote_average": 6.29,
+  "vote_count": 100
+}

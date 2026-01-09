@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/2RzqKJ22hs3p1IgSYzrQYHbYNLz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 138765,
+  "imdb_id": "tt0167886",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il demonio",
+  "overview": "Purif is distraught when her lover is betrothed to another. When she summons the old ways to curse him, her erratic behavior is interpreted as demonic possession, and the villagers turn against her with physical and sexual violence.",
+  "popularity": 3.7788,
+  "poster_path": "/wo0RUtWIw1KmWHpwBCUiN4Hz853.jpg",
+  "production_companies": [
+    {
+      "id": 641,
+      "logo_path": "/w8flpSJntsxVCMkIU1qeg1kJcJh.png",
+      "name": "Titanus",
+      "origin_country": "IT"
+    },
+    {
+      "id": 122823,
+      "logo_path": null,
+      "name": "Vox Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 72022,
+      "logo_path": null,
+      "name": "Les Films Marceau-Cocinor",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1964-01-31",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A night she wakes up bound to the bed and with the bleeding body. The revenge of the devil will not delay!",
+  "title": "The Demon",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 49
+}

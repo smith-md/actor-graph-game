@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/n0kK9yH3WZZgJg6AA3umd6xGK0U.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://kakounofutari-movie.jp/",
+  "id": 625976,
+  "imdb_id": "tt10747038",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "火口のふたり",
+  "overview": "When it rains it pours. Kenji divorced his wife, lost his job and his old squeeze Naoko is getting married back home in the north of Japan, specifically in Akita. He returns there in order to attend her wedding. Naoko surprises him by proposing that they have sex again. The one night stand is the new beginning.",
+  "popularity": 3.7431,
+  "poster_path": "/fNR6cAGd6MasTBN4gMWlYuJMQx9.jpg",
+  "production_companies": [
+    {
+      "id": 104177,
+      "logo_path": null,
+      "name": "Studio3",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11725,
+      "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+      "name": "VAP",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2019-08-23",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "It Feels So Good",
+  "video": false,
+  "vote_average": 6.533,
+  "vote_count": 46
+}

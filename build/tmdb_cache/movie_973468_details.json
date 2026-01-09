@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": "/hycr8NAoZgCtLxiSNYZL9kCQcCr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81485977",
+  "id": 973468,
+  "imdb_id": "tt26067432",
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_title": "WIL",
+  "overview": "Two young police officers find themselves torn between collaboration and resistance as they navigate the Nazi-occupied Antwerp during World War II.",
+  "popularity": 2.9334,
+  "poster_path": "/qAhD2oipCFMUXcZ5YDtQg0pwbUY.jpg",
+  "production_companies": [
+    {
+      "id": 168531,
+      "logo_path": "/rJXJNUMKqDXWNaUcfFdNxSAbo8L.png",
+      "name": "Lecter Scripted Media",
+      "origin_country": "BE"
+    },
+    {
+      "id": 109046,
+      "logo_path": "/xg8hZrLQoz8Q47KhoUeFD6FYT5S.png",
+      "name": "Menuetto",
+      "origin_country": "BE"
+    },
+    {
+      "id": 12583,
+      "logo_path": "/vnYEkRJgZ9w1ZL777SGNqNV74b8.png",
+      "name": "Minds Meet",
+      "origin_country": "BE"
+    },
+    {
+      "id": 1926,
+      "logo_path": "/eSnbNBmDyok9rcpWxYRaBjTaq1n.png",
+      "name": "Les Films du Fleuve",
+      "origin_country": "BE"
+    },
+    {
+      "id": 24845,
+      "logo_path": "/eRT3fMGdAaQaFyOYXMEIt8GCe6I.png",
+      "name": "Topkapi Films",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2023-09-27",
+  "revenue": 0,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They were times for ambiguity and contempt, and in that they do not differ from other times, which is to say they have not gone by.",
+  "title": "WILL",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 107
+}

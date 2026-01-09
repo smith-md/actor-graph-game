@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/eHmyIxA2EFWyTtMr2kjiRxGUxXY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1215798,
+  "imdb_id": "tt26697087",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Cut",
+  "overview": "A retired boxer intends to return to the ring for one last shot at the title, but first he must make the weight. Holed up in a room in Las Vegas with an unscrupulous trainer, he embarks on an intensive and illegal weight-cutting program.",
+  "popularity": 5.597,
+  "poster_path": "/6iseyProRsPyu3rOCzsXDDnDGrl.jpg",
+  "production_companies": [
+    {
+      "id": 155758,
+      "logo_path": "/iZi0zd9ijrcWR9zlEUUthG8d600.png",
+      "name": "Tea Shop Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 101890,
+      "logo_path": "/1uN1lWLR1bwTGwu52j1SS21KPnu.png",
+      "name": "Wonderfilm Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 204159,
+      "logo_path": null,
+      "name": "Amazing Owl",
+      "origin_country": "US"
+    },
+    {
+      "id": 1432,
+      "logo_path": "/odyWStT82nGf2LQCyfs7iFudwa0.png",
+      "name": "Republic Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-09-04",
+  "revenue": 66455,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Your body is a tool.",
+  "title": "The Cut",
+  "video": false,
+  "vote_average": 6.167,
+  "vote_count": 45
+}

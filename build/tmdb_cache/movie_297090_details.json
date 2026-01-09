@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/bYXYrMZeS792zS87xD9ySUALVgK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 297090,
+  "imdb_id": "tt3617996",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ちょっとかわいいアイアンメイデン",
+  "overview": "The \"Torture Club\" is an official after-school activity at the private school Saint Honesty Gakuen. Yuzuki has no idea about the club when she enrolls, and gets abducted by the club members and hauled off the club-room. There, she finds out that upper-class student Aoi, her secret idol, is in the club, and decides to join, but…",
+  "popularity": 4.8296,
+  "poster_path": "/rJQQxeNqf4Cs0NtlftVJyfHDoEc.jpg",
+  "production_companies": [
+    {
+      "id": 2073,
+      "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+      "name": "KADOKAWA",
+      "origin_country": "JP"
+    },
+    {
+      "id": 84462,
+      "logo_path": null,
+      "name": "Shaiker",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2014-07-19",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Torture Club",
+  "video": false,
+  "vote_average": 5.234,
+  "vote_count": 47
+}

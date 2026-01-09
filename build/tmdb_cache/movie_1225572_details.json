@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/uuxIj0bVdfM8WM0Cm3LTBv9Qmp4.jpg",
+  "belongs_to_collection": {
+    "id": 1565962,
+    "name": "Screamboat Collection",
+    "poster_path": "/vg8jTWCNohNvnv9CxAnkewqwy9U.jpg",
+    "backdrop_path": "/b6qaMOC5CEMTAi3copZ72DtZOV.jpg"
+  },
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://screamboatmovie.com/",
+  "id": 1225572,
+  "imdb_id": "tt30766582",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Screamboat",
+  "overview": "A late-night boat ride turns into a desperate fight for survival in New York City when a mischievous mouse becomes a monstrous reality.",
+  "popularity": 7.0095,
+  "poster_path": "/78xGAhQaKpgq9TI08XK40Ua2bGx.jpg",
+  "production_companies": [
+    {
+      "id": 183793,
+      "logo_path": null,
+      "name": "Sleight of Hand Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 114220,
+      "logo_path": "/b5n3DtfUySREkq4Xi962zMg69qq.png",
+      "name": "Fuzz on the Lens Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 169576,
+      "logo_path": null,
+      "name": "Deskpop Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 108041,
+      "logo_path": null,
+      "name": "Kali Pictures",
+      "origin_country": "FR"
+    },
+    {
+      "id": 222240,
+      "logo_path": null,
+      "name": "Reckless Content",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-20",
+  "revenue": 393011,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A scream is a wish your heart makes.",
+  "title": "Screamboat",
+  "video": false,
+  "vote_average": 5.089,
+  "vote_count": 108
+}

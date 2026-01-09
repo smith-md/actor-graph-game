@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/rmB13CFLNFJIML8VLTnzDjMcmsC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 161143,
+  "imdb_id": "tt2702348",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Madly Madagascar",
+  "overview": "Your favorite Madagascar pals are back in an all-new adventure! Alex's favorite holiday, Valentine's Day, brings hilarious surprises and excitement for the entire gang. Melman plans a big surprise for Gloria, Marty tries to impress a new friend and everyone wants to get their hands on King Julien's love potion. You'll fall in LOVE with Madly Madagascar!",
+  "popularity": 3.7315,
+  "poster_path": "/1M8J7tpy5Vnkewp1BFS82abGOFD.jpg",
+  "production_companies": [
+    {
+      "id": 521,
+      "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+      "name": "DreamWorks Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-01-29",
+  "revenue": 0,
+  "runtime": 22,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Madly Madagascar",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 240
+}

@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/raQvRtj0hX0LdimZAUYfeIIKBxD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 5643,
+  "imdb_id": "tt0221554",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Six-Pack",
+  "overview": "A serial killer is on the loose in Paris and he seems to be an american citizen working in the US embassy and being in the middle of a french-american economical affair.",
+  "popularity": 3.4593,
+  "poster_path": "/u6R4BKzfhsPggTfPHQQsgdX2OEU.jpg",
+  "production_companies": [
+    {
+      "id": 635,
+      "logo_path": "/ikp5Hokscs88jMWSkM9dB98U3Ak.png",
+      "name": "Les Films Alain Sarde",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2000-04-26",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Six-Pack",
+  "video": false,
+  "vote_average": 5.661,
+  "vote_count": 28
+}

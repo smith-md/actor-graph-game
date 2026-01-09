@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/q7jEo6UkM7HsBioHJ3BpUnfgnjP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "https://midasman.movie/",
+  "id": 819277,
+  "imdb_id": "tt12627606",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Midas Man",
+  "overview": "When Brian Epstein set foot in the Cavern Club in November 1961 to watch The Beatles perform, he saw something no one else could – a glimmer of gold. Sharply dressed and well-spoken, Brian was hardly the most obvious radical – but being Jewish, closeted and having grown up as an outsider who had failed at pretty much everything, he was a 26-year old with something to prove and who wanted to tear up the rulebook.",
+  "popularity": 3.159,
+  "poster_path": "/4nAfF0Szcb72eRn9WwRFsdvZu5q.jpg",
+  "production_companies": [
+    {
+      "id": 269818,
+      "logo_path": null,
+      "name": "Trevor Beattie Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-08-23",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Managing The Fab Four was the easy part",
+  "title": "Midas Man",
+  "video": false,
+  "vote_average": 6.304,
+  "vote_count": 23
+}

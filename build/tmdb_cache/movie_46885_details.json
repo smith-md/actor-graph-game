@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/aFmSGx6F0x33FLWPkjccmvyWzSF.jpg",
+  "belongs_to_collection": null,
+  "budget": 6000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 46885,
+  "imdb_id": "tt0083296",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Visiting Hours",
+  "overview": "A deranged, misogynistic killer assaults a journalist. When he discovers that she survived the attack, he follows her to the hospital to finish her off.",
+  "popularity": 6.6067,
+  "poster_path": "/caqqCAlRtcWhfmTmUTga0HwDzmj.jpg",
+  "production_companies": [
+    {
+      "id": 4952,
+      "logo_path": null,
+      "name": "Canadian Film Development Corporation",
+      "origin_country": "CA"
+    },
+    {
+      "id": 6160,
+      "logo_path": null,
+      "name": "Filmplan International",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "1982-05-21",
+  "revenue": 13258670,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "So frightening you'll never recover.",
+  "title": "Visiting Hours",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 114
+}

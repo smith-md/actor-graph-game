@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/47nONWP0FHYy27KUfSeg7dnAOcm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1029654,
+  "imdb_id": "tt22392694",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cold Copy",
+  "overview": "A young broadcast journalism student is trying to win the approval of her influential mentor who pushes her to reconsider the meaning of truth if it means success.",
+  "popularity": 2.5235,
+  "poster_path": "/6uvjR7tiSycXeDiOu5uXYvXML4X.jpg",
+  "production_companies": [
+    {
+      "id": 34455,
+      "logo_path": "/wTz9ZMSoxFBDnqrRZRwBLWpsQQO.png",
+      "name": "Votiv Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 61011,
+      "logo_path": "/kDPeollsOtUtGqqEF4P29NwEjf5.png",
+      "name": "Scythia Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 106322,
+      "logo_path": null,
+      "name": "Needle's Eye Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 33603,
+      "logo_path": "/K1SdQd49Kx3QRx0djfHbzeotCz.png",
+      "name": "Shivhans Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 104363,
+      "logo_path": "/tKIimrvYUH02D4km00lCEDUYvIF.png",
+      "name": "30WEST",
+      "origin_country": "US"
+    },
+    {
+      "id": 171436,
+      "logo_path": "/2PCuIrmhOMX9eGpxs8PQWjxfU3s.png",
+      "name": "Carte Blanche",
+      "origin_country": "US"
+    },
+    {
+      "id": 54929,
+      "logo_path": null,
+      "name": "Independent Film",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-01-26",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The truth is a lie.",
+  "title": "Cold Copy",
+  "video": false,
+  "vote_average": 5.239,
+  "vote_count": 23
+}

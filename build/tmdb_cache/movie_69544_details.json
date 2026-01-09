@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/usZCxiu4qqL4H8O8x5Pltrgd0VT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 69544,
+  "imdb_id": "tt0044811",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Kvinnors väntan",
+  "overview": "The four wives of four brothers share stories of their marriages as they wait for their husbands in a small, secluded cottage.",
+  "popularity": 3.8695,
+  "poster_path": "/mMZvfOHtLuQD6sJZY4sbKkKazYw.jpg",
+  "production_companies": [
+    {
+      "id": 6181,
+      "logo_path": "/eaQ7or8IoEmPfgmQiU2C5lVZkxS.png",
+      "name": "SF Studios",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1952-11-03",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The love affairs of three women - marital... premarital... and one marvelous surprise!",
+  "title": "Secrets of Women",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 70
+}

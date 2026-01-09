@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": "/fAqpfILTPsaKpAzoAvkXf5glgSo.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://bluevalentinemovie.com/",
+  "id": 46705,
+  "imdb_id": "tt1120985",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Blue Valentine",
+  "overview": "Dean and Cindy live a quiet life in a modest neighborhood. They appear to have the world at their feet at the outset of the relationship. However, his lack of ambition and her retreat into self-absorption cause potentially irreversible cracks in their marriage.",
+  "popularity": 4.4652,
+  "poster_path": "/dc8BdKnDY5Iy28KzUGtHIXuqqFK.jpg",
+  "production_companies": [
+    {
+      "id": 11338,
+      "logo_path": null,
+      "name": "Cottage Industries",
+      "origin_country": "US"
+    },
+    {
+      "id": 7215,
+      "logo_path": null,
+      "name": "Incentive Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 2293,
+      "logo_path": null,
+      "name": "Silverwood Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 2290,
+      "logo_path": "/gPO7leIjImfola6eq1QGkNqwTEM.png",
+      "name": "Hunting Lane Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 11335,
+      "logo_path": null,
+      "name": "Chrysler Corporation",
+      "origin_country": "US"
+    },
+    {
+      "id": 11336,
+      "logo_path": null,
+      "name": "Shade Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11337,
+      "logo_path": null,
+      "name": "Motel Movies",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-12-26",
+  "revenue": 15440333,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Love Story.",
+  "title": "Blue Valentine",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 3432
+}

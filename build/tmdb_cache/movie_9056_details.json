@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/eYDAnSidN4rIEuneS5gEJkTyk3l.jpg",
+  "belongs_to_collection": {
+    "id": 269098,
+    "name": "Police Story Collection",
+    "poster_path": "/xxvUoPvzDYqoZlABDSNgbV0kTti.jpg",
+    "backdrop_path": "/5atzWKFCCwn4TMVkO1kLVI7rDkX.jpg"
+  },
+  "budget": 500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 9056,
+  "imdb_id": "tt0089374",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "警察故事",
+  "overview": "Officer Chan Ka Kui manages to put a major Hong Kong drug dealer behind the bars practically alone, after a shooting and an impressive chase inside a slum. Now, he must protect the boss' secretary, Selina, who will testify against the gangster in court.",
+  "popularity": 5.0431,
+  "poster_path": "/1eFB0Iy1TMU4VO5hMcoCE064JAT.jpg",
+  "production_companies": [
+    {
+      "id": 3054,
+      "logo_path": null,
+      "name": "Golden Way Films Ltd.",
+      "origin_country": "HK"
+    },
+    {
+      "id": 2734,
+      "logo_path": null,
+      "name": "Paragon Films",
+      "origin_country": "HK"
+    },
+    {
+      "id": 2521,
+      "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+      "name": "Orange Sky Golden Harvest",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1985-12-14",
+  "revenue": 18724000,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You may know the name, but the game has changed.",
+  "title": "Police Story",
+  "video": false,
+  "vote_average": 7.525,
+  "vote_count": 986
+}

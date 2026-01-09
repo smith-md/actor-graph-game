@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/s0KZQlfhLlO7oT1q9XxCLdW06jO.jpg",
+  "belongs_to_collection": null,
+  "budget": 7500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 22590,
+  "imdb_id": "tt0105402",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sidekicks",
+  "overview": "Asthmatic teenager Barry Gabrewski is a daydreamer. Troubled by bullying, he escapes into a fantasy world where he is the sidekick to his martial arts hero, Chuck Norris, in a series of high-octane adventures taken right out of his movies. With help from his teacher's wise old uncle, Mr. Lee, Barry learns the finer points of martial arts and enters a karate championship.",
+  "popularity": 4.1602,
+  "poster_path": "/p4n2gLg7Iqko72GMJwfaHHCdVg4.jpg",
+  "production_companies": [
+    {
+      "id": 4109,
+      "logo_path": null,
+      "name": "Vision PDG",
+      "origin_country": ""
+    },
+    {
+      "id": 17160,
+      "logo_path": null,
+      "name": "Gallery Films",
+      "origin_country": ""
+    },
+    {
+      "id": 23098,
+      "logo_path": "/qosRT1fWXpaGuWQBWOQJO9RcPTo.png",
+      "name": "Triumph Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-12-17",
+  "revenue": 17200000,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A dreamer and a champion. An unbeatable team.",
+  "title": "Sidekicks",
+  "video": false,
+  "vote_average": 5.25,
+  "vote_count": 182
+}

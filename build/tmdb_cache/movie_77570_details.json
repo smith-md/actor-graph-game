@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/1koTZvNDS1DoPeNMdvvdtzvi9V5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 77570,
+  "imdb_id": "tt0071557",
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "original_language": "fr",
+  "original_title": "Le Gitan",
+  "overview": "Two thieves, Hugo Sennart and Yan Kuq, wanted by the same police inspector, cross paths by chance.",
+  "popularity": 2.3367,
+  "poster_path": "/z2xWjXdOs5J19fu4ZkRyoISZ162.jpg",
+  "production_companies": [
+    {
+      "id": 10523,
+      "logo_path": null,
+      "name": "Mondial Televisione Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1713,
+      "logo_path": null,
+      "name": "Adel Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10522,
+      "logo_path": "/yah2JnPzeYIjOMq7YsCMoPvnFIs.png",
+      "name": "Lira Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1975-12-05",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Gypsy",
+  "video": false,
+  "vote_average": 6.359,
+  "vote_count": 46
+}

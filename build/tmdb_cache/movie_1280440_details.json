@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/83NiekHNOZkLbPdjd5KTIOE92Tn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81620854",
+  "id": 1280440,
+  "imdb_id": "tt32244931",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Bokser",
+  "overview": "With only his wife by his side, a promising young boxer flees communist Poland to chase his dream of becoming the greatest fighter in history.",
+  "popularity": 4.362,
+  "poster_path": "/hpFWUpjIT6eTPFoAUzVsGHcQHXT.jpg",
+  "production_companies": [
+    {
+      "id": 133440,
+      "logo_path": "/affIuBGXZHwRdnk893aMhEeavAQ.png",
+      "name": "Open Mind Production",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2024-09-10",
+  "revenue": 0,
+  "runtime": 150,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Boxer",
+  "video": false,
+  "vote_average": 7.163,
+  "vote_count": 43
+}

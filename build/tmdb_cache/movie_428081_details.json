@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/6qrFAxLmgP1wAhCXSryMEjIsD4m.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 428081,
+  "imdb_id": "tt5985052",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "High Society",
+  "overview": "Two girls from very different social backgrounds discover, at the age of 25, that they had been switched at birth.",
+  "popularity": 5.9269,
+  "poster_path": "/y1jkYgGExy1MsAEgvdnxEu0yQsR.jpg",
+  "production_companies": [
+    {
+      "id": 67049,
+      "logo_path": "/rMleYBpiJNDFdWt9zVXJJETIDta.png",
+      "name": "Hellinger / Doll Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 190145,
+      "logo_path": null,
+      "name": "Decker Bros.",
+      "origin_country": ""
+    },
+    {
+      "id": 96105,
+      "logo_path": "/yTIbkYK1VGE64FSFqPj5jGDvLG.png",
+      "name": "Warner Bros. Film Productions Germany",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2017-09-14",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Opposites attract",
+  "title": "High Society",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 159
+}

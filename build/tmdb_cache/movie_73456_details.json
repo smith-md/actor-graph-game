@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/pR51tWHlUWUEnPUc5my9anqcDto.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 73456,
+  "imdb_id": "tt2066832",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Barbie: Princess Charm School",
+  "overview": "Blair, a waitress in the kingdom of Gardania, realises that she strongly resembles the region's missing queen. She then gets to go to Princess Charm School and causes problems for the teacher.",
+  "popularity": 4.2516,
+  "poster_path": "/lI2jPbssax6XX5vDqB9mTJHGzfH.jpg",
+  "production_companies": [
+    {
+      "id": 102897,
+      "logo_path": "/ackYRJXIse2uoLDawNVs1HzEJgm.png",
+      "name": "Rainmaker Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 6220,
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png",
+      "name": "Mattel",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2011-08-11",
+  "revenue": 0,
+  "runtime": 79,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There's a Princess in every girl!",
+  "title": "Barbie: Princess Charm School",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 852
+}

@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/tRRoyv2Yte2qakSpwL3FOy78Cyv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 27030,
+  "imdb_id": "tt0046022",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Madame de…",
+  "overview": "In late 19th century France, the Countess Louise, wife of a wealthy general, sells the earrings her husband gave her on their wedding day to pay off her secret debts, then claims to have lost them. Her husband quickly learns of the deceit, which is the beginning of many tragic misunderstandings, all involving the earrings, the general, the countess, and her new lover, the Italian Baron Donati.",
+  "popularity": 3.2408,
+  "poster_path": "/hBhpZjOA1G99FXdENq0zUwEEcR3.jpg",
+  "production_companies": [
+    {
+      "id": 1477,
+      "logo_path": null,
+      "name": "Franco London Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 18844,
+      "logo_path": null,
+      "name": "Indusfilms",
+      "origin_country": ""
+    },
+    {
+      "id": 1131,
+      "logo_path": null,
+      "name": "Rizzoli Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1953-04-16",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It was her vanity that destroyed her.",
+  "title": "The Earrings of Madame de...",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 250
+}

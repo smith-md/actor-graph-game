@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/gkE0BG8p3LjynsGU3RTvKGvTPdr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://web.archive.org/web/20081216015803/http://www.cougarclubthemovie.com/",
+  "id": 14666,
+  "imdb_id": "tt0795361",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cougar Club",
+  "overview": "When Spence and Hogan graduate from college, life is bleak. They have to work for heinous divorce lawyers that torture them with gruesome jobs. Spence has a girlfriend from hell, and Hogan just wants to start his life. As luck would have it, these two young men are presented with an opportunity, and develop a club of young men devoted to older women, whom they call “Cougars.”",
+  "popularity": 5.3085,
+  "poster_path": "/rVgEeVZTbGz2RouAQUYU1URDz4F.jpg",
+  "production_companies": [
+    {
+      "id": 7617,
+      "logo_path": null,
+      "name": "Open Sky Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-05-19",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The hunt is on.",
+  "title": "Cougar Club",
+  "video": false,
+  "vote_average": 3.837,
+  "vote_count": 52
+}

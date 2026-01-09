@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/oLA6GlYvfUAAzITiXo56NEKjVQE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.hulu.com/movie/books-of-blood-a580fd44-34ff-4a32-a647-10c6d6ead8b6",
+  "id": 715123,
+  "imdb_id": "tt11242218",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Books of Blood",
+  "overview": "A journey into uncharted and forbidden territory through three tales tangled in space and time.",
+  "popularity": 5.8826,
+  "poster_path": "/bXLVZGgLgd7OwbfP6fC5GCfrxuD.jpg",
+  "production_companies": [
+    {
+      "id": 8789,
+      "logo_path": "/1smGq637YoNgkeBZXt7TAPDYGda.png",
+      "name": "Fuzzy Door Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 141822,
+      "logo_path": "/wYbXNFxFTLqIZjeE6FlvEUOzPlG.png",
+      "name": "Touchstone Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-10-07",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All stories end here.",
+  "title": "Books of Blood",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 482
+}

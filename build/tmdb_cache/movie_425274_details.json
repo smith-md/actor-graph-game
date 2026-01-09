@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/dHSz0tSFuO2CsXJ1CApSauP9Ncl.jpg",
+  "belongs_to_collection": {
+    "id": 382685,
+    "name": "Now You See Me Collection",
+    "poster_path": "/n2B51uCX5r960pFbEl9jMbTMuvq.jpg",
+    "backdrop_path": "/scBzORmLqP00h8hPKS19TLtyRQm.jpg"
+  },
+  "budget": 90000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://nowyouseeme.movie",
+  "id": 425274,
+  "imdb_id": "tt4712810",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Now You See Me: Now You Don't",
+  "overview": "The original Four Horsemen reunite with a new generation of illusionists to take on powerful diamond heiress Veronika Vanderberg, who leads a criminal empire built on money laundering and trafficking. The new and old magicians must overcome their differences to work together on their most ambitious heist yet.",
+  "popularity": 153.6233,
+  "poster_path": "/oD3Eey4e4Z259XLm3eD3WGcoJAh.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 281285,
+      "logo_path": null,
+      "name": "Cohen Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 221429,
+      "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+      "name": "Media Capital Technologies",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-12",
+  "revenue": 218339508,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Unlock the illusion.",
+  "title": "Now You See Me: Now You Don't",
+  "video": false,
+  "vote_average": 6.595,
+  "vote_count": 817
+}

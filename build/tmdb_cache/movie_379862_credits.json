@@ -1,0 +1,116 @@
+{
+  "id": 379862,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1569319,
+      "known_for_department": "Acting",
+      "name": "Kathryn Aboya",
+      "original_name": "Kathryn Aboya",
+      "popularity": 0.308,
+      "profile_path": "/2Vnn1FVWRa3jagJLYUI7FJ3UPbz.jpg",
+      "cast_id": 2,
+      "character": "Susan",
+      "credit_id": "56a9f0a49251415475002c84",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1569320,
+      "known_for_department": "Acting",
+      "name": "Mike Donis",
+      "original_name": "Mike Donis",
+      "popularity": 1.9325,
+      "profile_path": "/caBHEc0MkE9S3k9JMIBd2cheili.jpg",
+      "cast_id": 3,
+      "character": "Harry",
+      "credit_id": "56a9f0b59251417db5004448",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1010053,
+      "known_for_department": "Acting",
+      "name": "Astrida Auza",
+      "original_name": "Astrida Auza",
+      "popularity": 0.2662,
+      "profile_path": "/ig59sxYuDdjyx75opfUOEfrvUqA.jpg",
+      "cast_id": 4,
+      "character": "Tabitha",
+      "credit_id": "56a9f0cac3a36872cd004e87",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1428553,
+      "known_for_department": "Production",
+      "name": "Duncan Finnigan",
+      "original_name": "Duncan Finnigan",
+      "popularity": 0.5532,
+      "profile_path": null,
+      "cast_id": 5,
+      "character": "Blake",
+      "credit_id": "56a9f0df9251415475002cc5",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1569321,
+      "known_for_department": "Acting",
+      "name": "Lance Rankin",
+      "original_name": "Lance Rankin",
+      "popularity": 0.0589,
+      "profile_path": null,
+      "cast_id": 6,
+      "character": "William",
+      "credit_id": "56a9f0eec3a36872d800482b",
+      "order": 4
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1390365,
+      "known_for_department": "Writing",
+      "name": "Jon Hyatt",
+      "original_name": "Jon Hyatt",
+      "popularity": 0.2839,
+      "profile_path": null,
+      "credit_id": "56a9f07ac3a36872cf0049ca",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1390365,
+      "known_for_department": "Writing",
+      "name": "Jon Hyatt",
+      "original_name": "Jon Hyatt",
+      "popularity": 0.2839,
+      "profile_path": null,
+      "credit_id": "56a9f089c3a36872e10046d1",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1109249,
+      "known_for_department": "Camera",
+      "name": "Bruce William Harper",
+      "original_name": "Bruce William Harper",
+      "popularity": 0.0941,
+      "profile_path": null,
+      "credit_id": "5c36471ec3a36827291c45ab",
+      "department": "Camera",
+      "job": "Director of Photography"
+    }
+  ]
+}

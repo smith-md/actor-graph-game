@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/rIyUSACGw6Wq0rDar4jDw4ycsIQ.jpg",
+  "belongs_to_collection": {
+    "id": 795482,
+    "name": "Kite Collection",
+    "poster_path": "/zY4qqb9nv9129OFu2yqtJXPFWGx.jpg",
+    "backdrop_path": "/2B3wLk1313obuWI5u3e89D5kPKp.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 55892,
+  "imdb_id": "tt0427531",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "MEZZO FORTE",
+  "overview": "The target of hitgirl Mikura is a wealthy baseball team owner, but he turns out to be a powerful underworld boss. Mikura and her team are beset by countless heavily armed bodyguards and the boss' vicious daughter.",
+  "popularity": 4.2701,
+  "poster_path": "/f8VfbivexOy6ZUZTrqZsHz2vRPU.jpg",
+  "production_companies": [
+    {
+      "id": 12083,
+      "logo_path": "/jlk2Htq5C5ToDiIoM353xwpWwO6.png",
+      "name": "ARMS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4623,
+      "logo_path": null,
+      "name": "Green Bunny",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2000-05-25",
+  "revenue": 0,
+  "runtime": 61,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Double the girls, double the guns!!",
+  "title": "Mezzo Forte",
+  "video": false,
+  "vote_average": 6.474,
+  "vote_count": 58
+}

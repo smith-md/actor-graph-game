@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/7IQSByEDlsHqwRJZcQUPoiBlwAe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 53026,
+  "imdb_id": "tt0060263",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Créatures",
+  "overview": "A writer decides to use the strange inhabitants of a small island as a basis for characters in his new book.",
+  "popularity": 3.7256,
+  "poster_path": "/Au7UmEA1gnUPIljLFPwb180WOkh.jpg",
+  "production_companies": [
+    {
+      "id": 1728,
+      "logo_path": "/sujSPQqxYIoKfjAyS8OaJ6hLNed.png",
+      "name": "Sandrews",
+      "origin_country": "SE"
+    },
+    {
+      "id": 14680,
+      "logo_path": null,
+      "name": "Parc Film",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1147,
+      "logo_path": "/tBDaGOA04LmlsbLvMwHjR7WzT9H.png",
+      "name": "Madeleine Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1966-09-03",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Creatures",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 48
+}

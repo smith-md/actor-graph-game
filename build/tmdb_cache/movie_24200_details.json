@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": "/trY2Y74EzQuz1WLRjIL3A9gDnS1.jpg",
+  "belongs_to_collection": {
+    "id": 378453,
+    "name": "Henry Fool Collection",
+    "poster_path": "/r43BDC7vFi6TvZelH3Tg2grrUA.jpg",
+    "backdrop_path": "/8k7CTsbyL9usdSph3iHIwzC6iQ8.jpg"
+  },
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.faygrimfilm.com/",
+  "id": 24200,
+  "imdb_id": "tt0444628",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Fay Grim",
+  "overview": "Many years after her notorious husband, Henry Fool, fled after killing a neighbor, Fay Grim receives a visit from CIA agent Fulbright, who tells her that Henry is dead, but that some of his journals have been unearthed in France. She sets forth on a globe-trotting odyssey that soon leads to the discovery that he is alive, and his journals are more than they appear to be.",
+  "popularity": 3.681,
+  "poster_path": "/20C2aywxWMvkXRP7H1mIkpJvxS7.jpg",
+  "production_companies": [
+    {
+      "id": 3097,
+      "logo_path": "/9wovALoSnGuHXLUw3Fn3n48rIN7.png",
+      "name": "HDNet Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 5247,
+      "logo_path": null,
+      "name": "Possible Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 10059,
+      "logo_path": "/3Z2MZzMW9gUyZAhHKhFIUqF1hwx.png",
+      "name": "This is that",
+      "origin_country": "US"
+    },
+    {
+      "id": 9206,
+      "logo_path": null,
+      "name": "Zero Fiction Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-05-18",
+  "revenue": 193607,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Featuring the continuing adventures of Henry Fool.",
+  "title": "Fay Grim",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 81
+}

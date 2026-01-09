@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/6e2yeFZgtD7RKpUYEOjj5v7oAUz.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.neonrated.com/film/the-life-of-chuck",
+  "id": 842924,
+  "imdb_id": "tt12908150",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Life of Chuck",
+  "overview": "In this extraordinary story of an ordinary man, Charles 'Chuck' Krantz experiences the wonder of love, the heartbreak of loss, and the multitudes contained in all of us.",
+  "popularity": 11.4068,
+  "poster_path": "/oumprkO9bThExP8NwxBIBnvBu2v.jpg",
+  "production_companies": [
+    {
+      "id": 1224,
+      "logo_path": "/9s5tOG7GWWym1P37QJuFX438rAI.png",
+      "name": "Intrepid Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 230188,
+      "logo_path": "/3fcDHrejilPCzhDkgSd49R2ttfz.png",
+      "name": "Red Room Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 210819,
+      "logo_path": "/lXW15vGgeQIIGia0oFycQgALb9Y.png",
+      "name": "QWGmire",
+      "origin_country": "US"
+    },
+    {
+      "id": 7493,
+      "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+      "name": "FilmNation Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-06-05",
+  "revenue": 19600910,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every life is a universe all its own.",
+  "title": "The Life of Chuck",
+  "video": false,
+  "vote_average": 7.303,
+  "vote_count": 676
+}

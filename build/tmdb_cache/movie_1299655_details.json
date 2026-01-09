@@ -1,1 +1,99 @@
-{"adult": false, "backdrop_path": "/tZ4r8e0N4YnNpwgaxJVTkdi8DaF.jpg", "belongs_to_collection": null, "budget": 0, "genres": [{"id": 18, "name": "Drama"}, {"id": 10402, "name": "Music"}, {"id": 36, "name": "History"}], "homepage": "https://www.sonyclassics.com/film/bluemoon", "id": 1299655, "imdb_id": "tt32536315", "origin_country": ["US"], "original_language": "en", "original_title": "Blue Moon", "overview": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi\u2019s bar as his former collaborator Richard Rodgers celebrates the opening night of his ground-breaking hit musical \u201cOklahoma!\u201d.", "popularity": 7.5849, "poster_path": "/yKAozSP2uBpiUKtedjO0rU11Tl5.jpg", "production_companies": [{"id": 11510, "logo_path": "/gg3gP2wHNNfOfLKdXGjYC9qJ9ok.png", "name": "Detour Filmproduction", "origin_country": "US"}, {"id": 58, "logo_path": "/voYCwlBHJQANtjvm5MNIkCF1dDH.png", "name": "Sony Pictures Classics", "origin_country": "US"}, {"id": 191684, "logo_path": "/fz5l3pTaaAklhOMghZAHmCI87dK.png", "name": "Renovo Media Group", "origin_country": "US"}, {"id": 129815, "logo_path": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png", "name": "Wild Atlantic Pictures", "origin_country": "IE"}, {"id": 98506, "logo_path": null, "name": "Under the Influence Productions", "origin_country": "US"}, {"id": 88582, "logo_path": "/zf2Akd6JvRZlnd1OacHYaN5dj0k.png", "name": "Cinetic Media", "origin_country": "US"}, {"id": 254056, "logo_path": null, "name": "Not to Be Seen Productions", "origin_country": "US"}, {"id": 183982, "logo_path": "/iZzZhh1vkOGt0tRb3y2CO0C6Gng.png", "name": "Concord Originals", "origin_country": "US"}], "production_countries": [{"iso_3166_1": "IE", "name": "Ireland"}, {"iso_3166_1": "US", "name": "United States of America"}], "release_date": "2025-10-17", "revenue": 0, "runtime": 100, "spoken_languages": [{"english_name": "English", "iso_639_1": "en", "name": "English"}], "status": "Released", "tagline": "", "title": "Blue Moon", "video": false, "vote_average": 4.0, "vote_count": 3}
+{
+  "adult": false,
+  "backdrop_path": "/uJOkLO8zIjmkKKV0Cw0R4xiUmk9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.sonyclassics.com/film/bluemoon",
+  "id": 1299655,
+  "imdb_id": "tt32536315",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Blue Moon",
+  "overview": "On the evening of March 31, 1943, legendary lyricist Lorenz Hart confronts his shattered self-confidence in Sardi’s bar as his former collaborator Richard Rodgers celebrates the opening night of his ground-breaking hit musical “Oklahoma!”.",
+  "popularity": 10.5312,
+  "poster_path": "/dVU7SNc6dgStTVdtbPLQncWxsyZ.jpg",
+  "production_companies": [
+    {
+      "id": 11510,
+      "logo_path": "/gg3gP2wHNNfOfLKdXGjYC9qJ9ok.png",
+      "name": "Detour Filmproduction",
+      "origin_country": "US"
+    },
+    {
+      "id": 58,
+      "logo_path": "/voYCwlBHJQANtjvm5MNIkCF1dDH.png",
+      "name": "Sony Pictures Classics",
+      "origin_country": "US"
+    },
+    {
+      "id": 191684,
+      "logo_path": "/fz5l3pTaaAklhOMghZAHmCI87dK.png",
+      "name": "Renovo Media Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 129815,
+      "logo_path": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
+      "name": "Wild Atlantic Pictures",
+      "origin_country": "IE"
+    },
+    {
+      "id": 98506,
+      "logo_path": null,
+      "name": "Under the Influence Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 88582,
+      "logo_path": "/zf2Akd6JvRZlnd1OacHYaN5dj0k.png",
+      "name": "Cinetic Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 254056,
+      "logo_path": null,
+      "name": "Not to Be Seen Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 183982,
+      "logo_path": "/iZzZhh1vkOGt0tRb3y2CO0C6Gng.png",
+      "name": "Concord Originals",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-17",
+  "revenue": 1940624,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Forgotten but not gone.",
+  "title": "Blue Moon",
+  "video": false,
+  "vote_average": 6.811,
+  "vote_count": 103
+}

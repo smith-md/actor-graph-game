@@ -1,0 +1,152 @@
+{
+  "id": 118615,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 33923,
+      "known_for_department": "Acting",
+      "name": "Mel Blanc",
+      "original_name": "Mel Blanc",
+      "popularity": 1.6254,
+      "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+      "cast_id": 2,
+      "character": "Hubie / Claude (voice)",
+      "credit_id": "52fe4bdec3a36847f82174df",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 110654,
+      "known_for_department": "Acting",
+      "name": "Stan Freberg",
+      "original_name": "Stan Freberg",
+      "popularity": 0.5614,
+      "profile_path": "/msFe4Y7ud9k3DgcCmlXL0EZH6nR.jpg",
+      "cast_id": 3,
+      "character": "Bertie (voice)",
+      "credit_id": "52fe4bdec3a36847f82174e3",
+      "order": 1
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 100888,
+      "known_for_department": "Directing",
+      "name": "Chuck Jones",
+      "original_name": "Chuck Jones",
+      "popularity": 0.8807,
+      "profile_path": "/6LaYJXpfX6hry3mT8QTEGCPIUdi.jpg",
+      "credit_id": "52fe4bdec3a36847f82174db",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 457819,
+      "known_for_department": "Production",
+      "name": "Edward Selzer",
+      "original_name": "Edward Selzer",
+      "popularity": 1.5242,
+      "profile_path": null,
+      "credit_id": "52fe4bdec3a36847f82174e9",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 551674,
+      "known_for_department": "Sound",
+      "name": "Carl W. Stalling",
+      "original_name": "Carl W. Stalling",
+      "popularity": 1.8595,
+      "profile_path": "/pvo2CuSZen19HwzODF9v42OhQmR.jpg",
+      "credit_id": "52fe4bdec3a36847f82174ef",
+      "department": "Sound",
+      "job": "Music"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 573543,
+      "known_for_department": "Visual Effects",
+      "name": "Robert Gribbroek",
+      "original_name": "Robert Gribbroek",
+      "popularity": 0.1472,
+      "profile_path": null,
+      "credit_id": "64446d352c6b7b04947ea6a4",
+      "department": "Visual Effects",
+      "job": "Layout Supervisor"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 149379,
+      "known_for_department": "Editing",
+      "name": "Treg Brown",
+      "original_name": "Treg Brown",
+      "popularity": 0.5271,
+      "profile_path": null,
+      "credit_id": "5d9abeaabb2602002312c6e3",
+      "department": "Editing",
+      "job": "Editor"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 149379,
+      "known_for_department": "Editing",
+      "name": "Treg Brown",
+      "original_name": "Treg Brown",
+      "popularity": 0.5271,
+      "profile_path": null,
+      "credit_id": "5d9abeb481a7fc0018c64577",
+      "department": "Sound",
+      "job": "Sound Effects Editor"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 362742,
+      "known_for_department": "Writing",
+      "name": "Michael Maltese",
+      "original_name": "Michael Maltese",
+      "popularity": 0.4948,
+      "profile_path": "/kh0VmXGxAAUPybZHMFsir5beXiH.jpg",
+      "credit_id": "5d9abec581a7fc0020c62404",
+      "department": "Writing",
+      "job": "Story"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 573308,
+      "known_for_department": "Art",
+      "name": "Peter Alvarado",
+      "original_name": "Peter Alvarado",
+      "popularity": 0.1021,
+      "profile_path": null,
+      "credit_id": "5d9abed492e55b0012497ee6",
+      "department": "Art",
+      "job": "Background Designer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 155076,
+      "known_for_department": "Visual Effects",
+      "name": "Ken Harris",
+      "original_name": "Ken Harris",
+      "popularity": 0.1815,
+      "profile_path": null,
+      "credit_id": "5d9abee681a7fc0020c62443",
+      "department": "Visual Effects",
+      "job": "Animation"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/tTnGXtbrMO4Z8XzYuB35SorR0On.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 40982,
+  "imdb_id": "tt0089813",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Pizza Connection",
+  "overview": "An Italian-American pizzeria manager returns to Sicily to assassinate a judge, enlisting his honest younger brother for help. As the brother's morals clash with the task, the only way to save him is through a sacrifice that appeases the mafia.",
+  "popularity": 2.9937,
+  "poster_path": "/cAVR6NTEVoX2njwALl9eC8XhHTf.jpg",
+  "production_companies": [
+    {
+      "id": 6392,
+      "logo_path": null,
+      "name": "Alexandra Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 18283,
+      "logo_path": null,
+      "name": "C.G. Silver Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1985-01-25",
+  "revenue": 0,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The underworld has a law of its own...",
+  "title": "The Sicilian Connection",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 26
+}

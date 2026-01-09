@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/uDyynmrQV72gIifcIZ8Q9MrGPRk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 63481,
+  "imdb_id": "tt0074524",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Calmos",
+  "overview": "Two men, fortyish, worn out by their wives, abandon everything to go and live in the back of beyond. There they meet a truculent priest, a boozer, Émile who recalls them to life's simple pleasures. Calm is what they want. But soon their example inspires thousands of disorientated males...",
+  "popularity": 4.2844,
+  "poster_path": "/bOnd2yApKBVyjxchUjN1hG5E0kV.jpg",
+  "production_companies": [
+    {
+      "id": 1869,
+      "logo_path": "/yzT8r8szh67ENcLOgCk1pp4rJg8.png",
+      "name": "AMLF",
+      "origin_country": "FR"
+    },
+    {
+      "id": 461,
+      "logo_path": "/reM5HtbhqjZnefmDSToF0zT0zd7.png",
+      "name": "Les Films Christian Fechner",
+      "origin_country": "FR"
+    },
+    {
+      "id": 82,
+      "logo_path": null,
+      "name": "Renn Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1976-02-11",
+  "revenue": 0,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Femmes Fatales",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 131
+}

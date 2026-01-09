@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/nLQ7jOeBmCQEETS3FCtZDWvYYtA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://a24films.com/films/earth-mama",
+  "id": 980537,
+  "imdb_id": "tt18382328",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Earth Mama",
+  "overview": "A pregnant single mother, with two children in foster care, embraces her Bay Area community as she fights to reclaim her family.",
+  "popularity": 3.6165,
+  "poster_path": "/pA20kQaKxPvUbPeXyyc6ENJEEuN.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 13466,
+      "logo_path": "/d2ewBAUkCGeYMj6bv2Z9PkzL5OA.png",
+      "name": "Park Pictures Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 54030,
+      "logo_path": "/xByssKLJXiLHX5QJl7icVqCeG8r.png",
+      "name": "Academy Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2023-07-07",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Earth Mama",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 29
+}

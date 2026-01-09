@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/8Bd7vVrxSyeKO8JraeVe2YNLLeg.jpg",
+  "belongs_to_collection": null,
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 12473,
+  "imdb_id": "tt0857191",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Visitor",
+  "overview": "A college professor travels to New York City to attend a conference and finds a young couple living in his apartment.",
+  "popularity": 5.523,
+  "poster_path": "/9XRRSD7swlYrGBhZ8vOR2yngIKZ.jpg",
+  "production_companies": [
+    {
+      "id": 12807,
+      "logo_path": "/i1TyJLN5V53V6IKbugEzwM3tMvw.png",
+      "name": "Overture Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 6735,
+      "logo_path": "/pAQW38WU8ychBvYU2aGPTEbynEN.png",
+      "name": "Participant",
+      "origin_country": "US"
+    },
+    {
+      "id": 4205,
+      "logo_path": "/mYLsgmMHRBzpt8x15QwNr3Vyqn4.png",
+      "name": "Groundswell Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 102975,
+      "logo_path": null,
+      "name": "Next Wednesday Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-02-21",
+  "revenue": 18197518,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Connection is everything.",
+  "title": "The Visitor",
+  "video": false,
+  "vote_average": 7.133,
+  "vote_count": 486
+}

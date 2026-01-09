@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/49DncNEOU0JkVCskTPJ1dpFu632.jpg",
+  "belongs_to_collection": null,
+  "budget": 20,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 62796,
+  "imdb_id": "tt1831829",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "William & Kate",
+  "overview": "Inspired by the royal wedding and retelling the highs and lows of the nine-year courtship of Kate Middleton and Prince William. The couple struggles to keep their relationship together in the face of intense media scrutiny and family pressures, but the story ultimately ends in a fairytale wedding.",
+  "popularity": 3.6482,
+  "poster_path": "/usUshqdbO9YA1VZu73BrGW8eRzf.jpg",
+  "production_companies": [
+    {
+      "id": 7242,
+      "logo_path": null,
+      "name": "SevenOne International",
+      "origin_country": ""
+    },
+    {
+      "id": 114962,
+      "logo_path": null,
+      "name": "Silverscreen Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 11505,
+      "logo_path": null,
+      "name": "The Königsberg Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 3431,
+      "logo_path": "/6LVLYfZAEQfhJey0MGvhFXdDEK1.png",
+      "name": "Lifetime",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2011-04-18",
+  "revenue": 15,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Prince, an ordinary girl. And a very British love story",
+  "title": "William & Kate",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 120
+}

@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/oBV1aajDou6hvPD55vQHrBSlDgb.jpg",
+  "belongs_to_collection": null,
+  "budget": 14450000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://wellgousa.com/films/hi-five",
+  "id": 793058,
+  "imdb_id": "tt14044924",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "하이파이브",
+  "overview": "In the dead of night, a body donated for organ transplants mysteriously disintegrates into ashes. Soon after, five recipients, given a heart, corneas, lungs, liver, and kidneys, begin to develop supernatural powers. A teenage girl gains immense strength, a hipster manipulates electromagnetic waves, a novelist summons powerful gusts, a factory manager can heal others, and a woman discovers a strange, still-unidentified ability. Together, they form a reluctant but heroic team known as \"HI-FIVE.\" But they aren't the only ones transformed. A cult leader who received the donor’s pancreas gains the terrifying power to drain life energy and sets his sights on stealing the abilities of HI-FIVE to achieve godlike domination.",
+  "popularity": 3.0305,
+  "poster_path": "/5hi6bQWfbXfJ1W0iCrM78RWbrwi.jpg",
+  "production_companies": [
+    {
+      "id": 110456,
+      "logo_path": "/9MJdyR5KLHWdynUCue5wOCZkLlS.png",
+      "name": "Annapurna Films",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2025-05-30",
+  "revenue": 10551515,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Superpowers transplanted.",
+  "title": "Hi-Five",
+  "video": false,
+  "vote_average": 6.844,
+  "vote_count": 32
+}

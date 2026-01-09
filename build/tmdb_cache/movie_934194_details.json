@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/vruRG9oFSC2QI3F6vLAsj1ND14S.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 934194,
+  "imdb_id": "tt9050310",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Slash/Back",
+  "overview": "In a remote Arctic community, a group of Inuit girls fight off an alien invasion, all while trying to make it to the coolest party in town.",
+  "popularity": 3.2179,
+  "poster_path": "/fmmRFQtsRrNOpmcfoxVIyE1LxxT.jpg",
+  "production_companies": [
+    {
+      "id": 177662,
+      "logo_path": "/iCGCiNVrqkdv6vzkpiRC24HWh2i.png",
+      "name": "Good Question Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 177663,
+      "logo_path": null,
+      "name": "Mixtape VR",
+      "origin_country": ""
+    },
+    {
+      "id": 177664,
+      "logo_path": "/1BDguism7M4ao9N8lP1rTlxrgmL.png",
+      "name": "Red Marrow Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 61011,
+      "logo_path": "/kDPeollsOtUtGqqEF4P29NwEjf5.png",
+      "name": "Scythia Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 105394,
+      "logo_path": null,
+      "name": "Stellar Citizens",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2022-06-24",
+  "revenue": 15511,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "These aliens messed with the wrong girls.",
+  "title": "Slash/Back",
+  "video": false,
+  "vote_average": 6.314,
+  "vote_count": 86
+}

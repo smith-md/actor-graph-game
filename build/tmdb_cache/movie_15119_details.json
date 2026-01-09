@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/umvWI03KADbMJ9NxK8lCPmQKcwG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 15119,
+  "imdb_id": "tt0081506",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "en",
+  "original_title": "Shogun Assassin",
+  "overview": "A Shogun who grew paranoid as he became senile sent his ninjas to kill his samurai. They failed but did kill the samurai’s wife. The samurai swore to avenge the death of his wife and roams the countryside with his toddler son in search of vengeance.",
+  "popularity": 3.4965,
+  "poster_path": "/t376p5q8zvhyQ2FOroytJsRvlL8.jpg",
+  "production_companies": [
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3037,
+      "logo_path": null,
+      "name": "Baby Cart",
+      "origin_country": ""
+    },
+    {
+      "id": 3038,
+      "logo_path": null,
+      "name": "Katsu Production",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1980-11-11",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He whips out his sword and relieves his victims of their heads!!",
+  "title": "Shogun Assassin",
+  "video": false,
+  "vote_average": 6.854,
+  "vote_count": 178
+}

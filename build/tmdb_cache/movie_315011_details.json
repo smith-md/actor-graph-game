@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/tb0uo01w2kDHiQwTszsLlSusAm4.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://gkids.com/films/shin-godzilla",
+  "id": 315011,
+  "imdb_id": "tt4262980",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "シン・ゴジラ",
+  "overview": "When a massive, gilled monster emerges from the deep and tears through the city, the government scrambles to save its citizens.  A rag-tag team of volunteers cuts through a web of red tape to uncover the monster's weakness and its mysterious ties to a foreign superpower.  But time is not on their side - the greatest catastrophe to ever befall the world is about to evolve right before their very eyes.",
+  "popularity": 4.8726,
+  "poster_path": "/jPNShaWZMpVF0iQ7j1dvTuZLD20.jpg",
+  "production_companies": [
+    {
+      "id": 49301,
+      "logo_path": "/vmLo0piReB0EI1boTiBZ8eDJ7vD.png",
+      "name": "Toho Pictures",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5896,
+      "logo_path": null,
+      "name": "Cine Bazar",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2016-07-29",
+  "revenue": 78053145,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A god incarnate. A city doomed.",
+  "title": "Shin Godzilla",
+  "video": false,
+  "vote_average": 7.221,
+  "vote_count": 1492
+}

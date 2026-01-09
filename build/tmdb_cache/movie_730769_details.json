@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/vGrdFTKvrI5tBpfE2n24NITA6aq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 730769,
+  "imdb_id": "tt12887770",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Barbaque",
+  "overview": "Sophie and Vincent’s small butcher shop is on the brink of bankruptcy and their marriage is falling apart. Their lives are turned upside down when Vincent accidentally kills a vegan activist who vandalized their shop. Overwhelmed and terrified of being accused of murder, their only solution is to get rid of the body by turning it into ham. To their surprise the ham is so popular that it may save their business… that is if they’re ready to keep “hunting\"!",
+  "popularity": 3.8123,
+  "poster_path": "/p8phJ1JPAe0xSNBRwLyXE6KgKzX.jpg",
+  "production_companies": [
+    {
+      "id": 75816,
+      "logo_path": "/nVDVcbfYplh43TvxGyj1rGUWiif.png",
+      "name": "Cinéfrance Studios",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2021-09-10",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Your life is at steak.",
+  "title": "Some Like It Rare",
+  "video": false,
+  "vote_average": 6.42,
+  "vote_count": 492
+}

@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/oTmE2OqoNxpZwZOFBtQWxyZwKr0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 843942,
+  "imdb_id": "tt14813150",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Manodrome",
+  "overview": "Ralphie is an Uber driver and aspiring bodybuilder who is inducted into a libertarian masculinity cult and loses his grip on reality when his repressed desires are awakened.",
+  "popularity": 2.8616,
+  "poster_path": "/nSAqIzuCqCQAt3HFsHwiffFSj96.jpg",
+  "production_companies": [
+    {
+      "id": 104327,
+      "logo_path": "/aYDyrMWGUfJ4cUq8pZnXd1DbEKI.png",
+      "name": "Felix Culpa",
+      "origin_country": "US"
+    },
+    {
+      "id": 57430,
+      "logo_path": "/4vWiIwU0RLJJMGiqqNUnQyBsVI5.png",
+      "name": "Pulse Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 182522,
+      "logo_path": "/gdkKf5fTV6s2v0dL6BWu4R9IgeG.png",
+      "name": "Liminal Content",
+      "origin_country": "GB"
+    },
+    {
+      "id": 174603,
+      "logo_path": "/15EowqTnkxHTVwL5LqyHJovJu6v.png",
+      "name": "Riverside Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-10",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Manodrome",
+  "video": false,
+  "vote_average": 4.888,
+  "vote_count": 76
+}

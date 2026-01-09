@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/vAoduv4X02Bqv6Zahvr7Dw7tiBQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 60477,
+  "imdb_id": "tt0097594",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Is-slottet",
+  "overview": "One evening, in a remote Norwegian mountain-town, two 12 year old girls meet. For the first time in their lives they are thrown into a strong emotional confrontation. The next day, Unn is unable to meet Siss again. Instead, she ventures alone into the cold, lonely winter landscape.",
+  "popularity": 3.3013,
+  "poster_path": "/y7cBlV3SePU4KzyokOAFbhFoiRL.jpg",
+  "production_companies": [
+    {
+      "id": 12984,
+      "logo_path": null,
+      "name": "Norsk Film",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "1987-12-26",
+  "revenue": 0,
+  "runtime": 78,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ice Palace",
+  "video": false,
+  "vote_average": 5.345,
+  "vote_count": 29
+}

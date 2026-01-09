@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/c2FC0HuVkRIHqw5vHKuPVqsNcVj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 67849,
+  "imdb_id": "tt0120619",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Break Up",
+  "overview": "Housewife Jimmy Dade stays with her violent husband, Frankie, even after his abuse leads to the loss of her hearing. When his car is found with an unidentifiable dead body inside, police officers John Box and Andrew Ramsey suspect Jimmy has killed him. But, after discovering her bank account has been emptied, Jimmy fears that Frankie is still alive, and she goes on the run -- with the police in pursuit.",
+  "popularity": 3.6175,
+  "poster_path": "/10VG3K8B0pJvtmpjQQIPgNVOAYK.jpg",
+  "production_companies": [
+    {
+      "id": 3958,
+      "logo_path": "/xkdYNmOW6e4gjgp4NSLRt0W5UIj.png",
+      "name": "Front Street Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 7405,
+      "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+      "name": "Dimension Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-08-20",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Silent Betrayal. Deadly Passion. Sweet Revenge.",
+  "title": "Break Up",
+  "video": false,
+  "vote_average": 4.924,
+  "vote_count": 33
+}

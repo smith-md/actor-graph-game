@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/r0QqmAFLC1uMYQyTv2zTr64LqeU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 51426,
+  "imdb_id": "tt0047860",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Battle Cry",
+  "overview": "The dramatic story of US Marines in training, in combat, and in love, during World War II. The story centers on a major who guides the raw recruits from their training to combat.",
+  "popularity": 4.3928,
+  "poster_path": "/ae9Wrw5vQ4WM2NqxNPlYRbfV2n.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1955-02-02",
+  "revenue": 0,
+  "runtime": 149,
+  "spoken_languages": [
+    {
+      "english_name": "Navajo",
+      "iso_639_1": "nv",
+      "name": ""
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The men who fought. The women who waited. And the stolen moments they shared.",
+  "title": "Battle Cry",
+  "video": false,
+  "vote_average": 5.563,
+  "vote_count": 24
+}

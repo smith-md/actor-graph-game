@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/cAUfKOD49fzODK4EXalEA1ANg0P.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "http://myanimalfilm.com",
+  "id": 1058689,
+  "imdb_id": "tt23572542",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "My Animal",
+  "overview": "Tormented by a hidden family curse, Heather lives in seclusion on the outskirts of a small town. When she falls for the rebellious Jonny, their connection threatens to unravel Heather's suppressed desires, tempting her to unleash the animal within.",
+  "popularity": 4.0166,
+  "poster_path": "/qp0fLOf30L2pUA5gxEp0ZoUHPg2.jpg",
+  "production_companies": [
+    {
+      "id": 134008,
+      "logo_path": "/bU2Fjnvk67y4IS6yZ2Ns1apcGYJ.png",
+      "name": "Band with Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 194505,
+      "logo_path": "/gz1OZbW1oZSEuGm1UBkVlDpLze9.png",
+      "name": "Good Movies",
+      "origin_country": "CA"
+    },
+    {
+      "id": 12142,
+      "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+      "name": "XYZ Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 159357,
+      "logo_path": null,
+      "name": "Photon Films",
+      "origin_country": ""
+    },
+    {
+      "id": 50084,
+      "logo_path": "/7UKMTZt7xLOMYvj3AIM6diZo4Rq.png",
+      "name": "JoBro Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 106381,
+      "logo_path": null,
+      "name": "GreenGround Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 90422,
+      "logo_path": null,
+      "name": "Vigilante Productions",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2023-09-08",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Become what you are.",
+  "title": "My Animal",
+  "video": false,
+  "vote_average": 4.339,
+  "vote_count": 28
+}

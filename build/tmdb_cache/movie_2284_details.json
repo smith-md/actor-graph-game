@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/uUG9jtLft9FDkIyfcR9KclY5Kuu.jpg",
+  "belongs_to_collection": null,
+  "budget": 65000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.magorium.com/",
+  "id": 2284,
+  "imdb_id": "tt0457419",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mr. Magorium's Wonder Emporium",
+  "overview": "Molly Mahoney is the awkward and insecure manager of Mr. Magorium's Wonder Emporium—the strangest, most fantastic and most wonderful toy store in the world. After Mr. Magorium bequeaths the store to her, a dark and ominous change begins to take over the once-remarkable Emporium.",
+  "popularity": 3.8969,
+  "poster_path": "/rdFgWATSVhhFtNYZUFsGcHzltcG.jpg",
+  "production_companies": [
+    {
+      "id": 11576,
+      "logo_path": "/nPWH2auzLf3DLXRlhqqAZnsWLyv.png",
+      "name": "Ontario Media Development Corporation",
+      "origin_country": "CA"
+    },
+    {
+      "id": 771,
+      "logo_path": "/fQpEeXgCVsXQkVVFMMjrrkOFja3.png",
+      "name": "Mandate Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10221,
+      "logo_path": "/99VfWRgKasZoyK9UVB39gnYvFrZ.png",
+      "name": "Walden Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 1811,
+      "logo_path": "/3yDJuCucOl41d9z3712l5gER0Md.png",
+      "name": "FilmColony",
+      "origin_country": "US"
+    },
+    {
+      "id": 66078,
+      "logo_path": null,
+      "name": "Gang of Two Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-11-16",
+  "revenue": 69500000,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You have to believe it to see it.",
+  "title": "Mr. Magorium's Wonder Emporium",
+  "video": false,
+  "vote_average": 6.247,
+  "vote_count": 1289
+}

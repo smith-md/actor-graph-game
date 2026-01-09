@@ -1,0 +1,55 @@
+{
+  "adult": false,
+  "backdrop_path": "/nUeXEEUgZx9VBEWydxjAdmfUG36.jpg",
+  "belongs_to_collection": {
+    "id": 476063,
+    "name": "Guinea Pig Collection",
+    "poster_path": "/rNypp21VEXQR9UDaUgLwxPVySRH.jpg",
+    "backdrop_path": "/avcPNMbXi3seIae82uXvsH63FIq.jpg"
+  },
+  "budget": 25000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 36231,
+  "imdb_id": "tt0161639",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ギニーピッグ4 ピーターの悪魔の女医さん",
+  "overview": "A doctor conducts experiments on patients which end up in anguish!",
+  "popularity": 5.2012,
+  "poster_path": "/vmoBVHB2vn9FG6glO3cvFehupn3.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1986-09-10",
+  "revenue": 0,
+  "runtime": 48,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Guinea Pig Part 4: Devil Doctor Woman",
+  "video": false,
+  "vote_average": 4.3,
+  "vote_count": 51
+}

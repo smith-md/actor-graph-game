@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/t0WFxaoKHptUN6MUagdR5xZqf0X.jpg",
+  "belongs_to_collection": null,
+  "budget": 8980000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 818721,
+  "imdb_id": "tt21950462",
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Visions",
+  "overview": "An experienced airline pilot, Estelle leads a perfect life between long-haul flights with her loving, protective husband Guillaume. One day, by chance, in an airport corridor, she crosses paths with Ana, a photographer with whom she had a passionate affair twenty years earlier. Little does Estelle know that this reunion will send her into a nightmarish spiral, turning her life upside down and irrational.",
+  "popularity": 4.5316,
+  "poster_path": "/hKflNpAkZsA5IydLqF4ExbalcYt.jpg",
+  "production_companies": [
+    {
+      "id": 49068,
+      "logo_path": null,
+      "name": "24 25 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2902,
+      "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
+      "name": "SND",
+      "origin_country": "FR"
+    },
+    {
+      "id": 15433,
+      "logo_path": "/9nnaDAbuHwbikxAV1t1BC2Z60GC.png",
+      "name": "Orange Studio",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2023-09-06",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Visions",
+  "video": false,
+  "vote_average": 5.799,
+  "vote_count": 162
+}

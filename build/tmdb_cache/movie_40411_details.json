@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/1DuRq7RRKv3j0wOqVDOE7f1ezEL.jpg",
+  "belongs_to_collection": null,
+  "budget": 1500000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 40411,
+  "imdb_id": "tt0089284",
+  "origin_country": [
+    "CA",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Hold-up",
+  "overview": "Dressed as a clown, the clever rascal Grimm holds up the most secure bank of Montreal and takes 30 hostages. While confusing and ridiculing the police with his strange behavior, he calmly manages to rid the bank of a fortune. But then an unsatisfied companion arouses trouble...",
+  "popularity": 4.2999,
+  "poster_path": "/v7ASqmGprPPSI30JmjGNnO8EVlT.jpg",
+  "production_companies": [
+    {
+      "id": 10784,
+      "logo_path": null,
+      "name": "Cerito Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7110,
+      "logo_path": null,
+      "name": "Les Films Ariane",
+      "origin_country": "FR"
+    },
+    {
+      "id": 14235,
+      "logo_path": null,
+      "name": "Cinévidéo",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1985-10-23",
+  "revenue": 0,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hold-up",
+  "video": false,
+  "vote_average": 6.128,
+  "vote_count": 160
+}

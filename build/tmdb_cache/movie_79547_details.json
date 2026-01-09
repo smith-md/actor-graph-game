@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/nCigtQikufM06iKjCTj7oxzbhgg.jpg",
+  "belongs_to_collection": {
+    "id": 1205405,
+    "name": "Flipper Collection",
+    "poster_path": "/c0jOCdeNB0v5H3JDKmDzbvBKRAN.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 79547,
+  "imdb_id": "tt0058105",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Flipper's New Adventure",
+  "overview": "While widowed Porter Ricks is away at school learning to be a park ranger, his teen-aged son, Sandy, under adult supervision from a neighbor, remains at the family home in the Florida Keys with his pet dolphin, Flipper. While Po (as Porter is called by most) is away, Sandy learns that the family home, built on state land, is being torn down to make way for a highway. In turn, Sandy would be sent to live with relatives, while Flipper would be sent to the seaquarium permanently. Not wanting to be separated from Flipper, Sandy, using his skiff, runs away with Flipper. A distraught Po returns home to look for his son. Meanwhile, the Hopewell family from Britain are vacationing in the area. Their sailboat is hijacked by three escaped convicts, who take the father, Halsey, hostage, and set the three Hopewell women - mother Julia, and teen-aged daughters Gwen and Penny - adrift, they who eventually land on the island where Sandy is hiding... Written by Huggo",
+  "popularity": 0.4473,
+  "poster_path": "/1Y5uKkHSsEWx2NA1IGKizfMCYqJ.jpg",
+  "production_companies": [
+    {
+      "id": 5328,
+      "logo_path": null,
+      "name": "Ivan Tors Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1964-06-24",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Here comes Flipper the fearless... he's back with some brand new friends, new fun, new thrills, as he tackles a band of desperate pirates!",
+  "title": "Flipper's New Adventure",
+  "video": false,
+  "vote_average": 6.833,
+  "vote_count": 30
+}

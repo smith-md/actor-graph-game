@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/rARL8L9J1m114szR9nhn50tD4Yx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 41801,
+  "imdb_id": "tt0116293",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Female Perversions",
+  "overview": "Eve Stephens, a beautiful and sexy high-powered attorney, is up for appointment as a judge. But below her veneer of self-confidence lies a darker side, one in which she is driven by bizarre visions and sexual fantasies. After a series of events, including rescuing her sister Madelyn after her arrest for shoplifting, being rejected by her lover John during a surprise visit, and finally, meeting with the Governor regarding her judicial appointment, Eve comes unraveled. In a stunning and climactic conclusion, Eve is forced to confront her fears and, more importantly, herself.",
+  "popularity": 4.7312,
+  "poster_path": "/5vqRaOZBqBL1YXukRv6zI6Y4pxC.jpg",
+  "production_companies": [
+    {
+      "id": 15343,
+      "logo_path": null,
+      "name": "Trans Atlantic Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 2051,
+      "logo_path": "/3RKFvKecXHIi3ngHhK7a6pIBX9R.png",
+      "name": "Kinowelt",
+      "origin_country": "DE"
+    },
+    {
+      "id": 986,
+      "logo_path": "/qDV8nLH9pjElZSnPmg29mzzNlTo.png",
+      "name": "ARD Degeto",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1997-04-25",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Dare to let yourself go where you've never been before.",
+  "title": "Female Perversions",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 59
+}

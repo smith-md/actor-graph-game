@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/4nExMuYsypZasoX8ri3t0lYLfAF.jpg",
+  "belongs_to_collection": null,
+  "budget": 11000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.focusfeatures.com/anemone",
+  "id": 1364608,
+  "imdb_id": "tt33549447",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Anemone",
+  "overview": "Middle-aged Jem sets out from his suburban home on a journey into the woods, where he reconnects with his estranged hermit brother Ray. Bonded by a mysterious, complicated past, the men share a fraught, if occasionally tender relationship—one that was forever altered by shattering events decades earlier.",
+  "popularity": 9.2361,
+  "poster_path": "/kXFHVJqZkWtkSRlLpv2clN8KP6E.jpg",
+  "production_companies": [
+    {
+      "id": 10146,
+      "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+      "name": "Focus Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 81,
+      "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+      "name": "Plan B Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 273147,
+      "logo_path": null,
+      "name": "Absinthe Film Entertainment",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-02",
+  "revenue": 1161830,
+  "runtime": 125,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All is not forgiven.",
+  "title": "Anemone",
+  "video": false,
+  "vote_average": 5.981,
+  "vote_count": 77
+}

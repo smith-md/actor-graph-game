@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/3VWKIfL8gEHxpsxf3zprxd57h0v.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1214469,
+  "imdb_id": "tt30321095",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ghostlight",
+  "overview": "When a construction worker unexpectedly joins a local theater's production of Romeo and Juliet alongside his estranged teenage daughter, the drama onstage starts to mirror his own life.",
+  "popularity": 5.131,
+  "poster_path": "/aqSuuJdNYmx1Gsd0J8lqfzMADfE.jpg",
+  "production_companies": [
+    {
+      "id": 226771,
+      "logo_path": null,
+      "name": "Little Engine",
+      "origin_country": "US"
+    },
+    {
+      "id": 94902,
+      "logo_path": null,
+      "name": "Runaway Train",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-06-14",
+  "revenue": 672640,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ghostlight",
+  "video": false,
+  "vote_average": 7.142,
+  "vote_count": 81
+}

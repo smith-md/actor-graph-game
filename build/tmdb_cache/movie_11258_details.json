@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/tdo5GwYAsdRkYTTMpXM9aZu8DlH.jpg",
+  "belongs_to_collection": null,
+  "budget": 70000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 11258,
+  "imdb_id": "tt0120696",
+  "origin_country": [
+    "DK",
+    "NZ",
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hard Rain",
+  "overview": "An armored car driver tries to elude a gang of thieves while a flood ravages the countryside.",
+  "popularity": 6.0243,
+  "poster_path": "/ggMcOVSax4lBXjYqqQUJLCtrar3.jpg",
+  "production_companies": [
+    {
+      "id": 23932,
+      "logo_path": "/UxTZJitr5Wq4nwhrgn37QHquqV.png",
+      "name": "UGC PH",
+      "origin_country": "FR"
+    },
+    {
+      "id": 4650,
+      "logo_path": "/wWivtVg7gG3uNALIE5Oav3Bsiuz.png",
+      "name": "Marubeni",
+      "origin_country": "JP"
+    },
+    {
+      "id": 762,
+      "logo_path": "/3T7EpKcS13viHu3WzRtQGvi9sTY.png",
+      "name": "Mutual Film Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 55474,
+      "logo_path": null,
+      "name": "Stargate Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 657,
+      "logo_path": "/mDBPrBO6hl21KhQOzCVYUBo33zt.png",
+      "name": "TOHO-TOWA",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3324,
+      "logo_path": "/dqT3yOTlfJRmtvk52Ccd1O6dZ0A.png",
+      "name": "BBC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1469,
+      "logo_path": "/AwbErjR0AMpVnN9PbdHiBB3g3q0.png",
+      "name": "Tele München",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-01-16",
+  "revenue": 19900000,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A simple plan. An instant fortune. Just add water.",
+  "title": "Hard Rain",
+  "video": false,
+  "vote_average": 5.86,
+  "vote_count": 756
+}

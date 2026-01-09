@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/bNR7wqkmW1Hzjv3XreTk9eW39nh.jpg",
+  "belongs_to_collection": {
+    "id": 721992,
+    "name": "Project Shadowchaser Collection",
+    "poster_path": "/pAyN2f6s2r63LP4sTlCQ5GW7bd0.jpg",
+    "backdrop_path": "/xQVtrom44zXMXqsP30LcC1Epuvj.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 92371,
+  "imdb_id": "tt0105178",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Project: Shadowchaser",
+  "overview": "Set in the future, a group of terrorists with an android leader storm a hospital when the President's daughter is inside, taking her hostage. To find a way of freeing her, the police decide to consult the architect who designed the building, but he's currently in jail for some crime, and the punishment of the future is to be frozen solid for one's sentence. The cops accidentally thaw out the wrong guy, a football player who decides to keep the mistake a secret and help the police in exchange for his freedom. Will he be able to defeat the terrorists and rescue the hostages, despite not knowing the first thing about architecture?",
+  "popularity": 2.4658,
+  "poster_path": "/e2vjNiWk4Zh7JyZWr1u5F72G9vv.jpg",
+  "production_companies": [
+    {
+      "id": 40006,
+      "logo_path": null,
+      "name": "North American Releasing",
+      "origin_country": "CA"
+    },
+    {
+      "id": 4992,
+      "logo_path": null,
+      "name": "EGM Film International",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-07-02",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Somebody made him! Somebody programmed him to kill! Now it's up to somebody to pull the plug!",
+  "title": "Project: Shadowchaser",
+  "video": false,
+  "vote_average": 4.232,
+  "vote_count": 28
+}

@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/nkMgY1XFLWr91najzfvwie8LyYF.jpg",
+  "belongs_to_collection": null,
+  "budget": 48000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1900,
+  "imdb_id": "tt0181865",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Traffic",
+  "overview": "An exploration of the United States of America's war on drugs from multiple perspectives. For the new head of the Office of National Drug Control Policy, the war becomes personal when he discovers his well-educated daughter is abusing cocaine within their comfortable suburban home. In Mexico, a flawed, but noble policeman agrees to testify against a powerful general in league with a cartel, and in San Diego, a drug kingpin's sheltered trophy wife must learn her husband's ruthless business after he is arrested, endangering her luxurious lifestyle.",
+  "popularity": 4.3704,
+  "poster_path": "/jbccmnqE4oAPI67bApgt2JiRPz8.jpg",
+  "production_companies": [
+    {
+      "id": 987,
+      "logo_path": "/zwL7Va6Pbwfi02zoFWL4H6GS5qG.png",
+      "name": "USA Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 7380,
+      "logo_path": null,
+      "name": "Initial Entertainment Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 348,
+      "logo_path": "/mztvNjgx77cXUL6vWR3r7fyeZCa.png",
+      "name": "Bedford Falls Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 5163,
+      "logo_path": null,
+      "name": "Laura Bickford Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 58333,
+      "logo_path": null,
+      "name": "Compulsion Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-12-27",
+  "revenue": 207500000,
+  "runtime": 147,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No one gets away clean",
+  "title": "Traffic",
+  "video": false,
+  "vote_average": 7.082,
+  "vote_count": 2311
+}

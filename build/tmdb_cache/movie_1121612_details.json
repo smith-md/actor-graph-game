@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/eqNuKqNjKAcOT6hlufhkkpxQ35F.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1121612,
+  "imdb_id": "tt28076784",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "孤注一掷",
+  "overview": "A depressed programmer and a model decide to seek gold as a seemingly good job opportunity, but they inadvertently become involved in a well-planned Internet scam.",
+  "popularity": 7.615,
+  "poster_path": "/3GPgQAzJRmbsrd3UvnkBJikefzp.jpg",
+  "production_companies": [
+    {
+      "id": 197030,
+      "logo_path": "/z9xtT1e3HunOnZUm3uGYb59eL7v.png",
+      "name": "Tao Piao Piao",
+      "origin_country": "CN"
+    },
+    {
+      "id": 204268,
+      "logo_path": null,
+      "name": "Beijing Shangshi Culture Communication Co., Ltd.",
+      "origin_country": "CN"
+    },
+    {
+      "id": 204269,
+      "logo_path": null,
+      "name": "Yuuya Midia",
+      "origin_country": "CN"
+    },
+    {
+      "id": 14714,
+      "logo_path": "/dSHaVKtBCpMU5VP9wMbTkqov62i.png",
+      "name": "China Film Group Corporation",
+      "origin_country": "CN"
+    },
+    {
+      "id": 228118,
+      "logo_path": null,
+      "name": "沃栢嘉文化传播（上海）有限公司",
+      "origin_country": ""
+    },
+    {
+      "id": 170923,
+      "logo_path": null,
+      "name": "Dirty Monkeys Studios",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2023-08-05",
+  "revenue": 54578820,
+  "runtime": 130,
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "No More Bets",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 70
+}

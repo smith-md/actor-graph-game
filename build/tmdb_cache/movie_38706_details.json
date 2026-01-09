@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/dXDmQKuvIL0hh8XRYxxnR2HYZye.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 38706,
+  "imdb_id": "tt0100581",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La setta",
+  "overview": "A spree of grisly murders is perpetrated in Frankfurt by a group of Satan worshippers. A lonely schoolteacher almost runs over an elderly man and takes him in, unbeknown to her the man has plans for her – plans that involve a permanent future with the Satanic cult.",
+  "popularity": 3.435,
+  "poster_path": "/3T3mlpejXWOeJaQBFwL0xD8Ok2Q.jpg",
+  "production_companies": [
+    {
+      "id": 36546,
+      "logo_path": null,
+      "name": "ADC Films",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1991-03-01",
+  "revenue": 0,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Darkness has found a new bride. Heaven help us.",
+  "title": "The Sect",
+  "video": false,
+  "vote_average": 6.176,
+  "vote_count": 126
+}

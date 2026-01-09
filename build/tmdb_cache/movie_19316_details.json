@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/piT1WWJlC0ebUVpAWI1SBwg2Vdq.jpg",
+  "belongs_to_collection": null,
+  "budget": 2500000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.sonyclassics.com/savingface/",
+  "id": 19316,
+  "imdb_id": "tt0384504",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Saving Face",
+  "overview": "A Chinese-American lesbian and her traditionalist mother are reluctant to go public with secret loves that clash against cultural expectations.",
+  "popularity": 4.8006,
+  "poster_path": "/7XbbgkKi4nEMOu9iwiANXpjKKhe.jpg",
+  "production_companies": [
+    {
+      "id": 907,
+      "logo_path": "/ca5SWI5uvU985f8Kbb4xc8AmVWH.png",
+      "name": "Overbrook Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 2813,
+      "logo_path": null,
+      "name": "Forensic Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 2150,
+      "logo_path": null,
+      "name": "GreeneStreet Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-09-12",
+  "revenue": 1230000,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A romantic comedy about right, wrong and everything in between.",
+  "title": "Saving Face",
+  "video": false,
+  "vote_average": 7.279,
+  "vote_count": 251
+}

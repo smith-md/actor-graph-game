@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/auXrHU6O17n9Tz11SHReoorjrU6.jpg",
+  "belongs_to_collection": {
+    "id": 1235977,
+    "name": "Leo Collection",
+    "poster_path": "/m3A3nvOddwkenc6Laxs4WS1UTo1.jpg",
+    "backdrop_path": "/hAApf7lgk4QCK5aMN2Swq7U7hRf.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81218917",
+  "id": 1075794,
+  "imdb_id": "tt5755238",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Leo",
+  "overview": "Jaded 74-year-old lizard Leo has been stuck in the same Florida classroom for decades with his terrarium-mate turtle. When he learns he only has one year left to live, he plans to escape to experience life on the outside but instead gets caught up in the problems of his anxious students — including an impossibly mean substitute teacher.",
+  "popularity": 5.9805,
+  "poster_path": "/gSOVog7ydsaF1YpgAqBqnKYFGY.jpg",
+  "production_companies": [
+    {
+      "id": 878,
+      "logo_path": "/s5j0xnTXvglZoz49CUaQclVv3s9.png",
+      "name": "Happy Madison Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 8089,
+      "logo_path": "/kEUAzsG2hZcCV7rmSCozgLhGWaa.png",
+      "name": "Animal Logic",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-17",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Breaking out this November.",
+  "title": "Leo",
+  "video": false,
+  "vote_average": 7.379,
+  "vote_count": 1298
+}

@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/bxSBOAD8AuMHYMdW3jso9npAkgt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 667257,
+  "imdb_id": "tt10032342",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Cosas imposibles",
+  "overview": "After the death of her abusive husband, Matilde finds her new best friend in Miguel, her young, insecure, and disoriented neighbor.",
+  "popularity": 4.4404,
+  "poster_path": "/t2Ew8NZ8Ci2kqmoecZUNQUFDJnQ.jpg",
+  "production_companies": [
+    {
+      "id": 96929,
+      "logo_path": null,
+      "name": "Agencia SHA",
+      "origin_country": ""
+    },
+    {
+      "id": 12487,
+      "logo_path": "/wUKVwhE1CWpgwNcL5x88zcWjJMI.png",
+      "name": "Alebrije Producciones",
+      "origin_country": "MX"
+    },
+    {
+      "id": 7570,
+      "logo_path": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+      "name": "Videocine",
+      "origin_country": "MX"
+    },
+    {
+      "id": 5153,
+      "logo_path": "/d4BySWBlcGBBY58FG78DWMi9nrs.png",
+      "name": "Estudios Churubusco Azteca",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2021-06-17",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There are encounters that change your life",
+  "title": "Impossible Things",
+  "video": false,
+  "vote_average": 8.425,
+  "vote_count": 418
+}

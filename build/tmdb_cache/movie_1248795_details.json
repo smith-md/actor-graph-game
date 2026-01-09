@@ -1,0 +1,54 @@
+{
+  "adult": false,
+  "backdrop_path": "/9JNsAIFMu4o37AgnU1JVtR6AWsK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81689799",
+  "id": 1248795,
+  "imdb_id": "tt28355490",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Romantik Hırsız",
+  "overview": "After learning that the art thief she has been chasing is her ex-lover, an officer working for Interpol concocts a plan to catch him red-handed.",
+  "popularity": 4.1099,
+  "poster_path": "/niVtvS9Kf8G1VDPSqurqHkaSSwm.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2024-03-13",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Art of Love",
+  "video": false,
+  "vote_average": 6.459,
+  "vote_count": 148
+}

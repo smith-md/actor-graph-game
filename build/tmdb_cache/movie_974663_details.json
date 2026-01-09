@@ -1,0 +1,109 @@
+{
+  "adult": false,
+  "backdrop_path": "/8VGiUMkjdevsVYHZ8tIpHl6EbbF.jpg",
+  "belongs_to_collection": {
+    "id": 1311628,
+    "name": "100% Wolf Collection",
+    "poster_path": "/zW2SgHSRYy3dqHSp3Jsbd8HpI7F.jpg",
+    "backdrop_path": "/nEEW3hwDI82CmPeXy8Dn2WpvHzG.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.200percentwolf.com.au",
+  "id": 974663,
+  "imdb_id": "tt27722575",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "200% Wolf",
+  "overview": "When Freddy Lupin's wayward wish transforms him into a werewolf and deposits a mischievous moon sprite on Earth, Freddy must restore the cosmic order before the earth and moon collide.",
+  "popularity": 17.7963,
+  "poster_path": "/pHGB9jN31cDNKhR0VRNZsXZkGZQ.jpg",
+  "production_companies": [
+    {
+      "id": 51863,
+      "logo_path": "/qkh0kHmfKanKxoi4hlL8BeU7SRm.png",
+      "name": "Studio 100 Animation",
+      "origin_country": "FR"
+    },
+    {
+      "id": 20187,
+      "logo_path": "/bYdzRm9r74bIWlSRKIWZeZyDBFD.png",
+      "name": "Flying Bark Productions",
+      "origin_country": "AU"
+    },
+    {
+      "id": 227119,
+      "logo_path": null,
+      "name": "Atlantika Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 148211,
+      "logo_path": null,
+      "name": "Siamese",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2024-07-04",
+  "revenue": 4543,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When 100% isn't enough.",
+  "title": "200% Wolf",
+  "video": false,
+  "vote_average": 5.897,
+  "vote_count": 34
+}

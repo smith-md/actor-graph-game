@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/ejFaHWnDP29z7ePw2cJVOsWvOvH.jpg",
+  "belongs_to_collection": null,
+  "budget": 4400000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://workingtitlefilms.com/film.php?filmID=59",
+  "id": 712,
+  "imdb_id": "tt0109831",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Four Weddings and a Funeral",
+  "overview": "Over the course of five social occasions, a committed bachelor must consider the notion that he may have discovered love.",
+  "popularity": 5.2091,
+  "poster_path": "/qa72G2VS0bpxms6yo0tI9vsHm2e.jpg",
+  "production_companies": [
+    {
+      "id": 1382,
+      "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 10163,
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 181,
+      "logo_path": "/A8SjepJ332C0YMamdFEMco0nstt.png",
+      "name": "Channel Four Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-03-09",
+  "revenue": 245700832,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Five good reasons to stay single.",
+  "title": "Four Weddings and a Funeral",
+  "video": false,
+  "vote_average": 6.769,
+  "vote_count": 2892
+}

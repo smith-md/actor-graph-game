@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/w94ZL3AcTZpebSLyhKuYfdeeuV6.jpg",
+  "belongs_to_collection": {
+    "id": 1246994,
+    "name": "Baby Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 314389,
+  "imdb_id": "tt3848892",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Baby",
+  "overview": "A nascent elite team of the Indian intelligence system perpetually strives to detect and eliminate terrorists and their plots. Officer Ajay leads his team to destroy one such potentially lethal ploy in their biggest operation yet.",
+  "popularity": 3.8559,
+  "poster_path": "/5yezGgo37qmd6kDknZKFzbhT19b.jpg",
+  "production_companies": [
+    {
+      "id": 3522,
+      "logo_path": "/d3u51JgEP5KwPfxS13ocqvtzZeX.png",
+      "name": "T-Series",
+      "origin_country": "IN"
+    },
+    {
+      "id": 35063,
+      "logo_path": "/r7pvX3K2k3iNVBVt4xufCIEIcnP.png",
+      "name": "Cape Of Good Films",
+      "origin_country": "IN"
+    },
+    {
+      "id": 86750,
+      "logo_path": null,
+      "name": "Crouching Tiger Motion Pictures",
+      "origin_country": "IN"
+    },
+    {
+      "id": 80514,
+      "logo_path": null,
+      "name": "Friday Filmworks",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2015-01-23",
+  "revenue": 0,
+  "runtime": 160,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "History is made by those who give a damn",
+  "title": "Baby",
+  "video": false,
+  "vote_average": 6.793,
+  "vote_count": 184
+}

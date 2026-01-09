@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/bNZB25TQxt0jEVgJOJ09tD2es7k.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://www.netflix.com/title/81231197",
+  "id": 575774,
+  "imdb_id": "tt8508734",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "His House",
+  "overview": "After making a harrowing escape from war-torn South Sudan, a young refugee couple struggle to adjust to their new life in a small English town that has an unspeakable evil lurking beneath the surface.",
+  "popularity": 4.0337,
+  "poster_path": "/mM1ELeOF4qmdIFbZh9VSBn685g.jpg",
+  "production_companies": [
+    {
+      "id": 10104,
+      "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+      "name": "New Regency Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12906,
+      "logo_path": null,
+      "name": "Starchild Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 829,
+      "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+      "name": "Vertigo Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-01-27",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When ghosts follow, they never leave.",
+  "title": "His House",
+  "video": false,
+  "vote_average": 6.418,
+  "vote_count": 1190
+}

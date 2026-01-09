@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/usFLaJeqJgIBA65msnNgCXiVjUx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 17985,
+  "imdb_id": "tt0161292",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Bleeder",
+  "overview": "Two stories for the price of one: a video store clerk tries to get acquainted with a waitress; a man beats his pregnant wife, unaware that her brother is a violent racist.",
+  "popularity": 3.8502,
+  "poster_path": "/sWrGl4s8L1nOYQg49bHhZ2g19ji.jpg",
+  "production_companies": [
+    {
+      "id": 3421,
+      "logo_path": null,
+      "name": "Kamikaze",
+      "origin_country": ""
+    },
+    {
+      "id": 118,
+      "logo_path": "/AiBorgNTCS1lT1FdFPYheax9jfF.png",
+      "name": "Det Danske Filminstitut",
+      "origin_country": "DK"
+    },
+    {
+      "id": 171066,
+      "logo_path": "/tjNpvJOTCwvPL2faaj3r2RR3dTs.png",
+      "name": "Scanbox Production",
+      "origin_country": "DK"
+    },
+    {
+      "id": 758,
+      "logo_path": "/fft3jrctrZNcgAxgN1w5Givtzip.png",
+      "name": "TV 2",
+      "origin_country": "DK"
+    },
+    {
+      "id": 76,
+      "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+      "name": "Zentropa Entertainments",
+      "origin_country": "DK"
+    },
+    {
+      "id": 260837,
+      "logo_path": null,
+      "name": "Tempo Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "release_date": "1999-08-06",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bleeder",
+  "video": false,
+  "vote_average": 6.703,
+  "vote_count": 197
+}

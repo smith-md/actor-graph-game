@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/eNR9jpotNE7T0Ij1a1iz9zJERf1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 449664,
+  "imdb_id": "tt5159414",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Escape Room",
+  "overview": "Six friends test their intelligence when an escape room they participate in takes a dark and twisted turn.",
+  "popularity": 5.0166,
+  "poster_path": "/bq3wmW5ZJsnOHM6NLGsjDvX7CxB.jpg",
+  "production_companies": [
+    {
+      "id": 142068,
+      "logo_path": null,
+      "name": "Escape Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-06-19",
+  "revenue": 1870824,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Escape Room",
+  "video": false,
+  "vote_average": 4.543,
+  "vote_count": 756
+}

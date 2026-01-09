@@ -1,0 +1,49 @@
+{
+  "adult": false,
+  "backdrop_path": "/dTsOvK19Brm1u2p06K7qlTyKHIi.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1074034,
+  "imdb_id": "tt8270664",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ambush",
+  "overview": "When a small outpost is ambushed, a US Army squad must take the battle below ground on a high-stakes mission in a new type of warfare the likes of which they have never seen.",
+  "popularity": 4.6252,
+  "poster_path": "/3QjtDMS7PB4SMj0nAJQiE86Lo0w.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2023-02-24",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The enemy is everywhere.",
+  "title": "Ambush",
+  "video": false,
+  "vote_average": 6.278,
+  "vote_count": 117
+}

@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/keC82cQ8q0ZHthrbvzWq04kGnbv.jpg",
+  "belongs_to_collection": {
+    "id": 921781,
+    "name": "Pushpa Collection",
+    "poster_path": "/qvQ2GNhsThV7NYvYxtyBAUSC7u4.jpg",
+    "backdrop_path": "/ytv0N5a2UonbLubOf4jwRnXbRf.jpg"
+  },
+  "budget": 52900000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 857598,
+  "imdb_id": "tt16539454",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "పుష్పా 2 - The Rule",
+  "overview": "As his smuggling empire grows, a brazen Pushpa longs for power and respect on his vengeful journey, while facing old rivals and new.",
+  "popularity": 2.7077,
+  "poster_path": "/759mIIerY4Njb8uPoj7AIXGSNh3.jpg",
+  "production_companies": [
+    {
+      "id": 69125,
+      "logo_path": "/7kRvsVRhT76VTbhGLgJ2CrTgdpa.png",
+      "name": "Mythri Movie Makers",
+      "origin_country": "IN"
+    },
+    {
+      "id": 93335,
+      "logo_path": null,
+      "name": "Sukumar Writings",
+      "origin_country": "IN"
+    },
+    {
+      "id": 258979,
+      "logo_path": "/1gNS3qftBepFOm1HcqVrrUqvIq6.png",
+      "name": "CineSpare",
+      "origin_country": "BD"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2024-12-04",
+  "revenue": 219000000,
+  "runtime": 201,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The rule begins.",
+  "title": "Pushpa 2 - The Rule",
+  "video": false,
+  "vote_average": 6.323,
+  "vote_count": 116
+}

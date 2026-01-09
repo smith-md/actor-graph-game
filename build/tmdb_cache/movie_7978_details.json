@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/kTDunJrHYsH6o1wmD6iT4wXkuHo.jpg",
+  "belongs_to_collection": null,
+  "budget": 150000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://www.thewolfmanmovie.com/",
+  "id": 7978,
+  "imdb_id": "tt0780653",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Wolfman",
+  "overview": "Lawrence Talbot, an American man on a visit to Victorian London to make amends with his estranged father, gets bitten by a werewolf and, after a moonlight transformation, leaves him with a savage hunger for flesh.",
+  "popularity": 3.9099,
+  "poster_path": "/fQqPoAHvHicie1ttuiV2q0yv9V7.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 7295,
+      "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+      "name": "Relativity Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 4403,
+      "logo_path": null,
+      "name": "Stuber Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-02-10",
+  "revenue": 140700000,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When the moon is full, the legend comes to life.",
+  "title": "The Wolfman",
+  "video": false,
+  "vote_average": 5.875,
+  "vote_count": 2120
+}

@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/cGZdq3w17vXvsNjWl0oUMpipbGj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 118337,
+  "imdb_id": "tt0065243",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Zeta One",
+  "overview": "A race of sexy, other-dimensional specimens arrive to Earth to kidnap women to repopulate their planet.",
+  "popularity": 4.5976,
+  "poster_path": "/5G7u1B1XlZ1CMyKOp4hvXIOCk5K.jpg",
+  "production_companies": [
+    {
+      "id": 4579,
+      "logo_path": null,
+      "name": "Tigon British Film Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1969-12-01",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Zeta One",
+  "video": false,
+  "vote_average": 3.8,
+  "vote_count": 35
+}

@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/aJVkK1SqiSBSvr2JQqLRERulAJW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1154312,
+  "imdb_id": "tt28497662",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Le Panache",
+  "overview": "Colin, 14, enters a new school and he's freaking out: how do you get by when, like him, you're a stutterer? His meeting with Mr. Devarseau, a charismatic French teacher, will push him to face his fears and break out of his isolation. Now Colin has a group of friends and a project: to go on stage to play Cyrano in front of the whole school.",
+  "popularity": 5.0814,
+  "poster_path": "/luAE07BbCpLCRww4Fqmd48CN2Al.jpg",
+  "production_companies": [
+    {
+      "id": 2756,
+      "logo_path": null,
+      "name": "Vertigo Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2902,
+      "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
+      "name": "SND",
+      "origin_country": "FR"
+    },
+    {
+      "id": 109756,
+      "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+      "name": "Auvergne-Rhône-Alpes Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-11-20",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Le Panache",
+  "video": false,
+  "vote_average": 6.596,
+  "vote_count": 52
+}

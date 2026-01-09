@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/9dixOiaWMKAJiqBiIf7GgHADsG4.jpg",
+  "belongs_to_collection": {
+    "id": 144689,
+    "name": "Honey Collection",
+    "poster_path": "/jnMYWzVz4Tflsog6Ik6Mop17LSV.jpg",
+    "backdrop_path": "/9dixOiaWMKAJiqBiIf7GgHADsG4.jpg"
+  },
+  "budget": 18000000,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 10028,
+  "imdb_id": "tt0322589",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Honey",
+  "overview": "Honey Daniels dreams of making a name for herself as a hip-hop choreographer. When she's not busy hitting downtown clubs with her friends, she teaches dance classes at a nearby community center in Harlem, N.Y., as a way to keep kids off the streets. Honey thinks she's hit the jackpot when she meets a hotshot director casts her in one of his music videos. But, when he starts demanding sexual favors from her, Honey makes a decision that will change her life.",
+  "popularity": 8.036,
+  "poster_path": "/gnY6d7BoddAAQ8s42fxCJK8lL1A.jpg",
+  "production_companies": [
+    {
+      "id": 41963,
+      "logo_path": null,
+      "name": "NuAmerica Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2527,
+      "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+      "name": "Marc Platt Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-12-05",
+  "revenue": 62646763,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Her dream. Her terms.",
+  "title": "Honey",
+  "video": false,
+  "vote_average": 6.344,
+  "vote_count": 1215
+}

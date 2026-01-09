@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/l05zRaWlK88BkKXZYQh6BmHWTZD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1284789,
+  "imdb_id": "tt32967635",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Mortelle raclette",
+  "overview": "While filming in the mountains the first Eco-responsible porn under the guidance of an intimacy coordinator, a film crew finds itself stuck in a snowstorm.",
+  "popularity": 2.3601,
+  "poster_path": "/au3TMvL70ER7G37yHHo8DPXnh8M.jpg",
+  "production_companies": [
+    {
+      "id": 3286,
+      "logo_path": "/kMwaZKoh6b5JouZ9mZrLN8YvaWf.png",
+      "name": "Empreinte Digitale",
+      "origin_country": "FR"
+    },
+    {
+      "id": 232992,
+      "logo_path": null,
+      "name": "Polenta",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-12-25",
+  "revenue": 0,
+  "runtime": 64,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mortelle raclette",
+  "video": false,
+  "vote_average": 4.603,
+  "vote_count": 29
+}

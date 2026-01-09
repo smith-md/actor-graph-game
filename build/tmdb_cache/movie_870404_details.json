@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/kiTsFP8XAHHtMVk75o4vmQmOmlg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 870404,
+  "imdb_id": "tt14174506",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Meteor",
+  "overview": "After a meteor collides into Earth, a lonely rancher and a lost young girl are on the run from vicious mercenaries.",
+  "popularity": 3.1645,
+  "poster_path": "/lPMRohZcjZhywbIUmxPYQnYl9U5.jpg",
+  "production_companies": [
+    {
+      "id": 141842,
+      "logo_path": null,
+      "name": "B22 Films",
+      "origin_country": ""
+    },
+    {
+      "id": 148176,
+      "logo_path": null,
+      "name": "ITN Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-09-01",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Humanity's time has come to an end.",
+  "title": "Meteor",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 101
+}

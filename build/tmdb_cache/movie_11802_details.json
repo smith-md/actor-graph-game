@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/8mVTIFHZRTWVMhASQjltc3pVK60.jpg",
+  "belongs_to_collection": {
+    "id": 118828,
+    "name": "Space Chimps Collection",
+    "poster_path": "/ysGzOtpIWNJgIVtwqBErItzgMja.jpg",
+    "backdrop_path": "/kpZo1UkTfXbKcmx2OZxfn4O9qBl.jpg"
+  },
+  "budget": 37000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "http://www.spacechimpspower.com/",
+  "id": 11802,
+  "imdb_id": "tt0482603",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Space Chimps",
+  "overview": "When an unmanned space shuttle crashes on an uncharted planet, a trio of astronaut chimpanzees are launched by NASA into a wormhole to investigate.",
+  "popularity": 4.4074,
+  "poster_path": "/ecAKgzlt78OvEVpZURYYdSz8K5v.jpg",
+  "production_companies": [
+    {
+      "id": 81139,
+      "logo_path": "/3pP50VnBQPVjstomuCnCvUGgsfP.png",
+      "name": "Vanguard Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 2885,
+      "logo_path": "/9VYog24k93pfjB5X5YqJcg4Ane1.png",
+      "name": "Starz Animation",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2008-06-25",
+  "revenue": 64762724,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "From one of the primates that brought you Shrek.",
+  "title": "Space Chimps",
+  "video": false,
+  "vote_average": 4.945,
+  "vote_count": 477
+}

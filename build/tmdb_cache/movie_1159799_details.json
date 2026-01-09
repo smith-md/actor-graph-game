@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/jMH6VkqkUdBPPIiTmOv2VpmrH2L.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.mypenguinfriend.com/",
+  "id": 1159799,
+  "imdb_id": "tt8609660",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "My Penguin Friend",
+  "overview": "A lost penguin rescued from an oil spill transforms the life of a heartbroken fisherman. They become unlikely friends, so bonded that even the vast ocean cannot divide them.",
+  "popularity": 6.3937,
+  "poster_path": "/65ll0fwaCMDHuD5XMJk4f4Olc5b.jpg",
+  "production_companies": [
+    {
+      "id": 124999,
+      "logo_path": null,
+      "name": "City Hill Arts",
+      "origin_country": ""
+    },
+    {
+      "id": 236737,
+      "logo_path": null,
+      "name": "Content Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 166691,
+      "logo_path": null,
+      "name": "Schurmann Filmes",
+      "origin_country": ""
+    },
+    {
+      "id": 223013,
+      "logo_path": "/vhbzPCBcm6CAAdtYEmI1ejF44mY.png",
+      "name": "Sur Film",
+      "origin_country": "ES"
+    },
+    {
+      "id": 170444,
+      "logo_path": "/af8mT21RiXBswuaSaoNwhuPuuBZ.png",
+      "name": "Ventre Studio",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-07",
+  "revenue": 2756776,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Inspired by the true story of an extraordinary friendship.",
+  "title": "My Penguin Friend",
+  "video": false,
+  "vote_average": 7.449,
+  "vote_count": 157
+}

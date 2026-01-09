@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/aJPhyf6gGakSe0XBjFsay6Mxef5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 18762,
+  "imdb_id": "tt0112537",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Blue Juice",
+  "overview": "JC is the hero of the Cornish surfing community. Staring thirty hard in the face, he fears that the wave that has carried him through a prolonged adolescence is heading for the rocks as his girlfriend pressures him for commitment and his friends contemplate growing up.",
+  "popularity": 3.2878,
+  "poster_path": "/9cGEpHyiPk1qRuY1Kv57RGkyesr.jpg",
+  "production_companies": [
+    {
+      "id": 3525,
+      "logo_path": null,
+      "name": "Skreba Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1995-09-15",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The ride is wild!",
+  "title": "Blue Juice",
+  "video": false,
+  "vote_average": 4.038,
+  "vote_count": 40
+}

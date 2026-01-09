@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/cZRu0uUtgc5aDRXXfnYx59HvKiA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 216736,
+  "imdb_id": "tt0068970",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La mortadella",
+  "overview": "An Italian woman faces challenges at JFK Airport when Customs confiscates the mortadella sausage she brought as a gift for her fiancé, leading to a humorous and frustrating ordeal.",
+  "popularity": 4.5987,
+  "poster_path": "/1gqFXFpk4VSB7txx31RmSdMctU1.jpg",
+  "production_companies": [
+    {
+      "id": 10000,
+      "logo_path": null,
+      "name": "C. C. Champion",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1714,
+      "logo_path": null,
+      "name": "Les Films Concordia",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1971-12-22",
+  "revenue": 0,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lady Liberty",
+  "video": false,
+  "vote_average": 5.341,
+  "vote_count": 22
+}

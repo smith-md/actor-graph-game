@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/xa9VQLnqqHoTxIoYi16RHxiYins.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 467548,
+  "imdb_id": "tt7222552",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Combat",
+  "overview": "Steve Landry, an aging boxer with more losses than wins, accepts to become a sparring partner for an emerging champion in a last-ditch attempt to stay relevant.",
+  "popularity": 5.2486,
+  "poster_path": "/cpIifZTO4emo88pXcsgY6MYLDR4.jpg",
+  "production_companies": [
+    {
+      "id": 72352,
+      "logo_path": "/sHcbW8s6UWGmlc9tLIHJF9rwoeT.png",
+      "name": "UNITÉ",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6896,
+      "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+      "name": "EuropaCorp",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11620,
+      "logo_path": "/f3hRdCaK1w9qH1Qs8nLd2L2bae1.png",
+      "name": "OCS",
+      "origin_country": "FR"
+    },
+    {
+      "id": 310,
+      "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+      "name": "CNC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 115136,
+      "logo_path": null,
+      "name": "SofiTVciné 4",
+      "origin_country": ""
+    },
+    {
+      "id": 81852,
+      "logo_path": "/3scerNELiUQM5YL82YbSnKboqJU.png",
+      "name": "Cinémage 11",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11246,
+      "logo_path": "/4YZ5CQZkJa2FIKGtjLLoKhNOAIw.png",
+      "name": "La Région Île-de-France",
+      "origin_country": "FR"
+    },
+    {
+      "id": 118284,
+      "logo_path": "/bz6PxIVh6x5kd9voprR4PplSmfu.png",
+      "name": "Région Normandie",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2017-08-04",
+  "revenue": 165548,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sparring",
+  "video": false,
+  "vote_average": 5.884,
+  "vote_count": 69
+}

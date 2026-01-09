@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/9zC8xfzdsvsyujtG2SxUQ5lAlZ7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://crankedupfilms.com/doublewalker",
+  "id": 849365,
+  "imdb_id": "tt12752246",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Double Walker",
+  "overview": "A young woman's ghost investigates the mysterious events that led to her own murder.",
+  "popularity": 2.4242,
+  "poster_path": "/hA8XJuMIHf9AVbfKhh3KA1hmJZ7.jpg",
+  "production_companies": [
+    {
+      "id": 49937,
+      "logo_path": "/j14jwTsJj6ok9IkUFewX7acufKu.png",
+      "name": "Good Deed Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-11-12",
+  "revenue": 0,
+  "runtime": 71,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Double Walker",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 38
+}

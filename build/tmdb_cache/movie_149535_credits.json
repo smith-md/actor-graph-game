@@ -1,0 +1,130 @@
+{
+  "id": 149535,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 20285,
+      "known_for_department": "Acting",
+      "name": "Féodor Atkine",
+      "original_name": "Féodor Atkine",
+      "popularity": 1.0527,
+      "profile_path": "/qCpSPJyM7v9p3fGBJV8ZqGETBr0.jpg",
+      "cast_id": 3,
+      "character": "Narrator",
+      "credit_id": "52fe4beb9251416c75112011",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 972288,
+      "known_for_department": "Acting",
+      "name": "Javier Cidoncha",
+      "original_name": "Javier Cidoncha",
+      "popularity": 0.3191,
+      "profile_path": "/qu47F5OCJ1GHJsmKKZqakT8xlMY.jpg",
+      "cast_id": 4,
+      "character": "Boy",
+      "credit_id": "52fe4beb9251416c75112015",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1109148,
+      "known_for_department": "Acting",
+      "name": "Jonathan Mellor",
+      "original_name": "Jonathan Mellor",
+      "popularity": 0.2641,
+      "profile_path": "/oJ0GzokEEWrMlUDghlpldrORC6O.jpg",
+      "cast_id": 5,
+      "character": "Lead",
+      "credit_id": "52fe4beb9251416c75112019",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1152329,
+      "known_for_department": "Acting",
+      "name": "Luna Montignier Pedro",
+      "original_name": "Luna Montignier Pedro",
+      "popularity": 0.1058,
+      "profile_path": null,
+      "cast_id": 6,
+      "character": "Girl",
+      "credit_id": "52fe4beb9251416c7511201d",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1152330,
+      "known_for_department": "Acting",
+      "name": "Sergio Perez",
+      "original_name": "Sergio Perez",
+      "popularity": 0.1798,
+      "profile_path": null,
+      "cast_id": 7,
+      "character": "Soldier 3",
+      "credit_id": "52fe4beb9251416c75112021",
+      "order": 4
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1152331,
+      "known_for_department": "Acting",
+      "name": "Daniel Robaina Romero",
+      "original_name": "Daniel Robaina Romero",
+      "popularity": 0.1486,
+      "profile_path": null,
+      "cast_id": 8,
+      "character": "Soldier 2",
+      "credit_id": "52fe4beb9251416c75112025",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 586103,
+      "known_for_department": "Writing",
+      "name": "Luiso Berdejo",
+      "original_name": "Luiso Berdejo",
+      "popularity": 0.4327,
+      "profile_path": "/1BTRXkR4pKumMEktHJTRm8clGqS.jpg",
+      "credit_id": "52fe4beb9251416c7511200d",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1145238,
+      "known_for_department": "Directing",
+      "name": "Martín Rosete",
+      "original_name": "Martín Rosete",
+      "popularity": 1.8209,
+      "profile_path": "/7I1g4J1Tmw2nAjda5dqgBnJGqeC.jpg",
+      "credit_id": "52fe4beb9251416c75112007",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 53230,
+      "known_for_department": "Editing",
+      "name": "Fernando Franco",
+      "original_name": "Fernando Franco",
+      "popularity": 0.8227,
+      "profile_path": "/lQJ14ZkI952aJ1IRP55BriTdCg2.jpg",
+      "credit_id": "65e219132d531a0185c292b2",
+      "department": "Editing",
+      "job": "Editor"
+    }
+  ]
+}

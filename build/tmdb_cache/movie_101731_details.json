@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/fM4TVNg27IBCYAz8FUiLefWck1p.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.magpictures.com/themagicofbelleisle/",
+  "id": 101731,
+  "imdb_id": "tt1839654",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Magic of Belle Isle",
+  "overview": "In an effort to tap into his original talent, a wheelchair-bound author moves to a rural town, where he befriends a single mother and her three kids, who help reignite his passion for writing.",
+  "popularity": 2.2478,
+  "poster_path": "/imoZLjmCnfG4f69Dq0f2Zsr9XOR.jpg",
+  "production_companies": [
+    {
+      "id": 97,
+      "logo_path": "/qv3ih9pR9w2XNKZDsqDqAGuZjqc.png",
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 906,
+      "logo_path": "/3nTeqjFy3El5hHQvvyLn6HFz5M4.png",
+      "name": "Revelations Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 23215,
+      "logo_path": null,
+      "name": "Summer Magic",
+      "origin_country": "US"
+    },
+    {
+      "id": 16060,
+      "logo_path": null,
+      "name": "Firebrand Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-07-06",
+  "revenue": 123821,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A re-coming of age story.",
+  "title": "The Magic of Belle Isle",
+  "video": false,
+  "vote_average": 6.988,
+  "vote_count": 429
+}

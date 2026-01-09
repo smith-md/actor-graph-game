@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/eR8aITnBLXQ2k7zmp2JfIKYxv1W.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 790894,
+  "imdb_id": "tt9690790",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Paradise Cove",
+  "overview": "A contractor and his wife move to Malibu to flip his mother’s beach house, but are terrorized by the deranged homeless lady living under the house.",
+  "popularity": 3.4072,
+  "poster_path": "/nrs7xjq4iwZvk5bfOEGFLvr4B3v.jpg",
+  "production_companies": [
+    {
+      "id": 21792,
+      "logo_path": "/kRVU791IGotgqcnNnLaNz8wKt0j.png",
+      "name": "Sunset Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 92337,
+      "logo_path": null,
+      "name": "Thunder Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-02-12",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A view to die for",
+  "title": "Paradise Cove",
+  "video": false,
+  "vote_average": 4.4,
+  "vote_count": 28
+}

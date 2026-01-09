@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/z8tNyAAnGk2d1XmO1L4i34UmP19.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1367575,
+  "imdb_id": "tt33712667",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Line of Fire",
+  "overview": "After working as a secret agent in the FBI for ten years, Jack 'Cash' Conry left it all behind after his wife passed in order to dedicate himself to his two daughters. Despite a fulfilling life at home, Cash misses the chance to make an impact and has been considering a return to the force. The decision is made for him when his old partner’s niece Jamie calls him for help, launching Cash right back into a world of danger, corruption and intrigue.",
+  "popularity": 9.2415,
+  "poster_path": "/jSG2mg1998DUAam6X9EA6SeJmqD.jpg",
+  "production_companies": [
+    {
+      "id": 16005,
+      "logo_path": "/lIEdncC1t5p7CddNyePFHXaCoy6.png",
+      "name": "Panoramic Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 253448,
+      "logo_path": null,
+      "name": "Roaming Elephant Production",
+      "origin_country": ""
+    },
+    {
+      "id": 271739,
+      "logo_path": null,
+      "name": "Shoofly Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-04-05",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Line of Fire",
+  "video": false,
+  "vote_average": 5.938,
+  "vote_count": 65
+}

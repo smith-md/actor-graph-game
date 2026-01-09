@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/kAyMSlYrrvvMg2v9TaDvF9nVVS8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 57022,
+  "imdb_id": "tt0286179",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sunshine State",
+  "overview": "A woman and her new husband returns to her hometown roots in coastal northern Florida, and must deal with family, business, and encroaching real estate development.",
+  "popularity": 3.1303,
+  "poster_path": "/8OsgdG53vzF5uC8pCE61SA1tiNF.jpg",
+  "production_companies": [
+    {
+      "id": 2906,
+      "logo_path": null,
+      "name": "Anarchist's Convention Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-06-21",
+  "revenue": 3369654,
+  "runtime": 141,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Greetings from...",
+  "title": "Sunshine State",
+  "video": false,
+  "vote_average": 6.345,
+  "vote_count": 42
+}

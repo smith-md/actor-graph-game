@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/8Z3z9zGRJK6nzoG0aoXiyv0RjSu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 51743,
+  "imdb_id": "tt0094037",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Stewardess School",
+  "overview": "A group of varied misfits (including a former prostitute/stripper and a bumbler who can't see more than 6 inches in front of his face) enter a school to become flight attendants. Somehow, the group makes it through to the final test: a cross-country flight.",
+  "popularity": 4.0376,
+  "poster_path": "/gv3RXJ0epHMahYd5HBJhApDQHXG.jpg",
+  "production_companies": [
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 50179,
+      "logo_path": null,
+      "name": "Summa Entertainment Group",
+      "origin_country": ""
+    },
+    {
+      "id": 212889,
+      "logo_path": null,
+      "name": "Triton Ltd.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-08-01",
+  "revenue": 136158,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This is one flight you'll never forget.",
+  "title": "Stewardess School",
+  "video": false,
+  "vote_average": 4.83,
+  "vote_count": 44
+}

@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/rtGXMbAGDBUVvSui8i4ZqlWwQzF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 347847,
+  "imdb_id": "tt3399484",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Sand",
+  "overview": "After an all-night graduation beach party, a group of hung-over students wakes up under the blazing sun to find their numbers somewhat depleted. An enormous alien creature has burrowed down deep and anyone foolish enough to make contact with the sand finds themselves at the mercy of a sea of flesh-eating tentacles. Will they ever be able to escape its carnivorous clutches?",
+  "popularity": 4.1952,
+  "poster_path": "/AiahhUWOvxUhH0QAj1hb5NDcWj9.jpg",
+  "production_companies": [
+    {
+      "id": 23386,
+      "logo_path": "/3F6G0SBGnaNt66e0GbFZDIl1kEV.png",
+      "name": "Scatena & Rosner Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 75875,
+      "logo_path": null,
+      "name": "Allegra Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-08-28",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This beach is killer.",
+  "title": "The Sand",
+  "video": false,
+  "vote_average": 5.035,
+  "vote_count": 258
+}

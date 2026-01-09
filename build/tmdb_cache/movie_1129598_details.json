@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/n3JeGELHa9V6k9mL81ItMxWLSS6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1129598,
+  "imdb_id": "tt27682129",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Prey",
+  "overview": "A young couple is compelled to leave their Christian missionary station in the Kalahari Desert after being threatened with death by an extremist militant gang. After crashing their aircraft they must battle man and beast for their lives.",
+  "popularity": 7.69,
+  "poster_path": "/aOsPclgSiOqhndI2Xp2ksz2g9n6.jpg",
+  "production_companies": [
+    {
+      "id": 188570,
+      "logo_path": null,
+      "name": "The Barnum Picture Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 116018,
+      "logo_path": null,
+      "name": "Green Light Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 142122,
+      "logo_path": "/oqZHKDB4izafodDDD9BABNNq7VN.png",
+      "name": "Lucky 13 Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-03-15",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Let the hunt begin.",
+  "title": "Prey",
+  "video": false,
+  "vote_average": 6.004,
+  "vote_count": 345
+}

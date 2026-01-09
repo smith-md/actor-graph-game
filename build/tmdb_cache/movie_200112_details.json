@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/sSvc8NPfAME71M48fT1dOg35uLX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 200112,
+  "imdb_id": "tt2311526",
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "fr",
+  "original_title": "Puppylove",
+  "overview": "When a free-spirited girl befriends a young teenager, they leave childhood behind to embrace a dangerous world of clubbing and sex with strange men.",
+  "popularity": 4.1353,
+  "poster_path": "/mkwHa1MmzMNEnejetEUZW4ZhYxc.jpg",
+  "production_companies": [
+    {
+      "id": 45015,
+      "logo_path": "/7O9okD5UDjnyHUwNR3VZN3gbUpA.png",
+      "name": "Bac Cinema",
+      "origin_country": "LU"
+    },
+    {
+      "id": 6003,
+      "logo_path": "/mEswQx1seYJjA2knd0lrdDGvxvu.png",
+      "name": "Box Productions",
+      "origin_country": "CH"
+    },
+    {
+      "id": 3984,
+      "logo_path": "/pvOBu9K0zTRuwJW7WII34x17kdz.png",
+      "name": "Entre Chien et Loup",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    }
+  ],
+  "release_date": "2013-06-29",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There are times we need to try everything",
+  "title": "Puppylove",
+  "video": false,
+  "vote_average": 5.635,
+  "vote_count": 48
+}

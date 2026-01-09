@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/yAqL0makiGke5yYiVWpmBDSKIVP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.theritualmovie.com/",
+  "id": 1278950,
+  "imdb_id": "tt32194932",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Ritual",
+  "overview": "Two priests, one in crisis with his faith and the other confronting a turbulent past, must overcome their differences to perform a risky exorcism.",
+  "popularity": 10.5885,
+  "poster_path": "/uubL8yvtEBjz3V7DFQHjCuSQO8w.jpg",
+  "production_companies": [
+    {
+      "id": 238334,
+      "logo_path": "/ro2InZqG15MJqjZiqiv069T9iYQ.png",
+      "name": "Cinemachineshop",
+      "origin_country": "US"
+    },
+    {
+      "id": 50788,
+      "logo_path": "/zli3Ez9omK3iuDutY1ystRiQOCt.png",
+      "name": "Redbird Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 2100,
+      "logo_path": "/lPsU64VTQPWk6JhK7uDzCjocoFj.png",
+      "name": "Andrew Stevens Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 261780,
+      "logo_path": null,
+      "name": "MetaFilms",
+      "origin_country": "US"
+    },
+    {
+      "id": 199125,
+      "logo_path": "/fJJZLnOmXWdsi1vflvEi2kC5iBc.png",
+      "name": "Baweja Studios",
+      "origin_country": "IN"
+    },
+    {
+      "id": 121204,
+      "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital",
+      "origin_country": "US"
+    },
+    {
+      "id": 261781,
+      "logo_path": null,
+      "name": "Isro Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 261782,
+      "logo_path": null,
+      "name": "IFeelYouFilms",
+      "origin_country": "US"
+    },
+    {
+      "id": 96310,
+      "logo_path": "/tBxSNuzARadiaBpIJ3qmdPG5BCz.png",
+      "name": "LB Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 52738,
+      "logo_path": null,
+      "name": "Jeff Rice Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 75267,
+      "logo_path": "/nGvGzQ5x2OoeLSEQYkBPV0bzwoM.png",
+      "name": "Eyevox",
+      "origin_country": "US"
+    },
+    {
+      "id": 12142,
+      "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+      "name": "XYZ Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-04-18",
+  "revenue": 3195869,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You must have faith.",
+  "title": "The Ritual",
+  "video": false,
+  "vote_average": 5.915,
+  "vote_count": 253
+}

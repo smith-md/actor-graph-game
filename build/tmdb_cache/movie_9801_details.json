@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/hNE0LvMfeiX6vS95VcLo9AUA6PR.jpg",
+  "belongs_to_collection": {
+    "id": 8936,
+    "name": "Bridget Jones Collection",
+    "poster_path": "/9VUsbuTMFoRgUgK0z3pEWmkujFe.jpg",
+    "backdrop_path": "/9WuJ3iHkCEm5jtxIRwRAp45QZjL.jpg"
+  },
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 9801,
+  "imdb_id": "tt0317198",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Bridget Jones: The Edge of Reason",
+  "overview": "Bridget Jones is still dating her new love, barrister Mark Darcy, for a perfect six weeks. However, while on assignment in Thailand with her disreputable ex, Daniel Cleaver, claiming to be reformed, Bridget questions if she has everything she's ever dreamed of having.",
+  "popularity": 3.7761,
+  "poster_path": "/zDthRXkGnwFIWI0zWcJyS7h6lUl.jpg",
+  "production_companies": [
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 10163,
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2004-11-10",
+  "revenue": 265126918,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Big Liar. Big Lawyer. Big Dilemma.",
+  "title": "Bridget Jones: The Edge of Reason",
+  "video": false,
+  "vote_average": 6.224,
+  "vote_count": 2970
+}

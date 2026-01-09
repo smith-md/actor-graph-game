@@ -1,0 +1,41 @@
+{
+  "adult": false,
+  "backdrop_path": "/lfCcFJop7ORb10pvrBnTZsc0Bqo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1371789,
+  "imdb_id": "tt32810511",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lick",
+  "overview": "Evelyn wakes up in Vegas married to rock star David after blacking out on her 21st birthday. Thrust into his fame, she questions if she can handle his lifestyle as they navigate if their marriage is real or a mistake.",
+  "popularity": 6.063,
+  "poster_path": "/hpPG14pFqGMS2FLvAWDtzGL7sUr.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2024-12-19",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lick",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 21
+}

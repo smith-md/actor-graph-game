@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/jHuEVaTKVJPQtMeSt4uzVFbTsH3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 43040,
+  "imdb_id": "tt0054292",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sergeant Rutledge",
+  "overview": "Respected black cavalry Sergeant Brax Rutledge stands court-martial for raping and killing a white woman and murdering her father, his superior officer.",
+  "popularity": 4.8295,
+  "poster_path": "/jpi9dXkF4ZHUVxRDHjh6jJlrdun.jpg",
+  "production_companies": [
+    {
+      "id": 10698,
+      "logo_path": null,
+      "name": "John Ford Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1960-05-25",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Forget all the suspense you have ever seen! Forget all the excitement you have ever known!",
+  "title": "Sergeant Rutledge",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 128
+}

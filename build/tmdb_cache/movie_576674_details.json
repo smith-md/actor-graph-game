@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/mBk8i2aLMEqfxmJCSLpq4T0qaLF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 576674,
+  "imdb_id": "tt9613316",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Frances Ferguson",
+  "overview": "Frances Ferguson is discontent. Like a lot of us, she does a bit of “acting out” and pays the price —an arrest, a trial, incarceration. And then a new identity, one that’s not terribly comfortable.",
+  "popularity": 4.9866,
+  "poster_path": "/7o6Rrp4Y7WuKxn88YM8OZQfKnpl.jpg",
+  "production_companies": [
+    {
+      "id": 130187,
+      "logo_path": null,
+      "name": "The Substitute",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-03-10",
+  "revenue": 0,
+  "runtime": 74,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The worst decision of her life was only the beginning.",
+  "title": "Frances Ferguson",
+  "video": false,
+  "vote_average": 6.048,
+  "vote_count": 21
+}

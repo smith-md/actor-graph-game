@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/kVzJWhZuYmt8aETlJreZ4F12XqE.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 83078,
+  "imdb_id": "tt0090753",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Blue City",
+  "overview": "Returning to the small Florida town where he grew up, Billy Turner learns that his father has been killed. With little help from the police, Billy will take matters into his own hands and go up against a ruthless local mob boss in a desperate search to find the killer.",
+  "popularity": 3.0533,
+  "poster_path": "/hvSyqFNflkAFaR28R1G8dV9lQh0.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-05-02",
+  "revenue": 6900000,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's below Miami and above the law.",
+  "title": "Blue City",
+  "video": false,
+  "vote_average": 4.7,
+  "vote_count": 29
+}

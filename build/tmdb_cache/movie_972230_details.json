@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/h1jF78eKPrqejbXe3OHQ2KxmTJ9.jpg",
+  "belongs_to_collection": null,
+  "budget": 7500000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 972230,
+  "imdb_id": "tt20879602",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Maybe I Do",
+  "overview": "Michelle and Allen, who have reached the point in their relationship where they are considering next steps, decide to invite  their parents to finally meet and to offer some understanding of why marriage works. Except the parents already know each other quite well, which leads to some very distinct opinions about the value of marriage.",
+  "popularity": 4.9824,
+  "poster_path": "/8AepEHAUDEbvxzuKV4ll0gKobdL.jpg",
+  "production_companies": [
+    {
+      "id": 181874,
+      "logo_path": "/crrgXvLhDO9c57HYrbO4H58Vxmb.png",
+      "name": "Fifth Season",
+      "origin_country": "US"
+    },
+    {
+      "id": 17929,
+      "logo_path": null,
+      "name": "Vincent Newman Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-01-27",
+  "revenue": 4393504,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Maybe you stay married for the kids.",
+  "title": "Maybe I Do",
+  "video": false,
+  "vote_average": 5.439,
+  "vote_count": 262
+}

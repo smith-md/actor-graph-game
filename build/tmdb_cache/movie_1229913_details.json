@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/wxYBMcxFIJai9AaZr6XAOKZTfxY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1229913,
+  "imdb_id": "tt30972058",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "El Roomie",
+  "overview": "Vivi is a young writer who is forced to find a roommate to pay the mortgage on her apartment. What she does not suspect is that Roy, the supposed perfect partner she found, has a peculiar lifestyle: he never pays rent.",
+  "popularity": 5.211,
+  "poster_path": "/zaRzz2BxjxIVb7ja0gSedj1Hn1E.jpg",
+  "production_companies": [
+    {
+      "id": 7570,
+      "logo_path": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+      "name": "Videocine",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2024-01-18",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No job, no money, no shame",
+  "title": "The Roommate",
+  "video": false,
+  "vote_average": 7.632,
+  "vote_count": 95
+}

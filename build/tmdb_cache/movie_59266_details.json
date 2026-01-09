@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/nnc0BEAEGaZvzPN3fLKTFZkVKa.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 59266,
+  "imdb_id": "tt1623008",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Arbor",
+  "overview": "The lives of the late Bradford playwright Andrea Dunbar and Lorraine, one of her daughters, and the community of Bradford, in the 30 years since the 18-year-old Andrea penned a play about growing up in the community titled \"The Arbor\".",
+  "popularity": 3.495,
+  "poster_path": "/1ILtGNSUTyrZi8LAco4zkMWXM3q.jpg",
+  "production_companies": [
+    {
+      "id": 22302,
+      "logo_path": null,
+      "name": "Artangel Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2452,
+      "logo_path": "/gOkUB0TdXRLAl6s0s6jCSLS3sOb.png",
+      "name": "UK Film Council",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2010-10-22",
+  "revenue": 21268,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Documentary Re-Invented",
+  "title": "The Arbor",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 42
+}

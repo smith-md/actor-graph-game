@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/hSY4PYJSFW5JWeQqOs2LAzG0W8a.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 11448,
+  "imdb_id": "tt0113819",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mighty Aphrodite",
+  "overview": "When Lenny and his wife, Amanda, adopt a baby, Lenny realizes that his son is a genius and becomes obsessed with finding the boy's biological mother in hopes that she will be brilliant too. But when he learns that Max's mother is Linda Ash, a kindhearted prostitute and porn star, Lenny is determined to reform her immoral lifestyle. A Greek chorus chimes in to relate the plot to Greek mythology in this quirky comedy.",
+  "popularity": 4.338,
+  "poster_path": "/ice135yQZp4iX2SgCmd90nKgS5j.jpg",
+  "production_companies": [
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 16280,
+      "logo_path": "/nuZoi9osmFiDYcbFiK94o6DKZEj.png",
+      "name": "Jean Doumanian Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 21716,
+      "logo_path": null,
+      "name": "Sweetland Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-09-13",
+  "revenue": 26000000,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Of all human weaknesses, obsession is the most dangerous, and the silliest!",
+  "title": "Mighty Aphrodite",
+  "video": false,
+  "vote_average": 6.712,
+  "vote_count": 724
+}

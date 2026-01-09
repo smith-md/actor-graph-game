@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/aH4MrSu8fwjRiEMGfdRwpsYu2PW.jpg",
+  "belongs_to_collection": {
+    "id": 1125292,
+    "name": "Freaky Friday Collection",
+    "poster_path": "/vSCsz3251W00OVcXarUSafHpf3x.jpg",
+    "backdrop_path": "/8QWJmqzT6WiYKY9wXpfUfwpjad1.jpg"
+  },
+  "budget": 26000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 10330,
+  "imdb_id": "tt0322330",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Freaky Friday",
+  "overview": "Mother and daughter bicker over everything -- what Anna wears, whom she likes and what she wants to do when she's older. In turn, Anna detests Tess's fiancé. When a magical fortune cookie switches their personalities, they each get a peek at how the other person feels, thinks and lives.",
+  "popularity": 6.4832,
+  "poster_path": "/ipKcZ4Up7dp18XpsfYUc9NKZy3g.jpg",
+  "production_companies": [
+    {
+      "id": 93528,
+      "logo_path": null,
+      "name": "Casual Friday Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 3538,
+      "logo_path": null,
+      "name": "Gunn Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 2,
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-08-05",
+  "revenue": 160846332,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mondays are manic. Wednesdays are wild. And Fridays are about to get a little freaky.",
+  "title": "Freaky Friday",
+  "video": false,
+  "vote_average": 6.571,
+  "vote_count": 4161
+}

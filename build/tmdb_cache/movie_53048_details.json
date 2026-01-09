@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/yNTgGcJFZeSFPNvCE61KRXQNX1i.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 53048,
+  "imdb_id": "tt0230025",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bartleby",
+  "overview": "An adaptation of Herman Melville's short story \"Bartleby, the Scrivener\" told in the setting of a modern office.",
+  "popularity": 2.8907,
+  "poster_path": "/swYfLGplXAle5CenmWVYpRSomCp.jpg",
+  "production_companies": [
+    {
+      "id": 68599,
+      "logo_path": null,
+      "name": "Parker Film Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2001-03-10",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "I would prefer not to.",
+  "title": "Bartleby",
+  "video": false,
+  "vote_average": 5.757,
+  "vote_count": 37
+}

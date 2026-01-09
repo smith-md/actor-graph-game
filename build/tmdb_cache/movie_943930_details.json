@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/fUUEyB2WI8BqHgBIL0c17DNKmYL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 943930,
+  "imdb_id": "tt7354440",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Tin & Tina",
+  "overview": "After a traumatic miscarriage, Lola and her husband, Adolfo, adopt Tin and Tina, a lovely albino brother and sister with an ultra-Catholic education that makes them interpret the Holy Bible verbatim.",
+  "popularity": 4.3583,
+  "poster_path": "/gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",
+  "production_companies": [
+    {
+      "id": 10053,
+      "logo_path": "/t9Fnm9KvpkJXZSyaZU0sAWzj8EN.png",
+      "name": "La Claqueta",
+      "origin_country": "ES"
+    },
+    {
+      "id": 158087,
+      "logo_path": null,
+      "name": "Miami Film Gate",
+      "origin_country": ""
+    },
+    {
+      "id": 3631,
+      "logo_path": "/ttrj8O0KF5PbUoHamU2mTOLB6d9.png",
+      "name": "Filmax",
+      "origin_country": "ES"
+    },
+    {
+      "id": 193218,
+      "logo_path": null,
+      "name": "Albinos La Película",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2023-03-24",
+  "revenue": 0,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tin & Tina",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 441
+}

@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/2fZgJKHakwvOEKGibtGLGdpaAMg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 49693,
+  "imdb_id": "tt0095511",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Lectrice",
+  "overview": "A young woman passionate about reading immerses herself in the adventures of a fictional character who makes reading her profession. As she explores different neighborhoods and wintertime Provence, her imagination blends with reality, revealing the mysteries behind each word.",
+  "popularity": 3.512,
+  "poster_path": "/oElAqwPGT0FQVoZ6UZyoyL5BYcW.jpg",
+  "production_companies": [
+    {
+      "id": 14498,
+      "logo_path": null,
+      "name": "Ciné 5",
+      "origin_country": ""
+    },
+    {
+      "id": 6998,
+      "logo_path": null,
+      "name": "Eléfilm",
+      "origin_country": "FR"
+    },
+    {
+      "id": 468,
+      "logo_path": "/42mtaDQPu1OTmfrvmwq6OsnHLPG.png",
+      "name": "AAA Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 69639,
+      "logo_path": null,
+      "name": "TSF Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1988-08-17",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "La Lectrice",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 39
+}

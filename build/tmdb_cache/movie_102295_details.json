@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/dE5UNv0YYBnvOAUYpVS3km7A6Yk.jpg",
+  "belongs_to_collection": null,
+  "budget": 3500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 102295,
+  "imdb_id": "tt0048764",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Underwater!",
+  "overview": "Two scuba divers find a shipwreck which may contain undiscovered treasure, however, their attempt to salvage it is threatened by scavengers.",
+  "popularity": 4.5364,
+  "poster_path": "/3DZtI8eUVJkODVS3VXgu4ewYFMO.jpg",
+  "production_companies": [
+    {
+      "id": 6,
+      "logo_path": "/n53F7K9scQWFXYbrCablqLKqJdp.png",
+      "name": "RKO Radio Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1955-02-09",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "UNDERWATER Fury! UNDERWATER Paradise!",
+  "title": "Underwater!",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 24
+}

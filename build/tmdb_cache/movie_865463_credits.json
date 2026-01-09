@@ -1,0 +1,34 @@
+{
+  "id": 865463,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1907997,
+      "known_for_department": "Acting",
+      "name": "Min Do-yoon",
+      "original_name": "민도윤",
+      "popularity": 8.6043,
+      "profile_path": "/bHHn3krbHyxQIWb4JbHkPlV6Uu1.jpg",
+      "cast_id": 2,
+      "character": "",
+      "credit_id": "628787bcf10a1a33ab29925e",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 3164807,
+      "known_for_department": "Acting",
+      "name": "Yoon Yool",
+      "original_name": "윤율",
+      "popularity": 10.9138,
+      "profile_path": "/21kdujBeL2hrJ50RyMxmuEsHZAT.jpg",
+      "cast_id": 3,
+      "character": "",
+      "credit_id": "65aaaab3b0cd20012a17e77d",
+      "order": 1
+    }
+  ],
+  "crew": []
+}

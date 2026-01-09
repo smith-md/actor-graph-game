@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/ckBd4viHqeni29dGNTM1Q7mrmo4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 681349,
+  "imdb_id": "tt11080676",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Nebenan",
+  "overview": "Berlin, the Prenzlauer Berg district. Daniel is a movie star accustomed to success. His loft apartment is stylish and so is his wife, and the nanny has the children under control. Everything is tip-top, bilingual and ready for him to jet off to an audition in London where a role in an American superhero film awaits the celebrated German-Spanish actor. Popping into the local bar on the corner, he finds Bruno sitting there. As transpires by the minute, Bruno has been waiting for this moment for a long time. And so this eternally overlooked man – one of reunification's losers and a victim of the gentrification of what was once East Berlin – takes his revenge. With Daniel as his target...",
+  "popularity": 3.5349,
+  "poster_path": "/uCDPV0QtbQkKILMzQlCUd7kDnjX.jpg",
+  "production_companies": [
+    {
+      "id": 36616,
+      "logo_path": "/ujmuIln4o5ZK08NvI7GmSuV0jj6.png",
+      "name": "Amusement Park Films",
+      "origin_country": "DE"
+    },
+    {
+      "id": 165756,
+      "logo_path": "/kZBJ7fEFnItyDo2TaAIWyDlnovs.png",
+      "name": "Gretchenfilm",
+      "origin_country": "DE"
+    },
+    {
+      "id": 2221,
+      "logo_path": "/5TutJZB5ZknWZhn9w00t1QoIIK4.png",
+      "name": "Erfttal Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 96105,
+      "logo_path": "/yTIbkYK1VGE64FSFqPj5jGDvLG.png",
+      "name": "Warner Bros. Film Productions Germany",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2021-07-15",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Next Door",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 115
+}

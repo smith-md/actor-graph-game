@@ -1,0 +1,113 @@
+{
+  "adult": false,
+  "backdrop_path": "/1FxwuCdaMmCEsl3hSlafKRHR8Th.jpg",
+  "belongs_to_collection": {
+    "id": 2396,
+    "name": "Asterix & Obelix Live-action Collection",
+    "poster_path": "/AlUO83mpTu9OBOnEiwVgZJoeVvs.jpg",
+    "backdrop_path": "/qDuW7l81vwgFAtjISG6Y0m1Pv48.jpg"
+  },
+  "budget": 48500000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 9564,
+  "imdb_id": "tt0133385",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Astérix & Obélix contre César",
+  "overview": "Set in 50 B.C., Asterix and Obelix are living in a small but well-protected village in Gaul, where a magic potion concocted by Druids turns the townsfolk into mighty soldiers. When Roman troops carve a path through Gaul to reach the English Channel, Caesar and his aide de camp Detritus discover the secret elixir and capture the Druid leader who knows its formula, and Asterix and Obelix are sent off to rescue them.",
+  "popularity": 2.9468,
+  "poster_path": "/sJ4zNakOuWcsW6ssH1qk80JehQ2.jpg",
+  "production_companies": [
+    {
+      "id": 22370,
+      "logo_path": null,
+      "name": "Katharina",
+      "origin_country": "FR"
+    },
+    {
+      "id": 82,
+      "logo_path": null,
+      "name": "Renn Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1704,
+      "logo_path": "/sb3PuMTgJgpPUY7x634etBAhodu.png",
+      "name": "Bavaria Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 23493,
+      "logo_path": "/lTaLGi7TAvc8zWCdDlEDY24yPAq.png",
+      "name": "Bavaria Entertainment",
+      "origin_country": "DE"
+    },
+    {
+      "id": 370,
+      "logo_path": null,
+      "name": "Melampo Cinematografica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1999-02-03",
+  "revenue": 101644060,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Gauls are revolting!",
+  "title": "Asterix and Obelix vs. Caesar",
+  "video": false,
+  "vote_average": 6.01,
+  "vote_count": 2000
+}

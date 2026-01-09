@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/4VgiVdd2I3AktHkOpCeSjtP4t8b.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 24469,
+  "imdb_id": "tt1232776",
+  "origin_country": [
+    "NL",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Fish Tank",
+  "overview": "Fifteen-year-old Mia is in a constant state of war with her family and the world around her. When she meets her party-girl mother’s charming new boyfriend Connor, she is amazed to find he returns her attention, and believes he might help her start to make sense of her life.",
+  "popularity": 4.501,
+  "poster_path": "/rI3MKBDsWzQHi9PWDAMKkgmYcff.jpg",
+  "production_companies": [
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2452,
+      "logo_path": "/gOkUB0TdXRLAl6s0s6jCSLS3sOb.png",
+      "name": "UK Film Council",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1420,
+      "logo_path": null,
+      "name": "ContentFilm",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1049,
+      "logo_path": "/ea7MoQoqD9Ow0n55KelsBzHAan7.png",
+      "name": "Kasander Film Company",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2009-09-11",
+  "revenue": 5900000,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Live, love and give as good as you get.",
+  "title": "Fish Tank",
+  "video": false,
+  "vote_average": 6.94,
+  "vote_count": 907
+}

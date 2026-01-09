@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/7kHxNCeUcROtri3XKUubXBwDEfq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 38018,
+  "imdb_id": "tt0329111",
+  "origin_country": [
+    "FR",
+    "GB"
+  ],
+  "original_language": "fr",
+  "original_title": "Les égarés",
+  "overview": "Fleeing the June 1940 arrival of Hitler's army in Paris, a young war widow and her two children are rescued from dive-bombing German fighters by a cocky, reckless teenager. He finds them refuge in an abandoned house, but despite the fact that the family quickly comes to be depending much on his cunning and survival abilities, their cohabitation proves uneasy.",
+  "popularity": 6.3769,
+  "poster_path": "/94aX13B3Rjz6F8lqV1fkvnXYrAI.jpg",
+  "production_companies": [
+    {
+      "id": 16026,
+      "logo_path": null,
+      "name": "FIT Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1071,
+      "logo_path": null,
+      "name": "Spice Factory",
+      "origin_country": "GB"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2003-08-20",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Strayed",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 72
+}

@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/15hxdCGePVfk6edVXLV6WyiQqZ8.jpg",
+  "belongs_to_collection": null,
+  "budget": 900000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 5002,
+  "imdb_id": "tt0074798",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lifeguard",
+  "overview": "Rick is a Los Angeles County lifeguard who is in his thirties. At his 15-year high school reunion, he sees his old girlfriend who is now a divorced mother. After falling in love with her, Rick considers changing his career and lifestyle.",
+  "popularity": 3.6669,
+  "poster_path": "/u8vhmXoJhUfc7iVXO3VEskXDKgK.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1976-07-23",
+  "revenue": 5400000,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every girl's summer dream.",
+  "title": "Lifeguard",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 33
+}

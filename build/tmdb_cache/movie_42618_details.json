@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/6WxX5d90NVYyFUciyn4KxaCPSSg.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 42618,
+  "imdb_id": "tt0065054",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sweet Charity",
+  "overview": "Taxi dancer Charity continues to have faith in the human race despite apparently endless disappointments at its hands, and hope that she will finally meet the nice young man to romance her away from her sleazy life. Maybe, just maybe, handsome Oscar will be the one to do it.",
+  "popularity": 3.3139,
+  "poster_path": "/wYYsAxhU1XgzkNa7jOsVGWROSB2.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1969-02-25",
+  "revenue": 20000000,
+  "runtime": 153,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love is what it's all about!",
+  "title": "Sweet Charity",
+  "video": false,
+  "vote_average": 6.884,
+  "vote_count": 86
+}

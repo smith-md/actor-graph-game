@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/5oRRWumsuTrvMlBc6Mx9fChx3t2.jpg",
+  "belongs_to_collection": null,
+  "budget": 16500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 33166,
+  "imdb_id": "tt0064253",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Downhill Racer",
+  "overview": "An ambitious young skier, determined to break all existing records, is contemptuous of the teamwork advocated by the US coach when they go to Europe for the Olympics.",
+  "popularity": 5.1021,
+  "poster_path": "/fJDQDmJDiEzRROph0T1ace8oyNK.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 316,
+      "logo_path": "/AjLnvitW6m0n1wp3ElezITDDb4x.png",
+      "name": "Wildwood Enterprises",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1969-11-06",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "How fast must a man go to get from where he's at?",
+  "title": "Downhill Racer",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 97
+}

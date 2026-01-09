@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/oGmjtyXNIjVAKjIv9EXYHQFjxHh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 45874,
+  "imdb_id": "tt0073559",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Posse",
+  "overview": "A tough marshal with political ambitions leads an elite posse to capture a notorious train robber and his gang.",
+  "popularity": 3.2531,
+  "poster_path": "/vmgcz6KtHeRwAz60S3hPGNweItS.jpg",
+  "production_companies": [
+    {
+      "id": 611,
+      "logo_path": null,
+      "name": "Bryna Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1975-06-04",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "\"Posse\" begins like most Westerns. It ends like none of them. It will knock you off your horse.",
+  "title": "Posse",
+  "video": false,
+  "vote_average": 6.034,
+  "vote_count": 74
+}

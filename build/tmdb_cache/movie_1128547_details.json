@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": "/vYu0TDdMeDJs4T1sJaxI98WQ4t4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://greenwichentertainment.com/film/islands/",
+  "id": 1128547,
+  "imdb_id": "tt27796126",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "en",
+  "original_title": "Islands",
+  "overview": "In this twisty thriller, a tennis coach at a tropical resort finds himself at the center of a missing persons mystery. Tom teaches tennis during the day and parties at night. When an enigmatic tourist arrives, Tom is unable to shake the feeling he has met her before. Tension and attraction grow, until her husband disappears, and the police suspect Tom.",
+  "popularity": 4.774,
+  "poster_path": "/a5CewSvoMsfAdg093AKzovKfVHd.jpg",
+  "production_companies": [
+    {
+      "id": 129014,
+      "logo_path": "/prEkjaZmlInntYbwTCJvgpAzd8E.png",
+      "name": "Leonine Studios",
+      "origin_country": "DE"
+    },
+    {
+      "id": 20037,
+      "logo_path": "/6W92BtQOutAi9KFp0aeb41RBH95.png",
+      "name": "Augenschein Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1747,
+      "logo_path": "/9u2Nl4JSXb43M97wy4zqUu5vlS7.png",
+      "name": "Schiwago Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 20277,
+      "logo_path": "/aomeUwZLIBjGXHfuZq7HTVk7UNb.png",
+      "name": "Protagonist Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 149326,
+      "logo_path": "/hP9R5eLyaKOHbNNFjt4hnWrNDKA.png",
+      "name": "Greenwich Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-05-08",
+  "revenue": 0,
+  "runtime": 121,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Islands",
+  "video": false,
+  "vote_average": 6.197,
+  "vote_count": 33
+}

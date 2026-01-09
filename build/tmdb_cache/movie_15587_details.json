@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/6HEwXKpci1B1cEPQdG3CBNAUNHt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 15587,
+  "imdb_id": "tt1328642",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Safari",
+  "overview": "Richard Dacier owns a tour agency specialized on organizing safaris for European tourists eager to confront the African wild life. Actually, he took the job after his father and never went into the savanna by himself. As he owes big money to some mobster, he is compelled to convey a fake tourist, with a suspicious suitcase, toward Mozambic. To avoid suspicion from the authorities, he is supposed to tour a group of tourists as usual. The only problem - he is completely unexperienced as a guide!",
+  "popularity": 2.348,
+  "poster_path": "/k3YyJ8SCHjYiVtL8dXn0sQzcEzU.jpg",
+  "production_companies": [
+    {
+      "id": 616,
+      "logo_path": "/aeBPwUMUqIOFnt3Fxv9fC91hBuq.png",
+      "name": "Eskwad",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7981,
+      "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+      "name": "Pathé",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1115,
+      "logo_path": "/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png",
+      "name": "M6 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2009-04-01",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Safari",
+  "video": false,
+  "vote_average": 4.622,
+  "vote_count": 341
+}

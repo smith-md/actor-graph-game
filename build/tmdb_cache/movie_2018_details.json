@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/h6D695KwxdjFWteDwZ6LHOfICr6.jpg",
+  "belongs_to_collection": null,
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 2018,
+  "imdb_id": "tt0209475",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Wedding Planner",
+  "overview": "San Francisco's premiere wedding planner, Mary Fiore is rescued from an accident by the man of her dreams, pediatrician Steve Edison, only to find he is the fiancé of her latest client. As Mary continues making their wedding arrangements, she and Steve are put into a string of uncomfortable situations that force them to face their mutual attraction.",
+  "popularity": 4.6376,
+  "poster_path": "/2dMX1NIgT4JEHqck5eflp6tRaCc.jpg",
+  "production_companies": [
+    {
+      "id": 870,
+      "logo_path": null,
+      "name": "Tapestry Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 869,
+      "logo_path": null,
+      "name": "Dee Gee Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 65403,
+      "logo_path": null,
+      "name": "IMF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 763,
+      "logo_path": "/mCnIVkImjm8rUxIpGR5NgrGlIYL.png",
+      "name": "Intermedia Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 34207,
+      "logo_path": null,
+      "name": "Prufrock Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 12474,
+      "logo_path": null,
+      "name": "J&M Entertainment",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2001-01-26",
+  "revenue": 94700000,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A romantic comedy about love, destiny and other events you just can't plan for.",
+  "title": "The Wedding Planner",
+  "video": false,
+  "vote_average": 5.926,
+  "vote_count": 1779
+}

@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/6UKhOhwNhfC5CBohere70svnKcH.jpg",
+  "belongs_to_collection": {
+    "id": 1567895,
+    "name": "Maddock Horror Comedy Universe",
+    "poster_path": "/yL2JTaHsg8cKn4NTq11rBXr7UYL.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1196364,
+  "imdb_id": "tt28102562",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "थम्मा",
+  "overview": "Two destined lovers battle supernatural forces, family ties, and nature itself to defend their forbidden romance in a mystical world where ancient powers and prophecies threaten to keep them apart.",
+  "popularity": 8.5986,
+  "poster_path": "/udkbDwBbysCGEydt0FHnl9dVO2k.jpg",
+  "production_companies": [
+    {
+      "id": 115477,
+      "logo_path": "/6CkBjiSlfAJFaMjwB44ILbOhFuV.png",
+      "name": "Jio Studios",
+      "origin_country": "IN"
+    },
+    {
+      "id": 86699,
+      "logo_path": null,
+      "name": "Maddock Films",
+      "origin_country": "IN"
+    },
+    {
+      "id": 73540,
+      "logo_path": "/6lKwF4fY6mPjt35FC6daGuQ6VxM.png",
+      "name": "Saregama Productions",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2025-10-21",
+  "revenue": 0,
+  "runtime": 149,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Thamma",
+  "video": false,
+  "vote_average": 6.638,
+  "vote_count": 40
+}

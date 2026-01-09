@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/uKYonNS8B67oYgjGIMKMCgYOnER.jpg",
+  "belongs_to_collection": null,
+  "budget": 8716125,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.signature-entertainment.co.uk/film/the-partisan/",
+  "id": 1159939,
+  "imdb_id": "tt27664301",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Partisan",
+  "overview": "A Polish spy working for the British during World War II is betrayed and compromised in Warsaw, leaving her no other choice but to descend into a dangerous world of treachery and deception in order to survive.",
+  "popularity": 5.8789,
+  "poster_path": "/a6AMhzCY0vlnO9KSbawvGg7c2y.jpg",
+  "production_companies": [
+    {
+      "id": 71742,
+      "logo_path": null,
+      "name": "Sisyphus",
+      "origin_country": ""
+    },
+    {
+      "id": 186090,
+      "logo_path": null,
+      "name": "FDR Studio",
+      "origin_country": "PL"
+    },
+    {
+      "id": 117747,
+      "logo_path": "/brD72VA95qgjCtGx0hJEAVUeldW.png",
+      "name": "Media Finance Capital",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-10-03",
+  "revenue": 2224,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Deceive. Betray. Survive.",
+  "title": "The Partisan",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 24
+}

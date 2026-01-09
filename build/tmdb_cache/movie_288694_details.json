@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/aa3ptpaJNz4wnn4oyixXUzCjO3k.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 288694,
+  "imdb_id": "tt3893456",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La trattativa",
+  "overview": "What are we talking about when we talk about negotiations? About the state's concessions to the Mafia in exchange for ending the massacres? About who assassinated Falcone and Borsellino? Of the eternal coexistence between the Mafia and politics? Between the mafia and the church? Between the Mafia and law enforcement? Or is there more? A group of actors enacts the most relevant episodes of the affair known as the Mafia-state negotiation, impersonating mobsters, secret service agents, high officials, magistrates, victims and murderers, Freemasons, honest and courageous people, and courageous people up to a point. Thus one of the most intricate events in our history becomes an exciting tale.",
+  "popularity": 4.3001,
+  "poster_path": "/ta8xdOBNhytQM409QWr8etJ9KIz.jpg",
+  "production_companies": [
+    {
+      "id": 225,
+      "logo_path": "/oTRPUgdpWotA7Hi5gpioQO0MEyk.png",
+      "name": "BiM Distribuzione",
+      "origin_country": "IT"
+    },
+    {
+      "id": 6037,
+      "logo_path": null,
+      "name": "Secol Superbo e Sciocco Produzioni",
+      "origin_country": ""
+    },
+    {
+      "id": 30987,
+      "logo_path": null,
+      "name": "QMedia",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2014-10-02",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "La trattativa",
+  "video": false,
+  "vote_average": 7.488,
+  "vote_count": 83
+}

@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/3GTGFqZU2pXWg5fZPxDLNDdao28.jpg",
+  "belongs_to_collection": {
+    "id": 52985,
+    "name": "Wrong Turn Collection",
+    "poster_path": "/dtfQY5ZxvdHNG4HqNDy0ifwk1q6.jpg",
+    "backdrop_path": "/soWEzM8FooUK30RMcD16ryWrfil.jpg"
+  },
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 125509,
+  "imdb_id": "tt2375779",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wrong Turn 5: Bloodlines",
+  "overview": "A small West Virginia town is hosting the legendary Mountain Man Festival on Halloween, where throngs of costumed party goers gather for a wild night of music and mischief. But an inbred family of hillbilly cannibals kill the fun when they trick and treat themselves to a group of visiting college students.",
+  "popularity": 7.9785,
+  "poster_path": "/8fABep8FSRpeo8Ea4j3rfnoVgkg.jpg",
+  "production_companies": [
+    {
+      "id": 491,
+      "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+      "name": "Summit Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 47,
+      "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 29185,
+      "logo_path": "/3SHlavyUJiZIn4ZS5h3B9ggP0Cf.png",
+      "name": "BUFO",
+      "origin_country": "BG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "BG",
+      "name": "Bulgaria"
+    }
+  ],
+  "release_date": "2012-10-18",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The inbred hillbillies are back!",
+  "title": "Wrong Turn 5: Bloodlines",
+  "video": false,
+  "vote_average": 5.467,
+  "vote_count": 1012
+}

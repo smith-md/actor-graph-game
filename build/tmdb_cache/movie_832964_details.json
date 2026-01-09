@@ -1,0 +1,126 @@
+{
+  "adult": false,
+  "backdrop_path": "/9SvSJJSgufM76vn9ddB0YMF6lzs.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 832964,
+  "imdb_id": "tt5112584",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Lee",
+  "overview": "The true story of photographer Elizabeth \"Lee\" Miller, a fashion model who became an acclaimed war correspondent for Vogue magazine during World War II.",
+  "popularity": 5.9675,
+  "poster_path": "/zdNWyuim8gpJHe1LtKaDrs43dWz.jpg",
+  "production_companies": [
+    {
+      "id": 181540,
+      "logo_path": "/63KGHkv2ir0WdhIKuVXDltukmTT.png",
+      "name": "Brouhaha Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 212408,
+      "logo_path": "/63KGHkv2ir0WdhIKuVXDltukmTT.png",
+      "name": "Brouhaha Entertainment",
+      "origin_country": "AU"
+    },
+    {
+      "id": 154342,
+      "logo_path": null,
+      "name": "Juggle Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 215272,
+      "logo_path": null,
+      "name": "55 Films",
+      "origin_country": ""
+    },
+    {
+      "id": 204381,
+      "logo_path": null,
+      "name": "Vogue Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 52059,
+      "logo_path": "/rajoRd4i5xJKHAqFyeflFBMUBZM.png",
+      "name": "RocketScience",
+      "origin_country": "GB"
+    },
+    {
+      "id": 215270,
+      "logo_path": null,
+      "name": "MS Participations",
+      "origin_country": "LU"
+    },
+    {
+      "id": 117455,
+      "logo_path": null,
+      "name": "Sky Original Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 215271,
+      "logo_path": null,
+      "name": "Pasaca Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    }
+  ],
+  "release_date": "2024-09-12",
+  "revenue": 23508220,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some wounds you cannot see.",
+  "title": "Lee",
+  "video": false,
+  "vote_average": 7.03,
+  "vote_count": 557
+}

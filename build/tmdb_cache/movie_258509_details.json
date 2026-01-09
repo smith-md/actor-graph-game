@@ -1,0 +1,98 @@
+{
+  "adult": false,
+  "backdrop_path": "/jUeUWPkq7rDIjrDsm0tWVuoTEwq.jpg",
+  "belongs_to_collection": {
+    "id": 167613,
+    "name": "Alvin and the Chipmunks Collection",
+    "poster_path": "/iNNpXUsi6tFTLT1M7U20xDMFSwk.jpg",
+    "backdrop_path": "/oLbsrl70GSwntrXxRxusfeLid0F.jpg"
+  },
+  "budget": 90000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "http://www.foxmovies.com/movies/alvin-and-the-chipmunks-the-road-chip",
+  "id": 258509,
+  "imdb_id": "tt2974918",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Alvin and the Chipmunks: The Road Chip",
+  "overview": "Through a series of misunderstandings, Alvin, Simon and Theodore come to believe that Dave is going to propose to his new girlfriend in New York City - and dump them. They have three days to get to him and stop the proposal.",
+  "popularity": 4.2859,
+  "poster_path": "/16OcuuW5z509WILR6BmscNdXgw0.jpg",
+  "production_companies": [
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 711,
+      "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+      "name": "Fox 2000 Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 508,
+      "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 10930,
+      "logo_path": "/gTl5zq214ifd2qW7sp7to0aHS6C.png",
+      "name": "Bagdasarian Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 5219,
+      "logo_path": null,
+      "name": "Sunswept Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-12-17",
+  "revenue": 233755553,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fast & furry-ous",
+  "title": "Alvin and the Chipmunks: The Road Chip",
+  "video": false,
+  "vote_average": 6.025,
+  "vote_count": 1728
+}

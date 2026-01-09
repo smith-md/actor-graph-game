@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/aVMo2axHMp1Nl07C9RKGTXqYVv9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 48350,
+  "imdb_id": "tt0067630",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Psychomania",
+  "overview": "A gang of young people call themselves the Living Dead. They terrorize the population from their small town. After an agreement with the devil, if they kill themselves firmly believing in it, they will survive and gain eternal life. Following their leader, they commit suicide one after the other, but things don't necessarily turn out as expected...",
+  "popularity": 2.9714,
+  "poster_path": "/698hIkRSMmZzY2trCADbgzvpVXx.jpg",
+  "production_companies": [
+    {
+      "id": 13947,
+      "logo_path": null,
+      "name": "Benmar Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1973-03-01",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Dead Still Ride... the Living Howl in Terror!",
+  "title": "Psychomania",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 76
+}

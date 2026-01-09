@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/g6wufgtycJCP508tlC3crSYFCgC.jpg",
+  "belongs_to_collection": null,
+  "budget": 33000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "https://www.crymachofilm.com",
+  "id": 749274,
+  "imdb_id": "tt1924245",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cry Macho",
+  "overview": "A one-time rodeo star and washed-up horse breeder takes a job from an ex-boss to bring the man's young son home from Mexico.",
+  "popularity": 4.1051,
+  "poster_path": "/esrzqq7Ud8yoslFTu3J5HqTJVOQ.jpg",
+  "production_companies": [
+    {
+      "id": 171,
+      "logo_path": "/bqLWwuNCHcY3IjB5e4o29h7l80D.png",
+      "name": "Malpaso Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 16311,
+      "logo_path": null,
+      "name": "ASR Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-09-16",
+  "revenue": 16510734,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A story of being lost... and found.",
+  "title": "Cry Macho",
+  "video": false,
+  "vote_average": 5.949,
+  "vote_count": 1089
+}

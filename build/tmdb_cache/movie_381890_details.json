@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/Afw7y3RSNCM6hmJmIFdGpoNjNc6.jpg",
+  "belongs_to_collection": null,
+  "budget": 60720000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 381890,
+  "imdb_id": "tt4701660",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "美人鱼",
+  "overview": "A playboy business tycoon, Liu Xuan, purchases the Green Gulf, a wildlife reserve, for a sea reclamation project, and uses sonar technology to get rid of the sea life in the area. Unknown to him, the Green Gulf is the home of merpeople, and the sonar has caused many of them to succumb to illness or die. Xuan's business ventures in the area are threatened when he crosses paths with the mermaid, Shan, who is sent to avenge her people.",
+  "popularity": 4.3987,
+  "poster_path": "/8YVB8VxQqx3J1FtOVvoHybBKNPS.jpg",
+  "production_companies": [
+    {
+      "id": 14714,
+      "logo_path": "/dSHaVKtBCpMU5VP9wMbTkqov62i.png",
+      "name": "China Film Group Corporation",
+      "origin_country": "CN"
+    },
+    {
+      "id": 86767,
+      "logo_path": null,
+      "name": "Alpha Pictures",
+      "origin_country": "HK"
+    },
+    {
+      "id": 3477,
+      "logo_path": null,
+      "name": "Star Overseas",
+      "origin_country": "HK"
+    },
+    {
+      "id": 170423,
+      "logo_path": "/1cpoBwG12b9ypfPBd2ltZO9e60I.png",
+      "name": "Shanghai New Culture Media Group Co Ltd",
+      "origin_country": "CN"
+    },
+    {
+      "id": 17818,
+      "logo_path": "/tqImejhMUsOuuKCX2cySzaO7QTj.png",
+      "name": "Beijing Enlight Pictures",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2016-02-08",
+  "revenue": 553810228,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Half Fish, Half Human, 100% Assassin.",
+  "title": "The Mermaid",
+  "video": false,
+  "vote_average": 6.536,
+  "vote_count": 468
+}

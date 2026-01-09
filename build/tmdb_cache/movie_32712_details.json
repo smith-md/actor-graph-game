@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/qMjl4SxRKmY1wKA4hXAn1dr0nIk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 32712,
+  "imdb_id": "tt0118823",
+  "origin_country": [
+    "LT"
+  ],
+  "original_language": "lt",
+  "original_title": "A casa",
+  "overview": "A moving world of spirits and ghosts, condemned to brush against one another without really meeting since they have all emerged from a single perpetual dream: that of a young man who no longer wants to wake up, immersed as he is in this world of fascinating spectres.",
+  "popularity": 3.7248,
+  "poster_path": "/vqPr7qnM3J2XoXrOsr3ZmSOY0ZE.jpg",
+  "production_companies": [
+    {
+      "id": 11143,
+      "logo_path": null,
+      "name": "Madragoa Filmes",
+      "origin_country": "PT"
+    },
+    {
+      "id": 6584,
+      "logo_path": null,
+      "name": "Gemini Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "LT",
+      "name": "Lithuania"
+    },
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "1997-10-01",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Lithuanian",
+      "iso_639_1": "lt",
+      "name": "Lietuvių"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The House",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 28
+}

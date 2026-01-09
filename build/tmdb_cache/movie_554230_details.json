@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": "/6jRHaYJyje5RNS3L353udrPU3ME.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.netflix.com/TheLostDaughter",
+  "id": 554230,
+  "imdb_id": "tt9100054",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Lost Daughter",
+  "overview": "A woman's seaside vacation takes a dark turn when her obsession with a young mother forces her to confront secrets from her past.",
+  "popularity": 2.1337,
+  "poster_path": "/t1oLNRFixpFOVsyz1HCqCUW3wiW.jpg",
+  "production_companies": [
+    {
+      "id": 100640,
+      "logo_path": "/5BR67T28TVm2UMH8GCRDftafsaJ.png",
+      "name": "Endeavor Content",
+      "origin_country": "US"
+    },
+    {
+      "id": 129008,
+      "logo_path": null,
+      "name": "Samuel Marshall Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 117747,
+      "logo_path": "/brD72VA95qgjCtGx0hJEAVUeldW.png",
+      "name": "Media Finance Capital",
+      "origin_country": "GB"
+    },
+    {
+      "id": 19246,
+      "logo_path": "/4zrEZfTf94tyG4wRB599gRS0reU.png",
+      "name": "Faliro House Productions",
+      "origin_country": "GR"
+    },
+    {
+      "id": 24662,
+      "logo_path": "/pME6OvhHDJPU96MthlqBolVoimO.png",
+      "name": "Pie Films",
+      "origin_country": "IL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    },
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-12-15",
+  "revenue": 703281,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Being a mother is a crushing responsibility.",
+  "title": "The Lost Daughter",
+  "video": false,
+  "vote_average": 6.468,
+  "vote_count": 1061
+}

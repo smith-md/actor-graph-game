@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/sSQRFaqr1onrpS4tQiRgYJCzAeY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 25241,
+  "imdb_id": "tt0075261",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Squirm",
+  "overview": "A violent electrical storm topples power lines into the rain soaked earth that is home for an aggressive breed of worms. The high voltage causes the worms to mutate into larger, hostile hordes of man-eating worms that lie in wait for the residents of Fly Creek.",
+  "popularity": 4.1326,
+  "poster_path": "/j9mNz3y3UeGQydqBKBhcIPk5l6P.jpg",
+  "production_companies": [
+    {
+      "id": 13099,
+      "logo_path": null,
+      "name": "Squirm Company",
+      "origin_country": ""
+    },
+    {
+      "id": 9266,
+      "logo_path": "/lRinQ7scVye5N8qkUIoCB4QXbRh.png",
+      "name": "American International Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1976-07-30",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This was the night of the CRAWLING TERROR!",
+  "title": "Squirm",
+  "video": false,
+  "vote_average": 4.901,
+  "vote_count": 126
+}

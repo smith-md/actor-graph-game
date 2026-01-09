@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/rNxqquM6jUrm9rIBGtHc2NevC7y.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 16299,
+  "imdb_id": "tt0117768",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Stupids",
+  "overview": "An incredibly dull-witted family unknowingly stumble upon an illegal weapons deal while on the trail of their \"stolen\" garbage.",
+  "popularity": 2.7162,
+  "poster_path": "/uR0EPkE66y2DU21NOZAu6xtfpQL.jpg",
+  "production_companies": [
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 11308,
+      "logo_path": "/txpvD9MPdBfC7B1Z9qn0MHfzyLV.png",
+      "name": "Savoy Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 364,
+      "logo_path": null,
+      "name": "The Rank Organisation",
+      "origin_country": "GB"
+    },
+    {
+      "id": 266638,
+      "logo_path": null,
+      "name": "Landis/Belzberg Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-08-08",
+  "revenue": 2491989,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "As American as apple pie and twice as smart.",
+  "title": "The Stupids",
+  "video": false,
+  "vote_average": 4.768,
+  "vote_count": 82
+}

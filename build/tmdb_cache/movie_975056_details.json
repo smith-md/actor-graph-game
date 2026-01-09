@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/jwmswCW3U8Uh0wEo46psJpgXejD.jpg",
+  "belongs_to_collection": null,
+  "budget": 50000000,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.angel.com/movies/cabrini",
+  "id": 975056,
+  "imdb_id": "tt14351082",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cabrini",
+  "overview": "Italian immigrant Francesca Cabrini arrives in 1889 New York City and is greeted by disease, crime, and impoverished children. Cabrini sets off on a daring mission to convince the hostile mayor to secure housing and healthcare for society's most vulnerable. With broken English and poor health, Cabrini uses her entrepreneurial mind to build an empire of hope unlike anything the world had ever seen.",
+  "popularity": 5.7252,
+  "poster_path": "/rBiHiN8W4BqMFrDozemzkof7GmF.jpg",
+  "production_companies": [
+    {
+      "id": 90508,
+      "logo_path": null,
+      "name": "Santa Fe Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 41656,
+      "logo_path": "/uNc0pcKrnzqPRdRqQOpewbXPnLV.png",
+      "name": "Lupin Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 216977,
+      "logo_path": null,
+      "name": "Lodigiano Film Development",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-03-07",
+  "revenue": 20592796,
+  "runtime": 142,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Remember her name.",
+  "title": "Cabrini",
+  "video": false,
+  "vote_average": 7.845,
+  "vote_count": 145
+}

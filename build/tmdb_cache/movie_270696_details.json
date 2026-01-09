@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 270696,
+  "imdb_id": "tt2634384",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Tru Love",
+  "overview": "A lesbian with commitment issues befriends a widowed mother who is visiting her workaholic daughter.",
+  "popularity": 4.4548,
+  "poster_path": "/snzHdjeXBQMp1uO3RsWDQj0Yui4.jpg",
+  "production_companies": [
+    {
+      "id": 41434,
+      "logo_path": null,
+      "name": "Tom Girl Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2013-10-04",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When love finds you, rules and roles don't apply.",
+  "title": "Tru Love",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 25
+}

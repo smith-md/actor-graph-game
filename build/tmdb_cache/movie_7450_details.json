@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/wfebvjrep7sV80fwyEdpaGwrsO8.jpg",
+  "belongs_to_collection": null,
+  "budget": 75000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 7450,
+  "imdb_id": "tt0120913",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Titan A.E.",
+  "overview": "A young man finds out that he holds the key to restoring hope and ensuring survival for the human race, while an alien species called the Drej are bent on mankind's destruction.",
+  "popularity": 3.4793,
+  "poster_path": "/el2iHk3LTJWfEnwrvcRkvWY501G.jpg",
+  "production_companies": [
+    {
+      "id": 11050,
+      "logo_path": null,
+      "name": "David Kirschner Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 211613,
+      "logo_path": null,
+      "name": "Gary Goldman Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 11749,
+      "logo_path": "/5AzTeZkSCFhiGZ86g2nz8SAHtgy.png",
+      "name": "20th Century Fox Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-06-16",
+  "revenue": 36754634,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Get ready for the human race.",
+  "title": "Titan A.E.",
+  "video": false,
+  "vote_average": 6.599,
+  "vote_count": 1146
+}

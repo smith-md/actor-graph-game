@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/45kRTSFsRqOmmkSVJjgOE0XVPEQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.hulu.com/movie/c8bde9de-d937-4fca-b56c-50ba25be5c53",
+  "id": 1317218,
+  "imdb_id": "tt32916093",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mr. Crocket",
+  "overview": "A single mother thinks she's found the key to calming her child down – a VHS copy of a strange children's program named Mr. Crocket's World. However, a darker, bloodier secret waits to invade their home from inside the tape.",
+  "popularity": 5.1349,
+  "poster_path": "/t5TV6Y8yKZXTtg8Abf4uBGVH9mD.jpg",
+  "production_companies": [
+    {
+      "id": 232104,
+      "logo_path": "/8Dn8Dz4WYCjooGlTV0zojBY9SNU.png",
+      "name": "WorthenBrooks",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-09-26",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Your kid's best friend. Your worst nightmare.",
+  "title": "Mr. Crocket",
+  "video": false,
+  "vote_average": 5.193,
+  "vote_count": 109
+}

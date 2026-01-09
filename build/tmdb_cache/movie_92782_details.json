@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/4zdVXXmqAV55S4TKR8xseUQaFcK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 92782,
+  "imdb_id": "tt0066845",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Blood Legacy",
+  "overview": "In order to qualify to inherit the family fortune, the four heirs must spend the night in the family estate. However, during the night someone starts killing them off.",
+  "popularity": 2.5164,
+  "poster_path": "/gB9NTFSAhzlBVcKgV1QEaNxfH1U.jpg",
+  "production_companies": [
+    {
+      "id": 64962,
+      "logo_path": null,
+      "name": "Studio West Film Distributors",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1971-03-17",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Blood Legacy",
+  "video": false,
+  "vote_average": 3.429,
+  "vote_count": 21
+}

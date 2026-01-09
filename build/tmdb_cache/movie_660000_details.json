@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": "/gsqJEai2EvRfuMzxSb6uSgRwrRN.jpg",
+  "belongs_to_collection": null,
+  "budget": 20800000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 660000,
+  "imdb_id": "tt10505316",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Illusions perdues",
+  "overview": "Lucien de Rubempré, a young, lower-class poet, leaves his family's printing house for Paris. Soon, he learns the dark side of the arts business as he tries to stay true to his dreams.",
+  "popularity": 4.0036,
+  "poster_path": "/zV0ZeO2ajYzoE0OTtKZNfX3MKlY.jpg",
+  "production_companies": [
+    {
+      "id": 77552,
+      "logo_path": "/3aeDaei9tONEGMvWm7W2TKxa1er.png",
+      "name": "Curiosa Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 75242,
+      "logo_path": "/hrZzmOGhzhv473sIInHtSNwQOhT.png",
+      "name": "Pictanovo",
+      "origin_country": "FR"
+    },
+    {
+      "id": 19037,
+      "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+      "name": "uMedia",
+      "origin_country": "BE"
+    },
+    {
+      "id": 9,
+      "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+      "name": "Gaumont",
+      "origin_country": "FR"
+    },
+    {
+      "id": 117048,
+      "logo_path": null,
+      "name": "Gabriel Inc.",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2021-10-20",
+  "revenue": 8600000,
+  "runtime": 149,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Criticism is easy, and art is difficult",
+  "title": "Lost Illusions",
+  "video": false,
+  "vote_average": 7.417,
+  "vote_count": 529
+}

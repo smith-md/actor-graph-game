@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/o55iCtiu26j1g8SI2JUWy9hFYox.jpg",
+  "belongs_to_collection": {
+    "id": 320064,
+    "name": "El pico - Colección",
+    "poster_path": "/kcjg2UlqqUqv232gjcLtSWZHS2x.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 98596,
+  "imdb_id": "tt0086104",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "El pico",
+  "overview": "Paco, the teenage son of a Civil Guard commander in Basque Country, becomes addicted to heroin.",
+  "popularity": 5.5144,
+  "poster_path": "/mlfN47IL2wBBJEXHqM5xViACX9G.jpg",
+  "production_companies": [
+    {
+      "id": 29248,
+      "logo_path": null,
+      "name": "Ópalo Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1983-09-04",
+  "revenue": 1334173,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Overdose",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 49
+}

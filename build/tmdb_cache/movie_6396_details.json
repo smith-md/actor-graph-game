@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/wihjnnTf6C2VReQgKKINCdzfjby.jpg",
+  "belongs_to_collection": {
+    "id": 592064,
+    "name": "SLC Punk Collection",
+    "poster_path": "/7VkO3Nkc1XTRLO25aULsYfhmdY1.jpg",
+    "backdrop_path": "/1h51ThbIMANGsrh7PTBsekJWILT.jpg"
+  },
+  "budget": 600000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 6396,
+  "imdb_id": "tt0133189",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "SLC Punk",
+  "overview": "Two former geeks become 1980s punks, then party and go to concerts while deciding what to do with their lives.",
+  "popularity": 4.8052,
+  "poster_path": "/7u3IZPuIOPjICi55K7cJgzV3e3B.jpg",
+  "production_companies": [
+    {
+      "id": 2081,
+      "logo_path": null,
+      "name": "Beyond Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 35304,
+      "logo_path": null,
+      "name": "Blue Tulip Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-09-24",
+  "revenue": 299200,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "God bless America... they're going to need it.",
+  "title": "SLC Punk",
+  "video": false,
+  "vote_average": 7.106,
+  "vote_count": 414
+}

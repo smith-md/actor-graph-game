@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/ptwrDEMi22n9ejCA7DIs0igF7f4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 916728,
+  "imdb_id": "tt12616480",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Slingshot",
+  "overview": "An elite trio of astronauts aboard a years-long, possibly compromised mission to Saturn's moon Titan, gears up for a highly dangerous slingshot manoeuvre that will either catapult them to Titan or into deep space.",
+  "popularity": 5.1547,
+  "poster_path": "/e6cCBe7DQOn9OFdFJ0eyVwSC8hR.jpg",
+  "production_companies": [
+    {
+      "id": 86382,
+      "logo_path": "/yzQivYdNoLd95XtP5ccspiVMDeM.png",
+      "name": "Bluestone Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 166380,
+      "logo_path": "/w7jeLWAWm7lPzfIWDjYVIupbHNt.png",
+      "name": "Filmsquad",
+      "origin_country": "HU"
+    },
+    {
+      "id": 215413,
+      "logo_path": null,
+      "name": "Széchenyi Funds",
+      "origin_country": "HU"
+    },
+    {
+      "id": 239194,
+      "logo_path": "/qfSRBQK9Kmnt8JqAKaFKqIK4dJk.png",
+      "name": "WME Independent",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-30",
+  "revenue": 0,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some fears are darker than space.",
+  "title": "Slingshot",
+  "video": false,
+  "vote_average": 6.176,
+  "vote_count": 213
+}

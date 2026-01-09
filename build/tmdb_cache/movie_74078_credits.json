@@ -1,0 +1,116 @@
+{
+  "id": 74078,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 382502,
+      "known_for_department": "Acting",
+      "name": "Nora Salinas",
+      "original_name": "Nora Salinas",
+      "popularity": 1.1053,
+      "profile_path": null,
+      "cast_id": 8,
+      "character": "Clara",
+      "credit_id": "52fe48bbc3a368484e107e65",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 570977,
+      "known_for_department": "Acting",
+      "name": "Rodrigo Abed",
+      "original_name": "Rodrigo Abed",
+      "popularity": 0.8032,
+      "profile_path": "/9RUWTAbmt5TKOdnlN5nY5MoJ0uu.jpg",
+      "cast_id": 9,
+      "character": "Julian",
+      "credit_id": "52fe48bbc3a368484e107e69",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 570978,
+      "known_for_department": "Acting",
+      "name": "Bryan Rangel",
+      "original_name": "Bryan Rangel",
+      "popularity": 0.2953,
+      "profile_path": null,
+      "cast_id": 10,
+      "character": "Juliancito",
+      "credit_id": "52fe48bbc3a368484e107e6d",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1482316,
+      "known_for_department": "Acting",
+      "name": "Joana Brito",
+      "original_name": "Joana Brito",
+      "popularity": 0.2111,
+      "profile_path": null,
+      "cast_id": 12,
+      "character": "Sagrario",
+      "credit_id": "587a8b259251413e9200685e",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 139590,
+      "known_for_department": "Acting",
+      "name": "Marta Aura",
+      "original_name": "Marta Aura",
+      "popularity": 2.1795,
+      "profile_path": "/rWRVYu7xSlM5jUkJUgH2LoHOSWV.jpg",
+      "cast_id": 16,
+      "character": "",
+      "credit_id": "6563c067706e560138c42e96",
+      "order": 4
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 941437,
+      "known_for_department": "Directing",
+      "name": "Paco del Toro",
+      "original_name": "Paco del Toro",
+      "popularity": 1.2139,
+      "profile_path": "/a9iIfHVVGcUrc8yof7sR703aW8Z.jpg",
+      "credit_id": "587a8b4d9251413f460065af",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1374723,
+      "known_for_department": "Writing",
+      "name": "Verónica Maldonado",
+      "original_name": "Verónica Maldonado",
+      "popularity": 0.1893,
+      "profile_path": null,
+      "credit_id": "587a8b819251413ecb00693a",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 941437,
+      "known_for_department": "Directing",
+      "name": "Paco del Toro",
+      "original_name": "Paco del Toro",
+      "popularity": 1.2139,
+      "profile_path": "/a9iIfHVVGcUrc8yof7sR703aW8Z.jpg",
+      "credit_id": "587a8b929251413e920068b2",
+      "department": "Writing",
+      "job": "Writer"
+    }
+  ]
+}

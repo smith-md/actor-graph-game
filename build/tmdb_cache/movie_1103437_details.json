@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/laHzfWJNkspyWGZ8wmKEQ8fO07A.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1103437,
+  "imdb_id": "tt27208407",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Please Don't Feed the Children",
+  "overview": "After a viral outbreak ravaged the country’s adult population, a group of orphans heads south in search of a new life, only to find themselves at the mercy of a deranged woman harboring a dangerous secret.",
+  "popularity": 44.8277,
+  "poster_path": "/GoIIdrjmXo587L2s2mqgMFvBIs.jpg",
+  "production_companies": [
+    {
+      "id": 196324,
+      "logo_path": null,
+      "name": "Perry Street Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 193291,
+      "logo_path": null,
+      "name": "BKStudios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 249889,
+      "logo_path": "/xnpCKW4QJnWMDEBo2c5mSoGhbjr.png",
+      "name": "Fieldhouse Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 120766,
+      "logo_path": "/yHuuJYoFfYunIQ5hohT1hGnXTJq.png",
+      "name": "Sugar23",
+      "origin_country": "US"
+    },
+    {
+      "id": 5056,
+      "logo_path": "/583ITs4w9sK31FnJwKiRwapTpzb.png",
+      "name": "Head Gear Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 25954,
+      "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology",
+      "origin_country": "GB"
+    },
+    {
+      "id": 19638,
+      "logo_path": "/ueSsb3nJfvu8utNO1linVypm2mv.png",
+      "name": "Altitude Film Entertainment",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-07-03",
+  "revenue": 55438,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Don't run. Don't scream. Don't break the rules",
+  "title": "Please Don't Feed the Children",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 48
+}

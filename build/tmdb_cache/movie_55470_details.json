@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/2x4wiLhhmuqm3bGN3vU1Yqgc5Ls.jpg",
+  "belongs_to_collection": {
+    "id": 126580,
+    "name": "One Missed Call Collection",
+    "poster_path": "/gzyRPYJz8UEKAhhzEqbDu53RkwY.jpg",
+    "backdrop_path": "/p5Vwy8xLo7AQqpNN0vlawQbqJDd.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 55470,
+  "imdb_id": "tt0978797",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "着信アリFinal",
+  "overview": "The timid, young Asuka is bullied by her classmates. When they embark on a class field trip to Korea, Asuka plans revenge by sending them a cursed phone message they can either pass on or die.",
+  "popularity": 3.5453,
+  "poster_path": "/u3CUkjgEAJoYpcI5MKhhOYnL3lM.jpg",
+  "production_companies": [
+    {
+      "id": 2073,
+      "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+      "name": "KADOKAWA",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3363,
+      "logo_path": "/sj3vD7n63bTCih7bcf6GnWvRf1Q.png",
+      "name": "MBS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6755,
+      "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+      "name": "Nippon Television Network Corporation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 7912,
+      "logo_path": "/lHHcuWiDOB0Ouz43Stoc1UiD088.png",
+      "name": "Sedic International",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9149,
+      "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+      "name": "Shogakukan",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1393,
+      "logo_path": "/lUACMATs6jcscXIrzNCQzbvNVN5.png",
+      "name": "TBS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1778,
+      "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+      "name": "dentsu",
+      "origin_country": "JP"
+    },
+    {
+      "id": 186172,
+      "logo_path": null,
+      "name": "CJ Entertainment Japan",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2006-06-24",
+  "revenue": 6669291,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The only way to live is pass the curse on, who you will forward it to?",
+  "title": "One Missed Call 3: Final",
+  "video": false,
+  "vote_average": 5.708,
+  "vote_count": 101
+}

@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/mr2LvZydvor6CDZhrpJLRYMCcBc.jpg",
+  "belongs_to_collection": null,
+  "budget": 25200000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.angel.com/tickets/king-of-kings",
+  "id": 1181107,
+  "imdb_id": "tt7967302",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "en",
+  "original_title": "The King of Kings",
+  "overview": "Charles Dickens tells his young son Walter the greatest story ever told, and what begins as a bedtime tale becomes a life-changing journey. Through vivid imagination, the boy walks alongside Jesus, witnessing His miracles, facing His trials, and understanding His ultimate sacrifice.",
+  "popularity": 5.091,
+  "poster_path": "/ccw7CCIAvcZV431CP7NhHAHuiHR.jpg",
+  "production_companies": [
+    {
+      "id": 101045,
+      "logo_path": "/zS0ickpMVfdgBsKqwxwrEmpajbt.png",
+      "name": "MOFAC",
+      "origin_country": "KR"
+    },
+    {
+      "id": 247807,
+      "logo_path": "/j39Tm15NC6vwIZzyUR9y42I4y2B.png",
+      "name": "GIANTSTEP",
+      "origin_country": "KR"
+    },
+    {
+      "id": 247808,
+      "logo_path": "/fw3oydqYP6BlzqqHEjBeaXgYso.png",
+      "name": "Blue Harbor Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 165435,
+      "logo_path": "/pDh2WDdOajWST9jlkFo6TOvETnB.png",
+      "name": "Angel Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-04-07",
+  "revenue": 80034876,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A father's greatest joy is raising his son.",
+  "title": "The King of Kings",
+  "video": false,
+  "vote_average": 8.5,
+  "vote_count": 125
+}

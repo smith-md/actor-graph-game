@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/1MXuehD1wUgV17TE3FE9iRMxc6z.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 409550,
+  "imdb_id": "tt5194226",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "SCOOP!",
+  "overview": "Shizuoka Miyakonojo is a middle-aged paparazzi photographer. His skills as a cameraman are good, but he gambles and is in debt. When he worked in the editorial department for weekly picture magazine 'Scoop!,' he landed numerous scoops. He now works as a freelance photographer and chases after celebrity scandals.  Shizuoka Miyakonojo works with Nobi Namekawa. She is a rookie reporter for 'Scoop!' and they land a scoop.",
+  "popularity": 2.7171,
+  "poster_path": "/zkwWaBhB9fhHa8iTwmEs9NEoskO.jpg",
+  "production_companies": [
+    {
+      "id": 14625,
+      "logo_path": "/kgDY8gC5UQ33IHDRTrheMfNsvXg.png",
+      "name": "Office Crescendo",
+      "origin_country": "JP"
+    },
+    {
+      "id": 80051,
+      "logo_path": null,
+      "name": "Gunpowder",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 14602,
+      "logo_path": "/t9eqx5QCHtu8LxxgYzivqrJAosp.png",
+      "name": "AMUSE",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9300,
+      "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+      "name": "TV Asahi",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2016-10-01",
+  "revenue": 0,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Get a big scoop or die. Target, focus and shoot!",
+  "title": "Scoop!",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 28
+}

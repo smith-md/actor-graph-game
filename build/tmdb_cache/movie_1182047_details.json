@@ -1,0 +1,155 @@
+{
+  "adult": false,
+  "backdrop_path": "/kv9xVrxfLpudBLyYf1QvLCpUQuy.jpg",
+  "belongs_to_collection": null,
+  "budget": 16000000,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.theapprenticemovie.com/",
+  "id": 1182047,
+  "imdb_id": "tt8368368",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Apprentice",
+  "overview": "A young Donald Trump, eager to make his name as a hungry scion of a wealthy family in 1970s New York, comes under the spell of Roy Cohn, the cutthroat attorney who would help create the Donald Trump we know today. Cohn sees in Trump the perfect protégé—someone with raw ambition, a hunger for success, and a willingness to do whatever it takes to win.",
+  "popularity": 4.5913,
+  "poster_path": "/549Hdul2BgPnZMhqFxp6npp2opr.jpg",
+  "production_companies": [
+    {
+      "id": 34886,
+      "logo_path": "/t5U3RqGBm8Hz1Le3g6TryKZ44Uy.png",
+      "name": "Gidden Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 5056,
+      "logo_path": "/583ITs4w9sK31FnJwKiRwapTpzb.png",
+      "name": "Head Gear Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 25954,
+      "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology",
+      "origin_country": "GB"
+    },
+    {
+      "id": 61011,
+      "logo_path": "/kDPeollsOtUtGqqEF4P29NwEjf5.png",
+      "name": "Scythia Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 64293,
+      "logo_path": "/lbYGnir9KeY8NyQZrUFZbf3QDej.png",
+      "name": "Profile Pictures",
+      "origin_country": "DK"
+    },
+    {
+      "id": 23459,
+      "logo_path": "/41KbJFe2xc1jQHyZCDFTyFbKInM.png",
+      "name": "Tailored Films",
+      "origin_country": "IE"
+    },
+    {
+      "id": 225876,
+      "logo_path": null,
+      "name": "Film Institute",
+      "origin_country": "DK"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 1898,
+      "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    },
+    {
+      "id": 52059,
+      "logo_path": "/rajoRd4i5xJKHAqFyeflFBMUBZM.png",
+      "name": "RocketScience",
+      "origin_country": "GB"
+    },
+    {
+      "id": 96310,
+      "logo_path": "/tBxSNuzARadiaBpIJ3qmdPG5BCz.png",
+      "name": "LB Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 108318,
+      "logo_path": "/jvRXArY2GnhDq7BsjxNCFOkWbp5.png",
+      "name": "AC Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 240814,
+      "logo_path": "/qSYjDmbR8sDzN16IiPmBsIyBkMd.png",
+      "name": "Rich Spirit",
+      "origin_country": "US"
+    },
+    {
+      "id": 254741,
+      "logo_path": "/iL3S1uGiHFXEjBIfsSJ6NaVzjui.png",
+      "name": "Wild 7 Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2024-10-09",
+  "revenue": 17271613,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An American horror story.",
+  "title": "The Apprentice",
+  "video": false,
+  "vote_average": 6.885,
+  "vote_count": 865
+}

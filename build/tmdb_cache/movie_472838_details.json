@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/pH2EN05Tie5NHbY5INeCSfwxMLB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.spf18.com",
+  "id": 472838,
+  "imdb_id": "tt7296862",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "SPF-18",
+  "overview": "Eighteen-year-old Penny Cooper spent years pining for heartthrob surfer Johnny Sanders Jr. before his father’s tragic death brought them closer together. But now high school is over, and when mysterious country musician Ash Baker shows up on the beach, Penny is torn.",
+  "popularity": 4.2847,
+  "poster_path": "/fFHgUWEfcIRUX9lbNKdwk55NYW8.jpg",
+  "production_companies": [
+    {
+      "id": 276802,
+      "logo_path": null,
+      "name": "Artery Industries",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-09-29",
+  "revenue": 0,
+  "runtime": 75,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "SPF-18",
+  "video": false,
+  "vote_average": 4.43,
+  "vote_count": 1058
+}

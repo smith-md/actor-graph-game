@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/bL3rgYFs0NTAoLBMpCBIJ7aX6hp.jpg",
+  "belongs_to_collection": null,
+  "budget": 4500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 11782,
+  "imdb_id": "tt0104684",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "辣手神探",
+  "overview": "A cop who loses his partner in a shoot-out with gun smugglers goes on a mission to catch them. In order to get closer to the leaders of the ring he joins forces with an undercover cop who's working as a gangster hitman. They use all means of excessive force to find them.",
+  "popularity": 4.3969,
+  "poster_path": "/mbA77wY7fjh2TSQ3FxEuqpKOOA8.jpg",
+  "production_companies": [
+    {
+      "id": 6213,
+      "logo_path": null,
+      "name": "Golden Princess Film Productions",
+      "origin_country": "HK"
+    },
+    {
+      "id": 77,
+      "logo_path": null,
+      "name": "Milestone Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1992-04-16",
+  "revenue": 75000,
+  "runtime": 126,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "As a cop, he has brains, brawn, and an instinct to kill.",
+  "title": "Hard Boiled",
+  "video": false,
+  "vote_average": 7.513,
+  "vote_count": 887
+}

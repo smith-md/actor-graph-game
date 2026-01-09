@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/v5jwtrkKSjtanOxkEuznPLZric0.jpg",
+  "belongs_to_collection": null,
+  "budget": 1500,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 25061,
+  "imdb_id": "tt0463392",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Zombie Nation",
+  "overview": "A psycho cop has a habit for pulling over random women and taking them to an abandoned warehouse, where he tortures and kills them. He gets what's coming to him when a pack of zombie women rise from their graves in order to get proper revenge.",
+  "popularity": 2.6856,
+  "poster_path": "/ytseovnJpFlHkLZVlfOk67OrsBv.jpg",
+  "production_companies": [
+    {
+      "id": 42647,
+      "logo_path": null,
+      "name": "Heidenheim Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-10-05",
+  "revenue": 0,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Zombie Nation",
+  "video": false,
+  "vote_average": 2.787,
+  "vote_count": 47
+}

@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/c0GGzLetI6MDMAgbRmzIAek7Y99.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 82077,
+  "imdb_id": "tt0120602",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bella Mafia",
+  "overview": "Following the brutal murder of her husband and male kin, Sophia unites with her mother-in-law and sisters-in-law, in a fierce quest for vengeance against their enemies.",
+  "popularity": 3.2411,
+  "poster_path": "/4xHvnDHzcRKP9aaDaj823WSiD3Y.jpg",
+  "production_companies": [
+    {
+      "id": 11505,
+      "logo_path": null,
+      "name": "The Königsberg Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1997-11-16",
+  "revenue": 0,
+  "runtime": 165,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Hell hath no fury like the women of...",
+  "title": "Bella Mafia",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 27
+}

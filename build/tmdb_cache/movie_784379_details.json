@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/qSSImoaHVN80RMZlbssDtvlLcwm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.hallmarkchannel.com/playing-cupid",
+  "id": 784379,
+  "imdb_id": "tt11348956",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Playing Cupid",
+  "overview": "Set in the halls of Austen Middle School, a newly single middle-school teacher is covertly set up with a divorced dad after his daughter – one of her students – begins a matchmaking business for a school project she assigned her class.",
+  "popularity": 4.3498,
+  "poster_path": "/i6GBlAu8ifBGl69qyL8WpzVlo7V.jpg",
+  "production_companies": [
+    {
+      "id": 120981,
+      "logo_path": "/1dN8LNzCZq1Xq0jAMqNZy32OIyJ.png",
+      "name": "Timeless Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 143220,
+      "logo_path": "/9auzcLEiozgRfETCWj8p3aaKODO.png",
+      "name": "Basset Hound Distribution",
+      "origin_country": "US"
+    },
+    {
+      "id": 30246,
+      "logo_path": "/zYY3tNfZuDVfmwv8hvm4ZdLMdIM.png",
+      "name": "Scholastic Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-02-13",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Playing Cupid",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 34
+}

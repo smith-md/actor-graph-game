@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/mGG8qqSBK7EKN2cOVBlVef1Y3N4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 12085,
+  "imdb_id": "tt0951216",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mad Money",
+  "overview": "Three female employees of the Federal Reserve plot to steal money that is about to be destroyed.",
+  "popularity": 5.5898,
+  "poster_path": "/z6b6rQ1ZFEkM4tSt84yPtdAioCO.jpg",
+  "production_companies": [
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 12807,
+      "logo_path": "/i1TyJLN5V53V6IKbugEzwM3tMvw.png",
+      "name": "Overture Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 69034,
+      "logo_path": null,
+      "name": "Lightspeed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 13693,
+      "logo_path": null,
+      "name": "Swingin' Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 15627,
+      "logo_path": null,
+      "name": "Big City Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 247,
+      "logo_path": "/kgYZ2I5ibveeOOn10VJKQCg6hLd.png",
+      "name": "Granada Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-01-17",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Think green",
+  "title": "Mad Money",
+  "video": false,
+  "vote_average": 6.458,
+  "vote_count": 695
+}

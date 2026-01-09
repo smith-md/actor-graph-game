@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/4zyuCJtoGmrxqk9rp9KxBpzhklp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 94809,
+  "imdb_id": "tt0074952",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Napoli violenta",
+  "overview": "Inspector Betti (Maurizio Merli) is transferred to Naples and immediately after his arrival receives a warm welcome from The Commandante (Barry Sullivan), the city's crime lord. Betti then goes on a personal mission against corruption and organized crime, and tries to force the syndicate out of town with any means necessary.",
+  "popularity": 4.0313,
+  "poster_path": "/rZLGP9fpTFOXjR0hf7QziMKy0b2.jpg",
+  "production_companies": [
+    {
+      "id": 10521,
+      "logo_path": null,
+      "name": "Paneuropean Production Pictures",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1976-08-07",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Violent Naples",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 47
+}

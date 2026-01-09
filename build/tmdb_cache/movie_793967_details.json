@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/4pPReWGKlZE0yDsLOQ34WKyySZK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 793967,
+  "imdb_id": "tt8129682",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Phobias",
+  "overview": "Five dangerous patients, suffering from extreme phobias at a government testing facility, are put to the ultimate test under the supervision of a crazed doctor and his quest to weaponize fear.",
+  "popularity": 3.0952,
+  "poster_path": "/zpecci4IooFiwMVGknhm8Jz2FHo.jpg",
+  "production_companies": [
+    {
+      "id": 109294,
+      "logo_path": "/exzVzwYDJjcc3KMB4Ox3Tl2mQX8.png",
+      "name": "Defiant Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 126588,
+      "logo_path": "/cNhOITS96oOV7SCgUHxvZlWRecx.png",
+      "name": "Radio Silence",
+      "origin_country": "US"
+    },
+    {
+      "id": 90761,
+      "logo_path": "/uPcwljtUrpoeRiXI4vpDsvqWiqP.png",
+      "name": "Kodiak Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 823,
+      "logo_path": "/275O5OoKjulWtY1uRHRXaYsrt9I.png",
+      "name": "Telepool",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-02-28",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What do you fear?",
+  "title": "Phobias",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 51
+}

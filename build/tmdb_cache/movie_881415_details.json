@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/jEB9bDNRjV6ziEzrPZrItjZBMx2.jpg",
+  "belongs_to_collection": null,
+  "budget": 2500000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://bleeckerstreetmedia.com/love-me",
+  "id": 881415,
+  "imdb_id": "tt21375602",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Love Me",
+  "overview": "In a story that spans billions of years, a buoy and a satellite meet online long after humanity’s extinction. As they learn what life was like on Earth, they discover themselves and what it means to be alive and in love.",
+  "popularity": 4.7593,
+  "poster_path": "/uX8Z3qWJ5OjV1uP7yT6yRlw9UL9.jpg",
+  "production_companies": [
+    {
+      "id": 113397,
+      "logo_path": "/i2hEdxAGgoqH31IYbYiukqdDCKy.png",
+      "name": "AgX",
+      "origin_country": "US"
+    },
+    {
+      "id": 158407,
+      "logo_path": "/zUj7hFnsY8y1hVPfiZYnDtcGTHe.png",
+      "name": "2AM",
+      "origin_country": "US"
+    },
+    {
+      "id": 33603,
+      "logo_path": "/K1SdQd49Kx3QRx0djfHbzeotCz.png",
+      "name": "Shivhans Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-01-31",
+  "revenue": 215586,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love Me",
+  "video": false,
+  "vote_average": 6.266,
+  "vote_count": 64
+}

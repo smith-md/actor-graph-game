@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/ifXKFWQWKO7B3Mz3L0Qn3kEVcF2.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 29015,
+  "imdb_id": "tt0181836",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Specials",
+  "overview": "America's seventh best superhero team, the Specials, are a group of geeks and oddballs. Lifelong fan Nightbird joins the group just in time for the group to get a new line of action figures. But the members' extreme personalities and personal issues threaten to rip the group apart.",
+  "popularity": 4.1325,
+  "poster_path": "/xzgrhvthhimI1cogQdEcffdKs70.jpg",
+  "production_companies": [
+    {
+      "id": 8068,
+      "logo_path": null,
+      "name": "Mindfire Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1606,
+      "logo_path": null,
+      "name": "Brillstein-Grey Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-09-22",
+  "revenue": 13276,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They're not incredible, they're just special.",
+  "title": "The Specials",
+  "video": false,
+  "vote_average": 5.119,
+  "vote_count": 42
+}

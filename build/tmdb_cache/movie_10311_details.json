@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/cjpzOffgj2aOYbjgoMFn7PmJ600.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 10311,
+  "imdb_id": "tt0070374",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Martha",
+  "overview": "After the death of her abusive father, lonely librarian Martha finds herself caught up in a strange, sadomasochistic relationship with a monstrous husband whom she begins to suspect may be trying to murder her.",
+  "popularity": 3.1728,
+  "poster_path": "/2wmPwtE2ZBW1FWs7C8ftM0Fa2Kt.jpg",
+  "production_companies": [
+    {
+      "id": 1448,
+      "logo_path": null,
+      "name": "Pro-ject Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 46,
+      "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1974-05-28",
+  "revenue": 0,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A bond marked by fear!",
+  "title": "Martha",
+  "video": false,
+  "vote_average": 6.925,
+  "vote_count": 67
+}

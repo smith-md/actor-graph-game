@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/wArldRKTKmy7rhHe95SzQ6Ale9X.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.tedkmovie.com/",
+  "id": 660353,
+  "imdb_id": "tt8128276",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ted K",
+  "overview": "An exploration of Ted Kaczynski's life in Lincoln, Montana in the years leading up to his arrest as The Unabomber.",
+  "popularity": 3.6336,
+  "poster_path": "/xgBzMsP8a10rEHXNSytPsLhwUVF.jpg",
+  "production_companies": [
+    {
+      "id": 127248,
+      "logo_path": null,
+      "name": "Heathen Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 51740,
+      "logo_path": null,
+      "name": "In Your Face Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 74808,
+      "logo_path": "/vOYU0riOusJmSETDlY9gu2QiN6.png",
+      "name": "Hideout Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 22632,
+      "logo_path": null,
+      "name": "Verisimilitude",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-10-29",
+  "revenue": 51544,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In the woods no one can hear you think.",
+  "title": "Ted K",
+  "video": false,
+  "vote_average": 6.025,
+  "vote_count": 140
+}

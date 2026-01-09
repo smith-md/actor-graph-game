@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/crbYDGMpjE9eP6jBcNdSidvlc0n.jpg",
+  "belongs_to_collection": {
+    "id": 447622,
+    "name": "Barbie Mariposa Collection",
+    "poster_path": "/5nDCG7t9HZv3cJiLVN4nHZIm33a.jpg",
+    "backdrop_path": "/hRe9kpqJpBxdPThZZH1JGTQT9Jq.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 18198,
+  "imdb_id": "tt1201561",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Barbie Mariposa",
+  "overview": "Elina, heroine of the Fairytopia films tells her friend Bibble the story of Flutterfield, a faraway kingdom populated by fairies with butterfly wings. Henna, the evil butterfly fairy has poisoned the queen of Flutterfield in an attempt to take over the kingdom.",
+  "popularity": 5.7512,
+  "poster_path": "/qsb1OQCNVMAX3KRT6xhKOl3mM6P.jpg",
+  "production_companies": [
+    {
+      "id": 6220,
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png",
+      "name": "Mattel",
+      "origin_country": "US"
+    },
+    {
+      "id": 5024,
+      "logo_path": "/9CkYR0swSEj5iVi9bzx9erLnmzm.png",
+      "name": "Mainframe Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 40566,
+      "logo_path": "/rqnuOXzS0NxoevzVzAx7LIZx6Nr.png",
+      "name": "Lionsgate Home Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-02-26",
+  "revenue": 0,
+  "runtime": 75,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Soar to New Heights of Adventure!",
+  "title": "Barbie Mariposa",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 539
+}

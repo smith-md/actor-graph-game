@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/49HBB4LzWYwfMFMTkralkfJ5niz.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.insightfilm.com/hardwired.html",
+  "id": 24051,
+  "imdb_id": "tt1405412",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hardwired",
+  "overview": "After a tragic accident Luke Gibson is left with critical injuries and complete amnesia. A new technological breakthrough from the Hexx Corporation - a Psi-Comp Implant that's hardwired into Luke's brain - saves his life, but Luke soon finds out that this new technology comes with a price and that the Hexx Corporation harbors sinister plans for the new device.",
+  "popularity": 4.4588,
+  "poster_path": "/q93fo24fFxruqiHG2VybLengsmb.jpg",
+  "production_companies": [
+    {
+      "id": 2090,
+      "logo_path": "/jYlUttNqcN5u1pzMQrh5AEhZ27t.png",
+      "name": "Motion Picture Corporation of America",
+      "origin_country": "US"
+    },
+    {
+      "id": 2865,
+      "logo_path": "/5O0gp5QS3n9ZPRvWFxaWa6QPpGX.png",
+      "name": "Insight Film Studios",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-11-03",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They stole his past, now he's taking back his future.",
+  "title": "Hardwired",
+  "video": false,
+  "vote_average": 5.122,
+  "vote_count": 94
+}

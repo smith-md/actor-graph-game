@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/sSaUmM4bnZJ7PW5dlyRi7iONB65.jpg",
+  "belongs_to_collection": {
+    "id": 1172926,
+    "name": "The Strangers (Remake) Collection",
+    "poster_path": "/q4fqjcz2oznw9sVZKtt2VS9RItc.jpg",
+    "backdrop_path": "/1IihKmAv26AkN9jVmzx3JPsd9BU.jpg"
+  },
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://thestrangers.movie",
+  "id": 1010756,
+  "imdb_id": "tt28671344",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Strangers: Chapter 2",
+  "overview": "When The Strangers learn that one of their victims, Maya, is still alive, they return to finish what they’ve started.",
+  "popularity": 23.3534,
+  "poster_path": "/aEk9jLbiKTVssdATbrF879NvyyJ.jpg",
+  "production_companies": [
+    {
+      "id": 175756,
+      "logo_path": null,
+      "name": "Sherbone Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 9987,
+      "logo_path": "/o5OTKAw7Acl5fTZYPyl8M8D9570.png",
+      "name": "Lipsync Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 229418,
+      "logo_path": null,
+      "name": "Stream Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 200342,
+      "logo_path": null,
+      "name": "Fifth Element Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-25",
+  "revenue": 21921749,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Survival was just the beginning.",
+  "title": "The Strangers: Chapter 2",
+  "video": false,
+  "vote_average": 5.992,
+  "vote_count": 188
+}

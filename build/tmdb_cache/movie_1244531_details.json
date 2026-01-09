@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/ktsHS7DhwS4M54I3CBkxNV5GlTM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://rialtodistribution.com/film/beast-of-war/",
+  "id": 1244531,
+  "imdb_id": "tt29468874",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Beast of War",
+  "overview": "When their boat sinks while crossing the Timor Sea during World War II, a troop of young Australian soldiers must find a way to survive the harsh seas on a quickly shrinking raft. Hundreds of miles from anywhere, they must confront interpersonal conflicts, enemy attacks, and the advances of one very large, very hungry great white shark.",
+  "popularity": 10.644,
+  "poster_path": "/2xgDjVEOtu5LlbPEngxfbCqWEFg.jpg",
+  "production_companies": [
+    {
+      "id": 103845,
+      "logo_path": "/2Ro1iQDguoYtWhl7c2Xy0McsZ0H.png",
+      "name": "Bronte Pictures",
+      "origin_country": "AU"
+    },
+    {
+      "id": 3207,
+      "logo_path": null,
+      "name": "Pictures in Paradise",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2025-08-22",
+  "revenue": 186472,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Survival is the only victory.",
+  "title": "Beast of War",
+  "video": false,
+  "vote_average": 6.429,
+  "vote_count": 77
+}

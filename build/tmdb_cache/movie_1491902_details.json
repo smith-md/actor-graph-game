@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/nZFJgk5nWSZju9JW76hbv5lUegw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1491902,
+  "imdb_id": "tt29538620",
+  "origin_country": [
+    "TH"
+  ],
+  "original_language": "th",
+  "original_title": "ปัง",
+  "overview": "Follows a ruthless hitman who, after narrowly escaping a fatal attempt on his life, betrays his gang in an effort to find forgiveness but ends up becoming a target himself.",
+  "popularity": 102.7762,
+  "poster_path": "/8SUzKOqe2ectvhYdSnR7Vq2F3n1.jpg",
+  "production_companies": [
+    {
+      "id": 264113,
+      "logo_path": null,
+      "name": "+Sixty Six",
+      "origin_country": ""
+    },
+    {
+      "id": 72408,
+      "logo_path": null,
+      "name": "Kaos Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "release_date": "2025-07-11",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Once a killer, now the mark.",
+  "title": "Bang",
+  "video": false,
+  "vote_average": 6.338,
+  "vote_count": 40
+}

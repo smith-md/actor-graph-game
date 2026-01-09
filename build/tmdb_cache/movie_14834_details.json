@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/fEzQMQwJQQmESQuEXYdIyz0qySm.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/noteasilybroken",
+  "id": 14834,
+  "imdb_id": "tt0795438",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Not Easily Broken",
+  "overview": "A car accident and shifting affections test the bond between a married couple.",
+  "popularity": 4.5669,
+  "poster_path": "/4HJ39DnQyfU3ISk0XREXiAhdQZb.jpg",
+  "production_companies": [
+    {
+      "id": 3287,
+      "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+      "name": "Screen Gems",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-01-09",
+  "revenue": 10726909,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Life tries to break you. Love holds you together.",
+  "title": "Not Easily Broken",
+  "video": false,
+  "vote_average": 6.321,
+  "vote_count": 70
+}

@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/cIpD6PGtCRG3ynaaBWZmf5cw8C5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 22244,
+  "imdb_id": "tt0098354",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Society",
+  "overview": "Bill Whitney is worried that he is different to his sister and parents. They mix with other upper-class people while Bill is more down to earth. Even his girlfriend seems a bit odd. All is revealed when Bill returns home to find a party in full swing.",
+  "popularity": 4.931,
+  "poster_path": "/8Yg51sD6loLBYIlUcMDCO0bUGSh.jpg",
+  "production_companies": [
+    {
+      "id": 4064,
+      "logo_path": null,
+      "name": "Society Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 4065,
+      "logo_path": null,
+      "name": "Wild Street Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-05-13",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The rich have always fed off the poor. This time, it's for real.",
+  "title": "Society",
+  "video": false,
+  "vote_average": 6.668,
+  "vote_count": 601
+}

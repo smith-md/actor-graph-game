@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/vdokXTdAIx3jrYYG7moT0vop4ZO.jpg",
+  "belongs_to_collection": {
+    "id": 238448,
+    "name": "My New Partner Collection",
+    "poster_path": "/ke1p1REI3PYBvoD0waoCOQBhkGa.jpg",
+    "backdrop_path": "/nxx8zQCbyYP0288TCGeIHHnBHk1.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 10260,
+  "imdb_id": "tt0088002",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Ripoux",
+  "overview": "A streetwise Paris policeman who takes kickbacks from the minor criminals on his beat to allow them to continue is assigned an idealistic new partner fresh from police academy. He sets out to corrupt him...",
+  "popularity": 2.2992,
+  "poster_path": "/kvILcin1mGcEyu0rrME8MlmD9b3.jpg",
+  "production_companies": [
+    {
+      "id": 8158,
+      "logo_path": null,
+      "name": "Films 7",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1984-09-19",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "My New Partner",
+  "video": false,
+  "vote_average": 6.594,
+  "vote_count": 267
+}

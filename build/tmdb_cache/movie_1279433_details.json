@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/dYGJ9cI3pUjCUITfxxsO5kEGKTF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81500431",
+  "id": 1279433,
+  "imdb_id": "tt32245043",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Spadek",
+  "overview": "When their rich uncle passes, his mansion of intricate puzzles becomes the backdrop for his estranged family's quest to secure a portion of his wealth.",
+  "popularity": 2.7657,
+  "poster_path": "/A4UklDW0DYytzK5aydQIM3vw4dL.jpg",
+  "production_companies": [
+    {
+      "id": 188079,
+      "logo_path": null,
+      "name": "Orphan Studio",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2024-06-19",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Inheritance",
+  "video": false,
+  "vote_average": 5.215,
+  "vote_count": 209
+}

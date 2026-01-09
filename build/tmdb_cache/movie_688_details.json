@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/4TnGcUsyd6ixuLWHaaEG5BGkAIp.jpg",
+  "belongs_to_collection": null,
+  "budget": 24000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 688,
+  "imdb_id": "tt0112579",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Bridges of Madison County",
+  "overview": "Photographer Robert Kincaid wanders into the life of housewife Francesca Johnson for four days in the 1960s.",
+  "popularity": 8.8622,
+  "poster_path": "/teGMLWvCnJqvtPYCSuUKRM9MvFe.jpg",
+  "production_companies": [
+    {
+      "id": 171,
+      "logo_path": "/bqLWwuNCHcY3IjB5e4o29h7l80D.png",
+      "name": "Malpaso Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 56,
+      "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-06-02",
+  "revenue": 182000000,
+  "runtime": 135,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The path of Francesca Johnson's future seems destined due to an unexpected fork in the road...",
+  "title": "The Bridges of Madison County",
+  "video": false,
+  "vote_average": 7.707,
+  "vote_count": 2300
+}

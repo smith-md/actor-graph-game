@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/4uwOKYaySkczmZ5C4EO50Ay3IoT.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.searchlightpictures.com/fire-island",
+  "id": 846250,
+  "imdb_id": "tt15218000",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Fire Island",
+  "overview": "A group of queer best friends gather in the Fire Island Pines for their annual week of love and laughter. However, desires, dramas, drink and drugs push their bonds to the limits.",
+  "popularity": 4.3559,
+  "poster_path": "/2vVUdYoqUX5rK8plxPGERGGjQLI.jpg",
+  "production_companies": [
+    {
+      "id": 24021,
+      "logo_path": "/urq2p5ColCf657b5nOmBpBOrjyv.png",
+      "name": "Jax Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 127929,
+      "logo_path": "/7DLKyL15ETI9645XSr9JcbMV79c.png",
+      "name": "Searchlight Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-06-02",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It takes a match to light a fire.",
+  "title": "Fire Island",
+  "video": false,
+  "vote_average": 6.972,
+  "vote_count": 268
+}

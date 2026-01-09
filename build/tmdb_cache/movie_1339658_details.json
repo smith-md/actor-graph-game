@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/1YeNl4OexgoTqCbwXEYg4ujZmYt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://ohhimovie.com",
+  "id": 1339658,
+  "imdb_id": "tt33292655",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Oh, Hi!",
+  "overview": "Iris and Isaac's first weekend away as a couple is going so well — until Isaac mentions he didn’t know they were a couple. Convinced she's met her perfect guy and that he's just confused, Iris goes to increasingly ridiculous and irrational lengths to prove to Isaac that they are meant to be together.",
+  "popularity": 7.095,
+  "poster_path": "/8nBOFo78pKgzLipgGZhC8VA33wp.jpg",
+  "production_companies": [
+    {
+      "id": 210819,
+      "logo_path": "/lXW15vGgeQIIGia0oFycQgALb9Y.png",
+      "name": "QWGmire",
+      "origin_country": "US"
+    },
+    {
+      "id": 247983,
+      "logo_path": "/tMKpbALsac7iNAT9KmeczAut4Tu.png",
+      "name": "Watermark Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 25702,
+      "logo_path": null,
+      "name": "Cliffbrook Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 237412,
+      "logo_path": null,
+      "name": "AmorFortuna",
+      "origin_country": "US"
+    },
+    {
+      "id": 264766,
+      "logo_path": "/oyr5pnhmmca9EpInJN7mvY8owtN.png",
+      "name": "Bespoke Production Capital",
+      "origin_country": "US"
+    },
+    {
+      "id": 264767,
+      "logo_path": null,
+      "name": "No Comp Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-25",
+  "revenue": 2086515,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When you find the one, lock them down.",
+  "title": "Oh, Hi!",
+  "video": false,
+  "vote_average": 6.328,
+  "vote_count": 102
+}

@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/8y8pxJwYEK1WvQAfoZTwC601eD8.jpg",
+  "belongs_to_collection": null,
+  "budget": 4273176,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1273049,
+  "imdb_id": "tt32080876",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "ta",
+  "original_title": "டிராகன்",
+  "overview": "Raghavan transforms from a school topper into a “bad boy” to score girls in college, but ends up a heartbroken dropout. He then cons his way into a successful finance career, but the lies keep building and maintaining the facade proves tricky.",
+  "popularity": 4.3304,
+  "poster_path": "/vKNJPuejtE6Xrp6RK6LKsQcbL8L.jpg",
+  "production_companies": [
+    {
+      "id": 5907,
+      "logo_path": "/u2MPw19ZZ4mIzacy6SXOLgU1la0.png",
+      "name": "AGS Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2025-02-21",
+  "revenue": 13776156,
+  "runtime": 157,
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "தமிழ்"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Worst student of the decade.",
+  "title": "Dragon",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 33
+}

@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/8qDJ594juzFixXFhDumgU1xhdbZ.jpg",
+  "belongs_to_collection": {
+    "id": 9046,
+    "name": "A Chinese Ghost Story Collection",
+    "poster_path": "/mvB3awIvOQ6O0FcTSiIqcksUjqo.jpg",
+    "backdrop_path": "/nIXjmTi2ePJyFf2nDngGsWOX7TP.jpg"
+  },
+  "budget": 1250000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 30421,
+  "imdb_id": "tt0093978",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "倩女幽魂",
+  "overview": "A naïve young tax collector for the imperial government winds up spending the night in a haunted temple. There he falls in love with a beautiful woman who, unfortunately, is dead. With the aid of a powerful Daoist Swordsman, he must defeat undead hordes, overcome a sinister Tree Demoness, and descend to the pits of hell, to fight for the spirit he loves.",
+  "popularity": 4.1967,
+  "poster_path": "/pGQy2KB3I0DouwnKNjChyCgULJQ.jpg",
+  "production_companies": [
+    {
+      "id": 13660,
+      "logo_path": null,
+      "name": "Cinema City",
+      "origin_country": ""
+    },
+    {
+      "id": 3618,
+      "logo_path": null,
+      "name": "Film Workshop",
+      "origin_country": "HK"
+    },
+    {
+      "id": 44499,
+      "logo_path": null,
+      "name": "Golden Princess Film Production Ltd.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1987-07-18",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Sanskrit",
+      "iso_639_1": "sa",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "Old Evil is coming to collect the bride.",
+  "title": "A Chinese Ghost Story",
+  "video": false,
+  "vote_average": 7.286,
+  "vote_count": 320
+}

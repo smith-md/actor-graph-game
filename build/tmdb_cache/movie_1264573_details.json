@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": "/u4JsyMpp6mtAYbg0t3GIaCgPrRy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://mubi.com/en/lurker",
+  "id": 1264573,
+  "imdb_id": "tt13651462",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lurker",
+  "overview": "When a twenty-something retail clerk meets a rising popstar, he takes the opportunity to edge his way into the in-crowd. But as the line between friend and fan blurs beyond recognition, access and proximity become a matter of life and death.",
+  "popularity": 4.7483,
+  "poster_path": "/remyTlj6bJqoSStgjn3EwyOcki7.jpg",
+  "production_companies": [
+    {
+      "id": 52053,
+      "logo_path": "/grMLc37nDRnKrMsKXcrHm76boxI.png",
+      "name": "High Frequency Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 64061,
+      "logo_path": null,
+      "name": "MeMo Films",
+      "origin_country": "IT"
+    },
+    {
+      "id": 207819,
+      "logo_path": null,
+      "name": "Twin Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 224495,
+      "logo_path": null,
+      "name": "Arts & Sciences",
+      "origin_country": "US"
+    },
+    {
+      "id": 128102,
+      "logo_path": "/dpAwWUOotsC5QAFKnJEvG6K0HXR.png",
+      "name": "Adler Entertainment",
+      "origin_country": "IT"
+    },
+    {
+      "id": 171882,
+      "logo_path": null,
+      "name": "Case Study Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 159107,
+      "logo_path": "/uKfWUrpQiu4Pz60vkFQZglEIAlp.png",
+      "name": "Wise Pictures",
+      "origin_country": "IT"
+    },
+    {
+      "id": 251835,
+      "logo_path": null,
+      "name": "Va Bene Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2025-08-22",
+  "revenue": 455555,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Keep your friends close.",
+  "title": "Lurker",
+  "video": false,
+  "vote_average": 6.538,
+  "vote_count": 26
+}

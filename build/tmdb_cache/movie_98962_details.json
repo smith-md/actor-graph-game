@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/23CnZOVFQRwe0vflKYiBOif5YKg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 98962,
+  "imdb_id": "tt0062290",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Sor Citroen",
+  "overview": "Madrid, Spain. When a religious community running an orphanage buys a car, the vivacious and intrepid Sister Tomasa accepts the task of getting behind the wheel.",
+  "popularity": 2.4382,
+  "poster_path": "/onCW28gMja6xGCJLwzbqJtxSUXH.jpg",
+  "production_companies": [
+    {
+      "id": 4960,
+      "logo_path": null,
+      "name": "Filmayer",
+      "origin_country": "ES"
+    },
+    {
+      "id": 31131,
+      "logo_path": null,
+      "name": "Pedro Masó PC",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1967-12-05",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sor Citroen",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 21
+}

@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/ioMxoDUyaRtMZPgoOU5wJkErtKS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1242686,
+  "imdb_id": "tt31249107",
+  "origin_country": [
+    "FR",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Salvable",
+  "overview": "When a battered boxer past his prime finds his dreams and his relationships on the ropes, he falls back in with a dangerous crowd and has to take the biggest swing of his life to reclaim his hope and his family.",
+  "popularity": 3.554,
+  "poster_path": "/cAPIS05UGqsTwiu0Qjs0WlIUW1l.jpg",
+  "production_companies": [
+    {
+      "id": 84247,
+      "logo_path": null,
+      "name": "Lowkey Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 126471,
+      "logo_path": null,
+      "name": "Featuristic Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 112164,
+      "logo_path": "/hs1iHVrBvQzQPakkuMEzD6YJby7.png",
+      "name": "Principal Film Finance",
+      "origin_country": "GB"
+    },
+    {
+      "id": 105679,
+      "logo_path": "/1XOXuZlgxefn1N8bcBwmRPxq0Tz.png",
+      "name": "Metro International Entertainment",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-05-01",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Salvable",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 35
+}

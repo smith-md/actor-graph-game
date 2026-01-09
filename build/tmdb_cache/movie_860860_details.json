@@ -1,0 +1,127 @@
+{
+  "adult": false,
+  "backdrop_path": "/rdTqe7zpT8zuldEIfSCUURj6cOY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 860860,
+  "imdb_id": "tt15167994",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Private Property",
+  "overview": "Kathryn, a struggling actress and unfulfilled housewife, becomes friendly with her new gardener, Ben. He gives her the attention and sensitivity she craves; however, he is not who he seems.",
+  "popularity": 3.7728,
+  "poster_path": "/60rP1PaT21gnDbGMZlL6oC1weev.jpg",
+  "production_companies": [
+    {
+      "id": 7579,
+      "logo_path": "/a4siBqtQZuQacF2oku8KHrmokv3.png",
+      "name": "Redwire Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 165669,
+      "logo_path": "/cZxXUx0W3YX1t0m7hRzXqRrRW80.png",
+      "name": "Black Magic",
+      "origin_country": "US"
+    },
+    {
+      "id": 171436,
+      "logo_path": "/2PCuIrmhOMX9eGpxs8PQWjxfU3s.png",
+      "name": "Carte Blanche",
+      "origin_country": "US"
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 3604,
+      "logo_path": "/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png",
+      "name": "Grindstone Entertainment Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 65649,
+      "logo_path": "/tXTuZTEcYYB1hIyAAwDyhZE0f7c.png",
+      "name": "SSS Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 220871,
+      "logo_path": null,
+      "name": "Pac Protocol Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 220872,
+      "logo_path": null,
+      "name": "Talon Reid Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 192342,
+      "logo_path": null,
+      "name": "Rescue Dog Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 52738,
+      "logo_path": null,
+      "name": "Jeff Rice Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 220873,
+      "logo_path": null,
+      "name": "RLJD Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 4560,
+      "logo_path": "/96D35bqBIK3UErSTEiD3nrwNkMw.png",
+      "name": "Tunnel Post",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-05-13",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Somebody's always watching.",
+  "title": "Private Property",
+  "video": false,
+  "vote_average": 4.578,
+  "vote_count": 51
+}

@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/x38doJelU0UIvv1xkH6ligpF8Vk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 986175,
+  "imdb_id": "tt21103576",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Fitting In",
+  "overview": "A teenage girl gets diagnosed with a reproductive condition that upends her plans to have sex and propels her into exploring unusual methods to have a sex life, challenging her relationships with everyone in her life, but most importantly, herself.",
+  "popularity": 2.6419,
+  "poster_path": "/en64gpXZiwbBewh0om3mOGWuPpz.jpg",
+  "production_companies": [
+    {
+      "id": 182390,
+      "logo_path": null,
+      "name": "Nice Picture Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 104086,
+      "logo_path": null,
+      "name": "Wondaland",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2024-02-02",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "...is bloody hell.",
+  "title": "Fitting In",
+  "video": false,
+  "vote_average": 6.541,
+  "vote_count": 61
+}

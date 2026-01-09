@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/foJdXBFZuv8p77H33Trs9tmNYSD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 74741,
+  "imdb_id": "tt0100330",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Paper Mask",
+  "overview": "A lowly hospital orderly impersonates a recently deceased doctor and goes to work in the busy ER of a small hospital where he meets and befriends a nurse who slowly figures out his secret and helps him maintain his charade.",
+  "popularity": 3.3412,
+  "poster_path": "/1fU4zSjzoczjK4gSMGoIr95RdUu.jpg",
+  "production_companies": [
+    {
+      "id": 101016,
+      "logo_path": null,
+      "name": "Paper Mask",
+      "origin_country": ""
+    },
+    {
+      "id": 12745,
+      "logo_path": null,
+      "name": "British Screen Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 14063,
+      "logo_path": "/b7od4dXpqSHIYQx5ykwjnzfKiNv.png",
+      "name": "Granada Television",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1990-09-14",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Trust me. I'm a doctor.",
+  "title": "Paper Mask",
+  "video": false,
+  "vote_average": 5.568,
+  "vote_count": 22
+}

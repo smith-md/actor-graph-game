@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/ywCBuw8LWmJPjPC6ZgXlqiDTEsn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 44104,
+  "imdb_id": "tt0420090",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "ar",
+  "original_title": "Private",
+  "overview": "Mohammed lives with his wife and five children in a house located between a Palestinian village and an Israeli settlement. The house becomes a highly strategic location and is occupied by the army. But despite the invasion of Israeli soldiers, Mohammed refuses to leave.",
+  "popularity": 2.6225,
+  "poster_path": "/6pco77jyU1aRbVZDS1EKHTOXiBX.jpg",
+  "production_companies": [
+    {
+      "id": 5030,
+      "logo_path": null,
+      "name": "Offside",
+      "origin_country": "IT"
+    },
+    {
+      "id": 317,
+      "logo_path": "/HJj0J9Tk6AGcLpL4O7mI3bsccM.png",
+      "name": "Istituto Luce Cinecittà",
+      "origin_country": "IT"
+    },
+    {
+      "id": 159559,
+      "logo_path": null,
+      "name": "Cydonia",
+      "origin_country": ""
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2004-08-12",
+  "revenue": 9595697,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Private",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 20
+}

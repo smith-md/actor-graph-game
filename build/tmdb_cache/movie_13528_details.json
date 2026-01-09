@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/k8sH3RyFg1G4fHN0k9QNoHk8i4E.jpg",
+  "belongs_to_collection": null,
+  "budget": 2068000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 13528,
+  "imdb_id": "tt0036855",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Gaslight",
+  "overview": "A newlywed fears she's going mad when strange things start happening at the family mansion.",
+  "popularity": 5.0308,
+  "poster_path": "/gXKszCl5Q1KrgWRWpPcqn94CP58.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1944-05-04",
+  "revenue": 0,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Strange drama of a captive sweetheart!",
+  "title": "Gaslight",
+  "video": false,
+  "vote_average": 7.513,
+  "vote_count": 539
+}

@@ -1,0 +1,45 @@
+{
+  "adult": false,
+  "backdrop_path": "/ryOtVdaYyz1HduChYyWPy9dJDB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1269021,
+  "imdb_id": "tt18293318",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wake",
+  "overview": "A struggling actress tracks down the star of a movie she hopes will be remade, only to uncover dark secrets.",
+  "popularity": 8.3361,
+  "poster_path": "/nMcBXvnLqoTKXZnyEeYFOIBlwLX.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2024-05-23",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You can't wake from a nightmare if you're not asleep",
+  "title": "Wake",
+  "video": false,
+  "vote_average": 5.828,
+  "vote_count": 29
+}

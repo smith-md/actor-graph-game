@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/eUDh5kmzOL6ZzQgTE5jzgC5NIlC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 115903,
+  "imdb_id": "tt0080554",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Colegas",
+  "overview": "José is an unemployed 18-year-old living in a cramped apartment in the slums of Madrid. Marginalized by poverty, José spends his time with his friend Antonio. However, when Antonio gets his girlfriend, Rosario, pregnant, the two friends try anything to get the money to pay for her to have an abortion.",
+  "popularity": 3.0255,
+  "poster_path": "/yBkU1xWjFX7xpb17ukOksenFUIV.jpg",
+  "production_companies": [
+    {
+      "id": 29248,
+      "logo_path": null,
+      "name": "Ópalo Films",
+      "origin_country": ""
+    },
+    {
+      "id": 268961,
+      "logo_path": null,
+      "name": "Award Films International",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1982-10-25",
+  "revenue": 646714,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They are more than friends, they are...",
+  "title": "Pals",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 32
+}

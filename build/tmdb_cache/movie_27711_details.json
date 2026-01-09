@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/hvc6BJdcDo9FxxHu8cUkil4oQx1.jpg",
+  "belongs_to_collection": {
+    "id": 416305,
+    "name": "Killjoy Collection",
+    "poster_path": "/vPVTgP0p9WpEtEPRCmLquPWnUQr.jpg",
+    "backdrop_path": "/srQFR9X3p8tzWiHW3qFwOWHXZyp.jpg"
+  },
+  "budget": 150000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 27711,
+  "imdb_id": "tt0250469",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Killjoy",
+  "overview": "Deep in an inner city hell, a ghastly figure is killing off the bad guys. A vigilante, or a demon? For the beautiful high school student, Jada, that's the question that will bring her face to face with the killer clown Killjoy.",
+  "popularity": 4.0749,
+  "poster_path": "/3oN0u5ok4spH5g4ZkwjcNcwfUzy.jpg",
+  "production_companies": [
+    {
+      "id": 15627,
+      "logo_path": null,
+      "name": "Big City Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1369,
+      "logo_path": null,
+      "name": "Full Moon Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-10-24",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's playing for life... he's not playing for laughs...",
+  "title": "Killjoy",
+  "video": false,
+  "vote_average": 3.089,
+  "vote_count": 62
+}

@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/dbM737JDwMsTKngQd6zhjhQpkYD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 974191,
+  "imdb_id": "tt13610158",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Harbinger",
+  "overview": "Monique leaves her family quarantine to help a friend who’s suffering from terrible nightmares - but she learns too late that the bad dreams are contagious, along with the demon behind them.",
+  "popularity": 2.9791,
+  "poster_path": "/hxVgKLpA5ld2u226Bg11N5tK3KQ.jpg",
+  "production_companies": [
+    {
+      "id": 178811,
+      "logo_path": null,
+      "name": "One Bad Idea Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-16",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Forget me not.",
+  "title": "The Harbinger",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 31
+}

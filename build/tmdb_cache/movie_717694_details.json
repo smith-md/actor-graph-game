@@ -1,0 +1,102 @@
+{
+  "adult": false,
+  "backdrop_path": "/wklo05ydCD2ZQ8J9o7qcwrFGsLA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 717694,
+  "imdb_id": "tt9415108",
+  "origin_country": [
+    "SK"
+  ],
+  "original_language": "sk",
+  "original_title": "Správa",
+  "overview": "This is the true story of Freddy and Walter – two young Slovak Jews, who were deported to Auschwitz in 1942. On 10 April 1944, after meticulous planning, they manage to escape. While the inmates they had left behind courageously stand their ground against the Nazi officers, the two men are driven on by the hope that their evidence could save lives.",
+  "popularity": 3.6414,
+  "poster_path": "/5UJQS6V0KbHjaZbI0Wv7rL57S7.jpg",
+  "production_companies": [
+    {
+      "id": 6221,
+      "logo_path": null,
+      "name": "Evolution Films",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 35210,
+      "logo_path": "/41NPHKSaV2kFGRfmgzm97wWQEHF.png",
+      "name": "Ostlicht Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 83880,
+      "logo_path": "/fE2kkrLqz2EMDad4p43uYSN1yot.png",
+      "name": "DNA Production",
+      "origin_country": "SK"
+    },
+    {
+      "id": 24023,
+      "logo_path": "/yz6m1ty4qGvlkfReuqPZxdmD8V2.png",
+      "name": "RTVS",
+      "origin_country": "SK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "SK",
+      "name": "Slovakia"
+    }
+  ],
+  "release_date": "2021-03-18",
+  "revenue": 360868,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They escaped hell... and now they must prove it",
+  "title": "The Auschwitz Report",
+  "video": false,
+  "vote_average": 6.34,
+  "vote_count": 81
+}

@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/j0LNLUeQqGTN3Goz5uMCe9CtMIV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 84760,
+  "imdb_id": "tt0093872",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Robot Holocaust",
+  "overview": "Neo, a drifter from the atomic-blasted wastelands, arrives with his klutzy robot sidekick at a factory where slaves labor to fuel the sinister Dark One's Power Station. There, he meets a comely woman who convinces him to help rescue her scientist father, who has invented a device that can break the Dark One's control over the slaves. Gathering a motley crew of allies on the way, Neo and pals travel to the Power Station, where they confront the Dark One's evil servants.",
+  "popularity": 3.1926,
+  "poster_path": "/9DiMdtWFAcykVd4c8WCpN8PcJdo.jpg",
+  "production_companies": [
+    {
+      "id": 17429,
+      "logo_path": null,
+      "name": "Taryn Productions Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 5126,
+      "logo_path": null,
+      "name": "Beyond Infinity",
+      "origin_country": ""
+    },
+    {
+      "id": 5051,
+      "logo_path": null,
+      "name": "Faso Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1212,
+      "logo_path": null,
+      "name": "Empire Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-04-14",
+  "revenue": 0,
+  "runtime": 79,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's machine vs. man in the ultimate battle for the future!",
+  "title": "Robot Holocaust",
+  "video": false,
+  "vote_average": 3.1,
+  "vote_count": 47
+}

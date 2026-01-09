@@ -1,0 +1,117 @@
+{
+  "id": 345868,
+  "cast": [
+    {
+      "adult": true,
+      "gender": 1,
+      "id": 1204384,
+      "known_for_department": "Acting",
+      "name": "Kirara Asuka",
+      "original_name": "明日花キララ",
+      "popularity": 14.073,
+      "profile_path": "/6QFvv6KguS86lIMfZqxXsVJzG25.jpg",
+      "cast_id": 0,
+      "character": "Kurisu Saotome / Iron Girl",
+      "credit_id": "55887d339251416fb500127e",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 76164,
+      "known_for_department": "Acting",
+      "name": "Asami",
+      "original_name": "亜紗美",
+      "popularity": 2.0528,
+      "profile_path": "/qHWRewySoNrswmTYzrrPtTkZJVZ.jpg",
+      "cast_id": 1,
+      "character": "",
+      "credit_id": "5613c54f9251412d060022d8",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1056310,
+      "known_for_department": "Acting",
+      "name": "Hiroaki Iwanaga",
+      "original_name": "岩永洋昭",
+      "popularity": 1.3404,
+      "profile_path": "/gxN0xt0JSWNMBYhoTa3W9PQ3Qcd.jpg",
+      "cast_id": 2,
+      "character": "",
+      "credit_id": "5613c557925141478d00e4a7",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 545498,
+      "known_for_department": "Acting",
+      "name": "Ryunosuke Kawai",
+      "original_name": "河合龍之介",
+      "popularity": 1.282,
+      "profile_path": "/wIEpUV9nn5FWTt9EChbAf5gsUkg.jpg",
+      "cast_id": 3,
+      "character": "",
+      "credit_id": "5613c55f92514147d800e6db",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1123518,
+      "known_for_department": "Acting",
+      "name": "Yuri Morishita",
+      "original_name": "森下悠里",
+      "popularity": 1.8122,
+      "profile_path": "/9NSHkS75bnC8MhLoODwikFCRrsH.jpg",
+      "cast_id": 4,
+      "character": "",
+      "credit_id": "5613c56fc3a36868240167b1",
+      "order": 4
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1519396,
+      "known_for_department": "Acting",
+      "name": "Asuka Kishi",
+      "original_name": "岸明日香",
+      "popularity": 1.6899,
+      "profile_path": "/5OIfgI04CmMGLo4Ls5tK68cqGN5.jpg",
+      "cast_id": 5,
+      "character": "",
+      "credit_id": "5613c577925141478d00e4ab",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 545495,
+      "known_for_department": "Directing",
+      "name": "Ken'ichi Fujiwara",
+      "original_name": "藤原健一",
+      "popularity": 1.4243,
+      "profile_path": "/hikB8bVmjqy6jbqfC6m0UcxskS2.jpg",
+      "credit_id": "5613c5b2c3a368680e017ade",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 117121,
+      "known_for_department": "Writing",
+      "name": "Yasutoshi Murakawa",
+      "original_name": "村川康敏",
+      "popularity": 1.179,
+      "profile_path": null,
+      "credit_id": "5613c5c1c3a36868140198f2",
+      "department": "Writing",
+      "job": "Screenplay"
+    }
+  ]
+}

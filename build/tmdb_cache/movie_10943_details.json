@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/z0eDQiO52orWuvZhzNyNWSGMC4p.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 10943,
+  "imdb_id": "tt0294594",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Gathering",
+  "overview": "Itinerant traveler Cassie Grant comes out of a car accident in Glastonbury, England, with partial memory loss. The deeply regretful driver allows her to convalesce at a large rural home, where she becomes friends with the woman's stepson, Michael. As Cassie delves into Michael's research about an old, newly discovered area church, it triggers some strange premonitions and offers gradual clues about her deeper links to this British community.",
+  "popularity": 3.0595,
+  "poster_path": "/zIlPzicLM5NQgUriVgPZrAofmsv.jpg",
+  "production_companies": [
+    {
+      "id": 22514,
+      "logo_path": null,
+      "name": "Samuelson Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 247,
+      "logo_path": "/kgYZ2I5ibveeOOn10VJKQCg6hLd.png",
+      "name": "Granada Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2268,
+      "logo_path": "/wgDks2qYgwN6u1OkW1bBre0rf4F.png",
+      "name": "Isle of Man Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 8719,
+      "logo_path": null,
+      "name": "Isle of Man Film Commission",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2003-02-23",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Evil Souls Rule",
+  "title": "The Gathering",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 184
+}

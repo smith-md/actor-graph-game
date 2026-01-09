@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/c2vhEOVNoXeEXUkiLhBsP3mIcQe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81600418",
+  "id": 1083658,
+  "imdb_id": "tt21279806",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Scoop",
+  "overview": "Inspired by real events, this fictional dramatization gives an insider account of how the women of Newsnight secured Prince Andrew's infamous interview.",
+  "popularity": 4.6593,
+  "poster_path": "/ib3H2ZSeVRTAmd7EtGWV31LswaZ.jpg",
+  "production_companies": [
+    {
+      "id": 192801,
+      "logo_path": "/d0KI2qXN79CoXexD3Il8v7SmggH.png",
+      "name": "The Lighthouse",
+      "origin_country": "GB"
+    },
+    {
+      "id": 69829,
+      "logo_path": "/bVqcTaxWPIzckkPaMFUfGBGTLPg.png",
+      "name": "Voltage TV",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-03-27",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One interview can change everything.",
+  "title": "Scoop",
+  "video": false,
+  "vote_average": 6.274,
+  "vote_count": 223
+}

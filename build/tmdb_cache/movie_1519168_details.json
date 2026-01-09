@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/yZtnGzfZER0QU7ZG4r4RaZAaXJH.jpg",
+  "belongs_to_collection": {
+    "id": 1526352,
+    "name": "The Jester Collection",
+    "poster_path": "/cq55HSGP1QKUDNePTUOCmlnk3ik.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.fathomentertainment.com/releases/the-jester-2/",
+  "id": 1519168,
+  "imdb_id": "tt37334010",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Jester 2",
+  "overview": "When teen magician Max crosses paths with the sinister Jester on Halloween night, she must outsmart a supernatural killer whose magic is all too real and whose tricks always end up in blood.",
+  "popularity": 9.6969,
+  "poster_path": "/47dsw1jSOV0Be5zmy7CtLhYpqU.jpg",
+  "production_companies": [
+    {
+      "id": 138068,
+      "logo_path": null,
+      "name": "Traverse Terror",
+      "origin_country": ""
+    },
+    {
+      "id": 114432,
+      "logo_path": null,
+      "name": "Epic Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-15",
+  "revenue": 146237,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You can't cheat death twice.",
+  "title": "The Jester 2",
+  "video": false,
+  "vote_average": 6.413,
+  "vote_count": 40
+}

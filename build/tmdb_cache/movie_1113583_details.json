@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": "/50ZSvrvnnIHobB8h2henqbBXqKH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://kinolorber.com/film/oh-canada",
+  "id": 1113583,
+  "imdb_id": "tt29994753",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Oh, Canada",
+  "overview": "Famed Canadian-American leftist documentary filmmaker Leonard Fife was one of sixty thousand draft evaders and deserters who fled to Canada to avoid serving in Vietnam. Now in his late seventies, Fife is dying of cancer in Montreal and has agreed to a final interview in which he is determined to bare all his secrets at last, to demythologize his mythologized life.",
+  "popularity": 4.1947,
+  "poster_path": "/hKDR5AYXRTPb751oc7xK2Ay3PH0.jpg",
+  "production_companies": [
+    {
+      "id": 2520,
+      "logo_path": null,
+      "name": "Arclight Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 136629,
+      "logo_path": null,
+      "name": "Vested Interest",
+      "origin_country": "US"
+    },
+    {
+      "id": 182163,
+      "logo_path": null,
+      "name": "Ottocento Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 229026,
+      "logo_path": null,
+      "name": "Left Home Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 157114,
+      "logo_path": null,
+      "name": "Exemplary Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 171436,
+      "logo_path": "/2PCuIrmhOMX9eGpxs8PQWjxfU3s.png",
+      "name": "Carte Blanche",
+      "origin_country": "US"
+    },
+    {
+      "id": 103867,
+      "logo_path": "/8XM4ZMmyMkffGiw4Gzob9QuDsTz.png",
+      "name": "One Two Twenty Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 188458,
+      "logo_path": "/limNPrYGEOyKb4kjcZKdIk6K0Sh.png",
+      "name": "SIPUR",
+      "origin_country": "IL"
+    },
+    {
+      "id": 8714,
+      "logo_path": "/cLH8bzJW3voNXF8uYKPKr50sdWp.png",
+      "name": "Northern Lights Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 113487,
+      "logo_path": null,
+      "name": "Gateway Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    }
+  ],
+  "release_date": "2024-12-06",
+  "revenue": 1276529,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Oh, Canada",
+  "video": false,
+  "vote_average": 5.696,
+  "vote_count": 97
+}

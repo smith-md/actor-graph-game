@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/dxIBEtwBSaigyF9irXKayJkBrcE.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 14177,
+  "imdb_id": "tt0388500",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Beauty Shop",
+  "overview": "Far from Chicago, hairdresser Gina Norris has relocated to Atlanta with her daughter and has quickly established herself as a rare talent in her profession. But after repeatedly butting heads with her shady, over-the-top boss, Jorge, Norris sets out to create her own salon -- even snagging a few of Jorge's employees and clients. Now, Jorge will do anything to shut her down.",
+  "popularity": 4.6198,
+  "poster_path": "/3y5I9WKlfeNnSQbOvS4l3mVPqri.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    },
+    {
+      "id": 2780,
+      "logo_path": "/hgdyY2exOpOXG3EkQR8WsUAUNBZ.png",
+      "name": "Cube Vision",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-04-22",
+  "revenue": 36351350,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A cut above",
+  "title": "Beauty Shop",
+  "video": false,
+  "vote_average": 6.295,
+  "vote_count": 538
+}

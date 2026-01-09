@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/yWdlOunLPsqACjLBrZll8fpX2Ok.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 42150,
+  "imdb_id": "tt0083226",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Tre fratelli",
+  "overview": "In a farmhouse in southern Italy, an old woman dies. Her husband summons their sons: from Rome, Raffaele, a judge facing a political case for which he risks assassination; from Naples, the religious and ideological Rocco, a counselor at a correctional institute for boys; from Turin, Nicola, a factory worker involved in labor disputes. Once home, each encounters the past and engages in reveries of what may come.",
+  "popularity": 2.2709,
+  "poster_path": "/7sSuFTKNvno73Gn1CII5PuAgTWU.jpg",
+  "production_companies": [
+    {
+      "id": 9,
+      "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+      "name": "Gaumont",
+      "origin_country": "FR"
+    },
+    {
+      "id": 212284,
+      "logo_path": null,
+      "name": "Iter Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1981-03-19",
+  "revenue": 0,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Memorable World of Italian Dreams... The Private World of Three Brothers",
+  "title": "Three Brothers",
+  "video": false,
+  "vote_average": 6.28,
+  "vote_count": 41
+}

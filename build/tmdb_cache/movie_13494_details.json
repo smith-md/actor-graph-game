@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/xSD0q1FiuZkvHuy7uscOLbmd1hR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "http://www.samuelgoldwynfilms.com/red-sonja",
+  "id": 13494,
+  "imdb_id": "tt0800175",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Red Sonja",
+  "overview": "A young girl rises from the ashes of tragedy to become the most feared warrior woman of all time: the She-Devil with a Sword.",
+  "popularity": 13.5273,
+  "poster_path": "/aE3yh4y0h96CZZpLo0UDFMWZAA9.jpg",
+  "production_companies": [
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 11761,
+      "logo_path": null,
+      "name": "Mark Canton Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 270079,
+      "logo_path": null,
+      "name": "Courtney Solomon Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 48738,
+      "logo_path": null,
+      "name": "Campbell Grobman Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-31",
+  "revenue": 265091,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A hero will rise... An empire will fall.",
+  "title": "Red Sonja",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 163
+}

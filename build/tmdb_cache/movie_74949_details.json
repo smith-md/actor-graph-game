@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/vSkZTeX11HOb1wlJm4mSpoB39SQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 74949,
+  "imdb_id": "tt0074591",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Griechische Feigen",
+  "overview": "A good-looking German girl goes on vacation in Greece, and a large number of people try to get her to go to bed with them. With a light, teasing manner, she turns all of them down, until at last she meets a boy she really likes.",
+  "popularity": 3.0404,
+  "poster_path": "/8g35jOzMld7IcW6vyERw5VS3Tun.jpg",
+  "production_companies": [
+    {
+      "id": 10437,
+      "logo_path": null,
+      "name": "Lisa Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1977-01-20",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "As free as the breeze... As wild as the wind...",
+  "title": "The Fruit Is Ripe",
+  "video": false,
+  "vote_average": 5.133,
+  "vote_count": 30
+}

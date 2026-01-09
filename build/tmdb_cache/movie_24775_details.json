@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/9icnC5LhckumDiq4UZZA4l6ysJn.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 24775,
+  "imdb_id": "tt0361399",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Blast",
+  "overview": "Former Navy SEAL Lamont Dixon thought he left his fighting days behind when he became a tugboat captain assigned to tow an offshore oil rig. But calm waters begin to stir as an offshore drilling protest turns into a terrorist hijacking. When the hijackers reveal part of their elaborate scheme, Dixon suspects foul play. With the help of FBI Agent Lisa Reed coordinating the counter-attack from shore, it's sink or swim as Dixon and Reed try to save the hostages, but can they diffuse the deadly plan before it's too late?",
+  "popularity": 4.3855,
+  "poster_path": "/9Ub3DShZwd40LOt0efh7suj858a.jpg",
+  "production_companies": [
+    {
+      "id": 11062,
+      "logo_path": null,
+      "name": "International West Pictures (IWP)",
+      "origin_country": ""
+    },
+    {
+      "id": 6584,
+      "logo_path": null,
+      "name": "Gemini Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2090,
+      "logo_path": "/jYlUttNqcN5u1pzMQrh5AEhZ27t.png",
+      "name": "Motion Picture Corporation of America",
+      "origin_country": "US"
+    },
+    {
+      "id": 773,
+      "logo_path": "/qkcN6yZEyBw3cgO5DJu55LGEsf7.png",
+      "name": "Film Afrika",
+      "origin_country": "ZA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-11-11",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Oil And Money Are An Explosive Mix.",
+  "title": "Blast",
+  "video": false,
+  "vote_average": 4.625,
+  "vote_count": 24
+}

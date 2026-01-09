@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/qrTDCybpf9vSg8RupxbwSd9SBcG.jpg",
+  "belongs_to_collection": null,
+  "budget": 14000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 75638,
+  "imdb_id": "tt1748179",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "en",
+  "original_title": "Red Lights",
+  "overview": "Two investigators of paranormal hoaxes, the veteran Dr. Margaret Matheson and her young assistant, Tom Buckley, study the most varied metaphysical phenomena with the aim of proving their fraudulent origins. Simon Silver, a legendary blind psychic, reappears after an enigmatic absence of 30 years to become the greatest international challenge to both orthodox science and professional sceptics. Tom starts to develop an intense obsession with Silver, whose magnetism becomes stronger with each new manifestation of inexplicable events. As Tom gets closer to Silver, tension mounts, and his worldview is threatened to its core.",
+  "popularity": 4.7186,
+  "poster_path": "/sukxYMaUTNizM7bcEJ4YeH80e8h.jpg",
+  "production_companies": [
+    {
+      "id": 58260,
+      "logo_path": null,
+      "name": "Attitude Pinículas y Films A.I.E.",
+      "origin_country": ""
+    },
+    {
+      "id": 22862,
+      "logo_path": null,
+      "name": "Cindy Cowan Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 4908,
+      "logo_path": "/7YkjYXsxCWGqSbm3NJH82KVTBSC.png",
+      "name": "First Generation Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 11068,
+      "logo_path": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
+      "name": "Nostromo Pictures",
+      "origin_country": "ES"
+    },
+    {
+      "id": 22863,
+      "logo_path": "/3SxZkSo2f9RKmr8KR6Kotx3P4vl.png",
+      "name": "La Sexta",
+      "origin_country": "ES"
+    },
+    {
+      "id": 9335,
+      "logo_path": "/ldfniRgxCYegCbGEROEBKbmg4A5.png",
+      "name": "Canal+ España",
+      "origin_country": "ES"
+    },
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 5085,
+      "logo_path": "/mPuVc7m1Ki7OQQvAYwYfIlEI3vu.png",
+      "name": "TV3",
+      "origin_country": "ES"
+    },
+    {
+      "id": 29566,
+      "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+      "name": "Atresmedia",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-03-02",
+  "revenue": 13551174,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "How much do you want to believe?",
+  "title": "Red Lights",
+  "video": false,
+  "vote_average": 6.168,
+  "vote_count": 1348
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/k18aKqDPrbTsijtN9jRpnTHxQks.jpg",
+  "belongs_to_collection": null,
+  "budget": 31000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 12233,
+  "imdb_id": "tt0095776",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Oliver & Company",
+  "overview": "A young cat named Oliver is left alone in a kitten box, while all the other young cats have new owners. A big dog named Dodger shows him how to get food and later Oliver lives with him, his owner Fagin and Fagin's other dogs Tito, Rita, Einstein, and Francis. Fagin has one problem besides being broke he owes a nasty man named Sykes a lot of money. If he can't pay it back he's in big trouble. While Oliver runs into a little girl named Jenny who becomes his new owner which he is happy with and later Sykes sees Jenny as the key for him to get his money.",
+  "popularity": 5.4658,
+  "poster_path": "/nijsZeuINn0SnNb5cQVz2L4Yhps.jpg",
+  "production_companies": [
+    {
+      "id": 2,
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 554,
+      "logo_path": "/mN5HU5xYq9xtEs1X0Hu25A9y8lW.png",
+      "name": "Silver Screen Partners III",
+      "origin_country": "US"
+    },
+    {
+      "id": 171656,
+      "logo_path": "/4UBohOtIr9DtxylH48Qsg6aDow6.png",
+      "name": "Walt Disney Feature Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1988-11-18",
+  "revenue": 121000000,
+  "runtime": 74,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The first Disney movie with attitude.",
+  "title": "Oliver & Company",
+  "video": false,
+  "vote_average": 6.725,
+  "vote_count": 1660
+}

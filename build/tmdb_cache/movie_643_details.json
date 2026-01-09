@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/7q7ooXhoYg1xJs4BmnTstG7fqqH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 643,
+  "imdb_id": "tt0015648",
+  "origin_country": [
+    "SU"
+  ],
+  "original_language": "ru",
+  "original_title": "Броненосец Потёмкин",
+  "overview": "A dramatized account of a great Russian naval mutiny and a resultant public demonstration, showing support, which brought on a police massacre.",
+  "popularity": 3.3436,
+  "poster_path": "/hZmsRLsCnE9Zshf1YJONUpCOhds.jpg",
+  "production_companies": [
+    {
+      "id": 344,
+      "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+      "name": "Mosfilm",
+      "origin_country": "SU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "release_date": "1925-12-24",
+  "revenue": 45100,
+  "runtime": 75,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Revolution is the only lawful, equal, effectual war. It was in Russia that this war was declared and begun.",
+  "title": "Battleship Potemkin",
+  "video": false,
+  "vote_average": 7.608,
+  "vote_count": 1255
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.searchlightpictures.com/slumdogmillionaire",
+  "id": 12405,
+  "imdb_id": "tt1010048",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Slumdog Millionaire",
+  "overview": "A teenager reflects on his life after being accused of cheating on the Indian version of \"Who Wants to be a Millionaire?\".",
+  "popularity": 5.4613,
+  "poster_path": "/5leCCi7ZF0CawAfM5Qo2ECKPprc.jpg",
+  "production_companies": [
+    {
+      "id": 3573,
+      "logo_path": "/cA8YIHjFbWVSxJMnAkKvLYGegSS.png",
+      "name": "Celador Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2008-11-12",
+  "revenue": 378400000,
+  "runtime": 121,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What does it take to find a lost love?",
+  "title": "Slumdog Millionaire",
+  "video": false,
+  "vote_average": 7.73,
+  "vote_count": 11060
+}

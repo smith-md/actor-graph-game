@@ -1,0 +1,48 @@
+{
+  "adult": false,
+  "backdrop_path": "/vBR1IVCsRLVrW33OwfjoeYNdk5w.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://www.13fanboy.com",
+  "id": 582292,
+  "imdb_id": "tt9077876",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "13 Fanboy",
+  "overview": "An obsessed fan stalks his favorite actors from the Friday the 13th films and beyond, mirroring his idol Jason Voorhees.",
+  "popularity": 3.1541,
+  "poster_path": "/8nB3kkT10hJMyERJDz0jdlqi6ZE.jpg",
+  "production_companies": [
+    {
+      "id": 39706,
+      "logo_path": null,
+      "name": "Be Your Own Hollywood",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2021-10-22",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some fans love you to death.",
+  "title": "13 Fanboy",
+  "video": false,
+  "vote_average": 5.1,
+  "vote_count": 67
+}

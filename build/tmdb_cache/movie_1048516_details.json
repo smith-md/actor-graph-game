@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/7I70xxFxDBtJKAycELj4tAc55JO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.monolith.pl/filmy/%production_year%/pokusa/",
+  "id": 1048516,
+  "imdb_id": "tt24464438",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Pokusa",
+  "overview": "Inez is a young, aspiring journalist who dreams of love and a job at a prestigious publishing house. Once she gets to the paradise of her dreams, problems will start to multiply. What's more, two handsome men will appear at her side. Both mysterious and unpredictable.",
+  "popularity": 4.2009,
+  "poster_path": "/oXKOQS4iIx565tdGBR3CkWGjkaA.jpg",
+  "production_companies": [
+    {
+      "id": 54734,
+      "logo_path": "/kywbYYwd2xgXFGeaSqQQVAZeuqv.png",
+      "name": "Lightcraft",
+      "origin_country": "PL"
+    },
+    {
+      "id": 244362,
+      "logo_path": null,
+      "name": "Grizzly Movie Investments",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2023-01-27",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Will you succumb?",
+  "title": "Temptation",
+  "video": false,
+  "vote_average": 5.43,
+  "vote_count": 44
+}

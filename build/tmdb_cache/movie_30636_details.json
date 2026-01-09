@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/i6ET2elKjwMeZs6SphgcTpQOYY6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 30636,
+  "imdb_id": "tt0079495",
+  "origin_country": [
+    "IT",
+    "US"
+  ],
+  "original_language": "it",
+  "original_title": "La Luna",
+  "overview": "While touring in Italy, a recently-widowed American opera singer has an incestuous relationship with her 15-year-old son to help him overcome his heroin addiction.",
+  "popularity": 6.415,
+  "poster_path": "/4mO1Asyzl3gmuvFWYtfzI73LhXQ.jpg",
+  "production_companies": [
+    {
+      "id": 5079,
+      "logo_path": null,
+      "name": "Fiction Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1979-08-29",
+  "revenue": 0,
+  "runtime": 142,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Between a mother and son. Between the delicate boundaries of love.",
+  "title": "Luna",
+  "video": false,
+  "vote_average": 6.29,
+  "vote_count": 112
+}

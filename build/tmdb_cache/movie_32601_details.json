@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/3EBbRt7eZt2DTCSEMSR7NjCUvJT.jpg",
+  "belongs_to_collection": {
+    "id": 1381955,
+    "name": "The Moromete Family Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 32601,
+  "imdb_id": "tt0095657",
+  "origin_country": [
+    "RO"
+  ],
+  "original_language": "ro",
+  "original_title": "Moromeții",
+  "overview": "Story of a family. Problems, marriage, taxes, revenge, friendship, army, life and much more.",
+  "popularity": 3.2903,
+  "poster_path": "/4J0AN9hUPkzFoTRPsElyDfoXsDA.jpg",
+  "production_companies": [
+    {
+      "id": 12420,
+      "logo_path": null,
+      "name": "Casa de Filme 1",
+      "origin_country": "RO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    }
+  ],
+  "release_date": "1987-09-28",
+  "revenue": 0,
+  "runtime": 142,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Moromete Family",
+  "video": false,
+  "vote_average": 7.395,
+  "vote_count": 43
+}

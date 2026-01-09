@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/7mQ13AV4qd6A43XxXfSoyYQMzhh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0D1JH6TWD",
+  "id": 1094138,
+  "imdb_id": "tt26940324",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Jackpot!",
+  "overview": "In the near future, a 'Grand Lottery' has been established - the catch: kill the winner before sundown to legally claim their multi-billion dollar jackpot. When Katie Kim mistakenly finds herself with the winning ticket, she reluctantly joins forces with amateur lottery protection agent Noel Cassidy who must get her to sundown in exchange for a piece of her prize.",
+  "popularity": 6.2653,
+  "poster_path": "/7vv0NTaQGOO7M5ZMerp1vMFJsby.jpg",
+  "production_companies": [
+    {
+      "id": 105052,
+      "logo_path": "/v0s09QaxgCrrXrbz2LctvSfRKRi.png",
+      "name": "Roth-Kirschenbaum Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 61791,
+      "logo_path": "/xyiy5wZdmnxVViRa8oRMXQQvT6F.png",
+      "name": "Feigco Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-13",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Take the money and run.",
+  "title": "Jackpot!",
+  "video": false,
+  "vote_average": 6.376,
+  "vote_count": 751
+}

@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/xwSFvt9l7YilxS27wDmZuERIVrT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 10832,
+  "imdb_id": "tt0465203",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Ils",
+  "overview": "Lucas and Clementine live peacefully in their isolated country house, but one night they wake up to strange noise. They're not alone... and a group of hooded assailants begin to terrorize them throughout the night.",
+  "popularity": 3.8291,
+  "poster_path": "/kEO9nGyCRGLNIb5kPPjdYAqJ4bO.jpg",
+  "production_companies": [
+    {
+      "id": 616,
+      "logo_path": "/aeBPwUMUqIOFnt3Fxv9fC91hBuq.png",
+      "name": "Eskwad",
+      "origin_country": "FR"
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1370,
+      "logo_path": "/uch218gB4XWNz3JNhlc65A5Q207.png",
+      "name": "Castel Film",
+      "origin_country": "RO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    }
+  ],
+  "release_date": "2006-07-19",
+  "revenue": 2727971,
+  "runtime": 77,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They're already inside.",
+  "title": "Them",
+  "video": false,
+  "vote_average": 6.145,
+  "vote_count": 575
+}

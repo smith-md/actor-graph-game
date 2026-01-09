@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/kVU8aXUODqdcNs6xS2SgBv61jaz.jpg",
+  "belongs_to_collection": {
+    "id": 280562,
+    "name": "The Guyver Collection",
+    "poster_path": "/3pOQLrVQ3acrAT0yi9vHYD7mglX.jpg",
+    "backdrop_path": "/ksJkswAmkOYCuS3XqLzWtQzI1rI.jpg"
+  },
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 15026,
+  "imdb_id": "tt0101988",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Guyver",
+  "overview": "FBI agent Max Reed witnesses Dr. Tetsu Segawa - a researcher for the mysterious Chronos Corporation - being murdered. Dr. Segawa had stolen an alien device known as \"The Guyver\" from Chronos. College student Sean Barker, whose girlfriend's father was Dr. Segawa, finds the Guyver's hiding spot while watching the forensic team investigating the crime scene.",
+  "popularity": 3.7247,
+  "poster_path": "/g4RYPu0ewWd5XIbPZPpfLpsMgp3.jpg",
+  "production_companies": [
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 21437,
+      "logo_path": "/4JzGnT8XGMrdGHHOfVaMNNKLZAp.png",
+      "name": "Imperial Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-03-18",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Lost for centuries... only one man can activate it!",
+  "title": "The Guyver",
+  "video": false,
+  "vote_average": 5.538,
+  "vote_count": 191
+}

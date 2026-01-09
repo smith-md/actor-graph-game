@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/5vpZlB1J2JoIJDYXQ59yNX1bdwQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 77553,
+  "imdb_id": "tt0061786",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hotel",
+  "overview": "This is the story of the clocklike movements of a giant, big city New Orleans hotel. The ambitious yet loyal manager wrestles with the round-the-clock drama of its guests. A brazen sneak thief, who nightly relieves the guests of their property, is chased through the underground passages of the hotel. The big business power play for control of the hotel and the VIP diplomat guest with a secret add to the excitement.",
+  "popularity": 5.1682,
+  "poster_path": "/fq83GS78zcvuQQ7KXsiPYFUKrDZ.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1967-01-19",
+  "revenue": 0,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Warner Bros. unlocks all the doors of the sensation-filled best-seller!",
+  "title": "Hotel",
+  "video": false,
+  "vote_average": 5.913,
+  "vote_count": 23
+}

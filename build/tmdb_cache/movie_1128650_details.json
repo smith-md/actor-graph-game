@@ -1,0 +1,96 @@
+{
+  "adult": false,
+  "backdrop_path": "/4frrYwamVG0eXhdMTy3cpNNcCBp.jpg",
+  "belongs_to_collection": null,
+  "budget": 38500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1128650,
+  "imdb_id": "tt30024043",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "誤判",
+  "overview": "A poor young man is wrongly charged with drug trafficking after being deceived. An ex-prosecutor investigates the case, uncovers a corrupt lawyer team's scheme, and restores justice despite obstruction from evil forces.",
+  "popularity": 18.7825,
+  "poster_path": "/n3ZnFqp988MWfIkT8OHofEJfjlt.jpg",
+  "production_companies": [
+    {
+      "id": 126771,
+      "logo_path": null,
+      "name": "Mandarin Motion Pictures",
+      "origin_country": "HK"
+    },
+    {
+      "id": 169624,
+      "logo_path": null,
+      "name": "China’s Huace Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 160005,
+      "logo_path": null,
+      "name": "Super Bullet Pictures",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2024-12-08",
+  "revenue": 128093757,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fight for justice.",
+  "title": "The Prosecutor",
+  "video": false,
+  "vote_average": 6.831,
+  "vote_count": 169
+}

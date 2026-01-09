@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/oQWHso793x78CPSYyg52Jpwecp6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 34093,
+  "imdb_id": "tt0089902",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Rendez-vous",
+  "overview": "Nina is a young, carefree actress who arrives in Paris searching for her big break. There, she finds drama both on- and offstage as she becomes involved with three men: a mild-mannered real-estate agent who offers her stability, a bad-boy actor who lives dangerously on the edge, and an intense theater director who casts her in a production of “Romeo and Juliet.” As opening night approaches, the emotional extremes of Nina’s love life fuel her art.",
+  "popularity": 2.9981,
+  "poster_path": "/rICHxS03w4peWxcdGgT8pyb9eOp.jpg",
+  "production_companies": [
+    {
+      "id": 875,
+      "logo_path": null,
+      "name": "Films A2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7682,
+      "logo_path": null,
+      "name": "T. Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1985-05-15",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rendez-vous",
+  "video": false,
+  "vote_average": 5.617,
+  "vote_count": 77
+}

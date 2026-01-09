@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/ajzEWXl1z75Mx6lOj9lToHt5t6Z.jpg",
+  "belongs_to_collection": null,
+  "budget": 11800000,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.sonyclassics.com/film/nuremberg",
+  "id": 1214931,
+  "imdb_id": "tt29567915",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Nuremberg",
+  "overview": "In postwar Germany, an American psychiatrist must determine whether Nazi prisoners are fit to go on trial for war crimes, and finds himself in a complex battle of intellect and ethics with Hermann Göring, Hitler's right-hand man.",
+  "popularity": 45.8102,
+  "poster_path": "/sxu8TsG7k06ymWL98ELEIE1EMZV.jpg",
+  "production_companies": [
+    {
+      "id": 86382,
+      "logo_path": "/yzQivYdNoLd95XtP5ccspiVMDeM.png",
+      "name": "Bluestone Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 10221,
+      "logo_path": "/99VfWRgKasZoyK9UVB39gnYvFrZ.png",
+      "name": "Walden Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 166380,
+      "logo_path": "/w7jeLWAWm7lPzfIWDjYVIupbHNt.png",
+      "name": "Filmsquad",
+      "origin_country": "HU"
+    },
+    {
+      "id": 34982,
+      "logo_path": "/uvTmiRZzNfG88dVXi9hQ7eFNirq.png",
+      "name": "Mythology Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 282266,
+      "logo_path": null,
+      "name": "Titan Media",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2025-11-06",
+  "revenue": 29506959,
+  "runtime": 148,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Judgment is coming.",
+  "title": "Nuremberg",
+  "video": false,
+  "vote_average": 7.297,
+  "vote_count": 318
+}

@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/jgySLjw9ZDKbnGf0VlhlHT7iHSi.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://its-new.co.kr/en/contentspanda/businessDetail.aspx?seq=1977",
+  "id": 936245,
+  "imdb_id": "tt34490115",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "히든페이스",
+  "overview": "Su-yeon, a cellist in an orchestra led by her fiancé and conductor Sung-jin, disappears one day, leaving behind only a video recording. Sung-jin is devasted over the loss of Su-yeon, but feels a strong attraction to Mi-ju, a cellist who fills in for his fiancée. Then one rainy night, Sung-jin and Mi-ju get swept away by their mutual desires for each other and commit an unforgivable act at Su-yeon's house.",
+  "popularity": 5.7122,
+  "poster_path": "/slRaAeEWbU8gM834X10qNhBhVIv.jpg",
+  "production_companies": [
+    {
+      "id": 106996,
+      "logo_path": "/stmGVs6UmgfqE9BYNB5lXjy5gQm.png",
+      "name": "Studio & New",
+      "origin_country": "KR"
+    },
+    {
+      "id": 20064,
+      "logo_path": "/2In7Heq6DuXDjOwPmJqHWkpohaL.png",
+      "name": "Next Entertainment World",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2024-11-20",
+  "revenue": 0,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Secrets revealed, fouled desire.",
+  "title": "Hidden Face",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 49
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/iZ0ZSnhmHB3k1KDkDzEz65f5iia.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.crunchyroll.com/watch/GG1UXVQZ3/kaiju-no-8-mission-recon",
+  "id": 1326106,
+  "imdb_id": "tt35636950",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "怪獣８号 第1期総集編／同時上映「保科の休日」",
+  "overview": "In a Kaiju-filled Japan, Kafka Hibino works in monster disposal. After reuniting with his childhood friend Mina Ashiro, a rising star in the anti-Kaiju Defense Force, he decides to pursue his abandoned dream of joining the Force, when he suddenly transforms into the powerful \"Kaiju No. 8.\" An action-packed recap of the first season of Kaiju No. 8 and a new original episode, Hoshina's Day Off.",
+  "popularity": 10.1379,
+  "poster_path": "/2mU8qUbYKlHBdmDDbCmKLuqXd1m.jpg",
+  "production_companies": [
+    {
+      "id": 529,
+      "logo_path": "/rwB6w2aPENQbx756pBWSw44Ouk.png",
+      "name": "Production I.G",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2918,
+      "logo_path": "/gyEWUBWwqrm3H5T2hkERD9LxpOq.png",
+      "name": "Shueisha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2025-03-28",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kaiju No. 8: Mission Recon",
+  "video": false,
+  "vote_average": 7.975,
+  "vote_count": 80
+}

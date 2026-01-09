@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/185G4RghYjGXdWTA6BUCymD8TeG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 19600,
+  "imdb_id": "tt0180837",
+  "origin_country": [
+    "US",
+    "BR"
+  ],
+  "original_language": "en",
+  "original_title": "Bossa Nova",
+  "overview": "After a chance encounter on the elevator, the lives of Mary Ann, a widowed English teacher, and Pedro, a recently divorced man, intersect against the hot backdrop of Rio de Janeiro.",
+  "popularity": 3.2986,
+  "poster_path": "/zNOEUXsb3LMdBLDafaWYziLCQbO.jpg",
+  "production_companies": [
+    {
+      "id": 13969,
+      "logo_path": "/bEpiJ2zXGIH70JT16asjWNFtOEv.png",
+      "name": "Globo Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 3614,
+      "logo_path": "/qFRpYYtU9iyVKDMpm3a8tN7Q7YE.png",
+      "name": "Columbia Pictures Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 77682,
+      "logo_path": null,
+      "name": "Columbia TriStar Filmes do Brasil",
+      "origin_country": "BR"
+    },
+    {
+      "id": 13931,
+      "logo_path": null,
+      "name": "Filmes do Equador",
+      "origin_country": "BR"
+    },
+    {
+      "id": 13118,
+      "logo_path": "/cHKq00BCpqb4tLSMkoD48TZ6IyO.png",
+      "name": "LC Barreto",
+      "origin_country": "BR"
+    },
+    {
+      "id": 13968,
+      "logo_path": null,
+      "name": "Europa Filmes",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-02-18",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The difference between \"amor\" and \"love\".",
+  "title": "Bossa Nova",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 27
+}

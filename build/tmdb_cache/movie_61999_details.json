@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/pS8FXifwZyvZFZEOHGgJjjtOdfP.jpg",
+  "belongs_to_collection": null,
+  "budget": 835000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 61999,
+  "imdb_id": "tt0120066",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Sara",
+  "overview": "Sixteen-year-old Sara's father is a wealthy gangster and has a lot of enemies. Her father makes clear that whoever touches Sara will die and he looks for the right bodyguard to protect her.",
+  "popularity": 4.0646,
+  "poster_path": "/1ynxFhdoqI1bh1VaZsyMb705ZfQ.jpg",
+  "production_companies": [
+    {
+      "id": 250,
+      "logo_path": "/evWKasiElVQywuKv2dI72P9twz8.png",
+      "name": "CANAL+ Polska",
+      "origin_country": "PL"
+    },
+    {
+      "id": 266,
+      "logo_path": null,
+      "name": "Agencja Produkcji Filmowej",
+      "origin_country": "PL"
+    },
+    {
+      "id": 21303,
+      "logo_path": "/iRswDaMLcipfyG8qSk4iLLjRQIq.png",
+      "name": "Polsat",
+      "origin_country": "PL"
+    },
+    {
+      "id": 2466,
+      "logo_path": "/596Eq7ivA0DpNfB5zzDU7yMeTB4.png",
+      "name": "Wytwórnia Filmów Dokumentalnych i Fabularnych",
+      "origin_country": "PL"
+    },
+    {
+      "id": 260,
+      "logo_path": null,
+      "name": "Heritage Films",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "1997-05-23",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sara",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 86
+}

@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/h44PEDYRcnLgYaDYcvD68f0MpZm.jpg",
+  "belongs_to_collection": {
+    "id": 374512,
+    "name": "Godzilla (Millennium) Collection",
+    "poster_path": "/1B3UASu6XDE1R9wzE3K9QIipnBj.jpg",
+    "backdrop_path": "/hhUQwi9Z7wE2kwwC1AM1AE418oU.jpg"
+  },
+  "budget": 8300000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 39468,
+  "imdb_id": "tt0255198",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ゴジラ×メガギラス G消滅作戦",
+  "overview": "In an alternate timeline the original Godzilla is never defeated and repeatedly reemerges to feed on Japan's energy sources. A new inter-dimensional weapon called the Dimension Tide is created with the intent of eliminating Godzilla. However, the new weapon might also serve as a gateway to something far more sinister.",
+  "popularity": 4.3088,
+  "poster_path": "/ffgupHs4tQFo1cDCyT1zH9AfNrB.jpg",
+  "production_companies": [
+    {
+      "id": 49301,
+      "logo_path": "/vmLo0piReB0EI1boTiBZ8eDJ7vD.png",
+      "name": "Toho Pictures",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2000-12-16",
+  "revenue": 11068800,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Godzilla disappears.",
+  "title": "Godzilla vs. Megaguirus",
+  "video": false,
+  "vote_average": 6.642,
+  "vote_count": 208
+}

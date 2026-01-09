@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/aViC67Gyp0BzAQjBcGJsRv2HlB0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 27265,
+  "imdb_id": "tt0117091",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mother",
+  "overview": "A neurotic, twice-divorced sci-fi writer moves back in with his mother to solve his personal problems.",
+  "popularity": 3.5053,
+  "poster_path": "/mxJJ0IEOOdvMo5yO7rcJBqyZ11n.jpg",
+  "production_companies": [
+    {
+      "id": 258,
+      "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+      "name": "Scott Rudin Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-12-25",
+  "revenue": 19100000,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No one misunderstands you better.",
+  "title": "Mother",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 88
+}

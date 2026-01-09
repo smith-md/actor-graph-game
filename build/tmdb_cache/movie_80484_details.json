@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/9hXAAN4xUdXlr0gPwAtKztnEUDt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 80484,
+  "imdb_id": "tt0059246",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Guide",
+  "overview": "A tourist guide meets an unhappy married woman who wants to take up dancing. With his motivation, she becomes a successful dancer but success corrupts the man's mind.",
+  "popularity": 3.1771,
+  "poster_path": "/a31qY8UA4hsJdwFrollZ1iRzukC.jpg",
+  "production_companies": [
+    {
+      "id": 67527,
+      "logo_path": null,
+      "name": "Navketan International Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1965-02-06",
+  "revenue": 0,
+  "runtime": 183,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A classic Indian drama of love, sacrifice, downfall and redemption.",
+  "title": "Guide",
+  "video": false,
+  "vote_average": 6.621,
+  "vote_count": 33
+}

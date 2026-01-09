@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/lnv9JCsdMVdZJocPW52Zy70KNiK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 37527,
+  "imdb_id": "tt0104139",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dr. Giggles",
+  "overview": "In 1957, Evan Rendell flees after his father is lynched for killing multiple patients in his effort to find a replacement heart for his ailing wife. After 35 years, Evan escapes from a mental institution and returns to town for revenge, killing off residents one by one. When Jennifer and her friends break into the Rendell house out of morbid curiosity, Evan notices Jennifer has a heart condition similar to his mother and decides to make her his final victim.",
+  "popularity": 4.546,
+  "poster_path": "/xd2gbzKxJSdKgNDMHYehfl4xt8j.jpg",
+  "production_companies": [
+    {
+      "id": 552,
+      "logo_path": "/9dGdLfm3GteWeUDtD9c9tvlidUG.png",
+      "name": "Dark Horse Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1644,
+      "logo_path": "/l5JFudbLN3vr1sSkjRoqF7To8Ky.png",
+      "name": "Largo Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 182,
+      "logo_path": "/1BPbXmwi1DZS1Qp0koK7AuponY6.png",
+      "name": "JVC",
+      "origin_country": "JP"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-10-23",
+  "revenue": 8403433,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A new prescription for terror.",
+  "title": "Dr. Giggles",
+  "video": false,
+  "vote_average": 5.547,
+  "vote_count": 172
+}

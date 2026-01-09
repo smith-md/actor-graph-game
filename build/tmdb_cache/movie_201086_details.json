@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": "/rKIifnWUilOKt8raPEx35Lt3jmT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 201086,
+  "imdb_id": "tt2390237",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Cuban Fury",
+  "overview": "Beneath Bruce Garrett's under-confident, overweight exterior, the passionate heart of a salsa king lies dormant. Now, one woman is about to reignite his Latin fire.",
+  "popularity": 3.5389,
+  "poster_path": "/xuRAyIUJmgXwI1ba06AxYBAQMTc.jpg",
+  "production_companies": [
+    {
+      "id": 443,
+      "logo_path": "/wibNj4tELmsnCFlf5ldLik37Urr.png",
+      "name": "Big Talk Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 20664,
+      "logo_path": "/iRrZpxnYNDnVXJkr6HiLgSLlqRc.png",
+      "name": "Anton Capital Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7281,
+      "logo_path": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+      "name": "BFI",
+      "origin_country": "GB"
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2014-02-14",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "فارسی"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All's fair in Love & Salsa",
+  "title": "Cuban Fury",
+  "video": false,
+  "vote_average": 6.082,
+  "vote_count": 336
+}

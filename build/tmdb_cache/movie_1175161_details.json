@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/aMD179LsRq3oyFeAUSjij3dDtRX.jpg",
+  "belongs_to_collection": {
+    "id": 1287574,
+    "name": "Agak Laen Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 60000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1175161,
+  "imdb_id": "tt28856462",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "Agak Laen",
+  "overview": "Four friends, working in a haunted house ride at a night market, unintentionally cause the death of an elderly man with heart disease through fright. They decide to bury his body within the haunted house, which turns out to be beneficial for the attraction... at least for a little while.",
+  "popularity": 4.0069,
+  "poster_path": "/lUOwyPbDD9Agl3pHQVHGbZE0TvI.jpg",
+  "production_companies": [
+    {
+      "id": 165331,
+      "logo_path": "/wHlXlFytVFeJ2evm4eCD40IFIpp.png",
+      "name": "Imajinari",
+      "origin_country": "ID"
+    },
+    {
+      "id": 46840,
+      "logo_path": "/y5TYYZWMM6CoNyAMMRL9lJA10yD.png",
+      "name": "Legacy Pictures",
+      "origin_country": "ID"
+    },
+    {
+      "id": 176757,
+      "logo_path": "/ywDnfd0zM9AnFUAYrt51aymWxNw.png",
+      "name": "Jagartha",
+      "origin_country": "ID"
+    },
+    {
+      "id": 210714,
+      "logo_path": "/we642iLpTr5qvzK2ZZ9enidyigz.png",
+      "name": "Trinity Entertainment Network",
+      "origin_country": "ID"
+    },
+    {
+      "id": 215827,
+      "logo_path": "/uPaiE5CC349zs8Q04ms838192T2.png",
+      "name": "A&Z Films",
+      "origin_country": "ID"
+    },
+    {
+      "id": 276156,
+      "logo_path": "/wqS4WHAcxPiRq0f3dDDSmilxKay.png",
+      "name": "Agak Laen",
+      "origin_country": "ID"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2024-02-01",
+  "revenue": 19601819,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Agak Laen",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 25
+}

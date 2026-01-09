@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/jeCyqtZDNhexzrUxfUK4cyHzW0V.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 122163,
+  "imdb_id": "tt0199650",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Jill Rips",
+  "overview": "A tough guy goes undercover on a personal mission of vengeance into the hardcore world of S&amp;M, to find out who's responsible for the death of his brother.",
+  "popularity": 3.3243,
+  "poster_path": "/cfuc1GSUQaN56gc8y5nvkXwRkLF.jpg",
+  "production_companies": [
+    {
+      "id": 12555,
+      "logo_path": null,
+      "name": "Annex Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1403,
+      "logo_path": "/pMTQNUhHCwr39CsS7yUmSg503E7.png",
+      "name": "Franchise Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 954,
+      "logo_path": null,
+      "name": "Phoenician Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 12556,
+      "logo_path": null,
+      "name": "Ripped Productions Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2000-01-28",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She's America's Most Wanted Serial Killer",
+  "title": "Jill Rips",
+  "video": false,
+  "vote_average": 3.6,
+  "vote_count": 28
+}

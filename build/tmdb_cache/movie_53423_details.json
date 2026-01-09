@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/b87wEkeuVDDjZOYM4IdUgILnKtZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 53423,
+  "imdb_id": "tt0009611",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shoulder Arms",
+  "overview": "An American doughboy, stationed in France during the Great War, goes on a daring mission behind enemy lines and becomes a hero.",
+  "popularity": 4.1391,
+  "poster_path": "/lxn5foteeZbDGIEfSahW4UMxnTC.jpg",
+  "production_companies": [
+    {
+      "id": 1315,
+      "logo_path": null,
+      "name": "Charles Chaplin Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1918-10-20",
+  "revenue": 0,
+  "runtime": 36,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Unprecedented in film annals!",
+  "title": "Shoulder Arms",
+  "video": false,
+  "vote_average": 6.825,
+  "vote_count": 189
+}

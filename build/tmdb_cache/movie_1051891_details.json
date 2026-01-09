@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/wkPPRIducGfsbaUPsWfw0MCQdX7.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.thelmamovie.com",
+  "id": 1051891,
+  "imdb_id": "tt23778968",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Thelma",
+  "overview": "When 93-year-old Thelma Post gets duped by a phone scammer pretending to be her grandson, she sets out on a treacherous quest across the city to reclaim what was taken from her.",
+  "popularity": 4.5088,
+  "poster_path": "/rUcuageYgv9SsJoWuc0seRWG6JC.jpg",
+  "production_companies": [
+    {
+      "id": 215760,
+      "logo_path": "/8QEHr8gHpOXAeclRhfFO2sNCln0.png",
+      "name": "Zurich Avenue",
+      "origin_country": "CH"
+    },
+    {
+      "id": 215761,
+      "logo_path": null,
+      "name": "Invention Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 215762,
+      "logo_path": null,
+      "name": "Bandwagon",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2024-06-21",
+  "revenue": 12537071,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Revenge has never been sweeter.",
+  "title": "Thelma",
+  "video": false,
+  "vote_average": 6.929,
+  "vote_count": 353
+}

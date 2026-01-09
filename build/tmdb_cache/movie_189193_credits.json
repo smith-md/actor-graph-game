@@ -1,0 +1,140 @@
+{
+  "id": 189193,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 33923,
+      "known_for_department": "Acting",
+      "name": "Mel Blanc",
+      "original_name": "Mel Blanc",
+      "popularity": 1.6254,
+      "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+      "cast_id": 1,
+      "character": "Bugs Bunny",
+      "credit_id": "52fe4d529251416c751374bf",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 147117,
+      "known_for_department": "Acting",
+      "name": "Arthur Q. Bryan",
+      "original_name": "Arthur Q. Bryan",
+      "popularity": 0.6927,
+      "profile_path": "/hvNjp2xYVPgPqPNM4no24myzBUw.jpg",
+      "cast_id": 11,
+      "character": "Elmer Fudd",
+      "credit_id": "52fe4d529251416c751374ed",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 15098,
+      "known_for_department": "Acting",
+      "name": "June Foray",
+      "original_name": "June Foray",
+      "popularity": 1.3204,
+      "profile_path": "/6s5sWcOPGtVdbMFtZwkWadArj2I.jpg",
+      "cast_id": 12,
+      "character": "Millicent",
+      "credit_id": "52fe4d529251416c751374f1",
+      "order": 2
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 149379,
+      "known_for_department": "Editing",
+      "name": "Treg Brown",
+      "original_name": "Treg Brown",
+      "popularity": 0.5271,
+      "profile_path": null,
+      "credit_id": "52fe4d529251416c751374d1",
+      "department": "Editing",
+      "job": "Editor"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 422939,
+      "known_for_department": "Sound",
+      "name": "Milt Franklyn",
+      "original_name": "Milt Franklyn",
+      "popularity": 1.2695,
+      "profile_path": "/wvwkvfkRYm9txQNGaqwkOj7Hn8b.jpg",
+      "credit_id": "52fe4d529251416c751374cb",
+      "department": "Sound",
+      "job": "Music Editor"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1125248,
+      "known_for_department": "Production",
+      "name": "John W. Burton",
+      "original_name": "John W. Burton",
+      "popularity": 0.4648,
+      "profile_path": null,
+      "credit_id": "52fe4d529251416c751374d7",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 999606,
+      "known_for_department": "Visual Effects",
+      "name": "George Grandpré",
+      "original_name": "George Grandpré",
+      "popularity": 0.306,
+      "profile_path": null,
+      "credit_id": "52fe4d529251416c751374e9",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 150769,
+      "known_for_department": "Visual Effects",
+      "name": "Ted Bonnicksen",
+      "original_name": "Ted Bonnicksen",
+      "popularity": 0.2904,
+      "profile_path": null,
+      "credit_id": "52fe4d529251416c751374dd",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 132742,
+      "known_for_department": "Directing",
+      "name": "Robert McKimson",
+      "original_name": "Robert McKimson",
+      "popularity": 1.5077,
+      "profile_path": "/4fgokuTV7tlwekg91WeDZRuLQNc.jpg",
+      "credit_id": "52fe4d529251416c751374c5",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1170592,
+      "known_for_department": "Art",
+      "name": "William Butler",
+      "original_name": "William Butler",
+      "popularity": 0.2405,
+      "profile_path": null,
+      "credit_id": "64443d1ed38b5805211143e1",
+      "department": "Art",
+      "job": "Background Designer"
+    }
+  ]
+}

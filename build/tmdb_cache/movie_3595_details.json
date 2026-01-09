@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/vb6JwkHIcKiVvYrUFzuZbN7nUqN.jpg",
+  "belongs_to_collection": null,
+  "budget": 80000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 3595,
+  "imdb_id": "tt0117438",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ransom",
+  "overview": "When a rich man's son is kidnapped, he cooperates with the police at first but then tries a unique tactic against the criminals.",
+  "popularity": 5.3136,
+  "poster_path": "/4nmOA5ZOY2VlHzwSlKY03sF2JUz.jpg",
+  "production_companies": [
+    {
+      "id": 9195,
+      "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 23,
+      "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-11-08",
+  "revenue": 309492681,
+  "runtime": 121,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Someone is going to pay.",
+  "title": "Ransom",
+  "video": false,
+  "vote_average": 6.669,
+  "vote_count": 1990
+}

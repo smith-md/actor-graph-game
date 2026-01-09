@@ -1,0 +1,120 @@
+{
+  "adult": false,
+  "backdrop_path": "/4KJSPoZwJ1TAIaTueDxtkmo5wE1.jpg",
+  "belongs_to_collection": null,
+  "budget": 16600000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "http://kontikifilmen.no/",
+  "id": 70667,
+  "imdb_id": "tt1613750",
+  "origin_country": [
+    "DK",
+    "NO",
+    "GB"
+  ],
+  "original_language": "no",
+  "original_title": "Kon-Tiki",
+  "overview": "The true story about legendary explorer Thor Heyerdahl and his epic crossing of the Pacific on a balsa wood raft in 1947, in an effort to prove it was possible for South Americans to settle in Polynesia in pre-Columbian times.",
+  "popularity": 6.2612,
+  "poster_path": "/tphF7lJZys5ij9BHivbxsqmPiOo.jpg",
+  "production_companies": [
+    {
+      "id": 50093,
+      "logo_path": null,
+      "name": "Stunt Bros",
+      "origin_country": "SK"
+    },
+    {
+      "id": 11561,
+      "logo_path": "/8HB3TFUeo83keAPHfFfrNtN2MmA.png",
+      "name": "Recorded Picture Company",
+      "origin_country": "GB"
+    },
+    {
+      "id": 14756,
+      "logo_path": null,
+      "name": "Roenbergfilm",
+      "origin_country": ""
+    },
+    {
+      "id": 14758,
+      "logo_path": "/eCYPzcnF5KidrKPOT90ANslOKMx.png",
+      "name": "DCM Pictures",
+      "origin_country": "DE"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 235,
+      "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+      "name": "Nordisk Film Denmark",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2012-08-24",
+  "revenue": 0,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kon-Tiki",
+  "video": false,
+  "vote_average": 6.89,
+  "vote_count": 803
+}

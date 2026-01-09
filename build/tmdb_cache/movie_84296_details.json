@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/p92mFg6cQ4p7l6N7C74J5ajlwBN.jpg",
+  "belongs_to_collection": null,
+  "budget": 1300000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 84296,
+  "imdb_id": "tt0022495",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Trader Horn",
+  "overview": "While on safari in an unexplored area of Africa, Trader Horn and Peru find missionary Edith Trent killed by natives. They decide to carry on her quest for her lost daughter Nina. They find her as the queen of a particularly savage tribe, and try to bring her back to civilization.",
+  "popularity": 3.8787,
+  "poster_path": "/rBzzjMMOXUKWglfGsSZDxIbavjk.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1931-02-03",
+  "revenue": 4200000,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Miracle of Pictures",
+  "title": "Trader Horn",
+  "video": false,
+  "vote_average": 5.333,
+  "vote_count": 21
+}

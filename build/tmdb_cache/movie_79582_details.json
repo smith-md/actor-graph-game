@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 79582,
+  "imdb_id": "tt1854506",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Aliens vs Avatars",
+  "overview": "Six college friends blowing off steam on a camping trip, find themselves caught up in a cat and mouse hunt with an Alien monster. Not knowing what to do or who to trust, they struggle to protect themselves. Reluctantly, they join forces with another, seemingly friendly, alien, Ava, who orbits the Earth and appears to them in the form of an avatar. Having only one chance at stopping the monster, they must race to locate and repair the Ava’s earth sent robot, before it slaughters them one by one.",
+  "popularity": 2.7728,
+  "poster_path": "/bgwYgUeAMvy6PZXLSDrWy9dlUEQ.jpg",
+  "production_companies": [
+    {
+      "id": 6765,
+      "logo_path": null,
+      "name": "Sterling Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 6766,
+      "logo_path": null,
+      "name": "Tom Cat Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-09-20",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Aliens vs Avatars",
+  "video": false,
+  "vote_average": 3.1,
+  "vote_count": 34
+}

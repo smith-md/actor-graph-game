@@ -1,0 +1,50 @@
+{
+  "adult": false,
+  "backdrop_path": "/yppyDD843g5dqV0r47z9eAcpMXC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 102961,
+  "imdb_id": "tt0079882",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Seven",
+  "overview": "A government agent discovers a plot by a cartel of seven gangsters to take over the state of Hawaii. He hires a team of seven hitmen to stop them.",
+  "popularity": 3.6191,
+  "poster_path": "/btiZ1zyHY1EzlPnrKKN3sWc4NcU.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1979-09-07",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Death is their way of life!",
+  "title": "Seven",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 43
+}

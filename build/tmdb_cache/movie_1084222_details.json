@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/xp6lAdlYH5DfzxTL6h4W5lTV29G.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1084222,
+  "imdb_id": "tt23553640",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Operation Blood Hunt",
+  "overview": "Prolific expert of the occult and whiskey, Reverend Conte, accompanies a ragtag group of military rejects to a remote South Pacific Island to investigate the disappearance of Marines units  stationed there in 1944, said to be at the hands of the Japanese Imperial Army. Upon speaking  with the island’s inhabitants, they soon discover the Marines had actually been massacred by a group of Lycanthropes, known to most as WEREWOLVES.",
+  "popularity": 11.7418,
+  "poster_path": "/u36L4VEFTRIw11eK3xw8zjT0blT.jpg",
+  "production_companies": [
+    {
+      "id": 64948,
+      "logo_path": null,
+      "name": "Hillin Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 176331,
+      "logo_path": null,
+      "name": "BGG Capital",
+      "origin_country": "US"
+    },
+    {
+      "id": 6854,
+      "logo_path": null,
+      "name": "Benetone Films",
+      "origin_country": "TH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-12-12",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Operation Blood Hunt",
+  "video": false,
+  "vote_average": 6.694,
+  "vote_count": 54
+}

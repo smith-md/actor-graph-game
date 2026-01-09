@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/zoflkUluMA01vxvifWqhmr4sA2q.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 9452,
+  "imdb_id": "tt0118798",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bulworth",
+  "overview": "A suicidally disillusioned liberal politician puts a contract out on himself and takes the opportunity to be bluntly honest with his voters by affecting the rhythms and speech of hip-hop music and culture.",
+  "popularity": 3.8418,
+  "poster_path": "/gR9jZ7W2d28aSa2Yimz797VNXRh.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 210080,
+      "logo_path": null,
+      "name": "Mulholland Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-05-15",
+  "revenue": 29202884,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Brace yourself. This politician is about to tell the truth!",
+  "title": "Bulworth",
+  "video": false,
+  "vote_average": 6.318,
+  "vote_count": 261
+}

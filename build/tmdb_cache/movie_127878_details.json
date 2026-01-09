@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 127878,
+  "imdb_id": "tt1293751",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Casting By",
+  "overview": "This essential new documentary pays tribute to the legacy of the late, legendary casting director Marion Dougherty and shines a light on one of the most overlooked and least understood crafts in filmmaking.",
+  "popularity": 3.4958,
+  "poster_path": "/6e4BkMnt42OCzH5e3xOXgWVYh2v.jpg",
+  "production_companies": [
+    {
+      "id": 4095,
+      "logo_path": "/zR0M1hMBNRKyYnRHMidK9WjUsUX.png",
+      "name": "First Run Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 217139,
+      "logo_path": null,
+      "name": "Our8's",
+      "origin_country": ""
+    },
+    {
+      "id": 118021,
+      "logo_path": null,
+      "name": "CreativeChaos vmg",
+      "origin_country": "US"
+    },
+    {
+      "id": 217140,
+      "logo_path": null,
+      "name": "Genmaicha",
+      "origin_country": ""
+    },
+    {
+      "id": 217143,
+      "logo_path": null,
+      "name": "Tashtego Films",
+      "origin_country": ""
+    },
+    {
+      "id": 14914,
+      "logo_path": "/1RZBWz53SpHUTLpRcM8BGv2plIP.png",
+      "name": "HBO Documentary Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-11-01",
+  "revenue": 22497,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Casting By",
+  "video": false,
+  "vote_average": 6.857,
+  "vote_count": 42
+}

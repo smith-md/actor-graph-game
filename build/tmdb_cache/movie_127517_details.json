@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/e47cvCgbZogOyKXSenT9aqCDhe8.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://ldentertainment.com/movies/detail?id=9&row=0",
+  "id": 127517,
+  "imdb_id": "tt1433811",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Disconnect",
+  "overview": "A hard-working lawyer, attached to his cell phone, can't find the time to communicate with his family. An estranged couple uses the internet as a means to escape from their lifeless marriage. A widowed ex-cop struggles to raise a mischievous son who cyber-bullies a classmate. An ambitious journalist sees a career-making story in a teen that performs on an adult-only site. They are strangers, neighbors and colleagues and their stories collide as ordinary people struggling to connect in today's wired world.",
+  "popularity": 3.8827,
+  "poster_path": "/mAStXq4ncbLBnujd3LG4KDd7Z3a.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 11448,
+      "logo_path": "/twhX9HMUuGW4Mhb45AyWDhRqkvR.png",
+      "name": "Exclusive Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 11140,
+      "logo_path": null,
+      "name": "Wonderful Films PLC",
+      "origin_country": "GB"
+    },
+    {
+      "id": 8533,
+      "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+      "name": "LD Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-04-12",
+  "revenue": 3428048,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Look up.",
+  "title": "Disconnect",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 1178
+}

@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/8KYeWl8P1KS8f9aNdbVeIPCieBz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 95775,
+  "imdb_id": "tt1900908",
+  "origin_country": [
+    "RS"
+  ],
+  "original_language": "sr",
+  "original_title": "Klip",
+  "overview": "Jasna, a beautiful teenager, leads a crude life in post-war Serbia. She goes on a spree of sex, drugs and partying until she finds love and tenderness in a harsh environment.",
+  "popularity": 4.5258,
+  "poster_path": "/9HMdSbpIv2ro6bAPDBXeKhUZRlO.jpg",
+  "production_companies": [
+    {
+      "id": 1653,
+      "logo_path": "/hIioJF6KiyuntnFjxYD9cubiTcT.png",
+      "name": "Film House Baš Čelik",
+      "origin_country": "RS"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RS",
+      "name": "Serbia"
+    }
+  ],
+  "release_date": "2012-01-27",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Clip",
+  "video": false,
+  "vote_average": 5.339,
+  "vote_count": 124
+}

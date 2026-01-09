@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/wfdHCilp8cNPK7tK4jLgdUT7703.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.amazon.com/gp/video/detail/B0CQD5ZV9J",
+  "id": 1022690,
+  "imdb_id": "tt1660648",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ricky Stanicky",
+  "overview": "When three childhood best friends pull a prank gone wrong, they invent the imaginary Ricky Stanicky to get them out of trouble. Twenty years later, the trio still uses the nonexistent Ricky as a handy alibi for their immature behavior. But when their spouses and partners get suspicious and demand to finally meet the fabled Mr. Stanicky, the guilty trio decide to hire a washed-up actor and raunchy celebrity impersonator to bring him to life.",
+  "popularity": 6.6281,
+  "poster_path": "/oJQdLfrpl4CQsHAKIxd3DJqYTVq.jpg",
+  "production_companies": [
+    {
+      "id": 198764,
+      "logo_path": null,
+      "name": "Footloose Productions",
+      "origin_country": "AU"
+    },
+    {
+      "id": 11370,
+      "logo_path": null,
+      "name": "Michael De Luca Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 44783,
+      "logo_path": null,
+      "name": "Smart Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 52059,
+      "logo_path": "/rajoRd4i5xJKHAqFyeflFBMUBZM.png",
+      "name": "RocketScience",
+      "origin_country": "GB"
+    },
+    {
+      "id": 975,
+      "logo_path": "/fknQoaiVO632mD4QMdJFmP3Gbda.png",
+      "name": "Gerber Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-03-07",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's the best friend they never had.",
+  "title": "Ricky Stanicky",
+  "video": false,
+  "vote_average": 6.528,
+  "vote_count": 739
+}

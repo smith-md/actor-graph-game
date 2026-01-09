@@ -1,0 +1,43 @@
+{
+  "adult": false,
+  "backdrop_path": "/zxjFabSJKMAvuu3acNg78nuTuCs.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1442776,
+  "imdb_id": "tt32169142",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "狂暴巨蜥",
+  "overview": "A young man climbs into the mountains to pick up a meteorite that has fallen there and is killed by something. The \"thing\" descends to the village and begins to eat the inhabitants one by one, terrorizing the entire island.",
+  "popularity": 4.7268,
+  "poster_path": "/9TFaFsSXedaALXTzba349euDeoY.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2024-03-27",
+  "revenue": 0,
+  "runtime": 75,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Crazy Lizard",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 28
+}

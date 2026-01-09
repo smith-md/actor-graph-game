@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/vqEX1uF3Spl12rOACQ3gJ6j4MSR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 864370,
+  "imdb_id": "tt18968540",
+  "origin_country": [
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_title": "咒",
+  "overview": "Inspired by the true story of a family who believed they were possessed by spirits. This film follows a woman who must protect her child from a curse.",
+  "popularity": 5.014,
+  "poster_path": "/cWz28oGV3cSajWdziVQbqrYCmnX.jpg",
+  "production_companies": [
+    {
+      "id": 116506,
+      "logo_path": "/mVnaTqbQ46HWmzUAkLSMrei7PPh.png",
+      "name": "Monkey Movies",
+      "origin_country": "TW"
+    },
+    {
+      "id": 5430,
+      "logo_path": null,
+      "name": "Moonshine Animation",
+      "origin_country": "TW"
+    },
+    {
+      "id": 169598,
+      "logo_path": null,
+      "name": "Kaohsiung Film Fund",
+      "origin_country": "TW"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "release_date": "2022-03-18",
+  "revenue": 5700000,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Do you believe in blessings?",
+  "title": "Incantation",
+  "video": false,
+  "vote_average": 6.817,
+  "vote_count": 788
+}

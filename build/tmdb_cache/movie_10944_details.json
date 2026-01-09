@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/gyE4uE9DAljHSXFTstTSblSLn2C.jpg",
+  "belongs_to_collection": null,
+  "budget": 12000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 10944,
+  "imdb_id": "tt0199626",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "In the Cut",
+  "overview": "A New York City writing professor, Frannie Avery, has an affair with a police detective who is investigating the murder of a beautiful young woman in her neighborhood.",
+  "popularity": 2.7247,
+  "poster_path": "/c8Xg0yc8UQwDXooffBNLLs2BvQH.jpg",
+  "production_companies": [
+    {
+      "id": 7981,
+      "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+      "name": "Pathé",
+      "origin_country": "FR"
+    },
+    {
+      "id": 3287,
+      "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+      "name": "Screen Gems",
+      "origin_country": "US"
+    },
+    {
+      "id": 21128,
+      "logo_path": null,
+      "name": "Red Turtle",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-10-22",
+  "revenue": 23726793,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everything you know about desire is dead wrong.",
+  "title": "In the Cut",
+  "video": false,
+  "vote_average": 5.134,
+  "vote_count": 448
+}

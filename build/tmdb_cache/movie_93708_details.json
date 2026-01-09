@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/5MfCg5gOW16CBDnl99Bc1E4iJZQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 93708,
+  "imdb_id": "tt0072785",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Cipolla Colt",
+  "overview": "Onion Jack has bought a piece of land on which to settle, but the property is still in possession of the orphans of the original owner and is coveted by the local oil baron.",
+  "popularity": 2.8828,
+  "poster_path": "/Atf4NQ1vxZv1r5PNiBeNC86ft3V.jpg",
+  "production_companies": [
+    {
+      "id": 12276,
+      "logo_path": null,
+      "name": "CIPI Cinematografica S.A",
+      "origin_country": ""
+    },
+    {
+      "id": 10000,
+      "logo_path": null,
+      "name": "C. C. Champion",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1417,
+      "logo_path": null,
+      "name": "T.I.T. Filmproduktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1975-08-25",
+  "revenue": 39598448,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The laughs will bring tears to your eyes.",
+  "title": "Cry, Onion!",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 26
+}

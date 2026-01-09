@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/cVzAhirOhKh91AB1TFcGn0Rh5c3.jpg",
+  "belongs_to_collection": null,
+  "budget": 101,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.paramountmovies.com/movies/art-of-eight-limbs",
+  "id": 1208561,
+  "imdb_id": "tt10079652",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Art of Eight Limbs",
+  "overview": "Four canisters of deadly VX nerve gas have fallen into the hands of an international arms dealer in Myanmar. A CIA recruit delivers a high-tech detection device to an agent already on the ground.",
+  "popularity": 18.001,
+  "poster_path": "/tZRypLd2SU3Eeqg5tD5cwkk5CdL.jpg",
+  "production_companies": [
+    {
+      "id": 214102,
+      "logo_path": null,
+      "name": "McIntosh Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 214103,
+      "logo_path": null,
+      "name": "Tiger Style Media",
+      "origin_country": ""
+    },
+    {
+      "id": 237061,
+      "logo_path": null,
+      "name": "Topanga Venom Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-16",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Art of Eight Limbs",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 39
+}

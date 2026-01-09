@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/vcwWGwx77EEyodim59IXZ1InIFY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.searchlightpictures.com/news/skin/",
+  "id": 569485,
+  "imdb_id": "tt7332306",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Skin",
+  "overview": "In a small supermarket in a blue collar town, a black man smiles at a 10 year old white boy across the checkout aisle. This innocuous moment sends two gangs into a ruthless war that ends with a shocking backlash.",
+  "popularity": 3.8155,
+  "poster_path": "/3fuif2SyRehNE68JYlC0uBWROVO.jpg",
+  "production_companies": [
+    {
+      "id": 115104,
+      "logo_path": null,
+      "name": "New Native",
+      "origin_country": ""
+    },
+    {
+      "id": 102494,
+      "logo_path": "/heQHAgroQnGjGJNIXB2A0qjg6TK.png",
+      "name": "Studio Mao",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-02-08",
+  "revenue": 0,
+  "runtime": 20,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Skin",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 131
+}

@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/uljOSSLD1HomW4pmMNYDhp66gxS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 27420,
+  "imdb_id": "tt0082467",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Graduation Day",
+  "overview": "After the death of a high school track star during a race, a mysterious killer in a fencing mask begins murdering her friends and teachers.",
+  "popularity": 3.1961,
+  "poster_path": "/bbNtkM0oFTCnFfblOzeEuaDUaZB.jpg",
+  "production_companies": [
+    {
+      "id": 3052,
+      "logo_path": "/kqP7DC8cUCzDSI5SXiJKJKmQg1K.png",
+      "name": "Troma Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1981-05-01",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Class of ‘81 is running out of time!",
+  "title": "Graduation Day",
+  "video": false,
+  "vote_average": 5.184,
+  "vote_count": 114
+}

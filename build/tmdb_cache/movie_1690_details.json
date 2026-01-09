@@ -1,0 +1,121 @@
+{
+  "adult": false,
+  "backdrop_path": "/dF6GNQ0TnZkr1t4wBt36Xc0Pccd.jpg",
+  "belongs_to_collection": {
+    "id": 86578,
+    "name": "Hostel Collection",
+    "poster_path": "/ckAOGOeYaNFgFjjnyO8RPlRB0zm.jpg",
+    "backdrop_path": "/dF6GNQ0TnZkr1t4wBt36Xc0Pccd.jpg"
+  },
+  "budget": 4800000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1690,
+  "imdb_id": "tt0450278",
+  "origin_country": [
+    "SK",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hostel",
+  "overview": "Three backpackers head to a Slovakian city that promises to meet their hedonistic expectations, with no idea of the hell that awaits them.",
+  "popularity": 5.1053,
+  "poster_path": "/dDrtuWUKhgUGp12kgUWuP0NpTdF.jpg",
+  "production_companies": [
+    {
+      "id": 1507,
+      "logo_path": null,
+      "name": "International Production Company",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 1631,
+      "logo_path": "/SdcaNCxKDs865GTodv6IVVK8Th.png",
+      "name": "Raw Nerve",
+      "origin_country": "US"
+    },
+    {
+      "id": 1633,
+      "logo_path": null,
+      "name": "Next Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 17793,
+      "logo_path": null,
+      "name": "Hostel",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    }
+  ],
+  "release_date": "2006-01-06",
+  "revenue": 81979826,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "Íslenska"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Czech",
+      "iso_639_1": "cs",
+      "name": "Český"
+    },
+    {
+      "english_name": "Slovak",
+      "iso_639_1": "sk",
+      "name": "Slovenčina"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Welcome to your worst nightmare.",
+  "title": "Hostel",
+  "video": false,
+  "vote_average": 5.949,
+  "vote_count": 3837
+}

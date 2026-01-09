@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/lohUAwKc5rw7te4obHjtxAvPV8M.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 960470,
+  "imdb_id": "tt21068514",
+  "origin_country": [
+    "IE",
+    "IT"
+  ],
+  "original_language": "en",
+  "original_title": "Woken",
+  "overview": "Anna wakes to kind faces she doesn’t recognize and a remote island she has no memory of. She is forced to re-learn everything about herself, her husband and the baby she is carrying. But when two disfigured people arrive on the island and there is a violent altercation she discovers that the human race is close to extinction and goes searching for the truth about herself.",
+  "popularity": 3.4759,
+  "poster_path": "/88eSX0LQKn7LNNi7stZ6M6z6nTE.jpg",
+  "production_companies": [
+    {
+      "id": 18078,
+      "logo_path": "/n9je6Az0niL6B6FuudI3FmkqP0p.png",
+      "name": "Fantastic Films",
+      "origin_country": "IE"
+    },
+    {
+      "id": 119360,
+      "logo_path": "/bedAqJ7D1WBIewOTA0kbS14rdKD.png",
+      "name": "Propaganda Italia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 100592,
+      "logo_path": "/7Gr1YQJjKszgJN62AGgIIkJMxSI.png",
+      "name": "Rocliffe Ltd.",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2024-07-04",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Open your eyes. Fear the future.",
+  "title": "Woken",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 23
+}

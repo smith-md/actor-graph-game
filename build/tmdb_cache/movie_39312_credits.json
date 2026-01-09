@@ -1,0 +1,141 @@
+{
+  "id": 39312,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 550839,
+      "known_for_department": "Acting",
+      "name": "Juan \"Doc\" Restrepo",
+      "original_name": "Juan \"Doc\" Restrepo",
+      "popularity": 0.3601,
+      "profile_path": null,
+      "cast_id": 3,
+      "character": "Himself",
+      "credit_id": "52fe470e9251416c9106898b",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 550840,
+      "known_for_department": "Acting",
+      "name": "Dan Kearney",
+      "original_name": "Dan Kearney",
+      "popularity": 0.4228,
+      "profile_path": null,
+      "cast_id": 4,
+      "character": "Himself",
+      "credit_id": "52fe470e9251416c9106898f",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 550841,
+      "known_for_department": "Acting",
+      "name": "LaMonta Caldwell",
+      "original_name": "LaMonta Caldwell",
+      "popularity": 0.2835,
+      "profile_path": null,
+      "cast_id": 5,
+      "character": "Himself",
+      "credit_id": "52fe470e9251416c91068993",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 550842,
+      "known_for_department": "Acting",
+      "name": "Aron Hijar",
+      "original_name": "Aron Hijar",
+      "popularity": 0.5791,
+      "profile_path": null,
+      "cast_id": 6,
+      "character": "Himself",
+      "credit_id": "52fe470e9251416c91068997",
+      "order": 3
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 131948,
+      "known_for_department": "Directing",
+      "name": "Tim Hetherington",
+      "original_name": "Tim Hetherington",
+      "popularity": 0.2669,
+      "profile_path": null,
+      "credit_id": "52fe470e9251416c91068981",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 21863,
+      "known_for_department": "Directing",
+      "name": "Sebastian Junger",
+      "original_name": "Sebastian Junger",
+      "popularity": 2.275,
+      "profile_path": "/lxQIfHbKXX6rPKwKb8QjyyIKqMc.jpg",
+      "credit_id": "52fe470e9251416c91068987",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 131948,
+      "known_for_department": "Directing",
+      "name": "Tim Hetherington",
+      "original_name": "Tim Hetherington",
+      "popularity": 0.2669,
+      "profile_path": null,
+      "credit_id": "5e05e52926dac100126dccb0",
+      "department": "Crew",
+      "job": "Cinematography"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 167357,
+      "known_for_department": "Editing",
+      "name": "Michael Levine",
+      "original_name": "Michael Levine",
+      "popularity": 0.8058,
+      "profile_path": null,
+      "credit_id": "5e05e506d236e600109c0387",
+      "department": "Editing",
+      "job": "Editor"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 21863,
+      "known_for_department": "Directing",
+      "name": "Sebastian Junger",
+      "original_name": "Sebastian Junger",
+      "popularity": 2.275,
+      "profile_path": "/lxQIfHbKXX6rPKwKb8QjyyIKqMc.jpg",
+      "credit_id": "5e05e51a26dac100126dcca4",
+      "department": "Crew",
+      "job": "Cinematography"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 52363,
+      "known_for_department": "Directing",
+      "name": "Nick Quested",
+      "original_name": "Nick Quested",
+      "popularity": 1.8618,
+      "profile_path": null,
+      "credit_id": "671ef135fefd1e0510009798",
+      "department": "Production",
+      "job": "Executive Producer"
+    }
+  ]
+}

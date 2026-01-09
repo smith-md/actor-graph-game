@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/Lu57GTE24Ja5O61jieY2aIBk8d.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.thehomethemovie.com/home/",
+  "id": 926606,
+  "imdb_id": "tt17023012",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Home",
+  "overview": "A troubled man starts working at a retirement home and realizes its residents and caretakers harbor sinister secrets. As he investigates the building and its forbidden fourth floor, he starts to uncover connections to his own past and upbringing as a foster child.",
+  "popularity": 8.6299,
+  "poster_path": "/r0NUt1M62StNgvSLmLsmJADbHpg.jpg",
+  "production_companies": [
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 138783,
+      "logo_path": "/yxGIUMfUlxJ7yG6wwI0EOHzHLhy.png",
+      "name": "Man in a Tree Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-24",
+  "revenue": 1001930,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Evil never gets old.",
+  "title": "The Home",
+  "video": false,
+  "vote_average": 6.402,
+  "vote_count": 133
+}

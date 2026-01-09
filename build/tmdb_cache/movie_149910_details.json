@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/dbFmo9Xm1eGiM1Z3zi96B2qNdZ.jpg",
+  "belongs_to_collection": {
+    "id": 91657,
+    "name": "Buddies Collection",
+    "poster_path": "/dBTf3e1Cgh9t1i4g8XkJBvytL8d.jpg",
+    "backdrop_path": "/teaPmKzKuk1lR6hOq71THl8u2A5.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 149910,
+  "imdb_id": "tt2999390",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Super Buddies",
+  "overview": "When the Buddies stumble upon the Five Power Rings of Inspiron, they all develop super powers, and are enlisted in Captain Canine's battle against the evil Commander Drex. The pups have to master their abilities quick - for the Commander is headed to Earth, determined to defeat Captain Canine.",
+  "popularity": 4.6045,
+  "poster_path": "/u7sMtMLSe5CrsLqOPVnYseJj7wE.jpg",
+  "production_companies": [
+    {
+      "id": 19649,
+      "logo_path": null,
+      "name": "Key Pix Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 3202,
+      "logo_path": "/rwiCINCud2HXc7Rf9aSnQDDMyQX.png",
+      "name": "Walt Disney Studios Home Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-08-07",
+  "revenue": 0,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You don't need superpowers to be a super hero.",
+  "title": "Super Buddies",
+  "video": false,
+  "vote_average": 6.021,
+  "vote_count": 142
+}

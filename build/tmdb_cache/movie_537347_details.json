@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/gt4W35yrQTeJbMwT2PVGF33c2eF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 537347,
+  "imdb_id": "tt5657280",
+  "origin_country": [
+    "BE",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Viking Destiny",
+  "overview": "A Viking Princess is forced to flee her kingdom after being framed for the murder of her father, the King. Under the guidance of the God Odin, she travels the world gaining wisdom and building the army she needs to win back her throne.",
+  "popularity": 3.3563,
+  "poster_path": "/oHPPUlwR4UNOGe1ne68kawiGOed.jpg",
+  "production_companies": [
+    {
+      "id": 21440,
+      "logo_path": null,
+      "name": "Fatal Black",
+      "origin_country": ""
+    },
+    {
+      "id": 101477,
+      "logo_path": "/1nFcfwblSThRfYZZvSGsKSpBKx5.png",
+      "name": "Misfits Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5056,
+      "logo_path": "/583ITs4w9sK31FnJwKiRwapTpzb.png",
+      "name": "Head Gear Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 19037,
+      "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+      "name": "uMedia",
+      "origin_country": "BE"
+    },
+    {
+      "id": 25954,
+      "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2018-07-26",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Battle for the Throne",
+  "title": "Viking Destiny",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 51
+}

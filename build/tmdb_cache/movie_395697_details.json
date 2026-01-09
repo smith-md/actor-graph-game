@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/qLhFjbeL3PU0WkkS6Zb2cDHmBMY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 395697,
+  "imdb_id": "tt5707720",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il Ministro",
+  "overview": "Franco Lucci is an entrepreneur on the verge of bankruptcy. The salvation of his company hangs on a large public contract that he could obtain thanks to the intervention of a minister who has become a friend and whom he has invited to dinner. Together with Michele, his partner and brother-in-law, Franco has organized the perfect evening: in addition to paying him a large bribe, the two arrange for him to find a girl willing to sleep with him in exchange for a recommendation. All under the eyes of Rita, Franco's wife, who tries to indulge her husband in his last desperate attempt to obtain the million-dollar contract. Because of the girl, the evening takes an unexpected turn.",
+  "popularity": 4.2049,
+  "poster_path": "/u4SUNCcxTlHJV7Z3GNCwhUP1usS.jpg",
+  "production_companies": [
+    {
+      "id": 266404,
+      "logo_path": null,
+      "name": "Golden Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2016-05-05",
+  "revenue": 21033,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Il Ministro",
+  "video": false,
+  "vote_average": 5.635,
+  "vote_count": 63
+}

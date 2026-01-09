@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/wFzI8o0jEMYfNugglP4wjFIr647.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 715253,
+  "imdb_id": "tt25503544",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "유령",
+  "overview": "In 1933, when Korea was under Japanese occupation, five people in Gyeongseong are suspected to be \"Phantom\" spies of the anti-Japanese organization.",
+  "popularity": 4.2907,
+  "poster_path": "/n1rxZ4wovf7BYhLNwCqde8I3I2N.jpg",
+  "production_companies": [
+    {
+      "id": 92012,
+      "logo_path": "/lGELj7l0lQpnbC4uYm3nX4jS4d1.png",
+      "name": "The LAMP",
+      "origin_country": "KR"
+    },
+    {
+      "id": 7036,
+      "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+      "name": "CJ Entertainment",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2023-01-18",
+  "revenue": 0,
+  "runtime": 132,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A spy is hiding among them.",
+  "title": "Phantom",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 63
+}

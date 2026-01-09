@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 22080,
+  "imdb_id": "tt0395512",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Darklight",
+  "overview": "Captured by a secret society known as the Faith and mentally controlled with a powerful spell, ancient demoness Lilith now lives as a young woman with no memory of her agless past. However, the terrifying plague unleashed by a rampaging monster, the Demonicos, forces one human to recruit her mystical power known as the Darklight to fight this terrifying beast...",
+  "popularity": 4.4255,
+  "poster_path": "/ydqnbZmv6Nk8K1j87Zlaf3Kpd18.jpg",
+  "production_companies": [
+    {
+      "id": 6677,
+      "logo_path": "/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png",
+      "name": "Syfy",
+      "origin_country": "US"
+    },
+    {
+      "id": 20375,
+      "logo_path": null,
+      "name": "Hammerhead Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 3903,
+      "logo_path": "/scJ51vavJ3t27v5zqlSbtnMv8u3.png",
+      "name": "Unified Film Organization",
+      "origin_country": "US"
+    },
+    {
+      "id": 29185,
+      "logo_path": "/3SHlavyUJiZIn4ZS5h3B9ggP0Cf.png",
+      "name": "BUFO",
+      "origin_country": "BG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "BG",
+      "name": "Bulgaria"
+    }
+  ],
+  "release_date": "2004-01-01",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's time to fight evil with evil.",
+  "title": "Darklight",
+  "video": false,
+  "vote_average": 4.983,
+  "vote_count": 30
+}

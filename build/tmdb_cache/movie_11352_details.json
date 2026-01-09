@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/pIb1CLl08DxciZXJr7AK4qmkArA.jpg",
+  "belongs_to_collection": null,
+  "budget": 31000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 11352,
+  "imdb_id": "tt0096794",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Always",
+  "overview": "The spirit of a recently deceased expert pilot mentors a newer pilot while watching him fall in love with the girlfriend that he left behind.",
+  "popularity": 5.2347,
+  "poster_path": "/wh0WItAFrw3m66mDMlCCuXQwfMW.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 56,
+      "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-12-22",
+  "revenue": 74100000,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They couldn't hear him. They couldn't see him. But he was there when they needed him... Even after he was gone.",
+  "title": "Always",
+  "video": false,
+  "vote_average": 6.249,
+  "vote_count": 643
+}

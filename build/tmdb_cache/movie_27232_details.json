@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/fbZnkpayniDsQGt9ceTGitGRItJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 27232,
+  "imdb_id": "tt0085356",
+  "origin_country": [
+    "IT",
+    "MX"
+  ],
+  "original_language": "it",
+  "original_title": "Conquest",
+  "overview": "To mark his passage into manhood, young Ilias is gifted a magical bow by his father and embarks upon a journey into the wilderness to rid the land of evil, all the while battling the witch Ocron, who wishes to steal the bow for her own nefarious ends.",
+  "popularity": 3.1669,
+  "poster_path": "/fwEZHv3nksttbsSkRYAdb5dfaBn.jpg",
+  "production_companies": [
+    {
+      "id": 4420,
+      "logo_path": "/pXxqTCJMn9dgFUsANd2eCZxRDEa.png",
+      "name": "Clemi Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 6087,
+      "logo_path": null,
+      "name": "Conquest Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 6089,
+      "logo_path": null,
+      "name": "Golden Sun",
+      "origin_country": ""
+    },
+    {
+      "id": 29196,
+      "logo_path": null,
+      "name": "Producciones Esme S.A.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "1983-06-02",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In a place beyond time, comes a terrifying challenge beyond imagination!",
+  "title": "Conquest",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 65
+}

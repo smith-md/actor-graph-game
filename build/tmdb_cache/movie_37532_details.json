@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/xeN6uxr1ao3wBjvjn86mThQJ5ku.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 37532,
+  "imdb_id": "tt0139615",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Slam",
+  "overview": "Raymond Joshua, a young black performance poet, is arrested and imprisoned for a petty marijuana charge in a Washington, D.C. jail. Although the confining prison walls do little to shield him from danger, it is within those walls that Raymond establishes his identity, strength, and voice and meets a prison gang leader and a prison writing teacher, Lauren Bell. Bell inspires Raymond to use the power of creative expression to free himself from the struggles and demise of the Black male as another victim of the judicial system.",
+  "popularity": 2.8608,
+  "poster_path": "/qU0QR2ax1hyjfACni4Clgsc5YyX.jpg",
+  "production_companies": [
+    {
+      "id": 85649,
+      "logo_path": null,
+      "name": "Off Line Entertainment Group",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-10-07",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Words make sense of a world that won't.",
+  "title": "Slam",
+  "video": false,
+  "vote_average": 6.667,
+  "vote_count": 24
+}

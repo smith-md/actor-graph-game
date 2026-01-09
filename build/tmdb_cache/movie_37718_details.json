@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/vJd0ZCeGeuG5lzolUNlhoaoPaCK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 37718,
+  "imdb_id": "tt0164108",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Muse",
+  "overview": "With his career on the skids, a Hollywood screenwriter enlists the aid of a modern-day muse, who proves to test his patience.",
+  "popularity": 3.7144,
+  "poster_path": "/hmtvDW52V3EuFmbhTOLjaGMYCDx.jpg",
+  "production_companies": [
+    {
+      "id": 236,
+      "logo_path": "/domFRGExvHcf0IoK5vdOfY9aTvf.png",
+      "name": "October Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1999-08-27",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In Goddess we trust.",
+  "title": "The Muse",
+  "video": false,
+  "vote_average": 5.197,
+  "vote_count": 145
+}

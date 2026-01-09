@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/abid0ec5tLGxaDYdPz8myxYc22O.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 119586,
+  "imdb_id": "tt0080080",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Vampire Hookers",
+  "overview": "A sinister vampire sends out a horde of undead beauties to bring back victims for his dinner.",
+  "popularity": 3.0384,
+  "poster_path": "/3IbXVjvGnfyEQbhjY4TrdeeX9Y9.jpg",
+  "production_companies": [
+    {
+      "id": 38157,
+      "logo_path": null,
+      "name": "Cosa Nueva",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "1978-07-01",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Warm blood isn't all they suck!",
+  "title": "Vampire Hookers",
+  "video": false,
+  "vote_average": 3.569,
+  "vote_count": 29
+}

@@ -1,0 +1,154 @@
+{
+  "adult": false,
+  "backdrop_path": "/93JehJr4liCpG2cpcK9ONChPInJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 24000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 49219,
+  "imdb_id": "tt0443448",
+  "origin_country": [
+    "FR",
+    "GB"
+  ],
+  "original_language": "fr",
+  "original_title": "Ô Jerusalem",
+  "overview": "A tale of friendship between two men, one Jewish and the other Arab, as the state of Israel is being created.",
+  "popularity": 4.2497,
+  "poster_path": "/nlC12yOnDjXSF41MPDFeMkQjLSz.jpg",
+  "production_companies": [
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 4045,
+      "logo_path": null,
+      "name": "Cinegram",
+      "origin_country": "GR"
+    },
+    {
+      "id": 23495,
+      "logo_path": null,
+      "name": "Titania Produzioni",
+      "origin_country": "IT"
+    },
+    {
+      "id": 98757,
+      "logo_path": "/dB49ceFmeQ62gs1sSawtXmbAZUR.png",
+      "name": "Les Films de l'Instant",
+      "origin_country": "FR"
+    },
+    {
+      "id": 98758,
+      "logo_path": null,
+      "name": "Films 18",
+      "origin_country": ""
+    },
+    {
+      "id": 98759,
+      "logo_path": null,
+      "name": "CG Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 12686,
+      "logo_path": "/AmhtyqkOEpLBqE1MSKHWFoQHVTx.png",
+      "name": "Forecast Pictures",
+      "origin_country": "FR"
+    },
+    {
+      "id": 150265,
+      "logo_path": "/j7grgeyXof8VBmqbBBSNaqVoOCb.png",
+      "name": "VIP 3 Medienfonds",
+      "origin_country": ""
+    },
+    {
+      "id": 1208,
+      "logo_path": null,
+      "name": "Rising Star Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2623,
+      "logo_path": "/7Bkm1yUF0y8x6jw8dHRfzS3B6dq.png",
+      "name": "Blue Rider Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 21897,
+      "logo_path": null,
+      "name": "Foresight Unlimited",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    },
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-10-17",
+  "revenue": 2700000,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "O Jerusalem",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 29
+}

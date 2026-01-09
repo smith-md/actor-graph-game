@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/w3jB1liVZioKssQ9V18mEZaTG9V.jpg",
+  "belongs_to_collection": null,
+  "budget": 11000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 10399,
+  "imdb_id": "tt0178737",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Mansfield Park",
+  "overview": "Fanny Price is sent to live with her wealthy relatives, the Bertrams, where she is treated poorly by most except her cousin Edmund. Her life is complicated by the arrival of the worldly Mary and Henry Crawford.",
+  "popularity": 4.2583,
+  "poster_path": "/4l6KP9BSU1QgSgj9cjpeS3Bfhsr.jpg",
+  "production_companies": [
+    {
+      "id": 931,
+      "logo_path": null,
+      "name": "HAL Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1999-11-12",
+  "revenue": 4775847,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "For everyone who loved \"Emma\" and \"Sense & Sensibility\" comes the comedy Jane Austen loved best.",
+  "title": "Mansfield Park",
+  "video": false,
+  "vote_average": 6.689,
+  "vote_count": 318
+}

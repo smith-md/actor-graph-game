@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/mQzeocOItlHOf26UQeYEFgAvNaJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 11511,
+  "imdb_id": "tt0116756",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Kazaam",
+  "overview": "When Max fools a gang of local toughs, he finds himself in big trouble. Fleeing from the thugs, Max runs into an old warehouse and bumps into a boom box. By doing that, he manages to release Kazaam, a genie who has been held captive for thousands of years.",
+  "popularity": 3.6386,
+  "poster_path": "/k6kXq27UVxf7zGCWSvygYYIp9eP.jpg",
+  "production_companies": [
+    {
+      "id": 9195,
+      "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10201,
+      "logo_path": "/cgmwywVZ9NvAidd6Pn7p0CBYQkW.png",
+      "name": "Interscope Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-07-17",
+  "revenue": 18937262,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The world's most powerful genie has just met his match.",
+  "title": "Kazaam",
+  "video": false,
+  "vote_average": 4.133,
+  "vote_count": 293
+}

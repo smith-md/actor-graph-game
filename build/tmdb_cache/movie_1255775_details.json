@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/5OA1FwA11SztGEEqqBihStLmMH2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.amazon.com/gp/video/detail/B0FQWM91QR",
+  "id": 1255775,
+  "imdb_id": "tt31281659",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Merv",
+  "overview": "When their beloved dog Merv loses his spark after their split, Anna and Russ are forced into the world's most awkward co-parenting arrangement. Hoping to shake Merv out of his funk, Russ takes him to Florida for a much-needed getaway-only for Anna to show up unexpectedly. As Merv slowly gets his groove back, turns out fixing their dog's broken heart may lead to a few sparks of their own.",
+  "popularity": 12.0027,
+  "poster_path": "/nfGlYjINEcGtxV46viW4olwHHSz.jpg",
+  "production_companies": [
+    {
+      "id": 23920,
+      "logo_path": null,
+      "name": "LightWorkers Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 52925,
+      "logo_path": null,
+      "name": "Matt Baer Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 150758,
+      "logo_path": "/hYDtgClCwBnHLN74g2afEAud1El.png",
+      "name": "CatchLight Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-09",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A different breed of romantic comedy.",
+  "title": "Merv",
+  "video": false,
+  "vote_average": 5.772,
+  "vote_count": 90
+}

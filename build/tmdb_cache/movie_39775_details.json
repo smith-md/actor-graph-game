@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/82LpcxsvMdPszskzq4vJr5K7qX4.jpg",
+  "belongs_to_collection": null,
+  "budget": 180000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 39775,
+  "imdb_id": "tt0071266",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Caged Heat",
+  "overview": "A young woman is convicted on drug offenses and sent to a women's penitentiary run by a repressed and oppressive female warden. When the prison's sadistic doctor begins conducting illegal \"therapeutic\" experiments on the inmates, the ladies plot their revenge.",
+  "popularity": 3.3132,
+  "poster_path": "/rPLvEqdADWH5MmzKz31dNndHbF6.jpg",
+  "production_companies": [
+    {
+      "id": 89510,
+      "logo_path": null,
+      "name": "Renegade Women Co",
+      "origin_country": ""
+    },
+    {
+      "id": 612,
+      "logo_path": null,
+      "name": "Artists Entertainment Complex",
+      "origin_country": ""
+    },
+    {
+      "id": 1950,
+      "logo_path": "/eIoDtHIJKZaZ4hGbKgqC0PzlqJc.png",
+      "name": "New World Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1974-04-19",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Women's prison U.S.A. - Rape Riot and Revenge! White Hot Desires melting cold prison steel!",
+  "title": "Caged Heat",
+  "video": false,
+  "vote_average": 5.043,
+  "vote_count": 82
+}

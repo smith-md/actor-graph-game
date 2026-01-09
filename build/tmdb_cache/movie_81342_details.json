@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/qQqDIXfefGCyy4hNhXA6AaKuhOp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 81342,
+  "imdb_id": "tt1828995",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Délicatesse",
+  "overview": "A French woman mourning over the death of her husband three years prior is courted by a Swedish co-worker.",
+  "popularity": 4.3361,
+  "poster_path": "/1pc9cMMt7Hs4z8fOOzsOLe3MjNX.jpg",
+  "production_companies": [
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 62546,
+      "logo_path": "/tY53okXrorVw7MML5zWiTcwlx4D.png",
+      "name": "2.4.7. Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2011-12-20",
+  "revenue": 9696204,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A new romantic comedy about Love, Fate, and other Delicacies",
+  "title": "Delicacy",
+  "video": false,
+  "vote_average": 6.351,
+  "vote_count": 467
+}

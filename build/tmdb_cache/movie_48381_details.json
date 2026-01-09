@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/edeSUOYacNFzwT3anFI3HL8xZoo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 48381,
+  "imdb_id": "tt0303010",
+  "origin_country": [
+    "CA",
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Savage Messiah",
+  "overview": "As a small-town social worker investigates a commune headed by a spiritual leader calling himself Moses, she discovers a dead child, sadistic rituals, and ruthless mental and physical abuse.",
+  "popularity": 3.6821,
+  "poster_path": "/wfFaCct1TWjnIHSu79qnp8IcnYB.jpg",
+  "production_companies": [
+    {
+      "id": 4042,
+      "logo_path": null,
+      "name": "Astral Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 71276,
+      "logo_path": null,
+      "name": "Bernard Zukerman Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 11550,
+      "logo_path": "/3oQFsgYn68gvDAkELfiX4tn65Ui.png",
+      "name": "Corus Entertainment",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2002-04-26",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He promised them... Love, Healing, SALVATION",
+  "title": "Savage Messiah",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 25
+}

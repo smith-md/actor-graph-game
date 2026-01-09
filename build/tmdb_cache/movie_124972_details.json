@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/7e0yLpOR1HeRnLa44XceSRQWYav.jpg",
+  "belongs_to_collection": null,
+  "budget": 1700000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 124972,
+  "imdb_id": "tt1718158",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Generation Um...",
+  "overview": "A drama that follows three adults during a single day in New York, one filled with sex, drugs, and indecision.",
+  "popularity": 3.4686,
+  "poster_path": "/8n1Ww3FZQ3VE8OU7vhHClFLzxZG.jpg",
+  "production_companies": [
+    {
+      "id": 7193,
+      "logo_path": null,
+      "name": "Company Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-07-11",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "To survive you must discover who you are. Or not...",
+  "title": "Generation Um...",
+  "video": false,
+  "vote_average": 3.917,
+  "vote_count": 96
+}

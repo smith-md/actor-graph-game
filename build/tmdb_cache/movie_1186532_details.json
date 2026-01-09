@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/18X5mXS1SpQy5rygEcpbmzUdkVP.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.theforgemovie.com/",
+  "id": 1186532,
+  "imdb_id": "tt26731216",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Forge",
+  "overview": "19 year old Isaiah Wright lives for basketball and video games. A year out of high school, he has no job, no plans, and no idea how to be a man. At odds with his single mother Cynthia, Isaiah is given an ultimatum – to step up or move out. Feeling the pull from his friends and the push from his mom, Isaiah is hired by Moore Fitness, unaware of how the owner will personally impact his life. With the prayers of his mother and unexpected guidance from his new mentor, Isaiah is forced to deal with his past, sacrifice his selfishness and discover how God might have a greater purpose for his life.",
+  "popularity": 4.7496,
+  "poster_path": "/oranxontIQRmhuyQlkoAwxpeBYz.jpg",
+  "production_companies": [
+    {
+      "id": 10156,
+      "logo_path": "/bWjWWQfiyZh9AkGYCkx1NcVdSvn.png",
+      "name": "Affirm Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 69411,
+      "logo_path": "/jkkrsMgj9Gbb8g17NUnLqlfmnmv.png",
+      "name": "Kendrick Brothers",
+      "origin_country": "US"
+    },
+    {
+      "id": 3291,
+      "logo_path": null,
+      "name": "Provident Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-22",
+  "revenue": 40392664,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Whoever wants the next generation the most will get them.",
+  "title": "The Forge",
+  "video": false,
+  "vote_average": 8.268,
+  "vote_count": 312
+}

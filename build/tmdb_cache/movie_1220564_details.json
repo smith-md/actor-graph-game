@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/nnx7q1ucLOfFrpAYvGmSEtbWf3L.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.neonrated.com/film/the-secret-agent",
+  "id": 1220564,
+  "imdb_id": "tt27847051",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "O Agente Secreto",
+  "overview": "In 1977 Brazil, technology specialist Marcelo, fleeing a mysterious past, returns to Recife in search of peace, but realizes the city is far from the refuge he seeks.",
+  "popularity": 15.8536,
+  "poster_path": "/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
+  "production_companies": [
+    {
+      "id": 2345,
+      "logo_path": "/nozBgqHmM9A22IHkghTnLiUrM7Q.png",
+      "name": "Lemming Film",
+      "origin_country": "NL"
+    },
+    {
+      "id": 39720,
+      "logo_path": "/ibYDOzRUY7y8PHdM7JGuw5YLlcp.png",
+      "name": "One Two Films",
+      "origin_country": "DE"
+    },
+    {
+      "id": 9171,
+      "logo_path": "/5EGVvPhTETMM9oJYY6TqkZ49MZV.png",
+      "name": "CinemaScópio",
+      "origin_country": "BR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 228923,
+      "logo_path": "/lsrFxFozZBdbzUPb7DG5OBcmnuC.png",
+      "name": "MK Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 134166,
+      "logo_path": "/tINT6vMiVhG0LuLbDYxXZlGMm6L.png",
+      "name": "Primo Content",
+      "origin_country": "AR"
+    },
+    {
+      "id": 254229,
+      "logo_path": null,
+      "name": "Itapoan",
+      "origin_country": ""
+    },
+    {
+      "id": 128020,
+      "logo_path": null,
+      "name": "Black Rabbit Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 62226,
+      "logo_path": "/fhspZSkxRNBbijRRpUCDOvQIj3K.png",
+      "name": "Vitrine Filmes",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2025-07-23",
+  "revenue": 820655,
+  "runtime": 161,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Brazil 1977, a time of great mischief.",
+  "title": "The Secret Agent",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 129
+}

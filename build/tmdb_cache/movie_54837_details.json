@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/hiN1KvtpFO1gdt19DoI7xGFw2E8.jpg",
+  "belongs_to_collection": null,
+  "budget": 500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 54837,
+  "imdb_id": "tt0105114",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "El patrullero",
+  "overview": "A naïve rookie in the Mexican highway patrol must adapt in order to survive as he contends with widespread corruption, dangerous drug runners and the consequences of his often morally gray actions.",
+  "popularity": 3.3381,
+  "poster_path": "/dRnOQCMEjZWViZvGa5iZqQ5vPXS.jpg",
+  "production_companies": [
+    {
+      "id": 4650,
+      "logo_path": "/wWivtVg7gG3uNALIE5Oav3Bsiuz.png",
+      "name": "Marubeni",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5156,
+      "logo_path": null,
+      "name": "Together Brothers Productions",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "1991-12-28",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Highway Patrolman",
+  "video": false,
+  "vote_average": 6.296,
+  "vote_count": 27
+}

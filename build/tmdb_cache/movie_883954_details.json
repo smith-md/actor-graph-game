@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/x1MiX7zp3vBUKONBfvW3v5cnHK2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/broke",
+  "id": 883954,
+  "imdb_id": "tt35048826",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Broke",
+  "overview": "A bronc rider in denial about his fading rodeo career battles against brain injury and a sudden blizzard while reflecting on how it became so difficult to achieve his dreams.",
+  "popularity": 4.8217,
+  "poster_path": "/ooCDeGxZ5to9CRKxkBEAIWtoRA4.jpg",
+  "production_companies": [
+    {
+      "id": 2796,
+      "logo_path": null,
+      "name": "Wild West Picture Show Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 147591,
+      "logo_path": "/uMVoIH3rug7F3BsU1FGVJos4yrR.png",
+      "name": "Hercules Film Fund",
+      "origin_country": "LU"
+    },
+    {
+      "id": 37504,
+      "logo_path": "/k4A2f5FeH96xamI0ZuXlEQAerog.png",
+      "name": "Rhea Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 187281,
+      "logo_path": null,
+      "name": "Slow Burn",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    },
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "release_date": "2025-06-10",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Letting go can be harder than hanging on.",
+  "title": "Broke",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 45
+}

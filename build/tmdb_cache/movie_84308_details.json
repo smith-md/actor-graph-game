@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/38FD40S9kAYxJ5SRZjViLhWC1Nz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 84308,
+  "imdb_id": "tt1760980",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Madrid, 1987",
+  "overview": "In 1987 Madrid, the unexpected encounter between a seasoned journalist and a young student leads to a profound exploration of love, desire, politics, power, and discovery of each other.",
+  "popularity": 6.0559,
+  "poster_path": "/aCfIPBTn9xX6kZ6miyObL03fMeg.jpg",
+  "production_companies": [
+    {
+      "id": 103295,
+      "logo_path": null,
+      "name": "Buenavida Producciones",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2012-04-13",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Madrid, 1987",
+  "video": false,
+  "vote_average": 6.464,
+  "vote_count": 70
+}

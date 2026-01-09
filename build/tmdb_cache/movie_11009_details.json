@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/6EJGF4jJajJ4M4xLHoyYdASXfSu.jpg",
+  "belongs_to_collection": {
+    "id": 288280,
+    "name": "Tony Manero Collection",
+    "poster_path": "/qWXxKpBdnMlQyP8f2WPIE3iCL63.jpg",
+    "backdrop_path": "/28f8ckuOSsMiXTaVKB1nOCityBm.jpg"
+  },
+  "budget": 3500000,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 11009,
+  "imdb_id": "tt0076666",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Saturday Night Fever",
+  "overview": "Tony spends his Saturdays at a disco where his stylish moves raise his popularity among the patrons. But his life outside the disco is not easy and things change when he gets attracted to Stephanie.",
+  "popularity": 3.652,
+  "poster_path": "/ylA7E5Md21aqgzxbwa2dFxX8LKV.jpg",
+  "production_companies": [
+    {
+      "id": 3978,
+      "logo_path": "/kk8VINipfjy7osPd5DgFTfyxUI.png",
+      "name": "Robert Stigwood Organization",
+      "origin_country": "GB"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 235839,
+      "logo_path": null,
+      "name": "SNF Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1977-12-16",
+  "revenue": 237113184,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Where do you go when the record is over...",
+  "title": "Saturday Night Fever",
+  "video": false,
+  "vote_average": 6.729,
+  "vote_count": 2027
+}

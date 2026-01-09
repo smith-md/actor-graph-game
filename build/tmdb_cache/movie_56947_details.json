@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/ps5y9tiSAi9raJJLBMzHIXd8H9M.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 56947,
+  "imdb_id": "tt0104025",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Crise",
+  "overview": "Victor is a legal advisor who finds himself abandoned by his wife and fired the same day. He tries to seek comfort from different friends and family members, but everyone he meets is concerned with their own problems. His morale begins to falter when he realizes that no one cares about him.",
+  "popularity": 3.1896,
+  "poster_path": "/vheQJA6yatNQh0lytjtucmhxkdP.jpg",
+  "production_companies": [
+    {
+      "id": 23118,
+      "logo_path": null,
+      "name": "Leader Cinematografica",
+      "origin_country": ""
+    },
+    {
+      "id": 635,
+      "logo_path": "/ikp5Hokscs88jMWSkM9dB98U3Ak.png",
+      "name": "Les Films Alain Sarde",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1992-12-02",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Crisis",
+  "video": false,
+  "vote_average": 6.879,
+  "vote_count": 120
+}

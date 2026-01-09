@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/czG3u1h2s67XajoIF7sEXGeqTjr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1103731,
+  "imdb_id": "tt17081498",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "In Vitro",
+  "overview": "On an isolated cattle farm, a couple experimenting with biotechnology have their lives upended when they discover a disturbing presence on their property.",
+  "popularity": 2.6788,
+  "poster_path": "/oADha0l3dCm68rQfFL2AvZPs8pl.jpg",
+  "production_companies": [
+    {
+      "id": 22369,
+      "logo_path": "/t8rD6rglTCGUX6R0CeaaMlNTB6A.png",
+      "name": "Arcadia",
+      "origin_country": "AU"
+    },
+    {
+      "id": 141550,
+      "logo_path": null,
+      "name": "Fictitious",
+      "origin_country": ""
+    },
+    {
+      "id": 7584,
+      "logo_path": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+      "name": "Screen Australia",
+      "origin_country": "AU"
+    },
+    {
+      "id": 10951,
+      "logo_path": "/jxfMNlkvI3GxnS41xCSOLD7goVb.png",
+      "name": "Screen NSW",
+      "origin_country": "AU"
+    },
+    {
+      "id": 25140,
+      "logo_path": "/6SeV4YCwyIDktJlvrVwiEDSLovF.png",
+      "name": "The Exchange",
+      "origin_country": "US"
+    },
+    {
+      "id": 243660,
+      "logo_path": null,
+      "name": "Arc Film",
+      "origin_country": ""
+    },
+    {
+      "id": 243661,
+      "logo_path": null,
+      "name": "Happy Cow Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2025-03-27",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Unnatural selection.",
+  "title": "In Vitro",
+  "video": false,
+  "vote_average": 6.146,
+  "vote_count": 24
+}

@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/85DvqETKn8IF0bq74cY8H56NPU8.jpg",
+  "belongs_to_collection": null,
+  "budget": 21000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 46878,
+  "imdb_id": "tt0078350",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Swarm",
+  "overview": "Scientist Dr. Bradford Crane and army general Thalius Slater join forces to fight an almost invisible enemy threatening America; killer bees that have deadly venom and attack without reason. Disaster movie-master Irwin Allen's film contains spectacular special effects, including a train crash caused by the eponymous swarm.",
+  "popularity": 4.0475,
+  "poster_path": "/pO5qEEpjxdQ40ScLcFOowyziNiT.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1978-06-26",
+  "revenue": 7700000,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Monsters by the millions - and they're all for real!",
+  "title": "The Swarm",
+  "video": false,
+  "vote_average": 5.013,
+  "vote_count": 189
+}

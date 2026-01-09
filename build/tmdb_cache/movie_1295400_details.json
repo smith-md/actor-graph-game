@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/fe0UhbWWZgAFHL1OuHmLUFPE5hb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1295400,
+  "imdb_id": "tt27817389",
+  "origin_country": [
+    "DK",
+    "SE"
+  ],
+  "original_language": "da",
+  "original_title": "Den sidste viking",
+  "overview": "After serving fourteen years for robbery, Anker is released from prison and reunites with his mentally ill brother Manfred, who alone knows where the stolen money is hidden but has forgotten its location, sending them on a journey to recover the loot and confront who they are.",
+  "popularity": 7.2598,
+  "poster_path": "/3T5DW4tbdcmCJH45HzoJHVKc8b1.jpg",
+  "production_companies": [
+    {
+      "id": 76,
+      "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+      "name": "Zentropa Entertainments",
+      "origin_country": "DK"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 8288,
+      "logo_path": "/5THcBZP0ad7hXPjtPTxld5sVJQp.png",
+      "name": "Zentropa International Sweden",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2025-10-09",
+  "revenue": 0,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Last Viking",
+  "video": false,
+  "vote_average": 7.125,
+  "vote_count": 48
+}

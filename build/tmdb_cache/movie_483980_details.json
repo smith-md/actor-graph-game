@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/ArccbTKFk8fMp5JnHuxoW8xU0iJ.jpg",
+  "belongs_to_collection": {
+    "id": 683698,
+    "name": "Z-O-M-B-I-E-S Collection",
+    "poster_path": "/hYeuC97Nyw7GxNKrqrFvV3ujzjV.jpg",
+    "backdrop_path": "/vn9pn3we8gH11qGAN9giRVLpeNJ.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 483980,
+  "imdb_id": "tt6878820",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Z-O-M-B-I-E-S",
+  "overview": "Two star-crossed freshmen – a zombie, Zed and a cheerleader, Addison – each outsiders in their unique ways, befriend each other and work together to show their high school and the Seabrook community what they can achieve when they embrace their differences.",
+  "popularity": 3.5282,
+  "poster_path": "/snGVInrnUBK6LrfLZkOdbj5PpJo.jpg",
+  "production_companies": [
+    {
+      "id": 57609,
+      "logo_path": "/Ar5CT0kDZ0oq2ViGlsWTqZJvila.png",
+      "name": "Princessa Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 241787,
+      "logo_path": "/7wRFRKnGTX8J4URYQA0jQbMBgGt.png",
+      "name": "Disney Channels Worldwide",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-02-16",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "At Seabrook High, it's Zoms vs. Poms",
+  "title": "Z-O-M-B-I-E-S",
+  "video": false,
+  "vote_average": 7.247,
+  "vote_count": 752
+}

@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/mORSowyx92dlvx9zYOKXZx0NpAW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 149509,
+  "imdb_id": "tt1528071",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Horns",
+  "overview": "In the aftermath of his girlfriend's mysterious death, a young man awakens to strange horns sprouting from his temples.",
+  "popularity": 4.7676,
+  "poster_path": "/tjTy6W05mPXXw87IqpjeGNhIcM4.jpg",
+  "production_companies": [
+    {
+      "id": 551,
+      "logo_path": "/jSlzEZZ4Z1g7B2UExjZEIKsUvD9.png",
+      "name": "Mandalay Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 19177,
+      "logo_path": null,
+      "name": "Red Granite Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-09-06",
+  "revenue": 3900000,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He will bring out the Devil in you",
+  "title": "Horns",
+  "video": false,
+  "vote_average": 6.293,
+  "vote_count": 2386
+}

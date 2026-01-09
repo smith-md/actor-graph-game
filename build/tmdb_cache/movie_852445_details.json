@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/rzz7TBviOvDgIeujt2h9GwxV0AJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 852445,
+  "imdb_id": "tt17569526",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Acide",
+  "overview": "During a heat wave, strange clouds start pouring down acid rain, wreaking devastation and panic throughout France. In a world teetering on the edge, a girl and her divorced parents must join forces to confront and try to escape this climate catastrophe.",
+  "popularity": 3.9328,
+  "poster_path": "/6JrZMrk3ZlQFURI7nmKGMxnTUCs.jpg",
+  "production_companies": [
+    {
+      "id": 7981,
+      "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+      "name": "Pathé",
+      "origin_country": "FR"
+    },
+    {
+      "id": 66331,
+      "logo_path": "/n2gAOEA4q6bUiaHwo2mKWHGA1wm.png",
+      "name": "Bonne Pioche",
+      "origin_country": "FR"
+    },
+    {
+      "id": 19037,
+      "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+      "name": "uMedia",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2023-09-20",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Acid",
+  "video": false,
+  "vote_average": 5.729,
+  "vote_count": 306
+}

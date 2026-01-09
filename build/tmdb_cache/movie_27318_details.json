@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/mS7jSri8EP12a3h7Gg0oOkZ2Pv4.jpg",
+  "belongs_to_collection": {
+    "id": 203178,
+    "name": "Jack Frost Collection",
+    "poster_path": "/bJ6JwCVCwAlsmAHmfnAUuCrrIor.jpg",
+    "backdrop_path": "/mS7jSri8EP12a3h7Gg0oOkZ2Pv4.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 27318,
+  "imdb_id": "tt0116671",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Jack Frost",
+  "overview": "On his way to be executed, the vehicle containing notorious serial killer Jack Frost collides with a hazardous chemical truck, turning him into a snow covered mutant and unleashing him on the unsuspecting town of Snomonton.",
+  "popularity": 5.2301,
+  "poster_path": "/sXOATwGluNbb9ezfG6DvXCiXvJp.jpg",
+  "production_companies": [
+    {
+      "id": 22289,
+      "logo_path": null,
+      "name": "Moonstone Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 133562,
+      "logo_path": null,
+      "name": "Frost Bite Films Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 60640,
+      "logo_path": null,
+      "name": "Storyteller Films Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 14280,
+      "logo_path": null,
+      "name": "A-Pix Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1997-11-18",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's chillin' and killin'",
+  "title": "Jack Frost",
+  "video": false,
+  "vote_average": 5.101,
+  "vote_count": 252
+}

@@ -1,0 +1,90 @@
+{
+  "id": 419116,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 2683783,
+      "known_for_department": "Acting",
+      "name": "Irina Griga",
+      "original_name": "Irina Griga",
+      "popularity": 3.7118,
+      "profile_path": "/2SJXKsUo1hLDI2S9gD651uDIJzl.jpg",
+      "cast_id": 8,
+      "character": "Olga",
+      "credit_id": "669cf6e3fc311c1c3888083b",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1908486,
+      "known_for_department": "Acting",
+      "name": "Kang Ye-na",
+      "original_name": "강예나",
+      "popularity": 2.6858,
+      "profile_path": "/i5h1lGUR9VqYA3MGLtKKFSNw8BF.jpg",
+      "cast_id": 2,
+      "character": "Yo-mi",
+      "credit_id": "5de3f53e0cd446001438c532",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1974009,
+      "known_for_department": "Acting",
+      "name": "Kim Do-hee",
+      "original_name": "Kim Do-hee",
+      "popularity": 7.5087,
+      "profile_path": "/vDK2YCaePyUO4bxTE5mbvQqdqwp.jpg",
+      "cast_id": 3,
+      "character": "Club woman",
+      "credit_id": "5de3f548a7e36300146bac77",
+      "order": 2
+    },
+    {
+      "adult": true,
+      "gender": 0,
+      "id": 2354161,
+      "known_for_department": "Acting",
+      "name": "Yoon Se-hyeong",
+      "original_name": "Yoon Se-hyeong",
+      "popularity": 3.235,
+      "profile_path": null,
+      "cast_id": 4,
+      "character": "Seo Jang-ho",
+      "credit_id": "5de3f553c51acd0013fa81d7",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1745956,
+      "known_for_department": "Acting",
+      "name": "Jeon Ji-hak",
+      "original_name": "전지학",
+      "popularity": 2.6183,
+      "profile_path": "/zIvpHMWMiCFhvSxrYmcVnspxsPp.jpg",
+      "cast_id": 7,
+      "character": "Seo Yeong-soo",
+      "credit_id": "669cf6a09969615601779392",
+      "order": 4
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1964318,
+      "known_for_department": "Directing",
+      "name": "Choi Won-joon-I",
+      "original_name": "Choi Won-joon-I",
+      "popularity": 0.5699,
+      "profile_path": null,
+      "credit_id": "5ea94a2ab7fbbd001d3a2671",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

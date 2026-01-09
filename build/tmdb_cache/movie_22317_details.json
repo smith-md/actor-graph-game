@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/pVRzlfalhzWmz87LH16Q2LmTXyu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 22317,
+  "imdb_id": "tt0110353",
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lightning Jack",
+  "overview": "Lightning Jack Kane is an Australian outlaw in the wild west. During a bungled bank robbery he picks up mute Ben Doyle as a hostage. The two become good friends, with Jack teaching Ben how to rob banks, while they plan Jack's last heist.",
+  "popularity": 3.7492,
+  "poster_path": "/4YoRERjKWO2442ezcvgEjAZuxWP.jpg",
+  "production_companies": [
+    {
+      "id": 205872,
+      "logo_path": null,
+      "name": "Village Roadshow Pictures",
+      "origin_country": "AU"
+    },
+    {
+      "id": 218758,
+      "logo_path": null,
+      "name": "Lightning Ridge",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-03-11",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lightning Jack",
+  "video": false,
+  "vote_average": 5.555,
+  "vote_count": 137
+}

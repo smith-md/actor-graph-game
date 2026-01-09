@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/7rKyFSg6SdLoCRCVoWLjL5k658k.jpg",
+  "belongs_to_collection": null,
+  "budget": 90000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81330790",
+  "id": 668489,
+  "imdb_id": "tt14123284",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Havoc",
+  "overview": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
+  "popularity": 11.1633,
+  "poster_path": "/ubP2OsF3GlfqYPvXyLw9d78djGX.jpg",
+  "production_companies": [
+    {
+      "id": 12142,
+      "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+      "name": "XYZ Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 93637,
+      "logo_path": "/aW4weh0t8yUm2e62w4t3KlKJsLX.png",
+      "name": "Severn Screen",
+      "origin_country": "GB"
+    },
+    {
+      "id": 110036,
+      "logo_path": null,
+      "name": "One More One Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-04-25",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No law. Only disorder.",
+  "title": "Havoc",
+  "video": false,
+  "vote_average": 6.391,
+  "vote_count": 1115
+}

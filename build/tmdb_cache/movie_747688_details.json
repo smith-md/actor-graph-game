@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/plDX7PVEfwhh8SKDxmDhcN31Ozx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 747688,
+  "imdb_id": "tt15655276",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Yara",
+  "overview": "The murder of 13-year-old Yara Gambirasio shocks the little town of Brembate di Sopra, Italy. To bring the culprit to justice, prosecutors have only scant DNA evidence and no database to compare them to. Based on a true story.",
+  "popularity": 3.2495,
+  "poster_path": "/gcVFI8t5QAvXGzQRKA82glDdOr3.jpg",
+  "production_companies": [
+    {
+      "id": 45724,
+      "logo_path": "/zLt1ZhD6h1XZJnZ1SKlBnxS1VPH.png",
+      "name": "Taodue Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2021-10-18",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Yara",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 431
+}

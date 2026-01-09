@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/oV3FcC9A8gQCphOt40IcCwujNx0.jpg",
+  "belongs_to_collection": null,
+  "budget": 2800000,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 11424,
+  "imdb_id": "tt0049314",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "High Society",
+  "overview": "With socialite Tracy Lord about to remarry, her ex-husband - with the help of a sympathetic reporter - has 48 hours to convince her that she really still loves him.",
+  "popularity": 4.6804,
+  "poster_path": "/eOKLignOrNN7pgTQbwCzW6WPwbD.jpg",
+  "production_companies": [
+    {
+      "id": 14092,
+      "logo_path": null,
+      "name": "Sol C. Siegel Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 5409,
+      "logo_path": null,
+      "name": "Bing Crosby Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1956-07-17",
+  "revenue": 8200000,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They're all together for the first time!",
+  "title": "High Society",
+  "video": false,
+  "vote_average": 6.792,
+  "vote_count": 253
+}

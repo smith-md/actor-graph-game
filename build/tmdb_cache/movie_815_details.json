@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/hh35rkki4XHbAYXPqsSumyQ9Ns7.jpg",
+  "belongs_to_collection": null,
+  "budget": 23000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 815,
+  "imdb_id": "tt0204824",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Animal Farm",
+  "overview": "Animals on a farm lead a revolution against the farmers to put their destiny in their own hands. However this revolution eats their own children and they cannot avoid corruption.",
+  "popularity": 5.2128,
+  "poster_path": "/vFQo4DdhgHBr0Jy06VpzCYaZaPI.jpg",
+  "production_companies": [
+    {
+      "id": 677,
+      "logo_path": null,
+      "name": "Animal Farm Productions Ltd.",
+      "origin_country": "GB"
+    },
+    {
+      "id": 678,
+      "logo_path": "/AbIc38dGx4b8dhKS7oeRL6aXFDv.png",
+      "name": "Turner Network Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 22702,
+      "logo_path": "/l4eSl1sbXdzgBtMkxdTUIGzAJX6.png",
+      "name": "Sonar Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1999-10-03",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Four legs good. Two legs bad.",
+  "title": "Animal Farm",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 148
+}

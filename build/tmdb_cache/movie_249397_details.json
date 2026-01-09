@@ -1,0 +1,132 @@
+{
+  "adult": false,
+  "backdrop_path": "/au7iqEO8bi7CGQO8CheIqOxGdZS.jpg",
+  "belongs_to_collection": {
+    "id": 258664,
+    "name": "Nymphomaniac Collection",
+    "poster_path": "/9iftq1oGENbI7plNNjsNLa5PLhj.jpg",
+    "backdrop_path": "/pUswifNwnQ5beSsqbAj1585ugIa.jpg"
+  },
+  "budget": 2350000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.magpictures.com/nymphomaniac",
+  "id": 249397,
+  "imdb_id": "tt2382009",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "en",
+  "original_title": "Nymphomaniac: Vol. II",
+  "overview": "The continuation of Joe's sexually dictated life delves into the darker aspects of her adult life and what led to her being in Seligman's care.",
+  "popularity": 10.4375,
+  "poster_path": "/iLUNqgNKuWn667kXCKztSxYbT3k.jpg",
+  "production_companies": [
+    {
+      "id": 76,
+      "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+      "name": "Zentropa Entertainments",
+      "origin_country": "DK"
+    },
+    {
+      "id": 8289,
+      "logo_path": null,
+      "name": "Zentropa International Köln",
+      "origin_country": "DE"
+    },
+    {
+      "id": 8556,
+      "logo_path": null,
+      "name": "Zentropa International France",
+      "origin_country": "FR"
+    },
+    {
+      "id": 8288,
+      "logo_path": "/5THcBZP0ad7hXPjtPTxld5sVJQp.png",
+      "name": "Zentropa International Sweden",
+      "origin_country": "SE"
+    },
+    {
+      "id": 7777,
+      "logo_path": "/vd6oWpxQXyaeWGfm0A5SnJi8pyo.png",
+      "name": "Slot Machine",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2699,
+      "logo_path": "/c0vZ3qicUq3z8WD5EF1oleLtNMf.png",
+      "name": "Caviar",
+      "origin_country": "BE"
+    },
+    {
+      "id": 148015,
+      "logo_path": null,
+      "name": "Zenbelgie BVBA",
+      "origin_country": "BE"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 148016,
+      "logo_path": null,
+      "name": "Groupe Grand Accord",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2013-12-25",
+  "revenue": 4934725,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Forget about love.",
+  "title": "Nymphomaniac: Vol. II",
+  "video": false,
+  "vote_average": 6.71,
+  "vote_count": 3069
+}

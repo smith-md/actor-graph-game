@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/aQUs60e9hRlkLIefv0HGKB0epya.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 84323,
+  "imdb_id": "tt1845849",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Price Check",
+  "overview": "A middle aged, middle class, former music industry executive with a stay-at-home wife and son toils away at a supermarket chain. When a new high energy boss enters the company, she increases his fortunes and responsibilities while also creating tension in both his professional and personal life.",
+  "popularity": 4.6752,
+  "poster_path": "/xpgjWwyWaf1i9eNcdfYW7bEOoWI.jpg",
+  "production_companies": [
+    {
+      "id": 88526,
+      "logo_path": null,
+      "name": "NYRA Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 86089,
+      "logo_path": null,
+      "name": "Dolly Hall Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-11-16",
+  "revenue": 6240,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Price Check",
+  "video": false,
+  "vote_average": 5.09,
+  "vote_count": 39
+}

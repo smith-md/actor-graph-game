@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/7hVg5V8SVIRNyAkivKkOC5LbKIG.jpg",
+  "belongs_to_collection": null,
+  "budget": 1200000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 43824,
+  "imdb_id": "tt0033238",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Waterloo Bridge",
+  "overview": "On the eve of World War II, a British officer revisits Waterloo Bridge and recalls the young man he was at the beginning of World War I and the young ballerina he met just before he left for the front.",
+  "popularity": 4.775,
+  "poster_path": "/2XgYKd5tr5b9W5Yfq80yTZqf3hy.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1940-05-17",
+  "revenue": 2500000,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "\"Gone With the Wind's\" Tempestuous \"Scarlett O'Hara\"! Romantic Robert Taylor! Exciting Together!",
+  "title": "Waterloo Bridge",
+  "video": false,
+  "vote_average": 7.482,
+  "vote_count": 170
+}

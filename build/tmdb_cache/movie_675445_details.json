@@ -1,0 +1,102 @@
+{
+  "adult": false,
+  "backdrop_path": "/wawIfsBlzgZYtHrBn8RUtGIZTgF.jpg",
+  "belongs_to_collection": {
+    "id": 893731,
+    "name": "PAW Patrol (Theatrical) Collection",
+    "poster_path": "/gLKJ96C7OqLqDvIS8MxLiKPLf8T.jpg",
+    "backdrop_path": "/gjHZbURgyqjBMHQICu3VZQf41gF.jpg"
+  },
+  "budget": 26000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://www.pawpatrol.movie",
+  "id": 675445,
+  "imdb_id": "tt11832046",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "PAW Patrol: The Movie",
+  "overview": "Ryder and the pups are called to Adventure City to stop Mayor Humdinger from turning the bustling metropolis into a state of chaos.",
+  "popularity": 7.6459,
+  "poster_path": "/jXavWyam2VPR6bOhLwwuP3K2Hw4.jpg",
+  "production_companies": [
+    {
+      "id": 71738,
+      "logo_path": "/9SiK63A0hOmn3FiLCEqydtE1ZQW.png",
+      "name": "Spin Master",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2348,
+      "logo_path": "/oydqrfwRAm6qqdYbxuMmmPsVi87.png",
+      "name": "Nickelodeon Movies",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 8649,
+      "logo_path": "/130H7TsGokNIPyGHYZc9ftU3jJ7.png",
+      "name": "Mikros Image",
+      "origin_country": "FR"
+    },
+    {
+      "id": 199314,
+      "logo_path": "/zVfq3R7Ue0Ho0XnfgyK63fMGk2j.png",
+      "name": "Mikros Animation",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-08-09",
+  "revenue": 144327371,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No Job's too big, no Pup's too small.",
+  "title": "PAW Patrol: The Movie",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 1251
+}

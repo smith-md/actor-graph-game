@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/czmBLRl98O2nTIzU0td3wDS78pN.jpg",
+  "belongs_to_collection": {
+    "id": 975227,
+    "name": "This Is Spinal Tap Collection",
+    "poster_path": "/u84mIHfS6ACtdKeeCYUhPhLtVom.jpg",
+    "backdrop_path": "/ofrbLaKULwSwKeVvx7MYRmG9lN7.jpg"
+  },
+  "budget": 22600000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://bleeckerstreetmedia.com/spinal-tap-ii",
+  "id": 975225,
+  "imdb_id": "tt20222166",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Spinal Tap II: The End Continues",
+  "overview": "The now estranged bandmates of Spinal Tap are forced to reunite for one final concert, hoping it will solidify their place in the pantheon of rock 'n' roll.",
+  "popularity": 6.0423,
+  "poster_path": "/h6DGrDHlDm6gVOiy3YeOb737jB4.jpg",
+  "production_companies": [
+    {
+      "id": 97,
+      "logo_path": "/qv3ih9pR9w2XNKZDsqDqAGuZjqc.png",
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-12",
+  "revenue": 1674926,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What comes after 11? We're about to find out.",
+  "title": "Spinal Tap II: The End Continues",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 60
+}

@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/iAmQy3O4KLOa1dCJktj0Rz79PSy.jpg",
+  "belongs_to_collection": null,
+  "budget": 13000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 6524,
+  "imdb_id": "tt0102303",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Life Stinks",
+  "overview": "Affluent and arrogant businessman Goddard Bolt, feuding with rival Vance Crasswell over a land deal, makes a bet with Crasswell that he has the wits and street smarts to live penniless and anonymous on the rough streets of Los Angeles for thirty days. But Bolt has a rude awakening when the reality of homelessness hits him. Still, he finds a silver lining in a burgeoning romance with Molly, a former Broadway dancer who has fallen on hard times.",
+  "popularity": 5.4052,
+  "poster_path": "/uRyxlMbGQwONnN2Ez9ECMPVHxok.jpg",
+  "production_companies": [
+    {
+      "id": 5612,
+      "logo_path": null,
+      "name": "Brooksfilms",
+      "origin_country": "US"
+    },
+    {
+      "id": 15526,
+      "logo_path": null,
+      "name": "MGM-Pathé Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-06-05",
+  "revenue": 4102526,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "From Fortune 500 ... to fortune's fool.",
+  "title": "Life Stinks",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 210
+}

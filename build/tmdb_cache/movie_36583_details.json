@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/ygPdCGaQEpnzfXfQkNaYrKVxXIP.jpg",
+  "belongs_to_collection": null,
+  "budget": 115000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 36583,
+  "imdb_id": "tt0059549",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Operation Crossbow",
+  "overview": "Allied agents infiltrate the Nazi rocket complex at Peenemunde in order to obtain their secrets and sabotage the plant. The film alternates between German developments of the V-1 missile and V-2 rocket (with a German cast speaking their own language) and discovery by British Intelligence of the weapon.",
+  "popularity": 4.0636,
+  "poster_path": "/Zxj0YdYf7t7gC63JBDencVKIoQ.jpg",
+  "production_companies": [
+    {
+      "id": 5579,
+      "logo_path": "/p3vXYhkpbws0QrdSAwI98ONX7Po.png",
+      "name": "Metro-Goldwyn-Mayer British Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1965-04-01",
+  "revenue": 3700000,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sabotage of Hitler's ingenious weapons of mass destruction...the V1 and V2 rockets!",
+  "title": "Operation Crossbow",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 112
+}

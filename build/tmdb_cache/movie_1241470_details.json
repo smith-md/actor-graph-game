@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/ySHUoK4utUOiSfCinw81H1TsV0E.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1241470,
+  "imdb_id": "tt31179712",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Osiris",
+  "overview": "Special Forces commandos on a mission are abducted mid-operation by a mysterious spacecraft. Upon waking aboard, they find themselves prey to a relentless alien race in a fight for survival.",
+  "popularity": 14.8839,
+  "poster_path": "/3YtZHtXPNG5AleisgEatEfZOT2w.jpg",
+  "production_companies": [
+    {
+      "id": 220195,
+      "logo_path": "/nbwSIz7VUcudZQIY9O94jpLoizf.png",
+      "name": "Roosevelt Film Lab",
+      "origin_country": "US"
+    },
+    {
+      "id": 220196,
+      "logo_path": "/29YTwNxKsEWKByHb76JX9bWnRdV.png",
+      "name": "Denton Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 265676,
+      "logo_path": "/dkzYDzAg1VGIhovXXlcuhgNl0PT.png",
+      "name": "Burning Tractor",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-25",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Earth’s deadliest soldiers just became the galaxy’s last hope.",
+  "title": "Osiris",
+  "video": false,
+  "vote_average": 6.124,
+  "vote_count": 161
+}

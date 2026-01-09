@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/lNtuZDc2BxdNyfQOuZ466WDgH8Z.jpg",
+  "belongs_to_collection": null,
+  "budget": 16000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 10994,
+  "imdb_id": "tt0283139",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "White Oleander",
+  "overview": "A teenager journeys through a series of foster homes after her mother goes to prison for committing a crime of passion.",
+  "popularity": 2.3728,
+  "poster_path": "/pOdmhUaqvg4twAHqrhL5Onjgalb.jpg",
+  "production_companies": [
+    {
+      "id": 1512,
+      "logo_path": null,
+      "name": "John Wells Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 185,
+      "logo_path": null,
+      "name": "Pandora Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-10-11",
+  "revenue": 21657770,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "White Oleander",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 409
+}

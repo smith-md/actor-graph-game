@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/e6YpCECKNPMBonp425jmHgd6D44.jpg",
+  "belongs_to_collection": null,
+  "budget": 1114000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 31526,
+  "imdb_id": "tt0024481",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Queen Christina",
+  "overview": "Popular monarch Queen Christina of Sweden must choose between love and loyalty to her nation when she unexpectedly falls for a Spanish envoy.",
+  "popularity": 4.0992,
+  "poster_path": "/lGGYwoBp21CzF7cMzNPcOr6i6iw.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1934-02-09",
+  "revenue": 2610000,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Triumphant Return To The Screen!",
+  "title": "Queen Christina",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 130
+}

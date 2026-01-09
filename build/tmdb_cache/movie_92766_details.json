@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/yJETbK0I5vjERjPq0e2V0Q31c84.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 92766,
+  "imdb_id": "tt0090233",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Transmutations",
+  "overview": "When high class hooker Nicole is kidnapped from her brothel, Rich businessman Hugo Motherskille hires her ex love Roy Bain to find her. Investigating the disappearance, he eventually finds traces that lead to Dr. Savary, who has produced a strange white powder that's coveted by a race of deformed human beings who live in the underworld in the sewers below the city.",
+  "popularity": 3.2932,
+  "poster_path": "/nXx5ByHcqqArMKsPSwCSFCE7shb.jpg",
+  "production_companies": [
+    {
+      "id": 23901,
+      "logo_path": null,
+      "name": "Limehouse Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 115027,
+      "logo_path": null,
+      "name": "Green Man Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 92345,
+      "logo_path": null,
+      "name": "Alpine",
+      "origin_country": ""
+    },
+    {
+      "id": 1212,
+      "logo_path": null,
+      "name": "Empire Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1985-11-29",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A horrible experiment. A criminal empire. One thing in common...",
+  "title": "Transmutations",
+  "video": false,
+  "vote_average": 3.8,
+  "vote_count": 35
+}

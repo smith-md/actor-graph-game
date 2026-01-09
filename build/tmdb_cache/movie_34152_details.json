@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/mIKuvEhBvDf9LGxE9x6m0hDR9Au.jpg",
+  "belongs_to_collection": null,
+  "budget": 14000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 34152,
+  "imdb_id": "tt0109504",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Crooklyn",
+  "overview": "From Spike Lee comes this vibrant semi-autobiographical portrait of a school-teacher, her stubborn jazz-musician husband and their five kids living in '70s Brooklyn.",
+  "popularity": 3.9415,
+  "poster_path": "/iFqe07F78SO0SIBzWcK4I5MwNvP.jpg",
+  "production_companies": [
+    {
+      "id": 4319,
+      "logo_path": "/dU4Y8EqPLCz6jARM63NwGhr4DcG.png",
+      "name": "40 Acres and a Mule Filmworks",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 219729,
+      "logo_path": null,
+      "name": "Child Hood Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-05-13",
+  "revenue": 0,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A new look at the old neighborhood.",
+  "title": "Crooklyn",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 154
+}

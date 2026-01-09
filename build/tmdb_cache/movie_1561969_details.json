@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/fbTRgh6moAvhlkB4wPjswP9EdWz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/82127717",
+  "id": 1561969,
+  "imdb_id": "tt29247040",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "बारामूला",
+  "overview": "A cop's inquiry into child kidnappings unravels chilling secrets as supernatural events endanger his family and the peaceful town of Baramulla.",
+  "popularity": 5.3,
+  "poster_path": "/xm5ER19nTk7iuWFaiNRUYe3Zlz.jpg",
+  "production_companies": [
+    {
+      "id": 212774,
+      "logo_path": null,
+      "name": "B62 Studios",
+      "origin_country": "IN"
+    },
+    {
+      "id": 115477,
+      "logo_path": "/6CkBjiSlfAJFaMjwB44ILbOhFuV.png",
+      "name": "Jio Studios",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2025-11-06",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Baramulla",
+  "video": false,
+  "vote_average": 5.594,
+  "vote_count": 32
+}

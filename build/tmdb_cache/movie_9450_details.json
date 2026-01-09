@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/qVKZwQyHbgh69EgJacEM4kiJ9lY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 9450,
+  "imdb_id": "tt0115744",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Brassed Off",
+  "overview": "A Yorkshire coal mine is threatened with closure and the only hope is for the men to enter their Grimley Colliery Brass Band into a national competition. They believe they have no hope until Gloria appears carrying her Flugelhorn. At first mocked for being a woman, she soon becomes the only chance for the band to win.",
+  "popularity": 5.626,
+  "poster_path": "/q3NvEprPxGFrAAJ8AUsd0uZ4MET.jpg",
+  "production_companies": [
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 11352,
+      "logo_path": null,
+      "name": "Prominent Features",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-11-01",
+  "revenue": 2576197,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fed up with the system. Ticked off at the establishment. And mad about... each other.",
+  "title": "Brassed Off",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 291
+}

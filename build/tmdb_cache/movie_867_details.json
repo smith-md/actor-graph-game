@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/9o30KaejWBVXdyt5otvbMtD5DkE.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 867,
+  "imdb_id": "tt0108162",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sliver",
+  "overview": "A woman moves into a Manhattan apartment, where she learns that the previous tenant's life ended under mysterious circumstances.",
+  "popularity": 7.5414,
+  "poster_path": "/g7PC2e2KqDkIfOoJx9iXJJez99d.jpg",
+  "production_companies": [
+    {
+      "id": 94856,
+      "logo_path": null,
+      "name": "Robert Evans Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1993-05-21",
+  "revenue": 116300000,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You like to watch... don't you?",
+  "title": "Sliver",
+  "video": false,
+  "vote_average": 5.548,
+  "vote_count": 774
+}

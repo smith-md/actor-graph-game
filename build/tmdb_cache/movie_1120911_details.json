@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/9ewYb0LIBJNds8ZMoobKYUd647g.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://saturdaynight.movie",
+  "id": 1120911,
+  "imdb_id": "tt27657135",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Saturday Night",
+  "overview": "At 11:30pm on October 11, 1975, a ferocious troupe of young comedians and writers changed television forever. This is the story of what happened behind the scenes in the 90 minutes leading up to the first broadcast of Saturday Night Live.",
+  "popularity": 4.7024,
+  "poster_path": "/oCf5O6uxooTvRwKVnLHwGqZUifq.jpg",
+  "production_companies": [
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 32157,
+      "logo_path": "/4hOCk25Ce8s242NItnwtV7aKRWY.png",
+      "name": "Right of Way Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-09-27",
+  "revenue": 9802525,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The revolution begins at 11:30.",
+  "title": "Saturday Night",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 318
+}

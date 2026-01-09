@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/gWxdFCQ8ius5aAdfuwEZM0eeRF0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 11627,
+  "imdb_id": "tt0036191",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Münchhausen",
+  "overview": "Legendary, immortal nobleman Baron Munchausen regales a lovestruck woman with tales of his amazing adventures.",
+  "popularity": 2.9156,
+  "poster_path": "/74Ua1d5l7X3HdaBPsq1MYjfiMI.jpg",
+  "production_companies": [
+    {
+      "id": 12372,
+      "logo_path": "/lcQScIQXHQXuLMLFQt0loJl5gWJ.png",
+      "name": "UFA",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1943-03-05",
+  "revenue": 0,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Münchhausen",
+  "video": false,
+  "vote_average": 6.454,
+  "vote_count": 54
+}

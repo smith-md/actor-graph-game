@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/jxdJXmFT0kUuD6vvBxiW8MKhUaX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "http://activeentertainment.com/movie/miami-magma",
+  "id": 86971,
+  "imdb_id": "tt1808304",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Miami Magma",
+  "overview": "Antoinette Vitrini, a volcanologist, confirms her theory of a long-dormant underground volcano after an offshore-drilling rig bursts into flames. Now, she must stop catastrophic amounts of magma from pumping out right under Miami, Florida.",
+  "popularity": 3.697,
+  "poster_path": "/uNc3FLV28bGCWXxuLIFCrwcncz.jpg",
+  "production_companies": [
+    {
+      "id": 10346,
+      "logo_path": null,
+      "name": "Bullet Films",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2011-12-01",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Miami Magma",
+  "video": false,
+  "vote_average": 5.843,
+  "vote_count": 86
+}

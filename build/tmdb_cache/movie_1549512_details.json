@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/zLg8KveLtTZ3N3SLoE68SYGYQFo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1549512,
+  "imdb_id": "tt38348188",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Nympho",
+  "overview": "A woman seeking excitement meets a man who brings light and meaning to her world.",
+  "popularity": 9.8927,
+  "poster_path": "/k9T7J44QFPJPf6CluITKxOZbiNg.jpg",
+  "production_companies": [
+    {
+      "id": 149142,
+      "logo_path": "/25oYoXHsfWYlddAzJSBReajN3BM.png",
+      "name": "Vivamax",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2025-11-07",
+  "revenue": 0,
+  "runtime": 71,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Nympho",
+  "video": false,
+  "vote_average": 7.645,
+  "vote_count": 38
+}

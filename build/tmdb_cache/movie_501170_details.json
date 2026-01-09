@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/gKk8Bg4qpHfniAJC3phzCZpkaIg.jpg",
+  "belongs_to_collection": {
+    "id": 530064,
+    "name": "The Shining Collection",
+    "poster_path": "/iic9YD6zyz2mWIoHVaFy34N0MxX.jpg",
+    "backdrop_path": "/8L2bt7OWxrVhZPrFPkyZW4rEXzq.jpg"
+  },
+  "budget": 45000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "http://www.doctorsleepmovie.net/",
+  "id": 501170,
+  "imdb_id": "tt5606664",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Doctor Sleep",
+  "overview": "Still scarred by the trauma he endured as a child at the Overlook Hotel, Dan Torrance faces the ghosts of the past when he meets Abra, a courageous teen who desperately needs his help -- and who possesses a powerful extrasensory ability called the \"shine\".",
+  "popularity": 6.2267,
+  "poster_path": "/p69QzIBbN06aTYqRRiCOY1emNBh.jpg",
+  "production_companies": [
+    {
+      "id": 829,
+      "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+      "name": "Vertigo Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1224,
+      "logo_path": "/9s5tOG7GWWym1P37QJuFX438rAI.png",
+      "name": "Intrepid Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-10-30",
+  "revenue": 72385286,
+  "runtime": 152,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Return to the Overlook.",
+  "title": "Doctor Sleep",
+  "video": false,
+  "vote_average": 7.146,
+  "vote_count": 4729
+}

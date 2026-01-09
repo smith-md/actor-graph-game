@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/lNoqF8RInmKEDyElDKWf6I9NaV0.jpg",
+  "belongs_to_collection": {
+    "id": 1438358,
+    "name": "Russ Meyer's Vixens Trilogy",
+    "poster_path": "/3vLvjBUg2svG9vfpj9wMZZkJHt1.jpg",
+    "backdrop_path": "/zNcvyBzzYcRoxqB6n5X6ZdtDQWu.jpg"
+  },
+  "budget": 100000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 5725,
+  "imdb_id": "tt0073768",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Supervixens",
+  "overview": "Clint must flee after his wife is killed by a psychopathic cop, who tries to pin the murder on him.",
+  "popularity": 5.6837,
+  "poster_path": "/ymlxw3Gt2F9PuWek9Nkf4zeUeLz.jpg",
+  "production_companies": [
+    {
+      "id": 1876,
+      "logo_path": null,
+      "name": "RM Films International",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1975-04-02",
+  "revenue": 17000000,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Too much ... for one movie!",
+  "title": "Supervixens",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 155
+}

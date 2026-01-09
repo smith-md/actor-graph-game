@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/7LSpJ439BQ7K4zHlhCpRsoWmZXf.jpg",
+  "belongs_to_collection": null,
+  "budget": 13000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 102059,
+  "imdb_id": "tt0097081",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Collision Course",
+  "overview": "A Japanese investigator and a Detroit cop team up to track down a stolen prototype turbocharger.",
+  "popularity": 4.0824,
+  "poster_path": "/xpyePeVClwq85miKvY1r4T8ps5.jpg",
+  "production_companies": [
+    {
+      "id": 10201,
+      "logo_path": "/cgmwywVZ9NvAidd6Pn7p0CBYQkW.png",
+      "name": "Interscope Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 484,
+      "logo_path": "/y3jYroFE9tjDTx5aSOgecXV732c.png",
+      "name": "DEG",
+      "origin_country": "US"
+    },
+    {
+      "id": 72275,
+      "logo_path": null,
+      "name": "Howard W. Koch Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-04-27",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The only thing stopping these two cops from solving the crime of the century, is each other.",
+  "title": "Collision Course",
+  "video": false,
+  "vote_average": 4.1,
+  "vote_count": 35
+}

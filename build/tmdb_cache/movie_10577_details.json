@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/bYaSV1JD9f1FBPrCDTQvFl0wcgb.jpg",
+  "belongs_to_collection": {
+    "id": 115822,
+    "name": "Dracula (Wes Craven) Collection",
+    "poster_path": "/pUEwGiauaZXUKTocXmzX7GlyYD4.jpg",
+    "backdrop_path": "/aD4nL9HsMDU8sCEAe7wdeHMiSr2.jpg"
+  },
+  "budget": 28000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 10577,
+  "imdb_id": "tt0219653",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dracula 2000",
+  "overview": "When a team of techno-savvy thieves break into a high-security vault, they don't discover priceless works of art... they find a crypt unopened for 100 years.",
+  "popularity": 4.7404,
+  "poster_path": "/jnAfl6GSZbBMigL98RJGbOSk4V1.jpg",
+  "production_companies": [
+    {
+      "id": 65507,
+      "logo_path": null,
+      "name": "Wes Craven Films",
+      "origin_country": ""
+    },
+    {
+      "id": 7405,
+      "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+      "name": "Dimension Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 2811,
+      "logo_path": null,
+      "name": "Neo Art & Logic",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-12-22",
+  "revenue": 47053625,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Most Seductive Evil of All Time Has Now Been Unleashed in Ours.",
+  "title": "Dracula 2000",
+  "video": false,
+  "vote_average": 5.236,
+  "vote_count": 729
+}

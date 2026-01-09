@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/ar7jS132IzxD3fTwIU2x4UQ7xCG.jpg",
+  "belongs_to_collection": {
+    "id": 1043447,
+    "name": "Feed Collection",
+    "poster_path": "/6bMt0AJVRykQ1xwnN9D7vnnIJtz.jpg",
+    "backdrop_path": null
+  },
+  "budget": 2200000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1015936,
+  "imdb_id": "tt20782072",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Feed",
+  "overview": "A group of social media experts are hired to help an old family business to strive. But they soon find themselves stuck on a tiny island in a lake in which an ancient Swedish witch is said to live.",
+  "popularity": 4.4592,
+  "poster_path": "/1Qr8bsfup4bNnXWhBo5PbynqlkE.jpg",
+  "production_companies": [
+    {
+      "id": 169296,
+      "logo_path": null,
+      "name": "Scandinavian Content Group",
+      "origin_country": "SE"
+    },
+    {
+      "id": 327,
+      "logo_path": "/vodjjKlAbwGeERPjrAhxZMBGPUc.png",
+      "name": "Nordisk Film Sweden",
+      "origin_country": "SE"
+    },
+    {
+      "id": 183045,
+      "logo_path": null,
+      "name": "Ninetone Group",
+      "origin_country": ""
+    },
+    {
+      "id": 2802,
+      "logo_path": "/7L7VUXTBLiHruhUjYJebV46uw3c.png",
+      "name": "TV4",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2022-10-28",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Like. Share. Die.",
+  "title": "Feed",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 105
+}

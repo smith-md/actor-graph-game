@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/2VGfjnT3RpjOKADbwgbmXCFSbH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1443260,
+  "imdb_id": "tt34493926",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Rob1n",
+  "overview": "When a robotics expert channels the grief of losing his 11 year-old son into building 'Robin', a fully functioning robotic doll, a series of horrific events makes it clear Robin will do whatever it takes to have his creator all to himself.",
+  "popularity": 6.6184,
+  "poster_path": "/5lJ2ftNE18iYGCdOQsQirzHHtnX.jpg",
+  "production_companies": [
+    {
+      "id": 150062,
+      "logo_path": null,
+      "name": "Fowler Media",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-03-20",
+  "revenue": 25242,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He would kill to have you all to himself.",
+  "title": "Rob1n",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 59
+}

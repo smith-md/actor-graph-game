@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/bheeOBdK27vWCYJ7nrhSDRMuw1f.jpg",
+  "belongs_to_collection": null,
+  "budget": 10,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 14544,
+  "imdb_id": "tt0403455",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Roll Bounce",
+  "overview": "In the summer of 1978, a teenager and his group of friends face new challenges when their neighborhood roller-skating rink closes, forcing them to visit a different rink.",
+  "popularity": 3.6021,
+  "poster_path": "/lStFr3EHTNbnyOdOk2QDCqYGnlR.jpg",
+  "production_companies": [
+    {
+      "id": 43,
+      "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+      "name": "Fox Searchlight Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 711,
+      "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+      "name": "Fox 2000 Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-09-23",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "BOUNCE, ROCK, SKATE, ROLL",
+  "title": "Roll Bounce",
+  "video": false,
+  "vote_average": 6.681,
+  "vote_count": 118
+}

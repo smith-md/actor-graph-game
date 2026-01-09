@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/ukPu5xYOBAnh5H46uK4aQOirW2b.jpg",
+  "belongs_to_collection": null,
+  "budget": 150000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://movies.disney.com/elio",
+  "id": 1022787,
+  "imdb_id": "tt4900148",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Elio",
+  "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+  "popularity": 22.477,
+  "poster_path": "/7z8jDiTZZco9moIKpTUImFtTy7o.jpg",
+  "production_companies": [
+    {
+      "id": 3,
+      "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+      "name": "Pixar",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-06-18",
+  "revenue": 154291182,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They asked for our leader. They got... him.",
+  "title": "Elio",
+  "video": false,
+  "vote_average": 6.965,
+  "vote_count": 766
+}

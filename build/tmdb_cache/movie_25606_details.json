@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/17UicwOSvWjHUpT5arG20PoM66e.jpg",
+  "belongs_to_collection": {
+    "id": 41658,
+    "name": "Fantozzi Collection",
+    "poster_path": "/1AHSgjgkkTgT05Rga3adN0e3Pi3.jpg",
+    "backdrop_path": "/gFgwhiOSOQ13koEEPOyW375Odci.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 25606,
+  "imdb_id": "tt0071486",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Fantozzi",
+  "overview": "A good-natured but unlucky Italian is constantly going on a difficult situations, but never lose his mood.",
+  "popularity": 5.0889,
+  "poster_path": "/b3R1LWvraY6RJWfIu3aLXBF1ra8.jpg",
+  "production_companies": [
+    {
+      "id": 1131,
+      "logo_path": null,
+      "name": "Rizzoli Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1975-03-27",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Fantozzi: White Collar Blues",
+  "video": false,
+  "vote_average": 7.819,
+  "vote_count": 858
+}

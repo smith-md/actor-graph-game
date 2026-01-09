@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": "/uZJjc4hMgckb3H3tVkTmbmcBhIT.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 659,
+  "imdb_id": "tt0078875",
+  "origin_country": [
+    "FR",
+    "DE",
+    "YU"
+  ],
+  "original_language": "de",
+  "original_title": "Die Blechtrommel",
+  "overview": "In 1924, Oskar Matzerath is born in the Free City of Danzig. At age three, he falls down a flight of stairs and stops growing. In 1939, World War II breaks out.",
+  "popularity": 5.1744,
+  "poster_path": "/tm408GMyQqfqFJ7MKCkwc5uQ3wi.jpg",
+  "production_companies": [
+    {
+      "id": 168,
+      "logo_path": "/AmNSNdDaByDpc0bzekWFeYRXDW2.png",
+      "name": "Jadran Film",
+      "origin_country": "HR"
+    },
+    {
+      "id": 1521,
+      "logo_path": null,
+      "name": "Artemis Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1548,
+      "logo_path": null,
+      "name": "Franz Seitz Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 6116,
+      "logo_path": "/yCu2D15iD7lcYsBWqXjU65U9nkH.png",
+      "name": "Argos films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 59351,
+      "logo_path": null,
+      "name": "Hallelujah Films",
+      "origin_country": "DE"
+    },
+    {
+      "id": 59352,
+      "logo_path": null,
+      "name": "GGB-14",
+      "origin_country": "DE"
+    },
+    {
+      "id": 403,
+      "logo_path": "/h2nyRbglJy4d6TN6UDycqpdsLpr.png",
+      "name": "Neue Bioskop Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 175422,
+      "logo_path": null,
+      "name": "Auditrust",
+      "origin_country": "FR"
+    },
+    {
+      "id": 20555,
+      "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+      "name": "Taurus Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "YU",
+      "name": "Yugoslavia"
+    }
+  ],
+  "release_date": "1979-05-02",
+  "revenue": 17000000,
+  "runtime": 162,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A savage, sweeping epic of society in chaos.",
+  "title": "The Tin Drum",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 514
+}

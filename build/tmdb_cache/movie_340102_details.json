@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/1MoeNacOltBWojkStjhT3svBTOK.jpg",
+  "belongs_to_collection": null,
+  "budget": 67000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.20thcenturystudios.com/movies/the-new-mutants",
+  "id": 340102,
+  "imdb_id": "tt4682266",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The New Mutants",
+  "overview": "Five young mutants, just discovering their abilities while held in a secret facility against their will, fight to escape their past sins and save themselves.",
+  "popularity": 5.752,
+  "poster_path": "/xiDGcXJTvu1lazFRYip6g1eLt9c.jpg",
+  "production_companies": [
+    {
+      "id": 127928,
+      "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 28788,
+      "logo_path": "/Aqomtf9oh5dKtxBNEagkdlp3aGv.png",
+      "name": "Genre Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 5219,
+      "logo_path": null,
+      "name": "Sunswept Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 7505,
+      "logo_path": "/837VMM4wOkODc1idNxGT0KQJlej.png",
+      "name": "Marvel Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-04-02",
+  "revenue": 49169594,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There is something new to fear.",
+  "title": "The New Mutants",
+  "video": false,
+  "vote_average": 6.084,
+  "vote_count": 3623
+}

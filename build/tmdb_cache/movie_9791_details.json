@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/m5NJnXhZjzWY6fpXUn6hwiouLrn.jpg",
+  "belongs_to_collection": null,
+  "budget": 3600000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 9791,
+  "imdb_id": "tt0204137",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Animal Factory",
+  "overview": "Suburbanite Ron is spoiled, young and not overly worried about the marijuana charges leveled against him. But, after being made out to be a drug dealer, he faces a five-year jail sentence in San Quentin State Prison. Physically frail and unaccustomed to his rough surroundings, Ron is primed to fall victim to sexual predators and bullying guards – that is, until he's befriended by Earl, a veteran inmate who finds meaning in protecting the vulnerable new kid.",
+  "popularity": 4.1985,
+  "poster_path": "/2OUOg9Pf5dZZr5RufM5liA4IUVK.jpg",
+  "production_companies": [
+    {
+      "id": 1403,
+      "logo_path": "/pMTQNUhHCwr39CsS7yUmSg503E7.png",
+      "name": "Franchise Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 376,
+      "logo_path": "/4TYjUVu74lX3r4ht1ppZxEpj1a4.png",
+      "name": "Industry Entertainment Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 954,
+      "logo_path": null,
+      "name": "Phoenician Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 18620,
+      "logo_path": null,
+      "name": "Artists Production Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 3901,
+      "logo_path": null,
+      "name": "Phoenician Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-10-13",
+  "revenue": 43805,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "On the inside the rules are brutal and the stakes are high.",
+  "title": "Animal Factory",
+  "video": false,
+  "vote_average": 6.323,
+  "vote_count": 251
+}

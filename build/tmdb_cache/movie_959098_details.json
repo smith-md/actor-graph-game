@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/AvLiHSrfLCfKL2wvhOY8wkOkpLp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.studiocanal.com/title/autumn-and-the-black-jaguar-2024/",
+  "id": 959098,
+  "imdb_id": "tt16740144",
+  "origin_country": [
+    "IT",
+    "CA",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Le Dernier Jaguar",
+  "overview": "Growing up in the Amazon rainforest gave Autumn the rarest of friendships – a lost jaguar cub she named Hope. When a tragic event forces her to leave Hope for New York City, she dreams of going back to the rainforest and her friend. That opportunity soon comes when Autumn decides to return to the Amazon to save her beloved jaguar from animal traffickers who threaten her childhood village.",
+  "popularity": 2.9959,
+  "poster_path": "/krLaIUZezfBDBSdQA2ChVTg9t3Z.jpg",
+  "production_companies": [
+    {
+      "id": 73974,
+      "logo_path": null,
+      "name": "Mai Juin Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-02-01",
+  "revenue": 21719459,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Autumn and the Black Jaguar",
+  "video": false,
+  "vote_average": 6.659,
+  "vote_count": 170
+}

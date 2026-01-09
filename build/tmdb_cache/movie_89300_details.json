@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/grl4dwJgNyFeEi37XhDLyNveyF9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 89300,
+  "imdb_id": "tt0089569",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Maxie",
+  "overview": "When Nick and Jan move into their new apartment in San Francisco, the batty landlady upstairs tells them about a girl who used to live there in the 20's: a brash young party girl named Maxie, who died in a car crash the morning before her big audition for a Hollywood studio. The trouble is, Maxie, or rather her ghost, hasn't left the house. Worse, she can take over Jan's body. And the only way she's going to leave is if she gets that audition.",
+  "popularity": 3.0742,
+  "poster_path": "/A8r4kohTjz3rL7RdLDl2FRsQVHY.jpg",
+  "production_companies": [
+    {
+      "id": 41,
+      "logo_path": "/em0rOXVRu3qprWZCx58uDDV2fze.png",
+      "name": "Orion Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 6527,
+      "logo_path": null,
+      "name": "Elsboy Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 1087,
+      "logo_path": null,
+      "name": "Aurora",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1985-09-27",
+  "revenue": 2564322,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Her big movie comeback has a ghost of a chance.",
+  "title": "Maxie",
+  "video": false,
+  "vote_average": 4.875,
+  "vote_count": 20
+}

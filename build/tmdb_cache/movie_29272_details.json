@@ -1,0 +1,129 @@
+{
+  "adult": false,
+  "backdrop_path": "/fdB09CFOYNsBH587QuBULia3ci2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 29272,
+  "imdb_id": "tt0905329",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "El Greco",
+  "overview": "The story of the uncompromising artist and fighter for freedom, Domenicos Theotokopoulos, known to the world as \"El Greco\".",
+  "popularity": 3.6618,
+  "poster_path": "/aBxPj6oB0XdjUo5HcAd60xZruH1.jpg",
+  "production_companies": [
+    {
+      "id": 8943,
+      "logo_path": "/ap6EIp6w76kOSkA65Lbk7ICTjc0.png",
+      "name": "Graal",
+      "origin_country": "GR"
+    },
+    {
+      "id": 7254,
+      "logo_path": "/hDJO96mUfqtB9ia7ef7mEvguPxl.png",
+      "name": "Greek Film Centre",
+      "origin_country": "GR"
+    },
+    {
+      "id": 18585,
+      "logo_path": null,
+      "name": "Hellenic Culture Organization",
+      "origin_country": ""
+    },
+    {
+      "id": 7255,
+      "logo_path": "/aHu0SirjV9Mi0OrlnFWqZwy50wW.png",
+      "name": "ERT",
+      "origin_country": "GR"
+    },
+    {
+      "id": 18586,
+      "logo_path": null,
+      "name": "Le Spot",
+      "origin_country": ""
+    },
+    {
+      "id": 18587,
+      "logo_path": null,
+      "name": "Max Productions",
+      "origin_country": "GR"
+    },
+    {
+      "id": 11408,
+      "logo_path": null,
+      "name": "Ministerio de Cultura",
+      "origin_country": ""
+    },
+    {
+      "id": 18588,
+      "logo_path": null,
+      "name": "Motion Picture Public Foundation of Hungary",
+      "origin_country": "HU"
+    },
+    {
+      "id": 35559,
+      "logo_path": "/xLqNfq5xXETBKjq3jSSiNqqPiN7.png",
+      "name": "ICEC",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2007-10-11",
+  "revenue": 0,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Greek",
+      "iso_639_1": "el",
+      "name": "ελληνικά"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Can Darkness Win Light?",
+  "title": "El Greco",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 39
+}

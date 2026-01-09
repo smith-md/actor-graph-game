@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/9YkboCn0ejNBAwXjsCGkSGWy0L5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 76714,
+  "imdb_id": "tt0052950",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Journey",
+  "overview": "A Communist officer falls hard for a married woman trying to escape from Hungary.",
+  "popularity": 2.8312,
+  "poster_path": "/9HXN8SKOYnasVRPY1JUYiWzMFia.jpg",
+  "production_companies": [
+    {
+      "id": 15843,
+      "logo_path": null,
+      "name": "Alby Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1959-02-11",
+  "revenue": 19873,
+  "runtime": 126,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Major was used to having his way - and he meant to take this lovely iceberg - by force if necessary",
+  "title": "The Journey",
+  "video": false,
+  "vote_average": 6.24,
+  "vote_count": 25
+}

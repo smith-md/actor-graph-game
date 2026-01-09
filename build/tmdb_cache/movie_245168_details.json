@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/mYzmWGhy9PZ6xUo0D4i3bBRdX2u.jpg",
+  "belongs_to_collection": null,
+  "budget": 14000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 245168,
+  "imdb_id": "tt3077214",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Suffragette",
+  "overview": "Based on true events about the foot soldiers of the early feminist movement, women who were forced underground to pursue a dangerous game of cat and mouse with an increasingly brutal State.",
+  "popularity": 4.0938,
+  "poster_path": "/y706qec117bN2S7XgCs2Yz8jEfv.jpg",
+  "production_companies": [
+    {
+      "id": 7981,
+      "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+      "name": "Pathé",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7281,
+      "logo_path": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+      "name": "BFI",
+      "origin_country": "GB"
+    },
+    {
+      "id": 290,
+      "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
+      "name": "Ingenious Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2054,
+      "logo_path": null,
+      "name": "Ruby Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2015-10-16",
+  "revenue": 16002420,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mothers. Daughters. Rebels.",
+  "title": "Suffragette",
+  "video": false,
+  "vote_average": 7.199,
+  "vote_count": 1657
+}

@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/3TcUsPiVU0fSLX0Mk7lc3DDuzkY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 24167,
+  "imdb_id": "tt0054749",
+  "origin_country": [],
+  "original_language": "it",
+  "original_title": "La ciociara",
+  "overview": "A young widow flees from Rome during WWII and takes her lonely twelve-year-old-daughter to her rural hometown but the horrors of war soon catch up with them.",
+  "popularity": 5.2,
+  "poster_path": "/biWDAUQD58enMEcyO2BqIVSycF4.jpg",
+  "production_companies": [
+    {
+      "id": 8894,
+      "logo_path": null,
+      "name": "Société Générale de Cinématographie (S.G.C.)",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10000,
+      "logo_path": null,
+      "name": "C. C. Champion",
+      "origin_country": "IT"
+    },
+    {
+      "id": 72022,
+      "logo_path": null,
+      "name": "Les Films Marceau-Cocinor",
+      "origin_country": "FR"
+    },
+    {
+      "id": 641,
+      "logo_path": "/w8flpSJntsxVCMkIU1qeg1kJcJh.png",
+      "name": "Titanus",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1960-12-22",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Suddenly, Love Becomes Lust… Innocence becomes shame… As two women are trapped by violent passion and unforgettable terror!",
+  "title": "Two Women",
+  "video": false,
+  "vote_average": 7.826,
+  "vote_count": 559
+}

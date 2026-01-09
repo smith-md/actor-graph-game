@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/bTS9PZp8GQa8XqC9eMT1FrtRXnM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "http://strandreleasing.com/films/nowhere/",
+  "id": 1811,
+  "imdb_id": "tt0119809",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Nowhere",
+  "overview": "In Los Angeles, a colorful assortment of bohemians try to make sense of their intersecting lives. The moody Dark Smith, his bisexual girlfriend, her lesbian lover and their shy gay friend plan on attending the wildest party of the year. But they'll only make it if they can survive the drug trips, suicides, trysts, mutilations and alien abductions that occur as one surreal day unfolds.",
+  "popularity": 4.3168,
+  "poster_path": "/c1TZKfzvATep5x5DthqWjjWtU2l.jpg",
+  "production_companies": [
+    {
+      "id": 1474,
+      "logo_path": null,
+      "name": "Desperate Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 729,
+      "logo_path": "/hNxGdbddbsDDnEWJ7RNLcGCRSLQ.png",
+      "name": "Why Not Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2765,
+      "logo_path": null,
+      "name": "Blurco",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1997-05-09",
+  "revenue": 194201,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "Íslenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Let the love feast begin.",
+  "title": "Nowhere",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 201
+}

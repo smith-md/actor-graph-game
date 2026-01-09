@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/hKMN6vMT3rbzXY3VaqS61hv4vjx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/thebestyoucan",
+  "id": 1238379,
+  "imdb_id": "tt30150769",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Best You Can",
+  "overview": "Cynthia Rand is a buttoned-up New Yorker married to a brilliant professor 25 years her senior. She begins feeling the effects of her husband’s advancing age on their relationship, just as her world is turned upside down by the arrival of sharp but chronically underachieving security guard Stan Olszewski in this smart rom-com that reunites Bacon and Sedgwick on screen for the first time in 20 years.",
+  "popularity": 7.438,
+  "poster_path": "/2JYSb2qiOSkAdCuIRmXRWBecAAr.jpg",
+  "production_companies": [
+    {
+      "id": 102842,
+      "logo_path": null,
+      "name": "Fibonacci Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-06-07",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Best You Can",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 32
+}

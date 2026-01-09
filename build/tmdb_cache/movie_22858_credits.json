@@ -1,0 +1,142 @@
+{
+  "id": 22858,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 89519,
+      "known_for_department": "Acting",
+      "name": "Ford Sterling",
+      "original_name": "Ford Sterling",
+      "popularity": 0.4971,
+      "profile_path": "/jWwCuNR2eRpgxlRBKNTCTmCVHP0.jpg",
+      "cast_id": 4,
+      "character": "Mr. Snookie, a Thief",
+      "credit_id": "52fe4452c3a368484e01c9b5",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 13848,
+      "known_for_department": "Acting",
+      "name": "Charlie Chaplin",
+      "original_name": "Charlie Chaplin",
+      "popularity": 3.1598,
+      "profile_path": "/eZAynbZFJB4L8ZfMXTUSG3RmBcg.jpg",
+      "cast_id": 3,
+      "character": "The Tramp, a Second Gallant",
+      "credit_id": "52fe4452c3a368484e01c9b1",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 30195,
+      "known_for_department": "Acting",
+      "name": "Chester Conklin",
+      "original_name": "Chester Conklin",
+      "popularity": 0.8386,
+      "profile_path": "/qaEgtSQU4eTX2fMng7Grc7G2xzq.jpg",
+      "cast_id": 5,
+      "character": "Policeman",
+      "credit_id": "52fe4452c3a368484e01c9b9",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1373121,
+      "known_for_department": "Acting",
+      "name": "Edward Nolan",
+      "original_name": "Edward Nolan",
+      "popularity": 0.417,
+      "profile_path": null,
+      "cast_id": 8,
+      "character": "Chivalrous Policeman",
+      "credit_id": "547e9a8892514124b6000590",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 2137041,
+      "known_for_department": "Acting",
+      "name": "Emma Clifton",
+      "original_name": "Emma Clifton",
+      "popularity": 1.4214,
+      "profile_path": null,
+      "cast_id": 11,
+      "character": "Lady in Distress",
+      "credit_id": "5d5200fc0102c96f3976708e",
+      "order": 4
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 89517,
+      "known_for_department": "Production",
+      "name": "Henry Lehrman",
+      "original_name": "Henry Lehrman",
+      "popularity": 0.5341,
+      "profile_path": "/pMFkSZxq0sPtpu2OLVNcT5KhTU9.jpg",
+      "credit_id": "52fe4452c3a368484e01c9a7",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 89518,
+      "known_for_department": "Production",
+      "name": "Mack Sennett",
+      "original_name": "Mack Sennett",
+      "popularity": 0.5264,
+      "profile_path": "/24XTSL0AbuT6gzjqAFhpc4fkEts.jpg",
+      "credit_id": "52fe4452c3a368484e01c9ad",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 13848,
+      "known_for_department": "Acting",
+      "name": "Charlie Chaplin",
+      "original_name": "Charlie Chaplin",
+      "popularity": 3.1598,
+      "profile_path": "/eZAynbZFJB4L8ZfMXTUSG3RmBcg.jpg",
+      "credit_id": "5da55fa1e860170017b44316",
+      "department": "Writing",
+      "job": "Screenplay"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 141141,
+      "known_for_department": "Writing",
+      "name": "Reed Heustis",
+      "original_name": "Reed Heustis",
+      "popularity": 1.6675,
+      "profile_path": null,
+      "credit_id": "5da55fadb0ba7e00142c9a53",
+      "department": "Writing",
+      "job": "Screenplay"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 74964,
+      "known_for_department": "Camera",
+      "name": "Frank D. Williams",
+      "original_name": "Frank D. Williams",
+      "popularity": 0.1681,
+      "profile_path": "/k9j1GTcbvT7ssbRbq75Jlpn0ExD.jpg",
+      "credit_id": "5da55f91b0ba7e00192c9748",
+      "department": "Camera",
+      "job": "Director of Photography"
+    }
+  ]
+}

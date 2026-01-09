@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/rN1OKiEp8gNQ9RB6GeZeqOqVsjk.jpg",
+  "belongs_to_collection": null,
+  "budget": 2600000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 26371,
+  "imdb_id": "tt0093512",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Maurice",
+  "overview": "After his lover rejects him, Maurice attempts to come to terms with his sexuality within the restrictiveness of Edwardian society.",
+  "popularity": 4.5436,
+  "poster_path": "/8HhCyxxzoUqEBmVGK25Jq69LhVo.jpg",
+  "production_companies": [
+    {
+      "id": 2370,
+      "logo_path": null,
+      "name": "Merchant Ivory Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 9210,
+      "logo_path": "/ruUf9qymJ1gKLmerDKO8pgq1CYM.png",
+      "name": "Film Four International",
+      "origin_country": "GB"
+    },
+    {
+      "id": 57417,
+      "logo_path": "/uYCllr5ITgOfJqfPLvuEwCgbxUA.png",
+      "name": "Cinecom Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1987-09-18",
+  "revenue": 2438304,
+  "runtime": 140,
+  "spoken_languages": [
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A love story of unforgettable passion.",
+  "title": "Maurice",
+  "video": false,
+  "vote_average": 7.615,
+  "vote_count": 589
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/zr2ScyHN6mvkUk7rHpLR19FR8NQ.jpg",
+  "belongs_to_collection": {
+    "id": 412300,
+    "name": "Fontaine Khaled Collection",
+    "poster_path": "/x3dBLkgy5qZNJvMqD4tGjYLURl0.jpg",
+    "backdrop_path": "/3nQrBS7qI33hbfASCfttaFd4khB.jpg"
+  },
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 120386,
+  "imdb_id": "tt0078333",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Stud",
+  "overview": "Fontaine Khaled is the London wife of wealthy Arab businessman Benjamin, whose money she blows on partying and on her nightclub, \"The Hobo\". She hires handsome Tony to manage her club, but it's understood that his job security is dependent on his satisfying her nymphomaniacal demands. He soon loses interest, and turns his attention to her stepdaughter Alexandra, who uses him to get back at Fontaine for cheating on her father.",
+  "popularity": 3.9578,
+  "poster_path": "/sNduWNPPh2qy0npxKCKIEZi5LC8.jpg",
+  "production_companies": [
+    {
+      "id": 76211,
+      "logo_path": null,
+      "name": "Artoc Films",
+      "origin_country": ""
+    },
+    {
+      "id": 29143,
+      "logo_path": null,
+      "name": "Brent Walker Film Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1978-08-17",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "...satisfaction guaranteed",
+  "title": "The Stud",
+  "video": false,
+  "vote_average": 4.7,
+  "vote_count": 29
+}

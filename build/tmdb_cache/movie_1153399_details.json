@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/bLn0CPzrrqFLicjNTgrzaIyE0gZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 43000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1153399,
+  "imdb_id": "tt27441481",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "ta",
+  "original_title": "கூலி",
+  "overview": "Deva, once living a quiet life, is shaken when his close friend dies under suspicious circumstances. Determined to uncover the truth, he infiltrates a powerful gang operating in the shadows. As he investigates, Deva becomes entangled in a dangerous web of crime, betrayal, and secrets from his own past, forcing him to confront powerful enemies while protecting the ones he loves.",
+  "popularity": 3.9078,
+  "poster_path": "/kr36awqmziEI5mfUElsHB0pj9zP.jpg",
+  "production_companies": [
+    {
+      "id": 7135,
+      "logo_path": "/8KsxNPnM0y9Dk3fOcHqKUDw2XUs.png",
+      "name": "Sun Pictures",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2025-08-13",
+  "revenue": 57917990,
+  "runtime": 170,
+  "spoken_languages": [
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "தமிழ்"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Coolie",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 68
+}

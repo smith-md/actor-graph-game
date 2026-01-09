@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/ro24gPSgYxVxWdmUwKe82RencqR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.hallmarkchannel.com/holiday-mismatch",
+  "id": 1360782,
+  "imdb_id": "tt33481081",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Holiday Mismatch",
+  "overview": "New retiree Barb joins a Holiday Committee but clashes with long standing member Kath. When they realize their kids have started dating, they conspire to break up the happy couple.",
+  "popularity": 4.0855,
+  "poster_path": "/jqFTEKY3Ry5Y9L4Pg5LGpVdNij5.jpg",
+  "production_companies": [
+    {
+      "id": 124756,
+      "logo_path": "/464kIonX9LVW2oaygXrIeYLHcoo.png",
+      "name": "Neshama Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 6679,
+      "logo_path": "/r3r7qbHKgo8N0yr7r1TjLmzLXfQ.png",
+      "name": "MarVista Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-11-03",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Merry mothers know best",
+  "title": "Holiday Mismatch",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 23
+}

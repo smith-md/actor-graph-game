@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/8LEZ1KqLRcktagPnSr6wC5FzuQr.jpg",
+  "belongs_to_collection": null,
+  "budget": 11500000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 12630,
+  "imdb_id": "tt0119899",
+  "origin_country": [
+    "CA",
+    "DE",
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Pippi Långstrump",
+  "overview": "Pippi Longstocking is an extraordinary little girl who lives alone in her house, while her father sails the seven seas. Pippi's irrepressibly fun nature makes her easy to befriend, as neighbors Tommy and Annika find, but can also earn ire, especially from social worker Mrs. Prysselius.",
+  "popularity": 5.3285,
+  "poster_path": "/nndjAapR3epDSxuNSpgRdfP7L6v.jpg",
+  "production_companies": [
+    {
+      "id": 1023,
+      "logo_path": "/dJLh6G11paw58YGYYpcRZiKvzGW.png",
+      "name": "Nelvana",
+      "origin_country": "CA"
+    },
+    {
+      "id": 6181,
+      "logo_path": "/eaQ7or8IoEmPfgmQiU2C5lVZkxS.png",
+      "name": "SF Studios",
+      "origin_country": "SE"
+    },
+    {
+      "id": 1080,
+      "logo_path": "/6bZ0BiLDzCZSqVCjiSqweWwp9Ew.png",
+      "name": "Beta Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 25603,
+      "logo_path": "/j49jGjm5NmgW8lPvqFMxaRjVUjG.png",
+      "name": "TFC Trickompany Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 609,
+      "logo_path": null,
+      "name": "Iduna Film Produktiongesellschaft",
+      "origin_country": "DE"
+    },
+    {
+      "id": 806,
+      "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+      "name": "Téléfilm Canada",
+      "origin_country": "CA"
+    },
+    {
+      "id": 7678,
+      "logo_path": null,
+      "name": "Astrid Lindgrens Värld",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1997-08-20",
+  "revenue": 505335,
+  "runtime": 76,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Her name is about all you can handle!",
+  "title": "Pippi Longstocking",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 39
+}

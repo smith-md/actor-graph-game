@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/rfARFd7JExZ348aP4DgrKyA2Nrp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://press.amazonmgmstudios.com/us/en/original-movies/belen",
+  "id": 1301844,
+  "imdb_id": "tt37531036",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "Belén",
+  "overview": "In the conservative northwestern region of Argentina, Julieta finds herself accused of infanticide after a medical emergency. Facing a miscarriage of justice that lands her in prison for a crime she didn’t commit, her only hope is getting the chance to challenge her conviction in a courtroom battle with the help of Soledad, a fearless lawyer who risks everything to defend her. Their fight for justice will slowly begin to fuel a growing movement for solidarity and women’s rights.",
+  "popularity": 4.5312,
+  "poster_path": "/z5GUwkH7CrfP62SCyfh1KVRnQwG.jpg",
+  "production_companies": [
+    {
+      "id": 21914,
+      "logo_path": "/iF5QYCtPLuwkU90jWdjrul25d71.png",
+      "name": "K & S Films",
+      "origin_country": "AR"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-18",
+  "revenue": 7071,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Belén",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 27
+}

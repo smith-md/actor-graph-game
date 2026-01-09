@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/lGRSkC5ySatEncPOPqdg8lzZchl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://occhialinerinft.com",
+  "id": 630720,
+  "imdb_id": "tt10935560",
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Occhiali neri",
+  "overview": "Diana, a high-class prostitute trying to escape from a serial killer, suffers a car accident that leaves her blind and kills the family of Chin, a ten-year-old boy.",
+  "popularity": 3.1183,
+  "poster_path": "/6dgpZwoNNlho0ZYWWTSFzjUpgA1.jpg",
+  "production_companies": [
+    {
+      "id": 15130,
+      "logo_path": null,
+      "name": "Urania Pictures",
+      "origin_country": "IT"
+    },
+    {
+      "id": 137610,
+      "logo_path": "/gNNiV7xHCmOnJtUPZXJ9sC8HyKC.png",
+      "name": "Getaway Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2022-02-24",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "To wake up from this nightmare, you won't be able to open your eyes.",
+  "title": "Dark Glasses",
+  "video": false,
+  "vote_average": 4.757,
+  "vote_count": 202
+}

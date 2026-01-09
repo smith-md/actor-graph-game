@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/A6KaZEXI9NJ1nwjmzTQDkiDTDWN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1137205,
+  "imdb_id": "tt24249072",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Last Straw",
+  "overview": "A rural roadside diner becomes the host of a maniacal killing spree – leaving a young waitress to clean up the mess. After hard-headed Nancy fires the staff at her dad’s diner, she decides to cover the last shift of the night by herself. Little does she know, she is far from alone. The day is coming back to haunt her and when things begin to spiral out of control, she must fight for her life over the course of one long night.",
+  "popularity": 5.7039,
+  "poster_path": "/hgpUvybRQzRK6UagoHNQRrO8sUg.jpg",
+  "production_companies": [
+    {
+      "id": 212729,
+      "logo_path": null,
+      "name": "AC3 Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 188565,
+      "logo_path": "/u2S01tvRVRyrBS5L5FEBrjNnoFC.png",
+      "name": "Bad Grey",
+      "origin_country": "US"
+    },
+    {
+      "id": 18346,
+      "logo_path": "/wZT3JBshK7M7ChquboLlPyV9L0p.png",
+      "name": "Burn Later Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-09-20",
+  "revenue": 0,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Last Straw",
+  "video": false,
+  "vote_average": 6.143,
+  "vote_count": 119
+}

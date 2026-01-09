@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/gAVt41nTbna5aNHQqfcyOqSTg9X.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://filmforum.org/film/an-unfinished-film",
+  "id": 878607,
+  "imdb_id": "tt32186579",
+  "origin_country": [
+    "DE",
+    "SG",
+    "US"
+  ],
+  "original_language": "zh",
+  "original_title": "一部未完成的电影",
+  "overview": "A film crew gathers in a hotel near Wuhan to resume production of a film that was interrupted ten years earlier, but an unexpected event once again disrupts the preparations.",
+  "popularity": 2.3032,
+  "poster_path": "/xJp6hHwsxKsMbZFJLc3AaNxaZGv.jpg",
+  "production_companies": [
+    {
+      "id": 20691,
+      "logo_path": "/zB4VpQ8BDxKKhUXam2u57ZZ9mtx.png",
+      "name": "Essential Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 101047,
+      "logo_path": null,
+      "name": "YingFilms",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "SG",
+      "name": "Singapore"
+    }
+  ],
+  "release_date": "2024-10-23",
+  "revenue": 69135,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "An Unfinished Film",
+  "video": false,
+  "vote_average": 7.603,
+  "vote_count": 29
+}

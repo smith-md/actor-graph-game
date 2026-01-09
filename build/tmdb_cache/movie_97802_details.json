@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/AasQNH3iHoRysoLKF83XOZSvFYk.jpg",
+  "belongs_to_collection": {
+    "id": 88345,
+    "name": "Emmanuelle In Space Collection",
+    "poster_path": "/m0eKMAuskzVycKglg7smHLjQQEP.jpg",
+    "backdrop_path": "/gzTkpgTa5P4uK14n7dSfgljkPPw.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 97802,
+  "imdb_id": "tt0132938",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Emmanuelle: First Contact",
+  "overview": "Emmanuelle makes first contact...when a group of intergalactic travelers arrives, seeking to understand human love and sexuality. Who better to teach them than Emmanuelle, the most sensual woman in the world...and beyond.",
+  "popularity": 4.052,
+  "poster_path": "/hj7y7GUlj8LZ4ZbtzrsUp5bm2Ft.jpg",
+  "production_companies": [
+    {
+      "id": 77499,
+      "logo_path": null,
+      "name": "ASP S.A.",
+      "origin_country": "FR"
+    },
+    {
+      "id": 74999,
+      "logo_path": null,
+      "name": "Riouw Beleggingen BV",
+      "origin_country": "NL"
+    },
+    {
+      "id": 75000,
+      "logo_path": null,
+      "name": "Oranton Ltd.",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-06-20",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The most sensual woman in the world...and beyond.",
+  "title": "Emmanuelle: First Contact",
+  "video": false,
+  "vote_average": 5.234,
+  "vote_count": 32
+}

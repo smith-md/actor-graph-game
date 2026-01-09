@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/4mZ06VpfpAPuaUPn1SEV0brbbxe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.theexchange.ws/portfolio/world-breaker/",
+  "id": 1196067,
+  "imdb_id": "tt14264694",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Worldbreaker",
+  "overview": "Five years ago, a tear in the fabric of reality brought creatures to our world from an alternate dimension bent on our destruction. A father hides his daughter on an island to keep her safe while he prepares her for survival and the battles to come. But when the world is about to break, no place is safe.",
+  "popularity": 82.9026,
+  "poster_path": "/7K8w6mdrJp0oaSoKWGyjSZ4Zv2z.jpg",
+  "production_companies": [
+    {
+      "id": 104678,
+      "logo_path": "/kdFFpWu5r2ziY9xXPrqhiWS9id8.png",
+      "name": "23ten",
+      "origin_country": "GB"
+    },
+    {
+      "id": 215935,
+      "logo_path": "/pYh0UKZbx8WGKLDZuBkq7WwvGSH.png",
+      "name": "Gramercy Park Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 168295,
+      "logo_path": "/jy0UTvGugWYsUYJb7ISk5qd0fvo.png",
+      "name": "Studio507",
+      "origin_country": "US"
+    },
+    {
+      "id": 15465,
+      "logo_path": "/391VF4wQ568eSBChoPbgWBVByfl.png",
+      "name": "Amasia Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-30",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The future belongs to those who fight.",
+  "title": "Worldbreaker",
+  "video": false,
+  "vote_average": 6.308,
+  "vote_count": 52
+}

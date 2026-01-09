@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/zytIxBSQRgatsIG7NQsKhi0kaNQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 23196,
+  "imdb_id": "tt0105450",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "South Central",
+  "overview": "During a 10-year sentence for murdering the leader of a rival South Central Los Angeles gang, Bobby Johnson finds religion and rehabilitation with the help of Muslim inmate Ali. Upon his release, Bobby returns home to find that his young son, Jimmie, has joined the Deuces, his old crew. Tensions rise as Bobby struggles to convince Jimmie to leave the gang that was his only family during the painful years his absent father spent behind bars.",
+  "popularity": 3.8253,
+  "poster_path": "/i1kpCAxuEeUPe9Ep8r1VUYRfSVX.jpg",
+  "production_companies": [
+    {
+      "id": 525,
+      "logo_path": "/lBHEvKOxh6jXpv5u5QKkCrNLkvW.png",
+      "name": "Ixtlan Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4199,
+      "logo_path": null,
+      "name": "Monument Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 4197,
+      "logo_path": null,
+      "name": "Enchantment Films Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-09-18",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A child's chance to escape anger and injustice begins with one man... His father.",
+  "title": "South Central",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 94
+}

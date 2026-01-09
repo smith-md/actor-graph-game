@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/geizp94zUS43Q0h7kO0ZlUQI3Mn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 28484,
+  "imdb_id": "tt0041253",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Colorado Territory",
+  "overview": "After escaping from jail, outlaw Wes McQueen is convinced by his old partner in crime to do one last heist.",
+  "popularity": 3.7814,
+  "poster_path": "/sliBPULxtTEit14lFJYLSeHO679.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1949-06-11",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A mighty, memorable new adventure hurtling out of the heroic vastness of Colorado Territory.",
+  "title": "Colorado Territory",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 72
+}

@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/4dcx4odNyL7IQ8c6vb6oYkjk9rg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81473752",
+  "id": 798612,
+  "imdb_id": "tt14077516",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shirley",
+  "overview": "Shirley Chisholm makes a trailblazing run for the 1972 Democratic presidential nomination after becoming the first Black woman elected to Congress.",
+  "popularity": 3.514,
+  "poster_path": "/ooo4D4kyZyFee5aiNfwZ43oKOkc.jpg",
+  "production_companies": [
+    {
+      "id": 6735,
+      "logo_path": "/pAQW38WU8ychBvYU2aGPTEbynEN.png",
+      "name": "Participant",
+      "origin_country": "US"
+    },
+    {
+      "id": 166406,
+      "logo_path": "/kZT3uhEGFYEPcxg5mk8K8A97haq.png",
+      "name": "Royal Ties Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-03-15",
+  "revenue": 0,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fearless. Fierce. First.",
+  "title": "Shirley",
+  "video": false,
+  "vote_average": 6.802,
+  "vote_count": 86
+}

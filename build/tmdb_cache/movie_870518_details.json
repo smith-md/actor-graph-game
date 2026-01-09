@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/uq20mJoPPSzpOYQCxX51DsQLL85.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://neonrated.com/films/sanctuary",
+  "id": 870518,
+  "imdb_id": "tt15364972",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sanctuary",
+  "overview": "Confined to a claustrophobic hotel room, the heir to a hotel empire and the dominatrix who has primed him for success become locked in a battle of wits and wills as he tries to end his relationship with her.",
+  "popularity": 5.1925,
+  "poster_path": "/yGQAZupyZgT2ESbBSMZ9R0OBToo.jpg",
+  "production_companies": [
+    {
+      "id": 81794,
+      "logo_path": "/7mIfopwJnw4RJSHq4FI5lhRe89w.png",
+      "name": "Rumble Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 102874,
+      "logo_path": "/3oHMY8bVdqo8c9KSQw1ehMc0o3V.png",
+      "name": "Charades",
+      "origin_country": "FR"
+    },
+    {
+      "id": 193754,
+      "logo_path": "/qNHejwZmoqEwBhOFr3oq4U9Dvad.png",
+      "name": "Hype Studios",
+      "origin_country": "FR"
+    },
+    {
+      "id": 239458,
+      "logo_path": null,
+      "name": "Mosaic Films",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2023-03-02",
+  "revenue": 581423,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "His game. Her rules.",
+  "title": "Sanctuary",
+  "video": false,
+  "vote_average": 6.088,
+  "vote_count": 233
+}

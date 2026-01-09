@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": "/h37garYpEwYeKBGZq9cHTbtEHPU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.transmissionfilms.com.au/films/the-stranger",
+  "id": 848791,
+  "imdb_id": "tt11897478",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "The Stranger",
+  "overview": "Two strangers strike up a conversation on a long journey. However, neither is who they appear to be, each carry secrets that threaten to ruin them — and in the background, one of the nation's largest police operations is closing in.",
+  "popularity": 3.0497,
+  "poster_path": "/ydbm5Ad1nyZq7eywWsw82Wxdsgg.jpg",
+  "production_companies": [
+    {
+      "id": 10039,
+      "logo_path": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+      "name": "Anonymous Content",
+      "origin_country": "US"
+    },
+    {
+      "id": 7217,
+      "logo_path": "/vFbexaF70wSMUHRA6Fy6UcuA1ju.png",
+      "name": "See-Saw Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7584,
+      "logo_path": "/eGkfvvyf4fJTvBUR1xt1669IPA3.png",
+      "name": "Screen Australia",
+      "origin_country": "AU"
+    },
+    {
+      "id": 2806,
+      "logo_path": "/vxOhCbpsRBh10m6LZ3HyImTYpPY.png",
+      "name": "South Australian Film Corporation",
+      "origin_country": "AU"
+    },
+    {
+      "id": 32299,
+      "logo_path": "/yNphx07jCXygH1Zh73tSPHnNi82.png",
+      "name": "Blue-Tongue Films",
+      "origin_country": "AU"
+    },
+    {
+      "id": 52059,
+      "logo_path": "/rajoRd4i5xJKHAqFyeflFBMUBZM.png",
+      "name": "RocketScience",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-10-06",
+  "revenue": 149441,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The closer you get...",
+  "title": "The Stranger",
+  "video": false,
+  "vote_average": 6.148,
+  "vote_count": 394
+}

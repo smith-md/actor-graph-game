@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/8CBIP7avPE8gMOfuxjygY6Wy92Z.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 12778,
+  "imdb_id": "tt0109936",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Greedy",
+  "overview": "Meet the McTeagues. They've come to stake a claim in their wealthy uncle's will… only he's not dead yet!",
+  "popularity": 3.667,
+  "poster_path": "/5OpvMU6CTXe4pRAQUVWcVJeZCSS.jpg",
+  "production_companies": [
+    {
+      "id": 23,
+      "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-03-04",
+  "revenue": 13145977,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Where there’s a will, there’s a relative.",
+  "title": "Greedy",
+  "video": false,
+  "vote_average": 6.152,
+  "vote_count": 279
+}

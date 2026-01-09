@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/sz99m5MyJzbYvUMLQ9Iop0YaY3H.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 11365,
+  "imdb_id": "tt0120514",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Wilde",
+  "overview": "Oscar Wilde is a married playwright who has occasionally indulged his weakness for male suitors. After much toil, Wilde debuts 'The Importance of Being Earnest' in London, and a chat at the theatre with Lord Alfred 'Bosie' Douglas leads to a full-fledged romance. However, this affair leads to a legal dispute with Lord Alfred's oppressive father, the Marquess of Queensberry, and, given the local anti-gay laws, Wilde is jailed. Wilde's vast intellect helps him survive until he regains his freedom.",
+  "popularity": 3.3846,
+  "poster_path": "/66ieZHIIOkeQAjAi4ekFpcCLozA.jpg",
+  "production_companies": [
+    {
+      "id": 93549,
+      "logo_path": null,
+      "name": "Dove International",
+      "origin_country": ""
+    },
+    {
+      "id": 140,
+      "logo_path": "/ooz5b0ov3PLfBoOJyMmdoffVuHs.png",
+      "name": "Pandora Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 826,
+      "logo_path": "/aqiR1prl8N00FfkC4FCJWsOpZIy.png",
+      "name": "Capitol Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5365,
+      "logo_path": null,
+      "name": "samuelson productions",
+      "origin_country": ""
+    },
+    {
+      "id": 20521,
+      "logo_path": "/umPV6gEtvSiqGuNyXAuuXdGZRYe.png",
+      "name": "Neue Deutsche Filmgesellschaft",
+      "origin_country": "DE"
+    },
+    {
+      "id": 9148,
+      "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+      "name": "Pony Canyon",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1997-09-01",
+  "revenue": 2158775,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Loved for being unique. Hated for being different.",
+  "title": "Wilde",
+  "video": false,
+  "vote_average": 6.58,
+  "vote_count": 282
+}

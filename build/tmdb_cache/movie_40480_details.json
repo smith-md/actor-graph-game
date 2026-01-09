@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/nJx6Wkfz6zVNxBok9UYl4hddr8W.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 40480,
+  "imdb_id": "tt0112443",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bad Company",
+  "overview": "CIA operative Nelson Crowe is tasked with a deadly assignment: infiltrate a highly secret industrial espionage firm. Once inside, he teams with Margaret Wells, a master spy and seductive manipulator, in a plot to overthrow the organization's sinister president, which leads them into a darkly mysterious web of intrigue -- and shocking murder!",
+  "popularity": 2.398,
+  "poster_path": "/5q5r3cpaTDByz4qko9ZWHlK3gMF.jpg",
+  "production_companies": [
+    {
+      "id": 9195,
+      "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 21857,
+      "logo_path": null,
+      "name": "Tool Shed Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-01-20",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Bribery. Blackmail. Murder. Specialities of the house.",
+  "title": "Bad Company",
+  "video": false,
+  "vote_average": 4.9,
+  "vote_count": 69
+}

@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/h4sfaayNQ97lIrOlKx72oNV8Pmj.jpg",
+  "belongs_to_collection": null,
+  "budget": 1200000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 27886,
+  "imdb_id": "tt0091969",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Slaughter High",
+  "overview": "Eight different people are invited to their 10-year high school reunion at their now-closed down high school where a former student, disfigured from a prank gone wrong, is there to seek revenge.",
+  "popularity": 3.5246,
+  "poster_path": "/n6FWYMoU7Plpz4In9AtYdla5HAT.jpg",
+  "production_companies": [
+    {
+      "id": 18952,
+      "logo_path": null,
+      "name": "Spectacular Trading International",
+      "origin_country": "HK"
+    },
+    {
+      "id": 12360,
+      "logo_path": "/EugVVMfcbv9zxCr0C60VhD0vGY.png",
+      "name": "Vestron Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-11-14",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Where the student body is going to pieces.",
+  "title": "Slaughter High",
+  "video": false,
+  "vote_average": 5.71,
+  "vote_count": 145
+}

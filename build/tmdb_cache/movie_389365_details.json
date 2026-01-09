@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/3SisKxCyvVHv3vN5qwExXPZ8Ex5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 389365,
+  "imdb_id": "tt3838498",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La Macchinazione",
+  "overview": "In the summer of '75 Pier Paolo Pasolini's film, \"Salò\", is stolen from the lab where he is editing it. This is just the first step of an intricate plan that will bring the great poet to his violent death.",
+  "popularity": 3.8653,
+  "poster_path": "/auQ8RYBHIyYqclf3HD3V82mCnpe.jpg",
+  "production_companies": [
+    {
+      "id": 119360,
+      "logo_path": "/bedAqJ7D1WBIewOTA0kbS14rdKD.png",
+      "name": "Propaganda Italia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 51400,
+      "logo_path": "/iQ8u1H9KzFf3i2phgx5q8Yo7F8R.png",
+      "name": "To Be Continued",
+      "origin_country": "FR"
+    },
+    {
+      "id": 82028,
+      "logo_path": null,
+      "name": "Montfluor Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2016-03-24",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Ploy",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 35
+}

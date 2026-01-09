@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/cguzwAWMrT9yhSvilgaZxNhipdo.jpg",
+  "belongs_to_collection": null,
+  "budget": 9000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 42782,
+  "imdb_id": "tt0057952",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Circus World",
+  "overview": "Circus owner Matt Masters is beset by disasters as he attempts a European tour of his circus. At the same time, he is caught in an emotional bind between his adopted daughter and her mother.",
+  "popularity": 3.7238,
+  "poster_path": "/vwioP29cTAsQP1dUrVa1yvLVNmz.jpg",
+  "production_companies": [
+    {
+      "id": 10253,
+      "logo_path": null,
+      "name": "Samuel Bronston Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1964-06-25",
+  "revenue": 0,
+  "runtime": 143,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "John Wayne Wild Across the World!",
+  "title": "Circus World",
+  "video": false,
+  "vote_average": 6.219,
+  "vote_count": 80
+}

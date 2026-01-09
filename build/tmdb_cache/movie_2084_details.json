@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/kq7a3jjof465gLwsIDhjtpyNURD.jpg",
+  "belongs_to_collection": null,
+  "budget": 13000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 2084,
+  "imdb_id": "tt0188453",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Birthday Girl",
+  "overview": "John is a mild-mannered banker who has never been lucky in love. Fed up with waiting for the right girl to come along, John takes a chance on a Russian mail-order bride arranged via the Internet, where he is introduced to Nadia. John's fondness for Nadia grows... until the sudden arrival of Nadia's gregarious cousins makes John realize that he's in over his head.",
+  "popularity": 4.0331,
+  "poster_path": "/jrwCiqQjEm3WqxHXxvAoW4gOsUd.jpg",
+  "production_companies": [
+    {
+      "id": 931,
+      "logo_path": null,
+      "name": "HAL Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2001-09-06",
+  "revenue": 16171098,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Be careful what you wish for.",
+  "title": "Birthday Girl",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 425
+}

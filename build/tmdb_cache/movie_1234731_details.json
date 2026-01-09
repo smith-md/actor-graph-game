@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/yo41R39airbREp0PYfG30Ofxtgt.jpg",
+  "belongs_to_collection": null,
+  "budget": 45000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://anacondamovie.com",
+  "id": 1234731,
+  "imdb_id": "tt33244668",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Anaconda",
+  "overview": "A group of friends facing mid-life crises head to the rainforest with the intention of remaking their favorite movie from their youth, only to find themselves in a fight for their lives against natural disasters, giant snakes and violent criminals.",
+  "popularity": 76.3323,
+  "poster_path": "/5MDnvvkOqthhE5gQebzkcOhD1p5.jpg",
+  "production_companies": [
+    {
+      "id": 134756,
+      "logo_path": "/saCxMqh2hFSbDeojykvP2qc6zNX.png",
+      "name": "Fully Formed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-24",
+  "revenue": 89797809,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Sinhalese",
+      "iso_639_1": "si",
+      "name": "සිංහල"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "தமிழ்"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A comedy so big it'll leave you breathless.",
+  "title": "Anaconda",
+  "video": false,
+  "vote_average": 5.968,
+  "vote_count": 124
+}

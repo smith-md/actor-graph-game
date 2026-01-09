@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": "/s4WgUHG8RieewPBL44i8hYrBy2m.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 47333,
+  "imdb_id": "tt0116684",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Jane Eyre",
+  "overview": "After a bleak childhood, Jane Eyre goes out into the world to become a governess. As she lives happily in her new position at Thornfield Hall, she meet the dark, cold, and abrupt master of the house, Mr. Rochester. Jane and her employer grow close in friendship and she soon finds herself falling in love with him. Happiness seems to have found Jane at last, but could Mr. Rochester's terrible secret be about to destroy it forever?",
+  "popularity": 4.3831,
+  "poster_path": "/2vyt97wy8dEJYILoDoiPwTzLnzK.jpg",
+  "production_companies": [
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 114711,
+      "logo_path": null,
+      "name": "Cineritino S.r.L.",
+      "origin_country": ""
+    },
+    {
+      "id": 1677,
+      "logo_path": "/dI1xprCsOhTe1MSJcW0TEn9McrG.png",
+      "name": "Mediaset",
+      "origin_country": "IT"
+    },
+    {
+      "id": 114712,
+      "logo_path": null,
+      "name": "RCS Editori S.p.A.",
+      "origin_country": ""
+    },
+    {
+      "id": 324,
+      "logo_path": null,
+      "name": "Flach Film",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-01-20",
+  "revenue": 5200601,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The passionate tale of forbidden secrets!",
+  "title": "Jane Eyre",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 238
+}

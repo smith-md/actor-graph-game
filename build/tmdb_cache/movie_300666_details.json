@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/olFrXt0DbDxk1k2SDc82hwLkSSK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 300666,
+  "imdb_id": "tt2950052",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bravetown",
+  "overview": "After an accidental drug overdose, a talented teenage DJ goes to live with his estranged father in a small Army town, where he gets to the bottom of his own pain and learns empathy for others.",
+  "popularity": 4.2413,
+  "poster_path": "/aM5c1cu9dqt8Rqrv1FdMna4oThD.jpg",
+  "production_companies": [
+    {
+      "id": 55481,
+      "logo_path": null,
+      "name": "Strings of Films",
+      "origin_country": ""
+    },
+    {
+      "id": 55482,
+      "logo_path": null,
+      "name": "2 Wolves Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-05-08",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Life hurts. Love heals.",
+  "title": "Bravetown",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 303
+}

@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/eXhgMgzia6UYYidCf9YnXWc6q9i.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.the-match-factory.com/catalogue/films/the-ordinaries.html",
+  "id": 979851,
+  "imdb_id": "tt13986278",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "The Ordinaries",
+  "overview": "Paula, a young supporting character, studies at the Main Character School and dreams on graduating to become a lead.",
+  "popularity": 3.697,
+  "poster_path": "/imP8VJGdQF2dmx0fvaFl7m9clC7.jpg",
+  "production_companies": [
+    {
+      "id": 186919,
+      "logo_path": "/gDo2965yHsgLfsUEZSIbJe4p5hi.png",
+      "name": "Bandenfilm",
+      "origin_country": "DE"
+    },
+    {
+      "id": 86782,
+      "logo_path": "/zuXKoPd9apgEOvy6rHthcEjJkR7.png",
+      "name": "Filmuniversität Babelsberg KONRAD WOLF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2023-03-30",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Ordinaries",
+  "video": false,
+  "vote_average": 6.091,
+  "vote_count": 22
+}

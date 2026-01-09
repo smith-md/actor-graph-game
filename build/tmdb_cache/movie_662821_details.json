@@ -1,0 +1,50 @@
+{
+  "adult": false,
+  "backdrop_path": "/f6WSV0lsuOub8lgPBHrFlOhTGUk.jpg",
+  "belongs_to_collection": null,
+  "budget": 110000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 662821,
+  "imdb_id": "tt7461372",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Dawn",
+  "overview": "Following the murder of her family at the hands of her father in the wake of World War I, a young woman is sent to live in a convent. However, the demons that plagued her father follow, reawakening the nightmares of her past.",
+  "popularity": 4.5666,
+  "poster_path": "/3gxznVkacYCFlaYTNbUBvyxg6bf.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-09-27",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Dawn",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 56
+}

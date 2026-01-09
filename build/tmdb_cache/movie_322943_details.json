@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 322943,
+  "imdb_id": "tt0168734",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Un embrujo",
+  "overview": "In the Yucatan coast of the thirties , Elisha, a boy of 13, is initiated into the art of love by Felipa , his schoolteacher. After discovering the relationship, Felipa runs away from the village , leaving Elisha mired in nostalgia. Forced to marry another woman and lead a routine life , recalling the years passed Eliseo romance with Felipa until ten years later, the woman returns , removing his wounds and changing forever the life of Elisha , his family and the whole town",
+  "popularity": 3.3078,
+  "poster_path": "/cb4VAtZm5cVFZf7bjhkVQ8iyyuB.jpg",
+  "production_companies": [
+    {
+      "id": 9980,
+      "logo_path": "/tvtK88MhdxjOZN3zSeyrkP8iWd1.png",
+      "name": "Fondo para la Producción Cinematográfica de Calidad",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "1999-02-19",
+  "revenue": 0,
+  "runtime": 130,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Under a Spell",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 21
+}

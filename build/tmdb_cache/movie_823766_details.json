@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/hJN3ZaueIDWFO5FfxoXdiP6Y4oH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81426931",
+  "id": 823766,
+  "imdb_id": "tt9288822",
+  "origin_country": [
+    "IE",
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Wonder",
+  "overview": "Haunted by her past, a nurse travels from England to a remote Irish village in 1862 to investigate a young girl's supposedly miraculous fast.",
+  "popularity": 3.9527,
+  "poster_path": "/wZvZgA7IkDX78UilzqBGh0QTQvC.jpg",
+  "production_companies": [
+    {
+      "id": 3353,
+      "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
+      "name": "Element Pictures",
+      "origin_country": "IE"
+    },
+    {
+      "id": 112783,
+      "logo_path": "/g95BBJvKyOawT3sGVXTdDG72Qad.png",
+      "name": "House Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1898,
+      "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2022-11-02",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Wonder",
+  "video": false,
+  "vote_average": 6.611,
+  "vote_count": 908
+}

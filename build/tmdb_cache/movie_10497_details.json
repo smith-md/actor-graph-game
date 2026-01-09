@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/9NwkPVcLBKMrPKU79XinX73HZNa.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 10497,
+  "imdb_id": "tt0104779",
+  "origin_country": [
+    "FR",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Bitter Moon",
+  "overview": "A passenger on a cruise ship develops an irresistible infatuation with an eccentric paraplegic's wife.",
+  "popularity": 6.5451,
+  "poster_path": "/bW7E4cLWh0elRRbp2VCrtXrY1if.jpg",
+  "production_companies": [
+    {
+      "id": 355,
+      "logo_path": null,
+      "name": "R.P. Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 635,
+      "logo_path": "/ikp5Hokscs88jMWSkM9dB98U3Ak.png",
+      "name": "Les Films Alain Sarde",
+      "origin_country": "FR"
+    },
+    {
+      "id": 8131,
+      "logo_path": null,
+      "name": "Timothy Burrill Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1992-09-02",
+  "revenue": 1862805,
+  "runtime": 139,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A kinky voyage with a full head of steam.",
+  "title": "Bitter Moon",
+  "video": false,
+  "vote_average": 7.098,
+  "vote_count": 820
+}

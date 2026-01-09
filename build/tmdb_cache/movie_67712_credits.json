@@ -1,0 +1,151 @@
+{
+  "id": 67712,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 78077,
+      "known_for_department": "Acting",
+      "name": "Clarence Nash",
+      "original_name": "Clarence Nash",
+      "popularity": 0.7521,
+      "profile_path": "/x2g2hbu4RRIcn6Q5RT8gpWR1FKV.jpg",
+      "cast_id": 11,
+      "character": "Donald Duck (voice) (uncredited)",
+      "credit_id": "52fe4773c3a368484e0c7973",
+      "order": 0
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 148147,
+      "known_for_department": "Directing",
+      "name": "Jack King",
+      "original_name": "Jack King",
+      "popularity": 1.4982,
+      "profile_path": "/npioVkO9CuQtNWXLy72hsRw4vWK.jpg",
+      "credit_id": "52fe4773c3a368484e0c7939",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2106,
+      "known_for_department": "Production",
+      "name": "Walt Disney",
+      "original_name": "Walt Disney",
+      "popularity": 1.195,
+      "profile_path": "/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg",
+      "credit_id": "52fe4773c3a368484e0c793f",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 64868,
+      "known_for_department": "Sound",
+      "name": "Oliver Wallace",
+      "original_name": "Oliver Wallace",
+      "popularity": 0.3591,
+      "profile_path": null,
+      "credit_id": "52fe4773c3a368484e0c794b",
+      "department": "Sound",
+      "job": "Original Music Composer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 148260,
+      "known_for_department": "Art",
+      "name": "Howard Dunn",
+      "original_name": "Howard Dunn",
+      "popularity": 0.1989,
+      "profile_path": null,
+      "credit_id": "52fe4773c3a368484e0c7951",
+      "department": "Art",
+      "job": "Background Designer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 148174,
+      "known_for_department": "Visual Effects",
+      "name": "Bill Justice",
+      "original_name": "Bill Justice",
+      "popularity": 1.159,
+      "profile_path": null,
+      "credit_id": "52fe4773c3a368484e0c7957",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 143787,
+      "known_for_department": "Visual Effects",
+      "name": "Hal King",
+      "original_name": "Hal King",
+      "popularity": 0.4267,
+      "profile_path": null,
+      "credit_id": "52fe4773c3a368484e0c795d",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 149218,
+      "known_for_department": "Visual Effects",
+      "name": "Sandy Strother",
+      "original_name": "Sandy Strother",
+      "popularity": 0.1622,
+      "profile_path": null,
+      "credit_id": "52fe4773c3a368484e0c7969",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 148263,
+      "known_for_department": "Visual Effects",
+      "name": "Don Towsley",
+      "original_name": "Don Towsley",
+      "popularity": 1.3385,
+      "profile_path": null,
+      "credit_id": "52fe4773c3a368484e0c796f",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 148807,
+      "known_for_department": "Writing",
+      "name": "Roy Williams",
+      "original_name": "Roy Williams",
+      "popularity": 0.469,
+      "profile_path": null,
+      "credit_id": "554104cb9251414aee001cd0",
+      "department": "Writing",
+      "job": "Story"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 148262,
+      "known_for_department": "Visual Effects",
+      "name": "Ernie Nordli",
+      "original_name": "Ernie Nordli",
+      "popularity": 0.4122,
+      "profile_path": null,
+      "credit_id": "655c556af6787a00c6cf619a",
+      "department": "Visual Effects",
+      "job": "Layout Supervisor"
+    }
+  ]
+}

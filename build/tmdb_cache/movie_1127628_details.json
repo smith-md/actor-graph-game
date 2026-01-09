@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/uIXIQUDXUxvhjfKvpUnXTiVfvuB.jpg",
+  "belongs_to_collection": null,
+  "budget": 6000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.berlinale.de/en/2025/programme/202517001.html",
+  "id": 1127628,
+  "imdb_id": "tt27773954",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Thing with Feathers",
+  "overview": "After a tragic loss, a grieving father tries to raise his young sons whilst dealing with an unlikely, unpredictable, and uninvited houseguest.",
+  "popularity": 6.78,
+  "poster_path": "/j3kM0tMW7EQaOrit0JW9NvoPPrp.jpg",
+  "production_companies": [
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 92346,
+      "logo_path": "/qyqhyTbYHRmU2QcRomm4AeGiN0g.png",
+      "name": "SunnyMarch",
+      "origin_country": "GB"
+    },
+    {
+      "id": 173376,
+      "logo_path": null,
+      "name": "Lobo Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 144803,
+      "logo_path": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
+      "name": "Align",
+      "origin_country": "US"
+    },
+    {
+      "id": 96310,
+      "logo_path": "/tBxSNuzARadiaBpIJ3qmdPG5BCz.png",
+      "name": "LB Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-10-17",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Thing with Feathers",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 22
+}

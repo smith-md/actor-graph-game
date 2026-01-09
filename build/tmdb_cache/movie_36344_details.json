@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/gTodo59kxoc1siYPVmSOhVTEYsi.jpg",
+  "belongs_to_collection": null,
+  "budget": 23000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 36344,
+  "imdb_id": "tt0115493",
+  "origin_country": [
+    "US",
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Alaska",
+  "overview": "Jake Barnes and his two kids, Sean and Jessie, have moved to Alaska after his wife died. He is a former airline pilot now delivering toilet paper across the mountains. During an emergency delivery in a storm his plane goes down somewhere in the mountains. Annoyed that the authorities aren't doing enough, Jessie and Sean set out on an adventure to find their father with the help of a polar bear which they have saved from a ferocious poacher. Conflict ensues.",
+  "popularity": 5.207,
+  "poster_path": "/8TtnhRd4ls1xWzz3h9F5AyJuxil.jpg",
+  "production_companies": [
+    {
+      "id": 97,
+      "logo_path": "/qv3ih9pR9w2XNKZDsqDqAGuZjqc.png",
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 87554,
+      "logo_path": null,
+      "name": "Fuchs/Burg",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-08-14",
+  "revenue": 11829959,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A missing father. A desperate search. An unforgettable adventure.",
+  "title": "Alaska",
+  "video": false,
+  "vote_average": 5.82,
+  "vote_count": 139
+}

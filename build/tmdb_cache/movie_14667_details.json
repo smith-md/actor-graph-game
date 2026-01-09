@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/hPYr9jAw0dAOz6KAgtPAEEuZLmt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 14667,
+  "imdb_id": "tt0101748",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dogfight",
+  "overview": "In the fall of 1963, Eddie Birdlace is an 18-year-old Marine Corps volunteer who is about to ship out with three of his buddies for a tour of duty in Vietnam. Planning a massive blowout for their last night in San Francisco, Eddie, his buddies, and a number of other Marines set up a contest they call a \"dogfight”.",
+  "popularity": 3.1957,
+  "poster_path": "/1sEJy723hW629jzzX8H5k5MTVMq.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 165248,
+      "logo_path": null,
+      "name": "Peter Newman Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-10-04",
+  "revenue": 397631,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A love story.",
+  "title": "Dogfight",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 134
+}

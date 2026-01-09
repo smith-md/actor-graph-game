@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/78GU5jL4Mb5K6kEazDMDCI5RXQO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 41582,
+  "imdb_id": "tt0110557",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Monkey Trouble",
+  "overview": "Dodger, a criminal monkey, belongs to a crooked street performer but escapes his life of crime only to end up in the arms of Eva, an innocent little girl whose mother has no idea that her daughter is harboring a fugitive.",
+  "popularity": 5.301,
+  "poster_path": "/XnEXrR8SKWQmmvjtjRoAXROEj.jpg",
+  "production_companies": [
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 1645,
+      "logo_path": "/6Ry6uNBaa0IbbSs1XYIgX5DkA9r.png",
+      "name": "Scott Free Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-03-18",
+  "revenue": 16453258,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Eva's new friend has big eyes, hairy feet, and very sticky fingers.",
+  "title": "Monkey Trouble",
+  "video": false,
+  "vote_average": 5.72,
+  "vote_count": 214
+}
