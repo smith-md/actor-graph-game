@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/7bUYzlDz8eel1BVL1Y0YcF9NQmd.jpg",
+  "belongs_to_collection": null,
+  "budget": 53400000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://a24films.com/films/queer",
+  "id": 1059128,
+  "imdb_id": "tt24176060",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Queer",
+  "overview": "In 1950s Mexico City, William Lee, an American ex-pat in his late forties, leads a solitary life amidst a small American community. However, the arrival in town of Eugene Allerton, a young student, stirs William into finally establishing a meaningful connection with someone.",
+  "popularity": 4.5964,
+  "poster_path": "/xe4b2TMciLKA1C0JlhWxb4ENLln.jpg",
+  "production_companies": [
+    {
+      "id": 121813,
+      "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
+      "name": "Fremantle",
+      "origin_country": "US"
+    },
+    {
+      "id": 128344,
+      "logo_path": "/zNBa6RAZ5TKWZUEhxx6sxc9tdrr.png",
+      "name": "The Apartment Pictures",
+      "origin_country": "IT"
+    },
+    {
+      "id": 46344,
+      "logo_path": "/qpSdIjnGHiz6UNIQWGIJkDnG79l.png",
+      "name": "Frenesy Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-11-27",
+  "revenue": 5450715,
+  "runtime": 138,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "I'm not Queer, I'm disembodied.",
+  "title": "Queer",
+  "video": false,
+  "vote_average": 6.62,
+  "vote_count": 466
+}

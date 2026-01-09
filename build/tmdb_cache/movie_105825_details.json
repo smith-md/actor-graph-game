@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/gGBF7gDBsbddvSdps6fvNKQoqDh.jpg",
+  "belongs_to_collection": {
+    "id": 363066,
+    "name": "Erotic Ghost Story Collection",
+    "poster_path": "/siqC7xGPCLP4A7KXg0tKWAjWtoV.jpg",
+    "backdrop_path": "/bamxHNTsbTBAQdtNL3TWxMSwxgO.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 105825,
+  "imdb_id": "tt0104719",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "聊齋三集之燈草和尚",
+  "overview": "A wanderer meets a monk with magical powers and becomes entranced by a mural of exquisite dancing women. He enters the painting, unaware of the conspiracy behind it, and must rescue the women who are trapped within.",
+  "popularity": 8.9559,
+  "poster_path": "/2b1Y6NbZenY45DgC5CwncoLkpo.jpg",
+  "production_companies": [
+    {
+      "id": 118762,
+      "logo_path": null,
+      "name": "大路電影製作有限公司",
+      "origin_country": ""
+    },
+    {
+      "id": 2521,
+      "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+      "name": "Orange Sky Golden Harvest",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1992-03-05",
+  "revenue": 1201428,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Erotic Ghost Story III",
+  "video": false,
+  "vote_average": 5.483,
+  "vote_count": 30
+}

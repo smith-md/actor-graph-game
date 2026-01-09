@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/tKMBxiNYPoum4CQmdkWmVNDWGiJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 268920,
+  "imdb_id": "tt2967224",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hot Pursuit",
+  "overview": "Straight-arrow policewoman Cooper is excited and thrilled about her next assignment. Her task is to escort Daniella Riva, a wisecracking Colombian beauty, from San Antonio to Dallas so both she and her husband can testify against a drug lord. Plans go awry when Mr. Riva gets ambushed, leaving Daniella a widow. Cooper and her witness must now use their wits to escape from crooked cops and murderous gunmen, while not killing each other in the process.",
+  "popularity": 6.1164,
+  "poster_path": "/lobNOBHuJQCP9ZYAf86MBMwRrmZ.jpg",
+  "production_companies": [
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 15829,
+      "logo_path": null,
+      "name": "Pacific Standard",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-05-08",
+  "revenue": 51680201,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Armed and sort of dangerous.",
+  "title": "Hot Pursuit",
+  "video": false,
+  "vote_average": 5.75,
+  "vote_count": 1675
+}

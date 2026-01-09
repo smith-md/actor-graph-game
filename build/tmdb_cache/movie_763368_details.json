@@ -1,0 +1,41 @@
+{
+  "adult": false,
+  "backdrop_path": "/cxGcMVsRFxRhMbtKpfQ8JdA1HRB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 763368,
+  "imdb_id": "tt11486994",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Incision",
+  "overview": "Beauty Blogger Alexa Landry only had one fear, plastic surgery. She ultimately had to face this fear when she was kidnapped with her friends by Dr. Cunningham. A deranged plastic surgeon who is obsessed with beautifying his victims.",
+  "popularity": 3.0147,
+  "poster_path": "/xxKyBzg3IwU3tCyXovqwbZbDKKw.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2020-10-28",
+  "revenue": 0,
+  "runtime": 79,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some obsessions are painful.",
+  "title": "Incision",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 32
+}

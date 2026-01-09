@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/kPFmVuiLK2Nkalhohsj3t7ph4aI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "https://quijotefilms.com/en/quijote_cine/los-colonos",
+  "id": 989589,
+  "imdb_id": "tt10370812",
+  "origin_country": [
+    "AR",
+    "CL",
+    "DK",
+    "FR",
+    "DE",
+    "SE",
+    "TW",
+    "GB"
+  ],
+  "original_language": "es",
+  "original_title": "Los colonos",
+  "overview": "Chile, early 20th century. José Menéndez, a wealthy landowner, hires three horsemen to mark out the perimeter of his extensive property and open a route to the Atlantic Ocean across vast Patagonia.",
+  "popularity": 5.6147,
+  "poster_path": "/1IwpJK6AyUmdJRnphBQFBLwVfRd.jpg",
+  "production_companies": [
+    {
+      "id": 2622,
+      "logo_path": "/2ZWtZLYbuQVPNvLJNv85uhEhZkO.png",
+      "name": "Ciné-Sud Promotion",
+      "origin_country": "FR"
+    },
+    {
+      "id": 88231,
+      "logo_path": "/hVx90I5BEktosw4N9AneIFwmjeg.png",
+      "name": "Snowglobe",
+      "origin_country": "DK"
+    },
+    {
+      "id": 84642,
+      "logo_path": "/kBjtbXhMLz55Ghkp6dOHKXI4VVt.png",
+      "name": "Quijote Films",
+      "origin_country": "CL"
+    },
+    {
+      "id": 6274,
+      "logo_path": "/ngZoa368SAnERTz3IBvgTT4eWeB.png",
+      "name": "MK2 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 31785,
+      "logo_path": "/uU29CVUPk6kL0YNtxHNOl2FhosM.png",
+      "name": "Finite Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1873,
+      "logo_path": "/911T70eQ0qxId7NN31zV8YpMWFE.png",
+      "name": "Sophie Dulac Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 123638,
+      "logo_path": "/tC3rygELzfDDbqgg5lBYvrfkWFA.png",
+      "name": "Quiddity Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 171358,
+      "logo_path": "/oFLu7PXosTKX1W5JLRSGMr7mcUv.png",
+      "name": "Volos Films",
+      "origin_country": "TW"
+    },
+    {
+      "id": 37159,
+      "logo_path": "/aZxA9srDC56wBl7ppYEAB2ZPSP2.png",
+      "name": "Rei Pictures",
+      "origin_country": "AR"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 63583,
+      "logo_path": "/bu6zssHeJRGPuQ5xL8IyOVsRyfP.png",
+      "name": "Sutor Kolonko",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2023-10-11",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Settlers",
+  "video": false,
+  "vote_average": 6.775,
+  "vote_count": 142
+}

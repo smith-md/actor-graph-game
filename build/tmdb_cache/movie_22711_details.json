@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/1LLSYj84EA8nrdPclinJXFd1JRm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 22711,
+  "imdb_id": "tt0096943",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Blaze",
+  "overview": "A middle-aged Louisiana governor falls in love with a young stripper, which jeopardizes his political career and the radical policies which have made him a controversial figure.",
+  "popularity": 3.6943,
+  "poster_path": "/upb42GxljtsmhoLxXbD6REm5Iwg.jpg",
+  "production_companies": [
+    {
+      "id": 9195,
+      "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-12-15",
+  "revenue": 19131000,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A governor. A stripper. Forced to chose between the office he held and the woman he loved, he chose both.",
+  "title": "Blaze",
+  "video": false,
+  "vote_average": 6.149,
+  "vote_count": 67
+}

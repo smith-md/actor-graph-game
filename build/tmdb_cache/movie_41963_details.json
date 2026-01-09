@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/xTYht4kr0N3V4uMPSMpXM87VOag.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 41963,
+  "imdb_id": "tt0095599",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Masquerade",
+  "overview": "A recently orphaned heiress meets a young racing yacht captain on Long Island. He shows interest in her and, being heiress to $200,000,000, love may not be the reason.",
+  "popularity": 3.9013,
+  "poster_path": "/uCVrSsjp5Hlb4y96reEKo1nQJ2d.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1988-03-11",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Masquerade",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 73
+}

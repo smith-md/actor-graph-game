@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/dJZCY38DSzZdGdVtFsEdJIrKOmG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81628146",
+  "id": 1323475,
+  "imdb_id": "tt33053440",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Champagne Problems",
+  "overview": "A driven American exec heads to Paris determined to acquire a champagne brand by Christmas — and accidentally falls for the heir to the bubbly empire.",
+  "popularity": 5.0453,
+  "poster_path": "/A2TCPPkzmWd5SwjBlxMlB6yQ4yK.jpg",
+  "production_companies": [
+    {
+      "id": 123789,
+      "logo_path": "/kSfI86pw0LxtWhflXxmX0V9fHNQ.png",
+      "name": "Off Camera Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 180075,
+      "logo_path": null,
+      "name": "Grumpy Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 50500,
+      "logo_path": "/bzsYDghl8K32AypHbMUriXoyrF.png",
+      "name": "FullDawa Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-11-18",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Christmas in France is always a good idea.",
+  "title": "Champagne Problems",
+  "video": false,
+  "vote_average": 6.102,
+  "vote_count": 186
+}

@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/lXnwIMKqPGz288dACL7VDHKfjsg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 62789,
+  "imdb_id": "tt0074262",
+  "origin_country": [
+    "FR",
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Cadaveri eccellenti",
+  "overview": "A detective is assigned to investigate the mysterious murders of some Supreme Court judges.",
+  "popularity": 3.8717,
+  "poster_path": "/ue4OgtZ9pUvthCNH9h3vK2xeNqL.jpg",
+  "production_companies": [
+    {
+      "id": 64,
+      "logo_path": null,
+      "name": "Les Productions Artistes Associés",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7508,
+      "logo_path": null,
+      "name": "PEA",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1976-02-12",
+  "revenue": 0,
+  "runtime": 121,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Illustrious Corpses",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 95
+}

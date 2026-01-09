@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/vTwjLDN9Z8RfMOIY6XMQp6cEyca.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 41583,
+  "imdb_id": "tt0097841",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Marrakech Express",
+  "overview": "After learning that an old friend of theirs has been arrested in Morocco on drug charges, four former college buddies set out for Marrakech to bail him out.",
+  "popularity": 4.2948,
+  "poster_path": "/3dZ3OhtxJa1CqjVmrjU8L40O87n.jpg",
+  "production_companies": [
+    {
+      "id": 17087,
+      "logo_path": null,
+      "name": "A.M.A. Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1989-05-11",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Marrakech Express",
+  "video": false,
+  "vote_average": 7.265,
+  "vote_count": 223
+}

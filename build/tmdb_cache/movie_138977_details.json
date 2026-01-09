@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/mAhfIvCrLGRLsBQfKZCgIP9ICbm.jpg",
+  "belongs_to_collection": null,
+  "budget": 1500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.hellohermanthemovie.com/",
+  "id": 138977,
+  "imdb_id": "tt1876330",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hello Herman",
+  "overview": "Set in the not so distant future, in Any Town USA, sixteen-years-old Herman Howards makes a fateful decision. He enters his suburban school and kills thirty nine students, two teachers, and a police officer. Just before his arrest, he emails his idol, famous journalist Lax Morales, sending him clips of the shootings captured with Herman's own digital camera. In the clips Herman tells Lax, \"I want to tell my story on your show\". Lax, haunted by his own past, is now face to face with Herman.",
+  "popularity": 4.2374,
+  "poster_path": "/nbG49b8cPgUBIC1k41o5LiUVDqq.jpg",
+  "production_companies": [
+    {
+      "id": 206786,
+      "logo_path": null,
+      "name": "Roughsky Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 76208,
+      "logo_path": "/znwMKxmzWIbtnwN1Xzc1DWJWN77.png",
+      "name": "All in Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-06-07",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No One Just Becomes a Murderer",
+  "title": "Hello Herman",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 73
+}

@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/n3PvPAdpnh1eaGXzfkXDBzm9GaJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 75600000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 14113,
+  "imdb_id": "tt0383060",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Zoom",
+  "overview": "Jack Shepard is an out-of-shape auto shop owner, far removed from the man who once protected the world's freedom. Reluctantly called back into action by the government, Jack is tasked with turning a ragtag group of kids with special powers into a new generation of superheroes to save the world from certain destruction.",
+  "popularity": 4.3592,
+  "poster_path": "/v4rSFmiy0v9D7qmKkaUVJn5UhZ1.jpg",
+  "production_companies": [
+    {
+      "id": 497,
+      "logo_path": "/wmxHM7w6JxbPwaopC6Sl4QSG2uH.png",
+      "name": "Revolution Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 598,
+      "logo_path": null,
+      "name": "Team Todd",
+      "origin_country": "US"
+    },
+    {
+      "id": 12626,
+      "logo_path": null,
+      "name": "Boxing Cat Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-08-11",
+  "revenue": 12506188,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They're going to save the world... as long as they're home for dinner.",
+  "title": "Zoom",
+  "video": false,
+  "vote_average": 5.313,
+  "vote_count": 629
+}

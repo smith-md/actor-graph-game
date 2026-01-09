@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/e4tZvefBtA6P1T0vAPfeXG4Bj3r.jpg",
+  "belongs_to_collection": null,
+  "budget": 1300000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 18079,
+  "imdb_id": "tt0247586",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "Nueve reinas",
+  "overview": "Two con artists try to swindle a stamp collector by selling him a sheet of counterfeit rare stamps, the \"nine queens\".",
+  "popularity": 3.5804,
+  "poster_path": "/tabMRXUTTBmprGax6ON2r9yBN0D.jpg",
+  "production_companies": [
+    {
+      "id": 2562,
+      "logo_path": "/hQcSVwfXKkjXzD4oO9BmHKoyfkh.png",
+      "name": "Patagonik",
+      "origin_country": "AR"
+    },
+    {
+      "id": 200910,
+      "logo_path": null,
+      "name": "FX Sound",
+      "origin_country": ""
+    },
+    {
+      "id": 200911,
+      "logo_path": null,
+      "name": "Industrias Audiovisuales Argentinas S.A.",
+      "origin_country": ""
+    },
+    {
+      "id": 200912,
+      "logo_path": null,
+      "name": "J.Z. & Asociados",
+      "origin_country": ""
+    },
+    {
+      "id": 200913,
+      "logo_path": null,
+      "name": "Kodak Argentina S.A.",
+      "origin_country": ""
+    },
+    {
+      "id": 6458,
+      "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+      "name": "INCAA",
+      "origin_country": "AR"
+    },
+    {
+      "id": 2793,
+      "logo_path": null,
+      "name": "Naya Films SA",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2000-08-31",
+  "revenue": 12413888,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If you think you've got it figured out... you've been conned.",
+  "title": "Nine Queens",
+  "video": false,
+  "vote_average": 7.765,
+  "vote_count": 781
+}

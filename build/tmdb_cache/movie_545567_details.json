@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/cPZMjrWmuQa5h2FxoftAPA5YHDq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.artsploitationfilms.com/film/benjamin/",
+  "id": 545567,
+  "imdb_id": "tt7455076",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Benjamin",
+  "overview": "Benjamin, a rising star filmmaker, is on the brink of premiering his difficult second film No Self at the London Film Festival when Billie, his hard drinking publicist, introduces him to a mesmeric French musician called Noah.",
+  "popularity": 4.908,
+  "poster_path": "/gtcbJTGIGya6vRvSeIasRPGTaMC.jpg",
+  "production_companies": [
+    {
+      "id": 114448,
+      "logo_path": null,
+      "name": "Open Palm Films",
+      "origin_country": ""
+    },
+    {
+      "id": 202500,
+      "logo_path": null,
+      "name": "Art Sploitation Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2019-03-15",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's about my inability to love. But I'm fine now.",
+  "title": "Benjamin",
+  "video": false,
+  "vote_average": 6.148,
+  "vote_count": 81
+}

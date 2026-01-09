@@ -1,1 +1,82 @@
-{"adult": false, "backdrop_path": "/bLZ1WGb59JXFRYRFgknOwwiPJ0l.jpg", "belongs_to_collection": null, "budget": 0, "genres": [{"id": 18, "name": "Drama"}, {"id": 35, "name": "Comedy"}], "homepage": "https://www.mgmstudios.com/a-good-person", "id": 800787, "imdb_id": "tt14153080", "origin_country": ["US"], "original_language": "en", "original_title": "A Good Person", "overview": "Allison's life falls apart following her involvement in a fatal accident. The unlikely relationship she forms with her would-be father-in-law helps her live a life worth living.", "popularity": 2.5217, "poster_path": "/x973yfVzKJtPJsW11CoJDVWbXMZ.jpg", "production_companies": [{"id": 1422, "logo_path": "/rIB6DuimR1qgLE14cBwpMABC2xx.png", "name": "Killer Films", "origin_country": "US"}, {"id": 82552, "logo_path": "/cLEXKtCpRQs0meQwT7HK6u3QmRH.png", "name": "Elevation Pictures", "origin_country": "CA"}, {"id": 52059, "logo_path": "/rajoRd4i5xJKHAqFyeflFBMUBZM.png", "name": "RocketScience", "origin_country": "GB"}], "production_countries": [{"iso_3166_1": "CA", "name": "Canada"}, {"iso_3166_1": "US", "name": "United States of America"}, {"iso_3166_1": "GB", "name": "United Kingdom"}], "release_date": "2023-03-23", "revenue": 2196991, "runtime": 128, "spoken_languages": [{"english_name": "English", "iso_639_1": "en", "name": "English"}, {"english_name": "Turkish", "iso_639_1": "tr", "name": "T\u00fcrk\u00e7e"}], "status": "Released", "tagline": "Sometimes we find hope where we least expect it.", "title": "A Good Person", "video": false, "vote_average": 7.047, "vote_count": 395}
+{
+  "adult": false,
+  "backdrop_path": "/bLZ1WGb59JXFRYRFgknOwwiPJ0l.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.mgmstudios.com/a-good-person",
+  "id": 800787,
+  "imdb_id": "tt14153080",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Good Person",
+  "overview": "Allison's life falls apart following her involvement in a fatal accident. The unlikely relationship she forms with her would-be father-in-law helps her live a life worth living.",
+  "popularity": 2.3933,
+  "poster_path": "/dhejMQdsqPtTTCKIkyoJ5FLfC3F.jpg",
+  "production_companies": [
+    {
+      "id": 1422,
+      "logo_path": "/rIB6DuimR1qgLE14cBwpMABC2xx.png",
+      "name": "Killer Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 82552,
+      "logo_path": "/cLEXKtCpRQs0meQwT7HK6u3QmRH.png",
+      "name": "Elevation Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 52059,
+      "logo_path": "/rajoRd4i5xJKHAqFyeflFBMUBZM.png",
+      "name": "RocketScience",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2023-03-23",
+  "revenue": 2196991,
+  "runtime": 128,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sometimes we find hope where we least expect it.",
+  "title": "A Good Person",
+  "video": false,
+  "vote_average": 7.049,
+  "vote_count": 412
+}

@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/bqBY8uFoRMNRPhE39KTPIK1Dhim.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 787761,
+  "imdb_id": "tt13515258",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Oracle",
+  "overview": "A young woman accepts a job on a property with a traumatic history. Upon her arrival, she soon realizes that the nightmares of her childhood are connected to the evil in the house.",
+  "popularity": 4.1158,
+  "poster_path": "/laOpPREcTlDukttovlUGJ3Wmtb6.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 49968,
+      "logo_path": "/d74xevT5HfJN1TODKbtm6vNW1wK.png",
+      "name": "Will Packer Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-10-01",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The past is a presence",
+  "title": "Oracle",
+  "video": false,
+  "vote_average": 6.328,
+  "vote_count": 102
+}

@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/ajdB8AoHKrYlOR4yMDMZYLFyfdj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://deadofwinterfilm.com/",
+  "id": 1235746,
+  "imdb_id": "tt7574556",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dead of Winter",
+  "overview": "A widowed fisherwoman, travelling alone through snowbound northern Minnesota, interrupts the kidnapping of a teenage girl. Hours from the nearest town and with no phone service, she realizes that she is the young girl's only hope.",
+  "popularity": 13.5611,
+  "poster_path": "/5DcrN62sGAiRJxt8rXSRlSRLwIE.jpg",
+  "production_companies": [
+    {
+      "id": 118472,
+      "logo_path": "/vafYjvjZwK4JaV5Hcm9vSzw6f9G.png",
+      "name": "Stampede Ventures",
+      "origin_country": "US"
+    },
+    {
+      "id": 20037,
+      "logo_path": "/6W92BtQOutAi9KFp0aeb41RBH95.png",
+      "name": "Augenschein Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 129014,
+      "logo_path": "/prEkjaZmlInntYbwTCJvgpAzd8E.png",
+      "name": "Leonine Studios",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-23",
+  "revenue": 1030111,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Wrong place. Wrong crime.",
+  "title": "Dead of Winter",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 131
+}

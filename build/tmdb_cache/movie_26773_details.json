@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/s1dwr70QEBoLGs0DR0bOdFnVdrM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 26773,
+  "imdb_id": "tt1257579",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "El Traspatio",
+  "overview": "Officer Blanca Bravo arrives in Juarez, Mexico — a grim nexus of corporate colonialism and sexual tourism — to investigate a rash of killings targeting female migrant workers. But with no help from the locals, bringing the responsible parties to justice becomes a frustrating exercise. As Bravo rails against indifference and local corruption, she finds herself on a collision course with Mickey Santos, a Mexican mogul with a taste for young prostitutes.",
+  "popularity": 4.1164,
+  "poster_path": "/c8tW88xV002Dfrf835t17dSDKwh.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 247907,
+      "logo_path": null,
+      "name": "Coppel",
+      "origin_country": ""
+    },
+    {
+      "id": 9980,
+      "logo_path": "/tvtK88MhdxjOZN3zSeyrkP8iWd1.png",
+      "name": "Fondo para la Producción Cinematográfica de Calidad",
+      "origin_country": "MX"
+    },
+    {
+      "id": 58364,
+      "logo_path": null,
+      "name": "Grupo Financiero Inbursa",
+      "origin_country": ""
+    },
+    {
+      "id": 247908,
+      "logo_path": null,
+      "name": "Tardan/Berman",
+      "origin_country": ""
+    },
+    {
+      "id": 21124,
+      "logo_path": "/cqh1ellbulvv8lbRxiOajrE7X7G.png",
+      "name": "Argos Comunicación",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2009-02-20",
+  "revenue": 822960,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Backyard",
+  "video": false,
+  "vote_average": 6.364,
+  "vote_count": 33
+}

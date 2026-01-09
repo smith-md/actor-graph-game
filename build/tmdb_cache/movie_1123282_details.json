@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/xVLbRglz8yOPT1m32rycJQNAI2C.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1123282,
+  "imdb_id": "tt1659324",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Depravity",
+  "overview": "A group of residents begins to suspect that their strange neighbor might be hiding something dark.",
+  "popularity": 3.3189,
+  "poster_path": "/FdVaHyz80vatz25boNLneTNCrR.jpg",
+  "production_companies": [
+    {
+      "id": 121204,
+      "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-11",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Depravity",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 57
+}

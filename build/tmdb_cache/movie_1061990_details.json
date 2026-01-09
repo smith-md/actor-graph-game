@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/fKjC37jKT1Ks1WAFzdX9Eu2DOWS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81454087",
+  "id": 1061990,
+  "imdb_id": "tt24478470",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "シティーハンター",
+  "overview": "An exceptional marksman and hopeless playboy, private eye Ryo Saeba reluctantly forms an alliance with his late partner's sister to investigate his death.",
+  "popularity": 3.774,
+  "poster_path": "/cjQzJ9xFdaN9KAwu7HUImIgbc2Y.jpg",
+  "production_companies": [
+    {
+      "id": 4330,
+      "logo_path": "/n8v5Ii8FCPHAg0KaIXviDRFSqhG.png",
+      "name": "Horipro",
+      "origin_country": "JP"
+    },
+    {
+      "id": 185004,
+      "logo_path": "/tyHnxjQJLH6h4iDQKhN5iqebWmX.png",
+      "name": "Netflix",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2024-04-24",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "City Hunter",
+  "video": false,
+  "vote_average": 6.546,
+  "vote_count": 240
+}

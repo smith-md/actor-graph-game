@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/h0HMzt2uFBsgXRUvC5cMNBT70Ll.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.filmfactoryentertainment.com/films/barren-land",
+  "id": 1305273,
+  "imdb_id": "tt32190199",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Tierra de nadie",
+  "overview": "Barren Land is the story of three friends. All three trapped between the abandonment of the institutions, the violent and unstoppable rise of the narco in the province and the dangerous increase of social discontent. Three friends trapped in a powder keg that will test their friendship.",
+  "popularity": 3.4829,
+  "poster_path": "/7GO6vjOFA4Uft5USA1j2NnJ5Zcl.jpg",
+  "production_companies": [
+    {
+      "id": 149886,
+      "logo_path": "/oDG7mNqzGZGRI8Q4qIAPOS0wdh4.png",
+      "name": "Esto También Pasará",
+      "origin_country": "ES"
+    },
+    {
+      "id": 125381,
+      "logo_path": "/fqyj3ATL45iYVHSIprJP1cUy4sG.png",
+      "name": "SDB Films",
+      "origin_country": "MX"
+    },
+    {
+      "id": 80408,
+      "logo_path": "/e2LblDStah74O4c9E6o1U0qv0Oa.png",
+      "name": "Glow",
+      "origin_country": "ES"
+    },
+    {
+      "id": 103476,
+      "logo_path": "/1Wj9FXynetoCaNxUoBRvKxcKDsB.png",
+      "name": "Mogambo Films",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2025-03-28",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Three friends. One lawless place. Inspired by true events.",
+  "title": "Barren Land",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 56
+}

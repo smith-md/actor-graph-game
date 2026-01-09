@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/dBpBqk8I2pY7A3HYvHXylQUY8Zo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 27397,
+  "imdb_id": "tt0094921",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Crossing Delancey",
+  "overview": "Thirty-something Isabelle spends her time going from her tiny, solitary West Side apartment to that of her grandmother on the Lower East Side. While her grandmother plots to find her a romantic match, Isabelle is courted by a married, worldly author, Anton, yet can't seem to shake the down-to-earth appeal of Sam, a pickle vendor.",
+  "popularity": 4.2444,
+  "poster_path": "/62GF6vgxIvEpSPrH0WXHtCHm3zB.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1988-08-17",
+  "revenue": 16262415,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "A funny movie about getting serious.",
+  "title": "Crossing Delancey",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 56
+}

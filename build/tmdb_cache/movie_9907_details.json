@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/eiU6of30k9VaXxYPq682VwM2D5q.jpg",
+  "belongs_to_collection": null,
+  "budget": 51000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 9907,
+  "imdb_id": "tt0414853",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Barnyard",
+  "overview": "Otis is a mischievous, carefree Holstein cow who lives on a farm where, unbeknownst to humans, the animals are anthropomorphic. He prefers having fun with his best friends: Pip the mouse, Freddy the ferret, Peck the rooster, and Pig the pig - rather than following strict rules and accepting responsibility. This annoys his stern adoptive father Ben, the leader of the farm's community. One evening, Otis convinces Ben to cover his night watch so he can attend a massive party in the barn and impress Daisy, a pregnant cow who recently arrived at the farm with her best friend Bessy as a newcomer. As the animals party, Dag the coyote and his pack attempt to raid the chicken coop. Ben fends them off alone but is fatally wounded and killed. Otis must now learn the value of responsibility when he becomes the leader of his farm home's community.",
+  "popularity": 7.1944,
+  "poster_path": "/qB9jFInwUEb2VLhMeKQX17Vdrnp.jpg",
+  "production_companies": [
+    {
+      "id": 5682,
+      "logo_path": "/r7Hqh8pdZ9XdjXuMdslT3cgphbG.png",
+      "name": "O Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 2348,
+      "logo_path": "/oydqrfwRAm6qqdYbxuMmmPsVi87.png",
+      "name": "Nickelodeon Movies",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-08-04",
+  "revenue": 116755080,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The secret lives of animals revealed!",
+  "title": "Barnyard",
+  "video": false,
+  "vote_average": 5.91,
+  "vote_count": 1152
+}

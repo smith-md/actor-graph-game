@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/cT6xO3YjzfZKYGhZ8S7plNlA27F.jpg",
+  "belongs_to_collection": null,
+  "budget": 17500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "https://drafthousefilms.com/caligula",
+  "id": 9453,
+  "imdb_id": "tt0080491",
+  "origin_country": [
+    "IT",
+    "US"
+  ],
+  "original_language": "it",
+  "original_title": "Caligola",
+  "overview": "After the death of the paranoid emperor Tiberius, Caligula, his heir, seizes power and plunges the empire into a bloody spiral of madness and depravity.",
+  "popularity": 8.4235,
+  "poster_path": "/vNXAY6r9Pb6WkMCGmNeW2PlznLQ.jpg",
+  "production_companies": [
+    {
+      "id": 12872,
+      "logo_path": null,
+      "name": "Penthouse Films International",
+      "origin_country": "US"
+    },
+    {
+      "id": 12873,
+      "logo_path": null,
+      "name": "Felix Cinematografica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1979-08-14",
+  "revenue": 23400000,
+  "runtime": 156,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Absolute power corrupts",
+  "title": "Caligula",
+  "video": false,
+  "vote_average": 5.973,
+  "vote_count": 940
+}

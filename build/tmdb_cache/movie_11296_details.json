@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/7dfXj49DeTmx3Nl5CffBfBQ5LmC.jpg",
+  "belongs_to_collection": null,
+  "budget": 12000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "http://alanparker.com/film/birdy/",
+  "id": 11296,
+  "imdb_id": "tt0086969",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Birdy",
+  "overview": "Two young men are seriously affected by the Vietnam War. One of them has always been obsessed with birds - but now believes he really is a bird, and has been sent to a mental hospital. Can his friend help him pull through?",
+  "popularity": 4.1503,
+  "poster_path": "/weIn0Huxx4SQU8PB5ZggzA4PLIE.jpg",
+  "production_companies": [
+    {
+      "id": 559,
+      "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11043,
+      "logo_path": null,
+      "name": "A&M Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1984-12-14",
+  "revenue": 1400000,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A soaring experience unlike anything you've ever seen before.",
+  "title": "Birdy",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 550
+}

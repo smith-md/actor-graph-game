@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/lprsAHkwMxk2iC6VZxNmV0H7g1t.jpg",
+  "belongs_to_collection": {
+    "id": 1214005,
+    "name": "The Animal Collection",
+    "poster_path": "/d6HtEc2FokB8n1o1ngNLFyK5xja.jpg",
+    "backdrop_path": "/s3daocymDj7mVcRS5cyJhcS798e.jpg"
+  },
+  "budget": 13000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 781732,
+  "imdb_id": "tt13751694",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Animal",
+  "overview": "The hardened son of a powerful industrialist returns home after years abroad and vows to take bloody revenge on those threatening his father's life.",
+  "popularity": 7.3349,
+  "poster_path": "/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
+  "production_companies": [
+    {
+      "id": 3522,
+      "logo_path": "/d3u51JgEP5KwPfxS13ocqvtzZeX.png",
+      "name": "T-Series",
+      "origin_country": "IN"
+    },
+    {
+      "id": 94245,
+      "logo_path": null,
+      "name": "Bhadrakali Pictures",
+      "origin_country": "IN"
+    },
+    {
+      "id": 215410,
+      "logo_path": null,
+      "name": "ST Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2023-12-01",
+  "revenue": 108300000,
+  "runtime": 201,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A father-son bond carved in blood",
+  "title": "Animal",
+  "video": false,
+  "vote_average": 6.147,
+  "vote_count": 167
+}

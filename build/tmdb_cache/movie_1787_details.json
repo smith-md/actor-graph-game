@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/ylOk9eD57uChXuaXzCrsZtYvyCz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1787,
+  "imdb_id": "tt0062728",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Biches",
+  "overview": "A bored bisexual millionaire picks up a young destitute street artist and whisks her away to her villa in Saint Tropez. They meet a dashing local architect and both fall for him, setting in motion a ménage à trois of deception and betrayal.",
+  "popularity": 3.5931,
+  "poster_path": "/aso44GAzBFgw7q4FtbHVHbvJxos.jpg",
+  "production_companies": [
+    {
+      "id": 755,
+      "logo_path": null,
+      "name": "Alexandra Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1968-03-22",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A sensual triangle!",
+  "title": "Les Biches",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 74
+}

@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/nuaTo0D5hCLaArkOuB7XieAU5xj.jpg",
+  "belongs_to_collection": {
+    "id": 159603,
+    "name": "The Hood Collection",
+    "poster_path": "/rYLrUiuozq0ULiXGbujI1ullPPu.jpg",
+    "backdrop_path": "/nWby7b0qi20Cs5qfwwdVW56OImJ.jpg"
+  },
+  "budget": 994000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.kidulthood.co.uk/",
+  "id": 13185,
+  "imdb_id": "tt0435680",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Kidulthood",
+  "overview": "A day in the life of a group of troubled 15-year-olds growing up in west London.",
+  "popularity": 3.1356,
+  "poster_path": "/fECaenTSnSr6lS0pipY2HB4J9fJ.jpg",
+  "production_companies": [
+    {
+      "id": 6359,
+      "logo_path": null,
+      "name": "Cipher Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6360,
+      "logo_path": null,
+      "name": "Stealth Films Limited",
+      "origin_country": ""
+    },
+    {
+      "id": 2452,
+      "logo_path": "/gOkUB0TdXRLAl6s0s6jCSLS3sOb.png",
+      "name": "UK Film Council",
+      "origin_country": "GB"
+    },
+    {
+      "id": 15084,
+      "logo_path": null,
+      "name": "Revolver Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 282679,
+      "logo_path": null,
+      "name": "TMC Films (GB)",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2006-03-03",
+  "revenue": 165000,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Before adulthood comes...",
+  "title": "Kidulthood",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 192
+}

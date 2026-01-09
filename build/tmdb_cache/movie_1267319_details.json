@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/yOFqBpJ0PEkBdQqalDEaeOiaKbz.jpg",
+  "belongs_to_collection": {
+    "id": 1546075,
+    "name": "Kill Boksoon Collection",
+    "poster_path": "/qD6Ng2j21OEaid1Hu8BowrIGraK.jpg",
+    "backdrop_path": "/hyFVkkaCiv35fD70FBv1lVIpGrD.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81771384",
+  "id": 1267319,
+  "imdb_id": "tt33312131",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "사마귀",
+  "overview": "The secret society of contract killers falls into chaos, unleashing a new breed of assassins. With old rules in ruins, who dares claim the shadows?",
+  "popularity": 13.1533,
+  "poster_path": "/pzsXKLJsZ26HUV1oCMa7WiFFQbW.jpg",
+  "production_companies": [
+    {
+      "id": 126602,
+      "logo_path": "/z5H5UasanRtCU9qWugAxy4ysq6W.png",
+      "name": "See Át Film",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2025-09-25",
+  "revenue": 0,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A new generation of rising killers.",
+  "title": "Mantis",
+  "video": false,
+  "vote_average": 6.307,
+  "vote_count": 127
+}

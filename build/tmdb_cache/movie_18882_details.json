@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/qgoqb6IkNYA7NE6bgBhAnP2FEQ5.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 18882,
+  "imdb_id": "tt0290747",
+  "origin_country": [
+    "DE",
+    "AU",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Man-Thing",
+  "overview": "Agents of an oil tycoon vanish while exploring a swamp marked for drilling. The local sheriff investigates and faces a Seminole legend come to life: Man-Thing, a shambling swamp-monster whose touch burns those who feel fear.",
+  "popularity": 4.932,
+  "poster_path": "/kfPPnOygXSGaBFpsCUyu7xQdkoO.jpg",
+  "production_companies": [
+    {
+      "id": 35,
+      "logo_path": "/wxrHa3nZ1K4zo65p56991INkGo6.png",
+      "name": "Lions Gate Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 12138,
+      "logo_path": null,
+      "name": "Fierce Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 125030,
+      "logo_path": null,
+      "name": "Screenland Movieworld",
+      "origin_country": ""
+    },
+    {
+      "id": 19551,
+      "logo_path": "/2WpWp9b108hizjHKdA107hFmvQ5.png",
+      "name": "Marvel Enterprises",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-04-21",
+  "revenue": 1123136,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The nature of fear",
+  "title": "Man-Thing",
+  "video": false,
+  "vote_average": 4.339,
+  "vote_count": 217
+}

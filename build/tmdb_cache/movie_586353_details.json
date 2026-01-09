@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/els3qltvcOnflTlU48iyfMPIctU.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 586353,
+  "imdb_id": "tt14536120",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Мастер и Маргарита",
+  "overview": "A writer in 1930s Moscow has his work banned and is expelled from the official union, leaving him without income. He then writes a novel about a mysterious dark visitor and gradually starts confusing his real life with the story.",
+  "popularity": 3.3224,
+  "poster_path": "/jw172VAlwfYtWNWvhVrXZPW3jGT.jpg",
+  "production_companies": [
+    {
+      "id": 54307,
+      "logo_path": "/c6zhUONn8UMP6vdDHXrxpGxuzh2.png",
+      "name": "Mars Media Entertainment",
+      "origin_country": "RU"
+    },
+    {
+      "id": 31797,
+      "logo_path": "/wuHadQYlvbqUdcovmat7wwNuWzu.png",
+      "name": "AMedia",
+      "origin_country": "RU"
+    },
+    {
+      "id": 100852,
+      "logo_path": null,
+      "name": "Profit",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2024-01-25",
+  "revenue": 28013812,
+  "runtime": 157,
+  "spoken_languages": [
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Master and Margarita",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 128
+}

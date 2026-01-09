@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/3hbPF3QEDhWModXGtrXDmn9nLdz.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.paulmovie.com/",
+  "id": 476968,
+  "imdb_id": "tt7388562",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Paul, Apostle of Christ",
+  "overview": "Risking his life, Luke ventures to Rome to visit Paul -- the apostle who's bound in chains and held captive in Nero's darkest and bleakest prison cell. Haunted by the shadows of his past misdeeds, Paul wonders if he's been forgotten as he awaits his grisly execution. Before Paul's death, Luke resolves to write another book that details the birth of what will come to be known as the church.",
+  "popularity": 3.7359,
+  "poster_path": "/2NUXG94dGMKYgJL1BkJGKynMb3l.jpg",
+  "production_companies": [
+    {
+      "id": 81520,
+      "logo_path": null,
+      "name": "Outside Da Box",
+      "origin_country": ""
+    },
+    {
+      "id": 10156,
+      "logo_path": "/bWjWWQfiyZh9AkGYCkx1NcVdSvn.png",
+      "name": "Affirm Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 105388,
+      "logo_path": null,
+      "name": "ODB Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-03-23",
+  "revenue": 25915966,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Where sin abounds... grace abounds more",
+  "title": "Paul, Apostle of Christ",
+  "video": false,
+  "vote_average": 7.594,
+  "vote_count": 390
+}

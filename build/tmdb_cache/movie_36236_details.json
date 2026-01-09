@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/6C3A8UH5oEoqFDq8L3qKv332t2n.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 36236,
+  "imdb_id": "tt0061037",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Le streghe",
+  "overview": "Five short stories loosely dealing with the roles of women in society. A superstar actress travels to a mountain resort, only to evoke jealousy from women and lust from men. A woman offers to take an injured man to the hospital. A widowed father and his son seek for a new wife/mother. A man seeks revenge for a woman's honor. A bored housewife tries to explain to her husband that he's not as romantic as he used to be.",
+  "popularity": 3.1818,
+  "poster_path": "/7ptxCzOW7aqvXKTWV0fxwnZMH8M.jpg",
+  "production_companies": [
+    {
+      "id": 64,
+      "logo_path": null,
+      "name": "Les Productions Artistes Associés",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1216,
+      "logo_path": null,
+      "name": "DDL Cinematografica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1967-02-22",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Woman as she is...all things to men!",
+  "title": "The Witches",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 74
+}

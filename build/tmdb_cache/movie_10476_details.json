@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/d4ZrRcwEPmLQvOCyrSdWw5NglGB.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 10476,
+  "imdb_id": "tt0410097",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hustle & Flow",
+  "overview": "With help from his friends, a Memphis pimp in a mid-life crisis attempts to become a successful hip-hop emcee.",
+  "popularity": 5.2676,
+  "poster_path": "/yO5QTMZ2Oex6mwsgJuwRuINGuOQ.jpg",
+  "production_companies": [
+    {
+      "id": 746,
+      "logo_path": "/kc7bdIVTBkJYy9aDK1QDDTAL463.png",
+      "name": "MTV Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 1947,
+      "logo_path": null,
+      "name": "New Deal Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 220287,
+      "logo_path": "/kSOgeDwqKdNNRQx5gk2yX2brLOx.png",
+      "name": "Paramount Classics",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-07-22",
+  "revenue": 23563727,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everybody gotta have a dream.",
+  "title": "Hustle & Flow",
+  "video": false,
+  "vote_average": 7.156,
+  "vote_count": 423
+}

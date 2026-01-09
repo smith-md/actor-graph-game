@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/c2wkRgqYlWdT3yejyO8kdwgepSd.jpg",
+  "belongs_to_collection": {
+    "id": 411859,
+    "name": "Barbie Fairytopia Collection",
+    "poster_path": "/1JUy1U9hzYNItgZzJVDBfdn8CQS.jpg",
+    "backdrop_path": "/yaypmbspkepTymhEKKOkNQQrYRi.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 13285,
+  "imdb_id": "tt0775425",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Barbie Fairytopia: Mermaidia",
+  "overview": "In this animated follow-up to Fairytopia, Elina enlists the help of a mermaid, Nori, to save her friend Nalu, a merman prince who has been captured by the wicked Laverna.",
+  "popularity": 4.2307,
+  "poster_path": "/uBCvRThFwjvwNQeS3Vy7xMPc0Rh.jpg",
+  "production_companies": [
+    {
+      "id": 5024,
+      "logo_path": "/9CkYR0swSEj5iVi9bzx9erLnmzm.png",
+      "name": "Mainframe Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 6220,
+      "logo_path": "/cAj69EL1zSXmZH6STbMGZrunyMD.png",
+      "name": "Mattel",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-03-14",
+  "revenue": 0,
+  "runtime": 76,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Journey under the sea in a magical adventure.",
+  "title": "Barbie Fairytopia: Mermaidia",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 726
+}

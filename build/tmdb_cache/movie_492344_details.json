@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/a5Ttpgpa3YD6IGjSbIDuBBbWDwj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 492344,
+  "imdb_id": "tt7765120",
+  "origin_country": [
+    "IT",
+    "CH"
+  ],
+  "original_language": "it",
+  "original_title": "Figlia mia",
+  "overview": "A daughter torn between two mothers, one who raised her with love and her biological mother, who instinctively claims her back.",
+  "popularity": 3.4139,
+  "poster_path": "/nXjH6WyOx1nuvoqiEFjVOvWYlcR.jpg",
+  "production_companies": [
+    {
+      "id": 7144,
+      "logo_path": "/wqc8HTYdCCFnguN2Ma55lr2HIyC.png",
+      "name": "Vivo Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 7306,
+      "logo_path": "/iqCkzLmACmrws2tHO2USRLkJqXY.png",
+      "name": "The Match Factory",
+      "origin_country": "DE"
+    },
+    {
+      "id": 7970,
+      "logo_path": "/so1bsD7PbaSsFio7gVyW0M3qhsc.png",
+      "name": "Bord Cadre Films",
+      "origin_country": "CH"
+    },
+    {
+      "id": 2534,
+      "logo_path": "/6aizJC0RRO5oprJMYf2PBAB7lyZ.png",
+      "name": "Colorado Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    },
+    {
+      "id": 3923,
+      "logo_path": "/qFWM5g28knWRu4MRv0IptS7SCSP.png",
+      "name": "Strand Releasing",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2018-02-22",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Daughter of Mine",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 68
+}

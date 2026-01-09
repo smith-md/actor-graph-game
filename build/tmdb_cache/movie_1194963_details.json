@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/zeMMVjOFwXPfRIW6HzaEr0UQlRY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1194963,
+  "imdb_id": "tt29845247",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "노이즈",
+  "overview": "Ju-young is a young woman with a hearing impediment who decides to investigate her sister's inexplicable disappearance, last seen in her apartment. Feeling more and more cornered, Ju-young begins to hear strange sounds and sense an evil presence in the apartment.",
+  "popularity": 48.793,
+  "poster_path": "/uU3NXe7QqjJNxVpYPdz8dscFWlj.jpg",
+  "production_companies": [
+    {
+      "id": 11590,
+      "logo_path": "/7OOrgnVw0RAX3tq8ikWUmNud8qT.png",
+      "name": "Finecut",
+      "origin_country": "KR"
+    },
+    {
+      "id": 175846,
+      "logo_path": "/nvDW10govwZjHWfYMeisgHhyZg0.png",
+      "name": "BY4M Studio",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2025-06-25",
+  "revenue": 12199988,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Could you be quiet before I rip your mouth out.",
+  "title": "Noise",
+  "video": false,
+  "vote_average": 6.171,
+  "vote_count": 35
+}

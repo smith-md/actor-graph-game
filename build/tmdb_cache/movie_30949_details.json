@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/gSsiZrjjgN1MDVpeBUjDzFlZzPu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.spe.sony.com/movies/palmetto/intro.html",
+  "id": 30949,
+  "imdb_id": "tt0120782",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Palmetto",
+  "overview": "After being released from prison on a bum charge, Harry Barber is out for payback to regain his lost two years. He's hired by Mrs. Malroux to fake the kidnapping of her stepdaughter (the daughter of a dying millionaire). He discovers that he is being set up on multiple levels and will soon face a longer sentence if he doesn't prove the truth.",
+  "popularity": 3.7984,
+  "poster_path": "/3R8At5ll1ZyCJT7FWbLmCjVqFlp.jpg",
+  "production_companies": [
+    {
+      "id": 97,
+      "logo_path": "/qv3ih9pR9w2XNKZDsqDqAGuZjqc.png",
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 8658,
+      "logo_path": null,
+      "name": "Rialto Films",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1998-02-20",
+  "revenue": 5878911,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In a town this bad, it's no use being good.",
+  "title": "Palmetto",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 126
+}

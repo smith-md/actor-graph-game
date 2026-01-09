@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/zFsB4MB4BwVYE5tqXe9sYdCH3Vr.jpg",
+  "belongs_to_collection": {
+    "id": 1130226,
+    "name": "Through My Window Collection",
+    "poster_path": "/f7tfLoj37Px1JgJzQThB5m0JfGQ.jpg",
+    "backdrop_path": "/5MqZnov12DSGxUhkrOGqqCMy5fb.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81484068",
+  "id": 988078,
+  "imdb_id": "tt21245882",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "A través del mar",
+  "overview": "After a year of long-distance, Raquel and Ares reunite on a steamy beach trip. Faced with fresh flirtations and insecurities, will their love prevail?",
+  "popularity": 6.3497,
+  "poster_path": "/3kULr3y7ZhdY3oCHKwwNT2hqys0.jpg",
+  "production_companies": [
+    {
+      "id": 11068,
+      "logo_path": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
+      "name": "Nostromo Pictures",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2023-06-23",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Through My Window: Across the Sea",
+  "video": false,
+  "vote_average": 6.562,
+  "vote_count": 944
+}

@@ -1,0 +1,54 @@
+{
+  "adult": false,
+  "backdrop_path": "/73dXzlkftJnfOsOdMQl0XfT0gSx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 58257,
+  "imdb_id": "tt0069225",
+  "origin_country": [
+    "CF",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Savage Messiah",
+  "overview": "In the Paris of the 1910s, brash young sculptor Henri Gaudier begins a creative partnership with an older writer, Sophie Brzeska. Though the couple is 20 years apart in age, Gaudier finds that his untamed work is complemented by the older woman's cultural refinement. He then moves to London with Brzeska, where he falls in with a group of avant-garde artists. There, Gaudier encounters yet another artistic muse in passionate suffragette Gosh Boyle.",
+  "popularity": 3.6244,
+  "poster_path": "/8SvzigYJY7iy4DGlrnOHfU2FZkY.jpg",
+  "production_companies": [
+    {
+      "id": 5579,
+      "logo_path": "/p3vXYhkpbws0QrdSAwI98ONX7Po.png",
+      "name": "Metro-Goldwyn-Mayer British Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1972-06-27",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every man has a dream that must be realised... a love that must come true... a life that must not stop.",
+  "title": "Savage Messiah",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 25
+}

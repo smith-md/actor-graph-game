@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/dSwLzM4NxJp0aLsBJWcbZLtF7Oc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 776797,
+  "imdb_id": "tt13872248",
+  "origin_country": [
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_title": "哭悲",
+  "overview": "A young couple is pushed to the limits of sanity as they attempt to be reunited amid the chaos of a pandemic outbreak. The streets erupt into violence and depravity, as those infected are driven to enact the most cruel and ghastly things imaginable.",
+  "popularity": 6.2098,
+  "poster_path": "/fIiATfeF4CInWChdYcsUr3NX1BO.jpg",
+  "production_companies": [
+    {
+      "id": 157638,
+      "logo_path": "/Ald7xs1VHUiJge0oNEPgwzkB6PR.png",
+      "name": "Machi Xcelsior Studios",
+      "origin_country": "TW"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "release_date": "2021-01-22",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It feels...wonderful...",
+  "title": "The Sadness",
+  "video": false,
+  "vote_average": 6.82,
+  "vote_count": 1038
+}

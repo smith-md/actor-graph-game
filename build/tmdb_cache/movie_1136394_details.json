@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/oMUDVhNnIhSOfMKE60joozzNbUc.jpg",
+  "belongs_to_collection": null,
+  "budget": 6400000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1136394,
+  "imdb_id": "tt29102598",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Le Fil",
+  "overview": "Jean Monier is a disillusioned lawyer, appointed to defend Nicolas Milik, a man accused of murdering his wife. While everything points to his guilt, Monier takes up the case, convinced of his innocence.",
+  "popularity": 4.106,
+  "poster_path": "/xMRuEL73DJrIDKvMyLU7v5ksBv8.jpg",
+  "production_companies": [
+    {
+      "id": 13692,
+      "logo_path": null,
+      "name": "Zazi Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 194477,
+      "logo_path": "/4epaEfUBBbjoBvgo99dunfqcARN.png",
+      "name": "Zinc",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-09-11",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "An Ordinary Case",
+  "video": false,
+  "vote_average": 6.491,
+  "vote_count": 165
+}

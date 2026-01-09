@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/dCRE3ABhW8sozqYQqmMdpCce6TJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 78235,
+  "imdb_id": "tt0088765",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bad Medicine",
+  "overview": "Jeff Marx wants to study medicine and become a physician. However, his grades are far from enough to get him into an American medical school. But then he gets a chance to study medicine abroad in a small Latin American dictatorship governed by the dictator Ramon Madera who has a big interest in how the medical students behave.",
+  "popularity": 3.5487,
+  "poster_path": "/bnXZRn9MINkA8iDOxaSGmgcVLk7.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1985-11-22",
+  "revenue": 2685453,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The comedy that teaches a new low in higher education.",
+  "title": "Bad Medicine",
+  "video": false,
+  "vote_average": 5.092,
+  "vote_count": 38
+}

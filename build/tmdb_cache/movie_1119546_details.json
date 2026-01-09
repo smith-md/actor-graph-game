@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/rZMTJ5Biql3vqjVTP0GjkSm5w6V.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1119546,
+  "imdb_id": "tt29198659",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Paradis Paris",
+  "overview": "What makes life worth living? In a set of interconnected stories, several Paris residents see their lives turned upside down when death knocks at their door: a narcissistic Italian opera singer wakes up at the morgue only to realise her own passing came unnoticed; a British stuntman finds himself questioning his own profession when his son suffers an accident; an eccentric elderly Colombian woman makes a pact with death itself... While each character strives to reconnect with what matters most, the city of light, love and endless possibility shines brighter than ever.",
+  "popularity": 2.7395,
+  "poster_path": "/AtlNewzoGpSVk1Udib4XmZjIF3x.jpg",
+  "production_companies": [
+    {
+      "id": 19159,
+      "logo_path": "/t0zR0Ap7u0FD3i6huj8xdEb3don.png",
+      "name": "Vito Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 218541,
+      "logo_path": null,
+      "name": "Marjane Satrapi Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-06-12",
+  "revenue": 0,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dear Paris",
+  "video": false,
+  "vote_average": 5.543,
+  "vote_count": 23
+}

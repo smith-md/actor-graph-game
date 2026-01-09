@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/kLzWLoGDpfhE5vVUj9nD4rLoxAE.jpg",
+  "belongs_to_collection": null,
+  "budget": 700000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 542476,
+  "imdb_id": "tt8305692",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Santa Jaws",
+  "overview": "Trying to survive the family Christmas, Cody makes a wish to be alone, which ends up backfiring when a shark manifests and kills his entire family.",
+  "popularity": 2.9087,
+  "poster_path": "/cJbm00PdHOJbdAqIhfUjKJq25AY.jpg",
+  "production_companies": [
+    {
+      "id": 6677,
+      "logo_path": "/iYfrkobwDhTOFJ4AXYPSLIEeaAT.png",
+      "name": "Syfy",
+      "origin_country": "US"
+    },
+    {
+      "id": 10345,
+      "logo_path": null,
+      "name": "Active Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-08-15",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Santa Jaws",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 34
+}

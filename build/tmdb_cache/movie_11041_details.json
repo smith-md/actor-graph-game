@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/jogunsbDpMehAPdeLdt6puRJAwB.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 11041,
+  "imdb_id": "tt0106400",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Beverly Hillbillies",
+  "overview": "Mild-mannered dirt-poor hill-dweller Jed Clampett strikes it rich when oil is discovered on his property. At cousin Pearl's insistence, he moves his family to Beverly Hills to better enjoy his newfound wealth.",
+  "popularity": 3.6551,
+  "poster_path": "/refYLEQvzkY63i2IHronCPQODex.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1993-10-15",
+  "revenue": 57405220,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The day they moved in... Beverly Hills moved out.",
+  "title": "The Beverly Hillbillies",
+  "video": false,
+  "vote_average": 6.308,
+  "vote_count": 573
+}

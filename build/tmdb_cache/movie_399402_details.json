@@ -1,1 +1,125 @@
-{"adult": false, "backdrop_path": "/gCIB3DdK00DyfwosVGf7pnFFdK3.jpg", "belongs_to_collection": null, "budget": 40000000, "genres": [{"id": 28, "name": "Action"}, {"id": 12, "name": "Adventure"}, {"id": 53, "name": "Thriller"}], "homepage": "https://www.hunterkiller.movie", "id": 399402, "imdb_id": "tt1846589", "origin_country": ["US", "FR"], "original_language": "en", "original_title": "Hunter Killer", "overview": "Captain Glass of the USS Arkansas discovers that a coup d'\u00e9tat is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war.", "popularity": 7.4907, "poster_path": "/ng7ukqGaSHOuJZ4GwLJP6AH9ixc.jpg", "production_companies": [{"id": 333, "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png", "name": "Original Film", "origin_country": "US"}, {"id": 103331, "logo_path": "/nxkmGpo1Ym74DkBzNtoMz5cl6DJ.png", "name": "G-BASE", "origin_country": "US"}, {"id": 1020, "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png", "name": "Millennium Media", "origin_country": "US"}, {"id": 112334, "logo_path": null, "name": "Hunter Killer Productions", "origin_country": ""}, {"id": 20011, "logo_path": null, "name": "SprocketHeads", "origin_country": ""}, {"id": 100033, "logo_path": "/74LDJbOFdya1ijNT11uh0mM5eg0.png", "name": "Tucker Tooley Entertainment", "origin_country": "US"}, {"id": 1632, "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png", "name": "Lionsgate", "origin_country": "US"}, {"id": 342, "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png", "name": "Davis Films", "origin_country": "FR"}, {"id": 491, "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png", "name": "Summit Entertainment", "origin_country": "US"}, {"id": 7295, "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png", "name": "Relativity Media", "origin_country": "US"}], "production_countries": [{"iso_3166_1": "FR", "name": "France"}, {"iso_3166_1": "US", "name": "United States of America"}], "release_date": "2018-10-19", "revenue": 31672678, "runtime": 121, "spoken_languages": [{"english_name": "English", "iso_639_1": "en", "name": "English"}, {"english_name": "Russian", "iso_639_1": "ru", "name": "P\u0443\u0441\u0441\u043a\u0438\u0439"}], "status": "Released", "tagline": "Courage runs deep", "title": "Hunter Killer", "video": false, "vote_average": 6.897, "vote_count": 2276}
+{
+  "adult": false,
+  "backdrop_path": "/gCIB3DdK00DyfwosVGf7pnFFdK3.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.hunterkiller.movie",
+  "id": 399402,
+  "imdb_id": "tt1846589",
+  "origin_country": [
+    "US",
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "Hunter Killer",
+  "overview": "Captain Glass of the USS Arkansas discovers that a coup d'état is taking place in Russia, so he and his crew join an elite group working on the ground to prevent a war.",
+  "popularity": 8.5602,
+  "poster_path": "/ng7ukqGaSHOuJZ4GwLJP6AH9ixc.jpg",
+  "production_companies": [
+    {
+      "id": 333,
+      "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+      "name": "Original Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 103331,
+      "logo_path": "/nxkmGpo1Ym74DkBzNtoMz5cl6DJ.png",
+      "name": "G-BASE",
+      "origin_country": "US"
+    },
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 112334,
+      "logo_path": null,
+      "name": "Hunter Killer Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 20011,
+      "logo_path": null,
+      "name": "SprocketHeads",
+      "origin_country": ""
+    },
+    {
+      "id": 100033,
+      "logo_path": "/74LDJbOFdya1ijNT11uh0mM5eg0.png",
+      "name": "Tucker Tooley Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 342,
+      "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
+      "name": "Davis Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 491,
+      "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+      "name": "Summit Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 7295,
+      "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+      "name": "Relativity Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-10-19",
+  "revenue": 31672678,
+  "runtime": 121,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Courage runs deep",
+  "title": "Hunter Killer",
+  "video": false,
+  "vote_average": 6.901,
+  "vote_count": 2304
+}

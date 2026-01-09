@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/sk5YqvIl4jd7xgw7lcoUMYOLjKt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 2731,
+  "imdb_id": "tt0104507",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Indochine",
+  "overview": "In colonial Vietnam, dashing French naval captain Jean-Baptiste, wealthy plantation owner Éliane Devries, and her adopted Vietnamese daughter Camillevare the three points of a cross-cultural romantic triangle. As the struggle against European imperialism sweeps Indochina, Jean-Baptiste and Camille have to choose sides and Éliane faces the emotionally difficult challenge of raising the child of her daughter and ex-lover.",
+  "popularity": 4.4185,
+  "poster_path": "/sAemRfr6mOSwtQ76e4yUQVImo8B.jpg",
+  "production_companies": [
+    {
+      "id": 208,
+      "logo_path": "/bxQYlRhQu6nbohBEL0SWz8xIAGy.png",
+      "name": "Bac Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 255,
+      "logo_path": "/b1zTOpnNn5g0nHjhpn3Dx17QaoP.png",
+      "name": "Paradis Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 354,
+      "logo_path": null,
+      "name": "Orly Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1180,
+      "logo_path": null,
+      "name": "La Générale d'Images",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1179,
+      "logo_path": null,
+      "name": "Ciné Cinq",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "VN",
+      "name": "Vietnam"
+    },
+    {
+      "iso_3166_1": "MY",
+      "name": "Malaysia"
+    }
+  ],
+  "release_date": "1992-04-15",
+  "revenue": 29600000,
+  "runtime": 159,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Tiếng Việt"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A great film from a mysterious world",
+  "title": "Indochine",
+  "video": false,
+  "vote_average": 6.993,
+  "vote_count": 230
+}

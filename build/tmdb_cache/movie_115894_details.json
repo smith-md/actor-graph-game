@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/5p0kMEeMEfLiy8Gb4yhG0cjBATD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 115894,
+  "imdb_id": "tt0077438",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "El diputado",
+  "overview": "Roberto, a leader and follower of the ideals of his radical leftist opposition party, can’t resist the cheap beautiful street teenagers that are thrown his way for various pleasures.",
+  "popularity": 4.3372,
+  "poster_path": "/kOiDeuyCG0EzOy1OuPCnT12eBal.jpg",
+  "production_companies": [
+    {
+      "id": 18426,
+      "logo_path": null,
+      "name": "Figaro Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 18427,
+      "logo_path": null,
+      "name": "Ufesa",
+      "origin_country": ""
+    },
+    {
+      "id": 18428,
+      "logo_path": null,
+      "name": "Prozesa",
+      "origin_country": "ES"
+    },
+    {
+      "id": 268961,
+      "logo_path": null,
+      "name": "Award Films International",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1978-10-20",
+  "revenue": 631083,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Confessions of a Congressman",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 23
+}

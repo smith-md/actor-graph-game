@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/2tUCOsH8PW14ShjJdz8zU4EBJsq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 50380,
+  "imdb_id": "tt0196708",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lockdown",
+  "overview": "Avery (Jones) returns to college as a competitive swimmer after getting his life back on track. But his life takes another unexpected turn when he and his two friends (Bonds, Casseus) are wrongly accused of murder and end up in prison.",
+  "popularity": 4.3422,
+  "poster_path": "/5nWDXa8zOK0Jf2dVjBtUgmsw8fs.jpg",
+  "production_companies": [
+    {
+      "id": 1309,
+      "logo_path": "/gdsheJrD3lznh3O2qEPBDn54Anq.png",
+      "name": "Rainforest Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 16718,
+      "logo_path": null,
+      "name": "No Limit Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-09-15",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lockdown",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 50
+}

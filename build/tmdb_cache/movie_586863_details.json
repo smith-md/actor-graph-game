@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/6K74rGGGjKGrblGTa7S9yRcUtnF.jpg",
+  "belongs_to_collection": null,
+  "budget": 2500000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.lesmiserables.movie/home/",
+  "id": 586863,
+  "imdb_id": "tt10199590",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Misérables",
+  "overview": "Stéphane has recently joined the Anti-Crime Squad in Montfermeil, in the suburbs of Paris, France, where Victor Hugo set his famed novel “Les Miserables”. Alongside his new colleagues Chris and Gwada – both experienced members of the team – he quickly discovers tensions running high between local gangs. When the trio finds themselves overrun during the course of an arrest, a drone captures the encounter, threatening to expose the reality of everyday life.",
+  "popularity": 5.4916,
+  "poster_path": "/2ZQV9rPFXF0iFfKbsAvVIweQ1yM.jpg",
+  "production_companies": [
+    {
+      "id": 101932,
+      "logo_path": "/4rIkZawmATzcjB5vOLzUap7XdB1.png",
+      "name": "Srab Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2700,
+      "logo_path": "/h3bdysr6aNtFqK7DXQu1Rh43rwk.png",
+      "name": "Rectangle Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 128621,
+      "logo_path": null,
+      "name": "Lyly Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2019-11-14",
+  "revenue": 54606372,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Bambara",
+      "iso_639_1": "bm",
+      "name": "Bamanankan"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Les Misérables",
+  "video": false,
+  "vote_average": 7.567,
+  "vote_count": 1579
+}

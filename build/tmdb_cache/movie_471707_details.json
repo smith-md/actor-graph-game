@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/sVWUcBHwq2LQtDeqwXzI1uMpA3h.jpg",
+  "belongs_to_collection": null,
+  "budget": 1300000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.bodegafilms.com/film/corpus-christi/",
+  "id": 471707,
+  "imdb_id": "tt8649186",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Boże Ciało",
+  "overview": "A pious 20-year-old juvenile delinquent is sent to work at a sawmill in a small town; on arrival, he dresses up as a priest and accidentally takes over the local parish. The arrival of this young, charismatic preacher is an opportunity for the local community to begin the healing process after a tragedy that happened a year prior.",
+  "popularity": 4.5249,
+  "poster_path": "/aUM9CZLwvbgTMiYducW3rBoqDyd.jpg",
+  "production_companies": [
+    {
+      "id": 54732,
+      "logo_path": "/9Wq8UhFmqgwTaps9RIFSaxZJZie.png",
+      "name": "Aurum Film",
+      "origin_country": "PL"
+    },
+    {
+      "id": 250,
+      "logo_path": "/evWKasiElVQywuKv2dI72P9twz8.png",
+      "name": "CANAL+ Polska",
+      "origin_country": "PL"
+    },
+    {
+      "id": 121046,
+      "logo_path": "/8O4YdaafPc9iushuMSsolPPfyls.png",
+      "name": "WFS - Walter Film Studio",
+      "origin_country": "PL"
+    },
+    {
+      "id": 121045,
+      "logo_path": "/hPpfekiqg9VyIA69BvIcbcoXhaf.png",
+      "name": "Les Contes Modernes",
+      "origin_country": "FR"
+    },
+    {
+      "id": 121048,
+      "logo_path": null,
+      "name": "Wojewódzki Dom Kultury w Rzeszowie",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2019-09-10",
+  "revenue": 9943901,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sinner. Preacher. A Mystery.",
+  "title": "Corpus Christi",
+  "video": false,
+  "vote_average": 7.633,
+  "vote_count": 582
+}

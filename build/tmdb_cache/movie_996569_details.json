@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/6eh7pKQvz8G2oJCLbaJajeV8k8Q.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 996569,
+  "imdb_id": "tt15474896",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Brother",
+  "overview": "Sons of Caribbean immigrants, Francis and Michael face questions of masculinity, identity and family amid the pulsing beat of Toronto's early hip-hop scene. A mystery unfolds when escalating tensions set off a series of events which changes the course of the brothers’ lives forever.",
+  "popularity": 3.4883,
+  "poster_path": "/yqd1CmwaXQkLXVLsO2cqiExplb1.jpg",
+  "production_companies": [
+    {
+      "id": 13240,
+      "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+      "name": "Bron Studios",
+      "origin_country": "CA"
+    },
+    {
+      "id": 8981,
+      "logo_path": "/py53F2DJM6q9TT2K1Hf0wPxnTf1.png",
+      "name": "Conquering Lion Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 51615,
+      "logo_path": "/7kRlmKnoTAS80v2xk3znsHKApVH.png",
+      "name": "Hawkeye Pictures",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2023-03-17",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Brother",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 21
+}

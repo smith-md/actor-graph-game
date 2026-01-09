@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/bLqwSi2rAcm05XjsbWieOh3zKOh.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 22189,
+  "imdb_id": "tt0099747",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Havana",
+  "overview": "During the revolution, a high-stakes gambler arrives in Cuba seeking to win big in poker games. Along the way, he meets and falls in love with the wife of a Communist revolutionary.",
+  "popularity": 3.548,
+  "poster_path": "/7R7p63t7aQ7I6OHPgJDwD68PRLj.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 932,
+      "logo_path": "/o7leiZVIDBHxODfK8pjGPV2SdMp.png",
+      "name": "Mirage Enterprises",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-12-11",
+  "revenue": 9243140,
+  "runtime": 144,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A gambler who trusted no one. A woman who risked everything. And a passion that brought them together in the most dangerous city in the world.",
+  "title": "Havana",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 158
+}

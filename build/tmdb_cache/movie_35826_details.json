@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/jaThbMk4mSRkXtTN4JSfKjO3qYa.jpg",
+  "belongs_to_collection": null,
+  "budget": 2500000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 35826,
+  "imdb_id": "tt0098649",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wicked Stepmother",
+  "overview": "A pair of witches descend upon a family and wreak havoc. Now it's up to the family's matriarch, a private detective, and a suspended police officer to stop them.",
+  "popularity": 5.01,
+  "poster_path": "/24aew7HeCInPvmn7QT9ThbfmMa1.jpg",
+  "production_companies": [
+    {
+      "id": 17069,
+      "logo_path": null,
+      "name": "Larco Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-02-03",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Which Witch is which?",
+  "title": "Wicked Stepmother",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 41
+}

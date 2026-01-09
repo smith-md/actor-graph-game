@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/1Xxr8zwRZDNeUD65O9m663P6A5K.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1389255,
+  "imdb_id": "tt32147653",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Stranger in My Home",
+  "overview": "A handsome stranger's claim that a couple's 15-year-old daughter was switched at birth throws their perfect family into turmoil, unearthing shattering secrets.",
+  "popularity": 14.0569,
+  "poster_path": "/8rxFUdvtFwAxbyZfSBKPB2Vaal9.jpg",
+  "production_companies": [
+    {
+      "id": 2090,
+      "logo_path": "/jYlUttNqcN5u1pzMQrh5AEhZ27t.png",
+      "name": "Motion Picture Corporation of America",
+      "origin_country": "US"
+    },
+    {
+      "id": 64216,
+      "logo_path": "/Eg9VjIFt743LPYaK8Ag0fuhWGo.png",
+      "name": "Brad Krevoy Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-06-23",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Stranger in My Home",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 22
+}

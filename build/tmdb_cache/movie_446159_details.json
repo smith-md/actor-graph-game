@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/nhsC7Q1Zb5n2p4H3UKy422zP5XC.jpg",
+  "belongs_to_collection": null,
+  "budget": 1430000,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 446159,
+  "imdb_id": "tt2762506",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Bacurau",
+  "overview": "Bacurau, a small town in the Brazilian sertão, mourns the loss of its matriarch, Carmelita, who lived to be 94. Days later, its inhabitants notice that their community has vanished from most maps.",
+  "popularity": 6.2273,
+  "poster_path": "/tBa4zMGzZUco26XT3WfZZCwQ76i.jpg",
+  "production_companies": [
+    {
+      "id": 53727,
+      "logo_path": "/k6gzxHaMawWXUNR14wKWYM3eXD.png",
+      "name": "Símio Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 13969,
+      "logo_path": "/bEpiJ2zXGIH70JT16asjWNFtOEv.png",
+      "name": "Globo Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 8997,
+      "logo_path": "/79j5EijIG8NrRg5ibLtdooXTsiu.png",
+      "name": "SBS Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 13573,
+      "logo_path": "/4dqepK1XdLklrsYdnFpCEkOPXLX.png",
+      "name": "Canal Brasil",
+      "origin_country": "BR"
+    },
+    {
+      "id": 7764,
+      "logo_path": "/6YQPMXHq7juxomK9Sy3zBqbalsD.png",
+      "name": "Telecine",
+      "origin_country": "BR"
+    },
+    {
+      "id": 9171,
+      "logo_path": "/5EGVvPhTETMM9oJYY6TqkZ49MZV.png",
+      "name": "CinemaScópio",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2019-08-29",
+  "revenue": 3554178,
+  "runtime": 131,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If you come, come in peace",
+  "title": "Bacurau",
+  "video": false,
+  "vote_average": 7.668,
+  "vote_count": 1104
+}

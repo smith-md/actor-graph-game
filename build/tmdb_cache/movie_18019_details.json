@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/7gCIJ4D2T9vmgN7dVdhdmZVwSPk.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 18019,
+  "imdb_id": "tt0045943",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Julius Caesar",
+  "overview": "The growing ambition of Julius Caesar is a source of major concern to his close friend Brutus. Cassius persuades him to participate in his plot to assassinate Caesar but both have sorely underestimated Mark Antony.",
+  "popularity": 3.0793,
+  "poster_path": "/2nzpmJ9MIdd5TKXJd53KgKdZ6eT.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1953-06-04",
+  "revenue": 3920000,
+  "runtime": 121,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "MGM's acclaimed production of William Shakespeare's Julius Caesar.",
+  "title": "Julius Caesar",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 229
+}

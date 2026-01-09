@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/vCSUw7bsk85V7euRWx0gzy3aY9U.jpg",
+  "belongs_to_collection": {
+    "id": 468692,
+    "name": "Mobile Suit Gundam Thunderbolt Collection",
+    "poster_path": "/kH88RZTvn8idM08JkqwtRm01FSz.jpg",
+    "backdrop_path": "/5dDUMjE6oGCTQ8t7gque4YxfWte.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 468690,
+  "imdb_id": "tt7933596",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "機動戦士ガンダム サンダーボルト Bandit Flower",
+  "overview": "The second movie of the long-awaited fan favorite Thunderbolt Series. Earth, eight months after the end of the One Year War. Captain Monica launches a secret mission, \"Operation Thunderbolt,\" and selects Io to pilot the Atlas Gundam. She leads the assault landing ship Spartan into a part of the ocean effectively controlled by the South Seas Alliance. Their objective is to secure or destroy the data of the Psycho Zaku, which the Alliance now possesses. Daryl, who took the upper hand in his battle with Io, has descended to Earth as part of the remnant forces of the Principality of Zeon. He has also been given the mission of obtaining information on the Psycho Zaku. Fighting alongside his new comrades, Io encounters Commander Peer, the South Seas Alliance's border garrison commander. In the sea, on the ice field, and among the thick jungle, the mobile suits of Zeon, the Federation, and the South Seas Alliance battle each other. \"The war is not over yet.\"",
+  "popularity": 2.7866,
+  "poster_path": "/lYqwIyGFBltNrUzM5QYyH4vbNxE.jpg",
+  "production_companies": [
+    {
+      "id": 3153,
+      "logo_path": "/yKZ9UarLSu9Y4Gpw33nKRQOPM7z.png",
+      "name": "SUNRISE",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2017-11-18",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The war is not over yet.",
+  "title": "Mobile Suit Gundam Thunderbolt: Bandit Flower",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 20
+}

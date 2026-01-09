@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/dI8go0HZnLgqxQi2rq9o5FmL2FY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 85363,
+  "imdb_id": "tt0079091",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Dérobade",
+  "overview": "Marie is nineteen and bored in her little suburban life with no future. In a café, she meets the charismatic and beautiful Gerard. Blinded by adoration, Mary decides to leave her parents and her clerk job to live with the man she considers as the love of her life. But Gerard is a pimp, who soon forces her into prostitution. From within homes to out on the streets, the young woman gradually discovers a world of decay and violence.",
+  "popularity": 5.156,
+  "poster_path": "/VP87ViCiYg0KAAfAreir3FsCyv.jpg",
+  "production_companies": [
+    {
+      "id": 1137,
+      "logo_path": null,
+      "name": "S.N. Prodis",
+      "origin_country": ""
+    },
+    {
+      "id": 6022,
+      "logo_path": null,
+      "name": "ATC 3000",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1979-10-17",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Memoirs of a French Whore",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 29
+}

@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/bXORDijbHKFCfBbIM0oCPNvHkBZ.jpg",
+  "belongs_to_collection": {
+    "id": 470522,
+    "name": "Storm Series",
+    "poster_path": "/i22Lz1LBkm8jBcvTaXe0u3MKjq3.jpg",
+    "backdrop_path": "/8E7mQnKAJ6Y8RY5PUYBmIZT5E8o.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 367195,
+  "imdb_id": "tt5998744",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "S風暴",
+  "overview": "A suspect is killed while the ICAC team is investigating illegal soccer gambling in Hong Kong.",
+  "popularity": 3.9978,
+  "poster_path": "/o1zH6SqhCpR1SdF2FzVYnB8k5pP.jpg",
+  "production_companies": [
+    {
+      "id": 6950,
+      "logo_path": "/vjcRLOtFSVqwW3p0NuBLcsgxwfk.png",
+      "name": "Pegasus Motion Pictures",
+      "origin_country": "HK"
+    },
+    {
+      "id": 170775,
+      "logo_path": null,
+      "name": "My Pictures Studio",
+      "origin_country": "CN"
+    },
+    {
+      "id": 170776,
+      "logo_path": null,
+      "name": "Shanghai Jiaxi Cultural Communications Limited",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2016-09-14",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "S Storm",
+  "video": false,
+  "vote_average": 5.603,
+  "vote_count": 29
+}

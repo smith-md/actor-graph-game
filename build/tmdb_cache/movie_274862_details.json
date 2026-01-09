@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": "/6BQis8u6Q8U5J4EHqdyRRIE0njI.jpg",
+  "belongs_to_collection": null,
+  "budget": 70000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/movies/lego-ninjago-movie/",
+  "id": 274862,
+  "imdb_id": "tt3014284",
+  "origin_country": [
+    "US",
+    "DK"
+  ],
+  "original_language": "en",
+  "original_title": "The Lego Ninjago Movie",
+  "overview": "Six young ninjas are tasked with defending their island home of Ninjago. By night, they’re gifted warriors using their skill and awesome fleet of vehicles to fight villains and monsters. By day, they’re ordinary teens struggling against their greatest enemy....high school.",
+  "popularity": 6.4622,
+  "poster_path": "/vUo0pNXGhp2ffTJxiStWt6fHL7F.jpg",
+  "production_companies": [
+    {
+      "id": 2723,
+      "logo_path": "/rB0dyszYRRR3SAG1tfNRzXoYDYq.png",
+      "name": "Lin Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 77973,
+      "logo_path": "/eUZ0kfE4uyO0JYIrjgUSOqWPqjK.png",
+      "name": "Lord Miller",
+      "origin_country": "US"
+    },
+    {
+      "id": 829,
+      "logo_path": "/iJo9zP5QCKyBsmKSOcvXd6UDNih.png",
+      "name": "Vertigo Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 25120,
+      "logo_path": "/lqUpBvDLQYG3QaKNpe2lxfpgh36.png",
+      "name": "Warner Animation Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 4081,
+      "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+      "name": "The LEGO Group",
+      "origin_country": "DK"
+    },
+    {
+      "id": 8089,
+      "logo_path": "/kEUAzsG2hZcCV7rmSCozgLhGWaa.png",
+      "name": "Animal Logic",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-09-21",
+  "revenue": 123081555,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Find the ninja within ya.",
+  "title": "The Lego Ninjago Movie",
+  "video": false,
+  "vote_average": 6.518,
+  "vote_count": 1136
+}

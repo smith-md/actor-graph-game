@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/mRZDHjArYNWpOv06kxRK1cduQKh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 754934,
+  "imdb_id": "tt5624466",
+  "origin_country": [
+    "US",
+    "GB",
+    "IE"
+  ],
+  "original_language": "en",
+  "original_title": "Son",
+  "overview": "When a young boy contracts a mysterious illness, his mother must decide how far she will go to protect him from terrifying forces in her past.",
+  "popularity": 3.7195,
+  "poster_path": "/4fl6EdtMp6p0RKJgESdFti1J3dC.jpg",
+  "production_companies": [
+    {
+      "id": 2341,
+      "logo_path": "/hloldgnUFca0Mp1tV9YFDiZlnKL.png",
+      "name": "Belladonna Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 184146,
+      "logo_path": null,
+      "name": "Elastic Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 184147,
+      "logo_path": null,
+      "name": "Park Films",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-03-18",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You can't outrun a family secret.",
+  "title": "Son",
+  "video": false,
+  "vote_average": 6.016,
+  "vote_count": 284
+}

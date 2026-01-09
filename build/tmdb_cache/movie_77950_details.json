@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/dxmp5eHarPlNyeRyuzD6oMWqTjs.jpg",
+  "belongs_to_collection": null,
+  "budget": 135000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.turbomovie.com/",
+  "id": 77950,
+  "imdb_id": "tt1860353",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Turbo",
+  "overview": "The tale of an ordinary garden snail who dreams of winning the Indy 500.",
+  "popularity": 4.9562,
+  "poster_path": "/w6GdF5hcnsU5IwaRhyhnysNy5hO.jpg",
+  "production_companies": [
+    {
+      "id": 521,
+      "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+      "name": "DreamWorks Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-07-11",
+  "revenue": 282570682,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's fast. They're furious.",
+  "title": "Turbo",
+  "video": false,
+  "vote_average": 6.265,
+  "vote_count": 3598
+}

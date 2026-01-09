@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/pKIRUTnwY3YYU9urSdsuobdcliP.jpg",
+  "belongs_to_collection": {
+    "id": 485645,
+    "name": "YRF Spy Universe",
+    "poster_path": "/CaYD81p98LN99i1IBct0QdEcfW.jpg",
+    "backdrop_path": "/7jJQrAw3lBV0l65g2Zlr9Y36zyG.jpg"
+  },
+  "budget": 47000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.yashrajfilms.com/movies/war-2",
+  "id": 1109086,
+  "imdb_id": "tt27425164",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "वॉर 2",
+  "overview": "Years ago Agent Kabir went rogue, became India’s greatest villain ever.  As he descends further into the deepest shadows... India sends its deadliest, most lethal agent after him, Agent Vikram  A Special Units Officer who is more than Kabir’s equal and a relentless Terminator driven by his own demons, determined to put a bullet into Kabir’s skull.",
+  "popularity": 8.0228,
+  "poster_path": "/2Yc8Kl2ldPpDzLrG2M5Ddv62FXB.jpg",
+  "production_companies": [
+    {
+      "id": 1569,
+      "logo_path": "/lvzN86o3jrP44DIvn4SMBLOl9PF.png",
+      "name": "Yash Raj Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2025-08-13",
+  "revenue": 3096145,
+  "runtime": 173,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "War 2",
+  "video": false,
+  "vote_average": 5.592,
+  "vote_count": 49
+}

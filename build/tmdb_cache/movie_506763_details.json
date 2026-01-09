@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/rzGHVq2BCMwjp93QaKYoLPSaSrp.jpg",
+  "belongs_to_collection": {
+    "id": 222639,
+    "name": "Detective Dee Collection (Tsui Hark)",
+    "poster_path": "/v2WxMtq7BZx9ANPSl1noN124Eky.jpg",
+    "backdrop_path": "/r1Yt6uOaFEEBbPfX2Qs4w97e55S.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 506763,
+  "imdb_id": "tt6869538",
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "original_language": "zh",
+  "original_title": "狄仁杰之四大天王",
+  "overview": "Dee, the detective serving Chinese empress Wu Zetian, is called upon to investigate a series of strange events in Loyang, including the appearance of mysterious warriors wearing Chiyou ghost masks, foxes that speak human language and the pillar sculptures in the palace coming alive.",
+  "popularity": 5.8508,
+  "poster_path": "/nZ3XTA5ZlGOj92jRBSYglW8r9QY.jpg",
+  "production_companies": [
+    {
+      "id": 3393,
+      "logo_path": "/rv37YfhPg03ugK252E4oXMzgvks.png",
+      "name": "Huayi Brothers Pictures",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2018-07-27",
+  "revenue": 84168923,
+  "runtime": 132,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Detective Dee: The Four Heavenly Kings",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 207
+}

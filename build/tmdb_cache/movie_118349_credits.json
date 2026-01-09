@@ -1,0 +1,151 @@
+{
+  "id": 118349,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 573544,
+      "known_for_department": "Art",
+      "name": "Paul Julian",
+      "original_name": "Paul Julian",
+      "popularity": 0.597,
+      "profile_path": "/twa68PDAF7DcBYM8Vo6QRzC4Cg8.jpg",
+      "cast_id": 11,
+      "character": "Road Runner (voice)",
+      "credit_id": "52fe4bd6c3a36847f8215e51",
+      "order": 0
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 149379,
+      "known_for_department": "Editing",
+      "name": "Treg Brown",
+      "original_name": "Treg Brown",
+      "popularity": 0.6579,
+      "profile_path": null,
+      "credit_id": "52fe4bd6c3a36847f8215e29",
+      "department": "Sound",
+      "job": "Sound Effects Editor"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 155076,
+      "known_for_department": "Visual Effects",
+      "name": "Ken Harris",
+      "original_name": "Ken Harris",
+      "popularity": 0.2335,
+      "profile_path": null,
+      "credit_id": "52fe4bd6c3a36847f8215e35",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 551674,
+      "known_for_department": "Sound",
+      "name": "Carl W. Stalling",
+      "original_name": "Carl W. Stalling",
+      "popularity": 1.7641,
+      "profile_path": "/pvo2CuSZen19HwzODF9v42OhQmR.jpg",
+      "credit_id": "52fe4bd6c3a36847f8215e23",
+      "department": "Sound",
+      "job": "Original Music Composer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 100888,
+      "known_for_department": "Directing",
+      "name": "Chuck Jones",
+      "original_name": "Chuck Jones",
+      "popularity": 0.8504,
+      "profile_path": "/6LaYJXpfX6hry3mT8QTEGCPIUdi.jpg",
+      "credit_id": "52fe4bd6c3a36847f8215e17",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 362742,
+      "known_for_department": "Writing",
+      "name": "Michael Maltese",
+      "original_name": "Michael Maltese",
+      "popularity": 0.4843,
+      "profile_path": "/kh0VmXGxAAUPybZHMFsir5beXiH.jpg",
+      "credit_id": "52fe4bd6c3a36847f8215e1d",
+      "department": "Writing",
+      "job": "Story"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 100890,
+      "known_for_department": "Visual Effects",
+      "name": "Abe Levitow",
+      "original_name": "Abe Levitow",
+      "popularity": 1.1768,
+      "profile_path": "/k73isOkYIdwGwD7Qr3aYa5Alkdw.jpg",
+      "credit_id": "52fe4bd6c3a36847f8215e3b",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 163663,
+      "known_for_department": "Visual Effects",
+      "name": "Richard Thompson",
+      "original_name": "Richard Thompson",
+      "popularity": 0.6822,
+      "profile_path": null,
+      "credit_id": "52fe4bd6c3a36847f8215e47",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 222653,
+      "known_for_department": "Art",
+      "name": "Richard H. Thomas",
+      "original_name": "Richard H. Thomas",
+      "popularity": 1.6211,
+      "profile_path": null,
+      "credit_id": "52fe4bd6c3a36847f8215e41",
+      "department": "Art",
+      "job": "Background Designer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 113285,
+      "known_for_department": "Visual Effects",
+      "name": "Ben Washam",
+      "original_name": "Ben Washam",
+      "popularity": 1.1833,
+      "profile_path": "/7qyzNgVAcuzgtOjqYffkGp7YzpO.jpg",
+      "credit_id": "52fe4bd6c3a36847f8215e4d",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 573541,
+      "known_for_department": "Art",
+      "name": "Philip DeGuard",
+      "original_name": "Philip DeGuard",
+      "popularity": 0.1325,
+      "profile_path": null,
+      "credit_id": "6462b98ba67254012212f217",
+      "department": "Visual Effects",
+      "job": "Layout Supervisor"
+    }
+  ]
+}

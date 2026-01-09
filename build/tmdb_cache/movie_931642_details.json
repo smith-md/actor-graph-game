@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/cIHFTyIf0LjRzjSnwtCAGzwTOKK.jpg",
+  "belongs_to_collection": null,
+  "budget": 7000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 931642,
+  "imdb_id": "tt16368898",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lights Out",
+  "overview": "A drifting ex-soldier turns underground fighter with the help of a just-released ex-con, pitting him against corrupt cops and hired killers now gunning for him and all those he cares about.",
+  "popularity": 3.907,
+  "poster_path": "/gCOSDDyN0qA8rGoVwsZc72v3RuZ.jpg",
+  "production_companies": [
+    {
+      "id": 143280,
+      "logo_path": null,
+      "name": "Firebrand",
+      "origin_country": "US"
+    },
+    {
+      "id": 25140,
+      "logo_path": "/6SeV4YCwyIDktJlvrVwiEDSLovF.png",
+      "name": "The Exchange",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-02-16",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They started the wrong fight.",
+  "title": "Lights Out",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 138
+}

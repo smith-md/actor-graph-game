@@ -1,0 +1,156 @@
+{
+  "adult": false,
+  "backdrop_path": "/AePlQ3osZShJmbNj8tzQ3NoMTQF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1013446,
+  "imdb_id": "tt32263401",
+  "origin_country": [
+    "BE",
+    "FR",
+    "IT",
+    "LU"
+  ],
+  "original_language": "fr",
+  "original_title": "Reflet dans un diamant mort",
+  "overview": "When the mysterious woman in the room next door disappears, a debonair 70-year-old ex-spy living in a luxury hotel on the Côte d'Azur is confronted by the demons and darlings of a lurid past in which moviemaking, memories and madness collide.",
+  "popularity": 60.6932,
+  "poster_path": "/5CdRxBu7jRDHjthkAL8vE0GdKUD.jpg",
+  "production_companies": [
+    {
+      "id": 141829,
+      "logo_path": "/bB8NbAbJGnIQGGRxcO0pFPZicPX.png",
+      "name": "Kozak Films",
+      "origin_country": "BE"
+    },
+    {
+      "id": 72130,
+      "logo_path": "/2aZx0CKefgtSJEwU5TBLX7oXwyR.png",
+      "name": "Les Films Fauves",
+      "origin_country": "LU"
+    },
+    {
+      "id": 252846,
+      "logo_path": "/n18Idu6TusowfB1ihJ00vL0bar1.png",
+      "name": "Dandy Projects",
+      "origin_country": "IT"
+    },
+    {
+      "id": 24439,
+      "logo_path": "/1E8Va7pgnmenV70m4U4MqHRLQiL.png",
+      "name": "Tobina Film",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7115,
+      "logo_path": "/o2EG4i2JfK1o3EaXuaBKXo1PDlz.png",
+      "name": "Savage Film",
+      "origin_country": "BE"
+    },
+    {
+      "id": 51400,
+      "logo_path": "/iQ8u1H9KzFf3i2phgx5q8Yo7F8R.png",
+      "name": "To Be Continued",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11997,
+      "logo_path": "/jh15xr7Y10ZrgY1BwE3LGwcseu7.png",
+      "name": "BNP Paribas Fortis",
+      "origin_country": "BE"
+    },
+    {
+      "id": 792,
+      "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF",
+      "origin_country": "BE"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 119267,
+      "logo_path": "/b9Gw1Oz0d7rdxmpbJPQC0zQpmxw.png",
+      "name": "VOO & Be tv",
+      "origin_country": "BE"
+    },
+    {
+      "id": 92187,
+      "logo_path": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+      "name": "Proximus",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    }
+  ],
+  "release_date": "2025-06-25",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Reflection in a Dead Diamond",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 56
+}

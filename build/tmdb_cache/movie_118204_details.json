@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/zuG12LAd7Dv1YqGL5tSzyQCDCQv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 118204,
+  "imdb_id": "tt1865357",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "El estudiante",
+  "overview": "Roque starts University in Buenos Aires but he is not particularly interested in attending classes or working towards a degree. Instead, he dedicates his time to one of the many groups vying for control of the university, motivated less by grand political ideals than by a wish to get close to Paula, an attractive young teacher heavily involved in internal university politics.",
+  "popularity": 4.6422,
+  "poster_path": "/93BK54rXeMhrVbmwemAze6HPWFu.jpg",
+  "production_companies": [
+    {
+      "id": 75415,
+      "logo_path": "/jnTkKFlcvMEDNBqE8nwWjP5QzwN.png",
+      "name": "PASTO",
+      "origin_country": "AR"
+    },
+    {
+      "id": 16948,
+      "logo_path": "/oZKnEm3BUXsiV8znce6fX26ad3R.png",
+      "name": "La Unión de los Ríos",
+      "origin_country": "AR"
+    },
+    {
+      "id": 107826,
+      "logo_path": "/a0ujPI9vDmg41Oxvmmodv0UcDLP.png",
+      "name": "Wanka Cine",
+      "origin_country": "AR"
+    },
+    {
+      "id": 20124,
+      "logo_path": "/uyKNacxTuJItGNZoqMzPtKtZBLn.png",
+      "name": "El Pampero Cine",
+      "origin_country": "AR"
+    },
+    {
+      "id": 247748,
+      "logo_path": null,
+      "name": "Tierra Colorada",
+      "origin_country": ""
+    },
+    {
+      "id": 11999,
+      "logo_path": "/50K9W66YeWjOalNcjWddPcSgIYO.png",
+      "name": "Universidad del Cine",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2011-09-01",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Student",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 24
+}

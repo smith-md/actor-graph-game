@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/2kteMSh4f8bRdm6XsTTC4smGMur.jpg",
+  "belongs_to_collection": {
+    "id": 706482,
+    "name": "Nico Giraldi Collection",
+    "poster_path": "/pHXUt75CTzRERoLZ7VsZCWhhLfA.jpg",
+    "backdrop_path": "/1emzwUswSnTUkkvKurupUJbiM50.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 52914,
+  "imdb_id": "tt0076753",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Squadra antifurto",
+  "overview": "A gang of thieves are robbing luxury apartments in Rome, but after emptying the villa of the wealthy Mr. Douglas, the thieves are beginning to die.",
+  "popularity": 3.3053,
+  "poster_path": "/5DGkka03AhlUU2iWTUMn9Y0Esys.jpg",
+  "production_companies": [
+    {
+      "id": 10519,
+      "logo_path": null,
+      "name": "Cinemaster",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1976-10-29",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hit Squad",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 40
+}

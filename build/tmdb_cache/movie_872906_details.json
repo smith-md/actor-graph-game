@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/5LtSjMNw6j3LkG29Oa4O0iY5U8.jpg",
+  "belongs_to_collection": null,
+  "budget": 36150000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 872906,
+  "imdb_id": "tt15354916",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "जवान",
+  "overview": "An emotional journey of a prison warden, driven by a personal vendetta while keeping up to a promise made years ago, recruits inmates to commit outrageous crimes that shed light on corruption and injustice, in an attempt to get even with his past,  and that leads him to an unexpected reunion.",
+  "popularity": 5.3784,
+  "poster_path": "/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg",
+  "production_companies": [
+    {
+      "id": 2343,
+      "logo_path": "/fkrlAFxgAtIHgYJGIQcDggeucKV.png",
+      "name": "Red Chillies Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2023-09-07",
+  "revenue": 136698671,
+  "runtime": 169,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Jawan",
+  "video": false,
+  "vote_average": 7.102,
+  "vote_count": 305
+}

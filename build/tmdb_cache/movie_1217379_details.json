@@ -1,0 +1,49 @@
+{
+  "adult": false,
+  "backdrop_path": "/mhKQ5ntqlXyck0TWh1pCpn42aAx.jpg",
+  "belongs_to_collection": null,
+  "budget": 1100000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://hellhoundthemovie.com/",
+  "id": 1217379,
+  "imdb_id": "tt22489042",
+  "origin_country": [
+    "TH"
+  ],
+  "original_language": "en",
+  "original_title": "Hellhound",
+  "overview": "Ready to leave his profession behind, Loreno, an assassin, lends help to an old friend, Cetan, and taking one last job in Thailand seeking out a local kingpin. A lapse in judgment means Loreno crosses paths with old colleague Paul.",
+  "popularity": 4.8627,
+  "poster_path": "/f9hkaCIha8hIhRo0XXShhcosrPH.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2024-06-20",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fight like a god. Die like a man.",
+  "title": "Hellhound",
+  "video": false,
+  "vote_average": 6.609,
+  "vote_count": 55
+}

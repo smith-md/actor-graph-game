@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/dYb6kgvoGjUH59n2uB4eV9xqmKR.jpg",
+  "belongs_to_collection": {
+    "id": 280504,
+    "name": "Mechanic Collection",
+    "poster_path": "/vjD3kIvyxOx8yW3SM0kqmZja0py.jpg",
+    "backdrop_path": "/vexuvLnuX6MD2A9A8CZ5dxczmgp.jpg"
+  },
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.themechanicmovie.com/",
+  "id": 27582,
+  "imdb_id": "tt0472399",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Mechanic",
+  "overview": "Arthur Bishop is a 'mechanic' - an elite assassin with a strict code requiring professional perfection and total detachment. One of an elite group of assassins, Bishop may be the best in the business - with a unique talent for cleanly eliminating targets. When Harry McKenna, his close friend and mentor, is murdered, Harry's son comes to him with vengeance in his heart and a desire to learn Bishop's trade, signaling the birth of a deadly partnership.",
+  "popularity": 9.4074,
+  "poster_path": "/i8IcT4oBKL793qyo91P1RnhroiQ.jpg",
+  "production_companies": [
+    {
+      "id": 5490,
+      "logo_path": "/xuJSR4dWsvkE194aemIJwflyNF2.png",
+      "name": "CBS Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 12252,
+      "logo_path": null,
+      "name": "Chartoff-Winkler Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 263345,
+      "logo_path": null,
+      "name": "Nu Image Entertainment",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2011-01-13",
+  "revenue": 51070807,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Someone has to fix the problems.",
+  "title": "The Mechanic",
+  "video": false,
+  "vote_average": 6.529,
+  "vote_count": 3475
+}

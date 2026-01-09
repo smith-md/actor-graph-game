@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/x3wFxF9rEpoxmsp8a80oWv5te6X.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 14864,
+  "imdb_id": "tt0099797",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Hot Spot",
+  "overview": "Upon arriving to a small town, a drifter quickly gets into trouble with the local authorities — and the local women — after he robs a bank.",
+  "popularity": 2.4836,
+  "poster_path": "/iQCP69183K1QZo8bb23nkcLap3W.jpg",
+  "production_companies": [
+    {
+      "id": 41,
+      "logo_path": "/em0rOXVRu3qprWZCx58uDDV2fze.png",
+      "name": "Orion Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 16775,
+      "logo_path": null,
+      "name": "Arnold Kopelson Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 824,
+      "logo_path": null,
+      "name": "Kopelson Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-10-12",
+  "revenue": 1293976,
+  "runtime": 130,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Safe is never sex. It’s dangerous.",
+  "title": "The Hot Spot",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 292
+}

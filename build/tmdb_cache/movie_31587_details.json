@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/8de5iKR6zSRV4anMIcTmhJE0Mx.jpg",
+  "belongs_to_collection": null,
+  "budget": 875000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 31587,
+  "imdb_id": "tt0070643",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Scarecrow",
+  "overview": "Two drifters bum around, visit earthy women and discuss opening a car wash in Pittsburgh.",
+  "popularity": 27.3378,
+  "poster_path": "/jK0e8jLl0pp59yX6AYMyyJPnMVJ.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1973-04-11",
+  "revenue": 4000000,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The road leads itself to somewhere.",
+  "title": "Scarecrow",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 329
+}

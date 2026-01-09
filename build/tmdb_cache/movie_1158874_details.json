@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/xoguYBNxXhyiQasTZyIxaYMjcUq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.documentary.org/project/sugarcane",
+  "id": 1158874,
+  "imdb_id": "tt30319854",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sugarcane",
+  "overview": "An investigation into abuse and missing children at an Indian residential school in Canada ignites a reckoning on the nearby Sugarcane Reserve.",
+  "popularity": 2.3193,
+  "poster_path": "/9Xx4o4MVSDv0pojOzoHMH5y85hB.jpg",
+  "production_companies": [
+    {
+      "id": 14909,
+      "logo_path": "/8fLjVGiX8adkseQMCIBYt3UYFiO.png",
+      "name": "Impact Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 169960,
+      "logo_path": "/mPfWxHoW3WB6RuUAZ0388HUUw3j.png",
+      "name": "Fit Via Vi",
+      "origin_country": "US"
+    },
+    {
+      "id": 181566,
+      "logo_path": null,
+      "name": "Kassie Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 113751,
+      "logo_path": "/dKeecFUuoYdlTRjbF4sOmnmUkoc.png",
+      "name": "Hedgehog Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 110594,
+      "logo_path": "/n6IN6QhMcLyr8zwPRz43lF1Y2Ew.png",
+      "name": "Doc Society",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-09",
+  "revenue": 60091,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sugarcane",
+  "video": false,
+  "vote_average": 6.923,
+  "vote_count": 52
+}

@@ -1,0 +1,104 @@
+{
+  "id": 1241752,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 3371804,
+      "known_for_department": "Acting",
+      "name": "Christine Bermas",
+      "original_name": "Christine Bermas",
+      "popularity": 12.8604,
+      "profile_path": "/zdFbplqeZbzgCJEJfnj1pPqVVH2.jpg",
+      "cast_id": 1,
+      "character": "Rita",
+      "credit_id": "65c578b453466101628ad7f9",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1649625,
+      "known_for_department": "Acting",
+      "name": "Gold Aceron",
+      "original_name": "Gold Aceron",
+      "popularity": 1.368,
+      "profile_path": "/u1PRnWHIfI7A0KkDXJk5200CFBp.jpg",
+      "cast_id": 3,
+      "character": "Marlon",
+      "credit_id": "65cab00ba06efe018475e4fb",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2876771,
+      "known_for_department": "Acting",
+      "name": "VR Relosa",
+      "original_name": "VR Relosa",
+      "popularity": 1.4995,
+      "profile_path": "/mbsIqmnrrBsAUb0y4ZHfV7zTfMm.jpg",
+      "cast_id": 4,
+      "character": "Ariel",
+      "credit_id": "65cab01cf925320163befe06",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 592006,
+      "known_for_department": "Acting",
+      "name": "Josh Ivan Morales",
+      "original_name": "Josh Ivan Morales",
+      "popularity": 0.9767,
+      "profile_path": "/baQ9ew113fS7PrE1ZAjEemO1put.jpg",
+      "cast_id": 5,
+      "character": "Royce",
+      "credit_id": "65e18cb7daf57c01859dcfdd",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 3878171,
+      "known_for_department": "Acting",
+      "name": "Sahil Khan",
+      "original_name": "Sahil Khan",
+      "popularity": 0.8364,
+      "profile_path": "/AnLVLGKVfCbKQ9NyT5ofMP75hvC.jpg",
+      "cast_id": 7,
+      "character": "Arabo",
+      "credit_id": "65e18d00daf57c01859dd04e",
+      "order": 4
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 4361111,
+      "known_for_department": "Acting",
+      "name": "Amabella De Leon",
+      "original_name": "Amabella De Leon",
+      "popularity": 0.4485,
+      "profile_path": "/FMphrdXk79cKD7msxCAkfLKRkf.jpg",
+      "cast_id": 6,
+      "character": "Shirley",
+      "credit_id": "65e18cc36a300b01641e25dc",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 5328603,
+      "known_for_department": "Directing",
+      "name": "Haskey Sezan",
+      "original_name": "Haskey Sezan",
+      "popularity": 0.1267,
+      "profile_path": null,
+      "credit_id": "67e3a263d4052f4793dc9981",
+      "department": "Production",
+      "job": "Director of Operations"
+    }
+  ]
+}

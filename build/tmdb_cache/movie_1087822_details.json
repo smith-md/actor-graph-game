@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": "/78CquSA0GN0m7NIYnNECx91KFkJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://millennium-media.net/mf-films/hellboy-crooked-man",
+  "id": 1087822,
+  "imdb_id": "tt26757462",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hellboy: The Crooked Man",
+  "overview": "Hellboy and a rookie BPRD agent get stranded in 1950s rural Appalachia. There, they discover a small community haunted by witches, led by a local devil with a troubling connection to Hellboy's past: the Crooked Man.",
+  "popularity": 5.9681,
+  "poster_path": "/iz2GabtToVB05gLTVSH7ZvFtsMM.jpg",
+  "production_companies": [
+    {
+      "id": 552,
+      "logo_path": "/9dGdLfm3GteWeUDtD9c9tvlidUG.png",
+      "name": "Dark Horse Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 823,
+      "logo_path": "/275O5OoKjulWtY1uRHRXaYsrt9I.png",
+      "name": "Telepool",
+      "origin_country": "DE"
+    },
+    {
+      "id": 48738,
+      "logo_path": null,
+      "name": "Campbell Grobman Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 74795,
+      "logo_path": "/vcCcVEglw9nVcYeZf6xZzA4s1O3.png",
+      "name": "Nu Boyana Film Studios",
+      "origin_country": "BG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "BG",
+      "name": "Bulgaria"
+    }
+  ],
+  "release_date": "2024-08-29",
+  "revenue": 2014050,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Something crooked this way comes.",
+  "title": "Hellboy: The Crooked Man",
+  "video": false,
+  "vote_average": 5.192,
+  "vote_count": 500
+}

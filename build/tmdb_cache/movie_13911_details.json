@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/eQnCtWu1zErzfQg6mlfUTJYwIS2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 13911,
+  "imdb_id": "tt0022158",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Monkey Business",
+  "overview": "Four stowaways get mixed up with gangsters while running riot on an ocean liner.",
+  "popularity": 2.4406,
+  "poster_path": "/ArzqncdHxfoegpoglvlm9lC4czi.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1931-09-19",
+  "revenue": 0,
+  "runtime": 77,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Laughing days are here again!",
+  "title": "Monkey Business",
+  "video": false,
+  "vote_average": 6.95,
+  "vote_count": 209
+}

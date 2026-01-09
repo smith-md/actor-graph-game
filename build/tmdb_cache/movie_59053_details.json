@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/xGhwfRxTsP9VhDSNsfHqBcRvWKY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 59053,
+  "imdb_id": "tt0134057",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La Riffa",
+  "overview": "Struggling with a financial crisis, a good-looking widow decides to put herself up for grabs. However, going through with it becomes almost impossible with a new love and the legal system thrown into the mix.",
+  "popularity": 6.6139,
+  "poster_path": "/2Jc60w8ZemDMYqyJUStcQKy6syi.jpg",
+  "production_companies": [
+    {
+      "id": 65806,
+      "logo_path": null,
+      "name": "Produttori Associati",
+      "origin_country": "IT"
+    },
+    {
+      "id": 83197,
+      "logo_path": null,
+      "name": "Filmola, Union Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1991-11-15",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Francesca is alone with a daughter and without a dime. But she's beautiful",
+  "title": "The Raffle",
+  "video": false,
+  "vote_average": 6.674,
+  "vote_count": 187
+}

@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/8dFVEqultZOSfaIIiBOUbZfplzR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 26316,
+  "imdb_id": "tt0064699",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Mosquito Squadron",
+  "overview": "England, World War II. Quint Munroe, RAF officer and new leader of a Mosquito squadron, is tasked with destroying a secret Nazi base in France while trying to overcome the disappearance of a brother-in-arms.",
+  "popularity": 3.3926,
+  "poster_path": "/4yWIuaT6PvKAyI6WVsUrgqUYm84.jpg",
+  "production_companies": [
+    {
+      "id": 14830,
+      "logo_path": null,
+      "name": "Oakmont Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1969-08-22",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Bomb it, but don't blow it!",
+  "title": "Mosquito Squadron",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 29
+}

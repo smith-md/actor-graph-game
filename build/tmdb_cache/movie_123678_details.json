@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/1jLaJPdu7dMl0Nk3vLuafDx9PWS.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "http://theactofkilling.com/",
+  "id": 123678,
+  "imdb_id": "tt2375605",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "Jagal",
+  "overview": "In this chilling and groundbreaking documentary, former Indonesian death squad leaders reenact their real-life mass killings in the style of various film genres. As they recreate their past atrocities, the line between reality and performance blurs, exposing the lingering impact of Indonesia’s 1965-66 anti-communist purge and the unsettling psychology of its perpetrators.",
+  "popularity": 4.3552,
+  "poster_path": "/sp5B7Tz5ttsgOLnIlCP5uEhtesI.jpg",
+  "production_companies": [
+    {
+      "id": 29062,
+      "logo_path": "/hwlA6f2HhaOJP1ZcrYL8f8g8UbJ.png",
+      "name": "Final Cut for Real",
+      "origin_country": "DK"
+    },
+    {
+      "id": 29063,
+      "logo_path": "/52xiL9iqq2iPbn6yuFuzkJc4Cpy.png",
+      "name": "Piraya Film",
+      "origin_country": "NO"
+    },
+    {
+      "id": 29064,
+      "logo_path": null,
+      "name": "Novaya Zemlya",
+      "origin_country": ""
+    },
+    {
+      "id": 9120,
+      "logo_path": null,
+      "name": "Spring Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2012-11-01",
+  "revenue": 722714,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A story of killers who win and the society they build.",
+  "title": "The Act of Killing",
+  "video": false,
+  "vote_average": 7.664,
+  "vote_count": 736
+}

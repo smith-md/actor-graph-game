@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/6U6F2OnHTLs1Pxk8ZVDCRbd3a76.jpg",
+  "belongs_to_collection": null,
+  "budget": 7475000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.thepeasantsmovie.com/",
+  "id": 734002,
+  "imdb_id": "tt10651230",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Chłopi",
+  "overview": "Peasant girl Jagna is forced to marry the much older, wealthy farmer Boryna, despite her love for his son Antek. With time, Jagna becomes the object of envy and disdain with the villagers and she must fight to preserve her independence.",
+  "popularity": 4.808,
+  "poster_path": "/8ATsQJx6SnG1EQgmbm3NNeUzwmw.jpg",
+  "production_companies": [
+    {
+      "id": 6550,
+      "logo_path": "/rK7qbf3EXp34rfbAuC9TgJ4HYXh.png",
+      "name": "Breakthru Films",
+      "origin_country": "PL"
+    },
+    {
+      "id": 171692,
+      "logo_path": "/619ZkXHvFSqWPK4152b0c6frahM.png",
+      "name": "ArtShot",
+      "origin_country": "LT"
+    },
+    {
+      "id": 51044,
+      "logo_path": "/yd4avqz3BOob4mswcYprrgVuq05.png",
+      "name": "DigitalKraft",
+      "origin_country": "RS"
+    },
+    {
+      "id": 250,
+      "logo_path": "/evWKasiElVQywuKv2dI72P9twz8.png",
+      "name": "CANAL+ Polska",
+      "origin_country": "PL"
+    },
+    {
+      "id": 53527,
+      "logo_path": "/xTbmvGlKkPYUFSJJ9Ww6tokHL3f.png",
+      "name": "Narodowe Centrum Kultury",
+      "origin_country": "PL"
+    },
+    {
+      "id": 125737,
+      "logo_path": "/v4YRjUXtET5EqW2XXYB05K3yUpd.png",
+      "name": "Mazowiecki Instytut Kultury",
+      "origin_country": "PL"
+    },
+    {
+      "id": 209539,
+      "logo_path": "/3q0vVErHxexoiL8gvR0fSQsQsEr.png",
+      "name": "SKP Ślusarek Kubiak Pieczyk",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    },
+    {
+      "iso_3166_1": "LT",
+      "name": "Lithuania"
+    },
+    {
+      "iso_3166_1": "RS",
+      "name": "Serbia"
+    }
+  ],
+  "release_date": "2023-10-13",
+  "revenue": 10064347,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love comes and goes but land stays.",
+  "title": "The Peasants",
+  "video": false,
+  "vote_average": 7.514,
+  "vote_count": 148
+}

@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/jE9PtFwRbTr3WrlGd81SGDSJNSQ.jpg",
+  "belongs_to_collection": {
+    "id": 669836,
+    "name": "Father There Is Only One Collection",
+    "poster_path": "/h1mbInnCKW4nUhHJN0avzmo0tkL.jpg",
+    "backdrop_path": "/49Cx3OO7mWdySVNXUmfaG4wPlxC.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1328913,
+  "imdb_id": "tt34987195",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Padre no hay más que uno 5: Nido repleto",
+  "overview": "Some parents experience the anguish of the \"empty nest\" when their children leave home. Javier, on the other hand, suffers the trauma of the \"full nest\": no one wants to leave home.",
+  "popularity": 6.5348,
+  "poster_path": "/7H27uvaPZfq794qVcLFrSEgHseZ.jpg",
+  "production_companies": [
+    {
+      "id": 91991,
+      "logo_path": "/ngEpBkH7nkFfyCCtvGhhIzPS1xF.png",
+      "name": "Bowfinger",
+      "origin_country": "ES"
+    },
+    {
+      "id": 266227,
+      "logo_path": null,
+      "name": "Padre 5 nido repleto",
+      "origin_country": "ES"
+    },
+    {
+      "id": 10054,
+      "logo_path": "/67EvEfCho6RuijhumqsmUAGLERX.png",
+      "name": "Irusoin",
+      "origin_country": "ES"
+    },
+    {
+      "id": 149886,
+      "logo_path": "/oDG7mNqzGZGRI8Q4qIAPOS0wdh4.png",
+      "name": "Esto También Pasará",
+      "origin_country": "ES"
+    },
+    {
+      "id": 134940,
+      "logo_path": "/87IcRBHCjAmjNUjCQNXVAGNjaaB.png",
+      "name": "Sony Pictures Entertainment Iberia",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-06-26",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Padre no hay más que uno 5: Nido repleto",
+  "video": false,
+  "vote_average": 6.653,
+  "vote_count": 36
+}

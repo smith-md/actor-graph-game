@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/pQrIh0uZV7RdnMx5DJ4ZLuiBv6z.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 67744,
+  "imdb_id": "tt0076747",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Spell",
+  "overview": "A distraught mother must cope with her embittered daughter who has the ability to cause \"accidents\" to happen.",
+  "popularity": 3.6527,
+  "poster_path": "/4kVtNlDknOACA2ko9Vo6GHeacVV.jpg",
+  "production_companies": [
+    {
+      "id": 41564,
+      "logo_path": null,
+      "name": "Stonehenge Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 19683,
+      "logo_path": null,
+      "name": "Charles Fries Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1977-02-20",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A taunted, overweight teenager with a mysterious power to destroy her enemies!",
+  "title": "The Spell",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 31
+}

@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/mRCh7Pq1i0jLuS54ojD0HZEc2wU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 61105,
+  "imdb_id": "tt0061780",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Honey Pot",
+  "overview": "In Venice, a millionaire hires an actor to help him prank three greedy exes into thinking he's dying and leaving his fortune to one of them.",
+  "popularity": 0.5574,
+  "poster_path": "/wMuxOddbhc9tESDKdQtrkzAMPQ6.jpg",
+  "production_companies": [
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 1482,
+      "logo_path": null,
+      "name": "Famous Artists Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1967-05-21",
+  "revenue": 0,
+  "runtime": 125,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You are cordially invited to enjoy a perfectly elegant case of murder!",
+  "title": "The Honey Pot",
+  "video": false,
+  "vote_average": 6.362,
+  "vote_count": 65
+}

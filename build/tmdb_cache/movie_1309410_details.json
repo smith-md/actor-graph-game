@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/fSnrjhK1KkFQSeIz2yuwnPeazY0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1309410,
+  "imdb_id": "tt35404638",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "100 Millions !",
+  "overview": "A printing house worker and union leader inherits EUR100m, but the windfall costs him his job and puts his marriage at risk.",
+  "popularity": 4.2604,
+  "poster_path": "/2i6ajHwV6lcIWgLw4CbDWgoYvU5.jpg",
+  "production_companies": [
+    {
+      "id": 3092,
+      "logo_path": null,
+      "name": "Les Films Manuel Munz",
+      "origin_country": "FR"
+    },
+    {
+      "id": 232279,
+      "logo_path": null,
+      "name": "Coup de Foudre Production",
+      "origin_country": ""
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-03-26",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "100 Million!",
+  "video": false,
+  "vote_average": 4.257,
+  "vote_count": 35
+}

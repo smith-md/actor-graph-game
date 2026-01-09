@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/hdZ90lv205Rc7301EnGvakA5dwu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 570258,
+  "imdb_id": "tt10183616",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Yves",
+  "overview": "Jerem decides to settle at his grandma’s place to compose his first album. There he meets So, a mysterious investigator working on behalf of the startup Digital Cool.  She will persuade Jerem to try out Yves, a new kind of smart refrigerator gifted with an IA.",
+  "popularity": 4.7478,
+  "poster_path": "/21HCuYOd3qm6KYMZxQGEXa0xNNP.jpg",
+  "production_companies": [
+    {
+      "id": 7128,
+      "logo_path": "/6eLVLIUh5jhqinKGjaGZ9kl1SmU.png",
+      "name": "Ecce Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 5125,
+      "logo_path": "/t3oWTsVukmEzrZzvfr37XRBibo5.png",
+      "name": "Le Pacte",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2019-05-23",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "All About Yves",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 103
+}

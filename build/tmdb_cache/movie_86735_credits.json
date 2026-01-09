@@ -1,0 +1,143 @@
+{
+  "id": 86735,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 109969,
+      "known_for_department": "Acting",
+      "name": "Daws Butler",
+      "original_name": "Daws Butler",
+      "popularity": 0.7696,
+      "profile_path": "/qxaOMbICdts0qpUmkYj3OMhDGt8.jpg",
+      "cast_id": 4,
+      "character": "Mysto the Magician (voice)",
+      "credit_id": "52fe499b9251416c910b2c9f",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1061273,
+      "known_for_department": "Acting",
+      "name": "Carlos Ramírez",
+      "original_name": "Carlos Ramírez",
+      "popularity": 1.9991,
+      "profile_path": "/xxUA9DVjoIajpvrb9sYaJOVsP8w.jpg",
+      "cast_id": 12,
+      "character": "The Great Poochini (voice)",
+      "credit_id": "5fe2de4d70309f00407ed8ac",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1338274,
+      "known_for_department": "Acting",
+      "name": "Mary Kaye",
+      "original_name": "Mary Kaye",
+      "popularity": 0.4962,
+      "profile_path": null,
+      "cast_id": 8,
+      "character": "Vocalists",
+      "credit_id": "5fe0dfe50e44190040ebd94a",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2903597,
+      "known_for_department": "Acting",
+      "name": "Norman Kaye",
+      "original_name": "Norman Kaye",
+      "popularity": 0.3825,
+      "profile_path": null,
+      "cast_id": 9,
+      "character": "Vocalists",
+      "credit_id": "5fe0e0280e4419003eead60a",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 2903599,
+      "known_for_department": "Acting",
+      "name": "Frank Ross",
+      "original_name": "Frank Ross",
+      "popularity": 0.2883,
+      "profile_path": null,
+      "cast_id": 10,
+      "character": "Additional Voices",
+      "credit_id": "5fe0e03a0dea6e003eb169fe",
+      "order": 4
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 16417,
+      "known_for_department": "Acting",
+      "name": "Paul Frees",
+      "original_name": "Paul Frees",
+      "popularity": 1.4064,
+      "profile_path": "/pACT0LYkEyff7PGt88iqr5u9T7u.jpg",
+      "cast_id": 11,
+      "character": "Additional Voices",
+      "credit_id": "5fe0e0430dea6e0040b16489",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1061415,
+      "known_for_department": "Writing",
+      "name": "Rich Hogan",
+      "original_name": "Rich Hogan",
+      "popularity": 2.196,
+      "profile_path": null,
+      "credit_id": "52fe499b9251416c910b2c9b",
+      "department": "Writing",
+      "job": "Story"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 237588,
+      "known_for_department": "Directing",
+      "name": "Tex Avery",
+      "original_name": "Tex Avery",
+      "popularity": 0.6691,
+      "profile_path": "/4jimJwW6FNAxBuM2CD1cZLK6Q5C.jpg",
+      "credit_id": "52fe499b9251416c910b2c8f",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 137486,
+      "known_for_department": "Production",
+      "name": "Fred Quimby",
+      "original_name": "Fred Quimby",
+      "popularity": 0.4279,
+      "profile_path": null,
+      "credit_id": "52fe499b9251416c910b2ca9",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 137562,
+      "known_for_department": "Sound",
+      "name": "Scott Bradley",
+      "original_name": "Scott Bradley",
+      "popularity": 0.6498,
+      "profile_path": "/AjQ95xfBtFc39ADKaPi1jupim2m.jpg",
+      "credit_id": "5fe0df7d6e3deb003f8c3436",
+      "department": "Sound",
+      "job": "Original Music Composer"
+    }
+  ]
+}

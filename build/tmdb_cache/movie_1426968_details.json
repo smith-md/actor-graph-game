@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/zmfaCjc4MNUWgEztT3pOOyMSMBw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1426968,
+  "imdb_id": "tt32140922",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Ya no quedan junglas",
+  "overview": "Aging ex-soldier Theo meets weekly with prostitute Olga to reminisce. After Olga's murder, Theo seeks bloody revenge, attracting attention of alcoholic cop Iborra and hitman Herodes.",
+  "popularity": 11.0439,
+  "poster_path": "/iIIZ3qIh7A3B8Y1VVo5laFyusVV.jpg",
+  "production_companies": [
+    {
+      "id": 125381,
+      "logo_path": "/fqyj3ATL45iYVHSIprJP1cUy4sG.png",
+      "name": "SDB Films",
+      "origin_country": "MX"
+    },
+    {
+      "id": 85066,
+      "logo_path": "/5FhRorfPgloqzv7zlEAMi0dsiCa.png",
+      "name": "Film Factory",
+      "origin_country": "ES"
+    },
+    {
+      "id": 149886,
+      "logo_path": "/oDG7mNqzGZGRI8Q4qIAPOS0wdh4.png",
+      "name": "Esto También Pasará",
+      "origin_country": "ES"
+    },
+    {
+      "id": 80408,
+      "logo_path": "/e2LblDStah74O4c9E6o1U0qv0Oa.png",
+      "name": "Glow",
+      "origin_country": "ES"
+    },
+    {
+      "id": 268306,
+      "logo_path": null,
+      "name": "Ya no quedan junglas",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2025-09-26",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Gentleman",
+  "video": false,
+  "vote_average": 6.39,
+  "vote_count": 41
+}

@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/8qPG3AjLtletf1K4g8iGhKwHQSc.jpg",
+  "belongs_to_collection": null,
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.scoopmovie.net/",
+  "id": 512,
+  "imdb_id": "tt0457513",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Scoop",
+  "overview": "An American journalism student in London scoops a big story, and begins an affair with an aristocrat as the incident unfurls.",
+  "popularity": 4.3639,
+  "poster_path": "/1nF290EoEn2rs4W9VVercKa4S5o.jpg",
+  "production_companies": [
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 290,
+      "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
+      "name": "Ingenious Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7316,
+      "logo_path": null,
+      "name": "Phoenix Wiley Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 136057,
+      "logo_path": null,
+      "name": "Jelly Roll Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-07-27",
+  "revenue": 39220946,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The perfect man. The perfect story. The perfect murder.",
+  "title": "Scoop",
+  "video": false,
+  "vote_average": 6.591,
+  "vote_count": 1697
+}

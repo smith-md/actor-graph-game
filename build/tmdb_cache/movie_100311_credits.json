@@ -1,0 +1,100 @@
+{
+  "id": 100311,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 33923,
+      "known_for_department": "Acting",
+      "name": "Mel Blanc",
+      "original_name": "Mel Blanc",
+      "popularity": 1.6254,
+      "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+      "cast_id": 6,
+      "character": "Bugs Bunny",
+      "credit_id": "52fe49d3c3a36847f81a8571",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 930110,
+      "known_for_department": "Acting",
+      "name": "John T. Smith",
+      "original_name": "John T. Smith",
+      "popularity": 2.4787,
+      "profile_path": null,
+      "cast_id": 7,
+      "character": "Hercules",
+      "credit_id": "52fe49d3c3a36847f81a8575",
+      "order": 1
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 100888,
+      "known_for_department": "Directing",
+      "name": "Chuck Jones",
+      "original_name": "Chuck Jones",
+      "popularity": 0.8807,
+      "profile_path": "/6LaYJXpfX6hry3mT8QTEGCPIUdi.jpg",
+      "credit_id": "52fe49d3c3a36847f81a8555",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 362742,
+      "known_for_department": "Writing",
+      "name": "Michael Maltese",
+      "original_name": "Michael Maltese",
+      "popularity": 0.4948,
+      "profile_path": "/kh0VmXGxAAUPybZHMFsir5beXiH.jpg",
+      "credit_id": "52fe49d3c3a36847f81a855b",
+      "department": "Writing",
+      "job": "Story"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 457819,
+      "known_for_department": "Production",
+      "name": "Edward Selzer",
+      "original_name": "Edward Selzer",
+      "popularity": 1.5242,
+      "profile_path": null,
+      "credit_id": "52fe49d3c3a36847f81a8561",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 551674,
+      "known_for_department": "Sound",
+      "name": "Carl W. Stalling",
+      "original_name": "Carl W. Stalling",
+      "popularity": 1.8595,
+      "profile_path": "/pvo2CuSZen19HwzODF9v42OhQmR.jpg",
+      "credit_id": "52fe49d3c3a36847f81a8567",
+      "department": "Sound",
+      "job": "Original Music Composer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 149379,
+      "known_for_department": "Editing",
+      "name": "Treg Brown",
+      "original_name": "Treg Brown",
+      "popularity": 0.5271,
+      "profile_path": null,
+      "credit_id": "52fe49d3c3a36847f81a856d",
+      "department": "Editing",
+      "job": "Editor"
+    }
+  ]
+}

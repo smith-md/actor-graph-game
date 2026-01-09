@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/xZjnJupgEYI5fDVY9siyiiGKtK6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.bluefoxentertainment.com/films/xeno",
+  "id": 1119377,
+  "imdb_id": "tt27629220",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Xeno",
+  "overview": "A teenage girl develops an otherworldly bond with an alien after it crash-lands in the desert. As government agents close in, she must protect her new friend, while uncovering a secret that could change the fate of both their worlds.",
+  "popularity": 6.5077,
+  "poster_path": "/a173ryH3yQXvP2y0jriL3dYjWfX.jpg",
+  "production_companies": [
+    {
+      "id": 40268,
+      "logo_path": "/shdAxUj8uF6exNLrF0kSqYVxCzG.png",
+      "name": "HartBeat Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 202449,
+      "logo_path": null,
+      "name": "The Henson Company",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-19",
+  "revenue": 107522,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One bond. Two worlds.",
+  "title": "Xeno",
+  "video": false,
+  "vote_average": 5.18,
+  "vote_count": 25
+}

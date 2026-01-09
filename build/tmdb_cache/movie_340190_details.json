@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/gnbKU8z7cEo5CkeHnCN7SqEHYcF.jpg",
+  "belongs_to_collection": null,
+  "budget": 600000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 340190,
+  "imdb_id": "tt1950135",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Drunk Wedding",
+  "overview": "Jon and Elissa dreamed of having an epic destination wedding surrounded by their best friends. But their trip to paradise turns into an outrageous drunken weekend they wish they could forget.",
+  "popularity": 5.1372,
+  "poster_path": "/gxbsqNvk9mWygEJRMGLXmOKmraG.jpg",
+  "production_companies": [
+    {
+      "id": 54131,
+      "logo_path": null,
+      "name": "Weston Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 7377,
+      "logo_path": "/zdVYfWyiQmLgyq8V73HRHpCWjRO.png",
+      "name": "Insurge Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 219122,
+      "logo_path": null,
+      "name": "Section 70",
+      "origin_country": ""
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-05-22",
+  "revenue": 3301,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Come. Celebrate.",
+  "title": "Drunk Wedding",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 30
+}

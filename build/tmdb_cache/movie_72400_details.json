@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/jPixwjcImLUY62kbYOh3DCucXvk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 72400,
+  "imdb_id": "tt0026095",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Bandera",
+  "overview": "Pierre Gilieth has committed a murder in Paris. He flees to Barcelona, where he runs out of money. So he joins the Spanish Foreign Legion. He meets there two fellow countrymen, Mulot and Lucas. He tries to forget his fault... but Lucas's friendship soon appears to be less unselfish...",
+  "popularity": 4.0753,
+  "poster_path": "/qPJd23tHFXIA8LWpJeSpk0KtUTR.jpg",
+  "production_companies": [
+    {
+      "id": 16670,
+      "logo_path": null,
+      "name": "SNC",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1935-09-25",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "NO escape or flight! NO escape in love! The PAST is never dead!",
+  "title": "La Bandera",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 21
+}

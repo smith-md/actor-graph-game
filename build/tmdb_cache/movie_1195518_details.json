@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/hyc9gq0Oq5THKak7tB7oqC2Rd6z.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.theunholytrinitymovie.com/",
+  "id": 1195518,
+  "imdb_id": "tt6300910",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Unholy Trinity",
+  "overview": "Set against the turbulent backdrop of 1870s Montana, in the moments before the execution of Isaac Broadway, he gives his estranged son, Henry, an impossible task: murder the man who framed him for a crime he didn’t commit. Intent on fulfilling his promise, Henry travels to the remote town of Trinity, where an unexpected turn of events traps him in town and leaves him caught between Gabriel Dove, the town’s upstanding new sheriff, and a mysterious figure named St. Christopher.",
+  "popularity": 79.4717,
+  "poster_path": "/waU3o5qRPNA9bIC59DIsDppll11.jpg",
+  "production_companies": [
+    {
+      "id": 199833,
+      "logo_path": "/jBvzUqNAKQL9KUiAXPHJ01fREGN.png",
+      "name": "Jaggi Entertainment",
+      "origin_country": "AU"
+    },
+    {
+      "id": 25635,
+      "logo_path": null,
+      "name": "High Five Films",
+      "origin_country": ""
+    },
+    {
+      "id": 76992,
+      "logo_path": "/mw3j3P8SUQJKLSJQrLKuSDO9Xr6.png",
+      "name": "Saban Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2025-06-13",
+  "revenue": 1000526,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The past never stays buried.",
+  "title": "The Unholy Trinity",
+  "video": false,
+  "vote_average": 6.412,
+  "vote_count": 125
+}

@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/gVPjIcYo1gTaACF43OMsralrcUS.jpg",
+  "belongs_to_collection": {
+    "id": 3601,
+    "name": "I Know What You Did Last Summer Collection",
+    "poster_path": "/2g6Ui3CCNcDtL4wasCziivogpfW.jpg",
+    "backdrop_path": "/guXWsiQYpzEJ832Kebd72Qp1Hyq.jpg"
+  },
+  "budget": 18000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://iknowwhatyoudidlastsummer.movie",
+  "id": 1083433,
+  "imdb_id": "tt4045450",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "I Know What You Did Last Summer",
+  "overview": "When five friends inadvertently cause a deadly car accident, they cover up their involvement and make a pact to keep it a secret rather than face the consequences. A year later, their past comes back to haunt them and they're forced to confront a horrifying truth: someone knows what they did last summer…and is hell-bent on revenge.",
+  "popularity": 11.3578,
+  "poster_path": "/8FP2ObEGIiQYQCf83gL4ZVzwZF8.jpg",
+  "production_companies": [
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 551,
+      "logo_path": "/jSlzEZZ4Z1g7B2UExjZEIKsUvD9.png",
+      "name": "Mandalay Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 333,
+      "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+      "name": "Original Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 3287,
+      "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+      "name": "Screen Gems",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2025-07-16",
+  "revenue": 64808120,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You get the ending you deserve.",
+  "title": "I Know What You Did Last Summer",
+  "video": false,
+  "vote_average": 5.81,
+  "vote_count": 583
+}

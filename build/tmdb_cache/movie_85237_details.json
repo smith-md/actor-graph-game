@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/2WaDinpgOqYOPYRDIEjV4uSD9Qb.jpg",
+  "belongs_to_collection": null,
+  "budget": 115000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 85237,
+  "imdb_id": "tt0051150",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Vampire",
+  "overview": "A small town doctor mistakenly ingests an experimental drug made from the blood of vampire bats which transforms the kindly medic into a bloodthirsty monster.",
+  "popularity": 4.2769,
+  "poster_path": "/u2RimfjPsQ59kqWY4Qu0nFtTozd.jpg",
+  "production_companies": [
+    {
+      "id": 219521,
+      "logo_path": null,
+      "name": "Gramercy Pictures, Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1957-06-14",
+  "revenue": 0,
+  "runtime": 76,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A new kind of killer to stalk the screen!",
+  "title": "The Vampire",
+  "video": false,
+  "vote_average": 6.208,
+  "vote_count": 36
+}

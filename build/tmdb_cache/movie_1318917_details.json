@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/qAJqYEz0utqsaPsMQvgjbUatUwv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1318917,
+  "imdb_id": "tt32730754",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Rüzgara Bırak",
+  "overview": "A focused city worker and a laid-back surfer - both heirs to the same company - find they have plenty in common when they join forces in the boardroom.",
+  "popularity": 4.6795,
+  "poster_path": "/pg6sFi0pv8cPelkJGLZqmUxh24F.jpg",
+  "production_companies": [
+    {
+      "id": 73743,
+      "logo_path": "/6XJXWZCCdzOa28u4xegdJtwzKb1.png",
+      "name": "O3 Medya",
+      "origin_country": "TR"
+    },
+    {
+      "id": 137006,
+      "logo_path": "/3kWHIeqSfjoIVErLYTzJMlHimwn.png",
+      "name": "Lanistar Media",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2025-01-09",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Chasing the Wind",
+  "video": false,
+  "vote_average": 6.12,
+  "vote_count": 46
+}

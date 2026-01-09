@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/eJ0HooOOD1uzI39CfOQNWIiWKlJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1387382,
+  "imdb_id": "tt32537226",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hunting Season",
+  "overview": "When a reclusive survivalist and his daughter rescue a mysterious, wounded woman from a river, they become entangled in a deadly web of violence and revenge, forcing them to confront a brutal criminal to survive.",
+  "popularity": 61.526,
+  "poster_path": "/cbryTyaWdqrKpQCw6K7zm2jrB5v.jpg",
+  "production_companies": [
+    {
+      "id": 231139,
+      "logo_path": null,
+      "name": "Beno Films (US)",
+      "origin_country": ""
+    },
+    {
+      "id": 63611,
+      "logo_path": "/bHPC39cG5aAcuFnViWmRD59gzZ8.png",
+      "name": "ETA films",
+      "origin_country": "US"
+    },
+    {
+      "id": 198179,
+      "logo_path": "/ct4wmzYtS2prZnitm4iuMxRAMsR.png",
+      "name": "Filmopoly",
+      "origin_country": "US"
+    },
+    {
+      "id": 121204,
+      "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital",
+      "origin_country": "US"
+    },
+    {
+      "id": 41735,
+      "logo_path": "/je9Ko1f6iu0AfLL3dINJEaxLvEb.png",
+      "name": "Buffalo 8",
+      "origin_country": "US"
+    },
+    {
+      "id": 137373,
+      "logo_path": "/4OzujMDSLnAm7I0BCPL1D6RIoJ4.png",
+      "name": "CaliWood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 237010,
+      "logo_path": null,
+      "name": "FluffyBear Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-05",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It takes an awful lot to kill a person.",
+  "title": "Hunting Season",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 100
+}

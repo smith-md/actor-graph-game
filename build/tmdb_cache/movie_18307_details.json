@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/oiHsOdDElXUPfAkgus8XRhIF0W8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 18307,
+  "imdb_id": "tt0396032",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Getting Played",
+  "overview": "Three smart and sexy friends, Andrea, Lauren and Emily, are fed up with being played by the men in their lives. To prove that all men are predictable and easily seduced, this hot trio decides to play by a new set of rules. They enter into a wild game of seduction to convince one lucky man that he's living the dream... but what the girls don't realize is  their mark is on to their game and he's got a few plays of his own. Can the girls win? Or, will this player's double play end their game?",
+  "popularity": 5.0805,
+  "poster_path": "/3bK0BRVyO96qe5BOI3Lla0E9oko.jpg",
+  "production_companies": [
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 223415,
+      "logo_path": null,
+      "name": "Foxy Brown Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 223416,
+      "logo_path": null,
+      "name": "L. Richardson Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 230623,
+      "logo_path": null,
+      "name": "Michael Catalano Production",
+      "origin_country": ""
+    },
+    {
+      "id": 230624,
+      "logo_path": null,
+      "name": "Jack Utsick Production",
+      "origin_country": ""
+    },
+    {
+      "id": 230625,
+      "logo_path": null,
+      "name": "Frontera Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-12-10",
+  "revenue": 0,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The rules are about to change.",
+  "title": "Getting Played",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 27
+}

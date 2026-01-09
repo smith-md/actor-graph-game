@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/lbdrPA3KezeiNN09cPpjsFHitWH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://thebureaufilms.com/sales/library/the-sitting-duck/",
+  "id": 925714,
+  "imdb_id": "tt16987062",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Syndicaliste",
+  "overview": "The true story of the Irish national Maureen Kearney- head tradeunion representative-turned-whistleblower of a French multinational nuclear powerhouse. After denouncing top-secret deals that shook the sector, Kearney’s life is suddenly turned upside-down when she is violently assaulted in her own house.",
+  "popularity": 4.5998,
+  "poster_path": "/ppx4Njse3xKDDAylXH5EryaJfa.jpg",
+  "production_companies": [
+    {
+      "id": 1588,
+      "logo_path": "/uoQ6idaav4dKMipOfjrc1lCJbhP.png",
+      "name": "Heimatfilm",
+      "origin_country": "DE"
+    },
+    {
+      "id": 2137,
+      "logo_path": "/zTHaMcMvmXhIx4e2e7Df7azc0fC.png",
+      "name": "Le Bureau",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2023-03-01",
+  "revenue": 3900000,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "La Syndicaliste",
+  "video": false,
+  "vote_average": 6.757,
+  "vote_count": 144
+}

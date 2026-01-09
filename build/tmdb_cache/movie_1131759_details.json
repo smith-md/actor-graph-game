@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/fP6L6V42980QmuoyyGXCmWphwpT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.213pnm.com/m-database/omniscientreader",
+  "id": 1131759,
+  "imdb_id": "tt30254719",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "전지적 독자 시점",
+  "overview": "Kim Dok-ja, an ordinary man in his 20s, is the only reader of an obscure web novel titled \"Three Ways to Survive the Apocalypse\". After having read the last chapter, the novel suddenly becomes reality, and its omnipotent hero Yu Jung-hyeok appears before Kim. As the only person who knows how to survive in this world, Kim and his companions strive to save the world by writing his own, new ending.",
+  "popularity": 201.8734,
+  "poster_path": "/3R3dXO2nm8JyR5NG7SEfii7RzlV.jpg",
+  "production_companies": [
+    {
+      "id": 253583,
+      "logo_path": "/m9NIGwTjaGmYYhdzXllrbWd3Qhf.png",
+      "name": "MYM Entertainment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 3655,
+      "logo_path": "/bAn1qaqJRWwlTjzu3Ks6u3LrdMJ.png",
+      "name": "Realies Pictures",
+      "origin_country": "KR"
+    },
+    {
+      "id": 253572,
+      "logo_path": "/uERBjFBui9rLpp6ctYigkDY7Gqa.png",
+      "name": "SmilegateRealies",
+      "origin_country": "KR"
+    },
+    {
+      "id": 253584,
+      "logo_path": "/3r4kWntcOKxwrw3v8OfmRIQteKZ.png",
+      "name": "The Present Company",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2025-07-23",
+  "revenue": 4500000,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A novel known only by me has become reality.",
+  "title": "Omniscient Reader: The Prophecy",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 40
+}

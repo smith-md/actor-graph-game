@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/JMlVj6X2F1PuDz9OyHShThzpa2.jpg",
+  "belongs_to_collection": {
+    "id": 1381160,
+    "name": "Thief Collection",
+    "poster_path": "/8RgrTmXwUUZGqbNta6Qdukrs3aM.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1369679,
+  "imdb_id": "tt27357183",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Get Fast",
+  "overview": "When The Thief’s partner is kidnapped after stealing millions in cash from a merciless drug lord named Nushi, he reluctantly teams up with an angst-ridden orphan to rescue him. Nushi enlists her most trusted hitman, The Cowboy, a lovable charmer who’s quick with his guns, to track down the Thief. Guns, cars, and explosions will give the newfound partners a head start, but how long will they be able to keep it up?",
+  "popularity": 6.851,
+  "poster_path": "/tDpTR7xhHu9cz1X4JAIRFwXyf6U.jpg",
+  "production_companies": [
+    {
+      "id": 243953,
+      "logo_path": null,
+      "name": "Play by Play Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 73162,
+      "logo_path": null,
+      "name": "Greendale Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 243955,
+      "logo_path": null,
+      "name": "Peacemaker Filmworks",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2024-12-12",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No one outruns revenge.",
+  "title": "Get Fast",
+  "video": false,
+  "vote_average": 5.886,
+  "vote_count": 35
+}

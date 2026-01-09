@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/2KU8ZSzj1Y9eYfZv4RYO2yCiO4v.jpg",
+  "belongs_to_collection": {
+    "id": 52094,
+    "name": "The Hikers Collection",
+    "poster_path": "/xlhKnDhAFtgUraSf9z9mebWXUKA.jpg",
+    "backdrop_path": "/k15ilnayGfGlfyIuqHpnri2JgAT.jpg"
+  },
+  "budget": 3900000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 40413,
+  "imdb_id": "tt0119981",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Randonneurs",
+  "overview": "A quartet of Parisians embark upon a guided hike in Corsica and end up working through the sometimes comical chaos of their individual lives.",
+  "popularity": 3.8103,
+  "poster_path": "/jsp15ZnGZhXUmckz1QffsHEwCHg.jpg",
+  "production_companies": [
+    {
+      "id": 5869,
+      "logo_path": null,
+      "name": "Les Productions Lazennec",
+      "origin_country": "FR"
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1997-03-12",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Smile, it may not last!",
+  "title": "Hikers",
+  "video": false,
+  "vote_average": 5.676,
+  "vote_count": 219
+}

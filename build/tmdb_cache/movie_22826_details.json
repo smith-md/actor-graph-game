@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/izUQSU7tCcx0k4xU3VARcKqy3pn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 22826,
+  "imdb_id": "tt0110570",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Il mostro",
+  "overview": "A vicious serial sex killer is on the loose, and landscape gardener and shop-window outfitter Loris is the prime suspect, thanks to his unfortunate habit of getting caught in compromising situations (for which there is always a totally innocent explanation that the police fail to spot). Undercover policewoman Jessica is assigned by eccentric police psychologist Taccone to follow Loris.",
+  "popularity": 4.0081,
+  "poster_path": "/6h6ahipPd84QcyFbnsEikLt7w3Z.jpg",
+  "production_companies": [
+    {
+      "id": 7042,
+      "logo_path": null,
+      "name": "IRIS Films",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1994-10-22",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Monster",
+  "video": false,
+  "vote_average": 6.946,
+  "vote_count": 634
+}

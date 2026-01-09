@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/p5qPj9klS3IKXBbnWurZYlmSpHx.jpg",
+  "belongs_to_collection": null,
+  "budget": 14000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://movies.disney.com/the-great-muppet-caper",
+  "id": 14900,
+  "imdb_id": "tt0082474",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Great Muppet Caper",
+  "overview": "Kermit and Fozzie are newspaper reporters sent to London to interview Lady Holiday, a wealthy fashion designer whose priceless diamond necklace is stolen. Kermit meets and falls in love with her secretary, Miss Piggy. The jewel thieves strike again, and this time frame Miss Piggy. It's up to Kermit and Muppets to bring the real culprits to justice.",
+  "popularity": 9.6098,
+  "poster_path": "/lnJc4B4njeyNHWqG00ozuUIhtu5.jpg",
+  "production_companies": [
+    {
+      "id": 1155,
+      "logo_path": "/rKTzFu5woCo8k0u9ML7mWeLY541.png",
+      "name": "ITC Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 24931,
+      "logo_path": "/8koBEDoVQXyEM8589PnI4Wyq5KA.png",
+      "name": "Henson Associates",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1981-06-26",
+  "revenue": 31206251,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Muppets... Scotland Yard... jewel thieves... lead to high adventure in London.",
+  "title": "The Great Muppet Caper",
+  "video": false,
+  "vote_average": 6.889,
+  "vote_count": 328
+}

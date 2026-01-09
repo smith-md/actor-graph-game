@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/xuwqYwzsgwfr0mk6sBNRy6C8JpK.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 19259,
+  "imdb_id": "tt0090274",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Volunteers",
+  "overview": "After graduating from Yale in 1962, womanizing Lawrence flees a gambling debt that his rich dad won't pay and takes his roomie's place as a Peace Corps Volunteer in the Thai Golden Triangle with two other PCVs. Will he survive two years?",
+  "popularity": 3.5646,
+  "poster_path": "/tua28Wyv9uGBtPTBGCP7GsN3Znu.jpg",
+  "production_companies": [
+    {
+      "id": 7429,
+      "logo_path": "/6in9uMqxXEHx5XgYgkeRBpZ4rPw.png",
+      "name": "HBO Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 514,
+      "logo_path": null,
+      "name": "Silver Screen Partners",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1985-08-16",
+  "revenue": 19875740,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ready or not, here they come.",
+  "title": "Volunteers",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 172
+}

@@ -1,0 +1,102 @@
+{
+  "adult": false,
+  "backdrop_path": "/yGByIyqgJerCw7AAphTrTAlrdkJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 1328803,
+  "imdb_id": "tt33057137",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Prisoner of War",
+  "overview": "British RAF Wing Commander James Wright is captured by the Japanese during WWII and forced to fight in brutal hand-to-hand combat. The Japanese soldiers get more than they bargained for when Wright’s years of martial arts training in Hong Kong prove him to be a formidable opponent.",
+  "popularity": 15.3274,
+  "poster_path": "/1XET89sjRm9mUuHXhGIlKTNd5uD.jpg",
+  "production_companies": [
+    {
+      "id": 238345,
+      "logo_path": null,
+      "name": "Brand in Motion",
+      "origin_country": ""
+    },
+    {
+      "id": 238346,
+      "logo_path": null,
+      "name": "Myriad Entertainment Corp.",
+      "origin_country": ""
+    },
+    {
+      "id": 3835,
+      "logo_path": "/4gD398zUF6VaBti3sVjJkr0sDUX.png",
+      "name": "Odyssey Motion Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 238347,
+      "logo_path": null,
+      "name": "Reality RR Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-19",
+  "revenue": 94700000,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fight to survive.",
+  "title": "Prisoner of War",
+  "video": false,
+  "vote_average": 7.177,
+  "vote_count": 130
+}

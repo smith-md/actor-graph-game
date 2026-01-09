@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/njsZ2rBTKXbwurqmA4h0OKlUnNM.jpg",
+  "belongs_to_collection": null,
+  "budget": 16000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 27609,
+  "imdb_id": "tt0084489",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Personal Best",
+  "overview": "Young sprinter Chris Cahill is having difficulty reaching her potential as an athlete, until she meets established track star Tory Skinner. As Tory and her coach help Chris with her training, the two women form friendship that evolves into a romantic relationship. Their intimacy, however, becomes complicated when Chris' improvement causes them to be competitors for the Olympic team.",
+  "popularity": 2.669,
+  "poster_path": "/sQbIDpQ421ioiEhyo1VSXCDp1Si.jpg",
+  "production_companies": [
+    {
+      "id": 360,
+      "logo_path": "/mFNYE6Lozy6oxYRxz4ByDVdIHbc.png",
+      "name": "Geffen Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1982-02-05",
+  "revenue": 5700000,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When you run into yourself you run into feelings you never thought you had",
+  "title": "Personal Best",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 47
+}

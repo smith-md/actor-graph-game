@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/jpS4Hg1MjXgmIXYZhJwNPVGJaTG.jpg",
+  "belongs_to_collection": null,
+  "budget": 13000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1371151,
+  "imdb_id": "tt27424511",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Off the Grid",
+  "overview": "After a morally-bankrupt company tries to weaponize a brilliant scientist's revolutionary technology, he goes off the grid to safeguard humanity. When the company sends a strike force to find him, they make their biggest mistake of all – they weaponize the man they are trying to catch.",
+  "popularity": 3.9702,
+  "poster_path": "/mMUVnkcx2VawTBJYnnnRN8fxJpb.jpg",
+  "production_companies": [
+    {
+      "id": 41735,
+      "logo_path": "/je9Ko1f6iu0AfLL3dINJEaxLvEb.png",
+      "name": "Buffalo 8",
+      "origin_country": "US"
+    },
+    {
+      "id": 184844,
+      "logo_path": "/gsd7K46hkePQejS6hN6Lc5RqBH1.png",
+      "name": "Iervolino & Lady Bacardi Entertainment",
+      "origin_country": "IT"
+    },
+    {
+      "id": 75267,
+      "logo_path": "/nGvGzQ5x2OoeLSEQYkBPV0bzwoM.png",
+      "name": "Eyevox",
+      "origin_country": "US"
+    },
+    {
+      "id": 121204,
+      "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital",
+      "origin_country": "US"
+    },
+    {
+      "id": 177499,
+      "logo_path": "/9fCtPsxhpASvHIrzju2PAdg2F35.png",
+      "name": "Latigo Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 3604,
+      "logo_path": "/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png",
+      "name": "Grindstone Entertainment Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-06-27",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You can hide... or fight back.",
+  "title": "Off the Grid",
+  "video": false,
+  "vote_average": 6.371,
+  "vote_count": 62
+}

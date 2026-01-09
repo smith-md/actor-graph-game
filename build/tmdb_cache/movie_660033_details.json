@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/pHvHLrbvMogNMH1l7Uon3VzE3px.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 660033,
+  "imdb_id": "tt10804178",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Jak zostałem gangsterem. Historia prawdziwa",
+  "overview": "The action of the film begins in the 1970s – even then, the young protagonist knows that adrenaline tastes better than powdered milk. Over time, he also discovers a desire for money, power, and being above the law. A transformation begins, and his gangster talent blossoms. Together with a friend, they build their own army.",
+  "popularity": 3.8547,
+  "poster_path": "/oEvk45mBpE6s6wmIjvCTbdaMMpB.jpg",
+  "production_companies": [
+    {
+      "id": 133440,
+      "logo_path": "/affIuBGXZHwRdnk893aMhEeavAQ.png",
+      "name": "Open Mind Production",
+      "origin_country": "PL"
+    },
+    {
+      "id": 46346,
+      "logo_path": "/pcBTGWDtsjOSTIczHTfThttHe9P.png",
+      "name": "Next Film",
+      "origin_country": "PL"
+    },
+    {
+      "id": 21303,
+      "logo_path": "/iRswDaMLcipfyG8qSk4iLLjRQIq.png",
+      "name": "Polsat",
+      "origin_country": "PL"
+    },
+    {
+      "id": 180267,
+      "logo_path": "/oOaeKYgVCu8jOtRyXvK9BfexJ9z.png",
+      "name": "Moderator Inwestycje",
+      "origin_country": "PL"
+    },
+    {
+      "id": 239764,
+      "logo_path": null,
+      "name": "Feniks Projekt",
+      "origin_country": "PL"
+    },
+    {
+      "id": 239765,
+      "logo_path": null,
+      "name": "Oak Hotels",
+      "origin_country": "PL"
+    },
+    {
+      "id": 105266,
+      "logo_path": "/ev8L4iYQDUY5uutlJGreeMT1i4P.png",
+      "name": "Polsat Box",
+      "origin_country": "PL"
+    },
+    {
+      "id": 239766,
+      "logo_path": null,
+      "name": "MBC Trans",
+      "origin_country": "PL"
+    },
+    {
+      "id": 128001,
+      "logo_path": "/uPN1vSKauoghlu8l70DqY61xGvz.png",
+      "name": "Plus",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2019-12-25",
+  "revenue": 5975729,
+  "runtime": 140,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "How I Became a Gangster",
+  "video": false,
+  "vote_average": 7.013,
+  "vote_count": 116
+}

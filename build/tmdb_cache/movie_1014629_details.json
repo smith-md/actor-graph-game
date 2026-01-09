@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/v4A4YA1LgRtPTi79EoXTtxQ4ZEK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1014629,
+  "imdb_id": "tt14992524",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Fearway",
+  "overview": "A young couple travelling down the freeway seem to be unable to get off the road after being hunted by someone intent on keeping them on the road.",
+  "popularity": 3.6724,
+  "poster_path": "/g0EOgZCk23b3n4uWGIVh9bh5U3q.jpg",
+  "production_companies": [
+    {
+      "id": 35599,
+      "logo_path": null,
+      "name": "Cupsogue Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 171375,
+      "logo_path": "/5PDEw5wlu6wOI1PHzl7QWVVKCUb.png",
+      "name": "Dystopian Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 273825,
+      "logo_path": null,
+      "name": "FilmCore",
+      "origin_country": ""
+    },
+    {
+      "id": 238066,
+      "logo_path": "/8yksgTuBZE2VXhXK1RT40Vg5LDY.png",
+      "name": "Finch Fortress Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 273826,
+      "logo_path": null,
+      "name": "Nine10 Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 26251,
+      "logo_path": null,
+      "name": "The Group Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-02-07",
+  "revenue": 0,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There's a good reason it's the road less travelled.",
+  "title": "The Fearway",
+  "video": false,
+  "vote_average": 4.561,
+  "vote_count": 33
+}

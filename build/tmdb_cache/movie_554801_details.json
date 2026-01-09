@@ -1,0 +1,246 @@
+{
+  "adult": false,
+  "backdrop_path": "/2QZfsOVvT8bjgyuOgzhrNj7JyDN.jpg",
+  "belongs_to_collection": {
+    "id": 657351,
+    "name": "The Confidence Man JP",
+    "poster_path": "/o9HjegKfZaKkUJ6QOrPB9RXyPyF.jpg",
+    "backdrop_path": "/8yeaoqgfxNSKeZLcQSOl0919H4X.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 554801,
+  "imdb_id": "tt9552258",
+  "origin_country": [
+    "JP",
+    "HK"
+  ],
+  "original_language": "ja",
+  "original_title": "コンフィデンスマンJP ロマンス編",
+  "overview": "In Hong Kong, Dako, Boku-chan and Richard take a huge amount of money from people who are greedy.",
+  "popularity": 3.2889,
+  "poster_path": "/2nKsVaIODBXYA26mhynZ9KvEL3R.jpg",
+  "production_companies": [
+    {
+      "id": 3341,
+      "logo_path": "/dTG5dXE1kU2mpmL9BNnraffckLU.png",
+      "name": "Fuji Television Network",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 172402,
+      "logo_path": "/5q1OO6VPOOVdxVmHqNw0gBVyFcM.png",
+      "name": "FILM",
+      "origin_country": "JP"
+    },
+    {
+      "id": 8384,
+      "logo_path": "/vkOmMDoyA8Jj8gDJOyP6CjD06Kj.png",
+      "name": "Hokkaido Cultural Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 256950,
+      "logo_path": "/20HAUojTA26vnWJ8oTYTfAsSU1v.png",
+      "name": "Iwate Menkoi Television",
+      "origin_country": "JP"
+    },
+    {
+      "id": 135680,
+      "logo_path": "/zU7JbY0k9I5nF6LEaHVL2IZERV.png",
+      "name": "Sendai Television",
+      "origin_country": "JP"
+    },
+    {
+      "id": 216022,
+      "logo_path": "/hNbCO6N6F4o09DCGAoz7g0G2E9F.png",
+      "name": "Akita Television",
+      "origin_country": "JP"
+    },
+    {
+      "id": 257270,
+      "logo_path": "/lRkTj6Sz2YemMN3DWQ3uewq3NGw.png",
+      "name": "Sakuranbo Television Broadcasting Corporation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 256957,
+      "logo_path": "/1YQFkvU0ngLVHiJvI8ydtFf6bji.png",
+      "name": "Fukushima Television Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 210801,
+      "logo_path": "/fjenNun3vCLtnHHsTpAgVYkubMl.png",
+      "name": "Niigata Sogo Television",
+      "origin_country": "JP"
+    },
+    {
+      "id": 111400,
+      "logo_path": "/jepB1AQxLUKjs9ManubfTUETE6B.png",
+      "name": "Nagano Broadcasting System",
+      "origin_country": "JP"
+    },
+    {
+      "id": 256955,
+      "logo_path": "/g2RAvblSZWcNxI4dD4u9rPfCauc.png",
+      "name": "Shizuoka Telecasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 271657,
+      "logo_path": "/cRh0LumtZvBibbVOyB3F69MemaN.png",
+      "name": "Toyama Television",
+      "origin_country": "JP"
+    },
+    {
+      "id": 256949,
+      "logo_path": "/he4yt9JBQQSi3F8a6YSrsTQYNvP.png",
+      "name": "Ishikawa Television Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 129534,
+      "logo_path": "/mb8FmPnl6fr9333PvVd1rC9f4h7.png",
+      "name": "Fukui Television Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 112322,
+      "logo_path": "/zRIirBccCjxhtgDtLPJyvoXc5b0.png",
+      "name": "Tokai Television Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 7549,
+      "logo_path": "/bXc1vp0lER6PDHtsVe12pSPwNkv.png",
+      "name": "Kansai Television",
+      "origin_country": "JP"
+    },
+    {
+      "id": 227745,
+      "logo_path": "/g7oDDXGmva5FSLgmkIadeeuDnrw.png",
+      "name": "San-in Chuo Television Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 230186,
+      "logo_path": "/nTjewOVL2tJ05yszs1TkclAr55L.png",
+      "name": "Okayama Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 210199,
+      "logo_path": "/yEXKHunpx1r8N3QSpXBWoLo7Irz.png",
+      "name": "Television Shin-Hiroshima System",
+      "origin_country": "JP"
+    },
+    {
+      "id": 111399,
+      "logo_path": "/or1QRrZ05cC9c2IareIMxhA0oLk.png",
+      "name": "Ehime Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 271658,
+      "logo_path": "/rqwhg5baZjvlTx6K0qrrlSVPH34.png",
+      "name": "Kochi Sun Sun Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 73265,
+      "logo_path": "/thh0SqE1oh7oOH08ISphk6cRghq.png",
+      "name": "Television Nishinippon Corporation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 256953,
+      "logo_path": "/fo43SlMcaXaGtNI8XwizcFAssID.png",
+      "name": "Saga Television Station",
+      "origin_country": "JP"
+    },
+    {
+      "id": 150349,
+      "logo_path": "/heN61U2vwH9x0Nn0c0tw3Iwkd5P.png",
+      "name": "Television Nagasaki",
+      "origin_country": "JP"
+    },
+    {
+      "id": 141954,
+      "logo_path": "/n1FLFPquZKFQcvhvA17AygdTOXe.png",
+      "name": "Kumamoto Kenmin Televisions",
+      "origin_country": "JP"
+    },
+    {
+      "id": 271659,
+      "logo_path": "/9dD3buakf1nS6XQVBwEtm50izs4.png",
+      "name": "Television Oita System",
+      "origin_country": "JP"
+    },
+    {
+      "id": 271661,
+      "logo_path": "/aF0IqmBNwbVlzzGB4iytFtiyxI2.png",
+      "name": "Miyazaki Telecasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 256951,
+      "logo_path": "/ujL1zgs40tJMxNfc3p0QFHMSc1P.png",
+      "name": "Kagoshima Television Station",
+      "origin_country": "JP"
+    },
+    {
+      "id": 271660,
+      "logo_path": "/gRUUO3lBYddcSqQPfFruXVDAlv2.png",
+      "name": "Okinawa Television Broadcasting",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2019-05-17",
+  "revenue": 0,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Confidence Man JP - The Movie -",
+  "video": false,
+  "vote_average": 7.393,
+  "vote_count": 28
+}

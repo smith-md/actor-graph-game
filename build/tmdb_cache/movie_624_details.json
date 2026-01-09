@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/qvTmYyYsv71qTq5syAq24k1kGk.jpg",
+  "belongs_to_collection": {
+    "id": 956687,
+    "name": "Easy Rider Collection",
+    "poster_path": "/rNvC9e2eo9LKpyFXNffQNdOKKi4.jpg",
+    "backdrop_path": "/tXbNQX1T14ZRGFI9Jh7TwbvmC9e.jpg"
+  },
+  "budget": 400000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 624,
+  "imdb_id": "tt0064276",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Easy Rider",
+  "overview": "Wyatt and Billy, two Harley-riding hippies, complete a drug deal in Southern California and decide to travel cross-country in search of spiritual truth.",
+  "popularity": 6.4587,
+  "poster_path": "/mmGEB6ly9OG8SYVfvAoa6QqHNvN.jpg",
+  "production_companies": [
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 14595,
+      "logo_path": null,
+      "name": "Pando Company Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 15266,
+      "logo_path": null,
+      "name": "BBS Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1969-06-26",
+  "revenue": 60000000,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A man went looking for America and couldn’t find it anywhere...",
+  "title": "Easy Rider",
+  "video": false,
+  "vote_average": 7.056,
+  "vote_count": 2091
+}

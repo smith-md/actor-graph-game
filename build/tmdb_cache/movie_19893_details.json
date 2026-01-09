@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/mwPMzbwuwqXKb9Lfp7oQMZyoVFz.jpg",
+  "belongs_to_collection": {
+    "id": 1205405,
+    "name": "Flipper Collection",
+    "poster_path": "/c0jOCdeNB0v5H3JDKmDzbvBKRAN.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 19893,
+  "imdb_id": "tt0057063",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Flipper",
+  "overview": "Sandy is distraught when, having saved Flipper by pulling out a spear, his father insists the dolphin be released. A grateful Flipper, however, returns the favor when Sandy is threatened by sharks.",
+  "popularity": 3.5313,
+  "poster_path": "/x8tmePZ3082Na0QTqOgB5zZVb2S.jpg",
+  "production_companies": [
+    {
+      "id": 5328,
+      "logo_path": null,
+      "name": "Ivan Tors Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1963-08-14",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The wonderful story of a boy and his amazing underwater friend!",
+  "title": "Flipper",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 56
+}

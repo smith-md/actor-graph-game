@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/rFoRdUFIHQhWRX9ZXK79uilOSWO.jpg",
+  "belongs_to_collection": null,
+  "budget": 26000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 316002,
+  "imdb_id": "tt1137470",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Accidental Love",
+  "overview": "A small town waitress gets a nail accidentally lodged in her head causing unpredictable behavior that leads her to Washington, DC.  Sparks fly when she meets a clueless young senator who takes up her cause - but what happens when love interferes with what you stand for?",
+  "popularity": 4.8533,
+  "poster_path": "/znPsDmQVKW0BuBnaErIAPo49X3i.jpg",
+  "production_companies": [
+    {
+      "id": 17888,
+      "logo_path": null,
+      "name": "Kjam Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 810,
+      "logo_path": null,
+      "name": "Persistent Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 24972,
+      "logo_path": null,
+      "name": "Vocal Yokels",
+      "origin_country": ""
+    },
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-02-10",
+  "revenue": 24487,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sometimes you nail love. Sometimes it nails you.",
+  "title": "Accidental Love",
+  "video": false,
+  "vote_average": 4.3,
+  "vote_count": 351
+}

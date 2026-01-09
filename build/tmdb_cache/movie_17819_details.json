@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/43ulP7yoTO5xf9Lx9eZ8QpneYcH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 17819,
+  "imdb_id": "tt0097500",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Her Alibi",
+  "overview": "A writer of BAD detective novels is in full writers' block. He pretends to be the alibi of a beautiful woman who was arrested for murder at first thinking her innocent, but as she shows more and more interesting abilities (such as knife throwing) he begins to doubt his first assessment.",
+  "popularity": 3.2471,
+  "poster_path": "/zPewmxWwDOMucFnaXXH26tfAv7m.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-02-03",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Falling for a beautiful woman can be murder!",
+  "title": "Her Alibi",
+  "video": false,
+  "vote_average": 5.378,
+  "vote_count": 139
+}

@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/f9KrrJT81aRUe3pTh9AnmHOzhb9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1000173,
+  "imdb_id": "tt18939056",
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "en",
+  "original_title": "Nightman",
+  "overview": "A young pregnant woman discovers that her perfect boyfriend may be a dangerous sleepwalker when she finds out of strange disappearances and murders taking place in the region.",
+  "popularity": 2.2146,
+  "poster_path": "/wpaos88xaADUCA0KavKW7PhJQ3R.jpg",
+  "production_companies": [
+    {
+      "id": 178829,
+      "logo_path": null,
+      "name": "Black Swan Tales",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2023-09-07",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Nightman",
+  "video": false,
+  "vote_average": 5.964,
+  "vote_count": 42
+}

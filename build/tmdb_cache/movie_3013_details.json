@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/ewS7KWgEFj8TQ6SeWyJaV2Zlvlh.jpg",
+  "belongs_to_collection": null,
+  "budget": 12000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 3013,
+  "imdb_id": "tt0078879",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bloodline",
+  "overview": "A pampered heiress inherits her father's pharmaceutical empire when he dies in a suspicious accident, and soon finds herself surrounded by ruthless board members and grasping family members who will seemingly stop at nothing to profit.",
+  "popularity": 3.4194,
+  "poster_path": "/bMiBusE5lhrZN0z4DXHlg3LXkSf.jpg",
+  "production_companies": [
+    {
+      "id": 50666,
+      "logo_path": null,
+      "name": "NF Geria III-Produktion München",
+      "origin_country": ""
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1704,
+      "logo_path": "/sb3PuMTgJgpPUY7x634etBAhodu.png",
+      "name": "Bavaria Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1979-06-29",
+  "revenue": 8200000,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The line between love and death is the bloodline.",
+  "title": "Bloodline",
+  "video": false,
+  "vote_average": 4.9,
+  "vote_count": 45
+}

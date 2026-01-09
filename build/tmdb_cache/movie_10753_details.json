@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/f8ag2cxqaQGqvqMvThtu73pPnEM.jpg",
+  "belongs_to_collection": {
+    "id": 269098,
+    "name": "Police Story Collection",
+    "poster_path": "/xxvUoPvzDYqoZlABDSNgbV0kTti.jpg",
+    "backdrop_path": "/5atzWKFCCwn4TMVkO1kLVI7rDkX.jpg"
+  },
+  "budget": 750000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 10753,
+  "imdb_id": "tt0095403",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "警察故事續集",
+  "overview": "The Hong Kong super-cop must stop a group of blackmailing bombers at the same time that the villains of the first Police Story are out for revenge.",
+  "popularity": 3.728,
+  "poster_path": "/kjq1FXtHh9i2sIuM0JaoYf43FDU.jpg",
+  "production_companies": [
+    {
+      "id": 3054,
+      "logo_path": null,
+      "name": "Golden Way Films Ltd.",
+      "origin_country": "HK"
+    },
+    {
+      "id": 2734,
+      "logo_path": null,
+      "name": "Paragon Films",
+      "origin_country": "HK"
+    },
+    {
+      "id": 2521,
+      "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+      "name": "Orange Sky Golden Harvest",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1988-08-13",
+  "revenue": 11477301,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Jackie Chan escalates his one-man war on crime.",
+  "title": "Police Story 2",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 598
+}

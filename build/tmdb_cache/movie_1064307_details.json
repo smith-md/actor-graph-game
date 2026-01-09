@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/5OEcsHKZy9TLFz9qXLp5NJN9K8e.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.qvisten.no/work/spermageddon/",
+  "id": 1064307,
+  "imdb_id": "tt14828040",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Spermageddon",
+  "overview": "Two narrative threads: one is an emerging love story between awkward teens Jens and Lisa, who are having sex for the first time; the other, an eventful quest of Simon the Semen and his friends to reach the golden goal, the Egg.",
+  "popularity": 10.1184,
+  "poster_path": "/n7SFxle8CVzMXzfV8GNCXqdg78m.jpg",
+  "production_companies": [
+    {
+      "id": 98438,
+      "logo_path": "/cjkuW0QeX3hcUUBkZFFCiYmZvcr.png",
+      "name": "74 Entertainment",
+      "origin_country": "NO"
+    },
+    {
+      "id": 32314,
+      "logo_path": "/eQ334MC49QQuy6lZnAO2RcxNREX.png",
+      "name": "Qvisten Animation",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2025-02-21",
+  "revenue": 1333332,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Spermageddon",
+  "video": false,
+  "vote_average": 6.495,
+  "vote_count": 107
+}

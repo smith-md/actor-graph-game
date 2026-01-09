@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/c8r7AYVoX2RCp3WtguXisbFMMAU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 800748,
+  "imdb_id": "tt10083174",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Stairs",
+  "overview": "In 1997, 11-year-old Jesse finds a mysterious staircase in the woods and disappears - - 20 years later, a group of hikers sets off into the very same woods. Unfortunately for them, they come face-to-face with the very same set of stairs...",
+  "popularity": 3.596,
+  "poster_path": "/hsOG8D1e9aeE6a2qkqmEF6zzq7J.jpg",
+  "production_companies": [
+    {
+      "id": 111017,
+      "logo_path": null,
+      "name": "Wandering Dragon Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-02-26",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Stairs",
+  "video": false,
+  "vote_average": 3.976,
+  "vote_count": 21
+}

@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/lVSj3d2dvTaK3qO9K2aD1W4L7R0.jpg",
+  "belongs_to_collection": null,
+  "budget": 51000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.foxmovies.com/movies/deck-the-halls",
+  "id": 9969,
+  "imdb_id": "tt0790604",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Deck the Halls",
+  "overview": "Determined to unseat Steve Finch's reign as the town's holiday season king, Buddy Hall plasters his house with so many decorative lights that it'll be visible from space! When their wives bond, and their kids follow suit, the two men only escalate their rivalry - and their decorating.",
+  "popularity": 3.1377,
+  "poster_path": "/smJDzhYGhl6j9OrucsB7IkMNy82.jpg",
+  "production_companies": [
+    {
+      "id": 10104,
+      "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+      "name": "New Regency Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 18479,
+      "logo_path": null,
+      "name": "Corduroy Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-11-22",
+  "revenue": 47231070,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There glows the neighborhood.",
+  "title": "Deck the Halls",
+  "video": false,
+  "vote_average": 5.594,
+  "vote_count": 780
+}

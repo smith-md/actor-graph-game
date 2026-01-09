@@ -1,0 +1,203 @@
+{
+  "adult": false,
+  "backdrop_path": "/mgpxgM0Cimklw3tqOfTgZfFJB2c.jpg",
+  "belongs_to_collection": null,
+  "budget": 250000,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 41508,
+  "imdb_id": "tt0367082",
+  "origin_country": [
+    "FR",
+    "IL",
+    "DE",
+    "US",
+    "HU",
+    "GB"
+  ],
+  "original_language": "hu",
+  "original_title": "Sorstalanság",
+  "overview": "A Hungarian youth comes of age at Buchenwald during World War II. György Köves is 14, the son of a merchant who's sent to a forced labor camp. After his father's departure, György gets a job at a brickyard; his bus is stopped and its Jewish occupants sent to camps. There, György find camaraderie, suffering, cruelty, illness, and death. He hears advice on preserving one's dignity and self-esteem. He discovers hatred. If he does survive and returns to Budapest, what will he find? What is natural; what is it to be a Jew? Sepia, black and white, and color alternate to shade the mood.",
+  "popularity": 3.0185,
+  "poster_path": "/eLR8T7uNFNYYwne7Z1fAjQi8Nzy.jpg",
+  "production_companies": [
+    {
+      "id": 239929,
+      "logo_path": null,
+      "name": "Hungarian Motion Picture Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 239930,
+      "logo_path": null,
+      "name": "Magic Media",
+      "origin_country": "HU"
+    },
+    {
+      "id": 2255,
+      "logo_path": "/o8meyz6tKQgWpYevIuMmSlOJp9K.png",
+      "name": "EuroArts",
+      "origin_country": "DE"
+    },
+    {
+      "id": 114445,
+      "logo_path": null,
+      "name": "Renegade Films",
+      "origin_country": "AU"
+    },
+    {
+      "id": 3716,
+      "logo_path": null,
+      "name": "Hungarian Television",
+      "origin_country": ""
+    },
+    {
+      "id": 588,
+      "logo_path": "/6mWg9rdVSj8gwgMiOmZH4iBCcMm.png",
+      "name": "MDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 5131,
+      "logo_path": null,
+      "name": "Cinema Soleil",
+      "origin_country": ""
+    },
+    {
+      "id": 850,
+      "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
+      "name": "Eurimages",
+      "origin_country": "FR"
+    },
+    {
+      "id": 239931,
+      "logo_path": null,
+      "name": "Hungarian Historic Foundation",
+      "origin_country": ""
+    },
+    {
+      "id": 290,
+      "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
+      "name": "Ingenious Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 151490,
+      "logo_path": "/6yAekMrcUfDkf6zA4huWxOVFeMW.png",
+      "name": "The Israel Film Council",
+      "origin_country": "IL"
+    },
+    {
+      "id": 8707,
+      "logo_path": "/2K2EDaP75Qz6Pr64SEsU6rbSDRC.png",
+      "name": "MFG Filmförderung",
+      "origin_country": "DE"
+    },
+    {
+      "id": 33248,
+      "logo_path": null,
+      "name": "The Ministry of Education, Culture and Sports",
+      "origin_country": ""
+    },
+    {
+      "id": 18588,
+      "logo_path": null,
+      "name": "Motion Picture Public Foundation of Hungary",
+      "origin_country": "HU"
+    },
+    {
+      "id": 24477,
+      "logo_path": null,
+      "name": "Rabinovich Film Fund Cinema Project",
+      "origin_country": "IL"
+    },
+    {
+      "id": 155859,
+      "logo_path": null,
+      "name": "Recanati Foundation",
+      "origin_country": ""
+    },
+    {
+      "id": 72891,
+      "logo_path": null,
+      "name": "Ministerstwo Kultury i Dziedzictwa Narodowego",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2005-02-10",
+  "revenue": 2512009,
+  "runtime": 140,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You can close your eyes. You can turn away. But you will never forget.",
+  "title": "Fateless",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 88
+}

@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/bJolDsqM8vnlusFJdnCi9rg1nX7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 42044,
+  "imdb_id": "tt0090015",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Shoah",
+  "overview": "Director Claude Lanzmann spent 11 years on this sprawling documentary about the Holocaust, conducting his own interviews and refusing to use a single frame of archival footage. Dividing Holocaust witnesses into three categories – survivors, bystanders, and perpetrators – Lanzmann presents testimonies from survivors of the Chelmno concentration camp, an Auschwitz escapee, and witnesses of the Warsaw Ghetto Uprising, as well as a chilling report of gas chambers from an SS officer at Treblinka.",
+  "popularity": 3.1908,
+  "poster_path": "/yvwF7dfSCybFcBOklUzKpE46bHM.jpg",
+  "production_companies": [
+    {
+      "id": 75643,
+      "logo_path": null,
+      "name": "Historia",
+      "origin_country": ""
+    },
+    {
+      "id": 75642,
+      "logo_path": null,
+      "name": "Les Films Aleph",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10901,
+      "logo_path": "/8dNHWgUlJNz9HHLtcdsz04jRtyi.png",
+      "name": "Ministère de la culture",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1985-04-21",
+  "revenue": 20175,
+  "runtime": 566,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Shoah",
+  "video": false,
+  "vote_average": 8.213,
+  "vote_count": 214
+}

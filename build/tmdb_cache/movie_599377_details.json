@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/seQOxcSm29t7JRQ3TEQr1vmAtM6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 599377,
+  "imdb_id": "tt10272534",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Lux Æterna",
+  "overview": "Two actresses, Béatrice Dalle and Charlotte Gainsbourg, are on a film set telling stories about witches.",
+  "popularity": 3.319,
+  "poster_path": "/5oStzv8gUrAAevtIiv0icGcvAbq.jpg",
+  "production_companies": [
+    {
+      "id": 80698,
+      "logo_path": "/w4qRoVIvXPdrOpNMr6dQ8U2CR3.png",
+      "name": "Vixens",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1157,
+      "logo_path": "/2MXuq4DGo1GhjavHHxPlsWrtyD.png",
+      "name": "Les Cinémas de la Zone",
+      "origin_country": "FR"
+    },
+    {
+      "id": 139680,
+      "logo_path": "/kfmKLkXqqrScA5l7aYcROQSqeTz.png",
+      "name": "Saint Laurent",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2020-09-23",
+  "revenue": 323829,
+  "runtime": 51,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lux Æterna",
+  "video": false,
+  "vote_average": 6.07,
+  "vote_count": 265
+}

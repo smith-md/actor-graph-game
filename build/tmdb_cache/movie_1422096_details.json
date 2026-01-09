@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 70000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.goodboyfilm.com",
+  "id": 1422096,
+  "imdb_id": "tt35521922",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Good Boy",
+  "overview": "A loyal dog moves to a rural family home with his owner Todd, only to discover supernatural forces lurking in the shadows. As dark entities threaten his human companion, the brave pup must fight to protect the one he loves most.",
+  "popularity": 34.8639,
+  "poster_path": "/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",
+  "production_companies": [
+    {
+      "id": 256132,
+      "logo_path": null,
+      "name": "What’s Wrong with Your Dog",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-01",
+  "revenue": 8781040,
+  "runtime": 73,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Trust his instincts.",
+  "title": "Good Boy",
+  "video": false,
+  "vote_average": 6.722,
+  "vote_count": 443
+}

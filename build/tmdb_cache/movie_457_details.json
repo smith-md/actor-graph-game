@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/rKs8y5WlXcYX5GCbDkXcXybGteZ.jpg",
+  "belongs_to_collection": {
+    "id": 456,
+    "name": "Sissi Collection",
+    "poster_path": "/rTMRGUPwmhiBXsF38hwYhc1sInK.jpg",
+    "backdrop_path": "/zJU3dyafiEPdH29h7NKJGj7u7cu.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 457,
+  "imdb_id": "tt0048624",
+  "origin_country": [
+    "AT"
+  ],
+  "original_language": "de",
+  "original_title": "Sissi",
+  "overview": "The young Bavarian princess Elisabeth, who all call Sissi, goes with her mother and older sister Néné to Austria where Néné will be wed to an emperor named Franz Joseph, Yet unexpectedly Franz runs into Sissi while out fishing and they fall in love.",
+  "popularity": 7.9631,
+  "poster_path": "/iGy9j4AdhkiOYRYeTSpq7g3zayL.jpg",
+  "production_companies": [
+    {
+      "id": 2122,
+      "logo_path": null,
+      "name": "Erma-Film",
+      "origin_country": "AT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    }
+  ],
+  "release_date": "1955-12-22",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The magical love story of the young Empress Elisabeth!",
+  "title": "Sissi",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 506
+}

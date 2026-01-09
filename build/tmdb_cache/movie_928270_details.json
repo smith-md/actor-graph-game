@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/wdcSkdKRwiABA5SdNth1uAnErzw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 928270,
+  "imdb_id": "tt17291716",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Heatwave",
+  "overview": "A woman's life takes an unexpected turn when she falls for her boss's wife. She must soon defend herself as she becomes entangled in a web of malice.",
+  "popularity": 4.567,
+  "poster_path": "/rtbZAMcriHlHmB24GhBRlLa29dA.jpg",
+  "production_companies": [
+    {
+      "id": 111905,
+      "logo_path": "/vy9oeQcc7yTd5d9Nmeif23mdFL4.png",
+      "name": "All Canadian Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2090,
+      "logo_path": "/jYlUttNqcN5u1pzMQrh5AEhZ27t.png",
+      "name": "Motion Picture Corporation of America",
+      "origin_country": "US"
+    },
+    {
+      "id": 64216,
+      "logo_path": "/Eg9VjIFt743LPYaK8Ag0fuhWGo.png",
+      "name": "Brad Krevoy Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 6345,
+      "logo_path": "/pctomojbRLZNdYB0muFoZiaYdPI.png",
+      "name": "Lighthouse Pictures",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-01-17",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Heatwave",
+  "video": false,
+  "vote_average": 6.26,
+  "vote_count": 156
+}

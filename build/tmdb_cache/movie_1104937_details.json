@@ -1,0 +1,169 @@
+{
+  "adult": false,
+  "backdrop_path": "/fXt669559jwHXZkx3ZEhDbF90Wz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.musicboxfilms.com/film/kill-the-jockey",
+  "id": 1104937,
+  "imdb_id": "tt28231777",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "El jockey",
+  "overview": "Remo's self-destructive behavior overshadows his talent. Abril, an upcoming jockey, is pregnant with Remo's baby and has to decide between the child or continuing to race. They both race for Sirena, a businessman who saved Remo's life in the past but now is determined to find him, dead or alive.",
+  "popularity": 4.0206,
+  "poster_path": "/2CGm69ebTBnbqFZIT8cWSuRIb8S.jpg",
+  "production_companies": [
+    {
+      "id": 37159,
+      "logo_path": "/aZxA9srDC56wBl7ppYEAB2ZPSP2.png",
+      "name": "Rei Pictures",
+      "origin_country": "AR"
+    },
+    {
+      "id": 234673,
+      "logo_path": null,
+      "name": "El Despacho",
+      "origin_country": "AR"
+    },
+    {
+      "id": 219469,
+      "logo_path": "/16Z9JyKlyfQTdKxfGihK00oCLpQ.png",
+      "name": "Infinity Hill",
+      "origin_country": "AR"
+    },
+    {
+      "id": 175576,
+      "logo_path": "/97cuLmTVxOKMnYxcoqyJpBWgOP3.png",
+      "name": "Exile",
+      "origin_country": "US"
+    },
+    {
+      "id": 19771,
+      "logo_path": "/anRmhRCSY9fXOIygcjjVHL4bWL1.png",
+      "name": "Piano",
+      "origin_country": "MX"
+    },
+    {
+      "id": 94730,
+      "logo_path": "/1fwoMRV4eUpdosHjiveHV91LaXJ.png",
+      "name": "El Estudio",
+      "origin_country": "ES"
+    },
+    {
+      "id": 88231,
+      "logo_path": "/hVx90I5BEktosw4N9AneIFwmjeg.png",
+      "name": "Snowglobe",
+      "origin_country": "DK"
+    },
+    {
+      "id": 234675,
+      "logo_path": null,
+      "name": "Jacinto Films",
+      "origin_country": "AR"
+    },
+    {
+      "id": 169026,
+      "logo_path": "/vU6joKYgspg3dhoW5WgTeldSiFA.png",
+      "name": "Barraca Producciones",
+      "origin_country": "MX"
+    },
+    {
+      "id": 210842,
+      "logo_path": "/osAelnShU5bBUCd2Od0L6ExSuv4.png",
+      "name": "ViX",
+      "origin_country": "US"
+    },
+    {
+      "id": 197411,
+      "logo_path": "/l42cW0qmGtF0zunqDqgTshUKAH2.png",
+      "name": "DIM Films",
+      "origin_country": "AR"
+    },
+    {
+      "id": 248504,
+      "logo_path": null,
+      "name": "Fundación Ernesto Sábato",
+      "origin_country": "AR"
+    },
+    {
+      "id": 34259,
+      "logo_path": "/qUcQmkCRJA3jjxqZBlJybWRmTsI.png",
+      "name": "Pampa Films",
+      "origin_country": "AR"
+    },
+    {
+      "id": 58393,
+      "logo_path": "/k6FTLja7xIF39fTNMXr2KhxbNot.png",
+      "name": "Gloriamundi Producciones",
+      "origin_country": "ES"
+    },
+    {
+      "id": 3345,
+      "logo_path": "/9osXMsxl3h772MSO4CIFycy4MfV.png",
+      "name": "Warner Music Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 299,
+      "logo_path": "/elssmtHcogGtF8Gxokh9phZvLKi.png",
+      "name": "Instituto Mexicano de Cinematografía",
+      "origin_country": "MX"
+    },
+    {
+      "id": 89127,
+      "logo_path": "/bCjod1AL15DQgCQu3TFe75nO1oW.png",
+      "name": "Eficine",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2024-09-26",
+  "revenue": 122870,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kill the Jockey",
+  "video": false,
+  "vote_average": 6.802,
+  "vote_count": 58
+}

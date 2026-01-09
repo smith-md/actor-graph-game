@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/2UU3LaevLx93IZwGgUeVEHVHfBQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1193120,
+  "imdb_id": "tt31501832",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Cadeaux",
+  "overview": "Presents: most of us look forward to them. Others dread them, or even forget about them. With two days to go before Christmas, the Stain family is full of ideas, but they are far from all good.",
+  "popularity": 4.1932,
+  "poster_path": "/5Wqh1JrZmXkqZzUzdivoEdd3yxU.jpg",
+  "production_companies": [
+    {
+      "id": 23577,
+      "logo_path": "/2e69chGou2s3oizXcL36hnT2W1j.png",
+      "name": "Karé Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-12-25",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What if the worst gift was yet to come?",
+  "title": "Present Perfect",
+  "video": false,
+  "vote_average": 4.933,
+  "vote_count": 45
+}

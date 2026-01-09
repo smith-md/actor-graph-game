@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": "/zrIE7qg61W2KEwDRCW83VtkhSeo.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 713364,
+  "imdb_id": "tt23060698",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Clown in a Cornfield",
+  "overview": "Quinn and her father have just moved to the quiet town of Kettle Springs hoping for a fresh start. Instead, she discovers a fractured community that has fallen on hard times after the treasured Baypen Corn Syrup Factory burned down. As the locals bicker amongst themselves and tensions boil over, a sinister, grinning figure emerges from the cornfields to cleanse the town of its burdens, one bloody victim at a time.",
+  "popularity": 6.7495,
+  "poster_path": "/noTII1kFayOMSfIVpvfBYcEsZN2.jpg",
+  "production_companies": [
+    {
+      "id": 12292,
+      "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+      "name": "Temple Hill Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 37504,
+      "logo_path": "/k4A2f5FeH96xamI0ZuXlEQAerog.png",
+      "name": "Rhea Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 20277,
+      "logo_path": "/aomeUwZLIBjGXHfuZq7HTVk7UNb.png",
+      "name": "Protagonist Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 254121,
+      "logo_path": null,
+      "name": "Thundersnow Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 14358,
+      "logo_path": "/qPa2RJVL8vwk9AJrRMsLYt8mLp7.png",
+      "name": "1821 Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 147591,
+      "logo_path": "/uMVoIH3rug7F3BsU1FGVJos4yrR.png",
+      "name": "Hercules Film Fund",
+      "origin_country": "LU"
+    },
+    {
+      "id": 123722,
+      "logo_path": null,
+      "name": "RLJE Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 142877,
+      "logo_path": "/c0Qhy9uvdXfvAZQ9e8GnT5Nb75m.png",
+      "name": "Shudder",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    }
+  ],
+  "release_date": "2025-05-08",
+  "revenue": 13260361,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Are you a friend of Frendo?",
+  "title": "Clown in a Cornfield",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 435
+}

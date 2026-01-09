@@ -1,0 +1,48 @@
+{
+  "adult": false,
+  "backdrop_path": "/zH1X4tXGzw8BxzGmLbWnGufBNEp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://funnyordie.com/studio/film/isteve/",
+  "id": 186606,
+  "imdb_id": "tt2782834",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "iSteve",
+  "overview": "The story of the modern technology guru Steve Jobs from Apple's humble start to a global phenomenon. Follow behind the scenes and discover how Jobs and co-founder Steve Wozniak happened to be on top of each other.",
+  "popularity": 2.9044,
+  "poster_path": "/5DOCcRRWyljKq4Ysgs6PEDLRaIM.jpg",
+  "production_companies": [
+    {
+      "id": 21213,
+      "logo_path": "/wV3mBqWgfgdRtFEkh6hHpHW9Cb1.png",
+      "name": "Funny or Die",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2013-04-14",
+  "revenue": 0,
+  "runtime": 79,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There are a lot of Steve Jobs biopics out there, but only one that came out first: this one.",
+  "title": "iSteve",
+  "video": false,
+  "vote_average": 4.711,
+  "vote_count": 38
+}

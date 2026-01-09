@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/6TtOZzchMybpJw4tKuO6sgP3FDM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.aczoom.com/nisha/cake/",
+  "id": 24123,
+  "imdb_id": "tt0413879",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cake",
+  "overview": "A travel writer improves her love life when she becomes an editor for her father's wedding magazine.",
+  "popularity": 3.4734,
+  "poster_path": "/oFsEI7Ou2GGdYaPrl1VbJnhfGdU.jpg",
+  "production_companies": [
+    {
+      "id": 55639,
+      "logo_path": null,
+      "name": "Cake Productions Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 2649,
+      "logo_path": "/LPxF80bpluDXB5SOEvupc7Om9.png",
+      "name": "New Real Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 11054,
+      "logo_path": "/ydEsA5xqHtIKNHXAgYqQJAQwJP5.png",
+      "name": "First Look International",
+      "origin_country": "US"
+    },
+    {
+      "id": 806,
+      "logo_path": "/kcNh09qqR2Pkw1JAzRW4CommrW4.png",
+      "name": "Téléfilm Canada",
+      "origin_country": "CA"
+    },
+    {
+      "id": 88009,
+      "logo_path": null,
+      "name": "Northwood Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 12567,
+      "logo_path": "/3DyEznBXXfh3cvp5MCJXWH4gzhi.png",
+      "name": "TVA Films",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2005-05-12",
+  "revenue": 285406,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Have your life and eat it too.",
+  "title": "Cake",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 125
+}

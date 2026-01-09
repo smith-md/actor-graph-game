@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/h4peDpoepEmErFwBeoIE4yZ1pvJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.max.com/movies/2ee628aa-f850-48ba-83ca-5783f2470813",
+  "id": 850920,
+  "imdb_id": "tt14041896",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Parenting",
+  "overview": "Boyfriends Josh and Rohan plan a weekend getaway to introduce their parents, only to discover that their rental is home to a 400-year-old poltergeist.",
+  "popularity": 2.8829,
+  "poster_path": "/5lMu14IMuHo0hKYCwCIogt7IioX.jpg",
+  "production_companies": [
+    {
+      "id": 103698,
+      "logo_path": "/qS01bSMe274ecTdrgyO3BBvzfKK.png",
+      "name": "Good Fear",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-12",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Meeting the parents... it's a necessary evil.",
+  "title": "The Parenting",
+  "video": false,
+  "vote_average": 6.061,
+  "vote_count": 139
+}

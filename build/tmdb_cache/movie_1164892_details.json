@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/wWyptiuZkQBtEWjhTBae8STM6EM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1164892,
+  "imdb_id": "tt26451068",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Escape",
+  "overview": "Ten sex trafficked young women are taken from an island resort by a violent criminal gang for shipping to an overseas client. A young nurse and feisty dancer hatch an escape-plan, finding themselves in the desert fighting for survival against ruthless traffickers.",
+  "popularity": 4.035,
+  "poster_path": "/75YBLsA38KAJfL4D4plgcmquAE1.jpg",
+  "production_companies": [
+    {
+      "id": 61814,
+      "logo_path": null,
+      "name": "Latitude Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-03-15",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fight back or die.",
+  "title": "Escape",
+  "video": false,
+  "vote_average": 4.019,
+  "vote_count": 26
+}

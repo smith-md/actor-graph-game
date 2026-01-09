@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/c3tOvnxFp2uUfLs6U8ew52N3FhO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0CZSD17CT",
+  "id": 1019411,
+  "imdb_id": "tt21469794",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Space Cadet",
+  "overview": "Tiffany \"Rex\" Simpson has always dreamed of going to space, and her \"doctored\" application lands her in NASA's ultra-competitive astronaut training program. In over her head, can this Florida girl rely on her quick wits, moxie and determination to get through training and into the cosmos before she blows her cover?",
+  "popularity": 4.4655,
+  "poster_path": "/7QUOIldN6ShKj1LdLhO26a8QXND.jpg",
+  "production_companies": [
+    {
+      "id": 118472,
+      "logo_path": "/vafYjvjZwK4JaV5Hcm9vSzw6f9G.png",
+      "name": "Stampede Ventures",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-07-04",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Houston has a new problem.",
+  "title": "Space Cadet",
+  "video": false,
+  "vote_average": 5.484,
+  "vote_count": 279
+}

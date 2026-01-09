@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/fepnF3W4VP3s8ui8nDtrlsFVYwO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1247002,
+  "imdb_id": "tt34509472",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "파과",
+  "overview": "Aging assassin Hornclaw has seen it all, but she never expected to mentor a reckless rookie like Bullfight. As their unlikely bond deepens, cracks form in the underworld they navigate together. When Hornclaw discovers someone wants her dead, she's thrust into a deadly game of deception. With enemies closing in and trust in short supply, survival means staying sharp—both blade and mind.",
+  "popularity": 112.6963,
+  "poster_path": "/wbmxnsv41vsg5UEaNDlf203dOWw.jpg",
+  "production_companies": [
+    {
+      "id": 96988,
+      "logo_path": "/akinMWSzcOArgVt7xJPdy7AOl1d.png",
+      "name": "Soo Film",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2025-04-30",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Now I see who you are.",
+  "title": "The Old Woman with the Knife",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 49
+}

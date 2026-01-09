@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/3nB9fYQycK4iWchvfbXhacD42XC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1084066,
+  "imdb_id": "tt26674818",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tatami",
+  "overview": "Iranian female judokas Leila and her coach Maryam, travel to the Judo World Championship, intent on bringing home Iran’s first gold medal. Midway through the Judo World Championships, they receive an ultimatum from the Islamic Republic ordering Leila to fake an injury and lose, or she will be branded a traitor of the state. With her own and her family’s freedom at stake, Leila is faced with an impossible choice: comply with the Iranian regime as her coach Maryam implores her to do, or fight on, for the gold.",
+  "popularity": 3.1063,
+  "poster_path": "/A9SUL6wPDGfjX6cCBal0SmUcT47.jpg",
+  "production_companies": [
+    {
+      "id": 116068,
+      "logo_path": "/m1Ne6EAi89W6oGSYUnY4KTZq0qd.png",
+      "name": "Keshet Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 135276,
+      "logo_path": null,
+      "name": "New Native Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 192939,
+      "logo_path": "/77ZFoDBk2MJI2ScYBTCqc3vCh0H.png",
+      "name": "White Lodge Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 20782,
+      "logo_path": "/tTfJjcJHmVPBbPv3q1ATtaX5mFf.png",
+      "name": "WestEnd Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-03-08",
+  "revenue": 1750678,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Persian",
+      "iso_639_1": "fa",
+      "name": "فارسی"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Gripping, in all senses of the term.",
+  "title": "Tatami",
+  "video": false,
+  "vote_average": 7.75,
+  "vote_count": 138
+}

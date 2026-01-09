@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/dAXSflkUKRfpzK74kRaovfK09Kx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81572011",
+  "id": 961268,
+  "imdb_id": "tt26350277",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "발레리나",
+  "overview": "Grieving the loss of a best friend she couldn't protect, an ex-bodyguard sets out to fulfill her dear friend's last wish: sweet revenge.",
+  "popularity": 4.8499,
+  "poster_path": "/oE7xtGDqZnr7tFHfwb8oM9iRW6H.jpg",
+  "production_companies": [
+    {
+      "id": 127541,
+      "logo_path": "/Aq35mXuZv7lhPm8a60YKRaB9Vek.png",
+      "name": "Climax Studios",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2023-10-06",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Merciless and ruthless, to hell.",
+  "title": "Ballerina",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 646
+}

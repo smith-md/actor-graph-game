@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/31K5cQkG7o6fQjLMOcOG7bi8OpN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "https://gooddeedentertainment.com/charlotte/",
+  "id": 844135,
+  "imdb_id": "tt5806814",
+  "origin_country": [],
+  "original_language": "fr",
+  "original_title": "Charlotte",
+  "overview": "The true story of Charlotte Salomon, a young German-Jewish painter who comes of age in Berlin on the eve of the Second World War. Fiercely imaginative and deeply gifted, she dreams of becoming an artist. Her first love applauds her talent, which emboldens her resolve. When anti-Semitic policies inspire violent mobs, she escapes to the safety of the South of France. There she begins to paint again, and finds new love. But her work is interrupted, this time by a family tragedy that reveals an even darker secret. Believing that only an extraordinary act will save her, she embarks on the monumental adventure of painting her life story.",
+  "popularity": 3.966,
+  "poster_path": "/goUoo1DiQen9TT6sBT6o4LW5cQs.jpg",
+  "production_companies": [
+    {
+      "id": 40044,
+      "logo_path": null,
+      "name": "January Films",
+      "origin_country": ""
+    },
+    {
+      "id": 8675,
+      "logo_path": "/nhGrnKdP6GFXLk6fbLARjQNSMET.png",
+      "name": "Walking The Dog",
+      "origin_country": "BE"
+    },
+    {
+      "id": 50488,
+      "logo_path": null,
+      "name": "Sons of Manual",
+      "origin_country": "CA"
+    },
+    {
+      "id": 73125,
+      "logo_path": "/xXjvCSEmXsjExhVRvJgS1QXKUrc.png",
+      "name": "Les Productions Balthazar",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2022-04-22",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An account of German-Jewish artist Charlotte Salomon living in the south of France between 1941 and 1943.",
+  "title": "Charlotte",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 27
+}

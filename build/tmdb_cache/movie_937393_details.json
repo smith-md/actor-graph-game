@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/dTgtCZj3YroMJe0P7DZ9ICeAoSC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 937393,
+  "imdb_id": "tt23131648",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bloat",
+  "overview": "After a near-death drowning accident, a young boy's family is horrified to discover he has become possessed by a legendary demon from the depths of the lake. As the family races against time to save the boy's soul, the evil monster inside the child tears the family apart as it seeks to destroy everyone in its path.",
+  "popularity": 4.5112,
+  "poster_path": "/xZVoA1FuQjovjZSqMT3HqXWzUfG.jpg",
+  "production_companies": [
+    {
+      "id": 169707,
+      "logo_path": "/9VoUjQO1R7DCgp1SeqwFnzLWIzt.png",
+      "name": "Pulsar Content",
+      "origin_country": "FR"
+    },
+    {
+      "id": 198350,
+      "logo_path": "/tLXVEotMczSn2a6A5vDgqJqpMDM.png",
+      "name": "flag",
+      "origin_country": "JP"
+    },
+    {
+      "id": 175169,
+      "logo_path": "/qyqiYpqa9IWKfy48MSXTnquWYau.png",
+      "name": "Okko",
+      "origin_country": "RU"
+    },
+    {
+      "id": 109501,
+      "logo_path": "/4dtmZKPLHzIALpGbdeSNX6Rw1p3.png",
+      "name": "Bazelevs",
+      "origin_country": "US"
+    },
+    {
+      "id": 251273,
+      "logo_path": "/jjpiN0fEIrxn4NVgSGhE4SyMOi4.png",
+      "name": "Overland Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-07",
+  "revenue": 13026,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bloat",
+  "video": false,
+  "vote_average": 5.167,
+  "vote_count": 33
+}

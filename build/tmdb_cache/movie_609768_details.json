@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/e98GcbKdFmq7mjxAh5zmPGCOQyk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.lionsgate.com/movies/dear-david",
+  "id": 609768,
+  "imdb_id": "tt9288740",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dear David",
+  "overview": "Shortly after comic artist Adam responds to Internet trolls, he begins experiencing sleep paralysis. As he chronicles increasingly malevolent occurrences in a series of tweets, Adam begins to believe he is being haunted by the ghost of a dead child named David.",
+  "popularity": 4.2205,
+  "poster_path": "/kT5tsoIWnXlLBaeOfkoso11dUgB.jpg",
+  "production_companies": [
+    {
+      "id": 125401,
+      "logo_path": "/dMEisJ0hVKRiwqfpPq7ALu1Cy9e.png",
+      "name": "BuzzFeed Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 139492,
+      "logo_path": "/h0mdxIapmlpreNlejW89hSoqXBE.png",
+      "name": "CR8IV DNA",
+      "origin_country": "CA"
+    },
+    {
+      "id": 91387,
+      "logo_path": "/vPv6frwqFKqydMLFtoHdcYeUo5r.png",
+      "name": "Blazing Griffin",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-10-13",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Going viral is a nightmare.",
+  "title": "Dear David",
+  "video": false,
+  "vote_average": 4.63,
+  "vote_count": 77
+}

@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/nLLhtL0iRSooEUk2pMjK9xZ3wCq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1336928,
+  "imdb_id": "tt33253232",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "El casoplón",
+  "overview": "A family of five living in 50 square meters without air conditioning on a scorching summer day decides that perhaps the best option is to stay overnight in the empty 'mansion' where the father works as a gardener.",
+  "popularity": 3.7408,
+  "poster_path": "/godwprYhs8weMqDEA1iI3bJmm6q.jpg",
+  "production_companies": [
+    {
+      "id": 13287,
+      "logo_path": "/fGwUBEDLBPp8aQiomrSPZlzsEyG.png",
+      "name": "Kowalski Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 152156,
+      "logo_path": "/hVOvRhM42Mbm5PXNoMjUgjfMu5s.png",
+      "name": "Feelgood Media",
+      "origin_country": "ES"
+    },
+    {
+      "id": 31123,
+      "logo_path": "/Q9F9wXH9XRsSwvR9eA0Yn8P1wT.png",
+      "name": "EiTB",
+      "origin_country": "ES"
+    },
+    {
+      "id": 67412,
+      "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+      "name": "Movistar Plus+",
+      "origin_country": "ES"
+    },
+    {
+      "id": 265749,
+      "logo_path": "/vFqHb0z4jNbA4h6iMQ52OaQRdEQ.png",
+      "name": "RTVE",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-04-16",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "McMansion",
+  "video": false,
+  "vote_average": 5.889,
+  "vote_count": 27
+}

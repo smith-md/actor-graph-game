@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": "/dXXkwPvt2ynYqTAmtwQqK26WXGK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.filmfactoryentertainment.com/films/escape",
+  "id": 1078744,
+  "imdb_id": "tt26451073",
+  "origin_country": [
+    "FR",
+    "ES",
+    "US"
+  ],
+  "original_language": "es",
+  "original_title": "Escape",
+  "overview": "A young man becomes convinced that the solution to all his problems is to live in jail, and he will do whatever it takes to get it.",
+  "popularity": 3.5143,
+  "poster_path": "/9yTWVCapYo63Mc93CHxEyIdSEqo.jpg",
+  "production_companies": [
+    {
+      "id": 11068,
+      "logo_path": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
+      "name": "Nostromo Pictures",
+      "origin_country": "ES"
+    },
+    {
+      "id": 110360,
+      "logo_path": null,
+      "name": "The Project",
+      "origin_country": "FR"
+    },
+    {
+      "id": 103476,
+      "logo_path": "/1Wj9FXynetoCaNxUoBRvKxcKDsB.png",
+      "name": "Mogambo Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 23243,
+      "logo_path": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
+      "name": "Sikelia Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 981,
+      "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+      "name": "TVE",
+      "origin_country": "ES"
+    },
+    {
+      "id": 67412,
+      "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+      "name": "Movistar Plus+",
+      "origin_country": "ES"
+    },
+    {
+      "id": 111300,
+      "logo_path": null,
+      "name": "Cosmopolitan TV",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-31",
+  "revenue": 0,
+  "runtime": 126,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What does a law-abiding man have to do to get put in jail?!",
+  "title": "Escape",
+  "video": false,
+  "vote_average": 5.361,
+  "vote_count": 54
+}

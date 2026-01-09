@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/1EfVPn61Vd0ZcBad7gGi85CYsvd.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1309584,
+  "imdb_id": "tt34767962",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Una figlia",
+  "overview": "A middle-aged man, Pietro, becomes a widower and must take care of his daughter. He will never have the time to delve into his own pain, committing himself to raising his daughter with love and dedication, in an all-encompassing relationship in which one heals the other's wounds through his own. When, after a few years, he tries to start a new life with a new partner, not everything will go as hoped: his daughter's reaction will be exaggerated and Pietro will be put to the test. He will find himself struggling between anger and paternal instinct.",
+  "popularity": 3.9952,
+  "poster_path": "/iRf1629G8Y5RiX10YuT29k8bpRA.jpg",
+  "production_companies": [
+    {
+      "id": 3112,
+      "logo_path": "/y7X4AYWOC20LnkCnOgIoh70gMct.png",
+      "name": "Rodeo Drive",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2025-04-24",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Daughter",
+  "video": false,
+  "vote_average": 6.489,
+  "vote_count": 44
+}

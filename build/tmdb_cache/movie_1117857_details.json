@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/pU9cz8mZjzwyPAcJDPXBlK99BoR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80992977",
+  "id": 1117857,
+  "imdb_id": "tt27604215",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "In Your Dreams",
+  "overview": "Stevie and her little brother Elliot journey into the wildly absurd landscape of their own dreams to ask the Sandman to grant them the perfect family.",
+  "popularity": 7.9348,
+  "poster_path": "/ug0TqgmByPCEYzR9lQWQmyAa7sw.jpg",
+  "production_companies": [
+    {
+      "id": 144322,
+      "logo_path": "/j49TVLRW8E8Rqv5UEu5NqO50J8a.png",
+      "name": "Kuku Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 171251,
+      "logo_path": "/qfwTkx9c3sHJ4gUwyazE2x1E9hP.png",
+      "name": "Netflix Animation Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-07",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The adventure of a nighttime.",
+  "title": "In Your Dreams",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 159
+}

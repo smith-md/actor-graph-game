@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/hHwWcz2tcZXbGekTjAEd5xKbHd4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 884971,
+  "imdb_id": "tt13399946",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Goliath",
+  "overview": "Patrick is a tenacious lawyer specializing in environmental law. France is a schoolteacher who becomes an activist after her husband develops cancer from exposure to a pesticide. Mathias is an ambitious lobbyist working for an international chemical corporation. The paths of these characters collide as the lives of thousands are affected by a tragic act that sparks a powerful movement while the corporation fights to prevent the truth from being revealed.",
+  "popularity": 3.3019,
+  "poster_path": "/qjoOtXctgy2TeonJ66STfukizTN.jpg",
+  "production_companies": [
+    {
+      "id": 112442,
+      "logo_path": "/kgCQLJxqmymgg3WR5E7vjvCAqqH.png",
+      "name": "GapBusters",
+      "origin_country": "BE"
+    },
+    {
+      "id": 96107,
+      "logo_path": null,
+      "name": "A Single Man Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2022-03-09",
+  "revenue": 0,
+  "runtime": 121,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The truth can’t be silenced forever",
+  "title": "Goliath",
+  "video": false,
+  "vote_average": 6.824,
+  "vote_count": 394
+}

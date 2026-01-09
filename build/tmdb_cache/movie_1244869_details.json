@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/gyb0o2KNUEXxSVvxDRESMCVhfOm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1244869,
+  "imdb_id": "tt8038682",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "La casa",
+  "overview": "After the death of their father, three siblings return to the family home where they grew up. They intend to sell it and follow their very different paths. But as memories surface in every corner, a fear of getting rid of the past and an impulse to reunite grows in them. As a last tribute to their father, there may still be time to make up for lost time and the house may witness new stories.",
+  "popularity": 3.1052,
+  "poster_path": "/hpic0UkV1imMnAxL26QOktRXtDg.jpg",
+  "production_companies": [
+    {
+      "id": 220987,
+      "logo_path": "/iu7lKMpuiDDnEt9VNGHWVK3hTSw.png",
+      "name": "RAW Producciones",
+      "origin_country": "ES"
+    },
+    {
+      "id": 76584,
+      "logo_path": "/jHdzRuiJkGbKz6gZP0yyzEBNenO.png",
+      "name": "Nakamura Films",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2024-05-01",
+  "revenue": 0,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The House",
+  "video": false,
+  "vote_average": 6.939,
+  "vote_count": 41
+}

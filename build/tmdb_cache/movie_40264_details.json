@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/uACr2UntrZNqlFpQYFlqbVAb1eW.jpg",
+  "belongs_to_collection": {
+    "id": 278920,
+    "name": "Vampires Suck Collection",
+    "poster_path": "/usy2BHdBGQE7dpnqsjJqoGALiun.jpg",
+    "backdrop_path": "/rlDK7GYKJP9p1TAj7dIBOuJ7ehO.jpg"
+  },
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.newregency.com/movies/vampires-suck",
+  "id": 40264,
+  "imdb_id": "tt1666186",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Vampires Suck",
+  "overview": "Becca, an anxious, non-vampire teen is torn between two boys. Before she can choose, Becca must get around her controlling father, who treats her like a child. Meanwhile, Becca's friends contend with their own romantic issues – all of which collide at the prom.",
+  "popularity": 6.4797,
+  "poster_path": "/ksPKfoXovAiFnBktkCBefsRQ8a1.jpg",
+  "production_companies": [
+    {
+      "id": 2648,
+      "logo_path": null,
+      "name": "Road Rebel",
+      "origin_country": ""
+    },
+    {
+      "id": 508,
+      "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 444,
+      "logo_path": null,
+      "name": "Dune Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 19248,
+      "logo_path": null,
+      "name": "3 in the Box",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-08-18",
+  "revenue": 80547866,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some sagas just won't die.",
+  "title": "Vampires Suck",
+  "video": false,
+  "vote_average": 4.386,
+  "vote_count": 1363
+}

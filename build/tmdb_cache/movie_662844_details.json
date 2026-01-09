@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/6jtAnToTQAfQmwh6K6JiiqB0qoy.jpg",
+  "belongs_to_collection": {
+    "id": 1166174,
+    "name": "Angels Fallen Collection",
+    "poster_path": "/65iuw5wff0HGPpwKNtErzQ5nCp.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 662844,
+  "imdb_id": "tt5759590",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Angels Fallen",
+  "overview": "After the tragic loss of his wife battling the forces of darkness, Gabriel is persuaded to rejoin his former team of demon hunters traveling from relatively obscurity in America to the deep unknown regions of Europe. He is joined by his estranged best friend Michael who harbors a dark secret, the mystical Hannah whose visions predict the future, and a motley crew of demon slayers. After losing part of his team Gabriel must confront his tragic past and decide who really is friend or foe.",
+  "popularity": 4.2347,
+  "poster_path": "/9mVHxdtlmTZUpgps2cvPqVeJEtb.jpg",
+  "production_companies": [
+    {
+      "id": 82773,
+      "logo_path": null,
+      "name": "Thriller Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2020-01-14",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Four angels will come to destroy mankind.",
+  "title": "Angels Fallen",
+  "video": false,
+  "vote_average": 5.788,
+  "vote_count": 106
+}

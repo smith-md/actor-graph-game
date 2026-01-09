@@ -1,0 +1,142 @@
+{
+  "id": 501577,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1426494,
+      "known_for_department": "Acting",
+      "name": "Madison Lawlor",
+      "original_name": "Madison Lawlor",
+      "popularity": 1.618,
+      "profile_path": "/sXeIgJQ590hLYgnu5z6NO3sKsYw.jpg",
+      "cast_id": 4,
+      "character": "Maya Mitchell",
+      "credit_id": "5a6e58180e0a265f0702771a",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1684152,
+      "known_for_department": "Acting",
+      "name": "Montana Manning",
+      "original_name": "Montana Manning",
+      "popularity": 1.8936,
+      "profile_path": "/o4LnTdNSRsdrr9y2kqdzT3aDtyV.jpg",
+      "cast_id": 5,
+      "character": "Jasmine Jones",
+      "credit_id": "5a6e5825c3a3685541027716",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 107407,
+      "known_for_department": "Acting",
+      "name": "Andrew Pifko",
+      "original_name": "Andrew Pifko",
+      "popularity": 1.2328,
+      "profile_path": "/wns5dQLREcvy29j6F7IZdOCIiK3.jpg",
+      "cast_id": 6,
+      "character": "Simon Craw",
+      "credit_id": "5a6e58330e0a265efe026e99",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1005913,
+      "known_for_department": "Acting",
+      "name": "Kamala Jones",
+      "original_name": "Kamala Jones",
+      "popularity": 0.6131,
+      "profile_path": "/28yujK1ArxD5VfgEwCBIs2MHzUg.jpg",
+      "cast_id": 7,
+      "character": "Danielle Mitchell",
+      "credit_id": "5a6e5846c3a368554d022591",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2004661,
+      "known_for_department": "Acting",
+      "name": "J.J. Hawkins",
+      "original_name": "J.J. Hawkins",
+      "popularity": 0.2781,
+      "profile_path": "/aMyry5M3pY94AeBJCM9FRA86rJP.jpg",
+      "cast_id": 9,
+      "character": "Ash",
+      "credit_id": "64f57b7be0ca7f012eb4630e",
+      "order": 4
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1933417,
+      "known_for_department": "Acting",
+      "name": "Amara Cash",
+      "original_name": "Amara Cash",
+      "popularity": 0.3378,
+      "profile_path": "/ArIst4US5Srgi69M1fVkbDfVMxe.jpg",
+      "credit_id": "5a6e54940e0a265f0d026a51",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1968639,
+      "known_for_department": "Writing",
+      "name": "Alex Bloom",
+      "original_name": "Alex Bloom",
+      "popularity": 0.212,
+      "profile_path": null,
+      "credit_id": "5a6e57ca925141076c020bc8",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1056156,
+      "known_for_department": "Production",
+      "name": "Jenna Cedicci",
+      "original_name": "Jenna Cedicci",
+      "popularity": 0.1224,
+      "profile_path": null,
+      "credit_id": "5a6e57f5c3a36855520227bd",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1592603,
+      "known_for_department": "Camera",
+      "name": "Nico Aguilar",
+      "original_name": "Nico Aguilar",
+      "popularity": 0.8398,
+      "profile_path": null,
+      "credit_id": "5a6e58050e0a265f01027a90",
+      "department": "Crew",
+      "job": "Cinematography"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1933417,
+      "known_for_department": "Acting",
+      "name": "Amara Cash",
+      "original_name": "Amara Cash",
+      "popularity": 0.3378,
+      "profile_path": "/ArIst4US5Srgi69M1fVkbDfVMxe.jpg",
+      "credit_id": "5cde1ab2c3a3681c89c13de7",
+      "department": "Writing",
+      "job": "Writer"
+    }
+  ]
+}

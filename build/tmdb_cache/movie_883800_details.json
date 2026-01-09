@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/xsvsPS0EeDW7PedBPFAE8R2Jp2U.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 883800,
+  "imdb_id": "tt13492256",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Adieu Paris",
+  "overview": "An old Parisian bistro with eternal charm. Eight gentlemen at the table, eight great figures. They were the “kings of Paris”… National treasures, masterpieces in peril. A well-honed ritual ... A sense of humor and self-deprecation intact. Tenderness and cruelty. Eight old friends who hate and love each other. And suddenly an intruder ...",
+  "popularity": 3.9121,
+  "poster_path": "/2p3megjuj0k5kjY7O94RVV0JrCu.jpg",
+  "production_companies": [
+    {
+      "id": 11773,
+      "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+      "name": "Artémis Productions",
+      "origin_country": "BE"
+    },
+    {
+      "id": 75816,
+      "logo_path": "/nVDVcbfYplh43TvxGyj1rGUWiif.png",
+      "name": "Cinéfrance Studios",
+      "origin_country": "FR"
+    },
+    {
+      "id": 136900,
+      "logo_path": null,
+      "name": "Les Productions en Cabine",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2022-01-26",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Adieu Paris",
+  "video": false,
+  "vote_average": 4.71,
+  "vote_count": 62
+}

@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/nbvzXhZ0jFQjyK8LNcbw9tCRo21.jpg",
+  "belongs_to_collection": null,
+  "budget": 7000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 5896,
+  "imdb_id": "tt0086987",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bolero",
+  "overview": "Follows the tale of a young woman’s sexual awakening and subsequent journey around the world in pursuit of her ideal lover. Encounters include an Arabian sheik and a Spanish bullfighter. Her friend and butler accompany her and help to arrange her couplings.",
+  "popularity": 4.0319,
+  "poster_path": "/pQNjzG51FB9ngy8pi2HVELeFEkS.jpg",
+  "production_companies": [
+    {
+      "id": 13549,
+      "logo_path": null,
+      "name": "Golan-Globus Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1444,
+      "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+      "name": "The Cannon Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1984-08-31",
+  "revenue": 8914881,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An adventure in ecstasy.",
+  "title": "Bolero",
+  "video": false,
+  "vote_average": 3.303,
+  "vote_count": 100
+}

@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/2Bqeun8WDCJZ2rlJEcYy5teTBgM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 792001,
+  "imdb_id": "tt14278608",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "Amor bandido",
+  "overview": "Joan is a naïve, 16-year-old who falls in love easily. One day he decides to escape to the provinces with Luciana, a beautiful 35-year-old woman and a teacher at his school, in order to give free rein to his love. Soon, Joan discovers with horror that he has fallen into a trap that is a mix between sex, money, politics and violence.",
+  "popularity": 5.1093,
+  "poster_path": "/qb3YySysqo8ikQoagBIz29BZOmi.jpg",
+  "production_companies": [
+    {
+      "id": 92765,
+      "logo_path": "/xdhFJN5ecRxVkGw9gW5uPfjhBL.png",
+      "name": "Werner Cine",
+      "origin_country": "AR"
+    },
+    {
+      "id": 13449,
+      "logo_path": "/jVqRkSBiksaZ1Qz4Y73dIbrlNkV.png",
+      "name": "PUCARÁ cine",
+      "origin_country": "AR"
+    },
+    {
+      "id": 63474,
+      "logo_path": null,
+      "name": "Magoya Films",
+      "origin_country": "AR"
+    },
+    {
+      "id": 6458,
+      "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+      "name": "INCAA",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2021-03-18",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Amor Bandido",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 118
+}

@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/7ehwRyqw5k65erbI6m25P1tgLtt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 39850,
+  "imdb_id": "tt0343663",
+  "origin_country": [
+    "US",
+    "IT",
+    "HK"
+  ],
+  "original_language": "en",
+  "original_title": "Eros",
+  "overview": "A three-part anthology about love and sexuality: a menage-a-trois between a couple and a young woman on the coast of Tuscany; an advertising executive under enormous pressure at work, who, during visits to his psychiatrist, is pulled to delve into the possible reasons why his stress seems to manifest itself in a recurring erotic dream; a story of unrequited love about a beautiful, 1960s high-end call girl in an impossible affair with her young tailor.",
+  "popularity": 4.8686,
+  "poster_path": "/bz8pWVNsbg1MMKCgp2VX6wFOXJX.jpg",
+  "production_companies": [
+    {
+      "id": 539,
+      "logo_path": "/iPLtePguIzOPNtAWfTxWLXb2O11.png",
+      "name": "Block 2 Pictures",
+      "origin_country": "HK"
+    },
+    {
+      "id": 1001,
+      "logo_path": null,
+      "name": "Solaris Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 1472,
+      "logo_path": null,
+      "name": "Delux Productions",
+      "origin_country": "LU"
+    },
+    {
+      "id": 2282,
+      "logo_path": null,
+      "name": "Roissy Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2441,
+      "logo_path": "/7Vutdea75apwXkRyfQ4Ne6j0KcN.png",
+      "name": "Fandango",
+      "origin_country": "IT"
+    },
+    {
+      "id": 7811,
+      "logo_path": null,
+      "name": "Cité Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 540,
+      "logo_path": "/gqx0uCS4P0hEgaDl61TfKODIwMe.png",
+      "name": "Jet Tone Production",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-12-03",
+  "revenue": 1553020,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Three visionary directors. One erotic journey.",
+  "title": "Eros",
+  "video": false,
+  "vote_average": 5.67,
+  "vote_count": 138
+}

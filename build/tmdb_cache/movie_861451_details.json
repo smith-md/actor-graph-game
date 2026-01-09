@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/42xAe6kVeTjml9Tww6vRoWa5tay.jpg",
+  "belongs_to_collection": null,
+  "budget": 17647000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.martinthemovie.in/",
+  "id": 861451,
+  "imdb_id": "tt15334030",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "kn",
+  "original_title": "Martin",
+  "overview": "Martin revolves around Lt. Brigadier Arjun Saxena, whose journey takes him from Pakistan to India to discover his real identity and fight against black market dealers, who are involved with terrorists to orchestrate massive attacks in the country.",
+  "popularity": 13.771,
+  "poster_path": "/bYe2ZjUhb4Kje0BpWE6kN34u2hv.jpg",
+  "production_companies": [
+    {
+      "id": 239186,
+      "logo_path": null,
+      "name": "Uday K Mehta Productions",
+      "origin_country": "IN"
+    },
+    {
+      "id": 188917,
+      "logo_path": null,
+      "name": "Vasavi Enterprises",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2024-10-11",
+  "revenue": 3247000,
+  "runtime": 147,
+  "spoken_languages": [
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Martin",
+  "video": false,
+  "vote_average": 4.125,
+  "vote_count": 28
+}

@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/t9KQcuG5ymVbJISL3CbNJEvGcwG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 404947,
+  "imdb_id": "tt5481984",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sinister Squad",
+  "overview": "When a supernatural cult threatens Earth, Alice must assemble a team of fairy tale villains to face the literal forces of Death.",
+  "popularity": 4.9126,
+  "poster_path": "/vRiUN3Hg6vAg0o2lT3HPnWnIIC5.jpg",
+  "production_companies": [
+    {
+      "id": 13964,
+      "logo_path": null,
+      "name": "Vanguard Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-07-05",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Super bad. But in a good way.",
+  "title": "Sinister Squad",
+  "video": false,
+  "vote_average": 2.8,
+  "vote_count": 46
+}

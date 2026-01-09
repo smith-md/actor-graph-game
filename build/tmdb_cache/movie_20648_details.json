@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/xBddP0l69YCuScrehETiSWiOL6E.jpg",
+  "belongs_to_collection": {
+    "id": 812489,
+    "name": "100 Girls/Women Collection",
+    "poster_path": "/gnxzuiZPY9QVb5FnuZrY29yeRxw.jpg",
+    "backdrop_path": "/cBQ1mCR0UWwL5aVDmXgrAzxcblT.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 20648,
+  "imdb_id": "tt0265010",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "100 Women",
+  "overview": "A young man returns to his ex-girlfriend and true love to discover the source of her increasing depression. As the young man earnestly tries to help his girlfriend through her troubles, their love begins to bloom.",
+  "popularity": 3.394,
+  "poster_path": "/8ssSg7Bm05i4QRIQWdkGKLpALQx.jpg",
+  "production_companies": [
+    {
+      "id": 1630,
+      "logo_path": null,
+      "name": "Dream Entertainment",
+      "origin_country": "JP"
+    },
+    {
+      "id": 91941,
+      "logo_path": null,
+      "name": "Michael/Finney Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 21446,
+      "logo_path": "/h7RoHnW0eUCqAYAImeFjDlClR8n.png",
+      "name": "Film and Music Entertainment",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-10-18",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If at first you don't succeed...",
+  "title": "100 Women",
+  "video": false,
+  "vote_average": 4.4,
+  "vote_count": 53
+}

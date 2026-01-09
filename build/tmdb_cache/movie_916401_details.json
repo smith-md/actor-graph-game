@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/hJUhff69xILVRr43iPOcb1rHVRB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.watchtheskiesmovie.com/",
+  "id": 916401,
+  "imdb_id": "tt14807348",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "UFO Sweden",
+  "overview": "When a foster home placed teenage rebel suspects that her father is not dead but kidnapped by UFOs, she takes help from a UFO association to find out the truth. Together, they embark on a risky adventure that takes them far beyond the laws borders and into a world filled with UFO expeditions, conspiracies and inexplicable phenomena.",
+  "popularity": 3.7769,
+  "poster_path": "/eLMsuK0422b6qUZWjT3eXiJH9yw.jpg",
+  "production_companies": [
+    {
+      "id": 21707,
+      "logo_path": "/iXI3C3esr9HYrsTndxGzftAf3BX.png",
+      "name": "Crazy Pictures",
+      "origin_country": "SE"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 6181,
+      "logo_path": "/eaQ7or8IoEmPfgmQiU2C5lVZkxS.png",
+      "name": "SF Studios",
+      "origin_country": "SE"
+    },
+    {
+      "id": 2999,
+      "logo_path": "/zGSqFee9aDgDuLD6vcs2mcJUem4.png",
+      "name": "SVT",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2022-12-25",
+  "revenue": 69618,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "To believe is one thing. To know is something completely different.",
+  "title": "Watch the Skies",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 125
+}

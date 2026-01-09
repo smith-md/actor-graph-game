@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/rVkptIl9QkhpB5xM6BnUAHOJ43b.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81002196",
+  "id": 505379,
+  "imdb_id": "tt2235695",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Rebecca",
+  "overview": "After a whirlwind romance with a wealthy widower, a naïve bride moves to his family estate but can't escape the haunting shadow of his late wife.",
+  "popularity": 4.5882,
+  "poster_path": "/kGhllBArW7ImDycSMIG5bj6GEPL.jpg",
+  "production_companies": [
+    {
+      "id": 10163,
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2020-10-16",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rebecca",
+  "video": false,
+  "vote_average": 6.297,
+  "vote_count": 1141
+}

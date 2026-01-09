@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/tXW9HXUDIazN8jOx6lX6obJ29MC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 49396,
+  "imdb_id": "tt0102007",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Haunted",
+  "overview": "When the Smurl family moves into a duplex, they find out it's haunted. When the Catholic Church is no help, they reach out to famous demonologists Ed and Lorraine Warren",
+  "popularity": 3.2684,
+  "poster_path": "/daLoku3ViXkUKOJB9X39v72KlDq.jpg",
+  "production_companies": [
+    {
+      "id": 3398,
+      "logo_path": null,
+      "name": "FNM Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-05-06",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A true story of fear, evil and possession.",
+  "title": "The Haunted",
+  "video": false,
+  "vote_average": 5.92,
+  "vote_count": 56
+}

@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/cSbcBpduXYQ6XfdoSQaTo23jF1u.jpg",
+  "belongs_to_collection": null,
+  "budget": 29000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 28881,
+  "imdb_id": "tt0105824",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wind",
+  "overview": "In 1983, yacht sailor Will Parker leads an American crew financed by millionaire Morgan Weld to defeat during the America's Cup race against an Australian crew. Determined to get the prize back, Will convinces Morgan to finance an experimental boat designed by his ex-girlfriend Kate's new beau, Joe Heisler. When the boat is completed, the Americans head to Australia to reclaim the cup.",
+  "popularity": 3.3922,
+  "poster_path": "/qj7RAiqrLVp3TCzDnhQlONm9In4.jpg",
+  "production_companies": [
+    {
+      "id": 70,
+      "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+      "name": "American Zoetrope",
+      "origin_country": "US"
+    },
+    {
+      "id": 50339,
+      "logo_path": null,
+      "name": "Filmlink International",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-09-11",
+  "revenue": 5519569,
+  "runtime": 126,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The only thing better than winning the America's Cup is losing it... and winning it back.",
+  "title": "Wind",
+  "video": false,
+  "vote_average": 6.134,
+  "vote_count": 41
+}

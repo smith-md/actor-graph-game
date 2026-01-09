@@ -1,0 +1,46 @@
+{
+  "adult": false,
+  "backdrop_path": "/1UZEe0CBtsuCea5OcJHLSAHXsjq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1402719,
+  "imdb_id": "tt33269404",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "La posada",
+  "overview": "The Mendoza family gathers yearly for Posada. Diego's girlfriend Caro hosts this year. Secrets and cultural clashes emerge, making Caro reconsider joining the Mendoza family.",
+  "popularity": 5.1149,
+  "poster_path": "/hkxTqSU30OIKkviHrTy8vXxXseE.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2023-12-15",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "La posada",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 21
+}

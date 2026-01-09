@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/7wazgiTbygqijaduEiapT43YxTJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/sleuth",
+  "id": 4520,
+  "imdb_id": "tt0857265",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Sleuth",
+  "overview": "Locked in a high-tech English manor, bound in a deadly duel of wits, Andrew Wyke and Milo Tindle come together as English gentlemen to discuss the matter of Wyke's wife: the woman both are sleeping with.",
+  "popularity": 6.0166,
+  "poster_path": "/y70r13kOHp7pcYToG25uwMYm562.jpg",
+  "production_companies": [
+    {
+      "id": 97,
+      "logo_path": "/qv3ih9pR9w2XNKZDsqDqAGuZjqc.png",
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 679,
+      "logo_path": null,
+      "name": "Timnick Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 1668,
+      "logo_path": null,
+      "name": "Riff Raff Film Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 181992,
+      "logo_path": null,
+      "name": "Mandate International",
+      "origin_country": "US"
+    },
+    {
+      "id": 58,
+      "logo_path": "/voYCwlBHJQANtjvm5MNIkCF1dDH.png",
+      "name": "Sony Pictures Classics",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-10-12",
+  "revenue": 342835,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Obey the rules.",
+  "title": "Sleuth",
+  "video": false,
+  "vote_average": 6.272,
+  "vote_count": 567
+}

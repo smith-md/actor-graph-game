@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": "/veL1uKi4pl6quwBaoEjPzqmI0uF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1023962,
+  "imdb_id": "tt4707780",
+  "origin_country": [
+    "IT",
+    "CH"
+  ],
+  "original_language": "it",
+  "original_title": "Lubo",
+  "overview": "Lubo Moser is a jenisch, a gypsy. Mirana, who tried to oppose him, was killed. But how could this have happened? Why? Because Switzerland considers nomadism a social scourge, and, to eradicate it, it takes the children of the jenisch. Thus, without children, the Jenisch will be without a future. The mastermind is a state-run humanitarian institution, Pro Juventute, the arm the Street Children's Work: everything is perfectly legal and there is no opposition to the law. Lubo feels himself dying. And something about him really does die, on that night of wind and snow: it will be a new Lubo, tough and impenetrable, who will set up a project with unexpected implications to avenge his family and his people... and it will lead us to rethink the sense of justice, in the blurred boundaries between good and evil.",
+  "popularity": 2.2354,
+  "poster_path": "/th47jJts6Aqj6992DTWpo8tQIkR.jpg",
+  "production_companies": [
+    {
+      "id": 50589,
+      "logo_path": null,
+      "name": "Aranciafilm",
+      "origin_country": "IT"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 18156,
+      "logo_path": "/3nAuYcaWdpW0ULMvMz6V5HIJmCO.png",
+      "name": "Indiana Production",
+      "origin_country": "IT"
+    },
+    {
+      "id": 26987,
+      "logo_path": "/6j5zyBMCJV1QS0kR0XWWyzk1VUI.png",
+      "name": "Hugofilm",
+      "origin_country": "CH"
+    },
+    {
+      "id": 20960,
+      "logo_path": "/9mO8Z3dcW6ISVMeCv7TbXtWXdGl.png",
+      "name": "RSI",
+      "origin_country": "CH"
+    },
+    {
+      "id": 210675,
+      "logo_path": "/k0Lpc9DyEGAQvvsVbBrPVt1dWUL.png",
+      "name": "Proxima Milano",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2023-11-09",
+  "revenue": 0,
+  "runtime": 175,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lubo",
+  "video": false,
+  "vote_average": 7.061,
+  "vote_count": 33
+}

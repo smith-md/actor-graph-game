@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/sSrU5zYRqraYqNl2xsQOonNQbhh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1201262,
+  "imdb_id": "tt11162260",
+  "origin_country": [
+    "NZ"
+  ],
+  "original_language": "en",
+  "original_title": "Grafted",
+  "overview": "When an awkward but brilliant Chinese student wins a scholarship into a prestigious New Zealand University, she finds a new way of achieving the popularity she craves one bloody body at a time.",
+  "popularity": 4.8048,
+  "poster_path": "/u53wFzLoJD7om52Hjma8G27LS2h.jpg",
+  "production_companies": [
+    {
+      "id": 5056,
+      "logo_path": "/583ITs4w9sK31FnJwKiRwapTpzb.png",
+      "name": "Head Gear Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 198143,
+      "logo_path": "/nxCJE9wJByHcc6RnIuJjGWEmDbI.png",
+      "name": "FluroBlack",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 294,
+      "logo_path": "/a05DY2oSeUOVFDM61RsQa9x9RoC.png",
+      "name": "New Zealand Film Commission",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 237284,
+      "logo_path": "/e5tMrGoHV1niu8FBkk34ZyR2jzZ.png",
+      "name": "Propaganda Film",
+      "origin_country": "NZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-09-12",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Beauty is only skin deep.",
+  "title": "Grafted",
+  "video": false,
+  "vote_average": 5.552,
+  "vote_count": 58
+}

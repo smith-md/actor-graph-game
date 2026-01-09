@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/xK5mvxME1MjryR5w1317sYsevUp.jpg",
+  "belongs_to_collection": {
+    "id": 270156,
+    "name": "The Sweeney Movie Collection",
+    "poster_path": "/i1tVEBX3YW7gnACtdzi24ygiQtf.jpg",
+    "backdrop_path": "/9EhzdqEHhAlVsKW4PFMT2gLtwn2.jpg"
+  },
+  "budget": 209595,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 55762,
+  "imdb_id": "tt0076788",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Sweeney!",
+  "overview": "When one of Regan's snouts complains that his girlfriend's recent suicide was murder, the flying squad detective feels compelled to investigate. He uncovers a conspiracy that reaches the heart of the government, and finds himself fitted up, suspended and under the scrutiny of Special Branch.",
+  "popularity": 3.5204,
+  "poster_path": "/nEyhV0vwH8HrCyKLe1goSNSwkji.jpg",
+  "production_companies": [
+    {
+      "id": 4317,
+      "logo_path": "/jCEkAgteuS92F1eymn56k13jAv8.png",
+      "name": "Euston Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1977-01-14",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The roughest, toughest men from London's greatest crime squad smash their way onto the big screen!",
+  "title": "Sweeney!",
+  "video": false,
+  "vote_average": 6.68,
+  "vote_count": 25
+}

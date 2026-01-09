@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/qyePa65qZVnuYWivTBXkHV9aI3A.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://inlandempire.official.film/",
+  "id": 1730,
+  "imdb_id": "tt0460829",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Inland Empire",
+  "overview": "When actress Nikki Grace gets the lead role in a cursed film, her world becomes more and more surreal, blending realities and ideas of infidelity, reincarnation, and supernatural forces.",
+  "popularity": 2.3791,
+  "poster_path": "/1ypMcAcqTZrcxFJvERemKc6t9sX.jpg",
+  "production_companies": [
+    {
+      "id": 11610,
+      "logo_path": null,
+      "name": "Absurda",
+      "origin_country": "US"
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 205574,
+      "logo_path": null,
+      "name": "Camerimage Film",
+      "origin_country": "PL"
+    },
+    {
+      "id": 373,
+      "logo_path": null,
+      "name": "Asymmetrical Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 68042,
+      "logo_path": null,
+      "name": "Fundacja Tumult",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2006-12-06",
+  "revenue": 4304157,
+  "runtime": 180,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A woman in trouble",
+  "title": "Inland Empire",
+  "video": false,
+  "vote_average": 6.994,
+  "vote_count": 1208
+}

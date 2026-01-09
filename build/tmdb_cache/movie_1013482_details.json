@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": "/adQ1Nz0KbbZYdtC4YFktMTsbR6Q.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.magnetreleasing.com/borderline/",
+  "id": 1013482,
+  "imdb_id": "tt13650814",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Borderline",
+  "overview": "After escaping from a mental hospital, a violent sociopath named Paul begins a dangerous rampage targeting Sofia, a world-famous pop star. Obsessed with her, he takes Sofia hostage in her own home, acting under the delusional belief that they are getting married. Paul is desperate to prove his devotion, leading to a tense and unpredictable situation.",
+  "popularity": 6.7766,
+  "poster_path": "/hUrNKVrkMN7sdt0oAioopMcxyoq.jpg",
+  "production_companies": [
+    {
+      "id": 82968,
+      "logo_path": "/gRROMOG5bpF6TIDMbfaa5gnFFzl.png",
+      "name": "LuckyChap Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 41608,
+      "logo_path": "/5BCREil54GIMdX95OopfIX05YZx.png",
+      "name": "Productivity Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 181866,
+      "logo_path": "/929QMGHZ7KEqCWrKeitqly0y69k.png",
+      "name": "Red A Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 118800,
+      "logo_path": null,
+      "name": "Jurassic Party",
+      "origin_country": "US"
+    },
+    {
+      "id": 255088,
+      "logo_path": null,
+      "name": "Roscoe Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 1063,
+      "logo_path": "/fpVBhNnopOZwGuF0gg99oBHp1ht.png",
+      "name": "Brightlight Pictures",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-14",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You're cordially invited to a violently romantic comedy.",
+  "title": "Borderline",
+  "video": false,
+  "vote_average": 5.744,
+  "vote_count": 133
+}

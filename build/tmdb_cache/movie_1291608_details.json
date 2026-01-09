@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/yRYgvo2crAeHzqKwXMVtEaDx7Qq.jpg",
+  "belongs_to_collection": {
+    "id": 1593311,
+    "name": "Dhurandhar Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 16500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1291608,
+  "imdb_id": "tt33014583",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "धुरंधर",
+  "overview": "After the hijacking of IC-814 in 1999 and the Parliament attack in 2001, India’s Intelligence Bureau Chief, Ajay Sanyal, devises an indomitable mission to intrude and rupture the terrorist network in Pakistan, by infiltrating the underworld mafia of Karachi with the help of a 20-year-old boy from Punjab, held captive for a revenge crime.",
+  "popularity": 39.4537,
+  "poster_path": "/8FHOtUpNIk5ZPEay2N2EY5lrxkv.jpg",
+  "production_companies": [
+    {
+      "id": 212774,
+      "logo_path": null,
+      "name": "B62 Studios",
+      "origin_country": "IN"
+    },
+    {
+      "id": 115477,
+      "logo_path": "/6CkBjiSlfAJFaMjwB44ILbOhFuV.png",
+      "name": "Jio Studios",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2025-12-05",
+  "revenue": 110000000,
+  "runtime": 212,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Punjabi",
+      "iso_639_1": "pa",
+      "name": "ਪੰਜਾਬੀ"
+    },
+    {
+      "english_name": "Urdu",
+      "iso_639_1": "ur",
+      "name": "اردو"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dhurandhar",
+  "video": false,
+  "vote_average": 6.464,
+  "vote_count": 138
+}

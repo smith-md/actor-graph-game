@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/zabeClnzpQldGd3TaUpqiufMBwT.jpg",
+  "belongs_to_collection": null,
+  "budget": 16000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 41843,
+  "imdb_id": "tt0117791",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Surviving Picasso",
+  "overview": "The passionate Merchant-Ivory drama tells the story of Francoise Gilot, the only lover of Pablo Picasso who was strong enough to withstand his ferocious cruelty and move on with her life.",
+  "popularity": 4.4314,
+  "poster_path": "/olcQOdg54uBYDUkZbgw2FFTBaZI.jpg",
+  "production_companies": [
+    {
+      "id": 2370,
+      "logo_path": null,
+      "name": "Merchant Ivory Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2428,
+      "logo_path": null,
+      "name": "Wolper Organization",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-09-04",
+  "revenue": 1985001,
+  "runtime": 125,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Only his passion for women could rival his passion for painting.",
+  "title": "Surviving Picasso",
+  "video": false,
+  "vote_average": 5.733,
+  "vote_count": 101
+}

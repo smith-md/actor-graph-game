@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/qGG4MT4bnnI7RzBFY1KnNkQ450T.jpg",
+  "belongs_to_collection": {
+    "id": 571401,
+    "name": "El Chanfle Collection",
+    "poster_path": "/kCcBeVOMIv63KAo8yJzWq4ZIie3.jpg",
+    "backdrop_path": "/vh3wRGHD6I4PP9K9Uz9slGGNFGG.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 96424,
+  "imdb_id": "tt0222962",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "El Chanfle",
+  "overview": "Although he always wanted to become a professional soccer player, El Chanfle has settled for being the props boy and water boy for Mexican soccer's Club América, whose coach they both have trouble getting along with because of the Chanfle's heightened sense of honesty and cleanliness on the court, something the rigid coach does not share. When he is asked to cheat during a game he refuses and is fired from his job, but his friend, the team doctor will try to get him back. At the same time, his wife Tere announces to be pregnant, and trying to sell a gun in order to make money for their future, unintentionally scares a old man, Chato, with it, who now seeks revenge.",
+  "popularity": 2.303,
+  "poster_path": "/x76WV946xbdfwnSw22RhB1r2VOP.jpg",
+  "production_companies": [
+    {
+      "id": 8165,
+      "logo_path": null,
+      "name": "Televicine",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "1979-01-18",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "First El Chapulín Colorado, then El Chavo. Now Chespirito in El Chanfle.",
+  "title": "El Chanfle",
+  "video": false,
+  "vote_average": 7.296,
+  "vote_count": 93
+}

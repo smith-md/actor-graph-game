@@ -1,0 +1,107 @@
+{
+  "adult": false,
+  "backdrop_path": "/n67gpLtNFXqpGkM2ZdQoPLjTnI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://focusfeatures.com/greta",
+  "id": 471506,
+  "imdb_id": "tt2639336",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Greta",
+  "overview": "A young woman returns a lonely widow’s lost purse, leading to an unlikely relationship between the two — until the young woman discovers the widow might not be all that she seems.",
+  "popularity": 5.4322,
+  "poster_path": "/9hBpFyJ3pGdupXbaC2L7nGvLMBn.jpg",
+  "production_companies": [
+    {
+      "id": 737,
+      "logo_path": "/dK1GZ1u4our8sJW0Sts1JHeNSLn.png",
+      "name": "Sidney Kimmel Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 2253,
+      "logo_path": null,
+      "name": "Lawrence Bender Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 86504,
+      "logo_path": "/7ppNVcvDg0ZXSR1bZi397hLD206.png",
+      "name": "Metropolitan Pictures",
+      "origin_country": "IE"
+    },
+    {
+      "id": 3491,
+      "logo_path": "/hXRKXi3M9qfP4Npi1kjAaH4eGnM.png",
+      "name": "Showbox",
+      "origin_country": "KR"
+    },
+    {
+      "id": 128493,
+      "logo_path": null,
+      "name": "Starlight Culture Entertainment Group",
+      "origin_country": "HK"
+    },
+    {
+      "id": 1898,
+      "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2019-02-28",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everyone needs a friend.",
+  "title": "Greta",
+  "video": false,
+  "vote_average": 6.56,
+  "vote_count": 1422
+}

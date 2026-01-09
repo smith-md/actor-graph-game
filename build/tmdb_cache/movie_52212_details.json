@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/qYCSR5V7E6AupsLdifUW1txJUtT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 52212,
+  "imdb_id": "tt0089598",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Miranda",
+  "overview": "In 1950s Ferrara, a lonely innkeeper explores a series of relationships while awaiting her missing husband’s return from war.",
+  "popularity": 7.9715,
+  "poster_path": "/9RRu3jv01RpK73ABX1xdUl8uvFg.jpg",
+  "production_companies": [
+    {
+      "id": 5128,
+      "logo_path": null,
+      "name": "San Francisco Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1985-10-15",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Miranda",
+  "video": false,
+  "vote_average": 5.12,
+  "vote_count": 104
+}

@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/ke8MuTHVveodT0YQxV1TcTh4BXd.jpg",
+  "belongs_to_collection": null,
+  "budget": 24900000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 10001,
+  "imdb_id": "tt0096486",
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Young Einstein",
+  "overview": "Albert Einstein is the son of a Tasmanian apple farmer, who discovers the secret of splitting the beer atom to put the bubbles back into beer. When Albert travels to Sydney to patent his invention he meets beatuiful French scientist Marie Curie, as well as several unscrupulous types who try to take advantage of the naive genius and his invention.",
+  "popularity": 3.8423,
+  "poster_path": "/6D4yLH2gMBt8S64f8Arrt39cFFb.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "1988-12-15",
+  "revenue": 5000000,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "E=mc²",
+  "title": "Young Einstein",
+  "video": false,
+  "vote_average": 5.245,
+  "vote_count": 165
+}

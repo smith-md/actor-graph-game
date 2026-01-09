@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/3avI4nJ3WNweQFHa2UwRMOO8cbL.jpg",
+  "belongs_to_collection": {
+    "id": 96671,
+    "name": "The Human Centipede Collection",
+    "poster_path": "/mv0MySTqfXg2ndthOkBg6bGwlnk.jpg",
+    "backdrop_path": "/wEux24WEOO5re5alLJZR7vMgeRN.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 74997,
+  "imdb_id": "tt1530509",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "en",
+  "original_title": "The Human Centipede 2 (Full Sequence)",
+  "overview": "Inspired by the fictional Dr. Heiter, disturbed loner Martin dreams of creating a 12-person centipede and sets out to realize his sick fantasy.",
+  "popularity": 5.5785,
+  "poster_path": "/9YEUMnMhIjD5ek4zIqOhLSnTnJS.jpg",
+  "production_companies": [
+    {
+      "id": 5652,
+      "logo_path": null,
+      "name": "Six Entertainment",
+      "origin_country": "NL"
+    },
+    {
+      "id": 70784,
+      "logo_path": "/17G3JkSIjyFBbvSkmk0xPf6pysm.png",
+      "name": "IFC Midnight",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2011-10-06",
+  "revenue": 170323,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "100% medically INaccurate.",
+  "title": "The Human Centipede 2 (Full Sequence)",
+  "video": false,
+  "vote_average": 4.772,
+  "vote_count": 1398
+}

@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/8R8K2CeyHKVX5QX6CuYcu0hIuGq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 882251,
+  "imdb_id": "tt10360104",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Silent Hours",
+  "overview": "Private detective John Duval, an ex-lieutenant commander in the Royal Navy and Naval Intelligence, finds himself the prime suspect in a police hunt for a sexual killer when three women are brutally murdered.",
+  "popularity": 4.7799,
+  "poster_path": "/jaz7LlPq92tm4eCquZg1c3P68YL.jpg",
+  "production_companies": [
+    {
+      "id": 22291,
+      "logo_path": null,
+      "name": "Gallery Motion Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2021-09-01",
+  "revenue": 0,
+  "runtime": 155,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Silent Hours",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 33
+}

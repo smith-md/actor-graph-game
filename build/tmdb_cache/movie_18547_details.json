@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/szrPv1bsMPeewM6xLUNHQm9vG0E.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 18547,
+  "imdb_id": "tt0808265",
+  "origin_country": [
+    "NZ",
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Ferryman",
+  "overview": "Out on a dead calm ocean, in a thick fog, a group of tourists on a pleasure craft are about to cross paths with an ancient and terrible evil. Sharing the same ocean, a sick, dying old Greek man drifts alone on a stricken yacht.",
+  "popularity": 3.2639,
+  "poster_path": "/7KyC0r5HzvHniHBD0I0lpQggaiS.jpg",
+  "production_companies": [
+    {
+      "id": 9987,
+      "logo_path": "/o5OTKAw7Acl5fTZYPyl8M8D9570.png",
+      "name": "Lipsync Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 13742,
+      "logo_path": null,
+      "name": "General Film Corporation",
+      "origin_country": ""
+    },
+    {
+      "id": 71484,
+      "logo_path": null,
+      "name": "Atlantic Film Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2007-07-28",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Maori",
+      "iso_639_1": "mi",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Ferryman",
+  "video": false,
+  "vote_average": 4.577,
+  "vote_count": 40
+}

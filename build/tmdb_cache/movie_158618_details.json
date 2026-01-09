@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/rgeopRfqY2hvMSoB4roEerS85aX.jpg",
+  "belongs_to_collection": {
+    "id": 227140,
+    "name": "Black Emanuelle Collection",
+    "poster_path": "/2HCft58yiGHvTxONMoZ5HybcEqy.jpg",
+    "backdrop_path": "/ceX5Y46RTjC628xk08b6mnEetMn.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 158618,
+  "imdb_id": "tt0077494",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Emanuelle e le porno notti nel mondo n. 2",
+  "overview": "Emanuelle hosts this peculiar sexploitation Mondo film that looks at several examples of bizarre sexual behavior.",
+  "popularity": 3.2562,
+  "poster_path": "/7dhw2A3R84rhqizqOzdhAkCv4wp.jpg",
+  "production_companies": [
+    {
+      "id": 12723,
+      "logo_path": null,
+      "name": "Sorgente Cinematografica",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1978-05-17",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Crazy, Crazy World.",
+  "title": "Emanuelle and the Porno Nights of the World N. 2",
+  "video": false,
+  "vote_average": 4.913,
+  "vote_count": 23
+}

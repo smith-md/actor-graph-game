@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/udlGnZ1DJSAyF0aGbjxGLSsAl3D.jpg",
+  "belongs_to_collection": {
+    "id": 10721,
+    "name": "Mimic Collection",
+    "poster_path": "/wu9bW6MiaT5LFIEwyplr1D9wnAk.jpg",
+    "backdrop_path": "/oOZpLQaVyoWDgQ41lGlToRlH1aB.jpg"
+  },
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 10706,
+  "imdb_id": "tt0239641",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mimic 2",
+  "overview": "Detective Klaski investigates the death and mutilation of three men and soon crosses paths with Remy, an entomologist. Soon, he discovers that she is being stalked by a giant shape-shifting insect who is bent on taking over New York.",
+  "popularity": 4.9712,
+  "poster_path": "/13tSI83ucR7XuQcr7muAjNIgH91.jpg",
+  "production_companies": [
+    {
+      "id": 7405,
+      "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+      "name": "Dimension Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 2811,
+      "logo_path": null,
+      "name": "Neo Art & Logic",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2001-07-17",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Nothing will stop them...",
+  "title": "Mimic 2",
+  "video": false,
+  "vote_average": 5.295,
+  "vote_count": 237
+}

@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/fPWJn5pqBr8n4h0YxW3QuasdvoI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1127110,
+  "imdb_id": "tt27757546",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Diablo",
+  "overview": "Ex-con Kris Chaney seizes the daughter of a Colombian gangster to fulfill a noble promise to the young girl's mother. When her father enlists both the criminal underworld and a psychotic killer to exact his revenge, Kris relies on everything he's ever learned to stay alive and keep his word.",
+  "popularity": 8.7909,
+  "poster_path": "/uFQduVyYIinJy3eLjozgfl6Xtcn.jpg",
+  "production_companies": [
+    {
+      "id": 25885,
+      "logo_path": "/956ADIDUaUfQ0jQ3LCOs7QzpYn1.png",
+      "name": "Green Dog Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 114814,
+      "logo_path": "/rVSzG6voK307QMz4rZY3PISx7tn.png",
+      "name": "Film Mode Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 125231,
+      "logo_path": "/snGfhwT46aqKWhP8izedkL48aZY.png",
+      "name": "Wonder Street",
+      "origin_country": "US"
+    },
+    {
+      "id": 263045,
+      "logo_path": "/qXtQq2h6DuLVy3wMszKIF37PSKr.png",
+      "name": "Vault Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 263046,
+      "logo_path": null,
+      "name": "Daro Films",
+      "origin_country": ""
+    },
+    {
+      "id": 5469,
+      "logo_path": null,
+      "name": "Agora Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    }
+  ],
+  "release_date": "2025-06-13",
+  "revenue": 85000000,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There'll be hell to pay.",
+  "title": "Diablo",
+  "video": false,
+  "vote_average": 7.34,
+  "vote_count": 166
+}

@@ -1,0 +1,42 @@
+{
+  "adult": false,
+  "backdrop_path": "/izC8D4Bc9ebeupZB020cWUOgDez.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 841764,
+  "imdb_id": "tt13691036",
+  "origin_country": [],
+  "original_language": "nl",
+  "original_title": "Meskina",
+  "overview": "A thirty-something aspiring children's author, labeled \"meskina\" (pity case) by her Moroccan-Dutch community for still being career-less and single, sets out to once and for all find professional success and true love.",
+  "popularity": 2.9039,
+  "poster_path": "/1qP4A0ivvWzGJjeOkQ7tBHW1eOE.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2021-07-15",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "Write your own fairytale.",
+  "title": "Meskina",
+  "video": false,
+  "vote_average": 5.91,
+  "vote_count": 39
+}

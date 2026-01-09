@@ -1,0 +1,153 @@
+{
+  "id": 64404,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 24385,
+      "known_for_department": "Acting",
+      "name": "Laurent Terzieff",
+      "original_name": "Laurent Terzieff",
+      "popularity": 0.5546,
+      "profile_path": "/4eXa5yge4u73t90Ah4ybIiZlopr.jpg",
+      "cast_id": 2,
+      "character": "Le père",
+      "credit_id": "52fe46d9c3a368484e0a71bd",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 28254,
+      "known_for_department": "Acting",
+      "name": "Bernadette Lafont",
+      "original_name": "Bernadette Lafont",
+      "popularity": 0.6163,
+      "profile_path": "/yHkTu6s6neajEE9apext8McD6jz.jpg",
+      "cast_id": 3,
+      "character": "La mère",
+      "credit_id": "52fe46d9c3a368484e0a71c1",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 239185,
+      "known_for_department": "Acting",
+      "name": "Stanislas Robiolles",
+      "original_name": "Stanislas Robiolles",
+      "popularity": 0.1349,
+      "profile_path": null,
+      "cast_id": 4,
+      "character": "L'enfant",
+      "credit_id": "52fe46d9c3a368484e0a71c5",
+      "order": 2
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 56207,
+      "known_for_department": "Directing",
+      "name": "Philippe Garrel",
+      "original_name": "Philippe Garrel",
+      "popularity": 1.918,
+      "profile_path": "/bG3iJOTNfWzqz9CHsl3ANBP0nLn.jpg",
+      "credit_id": "52fe46d9c3a368484e0a71b9",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 56207,
+      "known_for_department": "Directing",
+      "name": "Philippe Garrel",
+      "original_name": "Philippe Garrel",
+      "popularity": 1.918,
+      "profile_path": "/bG3iJOTNfWzqz9CHsl3ANBP0nLn.jpg",
+      "credit_id": "59dca924c3a368623e070d98",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 937281,
+      "known_for_department": "Production",
+      "name": "Claude Nedjar",
+      "original_name": "Claude Nedjar",
+      "popularity": 0.3595,
+      "profile_path": "/6fcrRm5sxbqrKxRXeWZOSm0wcn4.jpg",
+      "credit_id": "5a5b1d6e0e0a267fd701bd5f",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 56207,
+      "known_for_department": "Directing",
+      "name": "Philippe Garrel",
+      "original_name": "Philippe Garrel",
+      "popularity": 1.918,
+      "profile_path": "/bG3iJOTNfWzqz9CHsl3ANBP0nLn.jpg",
+      "credit_id": "5a5b1d84c3a36867d301bd78",
+      "department": "Editing",
+      "job": "Editor"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1294989,
+      "known_for_department": "Production",
+      "name": "Sylvina Boissonnas",
+      "original_name": "Sylvina Boissonnas",
+      "popularity": 0.0533,
+      "profile_path": null,
+      "credit_id": "5a5b1d55c3a36867d301bd59",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1301,
+      "known_for_department": "Camera",
+      "name": "Philippe Rousselot",
+      "original_name": "Philippe Rousselot",
+      "popularity": 1.0529,
+      "profile_path": "/dxUrQKKnS0BAolYdp4Q7CkcWLSD.jpg",
+      "credit_id": "5a5b1d900e0a267fe601be22",
+      "department": "Camera",
+      "job": "Camera Operator"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 56207,
+      "known_for_department": "Directing",
+      "name": "Philippe Garrel",
+      "original_name": "Philippe Garrel",
+      "popularity": 1.918,
+      "profile_path": "/bG3iJOTNfWzqz9CHsl3ANBP0nLn.jpg",
+      "credit_id": "5a5b1d610e0a26576701866b",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1519824,
+      "known_for_department": "Camera",
+      "name": "Michel Fournier",
+      "original_name": "Michel Fournier",
+      "popularity": 0.2112,
+      "profile_path": "/f7JrHxVHDoKGhlIMF2CfBuBhcyC.jpg",
+      "credit_id": "5d46289a0f2fbd0fa0ee7c66",
+      "department": "Camera",
+      "job": "Director of Photography"
+    }
+  ]
+}

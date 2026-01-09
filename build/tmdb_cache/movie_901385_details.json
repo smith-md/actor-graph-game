@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/dR78i8aMsa8wIuBiHGfU8K5gNL7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.paramountplus.com/movies/video/gt2ppPdQfZ6Q_8xrw9Vz2D8rap9RQtgT/",
+  "id": 901385,
+  "imdb_id": "tt15353964",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Significant Other",
+  "overview": "Ruth and Harry decide to take a romantic backpacking trip through the Pacific Northwest, but amongst the beautiful scenery, Ruth makes an unexpected discovery that sets her off on a strange, frightening new path. The couple aren't alone in the woods, and they might not be the same when they come out...if they come out.",
+  "popularity": 2.7746,
+  "poster_path": "/liGvBdUsyOfiTJjNCD55JJfISzb.jpg",
+  "production_companies": [
+    {
+      "id": 96540,
+      "logo_path": "/AgYjTNeIKOh0yvegPLSjq8EOsif.png",
+      "name": "Paramount Players",
+      "origin_country": "US"
+    },
+    {
+      "id": 181339,
+      "logo_path": "/hohpZLahlITzZLzXj3umcf7C3d2.png",
+      "name": "Quay Street Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-10-06",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Do you really know the one you love?",
+  "title": "Significant Other",
+  "video": false,
+  "vote_average": 6.059,
+  "vote_count": 374
+}

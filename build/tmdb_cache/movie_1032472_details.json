@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/yexLinpa15gWj3LGYOcpFwOHbnU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.focusfeatures.com/touch",
+  "id": 1032472,
+  "imdb_id": "tt23468836",
+  "origin_country": [
+    "IS"
+  ],
+  "original_language": "is",
+  "original_title": "Snerting",
+  "overview": "Soon after the break of the pandemic and realizing that his clock is ticking, Kristofer gets the urge to embark on a journey to try to find out what really happened when his Japanese girlfriend mysteriously vanished without a trace from London fifty years earlier.",
+  "popularity": 3.9932,
+  "poster_path": "/yNXfG1CBVzffksd2EkEpJ9NXFOT.jpg",
+  "production_companies": [
+    {
+      "id": 62693,
+      "logo_path": "/i8mR4YqKiyDvxwmpSqzly9tQ31f.png",
+      "name": "RVK Studios",
+      "origin_country": "IS"
+    },
+    {
+      "id": 182028,
+      "logo_path": "/mTsDayzbpU8eXyO99NfBOXP6C2U.png",
+      "name": "Good Chaos",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IS",
+      "name": "Iceland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-05-29",
+  "revenue": 1709336,
+  "runtime": 121,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "Íslenska"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Discover what might have been.",
+  "title": "Touch",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 101
+}

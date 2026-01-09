@@ -1,0 +1,134 @@
+{
+  "adult": false,
+  "backdrop_path": "/48wrf9AAI6K2f7gsKVTh1UT81XW.jpg",
+  "belongs_to_collection": {
+    "id": 319850,
+    "name": "Department Q Collection",
+    "poster_path": "/i8H4xtfPVx6OYPgixSF41Envzhl.jpg",
+    "backdrop_path": "/mrgykjULNOZavn9xw9bp98aH1Rc.jpg"
+  },
+  "budget": 7500000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://trustnordisk.com/movie/boundless",
+  "id": 1078249,
+  "imdb_id": "tt21909366",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Den grænseløse",
+  "overview": "In a moment of cowardice, Detective Carl Mørck sends Rose, his junior colleague in Department Q, to the remote Danish island of Bornholm to answer his old colleague Christian Habersaat's repeated requests. But during his forced retirement ceremony Christian kills himself sending Rose into a journey deep into her own traumatic past. Later, Department Q are embroiled into an old cold case of a girl found dead hanging in a tree.",
+  "popularity": 4.9595,
+  "poster_path": "/bdJaVU8f8OJbz4SqhXx9TiErdDS.jpg",
+  "production_companies": [
+    {
+      "id": 235,
+      "logo_path": "/obOynoztBEhDNfHsDXBqOuQLAZk.png",
+      "name": "Nordisk Film Denmark",
+      "origin_country": "DK"
+    },
+    {
+      "id": 114640,
+      "logo_path": "/cuRdmReiXVPxFREh8pYhrBCigsd.png",
+      "name": "Nadcon Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 118,
+      "logo_path": "/AiBorgNTCS1lT1FdFPYheax9jfF.png",
+      "name": "Det Danske Filminstitut",
+      "origin_country": "DK"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 74635,
+      "logo_path": "/c2tRRTOeyjiFUxyJ5LNnIlSTRX.png",
+      "name": "Estonian Film Institute",
+      "origin_country": "EE"
+    },
+    {
+      "id": 90714,
+      "logo_path": "/2VLD5mDMMnIkPLNkb6uQy7k09eM.png",
+      "name": "Münchhausen",
+      "origin_country": "EE"
+    },
+    {
+      "id": 119770,
+      "logo_path": "/v6WgNpXooYFG8tS0Xau6UGMR7Ww.png",
+      "name": "Hyæne Film",
+      "origin_country": "DK"
+    },
+    {
+      "id": 3389,
+      "logo_path": "/ppNofD7TAGZPbCWqdRZL10D7Yg9.png",
+      "name": "TV 2",
+      "origin_country": "NO"
+    },
+    {
+      "id": 758,
+      "logo_path": "/fft3jrctrZNcgAxgN1w5Givtzip.png",
+      "name": "TV 2",
+      "origin_country": "DK"
+    },
+    {
+      "id": 105392,
+      "logo_path": "/hgmt6qtFTWqnSfbpuBWdphNKfUu.png",
+      "name": "TrustNordisk",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "EE",
+      "name": "Estonia"
+    }
+  ],
+  "release_date": "2024-02-01",
+  "revenue": 0,
+  "runtime": 126,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Boundless",
+  "video": false,
+  "vote_average": 5.975,
+  "vote_count": 80
+}

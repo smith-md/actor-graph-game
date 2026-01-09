@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/nMjfRk5SBNuxT01f5FYO5rJLwnI.jpg",
+  "belongs_to_collection": null,
+  "budget": 60000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 9320,
+  "imdb_id": "tt0118661",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Avengers",
+  "overview": "British Ministry agent John Steed, under direction from \"Mother\", investigates a diabolical plot by arch-villain Sir August de Wynter to rule the world with his weather control machine. Steed investigates the beautiful Doctor Mrs. Emma Peel, the only suspect, but simultaneously falls for her and joins forces with her to combat Sir August.",
+  "popularity": 6.8339,
+  "poster_path": "/1p5thyQ4pCy876HpdvFARqJ62N9.jpg",
+  "production_companies": [
+    {
+      "id": 2596,
+      "logo_path": "/755EAcJW7MqKFpCPgbWicsb2QV6.png",
+      "name": "Jerry Weintraub Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-08-13",
+  "revenue": 48600000,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Saving the World in Style.",
+  "title": "The Avengers",
+  "video": false,
+  "vote_average": 4.439,
+  "vote_count": 759
+}

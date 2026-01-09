@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/rfmMVhSJEJdsf5CnrwkeNgeOSLR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.elysianfilmgroup.com/movie/greatest-days",
+  "id": 974861,
+  "imdb_id": "tt12208980",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Greatest Days",
+  "overview": "Based on the Take That musical, five best friends have the night of their lives seeing their favourite boy band in concert. Twenty-five years later, their lives have changed in many different ways as they reunite for one more epic show by their beloved band, to relight their friendship and discover that maybe their greatest days are ahead of them.",
+  "popularity": 3.656,
+  "poster_path": "/xCPAatRJPqZi1gGJliExFb6BK6G.jpg",
+  "production_companies": [
+    {
+      "id": 175209,
+      "logo_path": "/dQm3CRl4Cu6UTZ4H7Nghe8kDJ91.png",
+      "name": "SPG3 Entertainment",
+      "origin_country": "CH"
+    },
+    {
+      "id": 26025,
+      "logo_path": "/dCodJldpENhvsu9erly8L1ct5IG.png",
+      "name": "Ascot Elite Entertainment Group",
+      "origin_country": "CH"
+    },
+    {
+      "id": 210835,
+      "logo_path": "/sVHTeLGqzIsljtlKpJRDfPZ3Lhg.png",
+      "name": "Elysian Film Group",
+      "origin_country": "GB"
+    },
+    {
+      "id": 215760,
+      "logo_path": "/8QEHr8gHpOXAeclRhfFO2sNCln0.png",
+      "name": "Zurich Avenue",
+      "origin_country": "CH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2023-06-16",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Never forget.",
+  "title": "Greatest Days",
+  "video": false,
+  "vote_average": 6.138,
+  "vote_count": 29
+}

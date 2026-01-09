@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/z5SNckbpdKEdx8N3FFOB93l9kp1.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 2928,
+  "imdb_id": "tt0117038",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Michael",
+  "overview": "Tabloid reporters are sent by their editor to investigate after the paper recieves a letter from a woman claiming an angel is living with her.",
+  "popularity": 4.2693,
+  "poster_path": "/oprNZ2BvJG9ZV2g3JYeWQgsOZHe.jpg",
+  "production_companies": [
+    {
+      "id": 11462,
+      "logo_path": "/7ZymELJwuWR4k5p0oeZ3d3WAhO3.png",
+      "name": "Alphaville Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 1765,
+      "logo_path": "/oqMb5Xwbvvle7riett66WbI06fQ.png",
+      "name": "Turner Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-12-25",
+  "revenue": 119700000,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's an angel... Not a saint.",
+  "title": "Michael",
+  "video": false,
+  "vote_average": 5.711,
+  "vote_count": 665
+}

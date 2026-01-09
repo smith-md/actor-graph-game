@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/9b1KGgzmZsUl7g3p1bjjpMRxANe.jpg",
+  "belongs_to_collection": null,
+  "budget": 75000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "http://www.warnerbros.com/rock-ages",
+  "id": 80585,
+  "imdb_id": "tt1336608",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rock of Ages",
+  "overview": "A small town girl and a city boy meet on the Sunset Strip, while pursuing their Hollywood dreams.",
+  "popularity": 3.2792,
+  "poster_path": "/oVeE2QTUb14jPU2lYEGPE3s8T9j.jpg",
+  "production_companies": [
+    {
+      "id": 2378,
+      "logo_path": "/5xDJwLbyyt8IXuRAsR7kVibLDYF.png",
+      "name": "Offspring Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    },
+    {
+      "id": 8871,
+      "logo_path": null,
+      "name": "Corner Store Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 12139,
+      "logo_path": null,
+      "name": "Material Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2236,
+      "logo_path": null,
+      "name": "Maguire Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-06-13",
+  "revenue": 59400000,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Nothin' but a good time.",
+  "title": "Rock of Ages",
+  "video": false,
+  "vote_average": 6.19,
+  "vote_count": 1321
+}

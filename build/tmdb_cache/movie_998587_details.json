@@ -1,0 +1,54 @@
+{
+  "adult": false,
+  "backdrop_path": "/wSa4vk25NBDA8DIYyptI9IhEmVV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 998587,
+  "imdb_id": "tt21309242",
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Graine",
+  "overview": "Lucie and Ines love each other and want to have a child, but they are missing something. After five attempts at MAP, they leave for a final test in Belgium. Then begins a crazy quest to find THE seed.",
+  "popularity": 2.6337,
+  "poster_path": "/jfp2t2jPC81Utig1NNTZ4AydBR2.jpg",
+  "production_companies": [
+    {
+      "id": 49619,
+      "logo_path": null,
+      "name": "Estrella Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2023-05-03",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "La Graine",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 34
+}

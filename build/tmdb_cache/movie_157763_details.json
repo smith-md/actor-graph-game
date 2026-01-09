@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/uoQJl79dMfLo6xZJI10YeHIxMTX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://amazingracerthemovie.com/",
+  "id": 157763,
+  "imdb_id": "tt1247691",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Amazing Racer",
+  "overview": "After the sudden death of her father leaves a teenage girl without a family, she becomes lost in her own anger and sadness. Her family doctor informs her that her father had a secret, that the mother she never knew was alive and well. When she travels to meet her, she befriends a horse trainer and discovers that in caring for the horse, she is able to overcome her hardships and emotional trauma. Together they begin to win many races and upset the favorites, owned by an egocentric mogul . Through the victories and new friendships she forms, she learns to find her way back to happiness.",
+  "popularity": 2.9667,
+  "poster_path": "/uvaUUhYMBkUwOKvoIFhVELT9FB9.jpg",
+  "production_companies": [
+    {
+      "id": 39260,
+      "logo_path": null,
+      "name": "Summit Works",
+      "origin_country": ""
+    },
+    {
+      "id": 39261,
+      "logo_path": null,
+      "name": "Supernova Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-04-23",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Amazing Racer",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 23
+}

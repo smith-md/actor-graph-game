@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/57apTJLwkykIT5jakxloP4DKwYQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://pinpointpresents.com/goodposture",
+  "id": 515725,
+  "imdb_id": "tt7647840",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Good Posture",
+  "overview": "A lazy and beautiful young woman uses men to make her life easier, until she pushes one too far, forcing her to discover that she can live a better life by taking responsibility for herself.",
+  "popularity": 3.0296,
+  "poster_path": "/dwFmPePaKh5ZhgZQcFiwMsYvCkU.jpg",
+  "production_companies": [
+    {
+      "id": 137864,
+      "logo_path": "/nLIaHSqEw1RZDLdGUO7jTjE30Sn.png",
+      "name": "Talland Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 150823,
+      "logo_path": "/bYgS8TKEdFJdxO4mubLneeMw2uS.png",
+      "name": "Northern Stories",
+      "origin_country": "GB"
+    },
+    {
+      "id": 150825,
+      "logo_path": "/q3cM00rxvGzMv2W9jeyACrkpSWk.png",
+      "name": "Two Flowers and a King Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 150826,
+      "logo_path": null,
+      "name": "Looking for Levi Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2019-10-04",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Good Posture",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 24
+}

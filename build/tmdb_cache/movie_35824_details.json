@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": "/y95AoP4rFVhd2GwKZSy14JYXXCT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 35824,
+  "imdb_id": "tt0279977",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Navigators",
+  "overview": "In South Yorkshire, a small group of railway maintenance men discover that because of privatization, their lives will never be the same. When the trusty British Rail sign is replaced by one reading East Midland Infrastructure, it is clear that there will be the inevitable winners and losers as downsizing and efficiency become the new buzzwords.",
+  "popularity": 4.3783,
+  "poster_path": "/x0p4LnzBEipEIfQHZaGU15UIrfg.jpg",
+  "production_companies": [
+    {
+      "id": 983,
+      "logo_path": null,
+      "name": "Parallax Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 45,
+      "logo_path": "/tUkNOAjyTt9D56DUeQfmmAFvwYQ.png",
+      "name": "Road Movies",
+      "origin_country": "DE"
+    },
+    {
+      "id": 7680,
+      "logo_path": "/aZ5xfV3J3kSShvHxo06ypgE2QBD.png",
+      "name": "Tornasol Media",
+      "origin_country": "ES"
+    },
+    {
+      "id": 8369,
+      "logo_path": null,
+      "name": "Alta Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 5778,
+      "logo_path": "/2loyoQweDxvotH3AknfL2zhsthg.png",
+      "name": "Channel 4 Television",
+      "origin_country": "GB"
+    },
+    {
+      "id": 986,
+      "logo_path": "/qDV8nLH9pjElZSnPmg29mzzNlTo.png",
+      "name": "ARD Degeto",
+      "origin_country": "DE"
+    },
+    {
+      "id": 10946,
+      "logo_path": "/gk4SFkJ3G49gGL308zymD8QGNw.png",
+      "name": "WDR/Arte",
+      "origin_country": "DE"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2001-09-14",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Navigators",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 81
+}

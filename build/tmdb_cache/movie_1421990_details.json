@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/coon7luAq01HIUr4qWvujZ04EDX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1421990,
+  "imdb_id": "tt35520290",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Baltimorons",
+  "overview": "A newly sober man's Christmas Eve dental emergency leads to an unexpected romance with his older dentist as they explore Baltimore together.",
+  "popularity": 4.0245,
+  "poster_path": "/yZWcrfj3mFf9LGItIFwa7DSkedz.jpg",
+  "production_companies": [
+    {
+      "id": 1974,
+      "logo_path": "/t8p2PpDBJo282a5TTr6Ln0wVkMZ.png",
+      "name": "Duplass Brothers Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-06-29",
+  "revenue": 39307,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They found themselves. Together. In Baltimore.",
+  "title": "The Baltimorons",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 32
+}

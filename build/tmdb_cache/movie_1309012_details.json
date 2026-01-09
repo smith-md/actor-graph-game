@@ -1,0 +1,96 @@
+{
+  "adult": false,
+  "backdrop_path": "/q9bvjUkpKltPE0S9oxci2pmD1Zx.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://wellgousa.com/films/altered",
+  "id": 1309012,
+  "imdb_id": "tt32123395",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Altered",
+  "overview": "In an alternate present, genetically enhanced humans dominate society. Outcasts Leon and Chloe fight for justice against corrupt politicians exploiting genetic disparity, risking everything to challenge the oppressive system.",
+  "popularity": 30.5794,
+  "poster_path": "/6QlAcGRaUrgHcZ4WTBh5lsPnzKx.jpg",
+  "production_companies": [
+    {
+      "id": 232200,
+      "logo_path": null,
+      "name": "Studio Atlantic",
+      "origin_country": "IE"
+    },
+    {
+      "id": 232201,
+      "logo_path": null,
+      "name": "Art Galaxy",
+      "origin_country": "CA"
+    },
+    {
+      "id": 273958,
+      "logo_path": null,
+      "name": "Splendid Entertainment",
+      "origin_country": "DE"
+    },
+    {
+      "id": 92394,
+      "logo_path": "/xnsTWHinFaR4oQuHFdxe6JNhfrI.png",
+      "name": "Well Go USA Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "KZ",
+      "name": "Kazakhstan"
+    }
+  ],
+  "release_date": "2025-09-18",
+  "revenue": 346774,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fight the system. Change the world.",
+  "title": "Altered",
+  "video": false,
+  "vote_average": 6.127,
+  "vote_count": 75
+}

@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/8FWC4tDWB1p006vwiubhai4a8iS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1020969,
+  "imdb_id": "tt21054736",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Teddybjørnens Jul",
+  "overview": "While visiting a Christmas market in her Norwegian town, eight year old Mariann spots a talking teddy bear at a carnival game booth. However, when someone else wins it, she embarks on a quest to find the adorable bear that captured her heart.",
+  "popularity": 3.7268,
+  "poster_path": "/tbsVvUZpxs0ez1eutTNQPYVCcqk.jpg",
+  "production_companies": [
+    {
+      "id": 3079,
+      "logo_path": "/12cb7xhHlYnW4uksoVR8hp48psC.png",
+      "name": "Fantefilm",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2022-11-05",
+  "revenue": 6200000,
+  "runtime": 76,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Teddy's Christmas",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 49
+}

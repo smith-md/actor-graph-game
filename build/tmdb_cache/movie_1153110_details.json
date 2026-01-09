@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/wDfpKEENIW5j65n08LHorrfItk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1153110,
+  "imdb_id": "tt23472210",
+  "origin_country": [
+    "NZ",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bookworm",
+  "overview": "Eleven-year-old Mildred’s life is turned upside down when her mother lands in hospital and estranged, American magician father, Strawn Wise, comes to look after her.  Hoping to entertain the bookish tween, Strawn takes Mildred camping in the notoriously rugged New Zealand wilderness, and the pair embark on the ultimate test of family bonding – a quest to find the mythological beast known as the Canterbury Panther.",
+  "popularity": 3.6433,
+  "poster_path": "/260GDjmYf2A9W09RRo5FwUueQ3Y.jpg",
+  "production_companies": [
+    {
+      "id": 88872,
+      "logo_path": "/xNnbPGXzyGz2BCpkq3TBZsQsHv6.png",
+      "name": "Firefly Films",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 212771,
+      "logo_path": "/1wiMpZFXg2eTM20O0jvCKu5av88.png",
+      "name": "Nowhere",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-07-04",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Adventure called her name... Unfortunately dad answered.",
+  "title": "Bookworm",
+  "video": false,
+  "vote_average": 6.532,
+  "vote_count": 78
+}

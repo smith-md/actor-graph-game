@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/4oxpF2O8Hpnfc0xfc2aUNApcDDr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 11938,
+  "imdb_id": "tt0090852",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Clockwise",
+  "overview": "School headmaster Brian Stimpson is obsessed with timeliness, order, and discipline. Brian misses his train after meticulously preparing a speech for an education conference. With no one else to turn to, he asks young former student Laura Wisely for a ride. Laura, upset over a break-up, agrees to drive him in her parents' car - which alarms her mother and father, who worry that she has run away with a married man and subsequently alert the police.",
+  "popularity": 2.4754,
+  "poster_path": "/tYKbdwgD4xDTkT9x7BBw4qWoQAg.jpg",
+  "production_companies": [
+    {
+      "id": 6179,
+      "logo_path": "/4Wq7euFdOGM0wwRbxsYvknNdhSC.png",
+      "name": "Thorn EMI Screen Entertainment",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1986-03-01",
+  "revenue": 1476356,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mr. Stimpson ran his life and everyone else's by the clock. Then one day at 2:09 and 43 seconds... The clock decided to strike back.",
+  "title": "Clockwise",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 206
+}

@@ -1,0 +1,102 @@
+{
+  "id": 54553,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 17743,
+      "known_for_department": "Acting",
+      "name": "Miranda Cosgrove",
+      "original_name": "Miranda Cosgrove",
+      "popularity": 5.1961,
+      "profile_path": "/qIGeoyXEVu1LxTH34TWx1YSHyQr.jpg",
+      "cast_id": 3,
+      "character": "Margo (voice)",
+      "credit_id": "52fe48a2c3a36847f8171b9b",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 124750,
+      "known_for_department": "Acting",
+      "name": "Dana Gaier",
+      "original_name": "Dana Gaier",
+      "popularity": 1.0251,
+      "profile_path": "/hw3Ou8cj22MLXl8QKrL8vcidcCB.jpg",
+      "cast_id": 4,
+      "character": "Edith (voice)",
+      "credit_id": "52fe48a2c3a36847f8171b9f",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 3,
+      "id": 122851,
+      "known_for_department": "Acting",
+      "name": "Elsie Fisher",
+      "original_name": "Elsie Fisher",
+      "popularity": 3.0176,
+      "profile_path": "/lSmrN828nMMXHvwr7IgO1qlYPSa.jpg",
+      "cast_id": 8,
+      "character": "Agnes (voice)",
+      "credit_id": "5a1f28130e0a264cbc084ea7",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 124747,
+      "known_for_department": "Acting",
+      "name": "Pierre Coffin",
+      "original_name": "Pierre Coffin",
+      "popularity": 1.2236,
+      "profile_path": "/eAA9uWRqHlm1LT3nZfXb7UuPfVb.jpg",
+      "cast_id": 6,
+      "character": "Minions / Social Worker (voice)",
+      "credit_id": "52fe48a2c3a36847f8171ba3",
+      "order": 3
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 220833,
+      "known_for_department": "Directing",
+      "name": "Samuel Tourneux",
+      "original_name": "Samuel Tourneux",
+      "popularity": 1.3699,
+      "profile_path": "/9emrMVOSdOuXgXFRRA8wQmtb2xL.jpg",
+      "credit_id": "52fe48a2c3a36847f8171b97",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 237759,
+      "known_for_department": "Writing",
+      "name": "Brett Hoffman",
+      "original_name": "Brett Hoffman",
+      "popularity": 1.0492,
+      "profile_path": null,
+      "credit_id": "52fe48a2c3a36847f8171ba9",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 8023,
+      "known_for_department": "Directing",
+      "name": "Kyle Balda",
+      "original_name": "Kyle Balda",
+      "popularity": 1.5207,
+      "profile_path": "/kjf5Thaf8s5vImSN7JUJkW6jKG8.jpg",
+      "credit_id": "52fe48a2c3a36847f8171b91",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

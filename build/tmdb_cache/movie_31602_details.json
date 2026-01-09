@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/v1qEgoa9gqdomROteK8ceelJueJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 31602,
+  "imdb_id": "tt0060232",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Chase",
+  "overview": "The escape of Bubber Reeves from prison affects the inhabitants of a small Southern town.",
+  "popularity": 4.8503,
+  "poster_path": "/lpX8szjdzaXqxKBiV8xfRVNzSiu.jpg",
+  "production_companies": [
+    {
+      "id": 388,
+      "logo_path": null,
+      "name": "Horizon Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1966-02-18",
+  "revenue": 2300000,
+  "runtime": 135,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A breathless explosive story of today!",
+  "title": "The Chase",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 314
+}

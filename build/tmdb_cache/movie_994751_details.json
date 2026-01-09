@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/btm9KNVPi06ks2VOWjGcwYJbRTJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81610274",
+  "id": 994751,
+  "imdb_id": "tt20567314",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Aaahh Belinda",
+  "overview": "A young actor's perfect life takes a madcap turn when she agrees to star in a commercial — and suddenly gets transported to her character's world.",
+  "popularity": 4.7506,
+  "poster_path": "/6MI2WO2ThKMz8LSdpxBvaIAt8FE.jpg",
+  "production_companies": [
+    {
+      "id": 142312,
+      "logo_path": null,
+      "name": "OGM Pictures",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2023-04-07",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Oh Belinda",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 63
+}

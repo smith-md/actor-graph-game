@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/h0hgSBPF5vKOg9tSkKovljeAwre.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 25472,
+  "imdb_id": "tt1526300",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Merry Madagascar",
+  "overview": "While trapped on the island of Madagascar, the Central Park Zoo escapees receive a visit from Santa--crash landing on their territory and getting amnesia to boot! The animals must help Santa assume his rightful place in the universe, while King Julian laps up the opportunity for his subjects.",
+  "popularity": 5.0853,
+  "poster_path": "/s5nELMHR1L2agJXVIPiWxu6dWl8.jpg",
+  "production_companies": [
+    {
+      "id": 521,
+      "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+      "name": "DreamWorks Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 520,
+      "logo_path": "/pU7YTI9FfrICurXpl5V9TfCO0oJ.png",
+      "name": "Pacific Data Images",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-11-16",
+  "revenue": 0,
+  "runtime": 30,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Merry Madagascar",
+  "video": false,
+  "vote_average": 6.485,
+  "vote_count": 309
+}

@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/m0VOz5KTHxGZB5iegG48U5EjHQD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.bobtrevinolikesit.com",
+  "id": 1169789,
+  "imdb_id": "tt28613536",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bob Trevino Likes It",
+  "overview": "Lily Trevino unexpectedly befriends an online stranger who shares her self-centered father’s name. This new Bob Trevino’s support could transform her life.",
+  "popularity": 3.9831,
+  "poster_path": "/kMIiBztK0PgwIQ0FMItv4dd8wIL.jpg",
+  "production_companies": [
+    {
+      "id": 169187,
+      "logo_path": null,
+      "name": "Laymon's Terms",
+      "origin_country": ""
+    },
+    {
+      "id": 73381,
+      "logo_path": null,
+      "name": "Five By Eight Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 207085,
+      "logo_path": null,
+      "name": "Purple Suit Factory",
+      "origin_country": ""
+    },
+    {
+      "id": 155872,
+      "logo_path": null,
+      "name": "Off Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 738,
+      "logo_path": "/bLBdowsgMoipjXLi9QpdcZOvPhG.png",
+      "name": "Myriad Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 121204,
+      "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital",
+      "origin_country": "US"
+    },
+    {
+      "id": 20092,
+      "logo_path": null,
+      "name": "ArtImage Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 227523,
+      "logo_path": null,
+      "name": "Daydream Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 252041,
+      "logo_path": null,
+      "name": "Seasick Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-20",
+  "revenue": 237416,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bob Trevino Likes It",
+  "video": false,
+  "vote_average": 7.402,
+  "vote_count": 97
+}

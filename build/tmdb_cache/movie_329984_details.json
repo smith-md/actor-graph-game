@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/oLRY8jKZZuOeeoGBqIo6ATssoiN.jpg",
+  "belongs_to_collection": {
+    "id": 333075,
+    "name": "From Vegas to Macau Collection",
+    "poster_path": "/4W809osBkS2SmWIT318nK6CvPQ9.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 329984,
+  "imdb_id": "tt4310772",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "賭城風雲 II",
+  "overview": "Following his confrontation with the nefarious DOA organization, Ken (Chow Yun Fat) is looking forward to going back to enjoying his retirement. His rest is cut abruptly short when his protégé Vincent (Shawn Yue), who's now working for Interpol, asks for Ken's help in taking down the real mastermind behind DOA, Aoi. The two head to Thailand, where DOA's former chief accountant Mark (Nick Cheung) has escaped with his daughter.",
+  "popularity": 3.2781,
+  "poster_path": "/lRttDVgevYbTWvLh6rSaVde1hcy.jpg",
+  "production_companies": [
+    {
+      "id": 20542,
+      "logo_path": null,
+      "name": "Sun Entertainment Culture",
+      "origin_country": "HK"
+    },
+    {
+      "id": 8250,
+      "logo_path": null,
+      "name": "Bona International Film Group",
+      "origin_country": "CN"
+    },
+    {
+      "id": 5552,
+      "logo_path": "/kZB9yp7OoveJ8wdynDcZEDtTbB2.png",
+      "name": "Media Asia Films",
+      "origin_country": "HK"
+    },
+    {
+      "id": 17820,
+      "logo_path": null,
+      "name": "Mega-Vision Pictures (MVP)",
+      "origin_country": "HK"
+    },
+    {
+      "id": 5798,
+      "logo_path": "/tmuI9BGXgpWLmokhlxpnG3IGNQB.png",
+      "name": "Shaw Brothers",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2015-02-19",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "From Vegas to Macau II",
+  "video": false,
+  "vote_average": 4.967,
+  "vote_count": 46
+}

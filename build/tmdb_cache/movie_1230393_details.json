@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/upDUDOlpGBPGwV6A4vs0y2Whzg0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81733654",
+  "id": 1230393,
+  "imdb_id": "tt30475122",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "MONSTERS 一百三情飛龍侍極",
+  "overview": "A samurai's path leads him to a young waitress whose hometown was destroyed by a dragon. He doesn't want any trouble — but it finds them anyway.",
+  "popularity": 4.1918,
+  "poster_path": "/yG8QKnaiz7JoIMh3oxdm0JJN6IG.jpg",
+  "production_companies": [
+    {
+      "id": 171872,
+      "logo_path": "/2aHNRMPYLETYEw1ZW8h9yxSVOVi.png",
+      "name": "E&H production",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2024-01-21",
+  "revenue": 0,
+  "runtime": 26,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Monsters 103 Mercies Dragon Damnation",
+  "video": false,
+  "vote_average": 7.18,
+  "vote_count": 133
+}

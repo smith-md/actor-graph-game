@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/tJ2b4rWJeuSM728JTtoXZL0EFbf.jpg",
+  "belongs_to_collection": null,
+  "budget": 3842000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 26175,
+  "imdb_id": "tt0044760",
+  "origin_country": [],
+  "original_language": "en",
+  "original_title": "Ivanhoe",
+  "overview": "Sir Walter Scott's classic story of the chivalrous Ivanhoe who joins with Robin of Locksley in the fight against Prince John and for the return of King Richard the Lionheart.",
+  "popularity": 3.4981,
+  "poster_path": "/bH2cat7MemIGLevYqCUrXkBCDiC.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    },
+    {
+      "id": 1460,
+      "logo_path": null,
+      "name": "Loew's Incorporated",
+      "origin_country": "US"
+    },
+    {
+      "id": 5579,
+      "logo_path": "/p3vXYhkpbws0QrdSAwI98ONX7Po.png",
+      "name": "Metro-Goldwyn-Mayer British Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1952-07-31",
+  "revenue": 10878000,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "At Last on the Screen ! Biggest Spectacle since QUO VADIS!",
+  "title": "Ivanhoe",
+  "video": false,
+  "vote_average": 6.789,
+  "vote_count": 190
+}

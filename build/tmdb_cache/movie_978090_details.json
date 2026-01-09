@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/jorgdQ0Ows8iucGfba0Vb6Epqve.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://le-pacte.com/international/film/striking-the-palace",
+  "id": 978090,
+  "imdb_id": "tt27722491",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Petites Mains",
+  "overview": "Eva, 20, joins Safietou, Djaoua, Violette and Simone, a team of chambermaids at one of Paris’s finest Palace Hotels. She discovers the poor working conditions of these invisible women, who work tirelessly to keep the high standards of these luxurious hotels, where one night can cost their annual salary. Many are not even employed by the hotels directly but by sub-contractors, and are therefore particularly vulnerable. While on strike to fight against subcontracting and to obtain better working conditions, they come up with a colorful idea : having their own “Fashion Week” in front of the hotel!",
+  "popularity": 2.8548,
+  "poster_path": "/nIVt1Jr37o5U9opboyBjs6zZ9mB.jpg",
+  "production_companies": [
+    {
+      "id": 15037,
+      "logo_path": null,
+      "name": "Albertine Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 5125,
+      "logo_path": "/t3oWTsVukmEzrZzvfr37XRBibo5.png",
+      "name": "Le Pacte",
+      "origin_country": "FR"
+    },
+    {
+      "id": 126170,
+      "logo_path": null,
+      "name": "Prima Vista",
+      "origin_country": ""
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-05-01",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Striking The Palace",
+  "video": false,
+  "vote_average": 6.355,
+  "vote_count": 69
+}

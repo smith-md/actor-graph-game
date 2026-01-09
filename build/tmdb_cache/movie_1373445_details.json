@@ -1,0 +1,102 @@
+{
+  "adult": false,
+  "backdrop_path": "/2JHJtATet58dzGpEwFek0kKGJFo.jpg",
+  "belongs_to_collection": {
+    "id": 207621,
+    "name": "V/H/S Collection",
+    "poster_path": "/uSpfqhUF7Zxo5O9ptNlWr4dyqAr.jpg",
+    "backdrop_path": "/9DnZ4SvJk2Bo2jQBY3RdCqIXnmQ.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.shudder.com/movies/watch/vhshalloween/883aa74088e9aa1a",
+  "id": 1373445,
+  "imdb_id": "tt37676033",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "V/H/S/Halloween",
+  "overview": "A collection of Halloween-themed videotapes unleashes a series of twisted, blood-soaked tales, turning trick-or-treat into a struggle for survival.",
+  "popularity": 5.8074,
+  "poster_path": "/bvMKSZtN8KAdtlKoYbEi1Zhyaou.jpg",
+  "production_companies": [
+    {
+      "id": 142877,
+      "logo_path": "/c0Qhy9uvdXfvAZQ9e8GnT5Nb75m.png",
+      "name": "Shudder",
+      "origin_country": "US"
+    },
+    {
+      "id": 179565,
+      "logo_path": "/burAbTx0L7cECMVqAEerWNPGYdI.png",
+      "name": "Cinepocalypse",
+      "origin_country": "US"
+    },
+    {
+      "id": 15157,
+      "logo_path": "/yezzLb9RbKNtQUsyYySAqC9TQr7.png",
+      "name": "Bloody Disgusting",
+      "origin_country": "US"
+    },
+    {
+      "id": 80884,
+      "logo_path": "/nTpiHXhGyh9BZPccglpqt3ql2HY.png",
+      "name": "Studio71",
+      "origin_country": "US"
+    },
+    {
+      "id": 6736,
+      "logo_path": "/cdCAYeb3K3Ajhn1tfXHPSfT1KzB.png",
+      "name": "Image Nation Abu Dhabi",
+      "origin_country": "AE"
+    },
+    {
+      "id": 169906,
+      "logo_path": "/zcjActhEXaYww1JSvx2OtCd8jTG.png",
+      "name": "Spooky Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 276262,
+      "logo_path": "/aPBayr9blyun7loP31H67Jlq2tT.png",
+      "name": "Speed Demon Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "AE",
+      "name": "United Arab Emirates"
+    }
+  ],
+  "release_date": "2025-09-19",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "V/H/S/Halloween",
+  "video": false,
+  "vote_average": 6.282,
+  "vote_count": 163
+}

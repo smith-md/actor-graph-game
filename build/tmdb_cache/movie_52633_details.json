@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/ogHI9aLHXPIT8awXKyo2WEHbQii.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 52633,
+  "imdb_id": "tt0073778",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Switchblade Sisters",
+  "overview": "The leader of an inner city girl gang is challenged when a new girl moves into the neighborhood.",
+  "popularity": 3.8544,
+  "poster_path": "/axVIxmkYZFBDwMMhifeUXLHzu56.jpg",
+  "production_companies": [
+    {
+      "id": 17777,
+      "logo_path": null,
+      "name": "Centaur Pictures Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1975-01-05",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "So Easy to Kill, So Hard to Love",
+  "title": "Switchblade Sisters",
+  "video": false,
+  "vote_average": 6.284,
+  "vote_count": 97
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/zPDpHMdbbE4O0TxVkMcgD6j2ImR.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/movies/cobra",
+  "id": 9874,
+  "imdb_id": "tt0090859",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cobra",
+  "overview": "A tough-on-crime street cop must protect the only surviving witness to a strange murderous cult with far reaching plans.",
+  "popularity": 5.4914,
+  "poster_path": "/jCxfbTh8JvJil5edhNywxaTHoWv.jpg",
+  "production_companies": [
+    {
+      "id": 1444,
+      "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+      "name": "The Cannon Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 13549,
+      "logo_path": null,
+      "name": "Golan-Globus Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-01-01",
+  "revenue": 49042224,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Crime is a disease. Meet the cure.",
+  "title": "Cobra",
+  "video": false,
+  "vote_average": 6.148,
+  "vote_count": 1885
+}

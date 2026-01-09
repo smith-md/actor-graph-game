@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/70lDh4u0mc44dBw661qWg1kwJmv.jpg",
+  "belongs_to_collection": null,
+  "budget": 800000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1094605,
+  "imdb_id": "tt26546715",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Duel",
+  "overview": "When a friend group is torn apart by betrayal, they decide to settle their differences in the most old school of ways. Leaving their modern home of Los Angeles, they embark on a bizarre adventure that seemingly takes them back in time across an underground cave river. Cocaine. Existentialism. A four hundred and fifty pound pig. True love. Cosmic jokes. Mexico?",
+  "popularity": 2.5139,
+  "poster_path": "/dwh0Z4sxzItQpNVoPeevQqqNTqL.jpg",
+  "production_companies": [
+    {
+      "id": 96986,
+      "logo_path": "/wMAbTVQqWT4Rq2DfYMJRLqSE1gm.png",
+      "name": "Pigasus Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-07-31",
+  "revenue": 7400000,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Modern problems, Historic solutions",
+  "title": "The Duel",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 29
+}

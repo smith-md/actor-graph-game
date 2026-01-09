@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/6m3K1hizm5yoguOsAcIjNSECn5b.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.mongrelmedia.com/index.php/filmlink?id=0a61b4b5-1a4b-ed11-a9e2-b9100b74c3e9",
+  "id": 1319951,
+  "imdb_id": "tt29634843",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "40 Acres",
+  "overview": "Hailey Freeman and her family are the last descendants of African American farmers who settled in rural Canada after the Civil War. In a famine-decimated near future, they now struggle to safeguard their farm, as they make one last stand against a vicious militia hell-bent on taking their 40 Acres.",
+  "popularity": 15.1849,
+  "poster_path": "/9ReRlClJZ5AAaXLu7zaEwWAXlZE.jpg",
+  "production_companies": [
+    {
+      "id": 57640,
+      "logo_path": "/efkbjS6rE9wOcpAF8Q9VPlvBde2.png",
+      "name": "Hungry Eyes Media",
+      "origin_country": "CA"
+    },
+    {
+      "id": 258040,
+      "logo_path": null,
+      "name": "4T Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 210518,
+      "logo_path": "/nmUwCJxuVZqiKINx0DXhp7TcfVA.png",
+      "name": "Fela",
+      "origin_country": "CA"
+    },
+    {
+      "id": 258041,
+      "logo_path": null,
+      "name": "Backhome",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-07-02",
+  "revenue": 754751,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Cree",
+      "iso_639_1": "cr",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "Get off our land.",
+  "title": "40 Acres",
+  "video": false,
+  "vote_average": 6.145,
+  "vote_count": 62
+}

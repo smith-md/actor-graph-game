@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/qeMUiDbR2AIX3feRFDdBZesjDM7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 83817,
+  "imdb_id": "tt0021106",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Madam Satan",
+  "overview": "A socialite masquerades as a notorious femme fatale to win back her straying husband during a costume party aboard a doomed dirigible.",
+  "popularity": 4.5356,
+  "poster_path": "/fMRAu0p3cT1p06TCbPDsjcLgs4O.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1930-09-20",
+  "revenue": 0,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Madam Satan",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 25
+}

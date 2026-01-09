@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/45MOCK83I3EwY4nvI2msxG8BArn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1037052,
+  "imdb_id": "tt22248276",
+  "origin_country": [
+    "IT",
+    "FR"
+  ],
+  "original_language": "it",
+  "original_title": "Palazzina LAF",
+  "overview": "Caterino is a worker at the Ilva factory in Taranto. When the company executives decide to use him as a spy to identify the workers they should get rid of, Caterino starts to track his colleagues, in search of reasons to report them. He then asks to be assigned himself to the Palazzino LAF where as punishment, some employees sit out their time with no job assignment. There he discovers that what looks like paradise is actually a strategy to psychologically break troublesome workers.",
+  "popularity": 2.9457,
+  "poster_path": "/Avkcz7wPGEadCInD5X7MyWGPy46.jpg",
+  "production_companies": [
+    {
+      "id": 7699,
+      "logo_path": "/fHasfMWVRXGOmao2p1ijwicv9f4.png",
+      "name": "Palomar",
+      "origin_country": "IT"
+    },
+    {
+      "id": 177728,
+      "logo_path": null,
+      "name": "Bravo",
+      "origin_country": ""
+    },
+    {
+      "id": 195898,
+      "logo_path": "/4HY7isYfwsthOe55AK1vSHE0Jk5.png",
+      "name": "BiM Produzione",
+      "origin_country": "IT"
+    },
+    {
+      "id": 11010,
+      "logo_path": "/lNGhXPAxxNSMHgdJLm2Qu0yTJZR.png",
+      "name": "Paprika Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 12033,
+      "logo_path": null,
+      "name": "Regione Puglia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 104800,
+      "logo_path": "/dQcywJCmWry749huSdi3jQbP5i.png",
+      "name": "Apulia Film Commission",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2023-10-21",
+  "revenue": 840078,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Palazzina LAF",
+  "video": false,
+  "vote_average": 6.881,
+  "vote_count": 168
+}

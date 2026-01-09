@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/cywr26aku0SRTvn1ks6HRoF4SGZ.jpg",
+  "belongs_to_collection": {
+    "id": 1020497,
+    "name": "Heavy Trip Collection",
+    "poster_path": "/sLmI6TBKSfQTWL4xbvF6pQsuyc1.jpg",
+    "backdrop_path": "/fuiiklvDofrF82pzHxbfjcfNNJS.jpg"
+  },
+  "budget": 3029000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 716808,
+  "imdb_id": "tt28772978",
+  "origin_country": [
+    "FI"
+  ],
+  "original_language": "fi",
+  "original_title": "Hevimpi reissu",
+  "overview": "The world's hardest - and weirdest - heavy metal band Impaled Rektum is serving their sentence in Norway's nicest prison. They receive word that guitarist Lotvonen's parents' reindeer herding farm is about to come under the hammer. It will take a big gig and big money to save the farm. A breakout ensues and a trip to the world's biggest heavy festival, Wacken in northern Germany begins. The higher the target, the bigger the obstacles. This is what the boys will experience on their epic journey to the main stage of Wacken - every metalhead's heaven.",
+  "popularity": 3.5418,
+  "poster_path": "/fSCxOGXm7mfEU6Y5VEAufnDZPOx.jpg",
+  "production_companies": [
+    {
+      "id": 5974,
+      "logo_path": "/vgPUbUDwVGL1ruiPv2KFtjh75UD.png",
+      "name": "Making Movies",
+      "origin_country": "FI"
+    },
+    {
+      "id": 88344,
+      "logo_path": "/cMrrz7iZkUrkZyvjEfGPT58rZnJ.png",
+      "name": "Heimathafen Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 93704,
+      "logo_path": "/1gznlakpOfPqfdL05LtgI1BnHuF.png",
+      "name": "Mutant Koala Pictures",
+      "origin_country": "FI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "EE",
+      "name": "Estonia"
+    },
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2024-10-11",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Heavier Trip",
+  "video": false,
+  "vote_average": 6.86,
+  "vote_count": 43
+}

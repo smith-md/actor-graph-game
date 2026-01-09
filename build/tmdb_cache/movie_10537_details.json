@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/kGlEhkmFaGUvhBvLvhhq9i9OOXX.jpg",
+  "belongs_to_collection": null,
+  "budget": 38000000,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 10537,
+  "imdb_id": "tt0101761",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Doors",
+  "overview": "The story of the famous and influential 1960s rock band and its lead singer and composer, Jim Morrison.",
+  "popularity": 4.8833,
+  "poster_path": "/x1LM3dzGuG6xOz0aT2e71o11vhu.jpg",
+  "production_companies": [
+    {
+      "id": 275,
+      "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
+      "name": "Carolco Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 78806,
+      "logo_path": null,
+      "name": "Bill Graham Films",
+      "origin_country": ""
+    },
+    {
+      "id": 23,
+      "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 525,
+      "logo_path": "/lBHEvKOxh6jXpv5u5QKkCrNLkvW.png",
+      "name": "Ixtlan Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-03-01",
+  "revenue": 34416893,
+  "runtime": 140,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The ceremony is about to begin.",
+  "title": "The Doors",
+  "video": false,
+  "vote_average": 7.113,
+  "vote_count": 1543
+}

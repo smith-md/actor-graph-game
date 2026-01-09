@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/kDTDXEtSx9EQNLJUwsv7h44EQHy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 547017,
+  "imdb_id": "tt8430598",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shirley",
+  "overview": "A famous horror writer finds inspiration for her next book after she and her husband take in a young couple.",
+  "popularity": 2.7911,
+  "poster_path": "/iSwTnNS7TKAS79Sz9LvyqlBxxrU.jpg",
+  "production_companies": [
+    {
+      "id": 1422,
+      "logo_path": "/rIB6DuimR1qgLE14cBwpMABC2xx.png",
+      "name": "Killer Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 85283,
+      "logo_path": "/1RtU5hPGEDDbjNw3KXnTOY2sbZn.png",
+      "name": "Los Angeles Media Fund",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-09-11",
+  "revenue": 230441,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Shirley",
+  "video": false,
+  "vote_average": 6.088,
+  "vote_count": 194
+}

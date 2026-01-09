@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/fBlzTwgtbDYkDKlhnPu69jHfVGy.jpg",
+  "belongs_to_collection": null,
+  "budget": 17000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.neonrated.com/film/together",
+  "id": 1242011,
+  "imdb_id": "tt31184028",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Together",
+  "overview": "Years into their relationship, Tim and Millie find themselves at a crossroads as they move to the country, abandoning all that is familiar in their lives except each other. With tensions already flaring, a nightmarish encounter with a mysterious, unnatural force threatens to corrupt their lives, their love, and their flesh.",
+  "popularity": 19.1448,
+  "poster_path": "/m52XidzKx94bKlToZfEXUnL3pdy.jpg",
+  "production_companies": [
+    {
+      "id": 123244,
+      "logo_path": "/7eH1Y4RIuontJJXVmmSRrNUMZhU.png",
+      "name": "Picturestart",
+      "origin_country": "US"
+    },
+    {
+      "id": 168181,
+      "logo_path": "/adHpT0fRW86W80jPtJRo96pqJE4.png",
+      "name": "Tango Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 104363,
+      "logo_path": "/tKIimrvYUH02D4km00lCEDUYvIF.png",
+      "name": "30WEST",
+      "origin_country": "US"
+    },
+    {
+      "id": 17094,
+      "logo_path": "/vzwqInC0VPs2eSLBAWz2GjvPFMf.png",
+      "name": "Princess Pictures",
+      "origin_country": "AU"
+    },
+    {
+      "id": 221878,
+      "logo_path": "/vkDC86CasbGuoidcIpAINSBMUXC.png",
+      "name": "1.21 Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 270104,
+      "logo_path": null,
+      "name": "Project Foxtrot",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-28",
+  "revenue": 32273159,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Join us.",
+  "title": "Together",
+  "video": false,
+  "vote_average": 7.08,
+  "vote_count": 814
+}

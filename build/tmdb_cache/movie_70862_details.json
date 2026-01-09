@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/nYNnaLrIZIbtiV45Xz8GUAijuWv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "http://www.americangrindhouse.com/",
+  "id": 70862,
+  "imdb_id": "tt1307861",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "American Grindhouse",
+  "overview": "This documentary explores the hidden history of the American Exploitation Film. The movie digs deep into this often overlooked category of U.S. cinema and unearths the shameless and occasionally shocking origins of this popular entertainment.",
+  "popularity": 3.2884,
+  "poster_path": "/1vysYoEj5XFrfcSBrJyWQ4YeHks.jpg",
+  "production_companies": [
+    {
+      "id": 7535,
+      "logo_path": null,
+      "name": "Lux Digital Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 7536,
+      "logo_path": null,
+      "name": "End Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-02-04",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Giving ‘Em What They Want Since the Dawn of Motion Pictures.",
+  "title": "American Grindhouse",
+  "video": false,
+  "vote_average": 6.742,
+  "vote_count": 64
+}

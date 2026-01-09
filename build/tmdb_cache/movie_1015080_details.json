@@ -1,0 +1,118 @@
+{
+  "adult": false,
+  "backdrop_path": "/ncbT2hBlge60umfN904qkkVpm0E.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://epic-pictures.com/film/satanic-hispanics",
+  "id": 1015080,
+  "imdb_id": "tt22085392",
+  "origin_country": [
+    "AR",
+    "MX",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Satanic Hispanics",
+  "overview": "When police raid a house in El Paso, they find it full of dead Latinos, and only one survivor. He’s known as The Traveler, and when they take him to the station for questioning, he tells them those lands are full of magic and talks about the horrors he’s encountered in his long time on this earth, about portals to other worlds, mythical creatures, demons and the undead. Stories about Latin American legends.",
+  "popularity": 3.7181,
+  "poster_path": "/8oRsWDVKBiLE7laQLH6uwgmKioE.jpg",
+  "production_companies": [
+    {
+      "id": 7662,
+      "logo_path": "/uGLpMN6r5MyFosNTgP9PKU48CHp.png",
+      "name": "Epic Pictures Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 267828,
+      "logo_path": null,
+      "name": "Wolfpack Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 267829,
+      "logo_path": null,
+      "name": "Cinematic Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 211169,
+      "logo_path": null,
+      "name": "Reserva Films",
+      "origin_country": "MX"
+    },
+    {
+      "id": 22697,
+      "logo_path": "/pep3irFkYXYClPSvDkOSBrEGO1w.png",
+      "name": "Luchagore Productions",
+      "origin_country": "CA"
+    },
+    {
+      "id": 267830,
+      "logo_path": null,
+      "name": "Nanciyaga",
+      "origin_country": ""
+    },
+    {
+      "id": 21805,
+      "logo_path": null,
+      "name": "Bandidos Films",
+      "origin_country": ""
+    },
+    {
+      "id": 153351,
+      "logo_path": "/dMusWUKSqpqXQOh0WiXHSmRBTci.png",
+      "name": "Dread",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-11-25",
+  "revenue": 0,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "5 Stories from 5 Latino AF Directors",
+  "title": "Satanic Hispanics",
+  "video": false,
+  "vote_average": 5.886,
+  "vote_count": 35
+}

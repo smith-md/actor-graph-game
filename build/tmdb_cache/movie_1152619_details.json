@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/4uEVhE07sSEg3t9MdudCjXWt9fG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1152619,
+  "imdb_id": "tt14853700",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Possessions",
+  "overview": "Follows a father who seeks a fresh start with his son after the loss of his wife, and purchased a storage unit facility sight unseen, but secrets buried behind the metal doors become a parent's worst nightmare.",
+  "popularity": 4.039,
+  "poster_path": "/39a7zYZvkGfs7EOVVK3dQlWyYJ0.jpg",
+  "production_companies": [
+    {
+      "id": 111866,
+      "logo_path": "/ndiNWuj6RvZ5XYLWrcv2y4iYuJP.png",
+      "name": "Paperclip",
+      "origin_country": "US"
+    },
+    {
+      "id": 1633,
+      "logo_path": null,
+      "name": "Next Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 229622,
+      "logo_path": null,
+      "name": "Red Clay Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-04-12",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Possessions",
+  "video": false,
+  "vote_average": 5.575,
+  "vote_count": 40
+}

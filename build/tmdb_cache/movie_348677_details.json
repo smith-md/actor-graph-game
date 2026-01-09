@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/sUUePqQspPsXDR8XUC8DZUXMfTT.jpg",
+  "belongs_to_collection": null,
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.trustnordisk.com/film/2015-model",
+  "id": 348677,
+  "imdb_id": "tt4074364",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "The Model",
+  "overview": "When emerging fashion model Emma gets a chance to pursue her dream of becoming an international top model, she leaves her everyday life in Denmark behind, and moves to Paris. At a photo shoot in her new hometown, she meets the attractive photographer Shane White and they fall in love. But their relationship soon turns into a dangerous obsession for Emma.",
+  "popularity": 3.6878,
+  "poster_path": "/8kxdItrqseNI0jVana5Qi960kiI.jpg",
+  "production_companies": [
+    {
+      "id": 76,
+      "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+      "name": "Zentropa Entertainments",
+      "origin_country": "DK"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 11236,
+      "logo_path": null,
+      "name": "Zentropa International Poland",
+      "origin_country": "PL"
+    },
+    {
+      "id": 8288,
+      "logo_path": "/5THcBZP0ad7hXPjtPTxld5sVJQp.png",
+      "name": "Zentropa International Sweden",
+      "origin_country": "SE"
+    },
+    {
+      "id": 203946,
+      "logo_path": null,
+      "name": "Sputnik Films",
+      "origin_country": ""
+    },
+    {
+      "id": 150551,
+      "logo_path": null,
+      "name": "The Danish Film Institute",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2016-02-11",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Model",
+  "video": false,
+  "vote_average": 5.833,
+  "vote_count": 126
+}

@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/mow3uFuLiBMXq5C7CzHc9wmYnDB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.fathomentertainment.com/releases/ick/",
+  "id": 1218493,
+  "imdb_id": "tt31795447",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ick",
+  "overview": "Science teacher Hank’s life changes when he reconnects with his first love and suspects that a new student may be his daughter—all while facing an alien threat in their town.",
+  "popularity": 4.4903,
+  "poster_path": "/AtfV5Rl0YHtibZWuwC9ilHcHugU.jpg",
+  "production_companies": [
+    {
+      "id": 229535,
+      "logo_path": null,
+      "name": "Interstellar Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6302,
+      "logo_path": "/jHKHR8pz3crMHZuCjBbWTQY7ojk.png",
+      "name": "Room 101",
+      "origin_country": "US"
+    },
+    {
+      "id": 110799,
+      "logo_path": "/eHjtiQJjrGQTooEsBmPSYoUnNB.png",
+      "name": "AGC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 250870,
+      "logo_path": null,
+      "name": "Stone Buffalo Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 250872,
+      "logo_path": null,
+      "name": "Amongst Giants",
+      "origin_country": "US"
+    },
+    {
+      "id": 250873,
+      "logo_path": null,
+      "name": "Sinister Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6736,
+      "logo_path": "/cdCAYeb3K3Ajhn1tfXHPSfT1KzB.png",
+      "name": "Image Nation Abu Dhabi",
+      "origin_country": "AE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "AE",
+      "name": "United Arab Emirates"
+    }
+  ],
+  "release_date": "2025-07-27",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Don't touch.",
+  "title": "Ick",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 28
+}

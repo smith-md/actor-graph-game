@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/doZ40MRFx1sDCPZHQfJbWufNuOp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 24683,
+  "imdb_id": "tt0489279",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Razortooth",
+  "overview": "When four college students trek to the Everglades to conduct extra-credit research for their biology professor, they become prey to a huge man-eating eel with nasty incisors that’s been terrorizing a nearby Florida community, based on a true story concerning an exotic species of eels that are released in the southeast from Asia. They breathe air and can survive on land.",
+  "popularity": 3.3516,
+  "poster_path": "/2oppAZ5Eh83Zlaf4eSj72FT5znI.jpg",
+  "production_companies": [
+    {
+      "id": 2365,
+      "logo_path": null,
+      "name": "Capital Arts Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-08-03",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Razortooth",
+  "video": false,
+  "vote_average": 3.889,
+  "vote_count": 27
+}

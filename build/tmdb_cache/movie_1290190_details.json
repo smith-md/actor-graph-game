@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/bvJSpW4D7P6LdM8JFBEpeDCvG6s.jpg",
+  "belongs_to_collection": null,
+  "budget": 3379386,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1290190,
+  "imdb_id": "tt33372494",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "ml",
+  "original_title": "ലോകഃ Chapter 1: ചന്ദ്ര",
+  "overview": "The story follows Chandra , a mysterious, goth-influenced woman who has just moved to Bangalore and begins working night shifts at a café. Across the road from her apartment live Sunny and Venu, two aimless bachelors. Sunny becomes infatuated with Chandra, observing her odd routines, strange visitors, and reclusive nature. Their dynamic changes when Sunny gets a glimpse of Chandra in her act.",
+  "popularity": 7.9348,
+  "poster_path": "/nRn6is4m5sikO1rSoCoRT2rYtXB.jpg",
+  "production_companies": [
+    {
+      "id": 127162,
+      "logo_path": "/77iHxiuXJYTXKU4PDQmtRQe3DJx.png",
+      "name": "Wayfarer Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2025-08-28",
+  "revenue": 34242894,
+  "runtime": 151,
+  "spoken_languages": [
+    {
+      "english_name": "Bengali",
+      "iso_639_1": "bn",
+      "name": "বাংলা"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "Kannada",
+      "iso_639_1": "kn",
+      "name": "?????"
+    },
+    {
+      "english_name": "Malayalam",
+      "iso_639_1": "ml",
+      "name": ""
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "தமிழ்"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They live among us",
+  "title": "Lokah Chapter 1: Chandra",
+  "video": false,
+  "vote_average": 7.388,
+  "vote_count": 40
+}

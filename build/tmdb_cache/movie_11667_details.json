@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": "/vmXRiIs6alZFDtlHlUT3Tx5rHww.jpg",
+  "belongs_to_collection": null,
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 11667,
+  "imdb_id": "tt0111301",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Street Fighter",
+  "overview": "Colonel Guile and various other martial arts heroes fight against the tyranny of dictator M. Bison and his cohorts.",
+  "popularity": 6.7814,
+  "poster_path": "/6yh95dD2Y6uWAlPfWCZZygBM1ec.jpg",
+  "production_companies": [
+    {
+      "id": 7220,
+      "logo_path": "/dD0x5awPmtx4sAr2pNvkmxkCODh.png",
+      "name": "Capcom",
+      "origin_country": "JP"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 6455,
+      "logo_path": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
+      "name": "Pressman Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 64110,
+      "logo_path": null,
+      "name": "Film Queensland",
+      "origin_country": "AU"
+    },
+    {
+      "id": 105748,
+      "logo_path": null,
+      "name": "Salon Films",
+      "origin_country": "TH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1994-12-23",
+  "revenue": 99423521,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Esperanto",
+      "iso_639_1": "eo",
+      "name": "Esperanto"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The fight to save the world is on!",
+  "title": "Street Fighter",
+  "video": false,
+  "vote_average": 4.659,
+  "vote_count": 1581
+}

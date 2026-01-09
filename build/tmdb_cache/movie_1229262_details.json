@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/qPJZ1N2JoLggeKUqw8Clo5Pggr3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.idontunderstandyoumovie.com/",
+  "id": 1229262,
+  "imdb_id": "tt27623406",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "I Don't Understand You",
+  "overview": "Stranded in rural Italy without transportation or language skills, an American couple on the verge of adopting tries to reconnect during a disastrous vacation, as their fears and relationship problems threaten to boil over.",
+  "popularity": 2.8624,
+  "poster_path": "/h8bXP9F4fedvmbzXhsrlC1KPoNU.jpg",
+  "production_companies": [
+    {
+      "id": 168240,
+      "logo_path": "/gMs3AWkhaIOnqHjMMAv4Z7OGjKO.png",
+      "name": "Pinky Promise",
+      "origin_country": "US"
+    },
+    {
+      "id": 179871,
+      "logo_path": "/uOX81wWZeoj2hq3lJBJbbT8OMM6.png",
+      "name": "Panoramic Media Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-03-08",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Their Italian getaway? They're killing it.",
+  "title": "I Don't Understand You",
+  "video": false,
+  "vote_average": 5.456,
+  "vote_count": 34
+}

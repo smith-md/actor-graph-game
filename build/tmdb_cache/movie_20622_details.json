@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/aLVztOwxn8kmNfek3tWTbc2H7Ws.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 20622,
+  "imdb_id": "tt0063404",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Padosan",
+  "overview": "A simple man from a village falls in love with his new neighbor. He enlists the help of his musical-theater friends to woo the lovely girl-next-door away from her music teacher.",
+  "popularity": 3.4911,
+  "poster_path": "/b3saYvaYdzuXCEfIfNJiKaO58qO.jpg",
+  "production_companies": [
+    {
+      "id": 64321,
+      "logo_path": null,
+      "name": "Mehmood Productions",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1968-11-29",
+  "revenue": 0,
+  "runtime": 157,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Padosan",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 33
+}

@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/rPnlqD1J08PqTX0Kh9sTFH1Q2NR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1029322,
+  "imdb_id": "tt21519398",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ganymede",
+  "overview": "After a small-town wrestling star develops a crush on an openly gay classmate, he is stalked by a grotesque creature that invades his thoughts as he navigates his feelings and struggles to live up to his legacy-obsessed family.",
+  "popularity": 3.1104,
+  "poster_path": "/lEjhWFMtdjmTXHkes8kE902R4L1.jpg",
+  "production_companies": [
+    {
+      "id": 163632,
+      "logo_path": null,
+      "name": "Whiskey Stream Films",
+      "origin_country": ""
+    },
+    {
+      "id": 234728,
+      "logo_path": null,
+      "name": "Neighborhood Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 203591,
+      "logo_path": "/khBgGmNzocBPz1IXWCbNotSqs29.png",
+      "name": "Iris Indie International",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-09-23",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A secret can eat you alive.",
+  "title": "Ganymede",
+  "video": false,
+  "vote_average": 5.72,
+  "vote_count": 25
+}

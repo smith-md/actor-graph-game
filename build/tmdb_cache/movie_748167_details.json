@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/y4NzXdvpJdwRmsnOT7HdkmHh6Yn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81002266",
+  "id": 748167,
+  "imdb_id": "tt13186604",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Uglies",
+  "overview": "In a futuristic dystopia with enforced beauty standards, a teen awaiting mandatory cosmetic surgery embarks on a journey to find her missing friend.",
+  "popularity": 5.1739,
+  "poster_path": "/jaUu9zHtbcFwrB5Y1DNYE09HMex.jpg",
+  "production_companies": [
+    {
+      "id": 1302,
+      "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+      "name": "Davis Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 10039,
+      "logo_path": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+      "name": "Anonymous Content",
+      "origin_country": "US"
+    },
+    {
+      "id": 376,
+      "logo_path": "/4TYjUVu74lX3r4ht1ppZxEpj1a4.png",
+      "name": "Industry Entertainment Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 4022,
+      "logo_path": "/q6Xts6ztGkTHrY1WfHttlhL3Pfc.png",
+      "name": "Wonderland Sound and Vision",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-09-12",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In a world of extreme beauty, anyone normal is ugly.",
+  "title": "Uglies",
+  "video": false,
+  "vote_average": 5.767,
+  "vote_count": 878
+}

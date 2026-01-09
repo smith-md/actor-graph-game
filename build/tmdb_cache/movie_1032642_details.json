@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/jmD17beMI8NaMHPJAOXVfn9QgM3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1032642,
+  "imdb_id": "tt23778430",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mother, Couch",
+  "overview": "The members of a dysfunctional family find themselves mysteriously trapped in an antiquated furniture store when their elderly matriarch suddenly refuses to get up from one of the display couches.",
+  "popularity": 2.7245,
+  "poster_path": "/mUJeMGImIFFmq5Ck7pxOC9D8dr6.jpg",
+  "production_companies": [
+    {
+      "id": 180839,
+      "logo_path": "/v2A9SsZdaWpmZdXPf3I7Ajxn1Pc.png",
+      "name": "Lyrical Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 88231,
+      "logo_path": "/hVx90I5BEktosw4N9AneIFwmjeg.png",
+      "name": "Snowglobe",
+      "origin_country": "DK"
+    },
+    {
+      "id": 208363,
+      "logo_path": "/nPXwPbmlUVl9saVTNBMuvPGRV7c.png",
+      "name": "Fat City",
+      "origin_country": "US"
+    },
+    {
+      "id": 228704,
+      "logo_path": null,
+      "name": "S/B Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-07-05",
+  "revenue": 9150,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mother, Couch",
+  "video": false,
+  "vote_average": 5.557,
+  "vote_count": 35
+}

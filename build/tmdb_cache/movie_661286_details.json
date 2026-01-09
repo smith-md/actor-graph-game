@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 661286,
+  "imdb_id": null,
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Summers of It – Chapter One: You'll Float Too",
+  "overview": "This documentary focuses on the actors and their journey over two summers to create the remake to the original IT, by Stephen King. The documentary originally released as bonus material, bundled with IT: Chapter Two.",
+  "popularity": 6.3574,
+  "poster_path": "/awFM888QgS0PB3SZXMD5HikNXNQ.jpg",
+  "production_companies": [
+    {
+      "id": 113519,
+      "logo_path": "/wxcVGtJwKkElcCXP6A0opM82xu0.png",
+      "name": "Warner Home Video",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-12-10",
+  "revenue": 0,
+  "runtime": 36,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Summers of It – Chapter One: You'll Float Too",
+  "video": false,
+  "vote_average": 8.3,
+  "vote_count": 24
+}

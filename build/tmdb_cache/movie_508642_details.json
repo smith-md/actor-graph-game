@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/x1j5VVU4ypEx1hM0PDYGwCJvwtS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 508642,
+  "imdb_id": "tt8119752",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "곤지암",
+  "overview": "The crew of a horror web series travels to an abandoned asylum for a live broadcast, but they encounter much more than expected as they move deeper inside the nightmarish old building.",
+  "popularity": 6.6835,
+  "poster_path": "/fNqlsmu2tiI1bXcpU31yjHPkiJz.jpg",
+  "production_companies": [
+    {
+      "id": 108532,
+      "logo_path": "/lHzoqEuTPHwKSFiBx9skKpp9vCc.png",
+      "name": "Hive Media Corp",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2018-03-28",
+  "revenue": 21041950,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Experience the horror.",
+  "title": "Gonjiam: Haunted Asylum",
+  "video": false,
+  "vote_average": 7.284,
+  "vote_count": 866
+}

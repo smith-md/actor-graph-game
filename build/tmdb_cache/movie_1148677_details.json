@@ -1,0 +1,104 @@
+{
+  "adult": false,
+  "backdrop_path": "/Z3mSxuPRNiFYxf1LBoGz3YrJzC.jpg",
+  "belongs_to_collection": {
+    "id": 148065,
+    "name": "Doraemon Movies",
+    "poster_path": "/4TLSP1KD1uAlp2q1rTrc6SFlktX.jpg",
+    "backdrop_path": "/ii3bjKdqurBH8OZAGnKyfsZTde7.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 1148677,
+  "imdb_id": "tt29402528",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "映画ドラえもん のび太の地球交響楽",
+  "overview": "Music exists in our daily lives for granted. But what would happen if music disappeared from the earth? This is a completely original story about Doraemon and his friends who are trying to save the earth from a crisis with the familiar theme of music!",
+  "popularity": 4.1081,
+  "poster_path": "/1W5Kg4K27U3dx9Kxb8DaE6WFLHI.jpg",
+  "production_companies": [
+    {
+      "id": 15329,
+      "logo_path": null,
+      "name": "Fujiko Productions",
+      "origin_country": "JP"
+    },
+    {
+      "id": 173235,
+      "logo_path": "/nkfGU0YSf1O1tTVBwyaDkE7yBCv.png",
+      "name": "ADK Emotions",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9149,
+      "logo_path": "/isLUpud9N56ifftJZ4XvzwBBpoG.png",
+      "name": "Shogakukan",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9300,
+      "logo_path": "/9sSD1XufVCJWAadNiC9Mwu994VD.png",
+      "name": "TV Asahi",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5141,
+      "logo_path": "/fK2QKfHdSdw42Xx4MiD7KhDufBV.png",
+      "name": "Shin-Ei Animation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2024-03-01",
+  "revenue": 33399912,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Doraemon the Movie: Nobita's Earth Symphony",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 30
+}

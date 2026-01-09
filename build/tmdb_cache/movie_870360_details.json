@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/5U3VLeWr2H4Nd3G7IkHItFimsIz.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.thedaytheearthblewup.com",
+  "id": 870360,
+  "imdb_id": "tt15352542",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+  "overview": "Porky and Daffy, the classic animated odd couple, turn into unlikely heroes when their antics at the local bubble gum factory uncover a secret alien mind control plot. Against all odds, the two are determined to save their town (and the world!)...that is if they don't drive each other crazy in the process.",
+  "popularity": 6.3807,
+  "poster_path": "/s2lB1kaYCdGSnZX5meQCiOR6HfX.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-01",
+  "revenue": 15076954,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "To save the world, they'll have to stick together.",
+  "title": "The Day the Earth Blew Up: A Looney Tunes Movie",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 189
+}

@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/rWs3Q9bT7zCH6t004z67UGuWUwu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81309564",
+  "id": 645757,
+  "imdb_id": "tt14855468",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "That Christmas",
+  "overview": "It's an unforgettable Christmas for the townsfolk of Wellington-on-Sea when the worst snowstorm in history alters everyone's plans — including Santa's.",
+  "popularity": 4.7582,
+  "poster_path": "/uR3uhztTAxGGK7Co0yyxVy4Gc7H.jpg",
+  "production_companies": [
+    {
+      "id": 121605,
+      "logo_path": "/4rc0vsJWygNm9ojrxSdPVU9jKyj.png",
+      "name": "Locksmith Animation",
+      "origin_country": "GB"
+    },
+    {
+      "id": 31922,
+      "logo_path": "/omWPoru2LNayUOBqjMBLP9KrFrP.png",
+      "name": "DNEG",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-11-27",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "That Christmas",
+  "video": false,
+  "vote_average": 7.183,
+  "vote_count": 406
+}

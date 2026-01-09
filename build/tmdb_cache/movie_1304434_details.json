@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/zTvGsmqTn0p13fQHDoHiZHiT5v9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1304434,
+  "imdb_id": "tt36733027",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "浪浪山小妖怪",
+  "overview": "The Little Pig Yao decides to leave Langlang Mountain to join the pilgrimage. On the journey west, what trials will the little monsters face? In the end, will they achieve their dreams and live as they truly desire?",
+  "popularity": 6.988,
+  "poster_path": "/t3Rs1BeIDXhwjOt10iyjiFe7BpL.jpg",
+  "production_companies": [
+    {
+      "id": 6223,
+      "logo_path": "/lOxuAoSiKVeePamkUq5VCyUFiPw.png",
+      "name": "Shanghai Animation Film Studio",
+      "origin_country": "CN"
+    },
+    {
+      "id": 270440,
+      "logo_path": null,
+      "name": "Shanghai Xiaomutou Film and Television Culture Media",
+      "origin_country": "CN"
+    },
+    {
+      "id": 218024,
+      "logo_path": null,
+      "name": "Shanghai Maoyan Film",
+      "origin_country": "CN"
+    },
+    {
+      "id": 281174,
+      "logo_path": null,
+      "name": "Shanghai Xiaomubiao Film and Television Culture Media",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2025-08-02",
+  "revenue": 215367669,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Nobody",
+  "video": false,
+  "vote_average": 7.646,
+  "vote_count": 48
+}

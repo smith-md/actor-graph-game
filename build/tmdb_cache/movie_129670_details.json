@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/yePsFcldyZ6VnxaBr8ZbVEaOt4W.jpg",
+  "belongs_to_collection": null,
+  "budget": 12000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 129670,
+  "imdb_id": "tt1821549",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Nebraska",
+  "overview": "An aging, booze-addled father takes a trip from Montana to Nebraska with his estranged son in order to claim what he believes to be a million-dollar sweepstakes prize.",
+  "popularity": 3.0359,
+  "poster_path": "/o1t2Mw18EEBnl8v4Nby3PFjxnM1.jpg",
+  "production_companies": [
+    {
+      "id": 2147,
+      "logo_path": "/yV2P6SlxuicJTwUvUUqoOBAEreC.png",
+      "name": "Echo Lake Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 715,
+      "logo_path": "/yDo2dtvQ45dtZb1r2lhIwufz42s.png",
+      "name": "Bona Fide Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-09-21",
+  "revenue": 27700000,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Life's not about winning or losing. It's about how you get there in the end.",
+  "title": "Nebraska",
+  "video": false,
+  "vote_average": 7.451,
+  "vote_count": 1863
+}

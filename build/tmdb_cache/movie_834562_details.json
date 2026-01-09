@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/81mBCIvDLNzIxTNWg1nG1OXufJe.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.vert-ent.com/films/poolman",
+  "id": 834562,
+  "imdb_id": "tt18077924",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Poolman",
+  "overview": "Darren Barrenman, an unwavering optimist and native Angeleno, spends his days looking after the pool of the Tahitian Tiki apartment block and fighting to make his hometown a better place to live.",
+  "popularity": 4.1035,
+  "poster_path": "/vVz4Rh4j6FQTq9eva3xEvCMumAh.jpg",
+  "production_companies": [
+    {
+      "id": 110799,
+      "logo_path": "/eHjtiQJjrGQTooEsBmPSYoUnNB.png",
+      "name": "AGC Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 161163,
+      "logo_path": "/fxCHdHunVpfzlegv1EY3da6pQam.png",
+      "name": "Barry Linen Motion Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 138946,
+      "logo_path": "/mBm1lOmTnMnpvYEGfdNb7X9k5Bb.png",
+      "name": "Brickell & Broadbridge International",
+      "origin_country": "US"
+    },
+    {
+      "id": 150758,
+      "logo_path": "/hYDtgClCwBnHLN74g2afEAud1El.png",
+      "name": "CatchLight Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 168415,
+      "logo_path": null,
+      "name": "Shiny Penny Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 216523,
+      "logo_path": null,
+      "name": "Wicious Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-05-09",
+  "revenue": 158933,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Los Angeles has a new hero.",
+  "title": "Poolman",
+  "video": false,
+  "vote_average": 4.35,
+  "vote_count": 60
+}

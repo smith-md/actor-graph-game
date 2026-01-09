@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
+  "belongs_to_collection": null,
+  "budget": 65000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://a24films.com/films/marty-supreme",
+  "id": 1317288,
+  "imdb_id": "tt32916440",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Marty Supreme",
+  "overview": "In 1950s New York, table tennis player Marty Mauser, a young man with a dream no one respects, goes to Hell and back in pursuit of greatness.",
+  "popularity": 61.772,
+  "poster_path": "/firAhZA0uQvRL2slp7v3AnOj0ZX.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 243162,
+      "logo_path": null,
+      "name": "Central Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-19",
+  "revenue": 57873639,
+  "runtime": 150,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Dream big.",
+  "title": "Marty Supreme",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 85
+}

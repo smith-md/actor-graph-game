@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/4px3C1MnKtshitubBXBJDS4Fo94.jpg",
+  "belongs_to_collection": {
+    "id": 1362253,
+    "name": "Bocchi the Rock! Recap Duology",
+    "poster_path": "/qexnkvgZud9ZdpZuKrxxjK6PrEH.jpg",
+    "backdrop_path": "/gQwqR4pNFpB4z6xJ8gcOyxXjXOU.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.crunchyroll.com/watch/GK9UG24VX/bocchi-the-rock-recap-part-1",
+  "id": 1129610,
+  "imdb_id": "tt32561659",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "劇場総集編ぼっち・ざ・ろっく！Re:",
+  "overview": "Revisit events from Bocchi joining Kessoku Band to their first successful gig.",
+  "popularity": 3.8091,
+  "poster_path": "/gv5swmEUyrrTBuhNdb8rTCmsimm.jpg",
+  "production_companies": [
+    {
+      "id": 121589,
+      "logo_path": "/kZvTniBgpTzAThHCa0OZ1FJtRjy.png",
+      "name": "CloverWorks",
+      "origin_country": "JP"
+    },
+    {
+      "id": 2883,
+      "logo_path": "/rDYExnBV61jGQnkhVVrPN4Yl7O1.png",
+      "name": "Aniplex",
+      "origin_country": "JP"
+    },
+    {
+      "id": 22597,
+      "logo_path": "/neo38FzewK5I1ilLOQyPOKseRWS.png",
+      "name": "Houbunsha",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2024-06-07",
+  "revenue": 3829407,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "BOCCHI THE ROCK! Recap Part 1",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 27
+}

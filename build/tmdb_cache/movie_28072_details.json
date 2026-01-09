@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/xU1retaBgTSjcEAAimr9eniPMKB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 28072,
+  "imdb_id": "tt0071465",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "La endemoniada",
+  "overview": "After an old witch desecrates a church and abducts a baby, the police take her in for questioning, leading her to attempt suicide. To exact revenge, a fellow witch curses the police commissioner's daughter, and as the old witch dies, her spirit latches onto the young girl and causes her to wreak havoc.",
+  "popularity": 3.5668,
+  "poster_path": "/5nMITpaCBu8GV7jYQ1FlhPROuQj.jpg",
+  "production_companies": [
+    {
+      "id": 82678,
+      "logo_path": null,
+      "name": "Richard Films P.C.",
+      "origin_country": ""
+    },
+    {
+      "id": 81366,
+      "logo_path": null,
+      "name": "Isaac Hernández Poncela",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "1975-03-03",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Good and evil battle for possession of the innocent!",
+  "title": "Demon Witch Child",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 22
+}

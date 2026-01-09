@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/kWg5zRFTXRt531DD8ZlP0gQkI0T.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 44052,
+  "imdb_id": "tt0046791",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Black Widow",
+  "overview": "When a young stage hopeful is found dead, suspicion falls on her mentor, a successful Broadway producer.",
+  "popularity": 3.9814,
+  "poster_path": "/6u1ynJxGhqhKpFMvDmPk1OWQ5FW.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1954-10-28",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Someone will kill this girl tonight!",
+  "title": "Black Widow",
+  "video": false,
+  "vote_average": 6.304,
+  "vote_count": 51
+}

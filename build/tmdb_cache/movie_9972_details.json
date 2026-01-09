@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/eMlCmmgQUFIykBsf7AdTI1q0ZkL.jpg",
+  "belongs_to_collection": null,
+  "budget": 24000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 9972,
+  "imdb_id": "tt0097770",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lock Up",
+  "overview": "Frank Leone is nearing the end of his prison term for a relatively minor crime. Just before he is paroled, however, Warden Drumgoole takes charge. Drumgoole was assigned to a hell-hole prison after his administration was publicly humiliated by Leone, and has now arrived on the scene to ensure that Leone never sees the light of day.",
+  "popularity": 3.236,
+  "poster_path": "/WihoHaU9yvhhdoSqDAhiIlNN8g.jpg",
+  "production_companies": [
+    {
+      "id": 275,
+      "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
+      "name": "Carolco Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 21919,
+      "logo_path": null,
+      "name": "White Eagle",
+      "origin_country": "US"
+    },
+    {
+      "id": 1073,
+      "logo_path": null,
+      "name": "Gordon Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-08-04",
+  "revenue": 22099847,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "How much can a man take...before he gives back?",
+  "title": "Lock Up",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 1274
+}

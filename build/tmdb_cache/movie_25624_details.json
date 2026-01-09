@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/mvBQh4Qy9YRf9ckAGPmNkOQAyUq.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 25624,
+  "imdb_id": "tt0120036",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rosewood",
+  "overview": "Spurred by a white woman's lie, vigilantes destroy a black Florida town and slay inhabitants in 1923.",
+  "popularity": 3.7835,
+  "poster_path": "/5EeTYDXdrpD9mZSSwsrFbqgok9U.jpg",
+  "production_companies": [
+    {
+      "id": 16774,
+      "logo_path": "/uD6Ls0FSJwo13ekpz91s1TRpkGq.png",
+      "name": "Peters Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1947,
+      "logo_path": null,
+      "name": "New Deal Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1997-02-21",
+  "revenue": 13130349,
+  "runtime": 140,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In 1923, a black town in Florida was burned to the ground, its people murdered because of a lie. Some escaped and survived because of the courage and compassion of a few extraordinary people. This film is for them.",
+  "title": "Rosewood",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 112
+}

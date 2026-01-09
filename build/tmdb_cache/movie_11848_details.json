@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/5MYD8Z76Bcbz55HzUTP4U6dH51V.jpg",
+  "belongs_to_collection": null,
+  "budget": 350000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 11848,
+  "imdb_id": "tt0047834",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Animal Farm",
+  "overview": "Animals on a farm lead a revolution against the farmers to put their destiny in their own hands. However this revolution eats their own children and they cannot avoid corruption.",
+  "popularity": 5.1327,
+  "poster_path": "/8SKtZe7LMrwoYe3AXbNlGwmd9U8.jpg",
+  "production_companies": [
+    {
+      "id": 3626,
+      "logo_path": null,
+      "name": "Halas and Batchelor Cartoon Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1954-12-28",
+  "revenue": 0,
+  "runtime": 73,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's got the world in an UPROAR!",
+  "title": "Animal Farm",
+  "video": false,
+  "vote_average": 7.012,
+  "vote_count": 514
+}

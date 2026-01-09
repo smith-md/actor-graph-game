@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/qXpH9cCA8LUJzCgnveciovBYcmr.jpg",
+  "belongs_to_collection": null,
+  "budget": 10284523,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 2610,
+  "imdb_id": "tt0338427",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shopgirl",
+  "overview": "Mirabelle is a disenchanted salesgirl and aspiring artist who sells gloves and accessories at a department store. She has two men in her life: wealthy divorcée Ray Porter and struggling musician Jeremy. Mirabelle falls in love with the glamorous Ray, and her life takes a magical turn, but eventually she realizes that she must empower herself and make a choice between them.",
+  "popularity": 3.938,
+  "poster_path": "/mEpnYHytC1MuLECf4N0g4Xql2t8.jpg",
+  "production_companies": [
+    {
+      "id": 9195,
+      "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1171,
+      "logo_path": "/wp7NwsxxHT8sqPaek6SlxnXlkP4.png",
+      "name": "Epsilon Motion Pictures",
+      "origin_country": "CH"
+    },
+    {
+      "id": 1172,
+      "logo_path": "/5foKpTGXamv6BP4VwCqeWr5Jsdt.png",
+      "name": "Hyde Park Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1173,
+      "logo_path": null,
+      "name": "Shopgirl",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-10-21",
+  "revenue": 11588205,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Shopgirl",
+  "video": false,
+  "vote_average": 5.766,
+  "vote_count": 273
+}

@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/vJbEUMeI2AxBUZKjP6ZVeVNNTLh.jpg",
+  "belongs_to_collection": null,
+  "budget": 100,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.amazon.com/gp/video/detail/B0DRTHSHS1",
+  "id": 749170,
+  "imdb_id": "tt13357520",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Heads of State",
+  "overview": "The UK Prime Minister and US President have a public rivalry that risks their countries' alliance. But when they become targets of a powerful enemy, they're forced to rely on each other as they go on a wild, multinational run. Allied with Noel, a brilliant MI6 agent, they must find a way to thwart a conspiracy that threatens the free world.",
+  "popularity": 16.7878,
+  "poster_path": "/lVgE5oLzf7ABmzyASEVcjYyHI41.jpg",
+  "production_companies": [
+    {
+      "id": 11565,
+      "logo_path": "/odU3l6csuBmXUrzFm6araUgEUHQ.png",
+      "name": "The Safran Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 6831,
+      "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
+      "name": "Big Indie Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 834,
+      "logo_path": "/zsmK0tDOgvWJiBxuxOHUyJL8W7J.png",
+      "name": "Potboiler Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-06-24",
+  "revenue": 0,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "Belarusian",
+      "iso_639_1": "be",
+      "name": "беларуская мова"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Two heads are better than one.",
+  "title": "Heads of State",
+  "video": false,
+  "vote_average": 6.851,
+  "vote_count": 909
+}

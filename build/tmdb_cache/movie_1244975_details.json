@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/xzY15HIBMR1MPo9Me8OsaZShF9T.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1244975,
+  "imdb_id": "tt35330717",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Orphelins",
+  "overview": "Gab and Driss, childhood friends on bad terms since they left the orphanage, now have opposite lives - one is a cop with the IGPN, the other a fixer for thugs. When their first love dies in a suspicious accident, her 17-year-old daughter, Leïla, takes Gab's gun and sets off on the trail of a powerful organization willing to do anything to cover the case up. Forced to team up, the orphans must stop her before she crosses a line she can't return from...",
+  "popularity": 3.0593,
+  "poster_path": "/e08WqjLKqcw6HqHK9QlH0XGxyGb.jpg",
+  "production_companies": [
+    {
+      "id": 134188,
+      "logo_path": "/ueed3yKbzBRB4hBbpbPa3AxiwPk.png",
+      "name": "Inoxy Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 9,
+      "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+      "name": "Gaumont",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-08-20",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Orphans",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 40
+}

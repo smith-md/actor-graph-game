@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/1ZnEOaOUj2e2Fq6Y7wo9KeH5rS6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://bleeckerstreetmedia.com/relay",
+  "id": 1088166,
+  "imdb_id": "tt11539996",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Relay",
+  "overview": "A broker of lucrative payoffs between corrupt corporations and the individuals who threaten them breaks his own rules when a new client seeks his protection to stay alive.",
+  "popularity": 13.6341,
+  "poster_path": "/mpwccO2L8LUVtVTJTdgUVgoQqAo.jpg",
+  "production_companies": [
+    {
+      "id": 3528,
+      "logo_path": "/cCzCClIzIh81Fa79hpW5nXoUsHK.png",
+      "name": "Thunder Road",
+      "origin_country": "US"
+    },
+    {
+      "id": 53874,
+      "logo_path": "/mZJMAPElHQBIuWWXSyHtyaMf26C.png",
+      "name": "Sigma Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 22146,
+      "logo_path": "/v37N1mFeXNQfvPankg3feBhVvM7.png",
+      "name": "Black Bear Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-08-21",
+  "revenue": 4453308,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No callers are identified. No conversations are recorded. No phone records are kept. Now speak clearly and when you are finished say: 'Go ahead'.",
+  "title": "Relay",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 260
+}

@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/jZDD1orkxLkTBllVqV8IboeDi3v.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 45695,
+  "imdb_id": "tt0078481",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Wedding",
+  "overview": "Muffin's wedding to Dino Corelli is to be a big affair. Except the ageing priest isn't too sure of the ceremony, only the families actually turn up as the Corelli Italian connection is suspect, security guards watch the gifts rather over-zealously, and Dino's grandma expires in bed just as the reception starts. Could be quite an occasion.",
+  "popularity": 4.583,
+  "poster_path": "/4qNtQEInMF1d0IMoSCytHu8LCyA.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 153682,
+      "logo_path": null,
+      "name": "Lion's Gate Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1978-08-29",
+  "revenue": 0,
+  "runtime": 125,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "More than one Family Secret hides behind A Wedding",
+  "title": "A Wedding",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 58
+}

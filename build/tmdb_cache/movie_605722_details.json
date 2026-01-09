@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/1QV5TIM7pVm0wcWthKIAj7cXjbJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 605722,
+  "imdb_id": "tt9883398",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Long Distance",
+  "overview": "After crash-landing on an alien planet, an asteroid miner must contend with the challenges of his new surroundings, while making his way across the harsh terrain to the only other survivor – a woman who is trapped in her escape pod.",
+  "popularity": 11.1048,
+  "poster_path": "/m5NKltgQqqyoWJNuK18IqEGRG7J.jpg",
+  "production_companies": [
+    {
+      "id": 7,
+      "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+      "name": "DreamWorks Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 7294,
+      "logo_path": "/kK4PRgceWp9KNrycD8xx8seWxYU.png",
+      "name": "Reliance Entertainment",
+      "origin_country": "IN"
+    },
+    {
+      "id": 7625,
+      "logo_path": "/kzq4ibnNeZrp00zpBWv3st1QCOh.png",
+      "name": "Automatik Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 167932,
+      "logo_path": "/lmL1CCaHUbTdOXuZkvi3eA1F6H3.png",
+      "name": "Speck Gordon",
+      "origin_country": "US"
+    },
+    {
+      "id": 121685,
+      "logo_path": "/bAO6cpKP9qoqHoDn4oUjWjZ5auq.png",
+      "name": "Amblin Partners",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2024-07-12",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Right girl. Wrong world.",
+  "title": "Long Distance",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 224
+}

@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/kSKC5GilSW3IXejH7Pp4sp2lzF1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1393382,
+  "imdb_id": "tt33362807",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Popeye's Revenge",
+  "overview": "The legend of Popeye haunts a group of counsellors as they intend to open a summer camp.",
+  "popularity": 3.7085,
+  "poster_path": "/aHHCXbPjI6xHJoo5fkBNmPm2lo1.jpg",
+  "production_companies": [
+    {
+      "id": 148176,
+      "logo_path": null,
+      "name": "ITN Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 265463,
+      "logo_path": null,
+      "name": "August Bound Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-02-12",
+  "revenue": 0,
+  "runtime": 79,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "From Sailor to Slayer",
+  "title": "Popeye's Revenge",
+  "video": false,
+  "vote_average": 4.926,
+  "vote_count": 54
+}

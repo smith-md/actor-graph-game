@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/oWZgN0tvqDdL7QE2lDoXixPwnE4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 521784,
+  "imdb_id": "tt8351882",
+  "origin_country": [
+    "EG"
+  ],
+  "original_language": "ar",
+  "original_title": "Karmouz War",
+  "overview": "Alexandria, Egypt, 1940. Three young Egyptians come to the aid of a woman being attacked by three British soldiers. One of them is arrested and thrown in jail. When the military surrounds the police station and begins an all-out assault, it's up to one man, Gen. Youssef al-Masri, to defend his prison and protect his people.",
+  "popularity": 4.2625,
+  "poster_path": "/uIDacOXgd06J5qP0PoVQi25ogFm.jpg",
+  "production_companies": [
+    {
+      "id": 84607,
+      "logo_path": null,
+      "name": "ElSobky Film",
+      "origin_country": "EG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "EG",
+      "name": "Egypt"
+    }
+  ],
+  "release_date": "2018-06-15",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Free one man to stop one man",
+  "title": "Karmouz War",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 49
+}

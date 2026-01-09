@@ -1,0 +1,153 @@
+{
+  "adult": false,
+  "backdrop_path": "/8b1oWeOQLSwQH6TK3T0b1oNl3Al.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "https://theinventorfilm.com/",
+  "id": 676727,
+  "imdb_id": "tt5822848",
+  "origin_country": [
+    "US",
+    "FR",
+    "IE"
+  ],
+  "original_language": "en",
+  "original_title": "The Inventor",
+  "overview": "The insatiably curious and headstrong inventor Leonardo da Vinci leaves Italy to join the French court, where he can experiment freely, inventing flying contraptions, incredible machines, and study the human body. There, joined in his adventure by the audacious princess Marguerite, Leonardo will uncover the answer to the ultimate question – \"What is the meaning of it all?\"",
+  "popularity": 4.05,
+  "poster_path": "/489kEvaylSuutUJ0GVVs6gUmirB.jpg",
+  "production_companies": [
+    {
+      "id": 21562,
+      "logo_path": "/yMpOxI9b1N91ZLBDkplMNxF5g6M.png",
+      "name": "Foliascope",
+      "origin_country": "FR"
+    },
+    {
+      "id": 129672,
+      "logo_path": null,
+      "name": "Leo & King",
+      "origin_country": "US"
+    },
+    {
+      "id": 181815,
+      "logo_path": "/hzlTnjGCv71QKj2biOle6PxLNXi.png",
+      "name": "Curiosity Studio",
+      "origin_country": "IE"
+    },
+    {
+      "id": 181817,
+      "logo_path": "/lJrxqzUm0H5Metv9amXdwroxhXM.png",
+      "name": "Aerial Contrivance Workshop",
+      "origin_country": "US"
+    },
+    {
+      "id": 149187,
+      "logo_path": "/e9bjQzYrye5MRBGamoDOJCWYyUT.png",
+      "name": "SIE Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 104292,
+      "logo_path": "/9GSEzJqapywGILRVqmjN6PA50qq.png",
+      "name": "Blue Fox Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 205984,
+      "logo_path": "/mVBAoPsvxh8VlyEe8RBCYumz0Tk.png",
+      "name": "Former Prodigy Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 195600,
+      "logo_path": "/raR05O2dHolS08mMKRKHEPVl59i.png",
+      "name": "Slated",
+      "origin_country": "US"
+    },
+    {
+      "id": 205985,
+      "logo_path": "/q9i9p2nr0Ahcbxd1NWMJwZKXXfD.png",
+      "name": "Leveller Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 90423,
+      "logo_path": "/8KJcTfZZx3IV4dLYLIO7ogkD615.png",
+      "name": "Tip-Top Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 171436,
+      "logo_path": "/2PCuIrmhOMX9eGpxs8PQWjxfU3s.png",
+      "name": "Carte Blanche",
+      "origin_country": "US"
+    },
+    {
+      "id": 166382,
+      "logo_path": "/aFfwuxuen4kKpfWoVS6cYJ9js4A.png",
+      "name": "Moo Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 205987,
+      "logo_path": "/n1yIrSCUPrCGWnT1g6m6ArhazAr.png",
+      "name": "Curiosity Rights",
+      "origin_country": "GB"
+    },
+    {
+      "id": 25140,
+      "logo_path": "/6SeV4YCwyIDktJlvrVwiEDSLovF.png",
+      "name": "The Exchange",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-09-15",
+  "revenue": 2037563,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Imagination takes flight.",
+  "title": "The Inventor",
+  "video": false,
+  "vote_average": 6.318,
+  "vote_count": 23
+}

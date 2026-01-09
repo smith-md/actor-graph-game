@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/jy7G5VGWC0GFJcPiOjvtgpAKeXV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 62367,
+  "imdb_id": "tt0072097",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Romanzo popolare",
+  "overview": "50 year old Giulio and his 17 year old goddaughter, Vincenzina, fall madly in love with each other and soon are wed. Unfortunately for Giulio he walks in on his friend and Vincenzina upon a return from a trip. His jealousy and anger get the best of him and he kicks his wife out of the house. Years pass and Giulio decides to rekindle the love affair with Vincenzina.",
+  "popularity": 4.1788,
+  "poster_path": "/dyHvalTALY7JfDrRD3Btrp2OHiW.jpg",
+  "production_companies": [
+    {
+      "id": 1415,
+      "logo_path": null,
+      "name": "Capitolina Produzioni Cinematografiche",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1974-10-29",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A serious comedy about sex",
+  "title": "Come Home and Meet My Wife",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 46
+}

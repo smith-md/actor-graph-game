@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/qmxkOVsMiSubQ152TFIElQa6Vca.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 48145,
+  "imdb_id": "tt0053772",
+  "origin_country": [],
+  "original_language": "sv",
+  "original_title": "Djävulens öga",
+  "overview": "Don Juan is sent from Hell to Earth with a mission: to seduce a virgin in order to spoil her pure wedding. The mission becomes frantic when Don Juan falls in love for the first time in centuries.",
+  "popularity": 3.6431,
+  "poster_path": "/njgS53DDdtsj5DXaGcEwglwq8z3.jpg",
+  "production_companies": [
+    {
+      "id": 6181,
+      "logo_path": "/eaQ7or8IoEmPfgmQiU2C5lVZkxS.png",
+      "name": "SF Studios",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1960-10-17",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He Came... He Saw... She Conquered!",
+  "title": "The Devil's Eye",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 111
+}

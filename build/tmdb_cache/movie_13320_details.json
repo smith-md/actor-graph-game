@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/Ezr1StPIK9xMqXeTNBXbrnbgu4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 13320,
+  "imdb_id": "tt0050419",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Funny Face",
+  "overview": "A shy Greenwich Village book clerk is discovered by a fashion photographer and whisked off to Paris where she becomes a reluctant model.",
+  "popularity": 4.1422,
+  "poster_path": "/tzTjalpIz6NyFrWPPlOBFoBjb7z.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1957-02-13",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "S'Wonderful! S'Marvelous! ...She's The Fairest Lady of All!",
+  "title": "Funny Face",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 715
+}

@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": "/heXvhrTFCF8j84iFQtpXEKCFwGL.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 13967,
+  "imdb_id": "tt0482546",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Miss Potter",
+  "overview": "Beatrix Potter, the author of the beloved children's book \"The Tale of Peter Rabbit\", struggles for love, happiness and success.",
+  "popularity": 4.4701,
+  "poster_path": "/p06pWMwePatBdElr2xYhBkMYxmS.jpg",
+  "production_companies": [
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 11317,
+      "logo_path": "/hMboqqmeILXFeOJjuCsn3FvCIT3.png",
+      "name": "Phoenix Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2452,
+      "logo_path": "/gOkUB0TdXRLAl6s0s6jCSLS3sOb.png",
+      "name": "UK Film Council",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2268,
+      "logo_path": "/wgDks2qYgwN6u1OkW1bBre0rf4F.png",
+      "name": "Isle of Man Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 11050,
+      "logo_path": null,
+      "name": "David Kirschner Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 114739,
+      "logo_path": null,
+      "name": "Grosvenor Park Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 491,
+      "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+      "name": "Summit Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 308,
+      "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+      "name": "The Weinstein Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-12-03",
+  "revenue": 35078241,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The life of Beatrix Potter is the most enchanting tale of all.",
+  "title": "Miss Potter",
+  "video": false,
+  "vote_average": 6.633,
+  "vote_count": 527
+}

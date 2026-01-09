@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/w7Z4BVMin49voNN61IUWyN9DopV.jpg",
+  "belongs_to_collection": null,
+  "budget": 8900000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 86837,
+  "imdb_id": "tt1602620",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Amour",
+  "overview": "Georges and Anne are in their eighties. They are cultivated, retired music teachers. Their daughter, who is also a musician, lives abroad with her family. One day, Anne has a stroke, and the couple's bond of love is severely tested.",
+  "popularity": 4.6248,
+  "poster_path": "/19hyCudualHxCD0GrEngqsi0wBF.jpg",
+  "production_companies": [
+    {
+      "id": 223,
+      "logo_path": "/pdthRbCuXNlrGNwnmLFRxv5Zy3t.png",
+      "name": "Les Films du Losange",
+      "origin_country": "FR"
+    },
+    {
+      "id": 96,
+      "logo_path": "/9ps82gVzUeNdkjmLzoGDQLiLDio.png",
+      "name": "X Filme Creative Pool",
+      "origin_country": "DE"
+    },
+    {
+      "id": 224,
+      "logo_path": "/fCv129CE3olInpdEiOWcC5s2YbQ.png",
+      "name": "Wega Film",
+      "origin_country": "AT"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 162,
+      "logo_path": "/pIK5tsFVxjoXTJGcd0nYhiL1kn1.png",
+      "name": "BR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 46,
+      "logo_path": "/3xFdKHLXPGHEbrAkmsepGE8974Y.png",
+      "name": "WDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 986,
+      "logo_path": "/qDV8nLH9pjElZSnPmg29mzzNlTo.png",
+      "name": "ARD Degeto",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    }
+  ],
+  "release_date": "2012-09-20",
+  "revenue": 29800000,
+  "runtime": 127,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Amour",
+  "video": false,
+  "vote_average": 7.756,
+  "vote_count": 1726
+}

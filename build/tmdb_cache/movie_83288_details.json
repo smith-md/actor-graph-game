@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/qLAlf8vSmfDBHkh0PkPNKHcq05D.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 83288,
+  "imdb_id": "tt0113220",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Virtual Combat",
+  "overview": "In Year 2025 Two Nevada border officers, Dave Quarry and John, amuse themselves off duty by honing their kick-boxing skills via virtual reality combat. Elsewhere, a computer tycoon prepares to market his company's latest invention, a combination of DNA and virtual reality that creates beings and creatures who look and feel real.",
+  "popularity": 5.1345,
+  "poster_path": "/iIHr2HXujKsCpW541fEO0OtaZFR.jpg",
+  "production_companies": [
+    {
+      "id": 40644,
+      "logo_path": null,
+      "name": "Amritraj / Stevens Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 14280,
+      "logo_path": null,
+      "name": "A-Pix Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-07-11",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Virtual Truth: Incarnate Evil has Escaped. The Virtual Reality: Kill or Be Killed",
+  "title": "Virtual Combat",
+  "video": false,
+  "vote_average": 4.667,
+  "vote_count": 24
+}

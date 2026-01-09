@@ -1,0 +1,98 @@
+{
+  "adult": false,
+  "backdrop_path": "/dGfpqdkEJzpUb46L9neCrthdRfq.jpg",
+  "belongs_to_collection": null,
+  "budget": 60000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.universalstudiosentertainment.com/duplicity/",
+  "id": 16558,
+  "imdb_id": "tt1135487",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Duplicity",
+  "overview": "Two romantically involved corporate spies team up to manipulate a race to corner the market on a medical innovation that will reap huge profits and allow them to lead an extravagant lifestyle together.",
+  "popularity": 4.6233,
+  "poster_path": "/bWVLYz93c7l0sMHz7nDQNej8wnQ.jpg",
+  "production_companies": [
+    {
+      "id": 27317,
+      "logo_path": null,
+      "name": "Medienproduktion Poseidon Filmgesellschaft",
+      "origin_country": ""
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 7295,
+      "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+      "name": "Relativity Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 5163,
+      "logo_path": null,
+      "name": "Laura Bickford Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-03-18",
+  "revenue": 78176181,
+  "runtime": 125,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Outwit. Outspy. Outsmart. Outplay. Then get out.",
+  "title": "Duplicity",
+  "video": false,
+  "vote_average": 5.915,
+  "vote_count": 844
+}

@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/fqNMqfKFq7UxPpPyf7DeYzDa61R.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 16236,
+  "imdb_id": "tt0847182",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Mansfield Park",
+  "overview": "Fanny Price is sent to live with her wealthy relatives, the Bertrams, where she is treated poorly by most except her cousin Edmund. Her life is complicated by the arrival of the worldly Mary and Henry Crawford",
+  "popularity": 4.191,
+  "poster_path": "/vnjpMB6wJymfpX3CraHw3zeXONF.jpg",
+  "production_companies": [
+    {
+      "id": 3448,
+      "logo_path": "/dcA8JDfnnQPMaq8lv2CCiYrNe0S.png",
+      "name": "ITV",
+      "origin_country": "GB"
+    },
+    {
+      "id": 11842,
+      "logo_path": "/eNw316EUzXBLVOzlZPVwOcPKoDw.png",
+      "name": "Company Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 10197,
+      "logo_path": "/lRah8iyzBZJ90ZgsKUIWUU9XnRu.png",
+      "name": "GBH",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2007-03-18",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mansfield Park",
+  "video": false,
+  "vote_average": 6.068,
+  "vote_count": 111
+}

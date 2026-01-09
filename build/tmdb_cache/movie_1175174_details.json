@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/jlqan4iTqliIjIRivtqDDRJh2H5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 1175174,
+  "imdb_id": "tt29008225",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Fackham Hall",
+  "overview": "A new porter embarks on an unlikely relationship with the youngest daughter of a prominent English family. Simultaneously, rivalries are spilling over in the Davenport family, led by the Lord and Lady as they also weather the epic failure of the wedding of their eldest daughter to her caddish cousin.",
+  "popularity": 25.0817,
+  "poster_path": "/fwpdRe6WGmzqXFEJYJVepDQ6jrw.jpg",
+  "production_companies": [
+    {
+      "id": 208040,
+      "logo_path": null,
+      "name": "Mews Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 210835,
+      "logo_path": "/sVHTeLGqzIsljtlKpJRDfPZ3Lhg.png",
+      "name": "Elysian Film Group",
+      "origin_country": "GB"
+    },
+    {
+      "id": 114128,
+      "logo_path": "/cJ39EvHmQ7fDEUkiTMZUikhG2eM.png",
+      "name": "Two & Two Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 274685,
+      "logo_path": null,
+      "name": "Vacancy Films",
+      "origin_country": ""
+    },
+    {
+      "id": 10039,
+      "logo_path": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+      "name": "Anonymous Content",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-12-01",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Born to aristocracy. Bred for idiocy.",
+  "title": "Fackham Hall",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 44
+}

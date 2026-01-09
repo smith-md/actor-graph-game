@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/xqIstzB0ELbYyfzKcYaSwLb4Whs.jpg",
+  "belongs_to_collection": null,
+  "budget": 19000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 976576,
+  "imdb_id": "tt20247888",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "Emmanuelle",
+  "overview": "While traveling, Emmanuelle meets Kei, a man who constantly eludes her. Though she indulges in the many alluring distractions, she can’t shake their chance encounter. Will she submit to her basest desires to forge a deeper relationship?",
+  "popularity": 3.7605,
+  "poster_path": "/s9gmKus9YPTDzdMKZQJYPh0VoGk.jpg",
+  "production_companies": [
+    {
+      "id": 2700,
+      "logo_path": "/h3bdysr6aNtFqK7DXQu1Rh43rwk.png",
+      "name": "Rectangle Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7981,
+      "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+      "name": "Pathé",
+      "origin_country": "FR"
+    },
+    {
+      "id": 193357,
+      "logo_path": null,
+      "name": "Chantelouve",
+      "origin_country": "FR"
+    },
+    {
+      "id": 211595,
+      "logo_path": "/zVFJYy3PJIdgfp7H5lDOfaYVcG3.png",
+      "name": "Goodfellas",
+      "origin_country": "FR"
+    },
+    {
+      "id": 209127,
+      "logo_path": "/6kby8aYYQX7RqPGs0DPIGMtG2Sg.png",
+      "name": "Logical Content Ventures",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-09-25",
+  "revenue": 712413,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Emmanuelle",
+  "video": false,
+  "vote_average": 4.674,
+  "vote_count": 92
+}

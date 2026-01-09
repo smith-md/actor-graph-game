@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/ibK0sooxQwIeqS9tz4Tj0chyca9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1058710,
+  "imdb_id": "tt13899250",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bloodline Killer",
+  "overview": "Moira Cole endeavors to rebuild her shattered life after her family's murder at the hands of her deranged and obsessed cousin.",
+  "popularity": 3.6199,
+  "poster_path": "/wHmzCQwBzT6m8wtZdXHOIITn82B.jpg",
+  "production_companies": [
+    {
+      "id": 143302,
+      "logo_path": null,
+      "name": "Novakovic Bros",
+      "origin_country": "US"
+    },
+    {
+      "id": 64580,
+      "logo_path": null,
+      "name": "Future Proof Films",
+      "origin_country": ""
+    },
+    {
+      "id": 111951,
+      "logo_path": null,
+      "name": "JARS Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 228157,
+      "logo_path": null,
+      "name": "Gaudioso Twins Films",
+      "origin_country": ""
+    },
+    {
+      "id": 212925,
+      "logo_path": null,
+      "name": "Twelve 83 entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-04-26",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bloodline Killer",
+  "video": false,
+  "vote_average": 4.0,
+  "vote_count": 21
+}

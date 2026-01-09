@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/ABuIGbnT6uQtHULIst9DiR7pyG.jpg",
+  "belongs_to_collection": {
+    "id": 1493634,
+    "name": "Influencer Collection",
+    "poster_path": "/7mVgcnUkweyNS9s6JuCSgpVIIJX.jpg",
+    "backdrop_path": "/iXq6EXufOKsCZ0vHi8aZraNasxk.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1020910,
+  "imdb_id": "tt13309170",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Influencer",
+  "overview": "While struggling on a solo backpacking trip in Thailand, social media influencer Madison meets CW, who travels with ease and shows her a more uninhibited way of living. But CW's interest in her takes a darker turn.",
+  "popularity": 5.1478,
+  "poster_path": "/mtXV301BF7pqwvRjsWhQo6sD10F.jpg",
+  "production_companies": [
+    {
+      "id": 138220,
+      "logo_path": null,
+      "name": "Octane Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 176562,
+      "logo_path": null,
+      "name": "Superchill",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-05-18",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Be careful who you follow.",
+  "title": "Influencer",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 308
+}

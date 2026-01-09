@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/dvdxLxcmxOi3enwAhisPHLDDwBM.jpg",
+  "belongs_to_collection": {
+    "id": 9046,
+    "name": "A Chinese Ghost Story Collection",
+    "poster_path": "/mvB3awIvOQ6O0FcTSiIqcksUjqo.jpg",
+    "backdrop_path": "/nIXjmTi2ePJyFf2nDngGsWOX7TP.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 9048,
+  "imdb_id": "tt0102932",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "倩女幽魂III：道道道",
+  "overview": "Set 100 years after the events of A Chinese Ghost Story, Buddhist Bai Yun and his disciple Fong journey through a small town to transport a golden idol of Buddha. However, local thieves thwart their journey, sending them to take shelter at the ghostly Orchid Temple.",
+  "popularity": 3.9933,
+  "poster_path": "/vpeXfr6B7ortQ974C3CAJTO9XPb.jpg",
+  "production_companies": [
+    {
+      "id": 3618,
+      "logo_path": null,
+      "name": "Film Workshop",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1991-07-18",
+  "revenue": 0,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The final battle between god and evil.",
+  "title": "A Chinese Ghost Story III",
+  "video": false,
+  "vote_average": 6.46,
+  "vote_count": 101
+}

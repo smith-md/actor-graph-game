@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/bYRvM8no3CzZyVQCrzG5ARqTONs.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 208759,
+  "imdb_id": "tt0096806",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "en",
+  "original_title": "American risciò",
+  "overview": "After a stripper tricks him into filming a sex tape, Miami rickshaw runner Scott Edwards becomes embroiled in the murder of a televangelist's son when he inadvertently takes the wrong videotape. With the help of the stripper and a witch, Edwards sets out to clear his name while avoiding the assassin dead-set on retrieving the tape.",
+  "popularity": 2.9279,
+  "poster_path": "/uDqGRfan209vBldeKO6GiqwI61F.jpg",
+  "production_companies": [
+    {
+      "id": 2185,
+      "logo_path": null,
+      "name": "National Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1701,
+      "logo_path": null,
+      "name": "Dania Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 15868,
+      "logo_path": null,
+      "name": "Medusa Distribuzione",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1989-01-24",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Miami just got hotter...",
+  "title": "American Rickshaw",
+  "video": false,
+  "vote_average": 4.3,
+  "vote_count": 21
+}

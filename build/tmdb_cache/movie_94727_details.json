@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/qBCySj9arqJPixLUStI4aIw67VB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 94727,
+  "imdb_id": "tt0017162",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Moana",
+  "overview": "Robert J. Flaherty’s follow-up to Nanook of the North shifts from the Arctic to the South Seas, portraying Samoan village life with a painterly eye. Blending ethnographic detail with a romanticized “Gauguin idyll,” the film celebrates daily rituals, communal traditions, and the passage into adulthood, suffused with what Flaherty called “pride of beauty, pride of strength.”",
+  "popularity": 2.9631,
+  "poster_path": "/dkSM2bfwYaqY0k6cEFwej1LRWAk.jpg",
+  "production_companies": [
+    {
+      "id": 177641,
+      "logo_path": null,
+      "name": "Robert Flaherty Productions Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1926-01-07",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Moana",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 34
+}

@@ -1,0 +1,54 @@
+{
+  "adult": false,
+  "backdrop_path": "/cYaPg16OH0r1sw5fLM6uXPlB1l0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 87977,
+  "imdb_id": "tt0055361",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Rebel",
+  "overview": "Anthony Hancock gives up his office job to become an abstract artist. He has a lot of enthusiasm, but little talent, and critics scorn his work. Nevertheless, he impresses an emerging very talented artist. Hancock proceeds to con the art world into thinking he is a genius.",
+  "popularity": 4.9709,
+  "poster_path": "/aYNZa2iMbN2HTNVEcJMo0dEBDMJ.jpg",
+  "production_companies": [
+    {
+      "id": 1441,
+      "logo_path": "/28DJnfE2ZaR5oNJVlZ38uvnLaCH.png",
+      "name": "Associated British Picture Corporation",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1961-03-07",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Watch Out Picasso... Here Comes Tony Hancock!",
+  "title": "The Rebel",
+  "video": false,
+  "vote_average": 7.8,
+  "vote_count": 26
+}

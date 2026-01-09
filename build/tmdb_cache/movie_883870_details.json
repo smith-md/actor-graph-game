@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/7T0TWrlS8QoNKOlOX0XDTYwyBlo.jpg",
+  "belongs_to_collection": null,
+  "budget": 4100000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 883870,
+  "imdb_id": "tt15676954",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Mon héroïne",
+  "overview": "A young girl from Rouen dreams about directing movies with Julia Roberts. Overprotected by her mother, she hopes to join a prestigeous cinema school in New York City, but nothing happens as expected, and her dreams are cruelly broken. Denying her fate, she leaves France to New York City, with her nutty-aunt's help, dreaming to give her screenplay to Julia Roberts herself.",
+  "popularity": 2.4289,
+  "poster_path": "/i5IsStJDj8YAjVFl9nsGFBMCNnO.jpg",
+  "production_companies": [
+    {
+      "id": 146118,
+      "logo_path": "/qnwbrI1QEvUG3blDWmUolg0BjLs.png",
+      "name": "Octopolis",
+      "origin_country": "FR"
+    },
+    {
+      "id": 174464,
+      "logo_path": null,
+      "name": "Indy Films Production",
+      "origin_country": ""
+    },
+    {
+      "id": 1546,
+      "logo_path": null,
+      "name": "Universal Pictures France",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2022-12-14",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mon Heroine",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 50
+}

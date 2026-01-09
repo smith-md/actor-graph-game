@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/sTumBA3jMn1B5b8TIpELBO1xbrm.jpg",
+  "belongs_to_collection": null,
+  "budget": 750000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 84449,
+  "imdb_id": "tt1870527",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Remains",
+  "overview": "The story centers on two lone survivors of a bizarre accident that reduced most of the world's population to zombies. They take refuge in a vacant casino and fight a losing battle against the undead.",
+  "popularity": 3.4621,
+  "poster_path": "/8IxvPu3zfPtZiGbXoQQ5NfkssJD.jpg",
+  "production_companies": [
+    {
+      "id": 23761,
+      "logo_path": "/4jwuS7AnT0Itq4ExleF90Cmo3mt.png",
+      "name": "Synthetic Cinema International",
+      "origin_country": "US"
+    },
+    {
+      "id": 12671,
+      "logo_path": "/gCrdOAUPvebAKry9oPU1HAK5c1E.png",
+      "name": "Chiller Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-12-06",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This Town Will Eat You Alive.",
+  "title": "Remains",
+  "video": false,
+  "vote_average": 4.85,
+  "vote_count": 90
+}

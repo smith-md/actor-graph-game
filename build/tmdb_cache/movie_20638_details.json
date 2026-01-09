@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/hJwZnEQ22fwuQNAW8GGXYIFbFcc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 20638,
+  "imdb_id": "tt0040978",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Yellow Sky",
+  "overview": "In 1867, a gang robs a bank and flees into the desert. Out of water, the outlaws encounter a ghost town called Yellow Sky and its only residents, a hostile young woman and her grandfather.",
+  "popularity": 3.0087,
+  "poster_path": "/ahS9YKQSkckF5XSWkAJxpwLmuef.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1948-12-24",
+  "revenue": 2800000,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It was as if the YELLOW SKY had sought them out... where fate had forgotten them and life had left them behind!",
+  "title": "Yellow Sky",
+  "video": false,
+  "vote_average": 6.926,
+  "vote_count": 121
+}

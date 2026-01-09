@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/lqwwGkwJHtz9QgKtz4zeY19YgDg.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://a24films.com/films/materialists",
+  "id": 1136867,
+  "imdb_id": "tt30253473",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Materialists",
+  "overview": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+  "popularity": 11.3111,
+  "poster_path": "/zh4kaa2dGhVjojHulCWt3AR4b2l.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 1422,
+      "logo_path": "/rIB6DuimR1qgLE14cBwpMABC2xx.png",
+      "name": "Killer Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 158407,
+      "logo_path": "/zUj7hFnsY8y1hVPfiZYnDtcGTHe.png",
+      "name": "2AM",
+      "origin_country": "US"
+    },
+    {
+      "id": 142269,
+      "logo_path": "/ggrWFqk5mPMks0vE3aCy3l9e0dv.png",
+      "name": "IPR.VC",
+      "origin_country": "FI"
+    },
+    {
+      "id": 103376,
+      "logo_path": "/zAyfGEx1LJOkwNTrHugnWHzLRE.png",
+      "name": "Access Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    }
+  ],
+  "release_date": "2025-06-12",
+  "revenue": 105618726,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some people just want more.",
+  "title": "Materialists",
+  "video": false,
+  "vote_average": 6.455,
+  "vote_count": 963
+}

@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/yZIfHR7LM1z97CmRXWf6xGTBME3.jpg",
+  "belongs_to_collection": {
+    "id": 338282,
+    "name": "Single White Female Collection",
+    "poster_path": "/w5GFkSMCE3GBnPL9ivP5qTLbdp2.jpg",
+    "backdrop_path": "/qi5hgdgYBrwEV9AJOzeF47zET9V.jpg"
+  },
+  "budget": 16000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 9605,
+  "imdb_id": "tt0105414",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Single White Female",
+  "overview": "Having recently split from her fiancé, Allison Jones welcomes new roommate Hedra Carlson. The young women quickly form a bond, but soon Allison begins to notice not all’s well with her new tenant.",
+  "popularity": 4.047,
+  "poster_path": "/2B6spN9XvzbK9hKDQtvTa4wVoys.jpg",
+  "production_companies": [
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-08-14",
+  "revenue": 48017402,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Living with a roommate can be murder.",
+  "title": "Single White Female",
+  "video": false,
+  "vote_average": 6.296,
+  "vote_count": 673
+}

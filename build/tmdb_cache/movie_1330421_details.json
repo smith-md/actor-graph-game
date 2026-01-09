@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/168dp7vy3kwOehcMpFaLOfB52NV.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.primevideo.com/detail/Bone-Lake/0TIFSOT2EWPQ7MSAQ603DUA7QS",
+  "id": 1330421,
+  "imdb_id": "tt26783625",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bone Lake",
+  "overview": "A couple’s romantic vacation at a secluded lakeside estate is upended when they are forced to share the mansion with a mysterious and attractive couple. In this darkly hilarious and seductive horror story, a dream getaway spirals into a nightmarish maze of sex, lies, and manipulation, bringing terrifying secrets to light and triggering a bloody battle for survival.",
+  "popularity": 9.3978,
+  "poster_path": "/sGo5ti82LlydAZrvcsaj31iPuEI.jpg",
+  "production_companies": [
+    {
+      "id": 8533,
+      "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+      "name": "LD Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 259826,
+      "logo_path": null,
+      "name": "Door Number 3 Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-02",
+  "revenue": 1688650,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What's your body count?",
+  "title": "Bone Lake",
+  "video": false,
+  "vote_average": 6.045,
+  "vote_count": 89
+}

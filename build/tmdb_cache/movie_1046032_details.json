@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/pJ39ZYZQetpNXn4lSmjBoib4NZL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81662920",
+  "id": 1046032,
+  "imdb_id": "tt28863512",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Bad Guys: A Very Bad Holiday",
+  "overview": "To keep their annual Holiday Heist-tacular afloat, Mr. Wolf and his crew of animal outlaws will have to restore the whole city's Christmas spirit — fast!",
+  "popularity": 6.6264,
+  "poster_path": "/er0Gth3Tr279hFq1xeKdYxhcleO.jpg",
+  "production_companies": [
+    {
+      "id": 42141,
+      "logo_path": "/3DWUezrpxTqVMW4oKRhzfqJbULK.png",
+      "name": "DreamWorks Animation Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-29",
+  "revenue": 0,
+  "runtime": 26,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Bad Guys: A Very Bad Holiday",
+  "video": false,
+  "vote_average": 6.513,
+  "vote_count": 157
+}

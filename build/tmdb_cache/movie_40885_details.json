@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/eYHkb8xNizPXXGXAFfg4Gvm974b.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 40885,
+  "imdb_id": "tt0050933",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sayonara",
+  "overview": "Air Force Major Lloyd Gruver is reassigned to a Japanese air base and is confronted with US racial prejudice against the Japanese people. The issue is compounded because a number of the soldiers become romantically involved with Japanese women, in defiance of US military policy. Ordinarily, a by-the-book officer, Gruver must take a position when a buddy of his, an enlisted man, Joe Kelly, falls in love with a Japanese woman, Katsumi, and marries her. Gruver risks his position by serving as best man at the wedding ceremony.",
+  "popularity": 3.6635,
+  "poster_path": "/xSXJDamf9vSb1qOiBhOMjB2soDE.jpg",
+  "production_companies": [
+    {
+      "id": 10568,
+      "logo_path": null,
+      "name": "Pennebaker Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 3473,
+      "logo_path": null,
+      "name": "William Goetz Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1957-12-25",
+  "revenue": 0,
+  "runtime": 147,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "\"I am not allowed to love. But I will love you if that is your desire...\"",
+  "title": "Sayonara",
+  "video": false,
+  "vote_average": 6.68,
+  "vote_count": 139
+}

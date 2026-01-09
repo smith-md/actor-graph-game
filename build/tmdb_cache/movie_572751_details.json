@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/bs3hu2Qi3QEAGbYFhdbWdT2QRLU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 572751,
+  "imdb_id": "tt7221772",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Seized",
+  "overview": "Hiding out with his son Taylor on the Mexican coast, Nero hopes to put his violent Special Forces career behind him. But after Nero’s home is attacked and Taylor is abducted, the mysterious Mzamo orders Nero to slaughter the members of three rival crime syndicates. If he fails, Taylor will die. Now, with bullets flying and bodies dropping as Nero completes his mission, he races to find Mzamo’s hideout and seek revenge.",
+  "popularity": 6.447,
+  "poster_path": "/A4SHHEf6MH1Z1GmUZBtHwJL7YbY.jpg",
+  "production_companies": [
+    {
+      "id": 35625,
+      "logo_path": "/zxIrXuRMBmsXf7XpouDrF0P4RjI.png",
+      "name": "Premiere Entertainment Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 143335,
+      "logo_path": null,
+      "name": "Arramis Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 121204,
+      "logo_path": "/vbtvY4IxgUZk713rkmoTO4MHIac.png",
+      "name": "BondIt Media Capital",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-10-13",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They kidnapped his son. Big mistake.",
+  "title": "Seized",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 180
+}

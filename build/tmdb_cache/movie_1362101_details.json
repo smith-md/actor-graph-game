@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/69zQPqavgtWhpvWS5dOU0sInjez.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1362101,
+  "imdb_id": "tt32313870",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Mavi Mağara",
+  "overview": "When Cem finds himself at the brink of losing the love of his life, Alara, he embarks on an expedition to the Blue Cave, Alara's most beloved archeological site, to feel close to her again.",
+  "popularity": 3.9235,
+  "poster_path": "/32hWYgxMOudSgA6tR8nlVTUtoOi.jpg",
+  "production_companies": [
+    {
+      "id": 43853,
+      "logo_path": "/pAQVKxBUMbbeasH41x874EjtsSA.png",
+      "name": "Ay Yapım",
+      "origin_country": "TR"
+    },
+    {
+      "id": 115023,
+      "logo_path": null,
+      "name": "Braveborn",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2024-10-17",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Blue Cave",
+  "video": false,
+  "vote_average": 6.954,
+  "vote_count": 98
+}

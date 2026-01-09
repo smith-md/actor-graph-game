@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/oqUlGZ8wifE0BpNfbYi9NpRC7j.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 77233,
+  "imdb_id": "tt0095665",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mr. North",
+  "overview": "Mr. North, a stranger to a small, but wealthy, Rhode Island town, quickly has rumors started about him that he has the power to heal people's ailments...",
+  "popularity": 3.5727,
+  "poster_path": "/5svk8saTxXGQ9WKE9MEIIbxcnwh.jpg",
+  "production_companies": [
+    {
+      "id": 49043,
+      "logo_path": null,
+      "name": "Heritage Entertainment Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 118378,
+      "logo_path": null,
+      "name": "Showcase International Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 798,
+      "logo_path": "/nQgX1MOLySgug7FDONdIkht3xob.png",
+      "name": "The Samuel Goldwyn Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1988-07-22",
+  "revenue": 1221366,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some say he's a miracle man. Some say he's a fraud. You are about to meet a most unusual young man.",
+  "title": "Mr. North",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 20
+}

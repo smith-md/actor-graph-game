@@ -1,0 +1,120 @@
+{
+  "adult": false,
+  "backdrop_path": "/fYepNPcgAYHQRMNZW95oOykLRgQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1151244,
+  "imdb_id": "tt28618488",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Vermiglio",
+  "overview": "In the last days of the Second World War, a deserting soldier disrupts a tranquil and isolated mountain community. For one family, his arrival brings excitement and romance, but tragedy lies in wait.",
+  "popularity": 4.4884,
+  "poster_path": "/aeCwM7c1Y1IAu3Oqqj5A2tSziWR.jpg",
+  "production_companies": [
+    {
+      "id": 203969,
+      "logo_path": null,
+      "name": "Cinedora",
+      "origin_country": "IT"
+    },
+    {
+      "id": 102874,
+      "logo_path": "/3oHMY8bVdqo8c9KSQw1ehMc0o3V.png",
+      "name": "Charades",
+      "origin_country": "FR"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 3040,
+      "logo_path": "/aZww3B7RCFAMV1qrDZDrdeB8qcI.png",
+      "name": "Versus Production",
+      "origin_country": "BE"
+    },
+    {
+      "id": 11797,
+      "logo_path": "/61JT9Ldht918n04Q73l2KhCjss.png",
+      "name": "VOO",
+      "origin_country": "BE"
+    },
+    {
+      "id": 24430,
+      "logo_path": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
+      "name": "BeTV",
+      "origin_country": "BE"
+    },
+    {
+      "id": 245340,
+      "logo_path": "/kTHYCmbAbITXhOhyAv6dBD4Gp37.png",
+      "name": "Orange",
+      "origin_country": "BE"
+    },
+    {
+      "id": 92187,
+      "logo_path": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+      "name": "Proximus",
+      "origin_country": "BE"
+    },
+    {
+      "id": 792,
+      "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF",
+      "origin_country": "BE"
+    },
+    {
+      "id": 256720,
+      "logo_path": null,
+      "name": "SG Image 2022",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2024-09-19",
+  "revenue": 0,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Vermiglio",
+  "video": false,
+  "vote_average": 7.067,
+  "vote_count": 289
+}

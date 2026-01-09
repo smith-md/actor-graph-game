@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/w9VGzSCTgqiLDDOVCQkJd7yvICw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 94363,
+  "imdb_id": "tt1205558",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hick",
+  "overview": "A pistol-packing teen meets an unstable rebel and a cocaine-snorting drifter as she hitchhikes her way out West.",
+  "popularity": 3.158,
+  "poster_path": "/ziXCRCci5BFLEUwSgO0V83M9LGw.jpg",
+  "production_companies": [
+    {
+      "id": 9036,
+      "logo_path": null,
+      "name": "Taylor Lane Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 9034,
+      "logo_path": null,
+      "name": "Stone River Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 158815,
+      "logo_path": null,
+      "name": "Lighthouse Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 256574,
+      "logo_path": null,
+      "name": "Treetop Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-05-11",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Trouble travels together.",
+  "title": "Hick",
+  "video": false,
+  "vote_average": 5.69,
+  "vote_count": 444
+}

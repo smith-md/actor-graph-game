@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/A466i5iATrpbVjX30clP1Zyfp31.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81287950",
+  "id": 1307078,
+  "imdb_id": "tt4978342",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "My Oxford Year",
+  "overview": "An ambitious American fulfilling her dream of studying at Oxford falls for a charming Brit hiding a secret that may upend her perfectly planned life.",
+  "popularity": 7.112,
+  "poster_path": "/jrhXbIOFingzdLjkccjg9vZnqIp.jpg",
+  "production_companies": [
+    {
+      "id": 12292,
+      "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+      "name": "Temple Hill Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-31",
+  "revenue": 0,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One year can change everything.",
+  "title": "My Oxford Year",
+  "video": false,
+  "vote_average": 7.014,
+  "vote_count": 509
+}

@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/us8T8e2bSkyORss8xanwCDZCZxG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.max.com/movies/sweethearts/a559eeba-532e-4e10-a030-17ce7cac4017",
+  "id": 999890,
+  "imdb_id": "tt14636214",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sweethearts",
+  "overview": "Two college freshmen who decided to stick with their high school sweethearts have to pull a 'Turkey Dump' and break up with them over 'Drunksgiving' the one chaotic night before Thanksgiving in their hometown that puts their codependent friendship to the test.",
+  "popularity": 4.4909,
+  "poster_path": "/890UDXYal6i8A9NbMV5TAxZpOzH.jpg",
+  "production_companies": [
+    {
+      "id": 123244,
+      "logo_path": "/7eH1Y4RIuontJJXVmmSRrNUMZhU.png",
+      "name": "Picturestart",
+      "origin_country": "US"
+    },
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-31",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "First comes love, then comes college",
+  "title": "Sweethearts",
+  "video": false,
+  "vote_average": 5.738,
+  "vote_count": 86
+}

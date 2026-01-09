@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/w1nDjTcn878ao6LeowTSSLBHPj5.jpg",
+  "belongs_to_collection": null,
+  "budget": 55000000,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://alanparker.com/film/evita/",
+  "id": 8818,
+  "imdb_id": "tt0116250",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Evita",
+  "overview": "The hit musical based on the life of Evita Duarte, an Argentinian actress who eventually became the wife of Argentinian president Juan Perón, and the most beloved and hated woman in Argentina.",
+  "popularity": 6.7521,
+  "poster_path": "/hkcSlu3PMw0WyC9vHlvML6nK3Id.jpg",
+  "production_companies": [
+    {
+      "id": 915,
+      "logo_path": "/4neXXpjSJDZPBGBnfWtqysB5htV.png",
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1504,
+      "logo_path": "/yVAJJ4TgnV1FsDmLh6h5ZNJd0vf.png",
+      "name": "Cinergi Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3978,
+      "logo_path": "/kk8VINipfjy7osPd5DgFTfyxUI.png",
+      "name": "Robert Stigwood Organization",
+      "origin_country": "GB"
+    },
+    {
+      "id": 81128,
+      "logo_path": null,
+      "name": "Dirty Hands Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-12-14",
+  "revenue": 141047179,
+  "runtime": 135,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Unforgotten, forever loved and adored.",
+  "title": "Evita",
+  "video": false,
+  "vote_average": 6.081,
+  "vote_count": 497
+}

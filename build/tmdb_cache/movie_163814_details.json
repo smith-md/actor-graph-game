@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/5BMC7wIcQMoPhQqiMETqHb1Mx6r.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 163814,
+  "imdb_id": "tt2193456",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Nearlyweds",
+  "overview": "Revolves around three friends who have dream weddings only to find out that the pastor who married them failed to complete the key paperwork required to make them official.",
+  "popularity": 2.6589,
+  "poster_path": "/jGv37RQEGJL2scwpOzT3pxMegGf.jpg",
+  "production_companies": [
+    {
+      "id": 5723,
+      "logo_path": null,
+      "name": "Pitchblack Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 77329,
+      "logo_path": null,
+      "name": "Wonderfly Films",
+      "origin_country": ""
+    },
+    {
+      "id": 6345,
+      "logo_path": "/pctomojbRLZNdYB0muFoZiaYdPI.png",
+      "name": "Lighthouse Pictures",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-01-12",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Nearlyweds",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 66
+}

@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/30VFInw6IUlMgKCYTxI3LgrNTqs.jpg",
+  "belongs_to_collection": null,
+  "budget": 650000,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 44864,
+  "imdb_id": "tt0073822",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Trollflöjten",
+  "overview": "The Queen of the Night enlists a handsome prince named Tamino to rescue her beautiful kidnapped daughter, Princess Pamina, in this screen adaptation of the beloved Mozart opera. Aided by the lovelorn bird hunter Papageno and a magical flute that holds the power to change the hearts of men, young Tamino embarks on a quest for true love, leading to the evil Sarastro's temple where Pamina is held captive.",
+  "popularity": 5.1431,
+  "poster_path": "/3N0L2ijwcVjRLJRSXbv3AKT2Vnt.jpg",
+  "production_companies": [
+    {
+      "id": 9138,
+      "logo_path": "/k7txH8XTs9BZwmTK6Drhjvt2ipu.png",
+      "name": "Sveriges Radio",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1975-10-04",
+  "revenue": 0,
+  "runtime": 134,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "We only see Bergman, we only hear Mozart",
+  "title": "The Magic Flute",
+  "video": false,
+  "vote_average": 7.189,
+  "vote_count": 95
+}

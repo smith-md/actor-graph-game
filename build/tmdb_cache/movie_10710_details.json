@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/rgImWBvvXCGTl4mNJ3L5960svfV.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 10710,
+  "imdb_id": "tt0326856",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Envy",
+  "overview": "A man becomes increasingly jealous of his friend's newfound success.",
+  "popularity": 3.2044,
+  "poster_path": "/RMaKg5mVnGVI0z3SvIgS7hYPUt.jpg",
+  "production_companies": [
+    {
+      "id": 7,
+      "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+      "name": "DreamWorks Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 97,
+      "logo_path": "/qv3ih9pR9w2XNKZDsqDqAGuZjqc.png",
+      "name": "Castle Rock Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 705,
+      "logo_path": null,
+      "name": "Spring Creek Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11407,
+      "logo_path": "/qPYLq3Q7BijSn1l11zz0Ax7o3E2.png",
+      "name": "Baltimore Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-04-30",
+  "revenue": 14494036,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Success didn’t go to his head, it went to his neighbor.",
+  "title": "Envy",
+  "video": false,
+  "vote_average": 4.879,
+  "vote_count": 542
+}

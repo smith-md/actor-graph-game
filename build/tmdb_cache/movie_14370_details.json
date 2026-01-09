@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/5gx3ZkoETzszwhEgdFW6M3roasH.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/realgenius",
+  "id": 14370,
+  "imdb_id": "tt0089886",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Real Genius",
+  "overview": "When teenage geniuses Mitch Taylor and Chris Knight, working on an advanced laser project, learn that the military wants to use it as a weapon, they decide to thwart the plan.",
+  "popularity": 4.9168,
+  "poster_path": "/8az0Tr8hEGDmrUH9WlFz1QIKsMy.jpg",
+  "production_companies": [
+    {
+      "id": 3088,
+      "logo_path": null,
+      "name": "Tri-Star-Delphi III Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 187063,
+      "logo_path": null,
+      "name": "Brian Grazer Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1985-08-07",
+  "revenue": 12952019,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When he gets mad, he doesn't get even… he gets creative.",
+  "title": "Real Genius",
+  "video": false,
+  "vote_average": 6.656,
+  "vote_count": 478
+}

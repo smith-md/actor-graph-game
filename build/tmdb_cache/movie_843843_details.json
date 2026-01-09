@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/mInqo4SQCjDgN5dDIJDa52UMETl.jpg",
+  "belongs_to_collection": null,
+  "budget": 22800000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 843843,
+  "imdb_id": "tt14904622",
+  "origin_country": [
+    "BE",
+    "FR",
+    "IS"
+  ],
+  "original_language": "fr",
+  "original_title": "Soudain seuls",
+  "overview": "Ben and Laura are a passionate but volatile couple who embark on a round-the-world sailing adventure to give their relationship a new start. During their trip, they decide to explore a vast deserted island which they discover off the coast of Chile. Caught in a violent storm, they shelter in an abandoned whaling station for the night but wake up the next morning to find their boat has disappeared. Stranded in a hostile environment with no means of communication, dwindling supplies and winter approaching they must work together in a life and death battle for survival, that will challenge their feelings and change their relationship forever.",
+  "popularity": 3.9319,
+  "poster_path": "/x5Xj72BQVNzk6lREDwNuYt4FLoX.jpg",
+  "production_companies": [
+    {
+      "id": 120768,
+      "logo_path": "/ccHWgGgU03FvvhPNgGmdzddNLTN.png",
+      "name": "Trésor Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 88648,
+      "logo_path": "/eiophOSHlcbrty3aVO9ISYK3SMO.png",
+      "name": "Truenorth",
+      "origin_country": "IS"
+    },
+    {
+      "id": 11773,
+      "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+      "name": "Artémis Productions",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IS",
+      "name": "Iceland"
+    }
+  ],
+  "release_date": "2023-12-06",
+  "revenue": 1418682,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Suddenly",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 168
+}

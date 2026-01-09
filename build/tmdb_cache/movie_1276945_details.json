@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/A28EE0vgHrB0OdoxWWMfgfyEoYn.jpg",
+  "belongs_to_collection": {
+    "id": 1376230,
+    "name": "Ferry Collection",
+    "poster_path": "/rmMEzTF6BskCcf9CgbIbcg3wKe3.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81674409",
+  "id": 1276945,
+  "imdb_id": "tt30021427",
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "nl",
+  "original_title": "Ferry 2",
+  "overview": "After losing his drug empire, Ferry Bouman has found a measure of peace away from Brabant's criminal underworld — until his past catches up to him.",
+  "popularity": 5.6841,
+  "poster_path": "/8pwdnL3pEISIN1EGmwZzU6hpNVk.jpg",
+  "production_companies": [
+    {
+      "id": 120281,
+      "logo_path": "/bvNKpqHF6cRGPrMRVAbKIcqn6XY.png",
+      "name": "De Mensen",
+      "origin_country": "BE"
+    },
+    {
+      "id": 12025,
+      "logo_path": "/sLVmKLJ2E0KSsfKiIYDjo4v6Y5l.png",
+      "name": "VRT",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2024-12-19",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ferry 2",
+  "video": false,
+  "vote_average": 5.913,
+  "vote_count": 120
+}

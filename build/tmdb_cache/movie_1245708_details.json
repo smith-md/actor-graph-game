@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/nIqtfruif9XbCBo2KBIHPcCGkOB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1245708,
+  "imdb_id": "tt18884172",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Crescent City",
+  "overview": "When a ruthless serial killer terrorizes a small Southern town, everyone becomes a suspect -- including local authorities. As the body count rises and the dark mystery deepens, the chief detective becomes haunted by the horrors of his past.",
+  "popularity": 3.7665,
+  "poster_path": "/kWwIkWextuqVUvAEM9DwJfEfkKe.jpg",
+  "production_companies": [
+    {
+      "id": 220416,
+      "logo_path": null,
+      "name": "Beno Films",
+      "origin_country": ""
+    },
+    {
+      "id": 198179,
+      "logo_path": "/ct4wmzYtS2prZnitm4iuMxRAMsR.png",
+      "name": "Filmopoly",
+      "origin_country": "US"
+    },
+    {
+      "id": 177499,
+      "logo_path": "/9fCtPsxhpASvHIrzju2PAdg2F35.png",
+      "name": "Latigo Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 25140,
+      "logo_path": "/6SeV4YCwyIDktJlvrVwiEDSLovF.png",
+      "name": "The Exchange",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-16",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some sins are unforgivable.",
+  "title": "Crescent City",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 73
+}

@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/cNmGq1bfUDhrZEHvJ77zwiWfoNA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81624009",
+  "id": 1306525,
+  "imdb_id": "tt32643830",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "Abadi Nan Jaya",
+  "overview": "An elixir unleashes the undead in a village. A family at odds with one another must unite and fight to survive as their hometown collapses.",
+  "popularity": 9.5692,
+  "poster_path": "/A6aJLPhtmin9ZTWC2h7dnrMHU4z.jpg",
+  "production_companies": [
+    {
+      "id": 237116,
+      "logo_path": null,
+      "name": "Mowin Pictures",
+      "origin_country": "ID"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2025-10-22",
+  "revenue": 0,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Javanese",
+      "iso_639_1": "jv",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Elixir",
+  "video": false,
+  "vote_average": 5.958,
+  "vote_count": 165
+}

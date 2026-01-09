@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/dd4KuEWZNoLp733pPmrWFTvhCp0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 13949,
+  "imdb_id": "tt0844330",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Persuasion",
+  "overview": "Living with her snobby family on the brink of bankruptcy, Anne Elliot is an unconforming woman with modern sensibilities. When Frederick Wentworth – the dashing one she once sent away – crashes back into her life, Anne must choose between putting the past behind her or listening to her heart when it comes to second chances.",
+  "popularity": 3.9915,
+  "poster_path": "/rDv38jqf3t0n4F9wGkQXBLx7wN9.jpg",
+  "production_companies": [
+    {
+      "id": 15788,
+      "logo_path": "/haOHry5U7AMG3YOsPub4Az7OW2y.png",
+      "name": "Clerkenwell Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 10197,
+      "logo_path": "/lRah8iyzBZJ90ZgsKUIWUU9XnRu.png",
+      "name": "GBH",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-04-01",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Persuasion",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 278
+}

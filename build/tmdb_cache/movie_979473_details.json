@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/hbHEso397BY9kSX36gEVlsINwnj.jpg",
+  "belongs_to_collection": {
+    "id": 1355302,
+    "name": "Shooting Stars Collection",
+    "poster_path": "/pPH9CQESN6EMlnU0LfkB6WjoHPU.jpg",
+    "backdrop_path": "/bjAGX7fI7WakBg8ZdiIIXXaArrk.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.snd-international.biz/movie/the-playmakers/",
+  "id": 979473,
+  "imdb_id": "tt31797833",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "4 Zéros",
+  "overview": "These old friends now have to train the next football generation with the help of their own offsprings...",
+  "popularity": 3.7897,
+  "poster_path": "/ePNu4AuhdisRLTxm8Hup8NUN6UJ.jpg",
+  "production_companies": [
+    {
+      "id": 77552,
+      "logo_path": "/3aeDaei9tONEGMvWm7W2TKxa1er.png",
+      "name": "Curiosa Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-10-23",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Football has changed. They didn't.",
+  "title": "Some Shooting Stars",
+  "video": false,
+  "vote_average": 4.23,
+  "vote_count": 76
+}

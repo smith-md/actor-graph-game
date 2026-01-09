@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/r5bLJXXwUMp2MO5hkn4KYXIR4eO.jpg",
+  "belongs_to_collection": null,
+  "budget": 23000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.haywiremovie.com/",
+  "id": 70435,
+  "imdb_id": "tt1506999",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Haywire",
+  "overview": "A black ops soldier seeks payback after she is betrayed and left for dead.",
+  "popularity": 4.9169,
+  "poster_path": "/c9fJ0dYC30NnE9k2p61c0dqlZqW.jpg",
+  "production_companies": [
+    {
+      "id": 7295,
+      "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+      "name": "Relativity Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 1898,
+      "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2011-11-01",
+  "revenue": 33372606,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They gave her no choice",
+  "title": "Haywire",
+  "video": false,
+  "vote_average": 5.711,
+  "vote_count": 1443
+}

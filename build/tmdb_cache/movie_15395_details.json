@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/3xDfaGIsbx6SAwox9P4UCRflpgY.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 15395,
+  "imdb_id": "tt0282698",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Love Liza",
+  "overview": "Following the unexplained suicide of his wife Liza, website designer Wilson Joel turns to huffing gasoline fumes and remote control gaming while avoiding an inevitable conflict with his mother-in-law.",
+  "popularity": 3.6329,
+  "poster_path": "/dAjQy6CpYMTZ4ClrcaeJcoT3UHa.jpg",
+  "production_companies": [
+    {
+      "id": 2051,
+      "logo_path": "/3RKFvKecXHIi3ngHhK7a6pIBX9R.png",
+      "name": "Kinowelt",
+      "origin_country": "DE"
+    },
+    {
+      "id": 856,
+      "logo_path": "/3tfzS2CrX6Ntbu927XzHXEPDA6y.png",
+      "name": "Wild Bunch",
+      "origin_country": "FR"
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 15231,
+      "logo_path": "/iFbzMtXFBv2ekA9Ldrw6LqjLrvX.png",
+      "name": "Muse Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 216273,
+      "logo_path": null,
+      "name": "Blacklist Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 216274,
+      "logo_path": null,
+      "name": "Ruth Charny Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 263384,
+      "logo_path": null,
+      "name": "Jeff Roda Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2002-12-30",
+  "revenue": 223426,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Comic Tragedy",
+  "title": "Love Liza",
+  "video": false,
+  "vote_average": 6.37,
+  "vote_count": 115
+}

@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/7OJ2FUlCQKILEfPZXzqKWp3mbUA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81122408",
+  "id": 726887,
+  "imdb_id": "tt10851618",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rising Phoenix",
+  "overview": "Elite athletes and insiders reflect on the Paralympic Games and examine how they impact a global understanding of disability, diversity and excellence.",
+  "popularity": 2.7135,
+  "poster_path": "/oso09gID2bFk9q3Cni8GNOuzTWZ.jpg",
+  "production_companies": [
+    {
+      "id": 137601,
+      "logo_path": "/yErugtLjtCB7umVmoSsgX5yNbft.png",
+      "name": "HTYT Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 101477,
+      "logo_path": "/1nFcfwblSThRfYZZvSGsKSpBKx5.png",
+      "name": "Misfits Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 11594,
+      "logo_path": "/4w31g1L8zrpOuZ7s7f83qkmfOVZ.png",
+      "name": "Passion Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 138301,
+      "logo_path": "/kjYLNBezs8z364sgZDi2qHDEMb3.png",
+      "name": "Ventureland",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-08-26",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rising Phoenix",
+  "video": false,
+  "vote_average": 8.131,
+  "vote_count": 99
+}

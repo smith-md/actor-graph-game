@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/mieB1ghpEBgTdGiYvewlLPN24jZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 31416,
+  "imdb_id": "tt0019585",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Wind",
+  "overview": "When Letty Mason relocates to West Texas, she finds herself unsettled by the ever-present wind and sand. Arriving at her new home at the ranch of her cousin, Beverly, she receives a surprisingly cold welcome from his wife, Cora. Soon tensions in the family and unwanted attention from a trio of suitors leave Letty increasingly disturbed.",
+  "popularity": 3.4119,
+  "poster_path": "/11ySoycM3ARm66RLiYE9yRcrg5b.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1928-09-15",
+  "revenue": 0,
+  "runtime": 76,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A tornado of human emotions.",
+  "title": "The Wind",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 127
+}

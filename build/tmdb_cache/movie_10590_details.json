@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": "/sGDXh6QU6CRqHVXfoYOBwqEnBVO.jpg",
+  "belongs_to_collection": null,
+  "budget": 75000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 10590,
+  "imdb_id": "tt0277434",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "We Were Soldiers",
+  "overview": "The story of the first major battle of the American phase of the Vietnam War and the soldiers on both sides that fought it.",
+  "popularity": 4.6068,
+  "poster_path": "/rpAMFrHHqpRCPbrBvYV9HHaVNB8.jpg",
+  "production_companies": [
+    {
+      "id": 53005,
+      "logo_path": null,
+      "name": "Wheelhouse Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 53006,
+      "logo_path": null,
+      "name": "Motion Picture Production GmbH & Co. Erste KG",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 152,
+      "logo_path": "/rC2pFo4IBQVSVZvucDLwMRvZHfi.png",
+      "name": "Icon Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-03-01",
+  "revenue": 114660784,
+  "runtime": 138,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Vietnamese",
+      "iso_639_1": "vi",
+      "name": "Tiếng Việt"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Father, Husband, Brother. No Man is Just a Soldier.",
+  "title": "We Were Soldiers",
+  "video": false,
+  "vote_average": 7.147,
+  "vote_count": 2191
+}

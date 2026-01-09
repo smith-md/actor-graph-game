@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/3oAmqJxMqOgmnEhoOP3swpOUwzC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.leograndefilm.co.uk/",
+  "id": 758330,
+  "imdb_id": "tt13352968",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Good Luck to You, Leo Grande",
+  "overview": "Nancy Stokes, a retired schoolteacher, is pretty sure she has never had good sex. Now that her husband has died, she is determined to take a tour of sexual vistas that until now she has only imagined. She even has a plan; it involves an anonymous hotel room, and a sex worker who calls himself Leo Grande.",
+  "popularity": 3.6446,
+  "poster_path": "/dxxOmTq4LgQxiyU4rW53qdj9FoN.jpg",
+  "production_companies": [
+    {
+      "id": 118715,
+      "logo_path": "/mRCdjLcjvRvCqIMovDzOcqmRFfv.png",
+      "name": "Cornerstone Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 54431,
+      "logo_path": "/v4CjB3zI2xRw1UDSYjwKA8K71gT.png",
+      "name": "Genesius Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 144803,
+      "logo_path": "/yXwiJ1poBK106mUDBLNfIWcaeQg.png",
+      "name": "Align",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2022-06-16",
+  "revenue": 7589829,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's never too late to try something new.",
+  "title": "Good Luck to You, Leo Grande",
+  "video": false,
+  "vote_average": 6.955,
+  "vote_count": 629
+}

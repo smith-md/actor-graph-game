@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/w05q78LmawRoGRZtWnQhBKw2mHl.jpg",
+  "belongs_to_collection": null,
+  "budget": 17500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 31597,
+  "imdb_id": "tt0100224",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Narrow Margin",
+  "overview": "An L.A. District Attorney attempts to take an unwilling murder witness back to the United States to testify against a top-level mob boss. Frantically attempting to escape two deadly hitmen sent to silence her, they board a Vancouver-bound train only to discover that the killers are onboard with them. For the next 20 hours, as the train hurls through the beautiful but isolated Canadian wilderness, a deadly game of cat and mouse ensues in which their ability to tell friend from foe is a matter of life and death.",
+  "popularity": 5.2841,
+  "poster_path": "/2qUkMhyBzLbGxng4dMDXGTHntC.jpg",
+  "production_companies": [
+    {
+      "id": 275,
+      "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
+      "name": "Carolco Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-09-21",
+  "revenue": 10900000,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It will take you to the edge of suspense.",
+  "title": "Narrow Margin",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 216
+}

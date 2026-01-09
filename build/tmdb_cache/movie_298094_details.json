@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/zAPnGBjapcXU5rF2oSJWcStLYCj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 298094,
+  "imdb_id": "tt0189802",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "我為卿狂",
+  "overview": "David is sitting in a bar, musing over why he has bedded and left five or six of Asia's loveliest women in such a short time.",
+  "popularity": 3.8583,
+  "poster_path": "/1tQM77zgd3XKRnF1JtgH4EFyoHN.jpg",
+  "production_companies": [
+    {
+      "id": 188613,
+      "logo_path": null,
+      "name": "World Perfect Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1991-11-15",
+  "revenue": 0,
+  "runtime": 78,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hidden Desire",
+  "video": false,
+  "vote_average": 5.1,
+  "vote_count": 25
+}

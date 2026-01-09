@@ -1,0 +1,157 @@
+{
+  "adult": false,
+  "backdrop_path": "/hKmRJ4pWBjhVOhgLAFzXddpc69p.jpg",
+  "belongs_to_collection": null,
+  "budget": 12300000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.sauvages-lefilm.com/",
+  "id": 589018,
+  "imdb_id": "tt10695672",
+  "origin_country": [
+    "BE",
+    "FR",
+    "CH"
+  ],
+  "original_language": "fr",
+  "original_title": "Sauvages",
+  "overview": "In Borneo, near the tropical forest, Kéria rescues a baby orangutang in the palm oil plantation where her father works. Kéria's cousin Selaï comes to live with them seeking refuge from the conflict between his indigenous tribe and the logging companies. Kéria, Selaï and the little orangutang, now named Oshi, will have to fight against their forest’s destruction.",
+  "popularity": 4.2967,
+  "poster_path": "/qC6yrKvmIEnkFVjpp0U7u02SiDQ.jpg",
+  "production_companies": [
+    {
+      "id": 31285,
+      "logo_path": "/ya7infKQtygrVHfBBlHyTkGx3hP.png",
+      "name": "Nadasdy Film",
+      "origin_country": "CH"
+    },
+    {
+      "id": 726,
+      "logo_path": "/hHaQQgxqg2NohqZSxbMTB9E483m.png",
+      "name": "Haut et Court",
+      "origin_country": "FR"
+    },
+    {
+      "id": 34069,
+      "logo_path": "/i8ALsnHxQ5JsQdoiHY1vxEmoEnJ.png",
+      "name": "Panique!",
+      "origin_country": "BE"
+    },
+    {
+      "id": 92773,
+      "logo_path": null,
+      "name": "Hélium Films",
+      "origin_country": "CH"
+    },
+    {
+      "id": 80335,
+      "logo_path": "/4HZqAh4nww6SQeu459RxOoqb8i.png",
+      "name": "Beast Animation",
+      "origin_country": "BE"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 92187,
+      "logo_path": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+      "name": "Proximus",
+      "origin_country": "BE"
+    },
+    {
+      "id": 119267,
+      "logo_path": "/b9Gw1Oz0d7rdxmpbJPQC0zQpmxw.png",
+      "name": "VOO & Be tv",
+      "origin_country": "BE"
+    },
+    {
+      "id": 792,
+      "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF",
+      "origin_country": "BE"
+    },
+    {
+      "id": 12431,
+      "logo_path": "/3m45frhaRCLsCKuMtuj7ZwfGwBB.png",
+      "name": "SRG SSR",
+      "origin_country": "CH"
+    },
+    {
+      "id": 13668,
+      "logo_path": "/azhapBvZ8g1UWyyQQhhcRR9bM9x.png",
+      "name": "RTS",
+      "origin_country": "CH"
+    },
+    {
+      "id": 95061,
+      "logo_path": "/gAt0ztKNX5gKyzNmIdaVxI5aoHv.png",
+      "name": "Shelter Prod",
+      "origin_country": "BE"
+    },
+    {
+      "id": 4621,
+      "logo_path": "/hEKBTnDXH49trohO1NtI2JT0e5g.png",
+      "name": "Gébéka Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 138743,
+      "logo_path": "/abFJGmtPFs6Bq5cBavmrnXDcpf8.png",
+      "name": "Anton",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-10-16",
+  "revenue": 814204,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Savages",
+  "video": false,
+  "vote_average": 6.912,
+  "vote_count": 34
+}

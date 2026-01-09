@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": "/om7apkYMeZMsZ60RsR9DGitTkPy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://mubi.com/films/bring-them-down",
+  "id": 804862,
+  "imdb_id": "tt14186876",
+  "origin_country": [
+    "IE"
+  ],
+  "original_language": "en",
+  "original_title": "Bring Them Down",
+  "overview": "When the ongoing rivalry between farmers Michael and Jack suddenly escalates, it triggers a chain of events that take increasingly violent and devastating turns, leaving both families permanently altered.",
+  "popularity": 2.2362,
+  "poster_path": "/2jskL5eOFTQknpRalJ4chVYyuFo.jpg",
+  "production_companies": [
+    {
+      "id": 204957,
+      "logo_path": "/16gclYCHdh6QFQyBRNOo3DuaqDT.png",
+      "name": "MUBI",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1898,
+      "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    },
+    {
+      "id": 23459,
+      "logo_path": "/41KbJFe2xc1jQHyZCDFTyFbKInM.png",
+      "name": "Tailored Films",
+      "origin_country": "IE"
+    },
+    {
+      "id": 182380,
+      "logo_path": "/kKEKB70wXqeXXqaYhm95Epfyuzu.png",
+      "name": "Wild Swim Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 49473,
+      "logo_path": "/d0Cld16NzSAizrXfO6jrN3nH6az.png",
+      "name": "Frakas Productions",
+      "origin_country": "BE"
+    },
+    {
+      "id": 95061,
+      "logo_path": "/gAt0ztKNX5gKyzNmIdaVxI5aoHv.png",
+      "name": "Shelter Prod",
+      "origin_country": "BE"
+    },
+    {
+      "id": 119267,
+      "logo_path": "/b9Gw1Oz0d7rdxmpbJPQC0zQpmxw.png",
+      "name": "VOO & Be tv",
+      "origin_country": "BE"
+    },
+    {
+      "id": 244902,
+      "logo_path": "/e1OAXOyxwCHaFUdXIoNboz0XNwI.png",
+      "name": "UK Global Screen Fund",
+      "origin_country": "GB"
+    },
+    {
+      "id": 210876,
+      "logo_path": null,
+      "name": "Coimisiún na Meán",
+      "origin_country": "IE"
+    },
+    {
+      "id": 1923,
+      "logo_path": "/ilgktofJY7OsURHfccJrug4GKdQ.png",
+      "name": "RTÉ",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-02-06",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Irish",
+      "iso_639_1": "ga",
+      "name": "Gaeilge"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bring Them Down",
+  "video": false,
+  "vote_average": 6.729,
+  "vote_count": 70
+}

@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/7AE2LdB4QTVY6R2nTromUWQFx7n.jpg",
+  "belongs_to_collection": {
+    "id": 14246,
+    "name": "Sniper Collection",
+    "poster_path": "/2NbhXWB5SKRCdMqEpMz9XieQqxU.jpg",
+    "backdrop_path": "/kvuUWjeSFEXmc7DytEFKehlNHo4.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 58767,
+  "imdb_id": "tt1571243",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sniper: Reloaded",
+  "overview": "Marine Sgt. Brandon Beckett, son of the U.S. Marine Corps' deadliest sniper, Thomas Beckett, must turn to his father's former protégé (Billy Zane) to track down and kill a mysterious sniper before he kills his next target.",
+  "popularity": 4.0512,
+  "poster_path": "/l2Clr2vyzNSptarbVzzdpJozWFg.jpg",
+  "production_companies": [
+    {
+      "id": 3299,
+      "logo_path": null,
+      "name": "ApolloMovie Beteiligungs",
+      "origin_country": ""
+    },
+    {
+      "id": 11341,
+      "logo_path": "/xytTBODEy3p20ksHL4Ftxr483Iv.png",
+      "name": "Stage 6 Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 773,
+      "logo_path": "/qkcN6yZEyBw3cgO5DJu55LGEsf7.png",
+      "name": "Film Afrika",
+      "origin_country": "ZA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2011-04-26",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Deep in the Congo, Marine... Peace Keeper... Killer.",
+  "title": "Sniper: Reloaded",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 220
+}

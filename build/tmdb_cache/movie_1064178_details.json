@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/4CjNJ1zi89Z9ZNgjTiKJSv8CRDz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1064178,
+  "imdb_id": "tt21220802",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hunt Club",
+  "overview": "Follows a group of male hunters who regularly lure women to their island with the chance to win 100K in a hunt, only to discover that they are the hunted, but this time they mess with the wrong girls and must deal with the consequences.",
+  "popularity": 4.8635,
+  "poster_path": "/qmMazCTqdQNaqeCVeKysT6I3uz4.jpg",
+  "production_companies": [
+    {
+      "id": 177499,
+      "logo_path": "/9fCtPsxhpASvHIrzju2PAdg2F35.png",
+      "name": "Latigo Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 39081,
+      "logo_path": null,
+      "name": "Titan Global Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-04-06",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fight back or die.",
+  "title": "Hunt Club",
+  "video": false,
+  "vote_average": 4.266,
+  "vote_count": 47
+}

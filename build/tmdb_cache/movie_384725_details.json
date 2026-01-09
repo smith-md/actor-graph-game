@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/6DlIx7cuThKaEUNABhFyyVNls1T.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 384725,
+  "imdb_id": "tt5263324",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Vicky",
+  "overview": "A 30-year-old woman, Victoire, the youngest member of the famous Bonhomme family and the tribe's well-behaved child, finally decides to emancipate herself by discovering alcohol, sex and... her voice. Thanks to Elvis and Banjo, a bar singer, she manages to take flight by singing about love with modesty and sex without taboos, and takes her mother with her, much to the dismay of her father and brother.",
+  "popularity": 3.7141,
+  "poster_path": "/cKYtuZrGKiwVEYb2CFWjHcXltkD.jpg",
+  "production_companies": [
+    {
+      "id": 13800,
+      "logo_path": null,
+      "name": "Gaumont Distribution",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2016-06-08",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Vicky",
+  "video": false,
+  "vote_average": 3.5,
+  "vote_count": 58
+}

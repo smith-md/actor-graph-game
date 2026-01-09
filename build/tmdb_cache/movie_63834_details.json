@@ -1,0 +1,186 @@
+{
+  "adult": false,
+  "backdrop_path": "/erVZTFQxvdwcrlZk4NnESJ2iFG7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 63834,
+  "imdb_id": "tt1417067",
+  "origin_country": [
+    "BA",
+    "DE",
+    "CS",
+    "SI"
+  ],
+  "original_language": "bs",
+  "original_title": "Cirkus Columbia",
+  "overview": "Bosnia and Herzegovina, 1991. After the fall of the communists, Divko Buntić, who has lived in exile in Germany for the past twenty years, returns to the village where he grew up, intent on reclaiming ownership of his family home, driving a swanky Mercedes and accompanied by his young bride; by Bonny, his lucky black cat; and with pockets full of money.",
+  "popularity": 3.9386,
+  "poster_path": "/dzpv9bDfToQ2yzTErx0Iu3NYzY2.jpg",
+  "production_companies": [
+    {
+      "id": 14819,
+      "logo_path": null,
+      "name": "Asap Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2326,
+      "logo_path": null,
+      "name": "Autonomous",
+      "origin_country": "GB"
+    },
+    {
+      "id": 49181,
+      "logo_path": null,
+      "name": "Studio Maj",
+      "origin_country": "SI"
+    },
+    {
+      "id": 703,
+      "logo_path": "/lMV4teVPQWJxIaiDsAsU7Vdh1iC.png",
+      "name": "Razor Film Produktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 180620,
+      "logo_path": null,
+      "name": "2006",
+      "origin_country": "BA"
+    },
+    {
+      "id": 1016,
+      "logo_path": null,
+      "name": "Man's Films",
+      "origin_country": "BE"
+    },
+    {
+      "id": 28394,
+      "logo_path": "/uayh0bscJCf5StAz27R0XRyZKuj.png",
+      "name": "Art & Popcorn",
+      "origin_country": "RS"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 26105,
+      "logo_path": null,
+      "name": "RTVFBiH",
+      "origin_country": "BA"
+    },
+    {
+      "id": 2452,
+      "logo_path": "/gOkUB0TdXRLAl6s0s6jCSLS3sOb.png",
+      "name": "UK Film Council",
+      "origin_country": "GB"
+    },
+    {
+      "id": 182746,
+      "logo_path": null,
+      "name": "No Sugar No Milk",
+      "origin_country": "GB"
+    },
+    {
+      "id": 87277,
+      "logo_path": null,
+      "name": "Ministarstvo kulture Republike Srbije",
+      "origin_country": "RS"
+    },
+    {
+      "id": 8942,
+      "logo_path": null,
+      "name": "Fondacija za Kinematografiju Sarajevo",
+      "origin_country": "BA"
+    },
+    {
+      "id": 32510,
+      "logo_path": null,
+      "name": "CinePostproduction",
+      "origin_country": "DE"
+    },
+    {
+      "id": 66207,
+      "logo_path": null,
+      "name": "Filmski sklad Republike Slovenije",
+      "origin_country": "SI"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11796,
+      "logo_path": "/tx6LOQcTSqgW8ffKxovuJHjlYVw.png",
+      "name": "Centre du Cinéma et de l'Audiovisuel de la FWB",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "BA",
+      "name": "Bosnia and Herzegovina"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "SI",
+      "name": "Slovenia"
+    },
+    {
+      "iso_3166_1": "RS",
+      "name": "Serbia"
+    }
+  ],
+  "release_date": "2010-07-23",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Bosnian",
+      "iso_639_1": "bs",
+      "name": "Bosanski"
+    },
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    },
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cirkus Columbia",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 25
+}

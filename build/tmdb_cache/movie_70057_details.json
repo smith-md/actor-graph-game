@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/mffAWdGlVsynZhYX8NtW6T0O0lH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 70057,
+  "imdb_id": "tt1718199",
+  "origin_country": [
+    "HK",
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "武俠",
+  "overview": "A sinful martial arts expert wants to start a new tranquil life, only to be hunted by a determined detective and his former master.",
+  "popularity": 2.9828,
+  "poster_path": "/wnzIYs7NNJGC7AuQKfecEVStYAr.jpg",
+  "production_companies": [
+    {
+      "id": 7907,
+      "logo_path": null,
+      "name": "Dingsheng Cultural Industry Investment",
+      "origin_country": ""
+    },
+    {
+      "id": 7908,
+      "logo_path": null,
+      "name": "JSBC Eudemonia Blue Ocean TV & Movie Group",
+      "origin_country": ""
+    },
+    {
+      "id": 7909,
+      "logo_path": null,
+      "name": "We Pictures",
+      "origin_country": "HK"
+    },
+    {
+      "id": 7910,
+      "logo_path": null,
+      "name": "Yunnan Film Group",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2011-07-04",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Blood Always Leaves a Trail.",
+  "title": "Dragon",
+  "video": false,
+  "vote_average": 6.906,
+  "vote_count": 308
+}

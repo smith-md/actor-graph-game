@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/sHgs1XWYsCjRgQ6d5jlMA3d636w.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 22913,
+  "imdb_id": "tt0120391",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "TwentyFourSeven",
+  "overview": "In a typical English working-class town, the juveniles have nothing more to do than hang around in gangs. One day, Alan Darcy, a highly motivated man with the same kind of youth experience, starts trying to get the young people off the street and into doing something they can believe in: Boxing. Darcy opens a boxing club, aiming to bring the rival gangs together.",
+  "popularity": 3.4412,
+  "poster_path": "/g5rd7ljbR0VVcK7m2ogrMa4E0fE.jpg",
+  "production_companies": [
+    {
+      "id": 4189,
+      "logo_path": null,
+      "name": "Scala Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1998-04-03",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everybody wants to be somebody.",
+  "title": "TwentyFourSeven",
+  "video": false,
+  "vote_average": 6.276,
+  "vote_count": 38
+}

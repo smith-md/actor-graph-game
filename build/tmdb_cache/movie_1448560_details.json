@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/pAyImoslSnpMgjRwhaS5ZEdl8UI.jpg",
+  "belongs_to_collection": null,
+  "budget": 50000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1448560,
+  "imdb_id": "tt36153493",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Wildcat",
+  "overview": "An ex-black ops team reunite to pull off a desperate heist in order to save the life of their leader’s eight-year-old daughter.",
+  "popularity": 43.2886,
+  "poster_path": "/h893ImjM6Fsv5DFhKJdlZFZIJno.jpg",
+  "production_companies": [
+    {
+      "id": 154063,
+      "logo_path": "/r4anaxYa8OL5KaUbU35VkrIe88L.png",
+      "name": "Capstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-11-19",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Wildcat",
+  "video": false,
+  "vote_average": 6.025,
+  "vote_count": 61
+}

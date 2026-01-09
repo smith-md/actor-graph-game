@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/4YHUI1X2N2i39Sr2zY1CrAwkh33.jpg",
+  "belongs_to_collection": null,
+  "budget": 3500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 31200,
+  "imdb_id": "tt0078736",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Agatha",
+  "overview": "England, 1926. An American journalist looks for mystery writer Agatha Christie when she suddenly disappears without explanation, leaving no trace.",
+  "popularity": 3.8247,
+  "poster_path": "/rxjoGsAvcMUM23ciIYOERGZUxSE.jpg",
+  "production_companies": [
+    {
+      "id": 14568,
+      "logo_path": null,
+      "name": "Sweetwall",
+      "origin_country": ""
+    },
+    {
+      "id": 4376,
+      "logo_path": "/2shIzUFntbS03EEQfryoC23Ridh.png",
+      "name": "First Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1979-02-09",
+  "revenue": 7500000,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "On December 4th, 1926, Agatha Christie, the world's most famous mystery writer, disappeared. What may have happened during the next eleven days is far more suspenseful than anything she ever wrote.",
+  "title": "Agatha",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 62
+}

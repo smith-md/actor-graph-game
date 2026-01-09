@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/kE3HQaJx9IuQCMIn3VVCXazXTea.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 13159,
+  "imdb_id": "tt0791304",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Georgia Rule",
+  "overview": "Rebellious, uncontrollable teenager, Rachel is hauled off by her dysfunctional mother to spend the summer with her estranged grandmother, Georgia. Her journey will lead all three women to revelations of buried family secrets and an understanding that - regardless what happens - the ties that bind can never be broken.",
+  "popularity": 4.7246,
+  "poster_path": "/9C7VaTib40dBaBrefxFesQ7pbKW.jpg",
+  "production_companies": [
+    {
+      "id": 10210,
+      "logo_path": "/fmFmUxBijh8764GNSSIiwXYD83K.png",
+      "name": "Morgan Creek Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-05-10",
+  "revenue": 25000167,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mother. Daughter. Grandmother. In this family, attitude doesn't skip a generation.",
+  "title": "Georgia Rule",
+  "video": false,
+  "vote_average": 5.971,
+  "vote_count": 465
+}

@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/MxUS4Gp7BOSIxCjqLdjPr3AFym.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 65211,
+  "imdb_id": "tt0041374",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Flaxy Martin",
+  "overview": "Attorney Walter Colby has ties to the mob, but he begins to regret his criminal affiliations. When his girlfriend, showgirl Flaxy Martin, who also has shady connections, becomes a suspect in a murder, Walter takes the fall. However, on his way to prison, he escapes, determined to bring the real killer to justice.",
+  "popularity": 4.1991,
+  "poster_path": "/1b3xhBCLOUg8TvuHQdEshlUM000.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1949-02-15",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A girl with a heart of ice!",
+  "title": "Flaxy Martin",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 20
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/4Z3xBx4lps4ZeLxREt8uHG5r7de.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 13105,
+  "imdb_id": "tt0085970",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mr. Mom",
+  "overview": "Jack and Caroline are a couple making a decent living when Jack suddenly loses his job. They agree that he should stay at home and look after the house while Caroline works. It's just that he's never done it before, and really doesn't have a clue...",
+  "popularity": 4.0378,
+  "poster_path": "/QuTlgKKykL7j0PnZZd3LNFVhCX.jpg",
+  "production_companies": [
+    {
+      "id": 1812,
+      "logo_path": null,
+      "name": "Aaron Spelling Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 8791,
+      "logo_path": null,
+      "name": "Sherwood Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1983-07-22",
+  "revenue": 64783827,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When mom goes to work, dad goes berserk!",
+  "title": "Mr. Mom",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 339
+}

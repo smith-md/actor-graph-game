@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/neVhDxYVsmMMSuhXpHMT3LMK9f.jpg",
+  "belongs_to_collection": null,
+  "budget": 85000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 9593,
+  "imdb_id": "tt0107362",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Last Action Hero",
+  "overview": "After his father's death, a young boy finds solace in action movies featuring an indestructible cop. Given a magic ticket by a theater manager, he is transported into the film and teams up with the cop to stop a villain who escapes into the real world.",
+  "popularity": 5.3255,
+  "poster_path": "/vkhEaWAv5j3qgrOGp3BgMeiYPKj.jpg",
+  "production_companies": [
+    {
+      "id": 55528,
+      "logo_path": null,
+      "name": "Oak Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1993-06-18",
+  "revenue": 137300000,
+  "runtime": 131,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This isn't the movies anymore.",
+  "title": "Last Action Hero",
+  "video": false,
+  "vote_average": 6.473,
+  "vote_count": 2894
+}

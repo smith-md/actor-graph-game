@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": "/9KSboWOt09J72aMY4x8SS1IaOHK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/movies/aztec-batman-clash-empires",
+  "id": 987400,
+  "imdb_id": "tt21110654",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Batman Azteca: Choque de imperios",
+  "overview": "In the time of the Aztec empire, tragedy strikes Yohualli Coatl when his father is murdered by Spanish conquistadors. To warn King Moctezuma and his high priest, Yoka, of imminent danger, Yohualli escapes to Tenochtitlán. There, he trains in the temple of the bat god Tzinacan with his mentor, developing equipment and weaponry to confront the Spanish invasion and avenge his father’s death. Along the way, he encounters key figures like the fierce Jaguar Woman and the conquistador Hernán Cortés.",
+  "popularity": 8.1863,
+  "poster_path": "/s0Mlo5w4INp3bUdsJo3RaSSMXWz.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 9965,
+      "logo_path": "/sxA2AfKijRSS1dxcXejJ27wg20H.png",
+      "name": "Ánima Estudios",
+      "origin_country": "MX"
+    },
+    {
+      "id": 177082,
+      "logo_path": null,
+      "name": "Chatrone",
+      "origin_country": "US"
+    },
+    {
+      "id": 119056,
+      "logo_path": "/vbhwOf0TQ4z12GIytYGWmhPJAOz.png",
+      "name": "Particular Crowd",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "name": "DC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2025-09-18",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Aztec Batman: Clash of Empires",
+  "video": false,
+  "vote_average": 7.748,
+  "vote_count": 123
+}

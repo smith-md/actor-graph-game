@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/tombkp3ir9tmm5v9QLnHaDZCWa7.jpg",
+  "belongs_to_collection": {
+    "id": 93788,
+    "name": "Prep & Landing Collection",
+    "poster_path": "/qmokWUJsPR21PqMsssROmlzTAMn.jpg",
+    "backdrop_path": "/kmsH4aq0lwgryQBoCfXZzyp6z4O.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1550797,
+  "imdb_id": "tt32594892",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Prep & Landing: The Snowball Protocol",
+  "overview": "Christmas elves Lanny and Wayne panic when their holiday missions go awry, leaving Wayne thinking he's in BIG trouble with Santa and accidentally revealing other merry mishaps.",
+  "popularity": 6.0884,
+  "poster_path": "/olbxBEAGaYCgyi2EEecuwa5tuUl.jpg",
+  "production_companies": [
+    {
+      "id": 79543,
+      "logo_path": "/xxQesITWRfZ0rETKHJ13WfD5AEn.png",
+      "name": "ICON Creative Studio",
+      "origin_country": "CA"
+    },
+    {
+      "id": 3475,
+      "logo_path": "/jTPNzDEn7eHmp3nEXEEtkHm6jLg.png",
+      "name": "Disney Television Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-27",
+  "revenue": 0,
+  "runtime": 22,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Dropping in for the holidays!",
+  "title": "Prep & Landing: The Snowball Protocol",
+  "video": false,
+  "vote_average": 7.104,
+  "vote_count": 24
+}

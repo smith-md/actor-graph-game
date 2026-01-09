@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/kVSUUWiXoNwq2wVCZ4Mcqkniqvr.jpg",
+  "belongs_to_collection": {
+    "id": 275402,
+    "name": "SpongeBob Collection",
+    "poster_path": "/caA0tTR0ye1DEnCAUIolrWajmfO.jpg",
+    "backdrop_path": "/82aBKm6QfMzNYl7jk9VG4mMPOYu.jpg"
+  },
+  "budget": 64000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "http://www.kids.spongebobmovie.com",
+  "id": 991494,
+  "imdb_id": "tt23572848",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The SpongeBob Movie: Search for SquarePants",
+  "overview": "Desperate to be a big guy, SpongeBob sets out to prove his bravery to Mr. Krabs by following The Flying Dutchman – a mysterious swashbuckling ghost pirate – on a seafaring adventure that takes him to the deepest depths of the deep sea, where no Sponge has gone before.",
+  "popularity": 45.0764,
+  "poster_path": "/pDWYW9v8fmJdA7N0I1MOdQA3ETq.jpg",
+  "production_companies": [
+    {
+      "id": 24955,
+      "logo_path": "/bX3cYCRWdddXTgIcDEfNiVa8U4j.png",
+      "name": "Paramount Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 2348,
+      "logo_path": "/oydqrfwRAm6qqdYbxuMmmPsVi87.png",
+      "name": "Nickelodeon Movies",
+      "origin_country": "US"
+    },
+    {
+      "id": 216687,
+      "logo_path": "/kKVYqekveOvLK1IgqdJojLjQvtu.png",
+      "name": "Domain Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 2531,
+      "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+      "name": "MRC",
+      "origin_country": "US"
+    },
+    {
+      "id": 2787,
+      "logo_path": "/uPqyNmCYnjBUXadIa7JmglQ59Y8.png",
+      "name": "Reel FX Creative Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 8921,
+      "logo_path": "/wZEtdueugvOSYwDD3gbFNHctVWY.png",
+      "name": "United Plankton Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-16",
+  "revenue": 112300000,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Ship's about to go down.",
+  "title": "The SpongeBob Movie: Search for SquarePants",
+  "video": false,
+  "vote_average": 6.875,
+  "vote_count": 48
+}

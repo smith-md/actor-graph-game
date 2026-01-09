@@ -1,0 +1,96 @@
+{
+  "adult": false,
+  "backdrop_path": "/oqWTbBixgF8XwqzGeFWMzkNwqAw.jpg",
+  "belongs_to_collection": null,
+  "budget": 16000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.focusfeatures.com/piece-by-piece",
+  "id": 1236419,
+  "imdb_id": "tt31064841",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Piece by Piece",
+  "overview": "A unique cinematic experience that invites audiences on a vibrant journey through the life of cultural icon Pharrell Williams. Told through the lens of LEGO® animation, turn up the volume on your imagination and witness the evolution of one of music's most innovative minds.",
+  "popularity": 2.9701,
+  "poster_path": "/fmOPcP8WRvm8cok4Hz3REwD7rlJ.jpg",
+  "production_companies": [
+    {
+      "id": 123495,
+      "logo_path": "/dR7yKIL5pijeOA5doGRyTFRbij1.png",
+      "name": "i am OTHER",
+      "origin_country": "US"
+    },
+    {
+      "id": 4081,
+      "logo_path": "/9Q0SyrhQD61wWbz5KJOkL6tu2mg.png",
+      "name": "The LEGO Group",
+      "origin_country": "DK"
+    },
+    {
+      "id": 58637,
+      "logo_path": "/ow51X3ZjwBSE2UeYOF9ya8xfiI9.png",
+      "name": "Tremolo Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 72779,
+      "logo_path": "/zQaxjaFjgCMy4TsPioNqzvYov7t.png",
+      "name": "Pure Imagination Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-10",
+  "revenue": 10591426,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Turn up the volume on your imagination.",
+  "title": "Piece by Piece",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 135
+}

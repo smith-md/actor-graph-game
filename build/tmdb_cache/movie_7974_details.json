@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/tHF5OIcguut0Y83BXzqHtGdJOAf.jpg",
+  "belongs_to_collection": {
+    "id": 1382526,
+    "name": "Aki Kaurismäki's Proletariat Trilogy",
+    "poster_path": "/bUrReoZFLGti6ehkBW0xw8f12MT.jpg",
+    "backdrop_path": "/zAUItK1Nr473DIe8gWMsZ0DMR7L.jpg"
+  },
+  "budget": 83038,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 7974,
+  "imdb_id": "tt0098532",
+  "origin_country": [
+    "FI"
+  ],
+  "original_language": "fi",
+  "original_title": "Tulitikkutehtaan tyttö",
+  "overview": "Iris is a shy and dowdy young woman stuck in a dead-end job at a match factory, who dreams of finding love at the local dancehall. Finding herself pregnant after a one-night stand and abandoned by the father, Iris finally decides the time has come to get even and she begins to plot her revenge.",
+  "popularity": 4.3296,
+  "poster_path": "/zHfabvr3RKEbNfksFBs2Cder91i.jpg",
+  "production_companies": [
+    {
+      "id": 2303,
+      "logo_path": null,
+      "name": "Villealfa Filmproductions",
+      "origin_country": "FI"
+    },
+    {
+      "id": 2302,
+      "logo_path": "/rPXEdpqwFycAY9ZgrAJXv13qcWW.png",
+      "name": "Svenska Filminstitutet",
+      "origin_country": "SE"
+    },
+    {
+      "id": 2305,
+      "logo_path": null,
+      "name": "Esselte Video",
+      "origin_country": "SE"
+    },
+    {
+      "id": 2304,
+      "logo_path": null,
+      "name": "Finnkino",
+      "origin_country": "FI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "1990-01-12",
+  "revenue": 0,
+  "runtime": 69,
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Match Factory Girl",
+  "video": false,
+  "vote_average": 7.366,
+  "vote_count": 284
+}

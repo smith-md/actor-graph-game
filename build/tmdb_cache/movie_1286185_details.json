@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/aP7w2JPEDyIukrYxIGHmTrmYOWJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.thecarpenterssonmovie.com",
+  "id": 1286185,
+  "imdb_id": "tt32304349",
+  "origin_country": [
+    "FR",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Carpenter's Son",
+  "overview": "A remote village in Roman-era Egypt explodes into spiritual warfare when a carpenter, his wife and their child are targeted by supernatural forces.",
+  "popularity": 24.7929,
+  "poster_path": "/tXEtdZjoaHqjDjSxZJWwDVjIfx9.jpg",
+  "production_companies": [
+    {
+      "id": 10039,
+      "logo_path": "/b8w4LldQolMKiLZw4FQJBcXSDGI.png",
+      "name": "Anonymous Content",
+      "origin_country": "US"
+    },
+    {
+      "id": 218254,
+      "logo_path": "/s9paSAXtLX85OuAi1SjwM9MGxFW.png",
+      "name": "Curious Gremlin",
+      "origin_country": "US"
+    },
+    {
+      "id": 171993,
+      "logo_path": "/S664FbYYZWQk2SGVktzWkiYtGC.png",
+      "name": "Cinenovo",
+      "origin_country": "FR"
+    },
+    {
+      "id": 831,
+      "logo_path": "/vLENXiYTyITnMDrTKabUXhgTKX2.png",
+      "name": "Saturn Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 146684,
+      "logo_path": "/kINySnvmdW2HhjHm4aHy6jwq0J3.png",
+      "name": "Spacemaker Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 107356,
+      "logo_path": null,
+      "name": "BlueLight",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-11-13",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Deliver us from evil.",
+  "title": "The Carpenter's Son",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 37
+}

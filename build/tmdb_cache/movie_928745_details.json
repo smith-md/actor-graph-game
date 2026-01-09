@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/zZHuXyrA8W4YgJ2wIqjjZBmell4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 928745,
+  "imdb_id": "tt23854020",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Procura-se",
+  "overview": "Alicia is a rich young woman who loves to party, travel and is very close to her grandfather. The protagonist runs away from responsibilities and tries to make the most of the benefits of being the heir to an immense estate. When her grandfather dies, she discovers that she has been excluded from the will and will only be able to get her hands on the family business and money when she is mature enough and married.",
+  "popularity": 3.845,
+  "poster_path": "/oP54FuQr07FTCg203x1ZfVCb1P0.jpg",
+  "production_companies": [
+    {
+      "id": 168204,
+      "logo_path": "/5Nt7BIqUIXb5WYrhOhcdUVXI0Yh.png",
+      "name": "Framboesa Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 119056,
+      "logo_path": "/vbhwOf0TQ4z12GIytYGWmhPJAOz.png",
+      "name": "Particular Crowd",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-11-25",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Proof of Love",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 47
+}

@@ -1,0 +1,96 @@
+{
+  "adult": false,
+  "backdrop_path": "/qcDDn7WeKBenM4nLlOPXAeJ4hpg.jpg",
+  "belongs_to_collection": null,
+  "budget": 26000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 1280450,
+  "imdb_id": "tt4682810",
+  "origin_country": [
+    "IT",
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Stolen Girl",
+  "overview": "In 1993, Maureen’s six-year-old daughter Amina is snuck out of the country by her ex-husband, Karim. After years of unsuccessful attempts to find her, Maureen intersects with a professional retriever of internationally abducted children who promises to help her find Amina in exchange for her collaboration.",
+  "popularity": 17.9046,
+  "poster_path": "/fZlNXEHZsBp7unqw009MeBbMv87.jpg",
+  "production_companies": [
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 241823,
+      "logo_path": null,
+      "name": "Vigorous Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 241824,
+      "logo_path": null,
+      "name": "Hangtime International Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 241825,
+      "logo_path": null,
+      "name": "Anjulia Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 21622,
+      "logo_path": "/2aRykuGbavtyeB4UecrHFQPX5gv.png",
+      "name": "Braven Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-04",
+  "revenue": 92691,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She'll cross every line just to hear her daughter's voice again.",
+  "title": "Stolen Girl",
+  "video": false,
+  "vote_average": 6.27,
+  "vote_count": 113
+}

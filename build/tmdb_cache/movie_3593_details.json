@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/nHbIdtHO6oENW1FNOJRX11CdIY1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 3593,
+  "imdb_id": "tt0032412",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dr. Cyclops",
+  "overview": "Four explorers are summoned to Peru by the brilliant physicist Dr Thorkel. They discover a rich source of radium and a half-mad Thorkel who shrinks them down to one-fifth their normal size when they threaten to stop his unorthodox experimentation.",
+  "popularity": 2.3842,
+  "poster_path": "/qLsEEx1cy2ouISG7982sX4xNltQ.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1940-04-12",
+  "revenue": 0,
+  "runtime": 76,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dr. Cyclops",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 71
+}

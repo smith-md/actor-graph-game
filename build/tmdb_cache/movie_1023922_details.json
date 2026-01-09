@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/viKEEaaCaZ0hZ2nGuvIEozlLooL.jpg",
+  "belongs_to_collection": {
+    "id": 950289,
+    "name": "X Collection",
+    "poster_path": "/1a828eAhYwYw1bcLvjotDCSTnqI.jpg",
+    "backdrop_path": "/HhDOcUwm8ghreO9s50YJWhBJqc.jpg"
+  },
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://a24films.com/films/maxxxine",
+  "id": 1023922,
+  "imdb_id": "tt22048412",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "MaXXXine",
+  "overview": "In 1980s Hollywood, adult film star and aspiring actress Maxine Minx finally gets her big break. But as a mysterious killer stalks the starlets of Hollywood, a trail of blood threatens to reveal her sinister past.",
+  "popularity": 53.2591,
+  "poster_path": "/ArvoFK6nlouZRxYmtIOUzKIrg90.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 225614,
+      "logo_path": "/dehZ285rC4RfD6Fm4LrUUBHu3Uu.png",
+      "name": "Motel Mojave",
+      "origin_country": "US"
+    },
+    {
+      "id": 103376,
+      "logo_path": "/zAyfGEx1LJOkwNTrHugnWHzLRE.png",
+      "name": "Access Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-07-04",
+  "revenue": 22057161,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Hollywood is a killer.",
+  "title": "MaXXXine",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 1337
+}

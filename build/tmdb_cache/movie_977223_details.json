@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/aPvIX46VtxZDwu5bB2UcJ7xdpxs.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.universalpictures.co.uk/micro/polite-society",
+  "id": 977223,
+  "imdb_id": "tt18257464",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Polite Society",
+  "overview": "Martial artist-in-training Ria Khan believes she must save her older sister Lena from her impending marriage. After enlisting the help of her friends, Ria attempts to pull off the most ambitious of all wedding heists in the name of independence and sisterhood.",
+  "popularity": 4.6557,
+  "poster_path": "/Af1izSvHbGu6JiFTVzgfKxWQOfs.jpg",
+  "production_companies": [
+    {
+      "id": 10163,
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 40486,
+      "logo_path": "/nA0fcwrBXV9qm3gmfHNtzSNSk4Y.png",
+      "name": "Parkville Pictures",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2023-04-27",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Big trouble. Little sister.",
+  "title": "Polite Society",
+  "video": false,
+  "vote_average": 6.305,
+  "vote_count": 200
+}

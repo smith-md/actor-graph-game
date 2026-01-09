@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/eqS1NeiVdXVxnvhOZemR8Vrhn5H.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 81540,
+  "imdb_id": "tt0270688",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Teknolust",
+  "overview": "Anxious to use artificial life to improve the world, Rosetta Stone, a bio-geneticist creates a Recipe for Cyborgs and uses her own DNA in order to breed three Self Replicating Automatons, part human, part computer named Ruby, Olive and Marine.",
+  "popularity": 2.9299,
+  "poster_path": "/bd3xzqCTVKkR0i8eZSwCkaxF9VA.jpg",
+  "production_companies": [
+    {
+      "id": 8592,
+      "logo_path": null,
+      "name": "Blue Turtle",
+      "origin_country": ""
+    },
+    {
+      "id": 8593,
+      "logo_path": null,
+      "name": "Epiphany Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 8594,
+      "logo_path": null,
+      "name": "Hotwire Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 11237,
+      "logo_path": "/nzPEges9ftjCDQWru0qrIfTX8OR.png",
+      "name": "ZDF/Arte",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2002-01-10",
+  "revenue": 28554,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One part woman. One part science.",
+  "title": "Teknolust",
+  "video": false,
+  "vote_average": 4.257,
+  "vote_count": 37
+}

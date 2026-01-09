@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/sAkY5Td6FkQAptnFB6Sr6xqldo4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://wellgousa.com/films/monolith",
+  "id": 1024721,
+  "imdb_id": "tt18298588",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Monolith",
+  "overview": "A desperate young journalist turns to podcasting to salvage her career, but her rush to make headlines leads her to an alien conspiracy.",
+  "popularity": 3.5558,
+  "poster_path": "/zKpLzzX1va6gkMJiI9p3DudqChe.jpg",
+  "production_companies": [
+    {
+      "id": 2806,
+      "logo_path": "/vxOhCbpsRBh10m6LZ3HyImTYpPY.png",
+      "name": "South Australian Film Corporation",
+      "origin_country": "AU"
+    },
+    {
+      "id": 222582,
+      "logo_path": null,
+      "name": "Black Cat White Rabbit Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2023-10-26",
+  "revenue": 12480,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All you have to do is listen.",
+  "title": "Monolith",
+  "video": false,
+  "vote_average": 6.068,
+  "vote_count": 185
+}

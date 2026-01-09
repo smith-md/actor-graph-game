@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/ngLgoY3MTfLANqv9cpXr96saaFV.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 1500536,
+  "imdb_id": "tt36598036",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "南京照相馆",
+  "overview": "In the Nanjing Massacre of 1937, in order to save his life, postman A Chang pretended to be a photo developer in a photo studio and developed photos for the Japanese army. He also took in a group of Chinese soldiers and civilians, turning the studio into a temporary shelter. However, in the face of the Japanese army's cruel atrocities, A Chang risked his life to safely transfer the refugees and exposed the evidence of the massacre to the public.",
+  "popularity": 4.1996,
+  "poster_path": "/5NYcSNBSQYYlgiAQeNqrHl1FirT.jpg",
+  "production_companies": [
+    {
+      "id": 14714,
+      "logo_path": "/dSHaVKtBCpMU5VP9wMbTkqov62i.png",
+      "name": "China Film Group Corporation",
+      "origin_country": "CN"
+    },
+    {
+      "id": 269052,
+      "logo_path": null,
+      "name": "Super Lion",
+      "origin_country": "CN"
+    },
+    {
+      "id": 204269,
+      "logo_path": null,
+      "name": "Yuuya Midia",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2025-07-19",
+  "revenue": 381609626,
+  "runtime": 137,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This will never be forgotten by the Chinese people",
+  "title": "Dead to Rights",
+  "video": false,
+  "vote_average": 8.2,
+  "vote_count": 56
+}

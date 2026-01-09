@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/ywWva4trKw7f3wtbz81Fe3FnrtC.jpg",
+  "belongs_to_collection": null,
+  "budget": 22000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 581,
+  "imdb_id": "tt0099348",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dances with Wolves",
+  "overview": "Wounded Civil War soldier John Dunbar tries to commit suicide—and becomes a hero instead. As a reward, he's assigned to his dream post, a remote junction on the Western frontier, and soon makes unlikely friends with the local Sioux tribe.",
+  "popularity": 11.0589,
+  "poster_path": "/hw0ZEHAaTqTxSXGVwUFX7uvanSA.jpg",
+  "production_companies": [
+    {
+      "id": 335,
+      "logo_path": "/bMYVrBCfGvDDc3tCSjHbnIWCtbX.png",
+      "name": "Tig Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2630,
+      "logo_path": "/pShvFIFfmFoGXPYFyAKaeK1jPUW.png",
+      "name": "Majestic Films International",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1755,
+      "logo_path": "/ru4358gY4iA8DDmu3bsZLxOXbhi.png",
+      "name": "Allied Filmmakers",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-03-30",
+  "revenue": 424208848,
+  "runtime": 181,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Inside everyone is a frontier waiting to be discovered.",
+  "title": "Dances with Wolves",
+  "video": false,
+  "vote_average": 7.836,
+  "vote_count": 4541
+}

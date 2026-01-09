@@ -1,0 +1,54 @@
+{
+  "adult": false,
+  "backdrop_path": "/r4LK4yNgfV4rl3WuTF0yIa2HrXy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 10079,
+  "imdb_id": "tt0462373",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Joy Division",
+  "overview": "A teenage orphan fights against the Red Army at the end of WWII and in the aftermath is 'adopted' by a Commissar. Years later he is sent to London during the Cold war to work for the KGB, where he questions his life.",
+  "popularity": 2.9712,
+  "poster_path": "/nY4OiLvIN2gH0AQJP0AjnhLwlcg.jpg",
+  "production_companies": [
+    {
+      "id": 5857,
+      "logo_path": null,
+      "name": "Kingsway Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2006-11-17",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Joy Division",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 25
+}

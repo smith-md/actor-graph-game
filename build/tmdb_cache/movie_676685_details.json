@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": "/youmOAJwM4XCoHAgeYNXACA7Buc.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.cinemamanagementgroup.com/film/panda-bear-in-africa/",
+  "id": 676685,
+  "imdb_id": "tt13616980",
+  "origin_country": [
+    "DK",
+    "FR",
+    "DE",
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "Pandabeer in Afrika",
+  "overview": "A young adventurous panda travels from China to Africa to rescue his best friend, Jielong the Dragon, who has been kidnapped. On his journey, he discovers a strange amazing new world of mountains, deserts and jungles.",
+  "popularity": 4.4318,
+  "poster_path": "/wxpu7svVqA0ALYpofQBPujGelN3.jpg",
+  "production_companies": [
+    {
+      "id": 27277,
+      "logo_path": null,
+      "name": "Cool Beans",
+      "origin_country": ""
+    },
+    {
+      "id": 3922,
+      "logo_path": "/uXDOnG25HLnban0UfpRVjxASMWW.png",
+      "name": "A. Film Production",
+      "origin_country": "DK"
+    },
+    {
+      "id": 129658,
+      "logo_path": null,
+      "name": "Comet Films",
+      "origin_country": ""
+    },
+    {
+      "id": 129659,
+      "logo_path": null,
+      "name": "Katuni",
+      "origin_country": "NL"
+    },
+    {
+      "id": 5125,
+      "logo_path": "/t3oWTsVukmEzrZzvfr37XRBibo5.png",
+      "name": "Le Pacte",
+      "origin_country": "FR"
+    },
+    {
+      "id": 115247,
+      "logo_path": null,
+      "name": "A Film Estonia",
+      "origin_country": "EE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "EE",
+      "name": "Estonia"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2024-03-15",
+  "revenue": 5514627,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Bravery knows no size.",
+  "title": "Panda Bear in Africa",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 75
+}

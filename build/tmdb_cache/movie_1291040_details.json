@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/p2DBE8hyaRYJFc8o07VX1O72H7l.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.amazon.com/gp/video/detail/B0FZFBJ9HX",
+  "id": 1291040,
+  "imdb_id": "tt36061838",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Natale senza Babbo",
+  "overview": "When Santa Claus, in the midst of an existential crisis, suddenly disappears during the holiday season, his wife Margaret must roll up her sleeves and save the most special day of the year.",
+  "popularity": 3.4897,
+  "poster_path": "/7DFyI1S8xJ34AkUutVBqDSfOtfJ.jpg",
+  "production_companies": [
+    {
+      "id": 119309,
+      "logo_path": null,
+      "name": "Gaumont Italia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-26",
+  "revenue": 0,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mrs. Christmas",
+  "video": false,
+  "vote_average": 5.269,
+  "vote_count": 26
+}

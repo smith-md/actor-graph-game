@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/xuLVW4mWU12CUtewcizdmgOQZp1.jpg",
+  "belongs_to_collection": {
+    "id": 146136,
+    "name": "Armour of God Collection",
+    "poster_path": "/ao2kQMccIg1Vp8HNifFUAuWc1wN.jpg",
+    "backdrop_path": "/9NlMiHVpgswGt4cWrUtrahlYDQu.jpg"
+  },
+  "budget": 26000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "http://hbpictures.ayomovie.com/12shengxiao//",
+  "id": 98567,
+  "imdb_id": "tt1424310",
+  "origin_country": [
+    "CN",
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "十二生肖",
+  "overview": "Asian Hawk leads a mercenary team to recover several lost artifacts from the Old Summer Palace, the bronze heads of the twelve Chinese Zodiac animals which were sacked by the French and British armies from the imperial Summer Palace in Beijing in 1860. Assisted by a Chinese student and a Parisian woman, Hawk stops at nothing to accomplish the mission.",
+  "popularity": 4.8202,
+  "poster_path": "/rT3NsV3bgOZ1DtyVAM1GgmKtIf8.jpg",
+  "production_companies": [
+    {
+      "id": 2726,
+      "logo_path": "/prHrgMVMpZnTgEWYo9Mi7nyka34.png",
+      "name": "JCE Movies",
+      "origin_country": "HK"
+    },
+    {
+      "id": 92059,
+      "logo_path": null,
+      "name": "Beijing Dragon Garden Culture & Art",
+      "origin_country": "CN"
+    },
+    {
+      "id": 3393,
+      "logo_path": "/rv37YfhPg03ugK252E4oXMzgvks.png",
+      "name": "Huayi Brothers Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 19658,
+      "logo_path": null,
+      "name": "Jackie & JJ Productions",
+      "origin_country": "HK"
+    },
+    {
+      "id": 3407,
+      "logo_path": "/iVMjKOFyRvm9PW45lW1wW6TSvnj.png",
+      "name": "Shanghai Film Group",
+      "origin_country": "CN"
+    },
+    {
+      "id": 122289,
+      "logo_path": "/4l16C8j9h4frZO5iPD71lpLqTH3.png",
+      "name": "Emperor Motion Pictures",
+      "origin_country": "HK"
+    },
+    {
+      "id": 39985,
+      "logo_path": "/4K0Fjrh7l2gVNwlGuRH4rTEFxTC.png",
+      "name": "Golden Harvest Productions",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2012-12-20",
+  "revenue": 171339013,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Twelve heads. Five continents. One man.",
+  "title": "Armour of God 3: Chinese Zodiac",
+  "video": false,
+  "vote_average": 6.166,
+  "vote_count": 859
+}

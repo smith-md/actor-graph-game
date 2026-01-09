@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/AiKGSLRxaEp7IMCsLCcAEf3L7Gt.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 41768,
+  "imdb_id": "tt0105107",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Passion Fish",
+  "overview": "After an accident leaves her a paraplegic, a former soap opera star struggles to recover both emotionally and mentally, until she meets her newest nurse, who has struggles of her own.",
+  "popularity": 3.5242,
+  "poster_path": "/g60GELLr2oGnlJX5Yidkl9ufFYv.jpg",
+  "production_companies": [
+    {
+      "id": 36289,
+      "logo_path": null,
+      "name": "Atchafalaya",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-12-11",
+  "revenue": 4814619,
+  "runtime": 135,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Have you ever dreamed of escaping to a place where you can begin again?",
+  "title": "Passion Fish",
+  "video": false,
+  "vote_average": 6.86,
+  "vote_count": 57
+}

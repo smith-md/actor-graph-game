@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/gQlXDt5RD6NIlHWWkGFNvMwzOQn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/80226962",
+  "id": 403068,
+  "imdb_id": "tt5665452",
+  "origin_country": [
+    "MX",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sun Dogs",
+  "overview": "A man eager to serve his country but rejected by the Marines pairs up with a young runaway to form an unlikely team on a misguided adventure.",
+  "popularity": 3.3775,
+  "poster_path": "/hiEHsguMwMyZMRXgjgQaB2Vpbzj.jpg",
+  "production_companies": [
+    {
+      "id": 173747,
+      "logo_path": null,
+      "name": "Apartment 3C Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 54537,
+      "logo_path": "/rEIubqCkwnFwP3otyumq8nKra7Z.png",
+      "name": "Fábrica de Cine",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2017-06-18",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sun Dogs",
+  "video": false,
+  "vote_average": 6.557,
+  "vote_count": 97
+}

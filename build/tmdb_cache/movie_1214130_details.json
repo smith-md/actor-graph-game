@@ -1,0 +1,123 @@
+{
+  "adult": false,
+  "backdrop_path": "/zIFFlcvilrrbUlveEbIsFAtUfGT.jpg",
+  "belongs_to_collection": null,
+  "budget": 34800000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://stitchheadmovie2025.com/",
+  "id": 1214130,
+  "imdb_id": "tt26720001",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Stitch Head",
+  "overview": "Stitch Head was the first creature brought to 'almost life' by mad professor Erasmus. In the years since, he’s become nursemaid to the master’s ever-growing menagerie of neglected creatures, tasked with teaching them to suppress their 'inner monster' and hide out in the castle — away from prying eyes and itchy pitchfork fingers, of the village mob in the valley below. But when grubby circus impresario Fulbert Freakfinder arrives offering Stitch Head a starring role in his freak show, our hero is tempted by the promise of love and acceptance.",
+  "popularity": 7.3049,
+  "poster_path": "/p0ZOIaQ8oLEGmQVrYcmvIOUuSqs.jpg",
+  "production_companies": [
+    {
+      "id": 150709,
+      "logo_path": "/k8bq9OvcZ8McsDtbxQQB6WPS69l.png",
+      "name": "GFM Animation",
+      "origin_country": "GB"
+    },
+    {
+      "id": 229487,
+      "logo_path": null,
+      "name": "Rabbits Black",
+      "origin_country": "US"
+    },
+    {
+      "id": 142311,
+      "logo_path": "/aexrPIItAbXLEUGB9Dp1Kqwhhwc.png",
+      "name": "Aniventure",
+      "origin_country": "GB"
+    },
+    {
+      "id": 56913,
+      "logo_path": null,
+      "name": "GRINGO films",
+      "origin_country": "DE"
+    },
+    {
+      "id": 50164,
+      "logo_path": null,
+      "name": "Fabrique d'images",
+      "origin_country": "LU"
+    },
+    {
+      "id": 191,
+      "logo_path": "/5Cz9SVf733VhCvKpaivl1jlAXAK.png",
+      "name": "Senator Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 162898,
+      "logo_path": "/a6wW81BJlAJMCGdIPBtAp76LGuX.png",
+      "name": "Traumhaus Studios",
+      "origin_country": "DE"
+    },
+    {
+      "id": 72281,
+      "logo_path": "/FWCnTJNIZ60dHIPGpe6wVDwk1C.png",
+      "name": "Assemblage Entertainment",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    },
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-10-16",
+  "revenue": 6495978,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Being different is the main attraction.",
+  "title": "Stitch Head",
+  "video": false,
+  "vote_average": 6.957,
+  "vote_count": 23
+}

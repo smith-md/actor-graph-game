@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/dCGnro9iiwavXqWxSNEUSDnPQK2.jpg",
+  "belongs_to_collection": {
+    "id": 161314,
+    "name": "The Angel Collection",
+    "poster_path": "/q52KwBiFKkXKqVKb8t2Ob68mBxS.jpg",
+    "backdrop_path": "/79qNY3uiwzTSRlrmwZVHmidfBxB.jpg"
+  },
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1803,
+  "imdb_id": "tt0086896",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Angel",
+  "overview": "Molly Stewart, a teen at the top of her class who survives by working nights as a prostitute on Hollywood Blvd, finds her world beginning to fall apart when a depraved, necrophiliac serial killer begins targeting LA’s streetwalkers.",
+  "popularity": 4.5175,
+  "poster_path": "/cLrOR7QqV5fZ9g85bGJL0s5cHTo.jpg",
+  "production_companies": [
+    {
+      "id": 18068,
+      "logo_path": null,
+      "name": "Adams Apple Film Company",
+      "origin_country": ""
+    },
+    {
+      "id": 1950,
+      "logo_path": "/eIoDtHIJKZaZ4hGbKgqC0PzlqJc.png",
+      "name": "New World Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1984-04-19",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "High School Honor Student by Day. Hollywood Hooker by Night.",
+  "title": "Angel",
+  "video": false,
+  "vote_average": 6.038,
+  "vote_count": 119
+}

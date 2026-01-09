@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/z2Rphds9uR6C3YtrdwaIYTzJgJK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 72819,
+  "imdb_id": "tt1446130",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Палата N°6",
+  "overview": "Simultaneously nihilistic and heartening, Ward No. 6 is based on a story by Chekov, in which a psychiatric doctor becomes a patient in his own asylum. Updated to contemporary Russia, the film is a cocktail of anxieties and riddles, showcasing how easy it is to become what we fear most.",
+  "popularity": 3.561,
+  "poster_path": "/tChJXSFwZdtDUSFbV9opXOWMLQv.jpg",
+  "production_companies": [
+    {
+      "id": 170585,
+      "logo_path": "/1nUzkMSbZOzoYgHHhBSJ5xGwnIm.png",
+      "name": "Mosfilm",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2009-06-06",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ward No. 6",
+  "video": false,
+  "vote_average": 4.7,
+  "vote_count": 20
+}

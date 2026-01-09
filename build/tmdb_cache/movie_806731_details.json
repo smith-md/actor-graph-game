@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/4Va2wodBY6pi8lzJFwkGDePlp80.jpg",
+  "belongs_to_collection": {
+    "id": 1498241,
+    "name": "Stream Collection",
+    "poster_path": "/gMtIxQrZ6Qjv0j8g0en9kJH2p9w.jpg",
+    "backdrop_path": "/2kCYzgPJrevEwLN2bcPLXjyuo3T.jpg"
+  },
+  "budget": 650000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://fuzzonthelens.com/projects/stream/",
+  "id": 806731,
+  "imdb_id": "tt8964540",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Stream",
+  "overview": "As the Keenans try to bring their family closer together, they unwittingly enter themselves into a game of life or death. With four deranged killers patrolling the halls of their hotel and competing for the most creative kills, the odds are definitely stacked against them.",
+  "popularity": 2.7436,
+  "poster_path": "/az0k8pzdeqrrEO9iu8vL081bjA0.jpg",
+  "production_companies": [
+    {
+      "id": 114220,
+      "logo_path": "/b5n3DtfUySREkq4Xi962zMg69qq.png",
+      "name": "Fuzz on the Lens Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-21",
+  "revenue": 0,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Blood on the ground, points on the board.",
+  "title": "Stream",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 56
+}

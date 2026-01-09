@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/v6wahTqcsU3kcQ1uz7wQpFTZbIb.jpg",
+  "belongs_to_collection": {
+    "id": 1068899,
+    "name": "Fist of Fury Collection",
+    "poster_path": "/qiTf9uIH3XEdXnYe5L8yX3tGJm.jpg",
+    "backdrop_path": "/n8r2VWAFExMFR4BmEdJ5WW9ZTmM.jpg"
+  },
+  "budget": 100000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 11713,
+  "imdb_id": "tt0068767",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "zh",
+  "original_title": "精武門",
+  "overview": "During the Japanese occupation of Shanghai, Chen Zhen, the star pupil of a recently-deceased martial arts teacher battles a Japanese dojo which seeks the demise of his master's fighting school.",
+  "popularity": 5.526,
+  "poster_path": "/dlcipCOa9hlfBBz7kCAyjsf3q0E.jpg",
+  "production_companies": [
+    {
+      "id": 2521,
+      "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+      "name": "Orange Sky Golden Harvest",
+      "origin_country": "HK"
+    },
+    {
+      "id": 3526,
+      "logo_path": null,
+      "name": "Concord Productions",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1972-03-22",
+  "revenue": 100000000,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Bruce Lee has done the impossible... ...HE'S SURPASSED HIMSELF!!!",
+  "title": "Fist of Fury",
+  "video": false,
+  "vote_average": 7.227,
+  "vote_count": 1036
+}

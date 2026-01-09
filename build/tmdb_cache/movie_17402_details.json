@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/7WdT5QF2HPPPeiNHcm6o4DfCsgI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 17402,
+  "imdb_id": "tt0113808",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Miami Rhapsody",
+  "overview": "Even though Gwyn Marcus is engaged to her boyfriend, Matt, she is still afraid of commitment. While she admires her parents' loving relationship, she discovers that her family has not always been faithful in marriage, making it harder than ever to settle down. As her mother pressures her to get married, and plenty of attractive men appear in her life, Gwyn learns that she must balance her career, relationships and marriage to be truly happy.",
+  "popularity": 2.6035,
+  "poster_path": "/joturqaJfAJ8XHPadT8kibgSpS4.jpg",
+  "production_companies": [
+    {
+      "id": 915,
+      "logo_path": "/4neXXpjSJDZPBGBnfWtqysB5htV.png",
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 131354,
+      "logo_path": null,
+      "name": "Cantaloupe Production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-01-27",
+  "revenue": 5,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love is great. Marriage is a completely different affair.",
+  "title": "Miami Rhapsody",
+  "video": false,
+  "vote_average": 5.229,
+  "vote_count": 59
+}

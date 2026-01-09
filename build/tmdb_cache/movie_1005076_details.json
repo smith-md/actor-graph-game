@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/A6MQBEobDU0neBuKPqxkEYwD35K.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.corkfilms.co.uk/duchess",
+  "id": 1005076,
+  "imdb_id": "tt18300732",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Duchess",
+  "overview": "A tough, working-class petty criminal is drawn into the treacherous world of diamond smuggling and morphs into an anti-heroine to be reckoned with in the murky underworld.",
+  "popularity": 4.9063,
+  "poster_path": "/5TR7JlJbKucNSq84rkbnjLd1JB5.jpg",
+  "production_companies": [
+    {
+      "id": 68755,
+      "logo_path": null,
+      "name": "Cork Films",
+      "origin_country": ""
+    },
+    {
+      "id": 189103,
+      "logo_path": "/hu0qcD4k7kfWpdAewqmJSUyZPa7.png",
+      "name": "Ashland Hill Media Finance",
+      "origin_country": "US"
+    },
+    {
+      "id": 184393,
+      "logo_path": null,
+      "name": "Lip Sync Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 29378,
+      "logo_path": "/jVyURMmtDYaZ3ky4lLDw0qrcE4S.png",
+      "name": "Scarlett Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-08-01",
+  "revenue": 0,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Power isn't given... It's taken!",
+  "title": "Duchess",
+  "video": false,
+  "vote_average": 5.621,
+  "vote_count": 70
+}

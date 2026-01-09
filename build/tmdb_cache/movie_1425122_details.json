@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/ajYw16ISz3qsdYTg4zy5rob1iAQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/browse/entity-0a35b05e-b39a-4d17-8786-263962268cbe",
+  "id": 1425122,
+  "imdb_id": "tt35600079",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Very Jonas Christmas Movie",
+  "overview": "Kevin, Nick, and Joe Jonas face a series of escalating obstacles as they struggle to make it from London to New York in time to spend Christmas with their families.",
+  "popularity": 7.2147,
+  "poster_path": "/kGLgaDrYWmTAdRFzGP5pBquRnhO.jpg",
+  "production_companies": [
+    {
+      "id": 236166,
+      "logo_path": "/8rFlu5iytnjsciYXZDw90ktllCI.png",
+      "name": "20th Television",
+      "origin_country": "US"
+    },
+    {
+      "id": 274572,
+      "logo_path": null,
+      "name": "Copper Cup Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 152686,
+      "logo_path": "/1tAOiOyXA2baRS3jq9X8I2alhcI.png",
+      "name": "The Walk-Up Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 12292,
+      "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+      "name": "Temple Hill Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 208750,
+      "logo_path": null,
+      "name": "Fishbach Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 280547,
+      "logo_path": null,
+      "name": "Powered by Jonas",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-10",
+  "revenue": 0,
+  "runtime": 78,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Let it bro. Let it bro. Let it bro.",
+  "title": "A Very Jonas Christmas Movie",
+  "video": false,
+  "vote_average": 6.193,
+  "vote_count": 101
+}

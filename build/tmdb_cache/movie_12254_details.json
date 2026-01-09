@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/skTeEE3kZZG0w7sdMt51ZMW1ZaH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 12254,
+  "imdb_id": "tt0118308",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Emma",
+  "overview": "Emma Woodhouse is a congenial young lady who delights in meddling in other people’s affairs. She is perpetually trying to unite men and women who are utterly wrong for each other. Despite her interest in romance, Emma is clueless about her own feelings, and her relationship with gentle Mr. Knightley.",
+  "popularity": 5.2766,
+  "poster_path": "/d6ksCUWYOaweyvGLi1JILYvIybN.jpg",
+  "production_companies": [
+    {
+      "id": 5620,
+      "logo_path": "/9Edp714KYc2hvFaDOsgwLtPziab.png",
+      "name": "Meridian Broadcasting Ltd",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1996-10-02",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Emma",
+  "video": false,
+  "vote_average": 6.583,
+  "vote_count": 133
+}

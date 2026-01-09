@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/lBsbWXGn9maPKGhN3fozTU3BH0r.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.shadowforce.movie",
+  "id": 757725,
+  "imdb_id": "tt11092020",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shadow Force",
+  "overview": "Kyrah and Isaac were once the leaders of a multinational special forces group called Shadow Force. They broke the rules by falling in love, and in order to protect their son, they go underground. With a large bounty on their heads, and the vengeful Shadow Force hot on their trail, one family's fight becomes all-out war.",
+  "popularity": 6.0478,
+  "poster_path": "/9LCpHFXZgkqp2AWiYq0mGbfZauk.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 144763,
+      "logo_path": "/4zwngbGiTftVOlBuqSKASByaGSF.png",
+      "name": "Made With Love Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 221429,
+      "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+      "name": "Media Capital Technologies",
+      "origin_country": "US"
+    },
+    {
+      "id": 168705,
+      "logo_path": "/sUghThrRBgt2T1jewrauUcDBZtY.png",
+      "name": "Indian Meadows Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 115026,
+      "logo_path": "/2yASkMT2hM6vjz0Bt1TP2gN2Ed2.png",
+      "name": "Simpson Street",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-05-01",
+  "revenue": 5,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Family over everything.",
+  "title": "Shadow Force",
+  "video": false,
+  "vote_average": 6.356,
+  "vote_count": 236
+}

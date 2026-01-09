@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/hpKz2iLTqcwaZ3lnwvky6RUYihe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.hallmarkchannel.com/holiday-road",
+  "id": 1180791,
+  "imdb_id": "tt29233535",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Holiday Road",
+  "overview": "A travel writer, a tech entrepreneur, a devoted mother and more strangers are stranded at the airport for the holidays, they rent a van for an unexpected road trip.",
+  "popularity": 4.3219,
+  "poster_path": "/4XfxvKm0gAgOFBOL8vguBCiLxiI.jpg",
+  "production_companies": [
+    {
+      "id": 120981,
+      "logo_path": "/1dN8LNzCZq1Xq0jAMqNZy32OIyJ.png",
+      "name": "Timeless Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 143220,
+      "logo_path": "/9auzcLEiozgRfETCWj8p3aaKODO.png",
+      "name": "Basset Hound Distribution",
+      "origin_country": "US"
+    },
+    {
+      "id": 235046,
+      "logo_path": null,
+      "name": "Little Engine Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-24",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Holiday Road",
+  "video": false,
+  "vote_average": 7.225,
+  "vote_count": 20
+}

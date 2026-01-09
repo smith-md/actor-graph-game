@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Dt59bozPx5H5afRUmkkPiCcdUD.jpg",
+  "belongs_to_collection": null,
+  "budget": 1138000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 71282,
+  "imdb_id": "tt0026205",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "China Seas",
+  "overview": "Captain Alan Gaskell sails the perilous waters between Hong Kong and Singapore with a secret cargo: a fortune in British gold. That's not the only risky cargo he carries; both his fiery mistress and his refined fiancee are aboard!",
+  "popularity": 3.9398,
+  "poster_path": "/aCYCbwSJHEd6SJpxLJfE8fnY25m.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1935-08-09",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "China Seas",
+  "video": false,
+  "vote_average": 6.171,
+  "vote_count": 35
+}

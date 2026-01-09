@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/kXGTMl6J8URO3ZCg2BtQqHbCBKG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 43459,
+  "imdb_id": "tt0037981",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "La perla",
+  "overview": "Fisherman Quino and his wife Juana are very poor and desperate because the town's foreign doctor refuses to treat their son Coyotito, who has been bitten by a scorpion. When Quino unexpectedly finds a magnificent pearl in the sea, Juana senses that the discovery will only bring them misfortune and tries to convince her husband to return it to the sea.",
+  "popularity": 3.6632,
+  "poster_path": "/yWnAJPPrsyxZY7mQY0SVyAb90na.jpg",
+  "production_companies": [
+    {
+      "id": 88320,
+      "logo_path": null,
+      "name": "Águila Films",
+      "origin_country": "MX"
+    },
+    {
+      "id": 6,
+      "logo_path": "/n53F7K9scQWFXYbrCablqLKqJdp.png",
+      "name": "RKO Radio Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "1947-09-12",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Steinbeck's most talked-about story!",
+  "title": "The Pearl",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 44
+}

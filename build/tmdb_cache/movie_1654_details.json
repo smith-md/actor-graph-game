@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": "/iXS9Y5oMwbN9wKsVu7mNzsI7QSM.jpg",
+  "belongs_to_collection": {
+    "id": 124492,
+    "name": "The Dirty Dozen Collection",
+    "poster_path": "/g8BP6WcJoNEaOhUrjp6EAMLkamX.jpg",
+    "backdrop_path": "/z5Wj3wkksrRjyjhZ2flr00gSjTR.jpg"
+  },
+  "budget": 5400000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 1654,
+  "imdb_id": "tt0061578",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Dirty Dozen",
+  "overview": "12 American military prisoners in World War II are ordered to infiltrate a well-guarded enemy château and kill the Nazi officers vacationing there. The soldiers, most of whom are facing death sentences for a variety of violent crimes, agree to the mission and the possible commuting of their sentences.",
+  "popularity": 7.4656,
+  "poster_path": "/tFWWsuhp22zJ6OG6QepJIiPUfeF.jpg",
+  "production_companies": [
+    {
+      "id": 14159,
+      "logo_path": null,
+      "name": "Seven Arts Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 79298,
+      "logo_path": null,
+      "name": "MKH",
+      "origin_country": ""
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1967-06-15",
+  "revenue": 45300000,
+  "runtime": 149,
+  "spoken_languages": [
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Train them! Excite them! Arm them!...Then turn them loose on the Nazis!",
+  "title": "The Dirty Dozen",
+  "video": false,
+  "vote_average": 7.589,
+  "vote_count": 1276
+}

@@ -1,0 +1,102 @@
+{
+  "adult": false,
+  "backdrop_path": "/9fUqjegvjp51cnLwQxgp9nkajXU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.losilusosfilms.com/en/peliculas/the-other-way-around/",
+  "id": 1214118,
+  "imdb_id": "tt32128317",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Volveréis",
+  "overview": "After 15 years together, Ale and Alex choose an unconventional way to part ways: by hosting a party to celebrate their separation. Their unexpected decision leaves friends and family confused, forcing everyone to confront their own views on love, relationships, and new beginnings in this bittersweet, heartfelt story.",
+  "popularity": 2.6933,
+  "poster_path": "/jWHEfq6QRwPS9xRz4pzY3oBRSxD.jpg",
+  "production_companies": [
+    {
+      "id": 62869,
+      "logo_path": "/hSWMuuXPdDrWhsCgMLlx2ZacfLX.png",
+      "name": "Los Ilusos Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 7395,
+      "logo_path": "/cGOGYYfbJZ1uJHynRIf8yj4phRn.png",
+      "name": "Les films du Worso",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 246607,
+      "logo_path": null,
+      "name": "Ayuntamiento de Madrid",
+      "origin_country": ""
+    },
+    {
+      "id": 67412,
+      "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+      "name": "Movistar Plus+",
+      "origin_country": "ES"
+    },
+    {
+      "id": 201633,
+      "logo_path": "/6Ox2aOmqNP6vEmlh02fqygwOkeE.png",
+      "name": "Instituto de la Cinematografía y de las Artes Audiovisuales",
+      "origin_country": "ES"
+    },
+    {
+      "id": 265749,
+      "logo_path": "/vFqHb0z4jNbA4h6iMQ52OaQRdEQ.png",
+      "name": "RTVE",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-08-28",
+  "revenue": 1036809,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "To celebrate their separation, a couple plans to throw a party.",
+  "title": "The Other Way Around",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 61
+}

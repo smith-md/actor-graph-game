@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/dQoqaOal5WLkvY2moxUmX2f4xsM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 63945,
+  "imdb_id": "tt0118742",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bliss",
+  "overview": "On his wedding day, Joseph nervously admits that his wife is not quite like other women. But his beautiful bride is more than just the \"impulsive, compulsive, obsessive\" woman he thinks he knows. And when Joseph discovers she is hiding troubling secrets, it sends them both on a sexual odyssey that will either destroy or redeem their relationship.",
+  "popularity": 4.5104,
+  "poster_path": "/zGdGINvf9oSysprbWnu85dIM7rc.jpg",
+  "production_companies": [
+    {
+      "id": 31551,
+      "logo_path": null,
+      "name": "Pacific Motion Pictures Corporation",
+      "origin_country": ""
+    },
+    {
+      "id": 23098,
+      "logo_path": "/qosRT1fWXpaGuWQBWOQJO9RcPTo.png",
+      "name": "Triumph Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 78106,
+      "logo_path": null,
+      "name": "Stewart Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1997-04-14",
+  "revenue": 294064,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A daring love story that breaks all the rules.",
+  "title": "Bliss",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 64
+}

@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/jjrcLsN19K8vU1wsINu80R1QddJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 5200000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 457915,
+  "imdb_id": "tt4110388",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Superlópez",
+  "overview": "Juan López must balance an office job with heroic feats to save the love of his life and native planet Chitón.",
+  "popularity": 2.7698,
+  "poster_path": "/7doCBDNnEITiRg4LPI7wK1jdb4p.jpg",
+  "production_companies": [
+    {
+      "id": 103476,
+      "logo_path": "/1Wj9FXynetoCaNxUoBRvKxcKDsB.png",
+      "name": "Mogambo Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 2674,
+      "logo_path": "/bkgwJWvqqLuzsXV2Qv3Mg3wfcNZ.png",
+      "name": "Telecinco Cinema",
+      "origin_country": "ES"
+    },
+    {
+      "id": 9967,
+      "logo_path": "/273isjO76GPpWVBLjBiBgFPUfwu.png",
+      "name": "Zeta Studios",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2018-11-23",
+  "revenue": 12496155,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The superhero this country doesn't need has just arrived",
+  "title": "Superlopez",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 276
+}

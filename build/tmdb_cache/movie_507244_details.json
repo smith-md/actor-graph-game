@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/kHOfxq7cMTXyLbj0UmdoGhT540O.jpg",
+  "belongs_to_collection": null,
+  "budget": 60000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 507244,
+  "imdb_id": "tt1210027",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Afterburn",
+  "overview": "Set against the backdrop of a postapocalyptic Earth whose Eastern Hemisphere was destroyed by a massive solar flare, leaving what life remains mutated from radiation and fallout. The story revolves around a group of treasure hunters who extract such objects as the Mona Lisa, the Rosetta Stone and the Crown Jewels while facing rival hunters, mutants and pirates.",
+  "popularity": 17.4259,
+  "poster_path": "/hrze9JXp2QJpc2WjLfSUtRxyYSb.jpg",
+  "production_companies": [
+    {
+      "id": 89171,
+      "logo_path": "/c3ttVfx0itQzk2vOR0053qzzd3B.png",
+      "name": "Endurance Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 103331,
+      "logo_path": "/nxkmGpo1Ym74DkBzNtoMz5cl6DJ.png",
+      "name": "G-BASE",
+      "origin_country": "US"
+    },
+    {
+      "id": 333,
+      "logo_path": "/5xUJfzPZ8jWJUDzYtIeuPO4qPIa.png",
+      "name": "Original Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 141391,
+      "logo_path": null,
+      "name": "CAA Media Finance",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-20",
+  "revenue": 184758,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The apocalypse isn't for everybody.",
+  "title": "Afterburn",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 158
+}

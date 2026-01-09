@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/mTKi9Lf62Rd31F747o3mOPj83T6.jpg",
+  "belongs_to_collection": null,
+  "budget": 6000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 72340,
+  "imdb_id": "tt0084477",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Partners",
+  "overview": "After a series of murders in Los Angeles's gay community, heterosexual police officer Sgt. Benson is assigned to go undercover as half of a gay couple with Officer Kerwin, a Records Clerk",
+  "popularity": 3.3786,
+  "poster_path": "/gHVThPfNan8kBdQdw6aSC9cbZu2.jpg",
+  "production_companies": [
+    {
+      "id": 3496,
+      "logo_path": null,
+      "name": "Aaron Russo Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1982-04-30",
+  "revenue": 6100000,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Benson is a cop who wants to clean up the streets...his partner just wants to redecorate.",
+  "title": "Partners",
+  "video": false,
+  "vote_average": 5.339,
+  "vote_count": 28
+}

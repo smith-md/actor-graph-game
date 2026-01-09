@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/ahYDVW0ReOTKI6sbI6du9SoXdX9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 666035,
+  "imdb_id": "tt15791574",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wanted Man",
+  "overview": "Follows a police officer who must retrieve an eyewitness and escort her after a cartel shooting leaves several DEA agents dead, but then he must decide who to trust when they discover that the attack was executed by American forces.",
+  "popularity": 1.6033,
+  "poster_path": "/pmdgdb8biQLLzTjySZLPdK13KwM.jpg",
+  "production_companies": [
+    {
+      "id": 128107,
+      "logo_path": null,
+      "name": "Red Orm Productions Inc.",
+      "origin_country": "US"
+    },
+    {
+      "id": 52256,
+      "logo_path": null,
+      "name": "Thor Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 125231,
+      "logo_path": "/snGfhwT46aqKWhP8izedkL48aZY.png",
+      "name": "Wonder Street",
+      "origin_country": "US"
+    },
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-04-01",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some borders are better not crossed.",
+  "title": "Wanted Man",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 94
+}

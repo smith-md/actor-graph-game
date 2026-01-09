@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/cWsoE3pcNDDq7o6nEwBUMEFf8HL.jpg",
+  "belongs_to_collection": null,
+  "budget": 50000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.themarmadukemovie.com/",
+  "id": 38579,
+  "imdb_id": "tt1392197",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Marmaduke",
+  "overview": "When Phil and Debbie Winslow relocate from their native Kansas to the sunny climes of Orange County, their big-hearted, havoc-wreaking Great Dane gets a taste of the dog's life, California-style.",
+  "popularity": 4.6981,
+  "poster_path": "/wNNqAqvOn717AWBhBQskH2Lnzmz.jpg",
+  "production_companies": [
+    {
+      "id": 444,
+      "logo_path": null,
+      "name": "Dune Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1302,
+      "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+      "name": "Davis Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 508,
+      "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-06-03",
+  "revenue": 83761844,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Live large",
+  "title": "Marmaduke",
+  "video": false,
+  "vote_average": 5.21,
+  "vote_count": 797
+}

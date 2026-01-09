@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/huvTqZl7pLOIIAGyDXfpBcgUnGT.jpg",
+  "belongs_to_collection": null,
+  "budget": 390000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 48116,
+  "imdb_id": "tt0484437",
+  "origin_country": [
+    "RO"
+  ],
+  "original_language": "ro",
+  "original_title": "Legături bolnăvicioase",
+  "overview": "Love. It just happens. No rules. It may look sick, but it's deep and it hurts. For everyone, Alex and Kiki are just good friends. They happen to be two girls experiencing another kind of love. For their family, Kiki and Sandu are sister and brother who sometimes fight. They happen to be lovers. Love Sick is about their stories.",
+  "popularity": 3.4772,
+  "poster_path": "/lZtX6Cg4yzVtFnsuMPhEnwqh85t.jpg",
+  "production_companies": [
+    {
+      "id": 11191,
+      "logo_path": "/jX214F9ausJmTAqVtv4L7WQ6rHR.png",
+      "name": "Libra Film",
+      "origin_country": "RO"
+    },
+    {
+      "id": 13020,
+      "logo_path": "/kXQRJWdpNbJBoCbmgCZpaW7VskK.png",
+      "name": "Multi Media Est",
+      "origin_country": "RO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2006-03-16",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love Sick",
+  "video": false,
+  "vote_average": 5.508,
+  "vote_count": 64
+}

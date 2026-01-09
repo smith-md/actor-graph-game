@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/yDmrli2yAPHa9ZLd7iM4T1EKLDL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 30694,
+  "imdb_id": "tt0105242",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Resurrected",
+  "overview": "Charles Dexter Ward, a wealthy scientist, uses an ancient diary and human remains to begin a terrifying and bloody pursuit for immortality.",
+  "popularity": 3.4215,
+  "poster_path": "/nhQwgcIDD5XcKWLMLyrgqY4bFZd.jpg",
+  "production_companies": [
+    {
+      "id": 78172,
+      "logo_path": null,
+      "name": "Euro Brothers Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 65820,
+      "logo_path": null,
+      "name": "Scotti Brothers Pictures (I)",
+      "origin_country": ""
+    },
+    {
+      "id": 78173,
+      "logo_path": null,
+      "name": "Borde/Raich",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-10-06",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Death used to be the end. Now it's only the beginning...",
+  "title": "The Resurrected",
+  "video": false,
+  "vote_average": 6.142,
+  "vote_count": 127
+}

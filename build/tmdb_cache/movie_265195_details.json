@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/dHnki2Dh6lbOtfksrh8H5lg08f5.jpg",
+  "belongs_to_collection": null,
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 265195,
+  "imdb_id": "tt3011894",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "Relatos salvajes",
+  "overview": "Injustice and the demands of the world can cause stress for many people. Some of them, however, explode. This includes a waitress serving a grouchy loan shark, an altercation between two motorists, an ill-fated wedding reception, and a wealthy businessman who tries to buy his family out of trouble.",
+  "popularity": 5.6806,
+  "poster_path": "/bU7IUeTdYFOgeUPtwpWKQNhORMC.jpg",
+  "production_companies": [
+    {
+      "id": 49,
+      "logo_path": "/tlzPjqJjba2WjBaNGN1SZuJmbYj.png",
+      "name": "El Deseo",
+      "origin_country": "ES"
+    },
+    {
+      "id": 21914,
+      "logo_path": "/iF5QYCtPLuwkU90jWdjrul25d71.png",
+      "name": "K & S Films",
+      "origin_country": "AR"
+    },
+    {
+      "id": 8046,
+      "logo_path": "/67wZ6aHgQcU5K7qbRCRICiKHeN1.png",
+      "name": "Telefe",
+      "origin_country": "AR"
+    },
+    {
+      "id": 6458,
+      "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+      "name": "INCAA",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2014-08-21",
+  "revenue": 31478893,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "We can all lose control",
+  "title": "Wild Tales",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 3621
+}

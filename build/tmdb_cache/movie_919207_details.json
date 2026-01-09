@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/yOn8w3aGd6Rf9JYki7XaC9ZiyDg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "http://www.megaboxplusm.co.kr/library/MovieDtl?mcode=AU230089",
+  "id": 919207,
+  "imdb_id": "tt22507524",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "서울의 봄",
+  "overview": "After the assassination of President Park, martial law has been declared. A coup d'état bursts out by Defense Security Commander Chun Doo-gwang and a private band of officers following him. Capital Defense Commander Lee Tae-shin, an obstinate soldier who believes the military should not take political actions, fights against Chun Doo-gwang to stop him. The conflict between the two grows while military leaders are holding their decision and Defense Minister is gone. In the midst of chaos, the spring of Seoul that everyone longed for heads to unexpected direction.",
+  "popularity": 3.4553,
+  "poster_path": "/vy14tKxsbJYdDyFl6kQuVkK2s44.jpg",
+  "production_companies": [
+    {
+      "id": 108532,
+      "logo_path": "/lHzoqEuTPHwKSFiBx9skKpp9vCc.png",
+      "name": "Hive Media Corp",
+      "origin_country": "KR"
+    },
+    {
+      "id": 91505,
+      "logo_path": "/c6ggS6OO4tyEcgBQ7sHs67LDfES.png",
+      "name": "Plus M Entertainment",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2023-11-22",
+  "revenue": 0,
+  "runtime": 142,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The worst historical day in Korean democracy.",
+  "title": "12.12: The Day",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 134
+}

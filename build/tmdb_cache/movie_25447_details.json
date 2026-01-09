@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/nYdtHkaOTA3bDTb8YChE4nLq397.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 25447,
+  "imdb_id": "tt0096223",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tapeheads",
+  "overview": "The story of Ivan and Josh, two dimwitted ex-security guards who love music videos. Out of work, with no job prospects, they form a music video production company. They soon learn the ins and outs of the business in LA, and with some help from Mo Fuzz, they soon become hot property. But not all goes smoothly when they try to resurrect the career of their favorite R&B duo, the Swanky Modes.",
+  "popularity": 3.45,
+  "poster_path": "/aVNP2JdzqKaqvOzBcYvI4s68rKY.jpg",
+  "production_companies": [
+    {
+      "id": 4391,
+      "logo_path": null,
+      "name": "Peter McCarthy / Front Films",
+      "origin_country": ""
+    },
+    {
+      "id": 4392,
+      "logo_path": "/buM1u4AbKz2Y0BTG0Kf0L8r2YWf.png",
+      "name": "Pacific Arts Video",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1988-10-21",
+  "revenue": 343786,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A FAST FORWARD MUSIC COMEDY.",
+  "title": "Tapeheads",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 58
+}

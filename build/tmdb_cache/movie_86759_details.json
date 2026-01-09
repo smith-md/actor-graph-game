@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/rjHCwgSKOcmqk8EJeEOc7e44dPt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.rosewoodlanemovie.com/",
+  "id": 86759,
+  "imdb_id": "tt1840388",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rosewood Lane",
+  "overview": "Radio talk show therapist Sonny Blake moves back to her childhood home on seemingly idyllic Rosewood Lane after her alcoholic father dies. But upon arrival in the old neighborhood, Sonny discovers her neighbors are terrified of the local paperboy. She thinks this is ridiculous, until she encounters the boy himself. It turns out that he is a cunning and dangerous sociopath, one who may have gruesomely killed her father - and others.",
+  "popularity": 3.1777,
+  "poster_path": "/7iv2Akvi4kO0taSUL0ujewgLJ0l.jpg",
+  "production_companies": [
+    {
+      "id": 3546,
+      "logo_path": null,
+      "name": "Hollywood Media Bridge",
+      "origin_country": "US"
+    },
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-10-15",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Evil dwells in the most unlikely places",
+  "title": "Rosewood Lane",
+  "video": false,
+  "vote_average": 4.695,
+  "vote_count": 105
+}

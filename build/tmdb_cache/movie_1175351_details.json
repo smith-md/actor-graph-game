@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/hHw7qug8ka3eppjwTm2aDpOKAUd.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.peacocktv.com/watch-online/movies/bosco/124a1be0-9f2e-3dd9-aee5-ecaa28b92572",
+  "id": 1175351,
+  "imdb_id": "tt17633634",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bosco",
+  "overview": "Based on the true story of Quawntay “Bosco” Adams. Sentenced to 35 years for attempted possession of marijuana, Adams miraculously escaped from a Federal maximum-security prison while under 24-hour surveillance in solitary confinement with the help of an older woman he met through a lonely-hearts ad.",
+  "popularity": 2.7254,
+  "poster_path": "/dXjSeS3w97setnrNv4m6tlqqXzn.jpg",
+  "production_companies": [
+    {
+      "id": 25140,
+      "logo_path": "/6SeV4YCwyIDktJlvrVwiEDSLovF.png",
+      "name": "The Exchange",
+      "origin_country": "US"
+    },
+    {
+      "id": 83191,
+      "logo_path": "/cir3g4iXLD6UayUJeM2nspw8RAj.png",
+      "name": "Sugar Studios LA",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-02-02",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bosco",
+  "video": false,
+  "vote_average": 6.854,
+  "vote_count": 48
+}

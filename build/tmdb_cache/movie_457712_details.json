@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/qq52S7MLboHkHAR5IZxbVU9KOvt.jpg",
+  "belongs_to_collection": {
+    "id": 1067970,
+    "name": "The Velocipastor Collection",
+    "poster_path": "/af5nyGZGNJAQTrFwuFxQFolIx4k.jpg",
+    "backdrop_path": "/AlqTF0ZRUI0xVasQcBTnNpG5v9Y.jpg"
+  },
+  "budget": 36000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.thevelocipastor.com/velocipastor",
+  "id": 457712,
+  "imdb_id": "tt1843303",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The VelociPastor",
+  "overview": "After losing his parents, a priest travels to China, where he inherits a mysterious ability to turn into a dinosaur. At first horrified by this new power, a prostitute convinces him to fight crime. And ninjas.",
+  "popularity": 5.012,
+  "poster_path": "/trSmNw63luh84MBy5XLH0UiN1BC.jpg",
+  "production_companies": [
+    {
+      "id": 20955,
+      "logo_path": null,
+      "name": "WildEye Releasing",
+      "origin_country": ""
+    },
+    {
+      "id": 102807,
+      "logo_path": null,
+      "name": "Hollow Tree Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-09-28",
+  "revenue": 0,
+  "runtime": 75,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A man of the claw",
+  "title": "The VelociPastor",
+  "video": false,
+  "vote_average": 5.249,
+  "vote_count": 229
+}

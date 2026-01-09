@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/aiiWgt80uOVvW72eXOYAurZ79RR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 42604,
+  "imdb_id": "tt0064381",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Goodbye, Columbus",
+  "overview": "A Jewish man and a Jewish woman meet, and while attracted to each other, find that their worlds are very different. She is the archetypal Jewish American Princess — very emotionally involved with her parents' world and the world they have created for her, while he is much less dependent on his family. They begin an affair which brings more differences to the surface.",
+  "popularity": 3.295,
+  "poster_path": "/yEfA6HiXipVZdHvxiagV6MxuDNS.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 18768,
+      "logo_path": null,
+      "name": "Willow Tree",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1969-05-21",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every father's daughter is a virgin.",
+  "title": "Goodbye, Columbus",
+  "video": false,
+  "vote_average": 5.35,
+  "vote_count": 30
+}

@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/dWNWXJJg1bW3PM2xXyIv6AOcyCn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 48254,
+  "imdb_id": "tt0122648",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Ovosodo",
+  "overview": "From childhood to fatherhood, Piero learns things the hard way while growing up in a working-class neighborhood of Livorno.",
+  "popularity": 5.2904,
+  "poster_path": "/lV5uNrculiODLGqzWsP7uV3EUPm.jpg",
+  "production_companies": [
+    {
+      "id": 371,
+      "logo_path": "/caz3eGyRd4OW7oR31Aij5ZwjOXD.png",
+      "name": "Cecchi Gori Group Tiger Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1997-09-12",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Life... what a sweet, cruel, silly thing.",
+  "title": "Ovosodo",
+  "video": false,
+  "vote_average": 7.209,
+  "vote_count": 467
+}

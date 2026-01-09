@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/2Dq8Dh9l0GyVGA0U1GMRSt8J7L6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 535561,
+  "imdb_id": "tt8456680",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Ride",
+  "overview": "Kyle and Max are two extreme sports athletes, two riders in continuous challenge and search for money. When they find out of the enigmatic proposal for a mysterious contest by an unknown organization, Black Babylon, they can’t turn down the $ 150,000 prize. But the “contest” will turn out to be much darker and deadlier than expected.",
+  "popularity": 3.814,
+  "poster_path": "/fscXXptgTFhipdd3DJBEWfuUJUe.jpg",
+  "production_companies": [
+    {
+      "id": 120313,
+      "logo_path": "/g163rKrkxT7Y8iIBwRqpbnaJr0a.png",
+      "name": "TIMVision",
+      "origin_country": "IT"
+    },
+    {
+      "id": 779,
+      "logo_path": "/KFFOFoztyjV5epvnW5GerPbcvx.png",
+      "name": "Lucky Red",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14156,
+      "logo_path": null,
+      "name": "Mercurio Domina",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2018-09-06",
+  "revenue": 346665,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ride",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 98
+}

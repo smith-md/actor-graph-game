@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": "/jovVe4UGpmQEAE6ZEmV5xa6Kk1f.jpg",
+  "belongs_to_collection": null,
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 12184,
+  "imdb_id": "tt0467200",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Other Boleyn Girl",
+  "overview": "A sumptuous and sensual tale of intrigue, romance and betrayal set against the backdrop of a defining moment in European history: two beautiful sisters, Anne and Mary Boleyn, driven by their family's blind ambition, compete for the love of the handsome and passionate King Henry VIII.",
+  "popularity": 3.5143,
+  "poster_path": "/q2lgC8mmAltWTkbqPM8n5EYF4XL.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10146,
+      "logo_path": "/xnFIOeq5cKw09kCWqV7foWDe4AA.png",
+      "name": "Focus Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7295,
+      "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+      "name": "Relativity Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 2054,
+      "logo_path": null,
+      "name": "Ruby Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 258,
+      "logo_path": "/tMI4xPwgxfNaNId3h9dOcHGU1NI.png",
+      "name": "Scott Rudin Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 41756,
+      "logo_path": null,
+      "name": "GH Three",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-02-28",
+  "revenue": 78269970,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Two sisters divided for the love of a king.",
+  "title": "The Other Boleyn Girl",
+  "video": false,
+  "vote_average": 6.697,
+  "vote_count": 2175
+}

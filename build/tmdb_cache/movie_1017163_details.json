@@ -1,0 +1,98 @@
+{
+  "adult": false,
+  "backdrop_path": "/mO9oOVXM8tTlC11VFM4FBBNnL3f.jpg",
+  "belongs_to_collection": {
+    "id": 619802,
+    "name": "The Roundup Collection",
+    "poster_path": "/lmf188GpuWrm9nrvhfpQzv65kcG.jpg",
+    "backdrop_path": "/ra2aSkkwOQRoymeg5p19PfnC9r9.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1017163,
+  "imdb_id": "tt27811040",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "범죄도시 4",
+  "overview": "'Monster Cop' Ma Seok-do investigates an illegal online gambling business led by a former STS Baek and an IT genius CEO Chang. Ma proposes an unexpected alliance to Jang and begins hunting down the criminals.",
+  "popularity": 8.7401,
+  "poster_path": "/yk38mNoJpsswmk9o7i7eLhO4mc.jpg",
+  "production_companies": [
+    {
+      "id": 84678,
+      "logo_path": "/8pjrX8L669kQUdCqCCpv3uWOSBC.png",
+      "name": "BA Entertainment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 96989,
+      "logo_path": null,
+      "name": "Hong Film",
+      "origin_country": "KR"
+    },
+    {
+      "id": 129217,
+      "logo_path": "/s5rN5NUfE9yx21Yh0CuLULAGH5Y.png",
+      "name": "Big Punch Pictures",
+      "origin_country": "KR"
+    },
+    {
+      "id": 139571,
+      "logo_path": null,
+      "name": "ABO Entertainment",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2024-04-24",
+  "revenue": 83703350,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Time for the ultimate wipeout.",
+  "title": "The Roundup: Punishment",
+  "video": false,
+  "vote_average": 7.138,
+  "vote_count": 213
+}

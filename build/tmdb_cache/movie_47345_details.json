@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/l457jbFpp8d9KUO1tSKAIlip4Iy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 47345,
+  "imdb_id": "tt0090009",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "She",
+  "overview": "In a backward post-apocalyptic world, She aids two brothers' quest to rescue their kidnapped sister. Along the way, they battle orgiastic werewolves, a psychic communist, a tutu-wearing giant, a mad scientist, and gladiators before standing against the odds to defeat the evil Norks.",
+  "popularity": 2.7855,
+  "poster_path": "/n4IHaMTl89DKvY1wdzbiig7WkDb.jpg",
+  "production_companies": [
+    {
+      "id": 18054,
+      "logo_path": null,
+      "name": "Continental Motion Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 1969,
+      "logo_path": null,
+      "name": "Trans World Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1984-05-15",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sandahl Bergman tempted Conan and now she is ready to take on the world!",
+  "title": "She",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 49
+}

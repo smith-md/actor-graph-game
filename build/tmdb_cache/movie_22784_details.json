@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/dtotMnYEGaerCEtgz8PEOug5SDM.jpg",
+  "belongs_to_collection": null,
+  "budget": 600000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 22784,
+  "imdb_id": "tt0068309",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Boxcar Bertha",
+  "overview": "\"Boxcar\" Bertha Thompson, a transient woman in Arkansas during the violence-filled Depression of the early '30s, meets up with rabble-rousing union man \"Big\" Bill Shelly and the two team up to fight the corrupt railroad establishment.",
+  "popularity": 3.8727,
+  "poster_path": "/gF5VslUB2xpWbboc735VVnO7DXh.jpg",
+  "production_companies": [
+    {
+      "id": 9266,
+      "logo_path": "/lRinQ7scVye5N8qkUIoCB4QXbRh.png",
+      "name": "American International Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1972-06-14",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Life made her an outcast. Love made her an outlaw.",
+  "title": "Boxcar Bertha",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 227
+}

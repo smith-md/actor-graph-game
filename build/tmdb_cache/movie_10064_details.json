@@ -1,1 +1,89 @@
-{"adult": false, "backdrop_path": "/secc9CFi6OERSCB6RZ9yusDYlEm.jpg", "belongs_to_collection": null, "budget": 25000000, "genres": [{"id": 18, "name": "Drama"}, {"id": 28, "name": "Action"}, {"id": 53, "name": "Thriller"}], "homepage": "http://millennium-media.net/mf-films/edison", "id": 10064, "imdb_id": "tt0389957", "origin_country": ["US"], "original_language": "en", "original_title": "Edison", "overview": "In the troubled city of Edison, a young journalist, his jaded editor, and an honest investigator from the district attorney's office join forces to gather evidence against corrupt members of an elite police unit.", "popularity": 3.7565, "poster_path": "/7K2amWJd9lASC9R04M7IfVklBc1.jpg", "production_companies": [{"id": 1020, "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png", "name": "Millennium Media", "origin_country": "US"}, {"id": 1204, "logo_path": null, "name": "Ascendant Pictures", "origin_country": "US"}, {"id": 827, "logo_path": "/j7grgeyXof8VBmqbBBSNaqVoOCb.png", "name": "VIP Medienfonds 3", "origin_country": "DE"}, {"id": 214742, "logo_path": "/7rlv0Vg2bIdI0EPlUO1z5VpxsKP.png", "name": "Emmett/Furla Films", "origin_country": "US"}, {"id": 263345, "logo_path": null, "name": "Nu Image Entertainment", "origin_country": "DE"}], "production_countries": [{"iso_3166_1": "US", "name": "United States of America"}, {"iso_3166_1": "DE", "name": "Germany"}], "release_date": "2005-07-29", "revenue": 4165675, "runtime": 99, "spoken_languages": [{"english_name": "English", "iso_639_1": "en", "name": "English"}], "status": "Released", "tagline": "In this city, only the cops are above the law.", "title": "Edison", "video": false, "vote_average": 5.326, "vote_count": 345}
+{
+  "adult": false,
+  "backdrop_path": "/secc9CFi6OERSCB6RZ9yusDYlEm.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://millennium-media.net/mf-films/edison",
+  "id": 10064,
+  "imdb_id": "tt0389957",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Edison",
+  "overview": "In the troubled city of Edison, a young journalist, his jaded editor, and an honest investigator from the district attorney's office join forces to gather evidence against corrupt members of an elite police unit.",
+  "popularity": 3.9312,
+  "poster_path": "/7K2amWJd9lASC9R04M7IfVklBc1.jpg",
+  "production_companies": [
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 1204,
+      "logo_path": null,
+      "name": "Ascendant Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 827,
+      "logo_path": "/j7grgeyXof8VBmqbBBSNaqVoOCb.png",
+      "name": "VIP Medienfonds 3",
+      "origin_country": "DE"
+    },
+    {
+      "id": 214742,
+      "logo_path": "/7rlv0Vg2bIdI0EPlUO1z5VpxsKP.png",
+      "name": "Emmett/Furla Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 263345,
+      "logo_path": null,
+      "name": "Nu Image Entertainment",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2005-07-29",
+  "revenue": 4165675,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In this city, only the cops are above the law.",
+  "title": "Edison",
+  "video": false,
+  "vote_average": 5.345,
+  "vote_count": 354
+}

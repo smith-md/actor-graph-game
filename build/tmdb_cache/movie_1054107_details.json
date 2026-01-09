@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/xUVvjwwGdCjwEdXJrfT2IK2S1Pz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1054107,
+  "imdb_id": "tt20865278",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Tramite amicizia",
+  "overview": "Lorenzo works for a rent-a-friend company. One day, his services are required for suicidial businessman Alberto.",
+  "popularity": 3.3182,
+  "poster_path": "/6Z3LD9rOcS2oyhVpY1EakjYvpto.jpg",
+  "production_companies": [
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1429,
+      "logo_path": "/n1GvY0KLgk3gcEPO07L7nXncB3i.png",
+      "name": "Italian International Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2023-02-14",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tramite amicizia",
+  "video": false,
+  "vote_average": 5.116,
+  "vote_count": 69
+}

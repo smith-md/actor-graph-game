@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/35CW8S5lnxZAebyBoqKASuMVw6w.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 81179,
+  "imdb_id": "tt1876446",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Snowmageddon",
+  "overview": "An Alaskan town is in danger of destruction by a mystical snow globe that appears on a family's doorstep, wrapped like a Christmas gift, and causes deadly \"natural\" disasters in their own town, while simultaneously occurring in the snow globe.",
+  "popularity": 4.3539,
+  "poster_path": "/tCToeT0GjHCEEIGA8n4tJFavYx6.jpg",
+  "production_companies": [
+    {
+      "id": 11295,
+      "logo_path": null,
+      "name": "Snow Globe Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 15645,
+      "logo_path": "/lUIW54MXFbB94IKiVzwTRu1R3UX.png",
+      "name": "Reel One Entertainment",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2011-12-10",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Hell has frozen over.",
+  "title": "Snowmageddon",
+  "video": false,
+  "vote_average": 5.602,
+  "vote_count": 64
+}

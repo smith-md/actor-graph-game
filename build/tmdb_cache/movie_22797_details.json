@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/bjuH03KlisJ78ssHUzXhruoVulp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 22797,
+  "imdb_id": "tt0118804",
+  "origin_country": [
+    "IE"
+  ],
+  "original_language": "en",
+  "original_title": "The Butcher Boy",
+  "overview": "Francie and Joe live the usual playful, fantasy filled childhoods of normal boys. However, with a violent, alcoholic father and a manic depressive, suicidal mother the pressure on Francie to grow up are immense. When Francie's world turns to madness, he tries to counter it with further insanity, with dire consequences.",
+  "popularity": 1.2455,
+  "poster_path": "/9KrClE5Ax6wzCAwgaGRhQI2Eolk.jpg",
+  "production_companies": [
+    {
+      "id": 360,
+      "logo_path": "/mFNYE6Lozy6oxYRxz4ByDVdIHbc.png",
+      "name": "Geffen Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 250166,
+      "logo_path": null,
+      "name": "Butcher Boy Film Productions",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-02-20",
+  "revenue": 5000000,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Irish",
+      "iso_639_1": "ga",
+      "name": "Gaeilge"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This little piggy laughed all the way home!",
+  "title": "The Butcher Boy",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 120
+}

@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/9c7riUPW9E8HhybB2In62yzPdLE.jpg",
+  "belongs_to_collection": {
+    "id": 9046,
+    "name": "A Chinese Ghost Story Collection",
+    "poster_path": "/mvB3awIvOQ6O0FcTSiIqcksUjqo.jpg",
+    "backdrop_path": "/nIXjmTi2ePJyFf2nDngGsWOX7TP.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 9050,
+  "imdb_id": "tt0100625",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "倩女幽魂II人間道",
+  "overview": "In this installment of a phenomenal saga of the super natural, four young people are caught in a tug-o-war of evil between an Imperial Wizard and a corrupt General. Outrageous special effects galore.",
+  "popularity": 3.3757,
+  "poster_path": "/uh9xhW3OX77fisjYNhhy4hrUtRZ.jpg",
+  "production_companies": [
+    {
+      "id": 3618,
+      "logo_path": null,
+      "name": "Film Workshop",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1990-07-13",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Ultimate Ghost Saga Continues.",
+  "title": "A Chinese Ghost Story II",
+  "video": false,
+  "vote_average": 6.71,
+  "vote_count": 136
+}

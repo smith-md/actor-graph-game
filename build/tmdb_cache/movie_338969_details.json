@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/ewxiPfbKklk9FJZ2ECsDyJDQjvX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://toxicavenger.com/",
+  "id": 338969,
+  "imdb_id": "tt1633359",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Toxic Avenger Unrated",
+  "overview": "When a downtrodden janitor, Winston Gooze, is exposed to a catastrophic toxic accident, he’s transformed into a new kind of hero: The Toxic Avenger. Now, Toxie must rise from outcast to savior, taking on ruthless corporate overlords and corrupt forces who threaten his son, his friends, and his community.",
+  "popularity": 17.9028,
+  "poster_path": "/cCWojb6N9UcTzNVtS4bOM3vQ30x.jpg",
+  "production_companies": [
+    {
+      "id": 923,
+      "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+      "name": "Legendary Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3052,
+      "logo_path": "/kqP7DC8cUCzDSI5SXiJKJKmQg1K.png",
+      "name": "Troma Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-28",
+  "revenue": 3328938,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The hero we need now.",
+  "title": "The Toxic Avenger Unrated",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 241
+}

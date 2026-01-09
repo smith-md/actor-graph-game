@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/hm8gTyliPMvcC9ikt0njV18cS3Q.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 795853,
+  "imdb_id": "tt11881160",
+  "origin_country": [
+    "ZA"
+  ],
+  "original_language": "en",
+  "original_title": "Gaia",
+  "overview": "In the depths of an ancient forest, something has been growing. Something older than humanity itself, and perhaps greater too. When a park ranger discovers a man and his son living wild, she stumbles onto a secret that is about to change the world.",
+  "popularity": 3.8428,
+  "poster_path": "/v8cwfPwjHDWf5s5MxvLvcfnxPLL.jpg",
+  "production_companies": [
+    {
+      "id": 149632,
+      "logo_path": "/4mBFZgQjTg1TGxmVqAm0H7za2Gn.png",
+      "name": "Film Initiative Africa",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "release_date": "2021-06-18",
+  "revenue": 47863,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "Afrikaans",
+      "iso_639_1": "af",
+      "name": "Afrikaans"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She will transform us",
+  "title": "Gaia",
+  "video": false,
+  "vote_average": 5.936,
+  "vote_count": 227
+}

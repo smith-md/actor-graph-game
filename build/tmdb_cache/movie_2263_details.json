@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/9ekWqOIkVbhwzheV0gqj5jCNd9d.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 2263,
+  "imdb_id": "tt0100211",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Music Box",
+  "overview": "A lawyer defends her father accused of war crimes, but there is more to the case than she suspects.",
+  "popularity": 2.5877,
+  "poster_path": "/iHumUQOIJWWx6x77fOcB2PVBu53.jpg",
+  "production_companies": [
+    {
+      "id": 275,
+      "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
+      "name": "Carolco Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 8880,
+      "logo_path": "/fE7LBw7Jz8R29EABFGCvWNriZxN.png",
+      "name": "Winkler Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-12-22",
+  "revenue": 6263883,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "As a lawyer all she wanted was the truth. As a daughter all she wanted was his innocence. How well do you really know your father?",
+  "title": "Music Box",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 172
+}

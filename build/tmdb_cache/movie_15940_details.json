@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/PncTIHqTcartOXIvm3TopbL0d7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 15940,
+  "imdb_id": "tt0221889",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Beautiful Creatures",
+  "overview": "When Petula and Dorothy cover up the accidental murder of one jerk boyfriend, they hatch a hilarious scheme to collect a huge ransom.",
+  "popularity": 3.6804,
+  "poster_path": "/zOKaYzY14ZpVy6nG4kAelyLZQ4Q.jpg",
+  "production_companies": [
+    {
+      "id": 284,
+      "logo_path": "/6a26if3IKy7mlrQuGHHVp6ufQtF.png",
+      "name": "DNA Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 52607,
+      "logo_path": null,
+      "name": "DNA Pictures International",
+      "origin_country": ""
+    },
+    {
+      "id": 718,
+      "logo_path": "/fnLOZ8Eufk81K0pSI547IrcTHKQ.png",
+      "name": "Arts Council of England",
+      "origin_country": "GB"
+    },
+    {
+      "id": 52608,
+      "logo_path": null,
+      "name": "Snakeman Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2000-08-23",
+  "revenue": 313768,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Beautiful Creatures",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 77
+}

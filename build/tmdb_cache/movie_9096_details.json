@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/jsnzeDldCBScvH8ocuXG4ZK0Szn.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 9096,
+  "imdb_id": "tt0104839",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Medicine Man",
+  "overview": "An eccentric scientist in the Amazon jungle rejects his research assistant for being a woman, but as bulldozers threaten their work on a potential cancer cure, they learn to collaborate and begin to fall in love.",
+  "popularity": 4.7993,
+  "poster_path": "/lkHqtViTG4Zzh7i9rrtHJGTnEUg.jpg",
+  "production_companies": [
+    {
+      "id": 1504,
+      "logo_path": "/yVAJJ4TgnV1FsDmLh6h5ZNJd0vf.png",
+      "name": "Cinergi Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 915,
+      "logo_path": "/4neXXpjSJDZPBGBnfWtqysB5htV.png",
+      "name": "Hollywood Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-02-07",
+  "revenue": 45500797,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He turned his back on civilization. Only to discover he had the power to save it.",
+  "title": "Medicine Man",
+  "video": false,
+  "vote_average": 5.967,
+  "vote_count": 408
+}

@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/wlPSzVY8Ttn9K5MT6rcyjUrecqh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 788922,
+  "imdb_id": "tt13921588",
+  "origin_country": [
+    "HU"
+  ],
+  "original_language": "hu",
+  "original_title": "Az unoka",
+  "overview": "Rudi, a polite and quiet office hand, shares a special bond with his elderly grandpa. When Grandpa falls victim to a uniquely heartless phone scam that breaks his spirit and his health, Rudi decides he’s not going to let the petty criminals get away with it. But in order to get close to them, he needs to step far out of his comfort zone and turn into a different person. With a band of grey-haired allies on his side, he might just get to the scammers before it’s too late…",
+  "popularity": 3.3244,
+  "poster_path": "/izwRjEfdxI9en3QmzDAjfSZVqlt.jpg",
+  "production_companies": [
+    {
+      "id": 73899,
+      "logo_path": "/hlM9Omz5BG0t5jOl2khg4vkRbOt.png",
+      "name": "Flashback Productions",
+      "origin_country": "HU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2022-01-06",
+  "revenue": 0,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Grandson",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 24
+}

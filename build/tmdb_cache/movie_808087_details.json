@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/wVxXFz8VLmUts2dpJ0rK38Mi4Qv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.mackandritamovie.com/",
+  "id": 808087,
+  "imdb_id": "tt14330236",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mack & Rita",
+  "overview": "A 30-year-old spends a wild weekend in Palm Springs and wakes up to find she has magically transformed into her 70-year-old self.",
+  "popularity": 4.2739,
+  "poster_path": "/rhJDDzGZitrGpW3ELmFhdCEFx9g.jpg",
+  "production_companies": [
+    {
+      "id": 147591,
+      "logo_path": "/uMVoIH3rug7F3BsU1FGVJos4yrR.png",
+      "name": "Hercules Film Fund",
+      "origin_country": "LU"
+    },
+    {
+      "id": 44632,
+      "logo_path": "/neCKH4sJCBhZ1B4QocTM4VXCQOR.png",
+      "name": "Gravitas Ventures",
+      "origin_country": "US"
+    },
+    {
+      "id": 162278,
+      "logo_path": null,
+      "name": "CMS Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    }
+  ],
+  "release_date": "2022-08-12",
+  "revenue": 2535459,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Old soul. New age.",
+  "title": "Mack & Rita",
+  "video": false,
+  "vote_average": 5.396,
+  "vote_count": 72
+}

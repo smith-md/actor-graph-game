@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/lf8IZ86ajGpgbuyHCZrXUeAMmvy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1033462,
+  "imdb_id": "tt10210064",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "749局",
+  "overview": "A traumatized young man with physical abnormalities is forced to join a mysterious bureau to confront a disaster spreading across the earth caused by an unknown creature. He embarks on an adventure uncovering mysteries about his life.",
+  "popularity": 59.5024,
+  "poster_path": "/flykCMw22y6yv8vKnBjmsW3pneo.jpg",
+  "production_companies": [
+    {
+      "id": 139104,
+      "logo_path": null,
+      "name": "华文映像影视传媒有限公司",
+      "origin_country": "CN"
+    },
+    {
+      "id": 3393,
+      "logo_path": "/rv37YfhPg03ugK252E4oXMzgvks.png",
+      "name": "Huayi Brothers Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 148024,
+      "logo_path": "/hwoojywsskxB91jw2QwgLeTwMr.png",
+      "name": "Beijing Culture",
+      "origin_country": "CN"
+    },
+    {
+      "id": 84946,
+      "logo_path": "/8wrAXwrNZ5zHImKb0SyVLQbXkaM.png",
+      "name": "Tencent Penguin Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 239977,
+      "logo_path": null,
+      "name": "北京强电传媒有限公司",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2024-10-01",
+  "revenue": 51706251,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bureau 749",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 68
+}

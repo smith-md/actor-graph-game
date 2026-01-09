@@ -1,0 +1,115 @@
+{
+  "adult": false,
+  "backdrop_path": "/eA4S3tlpYfEA7LTo3GOwYWzUG4z.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "https://www.sneaksthefilm.com/",
+  "id": 1084153,
+  "imdb_id": "tt9254940",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sneaks",
+  "overview": "Ty, a misguided, one-of-a-kind designer sneaker, doesn’t know life outside the comforts of his velvet-lined shoebox. After his sister is stolen by a shady collector, Ty must venture into New York City to find and rescue her. In his adventure, Ty meets a ragtag group of footwear friends from all walks of life who help him find the courage to step outside of his shoebox and find his sole-mate.",
+  "popularity": 5.938,
+  "poster_path": "/3SipvmtH9VOyLmII9JLs34qFfil.jpg",
+  "production_companies": [
+    {
+      "id": 5227,
+      "logo_path": "/oBThFkvaCDyBG8zXDm11vaOQ7HM.png",
+      "name": "Cinema Gypsy Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 192998,
+      "logo_path": "/rVBedZHAAQVlEc9hzaP5xcKKl9I.png",
+      "name": "RTG Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 193000,
+      "logo_path": null,
+      "name": "Modern Toons",
+      "origin_country": "US"
+    },
+    {
+      "id": 151603,
+      "logo_path": null,
+      "name": "Waffle Iron Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 214408,
+      "logo_path": null,
+      "name": "Lengi Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 214409,
+      "logo_path": "/pU8e0fRES91rkw6RE0AyuleRGLV.png",
+      "name": "RB Venture Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 72281,
+      "logo_path": "/FWCnTJNIZ60dHIPGpe6wVDwk1C.png",
+      "name": "Assemblage Entertainment",
+      "origin_country": "IN"
+    },
+    {
+      "id": 189103,
+      "logo_path": "/hu0qcD4k7kfWpdAewqmJSUyZPa7.png",
+      "name": "Ashland Hill Media Finance",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-04-17",
+  "revenue": 876150,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "With the right pair, the sky's the limit.",
+  "title": "Sneaks",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 33
+}

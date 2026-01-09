@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/AllcXFGjhy3NbZSLCnb55LFlNQo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://inter.pyramidefilms.com/pyramidefilms-international-catalogue/holy-cow.html",
+  "id": 1079310,
+  "imdb_id": "tt32086034",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Vingt Dieux",
+  "overview": "In the western part of the French Alps:\r After the drunk driving death of his father, 18-year-old Totone must look after his younger sister. He pursues a €30k Comté cheese award he has no hope of winning. Good thing Marie-Lise takes a liking for him!",
+  "popularity": 3.7212,
+  "poster_path": "/k4LIwOO1GvvHcJOHXsynZsQrNYe.jpg",
+  "production_companies": [
+    {
+      "id": 207,
+      "logo_path": "/uskenzq65wJe0cT0D8StQI3hJnO.png",
+      "name": "Agat Films & Cie / Ex Nihilo",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-12-11",
+  "revenue": 6587495,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Cheese gets better with age… unless you’re the youngest ever Comté champion!",
+  "title": "Holy Cow",
+  "video": false,
+  "vote_average": 6.963,
+  "vote_count": 301
+}

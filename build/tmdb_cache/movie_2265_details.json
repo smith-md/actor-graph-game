@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/k4w45fpj9fyi5oGGFEaeUMxVKSw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 2265,
+  "imdb_id": "tt0091537",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Momo",
+  "overview": "Momo is a young orphan girl who lives in the ruins of an old Roman amphitheater and becomes friends with everybody in the neighborhood. But when a powerful international corporation starts stealing everybody’s time, nobody has any time left for her, let alone their friends or families. Momo, together with Master Hora, the custodian of time, are the only ones who can go up against the time thieves before all is lost forever.",
+  "popularity": 3.6399,
+  "poster_path": "/wth0MTgrfuekyrXxM0d6DjoTV7X.jpg",
+  "production_companies": [
+    {
+      "id": 1042,
+      "logo_path": "/cv8uj3G9fhe7vifZB6yjTzqI45V.png",
+      "name": "Cinecittà Studios",
+      "origin_country": "IT"
+    },
+    {
+      "id": 609,
+      "logo_path": null,
+      "name": "Iduna Film Produktiongesellschaft",
+      "origin_country": "DE"
+    },
+    {
+      "id": 96664,
+      "logo_path": null,
+      "name": "SACIS",
+      "origin_country": ""
+    },
+    {
+      "id": 29165,
+      "logo_path": "/d1wokdgTjC7lJs6yktVd61JZrwD.png",
+      "name": "Rialto Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1986-07-16",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Momo",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 73
+}

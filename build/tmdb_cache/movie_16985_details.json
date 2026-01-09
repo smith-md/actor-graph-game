@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/yDBJsdUBvcvW5PyuYOJQk8VE0HF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 16985,
+  "imdb_id": "tt1015999",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Legally Blondes",
+  "overview": "Moving from England to California, the youngest cousins of Elle Woods must defend themselves when their schools reigning forces turn on the girls and try to frame them for a crime.",
+  "popularity": 5.8757,
+  "poster_path": "/wZnEw0avASZwBWcJo5F1pdJnmO2.jpg",
+  "production_companies": [
+    {
+      "id": 2308,
+      "logo_path": null,
+      "name": "Type A Films",
+      "origin_country": ""
+    },
+    {
+      "id": 3235,
+      "logo_path": "/eQOKf3LynrbL2kFR0seYpGwwUWr.png",
+      "name": "Brookwell-McNamara Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 2527,
+      "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+      "name": "Marc Platt Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-04-28",
+  "revenue": 16487322,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Legally Blondes",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 284
+}

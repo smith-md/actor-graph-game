@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/hJXsJkQC8F3bgUTfsD402uj2Ewf.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.cinemamanagementgroup.com/film/kayara/",
+  "id": 666154,
+  "imdb_id": "tt11846550",
+  "origin_country": [
+    "ES",
+    "PE"
+  ],
+  "original_language": "en",
+  "original_title": "Kayara",
+  "overview": "A courageous and athletic teenager, Kayara dreams that she is destined to be the first female to break into the league of Chasquis - the official messengers of the Incan empire. As she learns what it takes to be a Chasqui along with its challenges, she tackles every mission she gets and discovers the ancient stories of her land and her people.",
+  "popularity": 11.3313,
+  "poster_path": "/tpZdjnoJ6Z3NsSxI6HjAIggrcEv.jpg",
+  "production_companies": [
+    {
+      "id": 116034,
+      "logo_path": "/5hgcRnhPTpEiV3LnZDmDI4UmSmG.png",
+      "name": "Tunche Films",
+      "origin_country": "PE"
+    },
+    {
+      "id": 130164,
+      "logo_path": "/loxu9PYDDAxhyhNZWcR4Hs7P3n0.png",
+      "name": "B-Water Animation Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PE",
+      "name": "Peru"
+    }
+  ],
+  "release_date": "2025-01-02",
+  "revenue": 0,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kayara",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 108
+}

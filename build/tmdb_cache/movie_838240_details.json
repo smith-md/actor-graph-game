@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/hIeEpk2w1dnC9ly9ZJwwbunH2Cx.jpg",
+  "belongs_to_collection": null,
+  "budget": 5300000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://neonrated.com/films/robot-dreams",
+  "id": 838240,
+  "imdb_id": "tt13429870",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Robot Dreams",
+  "overview": "A lonely dog's friendship with his robot companion takes a sad turn when an unexpected malfunction forces him to abandon Robot at the beach. Will Dog ever meet Robot again?",
+  "popularity": 5.308,
+  "poster_path": "/ds402Qq09ybgBcXKiQNTZfzsP5o.jpg",
+  "production_companies": [
+    {
+      "id": 7543,
+      "logo_path": "/iwpC48igJhzUS8U1jE1c3tpb9Eq.png",
+      "name": "Arcadia Motion Pictures",
+      "origin_country": "ES"
+    },
+    {
+      "id": 219048,
+      "logo_path": "/wFMVuHeLhu6ERbz7hkkPXJ5IVRX.png",
+      "name": "LokizFilms",
+      "origin_country": "ES"
+    },
+    {
+      "id": 7792,
+      "logo_path": "/ik1JWvnBmVY6Rrw8iQWB2cPuuf.png",
+      "name": "Noodles Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7395,
+      "logo_path": "/cGOGYYfbJZ1uJHynRIf8yj4phRn.png",
+      "name": "Les films du Worso",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2023-12-06",
+  "revenue": 4656348,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Experience a once-in-a-lifetime friendship beyond your wildest dreams",
+  "title": "Robot Dreams",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 742
+}

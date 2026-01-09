@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/u6JfwUGjZsOgK0tqVYKxZLTHstJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 43329,
+  "imdb_id": "tt0046719",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Apache",
+  "overview": "Following the surrender of Geronimo, Massai, the last Apache warrior is captured and scheduled for transportation to a Florida reservation. On the way he manages to escape and heads for his homeland to win back his girl and settle down to grow crops. His pursuers have other ideas though.",
+  "popularity": 3.2148,
+  "poster_path": "/5Q05vmMNL2syEciyUqOmlEq3JC2.jpg",
+  "production_companies": [
+    {
+      "id": 30724,
+      "logo_path": null,
+      "name": "Hecht-Lancaster Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1954-07-09",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Unconquerable!",
+  "title": "Apache",
+  "video": false,
+  "vote_average": 6.036,
+  "vote_count": 139
+}

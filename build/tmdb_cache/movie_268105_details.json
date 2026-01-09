@@ -1,0 +1,50 @@
+{
+  "adult": false,
+  "backdrop_path": "/egVHpPXhD0cy5UZlgiFy2Zpy1tB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 268105,
+  "imdb_id": "tt3949658",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Los parecidos",
+  "overview": "Eight people experience a strange phenomenon while waiting for a bus at a remote station on a rainy October night.",
+  "popularity": 5.722,
+  "poster_path": "/gFySRlyCiay9wsqPUcIIyXf2VwL.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2015-09-25",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "7 billion people in the world or just one?",
+  "title": "The Similars",
+  "video": false,
+  "vote_average": 5.99,
+  "vote_count": 153
+}

@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/al1DWKnt5kcSeV9onSJTdpqtRmq.jpg",
+  "belongs_to_collection": {
+    "id": 752966,
+    "name": "Hajime no Ippo Collection",
+    "poster_path": "/saDBEfbHHSlhEHeTlDgf5NXVaCT.jpg",
+    "backdrop_path": "/rdBR8h1wC7W13aeQY1p03pT3sDf.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 45288,
+  "imdb_id": "tt3354378",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "はじめの一歩 間柴vs木村 死刑執行",
+  "overview": "Kimura finally has his championship match. It takes place at the annual champion carnival. But now he must face the intense champion, Mashiba for the Junior Lightweight championship.",
+  "popularity": 4.8656,
+  "poster_path": "/9UNq2kogJ0fNA6TfFJdJt0PXOwV.jpg",
+  "production_companies": [
+    {
+      "id": 3464,
+      "logo_path": "/9k0nr75nwnNeT2MHerf1OXJN0hj.png",
+      "name": "Madhouse",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2003-09-05",
+  "revenue": 0,
+  "runtime": 60,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fighting Spirit - Mashiba vs. Kimura",
+  "title": "Fighting Spirit - Mashiba vs. Kimura",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 52
+}

@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/bab3M73GxIf0UfxPeXG1GsGjnXu.jpg",
+  "belongs_to_collection": null,
+  "budget": 60000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 9713,
+  "imdb_id": "tt0120701",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Holy Man",
+  "overview": "In a world governed by commerce, Ricky and Kate, dedicated employees, find their lives forever changed when they encounter the enigmatic stranger G. As they navigate the realm of commerce, their paths intertwine in a surreal dance of love, loss, and redemption. G's presence, amplified through the pervasive influence of globalized television, casts a spell that reverberates beyond Ricky and Kate, impacting the lives of those who bear witness to their intertwined destinies.",
+  "popularity": 3.3493,
+  "poster_path": "/sfJBsOdSbgLLarO6GIS0dWzFcCv.jpg",
+  "production_companies": [
+    {
+      "id": 9195,
+      "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 175,
+      "logo_path": "/Aruhqf13whJ0bNSgtv1gt3xclT6.png",
+      "name": "Caravan Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 961,
+      "logo_path": null,
+      "name": "Roger Birnbaum Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 30,
+      "logo_path": null,
+      "name": "Eddie Murphy Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1998-10-08",
+  "revenue": 12069719,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "God's gift to home shopping.",
+  "title": "Holy Man",
+  "video": false,
+  "vote_average": 5.256,
+  "vote_count": 447
+}

@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/Ao3moi1E8sMxLlMwWRC3w9wZ6TL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.combientumaimes.com/",
+  "id": 5070,
+  "imdb_id": "tt0420555",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Combien tu m'aimes ?",
+  "overview": "After winning the lottery, François goes to a bar in Pigalle and offers one hundred thousand Euros per month to a prostitute named Daniela to live with him as his wife until his money runs out.",
+  "popularity": 3.7148,
+  "poster_path": "/jD18aRBrHtr9YnwJoLdqPntxDGr.jpg",
+  "production_companies": [
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 147,
+      "logo_path": null,
+      "name": "Fidélité Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 796,
+      "logo_path": null,
+      "name": "Pan Européenne Production",
+      "origin_country": ""
+    },
+    {
+      "id": 856,
+      "logo_path": "/3tfzS2CrX6Ntbu927XzHXEPDA6y.png",
+      "name": "Wild Bunch",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1852,
+      "logo_path": null,
+      "name": "Plateau A",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1853,
+      "logo_path": null,
+      "name": "Les Films Action",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2005-10-26",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "French Director Bertrand Blier creates an intensely seductive story about beauty, sex and Love.",
+  "title": "How Much Do You Love Me?",
+  "video": false,
+  "vote_average": 5.873,
+  "vote_count": 209
+}

@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/vP4LyCUQIuuLRGhfr0Xt88BNHE6.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 65229,
+  "imdb_id": "tt1847731",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Tomboy",
+  "overview": "Ten-year-old Laure isn't like most girls. She prefers football to dolls and sweaters to dresses. When Laure and her family move to a new neighbourhood, local girl Lisa mistakes Laure for a boy. Indulging in this exciting new identity, Laure becomes Mickaël, and so begins a summer of long sunny afternoons, playground games and first kisses. Yet with the school term fast approaching, and with suspicions arising amongst friends and family, Laure must face up to an uncertain future.",
+  "popularity": 3.078,
+  "poster_path": "/plEV1Q5u5caYASlG3pq3ON7acN7.jpg",
+  "production_companies": [
+    {
+      "id": 43649,
+      "logo_path": "/5pv3tUlq25IiuMuok57YBZIiKn.png",
+      "name": "Lilies Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7980,
+      "logo_path": null,
+      "name": "Hold Up Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2011-04-20",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There's a new kid in town.",
+  "title": "Tomboy",
+  "video": false,
+  "vote_average": 7.297,
+  "vote_count": 734
+}

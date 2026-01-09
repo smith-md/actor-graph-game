@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/fuXmjoFicUudkABRQu5b2vQPQSt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 1002158,
+  "imdb_id": "tt34388968",
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Rapaces",
+  "overview": "Samuel, a journalist, and Ava, his intern and daughter, cover the murder of a young girl for their magazine. Through their investigation, they discover disturbing similarities with the murder of another woman.",
+  "popularity": 7.4503,
+  "poster_path": "/wXkKQ6OZFsistB2cn8KDOaCuTfY.jpg",
+  "production_companies": [
+    {
+      "id": 96869,
+      "logo_path": null,
+      "name": "Oriflamme Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 49068,
+      "logo_path": null,
+      "name": "24 25 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 109756,
+      "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+      "name": "Auvergne-Rhône-Alpes Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-07-02",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Vultures",
+  "video": false,
+  "vote_average": 6.473,
+  "vote_count": 55
+}

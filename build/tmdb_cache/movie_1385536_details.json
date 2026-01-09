@@ -1,0 +1,117 @@
+{
+  "adult": false,
+  "backdrop_path": "/sTNzZZdIm7csFdgnvP20XmSJRTx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1385536,
+  "imdb_id": "tt34548722",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "Sore: Istri Dari Masa Depan",
+  "overview": "A young man living alone in Croatia encounters a woman who claims to be his wife from the future, sent on a mission to help him correct his bad habits and improve his lifestyle.",
+  "popularity": 7.9317,
+  "poster_path": "/rpqkqiqv1nl9MbdnOLKLbqqkJSj.jpg",
+  "production_companies": [
+    {
+      "id": 123385,
+      "logo_path": "/2ActiUWhBC3CdSny4svvjdjCjp.png",
+      "name": "Cerita Films",
+      "origin_country": "ID"
+    },
+    {
+      "id": 165331,
+      "logo_path": "/wHlXlFytVFeJ2evm4eCD40IFIpp.png",
+      "name": "Imajinari",
+      "origin_country": "ID"
+    },
+    {
+      "id": 63784,
+      "logo_path": "/ecb8LcbexpA6Hes3D9AG447d9Bv.png",
+      "name": "Miles Films",
+      "origin_country": "ID"
+    },
+    {
+      "id": 176757,
+      "logo_path": "/ywDnfd0zM9AnFUAYrt51aymWxNw.png",
+      "name": "Jagartha",
+      "origin_country": "ID"
+    },
+    {
+      "id": 210714,
+      "logo_path": "/we642iLpTr5qvzK2ZZ9enidyigz.png",
+      "name": "Trinity Entertainment Network",
+      "origin_country": "ID"
+    },
+    {
+      "id": 260036,
+      "logo_path": null,
+      "name": "Studio Artemis",
+      "origin_country": "ID"
+    },
+    {
+      "id": 260037,
+      "logo_path": "/s2OCmFvDoHS2y0sJizkJTg2uiOl.png",
+      "name": "Slingshot Pictures",
+      "origin_country": "ID"
+    },
+    {
+      "id": 255250,
+      "logo_path": "/oqJVfOFQunoe0SISeH8P306HR9A.png",
+      "name": "Dwidaya Amadeo Gemintang",
+      "origin_country": "ID"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2025-07-10",
+  "revenue": 7508444,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Croatian",
+      "iso_639_1": "hr",
+      "name": "Hrvatski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Till Death Do us Loop.",
+  "title": "Sore: A Wife from the Future",
+  "video": false,
+  "vote_average": 8.2,
+  "vote_count": 24
+}

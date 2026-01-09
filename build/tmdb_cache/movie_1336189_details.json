@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/hvut2slhhgJ31UNa9Df7jFfAS0x.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.marchedufilm.com/projects/delivery-run/",
+  "id": 1336189,
+  "imdb_id": "tt30219247",
+  "origin_country": [
+    "FI"
+  ],
+  "original_language": "en",
+  "original_title": "Delivery Run",
+  "overview": "A food delivery driver gets caught in a deadly chase in the icy Minnesota wilderness, pursued by a crazed snowplow driver for unknown reasons, facing life-threatening situations and forced to outsmart his relentless pursuer alone.",
+  "popularity": 66.8512,
+  "poster_path": "/eCA5maHDlZtXNTtiLXenwnEw7tc.jpg",
+  "production_companies": [
+    {
+      "id": 236805,
+      "logo_path": "/dDVxKdj774JMxTy49YGBtj840o0.png",
+      "name": "Arctic Renegades",
+      "origin_country": "FI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    }
+  ],
+  "release_date": "2025-09-10",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Outsmart or be overtaken",
+  "title": "Delivery Run",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 26
+}

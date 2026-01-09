@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/ice3dNrgJZmyFXs4InhjAJMIGMS.jpg",
+  "belongs_to_collection": null,
+  "budget": 9000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.lionsgate.com/movies/americana",
+  "id": 934456,
+  "imdb_id": "tt17676734",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Americana",
+  "overview": "When a rare Lakota Ghost Shirt falls into the black market in a small town in South Dakota, the lives of local outsiders and outcasts violently intertwine.",
+  "popularity": 4.6369,
+  "poster_path": "/83Gis9pOKCvAdaKXCNChey4IZyL.jpg",
+  "production_companies": [
+    {
+      "id": 13240,
+      "logo_path": "/aTc07YaNHo8WNgkQSnvLmG6w4nW.png",
+      "name": "Bron Studios",
+      "origin_country": "CA"
+    },
+    {
+      "id": 53152,
+      "logo_path": "/dbzRlKx3HesH6CkTwZkhpJVRvIg.png",
+      "name": "Creative Wealth Media Finance",
+      "origin_country": "CA"
+    },
+    {
+      "id": 194285,
+      "logo_path": null,
+      "name": "Saks Picture Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 37504,
+      "logo_path": "/k4A2f5FeH96xamI0ZuXlEQAerog.png",
+      "name": "Rhea Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 147591,
+      "logo_path": "/uMVoIH3rug7F3BsU1FGVJos4yrR.png",
+      "name": "Hercules Film Fund",
+      "origin_country": "LU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-15",
+  "revenue": 500000,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Welcome to the new west.",
+  "title": "Americana",
+  "video": false,
+  "vote_average": 6.311,
+  "vote_count": 98
+}

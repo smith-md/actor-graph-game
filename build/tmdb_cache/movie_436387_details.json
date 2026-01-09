@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/mlkOIAgd9OfNpKNMQDLYIJus9VV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 436387,
+  "imdb_id": "tt3645988",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Abgeschnitten",
+  "overview": "A coroner finds a capsule in the head of a heavily mutilated corpse, containing a phone number and single word: the name of his daughter.",
+  "popularity": 2.6569,
+  "poster_path": "/927kgdzuNNHX6wubSbqi50kZse0.jpg",
+  "production_companies": [
+    {
+      "id": 52799,
+      "logo_path": "/AvnmM5SmWUj5zSUmj6H5LmZnpZp.png",
+      "name": "Syrreal Entertainment",
+      "origin_country": "DE"
+    },
+    {
+      "id": 13587,
+      "logo_path": "/e1xxYKGJ9WjnjvkAWDUwmwruuuG.png",
+      "name": "Ziegler Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2018-10-11",
+  "revenue": 1228051,
+  "runtime": 132,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Cut Off",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 291
+}

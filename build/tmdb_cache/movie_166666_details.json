@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/dzm6sNpz9UwG208xyGKAJ6e4ybA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 166666,
+  "imdb_id": "tt1667355",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "3096 Tage",
+  "overview": "A young Austrian girl is kidnapped and held in captivity for eight years. Based on the real-life case of Natascha Kampusch.",
+  "popularity": 3.1616,
+  "poster_path": "/x2bybyGMtyFSVNjFSxeDNu2fnPD.jpg",
+  "production_companies": [
+    {
+      "id": 47,
+      "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 7201,
+      "logo_path": "/ljV8ZT3CIYCEIEDlTyBliXJVCZr.png",
+      "name": "NDR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 162,
+      "logo_path": "/pIK5tsFVxjoXTJGcd0nYhiL1kn1.png",
+      "name": "BR",
+      "origin_country": "DE"
+    },
+    {
+      "id": 986,
+      "logo_path": "/qDV8nLH9pjElZSnPmg29mzzNlTo.png",
+      "name": "ARD Degeto",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2013-02-21",
+  "revenue": 6677474,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The story of Natasha Kampusch",
+  "title": "3096 Days",
+  "video": false,
+  "vote_average": 7.389,
+  "vote_count": 965
+}

@@ -1,0 +1,56 @@
+{
+  "adult": false,
+  "backdrop_path": "/qegwTsiVjrNY9nwkwzLJQ5r4204.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "http://statusupdatemovie.co.uk",
+  "id": 416494,
+  "imdb_id": "tt5692390",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Status Update",
+  "overview": "After being uprooted by his parents' separation and unable to fit into his new hometown, a teenager stumbles upon a magical app that causes his social media updates to come true.",
+  "popularity": 5.0684,
+  "poster_path": "/E4twRNScyq3g6tRpvK6X8LdD1z.jpg",
+  "production_companies": [
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2018-02-09",
+  "revenue": 416178,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Imagine if every time you updated your status your dreams came true",
+  "title": "Status Update",
+  "video": false,
+  "vote_average": 7.278,
+  "vote_count": 560
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/ez0zntkwczsv1d1n8WFhMe5rtq5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 80184,
+  "imdb_id": "tt1772250",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "La cara oculta",
+  "overview": "A Spanish orchestra conductor deals with the mysterious disappearance of his girlfriend.",
+  "popularity": 3.8964,
+  "poster_path": "/sk6D07ntxMgzqArCq1ufHSvxZvt.jpg",
+  "production_companies": [
+    {
+      "id": 7062,
+      "logo_path": "/lyjwhVUoPpfBy87TbPpoMTsULHx.png",
+      "name": "Dynamo",
+      "origin_country": "CO"
+    },
+    {
+      "id": 207356,
+      "logo_path": null,
+      "name": "Fox International Productions Spain",
+      "origin_country": "ES"
+    },
+    {
+      "id": 26174,
+      "logo_path": "/zXj7grtt7yW8pcaSZM0Wfefy634.png",
+      "name": "Avalon",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CO",
+      "name": "Colombia"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2011-09-16",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There are doors that should never be opened.",
+  "title": "The Hidden Face",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 1098
+}

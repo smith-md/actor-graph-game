@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/9A0wQG38VdEu3DYh8HzXKXKhA6g.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.paramountplus.com/movies/video/0rGhxcREd3RTSw_bnVFG5S8JRwQ57JEV/",
+  "id": 1287536,
+  "imdb_id": "tt32621553",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dora and the Search for Sol Dorado",
+  "overview": "Dora, Diego, and their new friends trek through the perilous dangers of the Amazonian jungle in search of the ancient and powerful treasure of Sol Dorado to keep it out of enemy hands.",
+  "popularity": 8.5588,
+  "poster_path": "/r3d6u2n7iPoWNsSWwlJJWrDblOH.jpg",
+  "production_companies": [
+    {
+      "id": 2348,
+      "logo_path": "/oydqrfwRAm6qqdYbxuMmmPsVi87.png",
+      "name": "Nickelodeon Movies",
+      "origin_country": "US"
+    },
+    {
+      "id": 5371,
+      "logo_path": "/2GFJ3jJ7dhjqcOGj41aTwd3OhQT.png",
+      "name": "Nickelodeon Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-02",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "C'mon, Vámonos!",
+  "title": "Dora and the Search for Sol Dorado",
+  "video": false,
+  "vote_average": 6.66,
+  "vote_count": 103
+}

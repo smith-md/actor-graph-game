@@ -1,0 +1,50 @@
+{
+  "adult": false,
+  "backdrop_path": "/ndrSIJ58NXTAAjuqqtt4ZO5Lw5z.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 14025,
+  "imdb_id": "tt0839880",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lake Dead",
+  "overview": "Three sisters and a group of their friends take a trip to the home of the recently deceased grandfather -- who died a particularly grisly death -- to learn more about the promise of an inheritance, only to encounter a family of psychos who have taken up residence in the old man's cabin.",
+  "popularity": 3.5365,
+  "poster_path": "/ghGlBeist58eJQkzGUZOPiQQqC3.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-11-09",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Beneath the calmest surface lies the deepest nightmare.",
+  "title": "Lake Dead",
+  "video": false,
+  "vote_average": 4.2,
+  "vote_count": 57
+}

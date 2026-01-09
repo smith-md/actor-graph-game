@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/cPq54NGwyMHy3Zny0wUUiry78aZ.jpg",
+  "belongs_to_collection": {
+    "id": 931568,
+    "name": "The Adventures of Sherlock Holmes and Dr. Watson",
+    "poster_path": "/htRBwtAlyf2Em2BV0BwNI4Eqob0.jpg",
+    "backdrop_path": "/oSb2aPX72amvjl6RLRwHQnmUWwJ.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 270393,
+  "imdb_id": "tt0091942",
+  "origin_country": [
+    "SU"
+  ],
+  "original_language": "ru",
+  "original_title": "Шерлок Холмс в XX веке",
+  "overview": "This film version was released before the premiere of the full two-part television version (The Adventures of Sherlock Holmes and Dr. Watson: The Twentieth Century Approaches). In this version the entire plot of the story “Bruce-Partington Drawings” was deleted.",
+  "popularity": 2.8945,
+  "poster_path": "/c6WqhhbMnekdDqjMpgbkcpgAf4Y.jpg",
+  "production_companies": [
+    {
+      "id": 10845,
+      "logo_path": "/8qh5BEyKYOQ0e81LPbvWHQvyOy5.png",
+      "name": "Lenfilm",
+      "origin_country": "SU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "release_date": "1987-04-01",
+  "revenue": 0,
+  "runtime": 149,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sherlock Holmes in the 20th Century",
+  "video": false,
+  "vote_average": 7.184,
+  "vote_count": 49
+}

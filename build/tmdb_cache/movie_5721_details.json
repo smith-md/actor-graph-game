@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/uLu8zcwmR7qjkkF3zkScm6Sjh2v.jpg",
+  "belongs_to_collection": {
+    "id": 1438358,
+    "name": "Russ Meyer's Vixens Trilogy",
+    "poster_path": "/3vLvjBUg2svG9vfpj9wMZZkJHt1.jpg",
+    "backdrop_path": "/zNcvyBzzYcRoxqB6n5X6ZdtDQWu.jpg"
+  },
+  "budget": 73000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 5721,
+  "imdb_id": "tt0063787",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Vixen!",
+  "overview": "In a Canadian mountain resort, Vixen resides with her naive pilot husband. While he's away flying in tourists, she sleeps with practically everybody including a husband and his wife, and even her biker brother. However, the only one she won't bed is her brother's friend... who is Black.",
+  "popularity": 7.2143,
+  "poster_path": "/9KMZWDA3xTrlgrScqdMisINQmsh.jpg",
+  "production_companies": [
+    {
+      "id": 54599,
+      "logo_path": null,
+      "name": "Goldstein Films",
+      "origin_country": ""
+    },
+    {
+      "id": 54600,
+      "logo_path": null,
+      "name": "Coldstream Films",
+      "origin_country": ""
+    },
+    {
+      "id": 24108,
+      "logo_path": null,
+      "name": "Eve Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1968-10-15",
+  "revenue": 8000000,
+  "runtime": 71,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Is she woman... or animal?",
+  "title": "Vixen!",
+  "video": false,
+  "vote_average": 5.449,
+  "vote_count": 99
+}

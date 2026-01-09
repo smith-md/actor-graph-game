@@ -1,0 +1,119 @@
+{
+  "adult": false,
+  "backdrop_path": "/iE8NYo7lotfhLdBi0NSUxJ7iZr0.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.edmondthefilm.com/",
+  "id": 18191,
+  "imdb_id": "tt0443496",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Edmond",
+  "overview": "Seemingly mild-mannered businessman Edmond Burke visits a fortuneteller and hears a remark that spurs him to leave his wife abruptly and seek what is missing from his life. Encounters with strangers and unsavory people weaken the barriers encompassing his long-suppressed rage, until Edmond explodes in violence.",
+  "popularity": 3.7017,
+  "poster_path": "/2VFdGJDrl5n9WoC7d4I07hN3v5c.jpg",
+  "production_companies": [
+    {
+      "id": 15231,
+      "logo_path": "/iFbzMtXFBv2ekA9Ldrw6LqjLrvX.png",
+      "name": "Muse Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 90,
+      "logo_path": "/51jYOA5Mv0OF7voAi4YOZhJFq2G.png",
+      "name": "Tartan Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 14589,
+      "logo_path": "/5WrEKsyGdTfT3T075EukSoIuxSU.png",
+      "name": "Code Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 200250,
+      "logo_path": "/tILYlpIz4b5mZpUCr24SOo79ZNc.png",
+      "name": "Werner Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 5113,
+      "logo_path": "/qd5ru3vUvGb6dhXSzkHn7EQoX2D.png",
+      "name": "120dB Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 2217,
+      "logo_path": null,
+      "name": "Pretty Dangerous Films",
+      "origin_country": ""
+    },
+    {
+      "id": 4302,
+      "logo_path": null,
+      "name": "Dog Pond Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 266435,
+      "logo_path": null,
+      "name": "The Hecht Company",
+      "origin_country": ""
+    },
+    {
+      "id": 3993,
+      "logo_path": null,
+      "name": "Red Hen Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 266436,
+      "logo_path": null,
+      "name": "Fully Loaded Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-08-31",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every fear hides a wish.",
+  "title": "Edmond",
+  "video": false,
+  "vote_average": 5.922,
+  "vote_count": 205
+}

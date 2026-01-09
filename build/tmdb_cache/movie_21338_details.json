@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/lm3kcXEV6Q71QTNDBIITamoTR1A.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 21338,
+  "imdb_id": "tt0102984",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Stone Cold",
+  "overview": "Joe Huff is a tough, loner cop with a flair for infiltrating dangerous biker gangs. The FBI blackmail Huff into an undercover operation that entails infiltrating The Brotherhood – a powerful Mississippi biker gang linked in the murder of government officials as well as dealing drugs with the mafia.",
+  "popularity": 4.8588,
+  "poster_path": "/4nW7wZKKjzZ5zriDfIjpJcZIyZS.jpg",
+  "production_companies": [
+    {
+      "id": 3470,
+      "logo_path": null,
+      "name": "Stone Group Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 3603,
+      "logo_path": "/eobbNnKZHAh6orRLKEduWRmZtBu.png",
+      "name": "Vision International",
+      "origin_country": ""
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-05-17",
+  "revenue": 9151887,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A cop who enforces his own brand of justice.",
+  "title": "Stone Cold",
+  "video": false,
+  "vote_average": 6.149,
+  "vote_count": 201
+}

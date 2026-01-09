@@ -1,0 +1,96 @@
+{
+  "adult": false,
+  "backdrop_path": "/fVpgUymenj6anrHCSsAkoPbLIwB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 522925,
+  "imdb_id": "tt8399658",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Dalíland",
+  "overview": "In 1973, a young gallery assistant goes on a wild adventure behind the scenes as he helps aging genius Salvador Dali prepare for a big show in New York.",
+  "popularity": 3.4432,
+  "poster_path": "/4RE6PmgeE6Kz0fur2oiiYZ50R0c.jpg",
+  "production_companies": [
+    {
+      "id": 6455,
+      "logo_path": "/mc3rMk0tW5ajjbfqkB8xlp85Cdy.png",
+      "name": "Pressman Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 16923,
+      "logo_path": null,
+      "name": "Zephyr Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 153770,
+      "logo_path": null,
+      "name": "Serein Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 3567,
+      "logo_path": null,
+      "name": "Room 9 Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 17304,
+      "logo_path": null,
+      "name": "Neon Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 112109,
+      "logo_path": null,
+      "name": "Popcorn Group",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-09-29",
+  "revenue": 497933,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The journey into excess starts with a moustache.",
+  "title": "Dalíland",
+  "video": false,
+  "vote_average": 5.974,
+  "vote_count": 77
+}

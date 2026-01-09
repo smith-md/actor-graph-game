@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/5UiC1NvHMH4YVCc88hSwrfZRSSl.jpg",
+  "belongs_to_collection": {
+    "id": 1157505,
+    "name": "The Ranown Cycle Westerns Collection",
+    "poster_path": "/q2fKOebNtDh1QoES2fFpaKcKEOY.jpg",
+    "backdrop_path": "/g2qrWy3eWO8qjpyanm5yH04zIK4.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 27644,
+  "imdb_id": "tt0053220",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ride Lonesome",
+  "overview": "On the way to pick up the bounty on a wanted murderer, a bounty hunter stops at a staging post where he is forced to continue his journey with two outlaws who want the murderer for their own reasons and a recently-widowed woman, with the murderer's brother and his men in hot pursuit.",
+  "popularity": 2.6415,
+  "poster_path": "/4fQW6hAFW0YrQXrDUaMweNI1SgQ.jpg",
+  "production_companies": [
+    {
+      "id": 16326,
+      "logo_path": null,
+      "name": "Ranown Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1959-02-01",
+  "revenue": 0,
+  "runtime": 73,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Scorching lead-hot action all the way!",
+  "title": "Ride Lonesome",
+  "video": false,
+  "vote_average": 6.681,
+  "vote_count": 155
+}

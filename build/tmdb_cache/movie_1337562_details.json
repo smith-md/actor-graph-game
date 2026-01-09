@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/5iLtvZuiM7QmNjIUXVajdjtCXwb.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.neonrated.com/film/splitsville",
+  "id": 1337562,
+  "imdb_id": "tt33247023",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Splitsville",
+  "overview": "After Ashley asks for a divorce, good-natured Carey runs to his friends, Julie and Paul, for support. He’s shocked to discover that the secret to their happiness is an open marriage, that is until Carey crosses the line and throws all of their relationships into chaos.",
+  "popularity": 7.7733,
+  "poster_path": "/gxCv6kUdywxYzIXX6xYcmX5APUV.jpg",
+  "production_companies": [
+    {
+      "id": 90733,
+      "logo_path": "/3K9wCZTyDgop3ITK1rDi6T2PckE.png",
+      "name": "NEON",
+      "origin_country": "US"
+    },
+    {
+      "id": 99366,
+      "logo_path": "/r5UIazzNzEOUSEbxOfwWzEOBe5F.png",
+      "name": "Topic Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 118408,
+      "logo_path": "/9OFbJA1VPxwzOxHh8idAQX67W4D.png",
+      "name": "Watch This Ready",
+      "origin_country": "US"
+    },
+    {
+      "id": 148258,
+      "logo_path": "/7jE6IT7EMkC7g6frJUZRLFrdgNe.png",
+      "name": "TeaTime Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 168539,
+      "logo_path": "/sn968qmNPfPDbiYts8c5eDvjo4S.png",
+      "name": "FirstGen Content",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-21",
+  "revenue": 3255315,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An unromantic comedy.",
+  "title": "Splitsville",
+  "video": false,
+  "vote_average": 6.348,
+  "vote_count": 128
+}

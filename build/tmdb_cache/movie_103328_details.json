@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/dCuwNZp2DLOWr8qV0GDBHINhVZM.jpg",
+  "belongs_to_collection": null,
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 103328,
+  "imdb_id": "tt2076220",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Holy Motors",
+  "overview": "We follow 24 hours in the life of a being moving from life to life like a cold and solitary assassin moving from hit to hit. In each of these interwoven lives, the being possesses an entirely distinct identity: sometimes a man, sometimes a woman, sometimes youthful, sometimes old. By turns murderer, beggar, company chairman, monstrous creature, worker, family man.",
+  "popularity": 3.2668,
+  "poster_path": "/4ZuTrrDQhCS9f6KzIX6HfsjjyMd.jpg",
+  "production_companies": [
+    {
+      "id": 27124,
+      "logo_path": null,
+      "name": "Pierre Grise Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 148044,
+      "logo_path": null,
+      "name": "Théo Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 254,
+      "logo_path": "/ijBPMFIV5nWzjVupZWIlt4Limlf.png",
+      "name": "Pandora Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 10946,
+      "logo_path": "/gk4SFkJ3G49gGL308zymD8QGNw.png",
+      "name": "WDR/Arte",
+      "origin_country": "DE"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2012-07-02",
+  "revenue": 641100,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Holy Motors",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 1221
+}

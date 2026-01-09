@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/w2IVckABEbAZOhuuLcQRHdyI6uk.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.asabovesobelowmovie.com/",
+  "id": 256274,
+  "imdb_id": "tt2870612",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "As Above, So Below",
+  "overview": "When a team of explorers ventures into the uncharted maze of bones that lies beneath the streets of Paris, they embark on a journey into madness and terror.",
+  "popularity": 5.5964,
+  "poster_path": "/oJZSajKLJkoTOzSZQN2ZwRnPwHZ.jpg",
+  "production_companies": [
+    {
+      "id": 66930,
+      "logo_path": null,
+      "name": "Brothers Dowdle Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 923,
+      "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+      "name": "Legendary Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-08-14",
+  "revenue": 41900000,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The only way out is down.",
+  "title": "As Above, So Below",
+  "video": false,
+  "vote_average": 6.732,
+  "vote_count": 3746
+}

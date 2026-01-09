@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg",
+  "belongs_to_collection": {
+    "id": 111751,
+    "name": "Texas Chainsaw Massacre Collection",
+    "poster_path": "/hCyN9E7Vxe6LOZhYwiqJTb0u4No.jpg",
+    "backdrop_path": "/wvBx1Q1FcQE1BPLfBbgA3y9aaS1.jpg"
+  },
+  "budget": 140000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 30497,
+  "imdb_id": "tt0072271",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Texas Chain Saw Massacre",
+  "overview": "Five friends head out to rural Texas to visit the grave of a grandfather. On the way, they stumble across what appears to be a deserted house, only to discover something sinister within. Something armed with a chainsaw.",
+  "popularity": 5.1014,
+  "poster_path": "/kI1XaqKxrccSHUCEyxNUzMnVkJZ.jpg",
+  "production_companies": [
+    {
+      "id": 1197,
+      "logo_path": null,
+      "name": "Vortex",
+      "origin_country": "US"
+    },
+    {
+      "id": 212462,
+      "logo_path": null,
+      "name": "Henkel Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 199793,
+      "logo_path": null,
+      "name": "Hooper Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 81081,
+      "logo_path": null,
+      "name": "Bryanston Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1974-10-11",
+  "revenue": 30922680,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Who will survive and what will be left of them?",
+  "title": "The Texas Chain Saw Massacre",
+  "video": false,
+  "vote_average": 7.278,
+  "vote_count": 3667
+}

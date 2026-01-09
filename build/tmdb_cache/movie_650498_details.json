@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/xC9s8cOWtojn5UAmrDvB7iaakrr.jpg",
+  "belongs_to_collection": {
+    "id": 741633,
+    "name": "Twittering Birds Never Fly  Collection",
+    "poster_path": "/nrdFswFCLoptkf25cn2Ryd4jAIa.jpg",
+    "backdrop_path": "/578hTwuwc5SsbE82MXlx4HUdxDZ.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 650498,
+  "imdb_id": "tt10675392",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "囀る鳥は羽ばたかない The clouds gather",
+  "overview": "In the hyper-masculine criminal underworld, a masochistic high-ranking yakuza and his newly-assigned bodyguard become increasingly drawn to each other.",
+  "popularity": 5.9739,
+  "poster_path": "/rFfA75af7x1IVZq25IWVqvDhgN8.jpg",
+  "production_companies": [
+    {
+      "id": 125686,
+      "logo_path": "/supW1CgAWNA52JLYZGlxEN0XIoZ.png",
+      "name": "GRIZZLY",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2020-02-27",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Twittering Birds Never Fly: The Clouds Gather",
+  "video": false,
+  "vote_average": 6.606,
+  "vote_count": 34
+}

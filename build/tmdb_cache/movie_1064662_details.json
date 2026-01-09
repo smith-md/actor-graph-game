@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/uMi9UGorkGQ8geZTSXk1esrW0mP.jpg",
+  "belongs_to_collection": {
+    "id": 1064664,
+    "name": "My Beautiful Man Collection",
+    "poster_path": "/zWws1vHAxABGOmmlevdfNJf6WYJ.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1064662,
+  "imdb_id": "tt27190932",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "劇場版 美しい彼〜eternal〜",
+  "overview": "As college graduation nears, Hira struggles with Kiyoi's growing fame as an actor, while Kiyoi just wants an equal relationship. Can their love survive?",
+  "popularity": 4.1725,
+  "poster_path": "/ttGWPx69IfxkZUKAW2aqVBPG2Ad.jpg",
+  "production_companies": [
+    {
+      "id": 5071,
+      "logo_path": "/zLaVXa4mmUNdvo1HbA7c9POfCoI.png",
+      "name": "Culture Publishers",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2023-04-07",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "My Beautiful Man: Eternal",
+  "video": false,
+  "vote_average": 8.0,
+  "vote_count": 22
+}

@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/6oM1Im24YnH6RTmziatTIcxRRG5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1009679,
+  "imdb_id": "tt15353574",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hard Miles",
+  "overview": "A strong-willed social worker at a youth prison assembles a cycling team of teenage convicts and takes them on a transformative 1000-mile ride. Inspired by the life of Greg Townsend and the Ridgeview Academy Cycling Team. This is the story of how these troubled young men found another gear.",
+  "popularity": 2.9771,
+  "poster_path": "/pU50LpVZ7doTyJeC9JaqcbeH4ef.jpg",
+  "production_companies": [
+    {
+      "id": 44080,
+      "logo_path": "/ir28uhoNOQSN8gjQ8Ruojgh8Og7.png",
+      "name": "Pensé Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-04-19",
+  "revenue": 375541,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Push to the limit.",
+  "title": "Hard Miles",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 33
+}

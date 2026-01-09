@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/ow2boWFZWza7D4qDvJohg9GJVoH.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.searchlightpictures.com/thirteen",
+  "id": 11023,
+  "imdb_id": "tt0328538",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Thirteen",
+  "overview": "When 13-year-old Tracy befriends Evie, the most popular girl in school, her life is turned upside down as Evie introduces her to a world of sex, drugs, and money. But it isn’t long before Tracy’s new lifestyle begins to take a heavy toll on her and her family.",
+  "popularity": 4.0287,
+  "poster_path": "/uzTLlZrNF6rMPBh5mUQu6vLnTtX.jpg",
+  "production_companies": [
+    {
+      "id": 1187,
+      "logo_path": null,
+      "name": "Michael London Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 10163,
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 23912,
+      "logo_path": null,
+      "name": "Antidote Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 1143,
+      "logo_path": null,
+      "name": "Sound for Film",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-08-20",
+  "revenue": 10128960,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's happening so fast.",
+  "title": "Thirteen",
+  "video": false,
+  "vote_average": 6.66,
+  "vote_count": 1716
+}

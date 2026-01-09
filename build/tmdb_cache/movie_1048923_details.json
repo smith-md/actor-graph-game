@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/64e7pAhWWkls8BJAyNOpjom7256.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.empirewaistfilm.com/",
+  "id": 1048923,
+  "imdb_id": "tt15823456",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Empire Waist",
+  "overview": "Lenore Miller’s size has always earned her teases and jeers in her school’s hallways, but this clothes-loving teenager is about to set the world on fire with her own line of inclusive fashion designs.",
+  "popularity": 8.3187,
+  "poster_path": "/cha9illdJQ5CEIrVjsmi57xMFt3.jpg",
+  "production_companies": [
+    {
+      "id": 112397,
+      "logo_path": "/rFyhrN607SUIlQ7wyH8lQOemqz3.png",
+      "name": "American High",
+      "origin_country": "US"
+    },
+    {
+      "id": 40240,
+      "logo_path": null,
+      "name": "Anyway Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 186268,
+      "logo_path": null,
+      "name": "P&G Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 144610,
+      "logo_path": "/879WnwsOH1oP6NlLY7ChD6vL6lh.png",
+      "name": "Wayfarer Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 267784,
+      "logo_path": null,
+      "name": "Try Anyway Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-09-27",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Be yourself. It's the latest fashion.",
+  "title": "Empire Waist",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 22
+}

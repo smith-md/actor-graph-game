@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/rdtylu8IGowaxKGRKN9fFbdwSuA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81739744",
+  "id": 1429744,
+  "imdb_id": "tt35669009",
+  "origin_country": [
+    "TH"
+  ],
+  "original_language": "th",
+  "original_title": "ปากกัด ตีนถีบ",
+  "overview": "In a fight for survival against a horrifying army of zombies, a former Muay Thai fighter must use skill, speed and grit to save his girlfriend.",
+  "popularity": 5.9401,
+  "poster_path": "/gNOQzvuVJpB8nHnrtsu03kv19G7.jpg",
+  "production_companies": [
+    {
+      "id": 15484,
+      "logo_path": "/xXDT7uk6tDabMZAUUS2s8PJiSUu.png",
+      "name": "Kantana Motion Pictures",
+      "origin_country": "TH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "release_date": "2025-07-08",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This barehanded fighter will knock down a horde of zombies.",
+  "title": "Ziam",
+  "video": false,
+  "vote_average": 6.67,
+  "vote_count": 203
+}

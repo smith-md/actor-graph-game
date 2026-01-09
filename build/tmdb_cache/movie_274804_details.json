@@ -1,0 +1,135 @@
+{
+  "adult": false,
+  "backdrop_path": "/hi55KPtv5K8HxXwhp7ZahF2igEU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://wwws.warnerbros.co.jp/monsterz-movie/index.html",
+  "id": 274804,
+  "imdb_id": "tt3024404",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "MONSTERZ モンスターズ",
+  "overview": "A somber paranormal thriller that offers an original, exciting variation of the tale of two men with supernatural abilities, locked in a duel to the death. A battle between a man who can control people with a stare, and the only man he cannot control. When their fate cross, the survival battle begins. The two men with inevitable fate, who will survive?",
+  "popularity": 3.091,
+  "poster_path": "/segpN4WxESpyy5id0KksMUOvL7i.jpg",
+  "production_companies": [
+    {
+      "id": 5072,
+      "logo_path": null,
+      "name": "Twins Japan",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6755,
+      "logo_path": "/bWiM2iY82B32NGmPCOFatgfekIR.png",
+      "name": "Nippon Television Network Corporation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3627,
+      "logo_path": "/pBfPYpzg5o3EoBPfrFKzTRi8MGr.png",
+      "name": "Warner Bros. Japan",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4330,
+      "logo_path": "/n8v5Ii8FCPHAg0KaIXviDRFSqhG.png",
+      "name": "Horipro",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11727,
+      "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+      "name": "Yomiuri Telecasting Corporation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11725,
+      "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+      "name": "VAP",
+      "origin_country": "JP"
+    },
+    {
+      "id": 14789,
+      "logo_path": "/dThbJAnUAeQCANrj3kV7RGnLM7R.png",
+      "name": "D.N. Dream Partners",
+      "origin_country": "JP"
+    },
+    {
+      "id": 8157,
+      "logo_path": "/pEqcMX1aG3JvtDgfh2wNZJLCcb4.png",
+      "name": "jeki",
+      "origin_country": "JP"
+    },
+    {
+      "id": 78956,
+      "logo_path": "/rI2oiwZKzD4sTVfDgRvLJwWK1Qe.png",
+      "name": "Sapporo Television Broadcasting Company",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11723,
+      "logo_path": "/2pAs8G6yRArSEcZ3VA6bRyVl0uJ.png",
+      "name": "Miyagi Television Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11724,
+      "logo_path": "/tFePbc4dqJzcUaHeKAQkhRgT5zJ.png",
+      "name": "Shizuoka Daiichi Television",
+      "origin_country": "JP"
+    },
+    {
+      "id": 33677,
+      "logo_path": "/85U2onICiQV9fMHORxw8EWSQ6MZ.png",
+      "name": "Chukyo TV Broadcasting Company",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11722,
+      "logo_path": "/4OpeDJ8jzPeaSiOlzGCnHjm6tpt.png",
+      "name": "Hiroshima Telecasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11720,
+      "logo_path": "/3LCoBMbwUQcKqum0VDa66fJ969e.png",
+      "name": "Fukuoka Broadcasting System",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2014-05-30",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Monsterz",
+  "video": false,
+  "vote_average": 5.646,
+  "vote_count": 24
+}

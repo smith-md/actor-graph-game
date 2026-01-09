@@ -1,0 +1,163 @@
+{
+  "adult": false,
+  "backdrop_path": "/92Oqn01ncWZU5pvYY9wLST5joUM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 30529,
+  "imdb_id": "tt0117959",
+  "origin_country": [
+    "IT",
+    "CH"
+  ],
+  "original_language": "it",
+  "original_title": "La tregua",
+  "overview": "After the liberation of Auschwitz, an Italian prisoner of War begins a torturous voyage home to Turin, through a Europe caught between war and peace.",
+  "popularity": 4.2921,
+  "poster_path": "/k4GWXtFvRQ8zKuf6ICOpjcyNjYE.jpg",
+  "production_companies": [
+    {
+      "id": 826,
+      "logo_path": "/aqiR1prl8N00FfkC4FCJWsOpZIy.png",
+      "name": "Capitol Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 181,
+      "logo_path": "/A8SjepJ332C0YMamdFEMco0nstt.png",
+      "name": "Channel Four Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 232,
+      "logo_path": null,
+      "name": "3 Emme Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    },
+    {
+      "id": 317,
+      "logo_path": "/HJj0J9Tk6AGcLpL4O7mI3bsccM.png",
+      "name": "Istituto Luce Cinecittà",
+      "origin_country": "IT"
+    },
+    {
+      "id": 262420,
+      "logo_path": null,
+      "name": "Produttori Indipendenti Cinematografici Consorzio",
+      "origin_country": ""
+    },
+    {
+      "id": 2359,
+      "logo_path": null,
+      "name": "Stéphan Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 581,
+      "logo_path": "/pzJLNyKypqwAgLR4OjmaxA5WEjm.png",
+      "name": "UGC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 55381,
+      "logo_path": null,
+      "name": "DaZu Film",
+      "origin_country": ""
+    },
+    {
+      "id": 5414,
+      "logo_path": "/n4en5473XwdNOmu1BmlCXDzPGGL.png",
+      "name": "T&C Film",
+      "origin_country": "CH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1997-02-14",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "At the end of the war, a group of Italian prisoners got lost on their way home. Their journey back transformed everyone they met along the way.",
+  "title": "The Truce",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 76
+}

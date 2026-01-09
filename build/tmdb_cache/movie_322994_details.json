@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/1pKSU36eXmHfsM9KZJmdroTItrS.jpg",
+  "belongs_to_collection": {
+    "id": 936501,
+    "name": "Tô Ryca!: Coleção",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 322994,
+  "imdb_id": "tt4809638",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Tô Ryca!",
+  "overview": "Selminha is a lower-class woman who receives a family inheritance, but only if she meets the challenge of spending 30 million reais in 30 days, without accumulating anything. However, in this marathon, she will find out that there are things that money does not buy.",
+  "popularity": 4.1887,
+  "poster_path": "/NtGVJWXFuBuYIcpI4UUGEm2Uyh.jpg",
+  "production_companies": [
+    {
+      "id": 80325,
+      "logo_path": "/pyFi8ylwIbhhdjU1MlReACbxdN3.png",
+      "name": "Glaz Entretenimento",
+      "origin_country": "BR"
+    },
+    {
+      "id": 107355,
+      "logo_path": "/jAafT99rkahlBglJLeWtzyQjcRb.png",
+      "name": "Paramount Pictures Brasil",
+      "origin_country": "BR"
+    },
+    {
+      "id": 40994,
+      "logo_path": "/kyl2LrS9dGnBcJRLx6ST2Qsaxan.png",
+      "name": "RioFilme",
+      "origin_country": "BR"
+    },
+    {
+      "id": 7764,
+      "logo_path": "/6YQPMXHq7juxomK9Sy3zBqbalsD.png",
+      "name": "Telecine",
+      "origin_country": "BR"
+    },
+    {
+      "id": 11547,
+      "logo_path": "/kyOeH5CwsaILcJItafIMAM4KElB.png",
+      "name": "Agência Nacional do Cinema - ANCINE",
+      "origin_country": "BR"
+    },
+    {
+      "id": 197334,
+      "logo_path": "/poEQXm0Ej4xjSYWDf93xBbo8Gco.png",
+      "name": "Banco Regional de Desenvolvimento do Extremo Sul",
+      "origin_country": "BR"
+    },
+    {
+      "id": 181087,
+      "logo_path": "/1doJ1Sg6VVCietnJZC7Da38Uk1e.png",
+      "name": "Fundo Setorial do Audiovisual",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2016-09-22",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tô Ryca!",
+  "video": false,
+  "vote_average": 6.329,
+  "vote_count": 140
+}

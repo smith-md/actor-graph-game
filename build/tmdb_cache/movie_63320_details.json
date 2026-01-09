@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/mZY8bWdGkBmFPu4UbOmCedYqH73.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 63320,
+  "imdb_id": "tt0064591",
+  "origin_country": [
+    "US",
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "Lions Love",
+  "overview": "Three actors in Hollywood live and love together. A director comes from New York to make a movie about actors and Hollywood.",
+  "popularity": 4.5324,
+  "poster_path": "/ahLU10GZeVLFg1KoC6wblOk8ZlW.jpg",
+  "production_companies": [
+    {
+      "id": 57288,
+      "logo_path": null,
+      "name": "Max L. Raab Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1969-10-12",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Creators of \"Hair\" and \"Viva\" in a Film by Agnes Varda.",
+  "title": "Lions Love",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 43
+}

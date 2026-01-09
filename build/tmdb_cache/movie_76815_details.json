@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/pUPCFYAmGxf0MmmquQ8undbiAne.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://newsite.theasylum.cc/index.php/titles/detail?id=d1546c3a-0ced-e311-80c1-782bcb56fee6",
+  "id": 76815,
+  "imdb_id": "tt1912996",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Barely Legal",
+  "overview": "Sue, Cheryl and Lexi are three college freshmen who have been best friends since they were born on the same day. They do something special every year for their birthday, but on their eighteenth, they set out to lose their virginity.",
+  "popularity": 7.8004,
+  "poster_path": "/5x2xQFjhsWCCvQg7gks7YffZesV.jpg",
+  "production_companies": [
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-07-26",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Presents aren't the only thing they're unwrapping!",
+  "title": "Barely Legal",
+  "video": false,
+  "vote_average": 3.62,
+  "vote_count": 79
+}

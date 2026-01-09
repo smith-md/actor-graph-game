@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/vcc58HJ75qgTHjNrpSDPc2ez7bD.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 62676,
+  "imdb_id": "tt0164085",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Limbo",
+  "overview": "Traumatized by a fishing boat accident many years before, Joe Gastineau has given up his hopes for a life beyond the odd jobs he takes to support himself. That quickly changes when nomadic club singer Donna de Angelo and her troubled teen-age daughter enter Joe’s life. Both mother and daughter fall for Joe, increasing the friction between them. The tension continues to build when Joe invites them on a pleasure cruise up the Alaskan coast, discovering too late that the trip may cost them their lives.",
+  "popularity": 2.5561,
+  "poster_path": "/1ytI3G3dT6j888ySOwYhpJHz8ED.jpg",
+  "production_companies": [
+    {
+      "id": 3287,
+      "logo_path": "/bz6GbCQQXGNE56LTW9dwgksW0Iw.png",
+      "name": "Screen Gems",
+      "origin_country": "US"
+    },
+    {
+      "id": 53672,
+      "logo_path": null,
+      "name": "Green/Renzi",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1999-06-04",
+  "revenue": 1997807,
+  "runtime": 126,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The only thing more dangerous than death...is survival.",
+  "title": "Limbo",
+  "video": false,
+  "vote_average": 6.541,
+  "vote_count": 73
+}

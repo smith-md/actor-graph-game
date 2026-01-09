@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/1leYKN0DPNffpldGnCWnbXaiWoD.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1305717,
+  "imdb_id": "tt28293853",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Hunting Grounds",
+  "overview": "Desperate to find refuge for her children, Chloe Marvino runs away from her Mafia tied husband, and finds shelter in a cabin with a recluse drifter named Jake. But as her husband's henchmen draw closer to her, it turns out that Jake is the biggest enemy of them all.",
+  "popularity": 14.8825,
+  "poster_path": "/cgZjpqRQt9sk6XMCwZ3B1NPAaoy.jpg",
+  "production_companies": [
+    {
+      "id": 197962,
+      "logo_path": "/2Uv1Pj28zVg2LWKw6ScQ0tPwLoI.png",
+      "name": "Kemodo Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 36016,
+      "logo_path": "/7NLUO06yn9Q18nejc2fcMFbqfuo.png",
+      "name": "High Star Entertainment",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-05-16",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hunting Grounds",
+  "video": false,
+  "vote_average": 6.591,
+  "vote_count": 66
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/jdZM1Gs6DtRGvosgqaXRrIkvYX7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81043665",
+  "id": 762975,
+  "imdb_id": "tt4614584",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Purple Hearts",
+  "overview": "An aspiring musician agrees to a marriage of convenience with a soon-to-deploy Marine, but a tragedy soon turns their fake relationship all too real.",
+  "popularity": 9.2078,
+  "poster_path": "/4JyNWkryifWbWXJyxcWh3pVya6N.jpg",
+  "production_companies": [
+    {
+      "id": 10067,
+      "logo_path": "/p1kZoVNfkVvk7xyJZEposRxcfh8.png",
+      "name": "Alloy Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 86902,
+      "logo_path": "/uTXXIOJMikSZteOB6V284SDQer4.png",
+      "name": "Embankment Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 34886,
+      "logo_path": "/t5U3RqGBm8Hz1Le3g6TryKZ44Uy.png",
+      "name": "Gidden Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-07-29",
+  "revenue": 0,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Purple Hearts",
+  "video": false,
+  "vote_average": 8.053,
+  "vote_count": 2801
+}

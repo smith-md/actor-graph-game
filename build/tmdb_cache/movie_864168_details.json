@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/sbKeYtlQkvC0prXkMXJpYoOfwVU.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.joyride.movie",
+  "id": 864168,
+  "imdb_id": "tt15268244",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Joy Ride",
+  "overview": "When Audrey's business trip to Asia goes sideways, she enlists the aid of Lolo, her irreverent, childhood best friend who also happens to be a hot mess; Kat, her college friend turned Chinese soap star; and Deadeye, Lolo's eccentric cousin. Their no-holds-barred, epic experience becomes a journey of bonding, friendship, belonging, and wild debauchery that reveals the universal truth of what it means to know and love who you are.",
+  "popularity": 6.6606,
+  "poster_path": "/6Ii88ZqNMmBgLVuSrnLkLENhgcd.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 16615,
+      "logo_path": "/5au3v0r2brGaegO9EQ0nodLkmQ1.png",
+      "name": "Point Grey Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 195015,
+      "logo_path": null,
+      "name": "Red Mysterious Hippo",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-06-22",
+  "revenue": 15800000,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Four friends. One trip. No luck.",
+  "title": "Joy Ride",
+  "video": false,
+  "vote_average": 6.519,
+  "vote_count": 458
+}

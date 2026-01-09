@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/dOtiEsq9o8kjYqzSBAkXeMX4qv9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 5248,
+  "imdb_id": "tt0164221",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Virtual Sexuality",
+  "overview": "A frustrated teenage girl creates her perfect man in a virtual reality machine and in a freak accident, gives him life.",
+  "popularity": 4.9861,
+  "poster_path": "/lMx1firCTM9gs7kVxyRKjHx56Lm.jpg",
+  "production_companies": [
+    {
+      "id": 9110,
+      "logo_path": null,
+      "name": "The Noel Gay Motion Picture Company",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1999-07-02",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If you can't find the perfect guy, make one!",
+  "title": "Virtual Sexuality",
+  "video": false,
+  "vote_average": 5.255,
+  "vote_count": 55
+}

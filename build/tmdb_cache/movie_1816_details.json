@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/AvPLYsn8SyDWFFBzBqmsohZ5p8x.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 1816,
+  "imdb_id": "tt0088915",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Chorus Line",
+  "overview": "A group of dancers congregate on the stage of a Broadway theatre to audition for a new musical production directed by Zach. After the initial eliminations, seventeen hopefuls remain, among them Cassie, who once had a tempestuous romantic relationship with Zach. She is desperate enough for work to humble herself and audition for him; whether he's willing to let professionalism overcome his personal feelings about their past remains to be seen.",
+  "popularity": 3.06,
+  "poster_path": "/bQzbO6y6gxePrEcU57Su8HJ9UdH.jpg",
+  "production_companies": [
+    {
+      "id": 67889,
+      "logo_path": "/rgEZCUJeQFyVyOdXdSLSa9BsEq4.png",
+      "name": "Polygram Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 757,
+      "logo_path": null,
+      "name": "Embassy Films Associates",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1985-12-10",
+  "revenue": 14202899,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One singular sensation!",
+  "title": "A Chorus Line",
+  "video": false,
+  "vote_average": 6.209,
+  "vote_count": 194
+}

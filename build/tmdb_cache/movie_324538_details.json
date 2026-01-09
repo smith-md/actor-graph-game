@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/7H4A5vZdVAN8fhwvb7G0Iren4rq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 324538,
+  "imdb_id": "tt3457508",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Damascus Cover",
+  "overview": "A spy navigates the precarious terrain of love and survival during an undercover mission in Syria.",
+  "popularity": 3.4782,
+  "poster_path": "/fstGX2lMtdPvDbrfg58MqB7kNzP.jpg",
+  "production_companies": [
+    {
+      "id": 51864,
+      "logo_path": null,
+      "name": "H Films",
+      "origin_country": ""
+    },
+    {
+      "id": 80468,
+      "logo_path": "/2ZfFXAksjh7RKyldXpo8pP32WoW.png",
+      "name": "Xeitgeist Entertainment Group",
+      "origin_country": "SG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2017-10-23",
+  "revenue": 19532,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Damascus Cover",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 75
+}

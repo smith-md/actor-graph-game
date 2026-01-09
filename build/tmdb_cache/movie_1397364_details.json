@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/rSG0XYZYyImip9cl0SybFMBC4Vd.jpg",
+  "belongs_to_collection": null,
+  "budget": 24500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1397364,
+  "imdb_id": "tt34886821",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La Grazia",
+  "overview": "President Mariano De Santis' term is coming to an end. Disparagingly nicknamed 'Cemento armato' (reinforced concrete) for his intractable nature and overly careful approach to politics, he has grown lonely in the echoing halls of the presidential palace, mourning the loss of his wife and listening to hip-hop. Before returning to civilian life, De Santis must make a series of bold decisions – a pair of presidential pardons and a groundbreaking policy bill – that will cement his legacy.",
+  "popularity": 4.8583,
+  "poster_path": "/d86ctnc1Kl9xZHJ1xBPcwTKmaGa.jpg",
+  "production_companies": [
+    {
+      "id": 128344,
+      "logo_path": "/zNBa6RAZ5TKWZUEhxx6sxc9tdrr.png",
+      "name": "The Apartment Pictures",
+      "origin_country": "IT"
+    },
+    {
+      "id": 207505,
+      "logo_path": "/4ze8MU9ehNgWlVqTVTsWZo3iFmn.png",
+      "name": "Numero10",
+      "origin_country": "IT"
+    },
+    {
+      "id": 74562,
+      "logo_path": "/7OwtRpQAFKU3KWA7InBg3h3PxqI.png",
+      "name": "Fremantle Italia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 228664,
+      "logo_path": "/rKNzL97WA26KnyeUUycdJDggxLq.png",
+      "name": "PiperFilm",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2025-12-05",
+  "revenue": 68995,
+  "runtime": 133,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A president. A pardon. A legacy.",
+  "title": "La Grazia",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 23
+}

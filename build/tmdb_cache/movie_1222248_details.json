@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/4bgcL1wAGHgNKqXMmVn4N4TW3S1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1222248,
+  "imdb_id": "tt23782584",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Nr. 24",
+  "overview": "On the brink of the Second World War, a young Norwegian man's drive to resist the Nazis sets a new course for his future – and the future of his country.",
+  "popularity": 5.6776,
+  "poster_path": "/qv7crkk9fzMrvj3WqWU6PiFm12f.jpg",
+  "production_companies": [
+    {
+      "id": 108394,
+      "logo_path": "/b8tlLQtTvvjRiaB5TcUWqYmX4eN.png",
+      "name": "Motion Blur",
+      "origin_country": "NO"
+    },
+    {
+      "id": 2888,
+      "logo_path": null,
+      "name": "SF Norge",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2024-10-30",
+  "revenue": 3301976,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Number 24",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 345
+}

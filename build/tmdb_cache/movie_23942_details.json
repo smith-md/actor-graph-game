@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/8f7TgUsnDTvJpdfOh6hPKmXiyuI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 23942,
+  "imdb_id": "tt0084469",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Paradise",
+  "overview": "After their caravan is attacked and their respective families butchered by Arab marauders, teenagers David and Sarah flee across the desert. But the desert is filled with danger from the elements, animals and the unwholesome appetite of the Jackal, a sheik who wants Sarah for himself. However, the desert also holds temptation and love. David and Sarah hide out in an oasis and build a life for themselves, discovering each other in new ways.",
+  "popularity": 5.0361,
+  "poster_path": "/vPWQ02RbO82ijIede7SYHcnhzoT.jpg",
+  "production_companies": [
+    {
+      "id": 24449,
+      "logo_path": null,
+      "name": "RSL Entertainment Corp.",
+      "origin_country": ""
+    },
+    {
+      "id": 542,
+      "logo_path": null,
+      "name": "Guardian Trust Company",
+      "origin_country": "CA"
+    },
+    {
+      "id": 45300,
+      "logo_path": null,
+      "name": "Moviecorp VI",
+      "origin_country": ""
+    },
+    {
+      "id": 5768,
+      "logo_path": null,
+      "name": "New World-Mutual",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "1982-03-12",
+  "revenue": 5588800,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If only it could have been forever.",
+  "title": "Paradise",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 128
+}

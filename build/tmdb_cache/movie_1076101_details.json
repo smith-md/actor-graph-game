@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/dwYaom29VfaWCqTr9AfzmqVyQgU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1076101,
+  "imdb_id": "tt26442871",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wildcat",
+  "overview": "Can scandalous art still serve God? Does suffering precede all greatness? Can illness be a blessing? In 1950, writer Flannery O'Connor visits her mother Regina in Georgia when she is diagnosed with lupus at twenty-four years old. Struggling with the same disease that took her father’s life when she was a child and desperate to make her mark as a great writer, this crisis pitches her imagination into a feverish exploration of belief.",
+  "popularity": 3.4219,
+  "poster_path": "/qRFlDK9cXKNF3UU1E567ZpsC4Rq.jpg",
+  "production_companies": [
+    {
+      "id": 191683,
+      "logo_path": "/zNgkGzm7jpePKosAD1YBLrDU0Ul.png",
+      "name": "Good Country Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 98506,
+      "logo_path": null,
+      "name": "Under the Influence Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 191684,
+      "logo_path": "/fz5l3pTaaAklhOMghZAHmCI87dK.png",
+      "name": "Renovo Media Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 144002,
+      "logo_path": "/k1uzQeFSgzGuiyoxfjbPZF9ofAz.png",
+      "name": "Kingdom Story Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-05-03",
+  "revenue": 500113,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Wildcat",
+  "video": false,
+  "vote_average": 5.815,
+  "vote_count": 27
+}

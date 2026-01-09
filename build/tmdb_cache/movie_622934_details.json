@@ -1,0 +1,104 @@
+{
+  "adult": false,
+  "backdrop_path": "/d6pAvZGrycXxzmlBPzhh3JsYlNU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 622934,
+  "imdb_id": "tt10518924",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "(Nie)znajomi",
+  "overview": "A group of seven friends come together for dinner. What starts out as a normal evening, evolves into something else when they decide to play a game and read all text messages aloud and answer all phone calls on speakerphone...",
+  "popularity": 4.5257,
+  "poster_path": "/sPH9BHqzSMVKiaZBEukdBZkn1vs.jpg",
+  "production_companies": [
+    {
+      "id": 128000,
+      "logo_path": null,
+      "name": "Mimikra",
+      "origin_country": "PL"
+    },
+    {
+      "id": 21303,
+      "logo_path": "/iRswDaMLcipfyG8qSk4iLLjRQIq.png",
+      "name": "Polsat",
+      "origin_country": "PL"
+    },
+    {
+      "id": 105266,
+      "logo_path": "/ev8L4iYQDUY5uutlJGreeMT1i4P.png",
+      "name": "Polsat Box",
+      "origin_country": "PL"
+    },
+    {
+      "id": 128001,
+      "logo_path": "/uPN1vSKauoghlu8l70DqY61xGvz.png",
+      "name": "Plus",
+      "origin_country": "PL"
+    },
+    {
+      "id": 121046,
+      "logo_path": "/8O4YdaafPc9iushuMSsolPPfyls.png",
+      "name": "WFS - Walter Film Studio",
+      "origin_country": "PL"
+    },
+    {
+      "id": 128002,
+      "logo_path": null,
+      "name": "ArtPark",
+      "origin_country": ""
+    },
+    {
+      "id": 128004,
+      "logo_path": null,
+      "name": "Coolkeyplay",
+      "origin_country": "PL"
+    },
+    {
+      "id": 128003,
+      "logo_path": null,
+      "name": "PurPur Pictures",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2019-09-27",
+  "revenue": 1979437,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "(Nie)znajomi",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 36
+}

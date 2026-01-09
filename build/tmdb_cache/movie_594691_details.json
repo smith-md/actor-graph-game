@@ -1,0 +1,98 @@
+{
+  "adult": false,
+  "backdrop_path": "/fektRQU2rpCpiR9Ixa0B6eMA2ME.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 594691,
+  "imdb_id": "tt9800670",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Amants",
+  "overview": "Set in Paris the story follows Lisa, who, while on vacation with her husband, rekindles a passionate affair with her ex-boyfriend. But that may lead to a murder.",
+  "popularity": 3.7775,
+  "poster_path": "/iNH5JarefFO8oudjyrOPHX14z25.jpg",
+  "production_companies": [
+    {
+      "id": 139580,
+      "logo_path": null,
+      "name": "Les Films Pelléas",
+      "origin_country": ""
+    },
+    {
+      "id": 139582,
+      "logo_path": null,
+      "name": "Véronique et François Mallet",
+      "origin_country": ""
+    },
+    {
+      "id": 139583,
+      "logo_path": null,
+      "name": "LDRP",
+      "origin_country": "FR"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7131,
+      "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 819,
+      "logo_path": "/cEqVIluQuO1ubtID8RvOem4ZiIg.png",
+      "name": "Mars Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2021-11-17",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lovers",
+  "video": false,
+  "vote_average": 5.342,
+  "vote_count": 165
+}

@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/suR1B6HjoIHQ2d8L0auT24DAwkl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1181701,
+  "imdb_id": "tt29001732",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Continental Split",
+  "overview": "As the New Madrid Fault threatens to tear the U.S. in half, a desperate team of seismologists and government agents race to prevent disaster while the clock ticks down.",
+  "popularity": 4.8691,
+  "poster_path": "/1LbJYo2l0Gfx6hs3CDdWZQSW2ZP.jpg",
+  "production_companies": [
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-06-22",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Continental Split",
+  "video": false,
+  "vote_average": 5.286,
+  "vote_count": 21
+}

@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/gQimJqYMKCkwHIo8wwYKhmnCfBr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1242501,
+  "imdb_id": "tt29780866",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Icefall",
+  "overview": "A young Indigenous game warden arrests an infamous poacher only to discover that the poacher knows the location of a plane carrying millions of dollars that has crashed in a frozen lake. When a group of criminals and dirty cops are alerted to the poacher’s whereabouts, the warden and the poacher team up to fight back and escape across the treacherous lake before the ice melts.",
+  "popularity": 136.7606,
+  "poster_path": "/5Byv6nznAb2Izd0gHpODOXnuSbo.jpg",
+  "production_companies": [
+    {
+      "id": 2520,
+      "logo_path": null,
+      "name": "Arclight Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 220394,
+      "logo_path": null,
+      "name": "Top Film",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-16",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Icefall",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 61
+}

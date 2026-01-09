@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/tKONjlLiKBhEuIEOWmhULdZ15bv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 434072,
+  "imdb_id": "tt1389098",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mapplethorpe",
+  "overview": "A look at the life of photographer Robert Mapplethorpe from his rise to fame in the 1970s to his untimely death in 1989.",
+  "popularity": 3.6095,
+  "poster_path": "/ztRHEGTaQht07AuT8V1QVEpHXgx.jpg",
+  "production_companies": [
+    {
+      "id": 5443,
+      "logo_path": "/hVZHyTMKfSSCVFsP2f3XXEFFBbP.png",
+      "name": "Interloper Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 200735,
+      "logo_path": null,
+      "name": "Boston Diva Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 65938,
+      "logo_path": "/i0yfUJtGp9Ev2PMtjwzFLZxlgXU.png",
+      "name": "Blue Creek Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 29474,
+      "logo_path": "/kspSsr9YEV8hkFTHiehQk4tt7Yo.png",
+      "name": "Silver Lining Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 200736,
+      "logo_path": null,
+      "name": "You're Outta Control Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-03-01",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Mapplethorpe",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 35
+}

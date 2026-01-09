@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/afHxf8fc02pJ9y8G7AgAIu71mj7.jpg",
+  "belongs_to_collection": {
+    "id": 141615,
+    "name": "Niko Collection",
+    "poster_path": "/z4pHMEQlUBqwuYEjlkozzsZ8EyC.jpg",
+    "backdrop_path": "/avpEehAg8xVy0PqswqLRbXPc7WI.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 717196,
+  "imdb_id": "tt14813816",
+  "origin_country": [
+    "DE",
+    "DK",
+    "FI",
+    "IE"
+  ],
+  "original_language": "fi",
+  "original_title": "Niko ja myrskyporojen arvoitus",
+  "overview": "Niko the reindeer joins his father in Santa's Flying Forces, but when Santa's sleigh is stolen by an acquaintance, Niko must find it in time for Christmas.",
+  "popularity": 2.6502,
+  "poster_path": "/qqt2atvzPJJBvtAAHtwXKO11loQ.jpg",
+  "production_companies": [
+    {
+      "id": 11851,
+      "logo_path": "/vSYOpJKsujv4m2jSSeFUILOc5F1.png",
+      "name": "Anima Vitae",
+      "origin_country": "FI"
+    },
+    {
+      "id": 38775,
+      "logo_path": null,
+      "name": "Cinemaker",
+      "origin_country": "FI"
+    },
+    {
+      "id": 50163,
+      "logo_path": null,
+      "name": "Ulysses Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 50162,
+      "logo_path": null,
+      "name": "Moetion Films",
+      "origin_country": "IE"
+    },
+    {
+      "id": 3922,
+      "logo_path": "/uXDOnG25HLnban0UfpRVjxASMWW.png",
+      "name": "A. Film Production",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2024-10-07",
+  "revenue": 12907944,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Niko: Beyond the Northern Lights",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 37
+}

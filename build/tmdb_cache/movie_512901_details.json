@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/nkLt5EEHWDTMbmUX5rj4fMcvI0I.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 512901,
+  "imdb_id": "tt7587984",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "神探蒲松齡",
+  "overview": "Pu Songling, a legendary demon hunter, is asked to investigate the mysterious disappearances of young girls from a small village. When he discovers evil forces are kidnapping the girls to feast on their souls, he sets out to save humanity from the inhuman invasion journeying through hidden worlds and colorful dimensions.",
+  "popularity": 3.4392,
+  "poster_path": "/x2n0On0tEvlPiXVqajPYbPYJtn0.jpg",
+  "production_companies": [
+    {
+      "id": 102332,
+      "logo_path": null,
+      "name": "Golden Shore Films & Television",
+      "origin_country": ""
+    },
+    {
+      "id": 36958,
+      "logo_path": null,
+      "name": "Sparkle Roll Media",
+      "origin_country": "CN"
+    },
+    {
+      "id": 74307,
+      "logo_path": null,
+      "name": "iQiyi Motion Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 79046,
+      "logo_path": null,
+      "name": "Golden Network Asia",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2019-02-05",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Knight of Shadows: Between Yin and Yang",
+  "video": false,
+  "vote_average": 5.59,
+  "vote_count": 139
+}

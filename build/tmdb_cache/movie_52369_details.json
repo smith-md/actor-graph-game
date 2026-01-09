@@ -1,0 +1,130 @@
+{
+  "adult": false,
+  "backdrop_path": "/vR21OepmSu0sx2qHh8Lcpgx9IKz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 52369,
+  "imdb_id": "tt1336601",
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Meute",
+  "overview": "In the middle of a snowy no man's land, Charlotte picks up Max, a hitchhiker; they stop in a truck-stop restaurant, and when Max doesn't come back from the bathroom, Charlotte starts looking for him in vain. She decides to return during the night but gets kidnapped by the bartender, La Spack, who turns out to be Max's mother and needs to feed her kids, 'The pack', a bunch of blood lusting ghouls. Charlotte now faces a terrifying reality: these ghouls are already dead... and hungry. Alone and in the middle of nowhere, she quickly realizes... she's next on the menu!",
+  "popularity": 2.8533,
+  "poster_path": "/vC2tiHgSKGWFDDBkvGu883JwBdU.jpg",
+  "production_companies": [
+    {
+      "id": 7346,
+      "logo_path": null,
+      "name": "La Fabrique 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 8676,
+      "logo_path": "/5u4GmXn4QMU39GQxGZoGfNtQ23r.png",
+      "name": "uFilm",
+      "origin_country": "BE"
+    },
+    {
+      "id": 4599,
+      "logo_path": "/sAW9KzIfOs4LgXEXqaWrEUTGkRQ.png",
+      "name": "Be-FILMS",
+      "origin_country": "BE"
+    },
+    {
+      "id": 6301,
+      "logo_path": "/jma8ZaHq1KAzlXW3v0RswVOWSdn.png",
+      "name": "CinéCinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6586,
+      "logo_path": null,
+      "name": "TPS Star",
+      "origin_country": "FR"
+    },
+    {
+      "id": 222984,
+      "logo_path": null,
+      "name": "Coficup 3",
+      "origin_country": ""
+    },
+    {
+      "id": 5381,
+      "logo_path": "/m6vSpFeYtFoW1lNv5mpLHzH4eLL.png",
+      "name": "Backup Media",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7456,
+      "logo_path": null,
+      "name": "Cofinova 6",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11397,
+      "logo_path": null,
+      "name": "Sofica Soficinéma 4",
+      "origin_country": "FR"
+    },
+    {
+      "id": 310,
+      "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+      "name": "CNC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 19037,
+      "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+      "name": "uMedia",
+      "origin_country": "BE"
+    },
+    {
+      "id": 112002,
+      "logo_path": "/2FQ9ov0EsiiBDvtItnqiSZ218iF.png",
+      "name": "Touscoprod",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2010-09-29",
+  "revenue": 274839,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Pack",
+  "video": false,
+  "vote_average": 4.684,
+  "vote_count": 68
+}

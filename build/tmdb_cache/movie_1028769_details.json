@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/8zv3y1rkwyYVHLrVgvCE7wmuNvc.jpg",
+  "belongs_to_collection": null,
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1028769,
+  "imdb_id": "tt22257924",
+  "origin_country": [
+    "FI"
+  ],
+  "original_language": "sv",
+  "original_title": "Stormskärs Maja",
+  "overview": "Maja and Janne move to the barren and remote island of Stormskerry, where survival is a daily struggle. Growing up in a world of old values, Maja becomes aware of a new era: a woman can be an equal partner instead of a mere bystander. The couple have children, and life is good until trouble sets in: war arrives on the island, Janne is forced to flee from the English troops, and Maja and the children are imprisoned. The family also faces many financial difficulties and death. Years pass, but Maja remains strong and stays in Stormskerry despite all the hardships and difficulties.",
+  "popularity": 3.4349,
+  "poster_path": "/7oTBiJzGz0J5LrLNSk9SLQzmPaG.jpg",
+  "production_companies": [
+    {
+      "id": 6339,
+      "logo_path": "/ufP8NkiJ9ScGLIKz7J25xKtmVvX.png",
+      "name": "Solar Films",
+      "origin_country": "FI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2024-01-19",
+  "revenue": 0,
+  "runtime": 164,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Stormskerry Maja",
+  "video": false,
+  "vote_average": 6.615,
+  "vote_count": 26
+}

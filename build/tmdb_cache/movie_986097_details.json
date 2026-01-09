@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/jzzpCJWkVZZwAxzzLmtYN0MBWFd.jpg",
+  "belongs_to_collection": null,
+  "budget": 27000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.himmovie.com",
+  "id": 986097,
+  "imdb_id": "tt20990442",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "HIM",
+  "overview": "After suffering a potentially career-ending brain trauma, Cameron Cade receives a lifeline when his hero, legendary eight-time Championship quarterback and cultural megastar Isaiah White, offers to train Cam at Isaiah's isolated compound that he shares with his celebrity influencer wife. But as Cam's training accelerates, Isaiah's charisma begins to curdle into something darker.",
+  "popularity": 14.7295,
+  "poster_path": "/qPJzcYR2f1O1uynYBCVPPJuOiAH.jpg",
+  "production_companies": [
+    {
+      "id": 88934,
+      "logo_path": "/5Be96V9WXa7jJInSDPqDOqMBA0o.png",
+      "name": "Monkeypaw Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1778,
+      "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+      "name": "dentsu",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2025-09-18",
+  "revenue": 27834512,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Greatness demands sacrifice.",
+  "title": "HIM",
+  "video": false,
+  "vote_average": 5.741,
+  "vote_count": 284
+}

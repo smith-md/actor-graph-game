@@ -1,0 +1,107 @@
+{
+  "adult": false,
+  "backdrop_path": "/shWIpYYqbgpUUefpPj1VrYbPonE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://magnify-films.com/happyend",
+  "id": 730251,
+  "imdb_id": "tt29279903",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ハッピーエンド",
+  "overview": "In a near-future Japanese city bracing for a devastating earthquake, a group of teenage friends navigate personal struggles and fractured bonds amid rising tension.",
+  "popularity": 2.9671,
+  "poster_path": "/fRN6U0srlhNe0B69dJZ0seuv4GZ.jpg",
+  "production_companies": [
+    {
+      "id": 108191,
+      "logo_path": "/75bTMGTS7NEazJRg7uaeGReynKU.png",
+      "name": "Cineric Creative",
+      "origin_country": "US"
+    },
+    {
+      "id": 204575,
+      "logo_path": "/7pjTsox3kXeT2bv4lNGXePnymqc.png",
+      "name": "Cinema Inutile",
+      "origin_country": "US"
+    },
+    {
+      "id": 137865,
+      "logo_path": null,
+      "name": "Zakkubalan",
+      "origin_country": "US"
+    },
+    {
+      "id": 249355,
+      "logo_path": null,
+      "name": "K-Garage",
+      "origin_country": ""
+    },
+    {
+      "id": 149522,
+      "logo_path": "/iFSOhZejd4p6o8me3cCGhfBXC5X.png",
+      "name": "Sons of Rigor Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 191842,
+      "logo_path": "/aGne4vOerQTqqMLnGLRzaDGYCtx.png",
+      "name": "Spark Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 221553,
+      "logo_path": "/jlcdARivqz1Q3VFLYUvkxbLvXIH.png",
+      "name": "Purple Tree Content",
+      "origin_country": "SG"
+    },
+    {
+      "id": 95425,
+      "logo_path": "/AbMalyMcfqq8uFuzv2rwszdyui6.png",
+      "name": "Giraffe Pictures",
+      "origin_country": "SG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "SG",
+      "name": "Singapore"
+    }
+  ],
+  "release_date": "2025-01-23",
+  "revenue": 794500,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Something big is about to change.",
+  "title": "Happyend",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 26
+}

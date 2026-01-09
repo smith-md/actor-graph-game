@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/wug15qrt09vllipUKXr6SNf74QT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0B6D7N8WH",
+  "id": 916053,
+  "imdb_id": "tt16233952",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Something from Tiffany's",
+  "overview": "One woman's life is forever changed by an engagement ring meant for someone else.",
+  "popularity": 3.1768,
+  "poster_path": "/hzQV66zQHqWKRjLVphISNOqadIp.jpg",
+  "production_companies": [
+    {
+      "id": 105382,
+      "logo_path": "/b94sYzp4YUqi3DqIUnWnfrmxlN.png",
+      "name": "Hello Sunshine",
+      "origin_country": "US"
+    },
+    {
+      "id": 20580,
+      "logo_path": "/oRR9EXVoKP9szDkVKlze5HVJS7g.png",
+      "name": "Amazon Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 150758,
+      "logo_path": "/hYDtgClCwBnHLN74g2afEAud1El.png",
+      "name": "CatchLight Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-12-08",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Something from Tiffany's",
+  "video": false,
+  "vote_average": 6.666,
+  "vote_count": 308
+}

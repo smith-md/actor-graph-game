@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/wk7R89u4l3AC3PRg7Abac2IJ5Ky.jpg",
+  "belongs_to_collection": null,
+  "budget": 70000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "http://www.sonypictures.com/movies/planet51/",
+  "id": 16866,
+  "imdb_id": "tt0762125",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "en",
+  "original_title": "Planet 51",
+  "overview": "When Earth astronaut Capt. Chuck Baker arrives on Planet 51 -- a world reminiscent of American suburbia circa 1950 -- he tries to avoid capture, recover his spaceship and make it home safely, all with the help of an empathetic little green being.",
+  "popularity": 5.2433,
+  "poster_path": "/x7Itcg3ZdExKwdKguy73WPEqosW.jpg",
+  "production_companies": [
+    {
+      "id": 5653,
+      "logo_path": "/lJj4v0DWNy7f0jJKA26Bhz4yjgk.png",
+      "name": "Ilion Animation Studios",
+      "origin_country": "ES"
+    },
+    {
+      "id": 20076,
+      "logo_path": "/ed9JyPNLqNOyJBJlDuv138sm1ES.png",
+      "name": "Handmade Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 29566,
+      "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+      "name": "Atresmedia",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2009-11-19",
+  "revenue": 104945765,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Something strange is coming to their planet...Us!",
+  "title": "Planet 51",
+  "video": false,
+  "vote_average": 5.884,
+  "vote_count": 2106
+}

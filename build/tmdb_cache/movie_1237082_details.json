@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/3NNoi1GC26017b40g38QBQDZCe5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.amazon.com/gp/video/detail/B0FWK47M5P",
+  "id": 1237082,
+  "imdb_id": "tt38774646",
+  "origin_country": [
+    "CL"
+  ],
+  "original_language": "es",
+  "original_title": "31 Minutos: Calurosa Navidad",
+  "overview": "Puppeton, the town of 31 Minutes, faces such an infernally hot Christmas that Santa Claus cancels his visit! Bodoque the rabbit heroically volunteers to rescue the presents from the North Pole, while his friends improvise a disastrous Christmas show. But what they don't expect is Bodoque giving in to some irresistible temptations along the way.",
+  "popularity": 5.9425,
+  "poster_path": "/s5Y0qRZGgdbNsxshhuIwXyslUYc.jpg",
+  "production_companies": [
+    {
+      "id": 86971,
+      "logo_path": "/wIUypihbVWqsJQtQCMBjZGrO1UW.png",
+      "name": "Aplaplac",
+      "origin_country": "CL"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CL",
+      "name": "Chile"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-19",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This Christmas there will be no Christmas. Unless a miracle happens. But miracles don't exist.",
+  "title": "31 Minutes: One Hot Christmas",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 31
+}

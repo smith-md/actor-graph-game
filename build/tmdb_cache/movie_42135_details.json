@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/cINtl1Bh47Ut4NhwLokLHQXgre0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 42135,
+  "imdb_id": "tt0084565",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "Querelle",
+  "overview": "A handsome Belgian sailor on shore leave in the port of Brest, who is also a drug smuggler and murderer, embarks upon a voyage of highly charged and violent homosexual self-discovery that will change him forever from the man he once was.",
+  "popularity": 3.9354,
+  "poster_path": "/cNATtWnC7DJYOnbKTlHbQ58bVd9.jpg",
+  "production_companies": [
+    {
+      "id": 9,
+      "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+      "name": "Gaumont",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7011,
+      "logo_path": null,
+      "name": "Planet Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 8568,
+      "logo_path": null,
+      "name": "Albatros Filmproduktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1982-09-08",
+  "revenue": 0,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It will take you into a surreal world of passion and sexuality, further than most would dare to go.",
+  "title": "Querelle",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 197
+}

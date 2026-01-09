@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/46wPEQ5D8zQWqz1bzAzpXNIkETA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 964258,
+  "imdb_id": "tt14509240",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Sulis 1907",
+  "overview": "In 1907, the miners in Sulitjelma in Fauske in Nordland made a famous rebellion against greedy mine owners.",
+  "popularity": 4.2179,
+  "poster_path": "/rLbFl9JdtAuaC66hljn2GYh71Kj.jpg",
+  "production_companies": [
+    {
+      "id": 88819,
+      "logo_path": "/9ZE8Sozhy8iJeMFlDdVa1UTT9k2.png",
+      "name": "Storyline NOR",
+      "origin_country": "NO"
+    },
+    {
+      "id": 9334,
+      "logo_path": "/2H3ezZEmLjr67ZeOSUJuqD80rCS.png",
+      "name": "GötaFilm",
+      "origin_country": "SE"
+    },
+    {
+      "id": 119141,
+      "logo_path": "/bTHtOUdHmlzZdMDaCwXbERngUId.png",
+      "name": "Handmade films in Norwegian Woods",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2023-10-06",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Northern Sami",
+      "iso_639_1": "se",
+      "name": ""
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Riot",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 26
+}

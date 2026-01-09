@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/dY6oEH886dRIpZU3baj4FJfSHdw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 104974,
+  "imdb_id": "tt0066886",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Captain Apache",
+  "overview": "The title character is a US army Captain of Native American descent who is asked to investigate the murder of an Indian agent. His only clue is \"April morning\", the last words spoken by the victim.  Can he unravel the mystery before the clock runs out?",
+  "popularity": 2.2706,
+  "poster_path": "/hIjIPEb06ZivzJYwImj0CJ5QARx.jpg",
+  "production_companies": [
+    {
+      "id": 13947,
+      "logo_path": null,
+      "name": "Benmar Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7730,
+      "logo_path": null,
+      "name": "Scotia International",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1971-10-27",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They Trailed Him...Tailed Him...Tried to Nail Him...NO WAY!!!",
+  "title": "Captain Apache",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 32
+}

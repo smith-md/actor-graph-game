@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/gswGHqD14zzAR00qXUCeu6q9dod.jpg",
+  "belongs_to_collection": {
+    "id": 584320,
+    "name": "Rooster Cogburn Collection",
+    "poster_path": "/aXnD7Ncrw82Fxk6iTalAPrdPZF.jpg",
+    "backdrop_path": "/5BjY6QptDkUIVqzFpsR2qj3eTfz.jpg"
+  },
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 17538,
+  "imdb_id": "tt0073636",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rooster Cogburn",
+  "overview": "After a band of drunken thugs overruns a small Indian Nation town, killing Reverend Goodnight and raping the women folk, Eula Goodnight enlists the aid of US Marshal Cogburn to hunt them down and bring her father's killers to justice.",
+  "popularity": 4.4468,
+  "poster_path": "/6R3X6KpHd70dI3LS22ZG5Rn422V.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3468,
+      "logo_path": null,
+      "name": "Hal Wallis Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1975-11-01",
+  "revenue": 17594566,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The man of \"True Grit\" is back and look who's got him!",
+  "title": "Rooster Cogburn",
+  "video": false,
+  "vote_average": 6.412,
+  "vote_count": 211
+}

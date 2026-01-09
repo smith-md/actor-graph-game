@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/20iAq3KbalEdV7ODys9YnE7RnBV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 21566,
+  "imdb_id": "tt0117437",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Raja Hindustani",
+  "overview": "Raja, a taxi driver, falls in love with Aarti, a rich girl, and marries her against her parents' wishes. Later, her stepmother tries to create a rift betweenthe couple.",
+  "popularity": 4.0088,
+  "poster_path": "/m4Uy3dHYmnYgvZ0U2xK5alazBFR.jpg",
+  "production_companies": [
+    {
+      "id": 68596,
+      "logo_path": null,
+      "name": "Cineyugg Entertainment Pvt. Ltd.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "1996-11-15",
+  "revenue": 0,
+  "runtime": 177,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Raja Hindustani",
+  "video": false,
+  "vote_average": 6.385,
+  "vote_count": 65
+}

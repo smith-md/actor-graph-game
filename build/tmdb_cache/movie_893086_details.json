@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/AnmfRV7X0kwEn96pg0lAVopV8YK.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 893086,
+  "imdb_id": "tt14349032",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Good Neighbor",
+  "overview": "A nightmarish evening unfolds for neighbors David and Robert when they accidentally hit a woman on her bike and flee the scene. While David is increasingly plagued by feelings of guilt, Robert shows no remorse and becomes overbearing and possessive.",
+  "popularity": 2.3915,
+  "poster_path": "/mXJ2xI7B0Z9WxDjyv18anPsOxeE.jpg",
+  "production_companies": [
+    {
+      "id": 21281,
+      "logo_path": "/1K2XQFMZTpiGIyhc9emkHPDni6f.png",
+      "name": "Forma Pro Films",
+      "origin_country": "LV"
+    },
+    {
+      "id": 168678,
+      "logo_path": null,
+      "name": "Altit Media Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "LV",
+      "name": "Latvia"
+    }
+  ],
+  "release_date": "2022-06-17",
+  "revenue": 94909,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fear what's next door.",
+  "title": "The Good Neighbor",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 171
+}

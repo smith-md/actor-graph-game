@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/3Nv0jfMQvGKv4wL9rESZeyEw9Wl.jpg",
+  "belongs_to_collection": null,
+  "budget": 31000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1945,
+  "imdb_id": "tt0110638",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Nell",
+  "overview": "In a remote woodland cabin, a small town doctor discovers Nell — a beautiful young hermit woman with many secrets.",
+  "popularity": 3.6548,
+  "poster_path": "/aIDp3x2YfijtdherR28pIH6yenn.jpg",
+  "production_companies": [
+    {
+      "id": 802,
+      "logo_path": null,
+      "name": "Egg Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-12-23",
+  "revenue": 106683817,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Her heart. Her soul. Her language are a mystery... A mystery called Nell",
+  "title": "Nell",
+  "video": false,
+  "vote_average": 6.549,
+  "vote_count": 536
+}

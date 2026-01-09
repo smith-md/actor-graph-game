@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/iJBusqvrFtJ76J2kND1SUmJSaib.jpg",
+  "belongs_to_collection": null,
+  "budget": 23000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 11540,
+  "imdb_id": "tt0373690",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Arsène Lupin",
+  "overview": "As the daring thief Arsène Lupin ransacks the homes of wealthy Parisians, the police, with a secret weapon in their arsenal, attempt to ferret him out.",
+  "popularity": 4.2171,
+  "poster_path": "/eAXpjyyZ48bDrXaCGZOYvoBDc08.jpg",
+  "production_companies": [
+    {
+      "id": 2389,
+      "logo_path": null,
+      "name": "Hugo Films",
+      "origin_country": ""
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1115,
+      "logo_path": "/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png",
+      "name": "M6 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 16259,
+      "logo_path": null,
+      "name": "Poisson Rouge Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 69195,
+      "logo_path": "/rj6lobWkUT2i5WbpKhUqz9uQ0ak.png",
+      "name": "Vértigo Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2004-10-13",
+  "revenue": 0,
+  "runtime": 131,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Find out how it all started",
+  "title": "Arsène Lupin",
+  "video": false,
+  "vote_average": 5.269,
+  "vote_count": 355
+}

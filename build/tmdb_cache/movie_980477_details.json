@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/8btfz81bOJ2lC7cujYBTw03wzg3.jpg",
+  "belongs_to_collection": {
+    "id": 1449595,
+    "name": "Ne Zha Collection",
+    "poster_path": "/uY4ICaCkGIbDgiu7quRz5kfZXda.jpg",
+    "backdrop_path": "/kazABXcuhF5AdpdjlWQQCH8iUyR.jpg"
+  },
+  "budget": 80000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://a24films.com/films/ne-zha-2",
+  "id": 980477,
+  "imdb_id": "tt34956443",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "哪吒之魔童闹海",
+  "overview": "After a catastrophic event leaves their bodies destroyed, Ne Zha and Ao Bing are granted a fragile second chance at life. As tensions rise between the dragon clans and celestial forces, the two must undergo a series of perilous trials that will test their bond, challenge their identities, and decide the fate of both mortals and immortals.",
+  "popularity": 53.4866,
+  "poster_path": "/cb5NyNrqiCNNoDkA8FfxHAtypdG.jpg",
+  "production_companies": [
+    {
+      "id": 167789,
+      "logo_path": null,
+      "name": "Chengdu Coco Cartoon",
+      "origin_country": "CN"
+    },
+    {
+      "id": 17818,
+      "logo_path": "/tqImejhMUsOuuKCX2cySzaO7QTj.png",
+      "name": "Beijing Enlight Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 161769,
+      "logo_path": null,
+      "name": "Beijing Enlight Media",
+      "origin_country": "CN"
+    },
+    {
+      "id": 273292,
+      "logo_path": null,
+      "name": "Chengdu Zizai Jingjie Culture Media",
+      "origin_country": "CN"
+    },
+    {
+      "id": 273293,
+      "logo_path": null,
+      "name": "Beijing Coloroom Technology",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2025-01-29",
+  "revenue": 2215690000,
+  "runtime": 144,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Witness a hero reborn.",
+  "title": "Ne Zha 2",
+  "video": false,
+  "vote_average": 8.105,
+  "vote_count": 541
+}

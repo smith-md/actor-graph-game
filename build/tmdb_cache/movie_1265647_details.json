@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/79hST2qzMqqIJvKy4R6411DpRHJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1265647,
+  "imdb_id": "tt30469723",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Monster Mash",
+  "overview": "Dracula, Werewolf, and the Invisible Man must work together to stop Dr. Frankenstein from creating an unstoppable monster.",
+  "popularity": 3.6974,
+  "poster_path": "/xkO5dkldULotBPjbgznzXlHjSFs.jpg",
+  "production_companies": [
+    {
+      "id": 162087,
+      "logo_path": null,
+      "name": "Atomic Blonde Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    },
+    {
+      "id": 170910,
+      "logo_path": null,
+      "name": "Acme Holding Company",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-03-29",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Greatest Monster of All Time, Built From All The Others!",
+  "title": "Monster Mash",
+  "video": false,
+  "vote_average": 4.3,
+  "vote_count": 23
+}

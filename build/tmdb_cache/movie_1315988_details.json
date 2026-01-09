@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/8SaEH4kYCy7JlviyhKtSVsMkt4r.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 1315988,
+  "imdb_id": "tt32095441",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Mikaela",
+  "overview": "During the eve of the 6th of January, a record-breaking snowstorm sweeps across Spain. In the midst of its chaos, a group of robbers seizes the opportunity to hijack an armoured van. A few meters away is Leo, a finished policeman who has nothing to lose. With the unexpected aid of a young woman, he will try to stop the band from running away with their loot.",
+  "popularity": 46.9709,
+  "poster_path": "/xG8olkWOmoW78GbozKbS2UxYGEo.jpg",
+  "production_companies": [
+    {
+      "id": 115055,
+      "logo_path": "/p72tLLyf9yqlLyIBcc3lNVgsRNE.png",
+      "name": "Atlantia Media",
+      "origin_country": "ES"
+    },
+    {
+      "id": 29566,
+      "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+      "name": "Atresmedia",
+      "origin_country": "ES"
+    },
+    {
+      "id": 113812,
+      "logo_path": "/n6SBbqa2mu8YLm6dIhxjDaWWZM7.png",
+      "name": "La Terraza Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 2875,
+      "logo_path": "/3fNapBvM3EHlyL9TxdP5qEOUNeN.png",
+      "name": "Ikiru Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 248930,
+      "logo_path": null,
+      "name": "AP6 la película AIE",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-01-31",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A storm. A heist. A cop on the edge.",
+  "title": "Mikaela",
+  "video": false,
+  "vote_average": 6.253,
+  "vote_count": 83
+}

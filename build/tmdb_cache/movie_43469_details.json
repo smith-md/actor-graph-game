@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/nHxDQoD4B8leyb7axSQQrb0CHJr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 43469,
+  "imdb_id": "tt0038913",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Sciuscià",
+  "overview": "Two shoeshine boys in postwar Rome, Italy save up to buy a horse, but their involvement as dupes in a burglary lands them in juvenile prison; the experience take a devastating toll on their friendship.",
+  "popularity": 4.1046,
+  "poster_path": "/qhhbo7rzJ1U8y1jW5cpR2j5GhvR.jpg",
+  "production_companies": [
+    {
+      "id": 54849,
+      "logo_path": null,
+      "name": "Societa Cooperativa Alfa Cinematografica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1946-04-27",
+  "revenue": 17480,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Shoeshine",
+  "video": false,
+  "vote_average": 7.764,
+  "vote_count": 265
+}

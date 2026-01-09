@@ -1,0 +1,90 @@
+{
+  "id": 482600,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1745956,
+      "known_for_department": "Acting",
+      "name": "Jeon Ji-hak",
+      "original_name": "전지학",
+      "popularity": 2.6183,
+      "profile_path": "/zIvpHMWMiCFhvSxrYmcVnspxsPp.jpg",
+      "cast_id": 9,
+      "character": "Min-cheol (민철)",
+      "credit_id": "669cfae09e335c820709c0f3",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1827228,
+      "known_for_department": "Acting",
+      "name": "Choi Min-ho",
+      "original_name": "Choi Min-ho",
+      "popularity": 0.7198,
+      "profile_path": "/2sdgTHmfm14RHee5gqoiyC165xR.jpg",
+      "cast_id": 8,
+      "character": "Gi-ho",
+      "credit_id": "65ae7348d100b600eb2b0b69",
+      "order": 1
+    },
+    {
+      "adult": true,
+      "gender": 1,
+      "id": 1995708,
+      "known_for_department": "Acting",
+      "name": "Saki Mizumi",
+      "original_name": "美泉咲",
+      "popularity": 2.857,
+      "profile_path": "/iPTdfxma79VtGy9M3ky0JZwnXhL.jpg",
+      "cast_id": 6,
+      "character": "Yuki",
+      "credit_id": "5eb3e721cc277c002166b458",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1909641,
+      "known_for_department": "Acting",
+      "name": "Ha Roo",
+      "original_name": "Ha Roo",
+      "popularity": 0.7904,
+      "profile_path": null,
+      "cast_id": 5,
+      "character": "Minky - Cameo",
+      "credit_id": "59ebc51cc3a368634601846b",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1708576,
+      "known_for_department": "Acting",
+      "name": "Ahn So-hee",
+      "original_name": "Ahn So-hee",
+      "popularity": 5.7009,
+      "profile_path": "/7OWRPTEPYi7dV5a97fhXLiiHpPM.jpg",
+      "cast_id": 7,
+      "character": "Eun-ji",
+      "credit_id": "630d462f724de10083a21d38",
+      "order": 4
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1758809,
+      "known_for_department": "Directing",
+      "name": "Kim Moo-won",
+      "original_name": "Kim Moo-won",
+      "popularity": 0.5512,
+      "profile_path": null,
+      "credit_id": "59ebc47cc3a3681564002534",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

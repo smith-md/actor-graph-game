@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/2BzfOwehPOdnAm4puhTU52EIICr.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 13787,
+  "imdb_id": "tt0144715",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Holy Smoke",
+  "overview": "While on a journey of discovery in exotic India, beautiful young Ruth Barron falls under the influence of a charismatic religious guru. Her desperate parents then hire PJ Waters, a macho cult de-programmer who confronts Ruth in a remote desert hideaway. But PJ quickly learns that he's met his match in the sexy, intelligent and iron-willed Ruth.",
+  "popularity": 3.3913,
+  "poster_path": "/utBNYz1cX43SQKZFH1JmMZU34Dy.jpg",
+  "production_companies": [
+    {
+      "id": 14089,
+      "logo_path": null,
+      "name": "Jan Chapman Productions",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "1999-09-04",
+  "revenue": 1765545,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He had only one thing on his mind... but so did she!",
+  "title": "Holy Smoke",
+  "video": false,
+  "vote_average": 5.652,
+  "vote_count": 220
+}

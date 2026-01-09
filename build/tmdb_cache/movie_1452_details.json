@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/aTBsOF7JDQQlwO9Od2iQJEuSRWR.jpg",
+  "belongs_to_collection": null,
+  "budget": 223000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/movies/superman-returns",
+  "id": 1452,
+  "imdb_id": "tt0348150",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Superman Returns",
+  "overview": "Superman returns to discover his 5-year absence has allowed Lex Luthor to walk free, and that those he was closest to felt abandoned and have moved on. Luthor plots his ultimate revenge that could see millions killed and change the face of the planet forever, as well as ridding himself of the Man of Steel.",
+  "popularity": 5.938,
+  "poster_path": "/385XwTQZDpRX2d3kxtnpiLrjBXw.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 923,
+      "logo_path": "/5UQsZrfbfG2dYJbx8DxfoTr2Bvu.png",
+      "name": "Legendary Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 16774,
+      "logo_path": "/uD6Ls0FSJwo13ekpz91s1TRpkGq.png",
+      "name": "Peters Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 9168,
+      "logo_path": "/xWE982LvaAmBQffyRGkaGg7qNK5.png",
+      "name": "Bad Hat Harry Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "name": "DC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-06-28",
+  "revenue": 391081192,
+  "runtime": 154,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Look up in the sky!",
+  "title": "Superman Returns",
+  "video": false,
+  "vote_average": 5.794,
+  "vote_count": 4441
+}

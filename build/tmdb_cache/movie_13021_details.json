@@ -1,0 +1,46 @@
+{
+  "adult": false,
+  "backdrop_path": "/wdEY6oQq9Dneza5pltGaX2akSas.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 13021,
+  "imdb_id": "tt0462295",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Flakes",
+  "overview": "Aspiring rock musician Neal Downs manages a cereal bar. Stylish Miss Pussy Katz is the creator of radically-themed art clothing. When the cereal bar, brings in an offbeat crew of locals, who debate the arcana of cereal history and ideal milk/flake ratios, an aspiring capitalist rips off their concept.",
+  "popularity": 2.8527,
+  "poster_path": "/2e5t3EUL0gwYs78Ah4XFGpfmJZl.jpg",
+  "production_companies": [
+    {
+      "id": 307,
+      "logo_path": "/gUi3pAUznQJpR296lw4mSVbB7zx.png",
+      "name": "IFC FIlms",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "2007-12-19",
+  "revenue": 778,
+  "runtime": 84,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "A tasty tale of love & war!",
+  "title": "Flakes",
+  "video": false,
+  "vote_average": 5.04,
+  "vote_count": 63
+}

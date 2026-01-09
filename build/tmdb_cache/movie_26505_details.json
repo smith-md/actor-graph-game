@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/fgur8M7AcLoMhB71FkAaOd0xaJt.jpg",
+  "belongs_to_collection": {
+    "id": 85817,
+    "name": "Arthur and the Invisibles Collection",
+    "poster_path": "/2zhBMVy8E5fMnixTQUFVHcVncv6.jpg",
+    "backdrop_path": "/thlPz3RDvOkoXHLiG2aZ2xbgRhf.jpg"
+  },
+  "budget": 87000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 26505,
+  "imdb_id": "tt0940657",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Arthur et la vengeance de Maltazard",
+  "overview": "Arthur answers a distress call from Princess Selenia, who is menaced by the nefarious Maltazard.",
+  "popularity": 2.6791,
+  "poster_path": "/rHCL0HwlQvU01TLRRHZFlvsVEqt.jpg",
+  "production_companies": [
+    {
+      "id": 1076,
+      "logo_path": null,
+      "name": "Apipoulaï Prod",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2525,
+      "logo_path": null,
+      "name": "Avalanche Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 854,
+      "logo_path": null,
+      "name": "Sofica EuropaCorp",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6896,
+      "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+      "name": "EuropaCorp",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2009-11-26",
+  "revenue": 52377611,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Arthur and the Revenge of Maltazard",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 1748
+}

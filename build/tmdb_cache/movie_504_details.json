@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/nUJk4UjWS9YvBJUepCWziQ1QYSf.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 504,
+  "imdb_id": "tt0340855",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Monster",
+  "overview": "In 1989, prostitute Aileen Wuornos befriends and enters a relationship with a young woman named Selby. Determined to straighten out her life, Aileen's limited education lands her back on the corner. She's raped by a trick, who she kills. A string of murder and robbery follows that ultimately leads Aileen to becoming America's first female serial killer.",
+  "popularity": 5.3327,
+  "poster_path": "/aevmNtJCNG4ZlfEeEGZ79frMUes.jpg",
+  "production_companies": [
+    {
+      "id": 2226,
+      "logo_path": null,
+      "name": "Media 8 Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 25433,
+      "logo_path": null,
+      "name": "DEJ Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 103676,
+      "logo_path": null,
+      "name": "K/W Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 3574,
+      "logo_path": "/j3iU6FoWplGPoO1Vxn8fFHX4VPE.png",
+      "name": "Denver & Delilah Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 3801,
+      "logo_path": null,
+      "name": "VIP Medienfonds 2",
+      "origin_country": ""
+    },
+    {
+      "id": 10828,
+      "logo_path": null,
+      "name": "MDP Worldwide",
+      "origin_country": "US"
+    },
+    {
+      "id": 20555,
+      "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+      "name": "Taurus Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2003-12-24",
+  "revenue": 58469210,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Based on a true story.",
+  "title": "Monster",
+  "video": false,
+  "vote_average": 7.212,
+  "vote_count": 2468
+}

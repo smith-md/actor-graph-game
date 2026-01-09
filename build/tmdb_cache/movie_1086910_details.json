@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/ax2qCKU6tUhdkStiCnrDdXKA5xC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 1086910,
+  "imdb_id": "tt14830912",
+  "origin_country": [
+    "US",
+    "MA"
+  ],
+  "original_language": "en",
+  "original_title": "The Lost Princess",
+  "overview": "After an Ayahuasca vision transports him to a haunted castle, Alec meets Hanna who tales him the story of her mother's forced marriage and how the forbidden passion with her father was in danger when the princess pregnancy became obvious",
+  "popularity": 9.5484,
+  "poster_path": "/31S2ISsDtbnxb0kuXZl1SxSMD0K.jpg",
+  "production_companies": [
+    {
+      "id": 139830,
+      "logo_path": null,
+      "name": "H Films",
+      "origin_country": ""
+    },
+    {
+      "id": 193438,
+      "logo_path": null,
+      "name": "LineDrive Studio",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "MA",
+      "name": "Morocco"
+    }
+  ],
+  "release_date": "2025-10-16",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Lost Princess",
+  "video": false,
+  "vote_average": 6.195,
+  "vote_count": 41
+}

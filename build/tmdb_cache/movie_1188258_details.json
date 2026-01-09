@@ -1,0 +1,133 @@
+{
+  "adult": false,
+  "backdrop_path": "/qu27OPbaIO9OBj3zd4h9bdS6e58.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://happinet-phantom.com/seishun18x2/",
+  "id": 1188258,
+  "imdb_id": "tt31039829",
+  "origin_country": [
+    "JP",
+    "TW"
+  ],
+  "original_language": "zh",
+  "original_title": "青春18x2 君へと続く道",
+  "overview": "Having lost his job and the company he built, a 36-year-old man at rock bottom goes on a wistful solo trip to Japan in search of the love he left behind.",
+  "popularity": 6.3198,
+  "poster_path": "/266oEgeX7hQo0MMdH81AxEmGXWV.jpg",
+  "production_companies": [
+    {
+      "id": 42311,
+      "logo_path": null,
+      "name": "Jumpboys Films",
+      "origin_country": ""
+    },
+    {
+      "id": 116258,
+      "logo_path": "/6ULDFROnyVZUK044VVIgfiSDsBF.png",
+      "name": "BABEL LABEL",
+      "origin_country": "JP"
+    },
+    {
+      "id": 17227,
+      "logo_path": "/nrWbxpzC2G39A64RtVa3qf5D21X.png",
+      "name": "L'espace Vision",
+      "origin_country": "JP"
+    },
+    {
+      "id": 177220,
+      "logo_path": "/5yMptt5Q3VCIBcZvFDnbsPvfZYO.png",
+      "name": "CyberAgent",
+      "origin_country": "JP"
+    },
+    {
+      "id": 199799,
+      "logo_path": null,
+      "name": "QC Media",
+      "origin_country": "CN"
+    },
+    {
+      "id": 165241,
+      "logo_path": null,
+      "name": "Bossdom Digiinnovation",
+      "origin_country": "TW"
+    },
+    {
+      "id": 4338,
+      "logo_path": null,
+      "name": "PiLi International Multimedia",
+      "origin_country": "TW"
+    },
+    {
+      "id": 181190,
+      "logo_path": "/6O8z7druYj7fXanaIE2f2OVRI9E.png",
+      "name": "Cygames",
+      "origin_country": "JP"
+    },
+    {
+      "id": 168206,
+      "logo_path": "/AmGd7pnZZ8VWTrOtlVZAm3siR4C.png",
+      "name": "Happinet Phantom Studios",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11848,
+      "logo_path": "/A3abKfh7dXwPdXJc3A551q8XnOC.png",
+      "name": "KDDI",
+      "origin_country": "JP"
+    },
+    {
+      "id": 7549,
+      "logo_path": "/bXc1vp0lER6PDHtsVe12pSPwNkv.png",
+      "name": "Kansai Television",
+      "origin_country": "JP"
+    },
+    {
+      "id": 8157,
+      "logo_path": "/pEqcMX1aG3JvtDgfh2wNZJLCcb4.png",
+      "name": "jeki",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "release_date": "2024-03-14",
+  "revenue": 0,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "18×2 Beyond Youthful Days",
+  "video": false,
+  "vote_average": 7.402,
+  "vote_count": 51
+}

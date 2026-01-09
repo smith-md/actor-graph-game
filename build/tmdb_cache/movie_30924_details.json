@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/fs56yURwBoqsY12zjNGVkos3E6B.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 30924,
+  "imdb_id": "tt0081184",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Motel Hell",
+  "overview": "Farmer Vincent Smith and his sister Ida run a motel attached to a farm where they capture unsuspecting travelers, bury them alive, fatten them up and then harvest their bodies as ingredients for his famous brand of \"smoked meats.\"",
+  "popularity": 4.0652,
+  "poster_path": "/sb63i9ZDqin0Mh37B5sLiZSQY6A.jpg",
+  "production_companies": [
+    {
+      "id": 33660,
+      "logo_path": null,
+      "name": "Camp Hill",
+      "origin_country": ""
+    },
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1980-08-14",
+  "revenue": 6342668,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It takes all kinds of critters to make Farmer Vincent fritters!",
+  "title": "Motel Hell",
+  "video": false,
+  "vote_average": 5.762,
+  "vote_count": 258
+}

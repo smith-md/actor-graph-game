@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/t25z4ggC2Uvs3EhI66lxVO2jDp5.jpg",
+  "belongs_to_collection": {
+    "id": 1492780,
+    "name": "One of Them Days Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 14000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://oneofthemdays.movie",
+  "id": 1280672,
+  "imdb_id": "tt32221196",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "One of Them Days",
+  "overview": "Best friends and roommates Dreux and Alyssa are about to have One of Them Days. When they discover Alyssa’s boyfriend has blown their rent money, the duo finds themselves going to extremes in a comical race against the clock to avoid eviction and keep their friendship intact.",
+  "popularity": 4.7554,
+  "poster_path": "/ccn6bFUA5DECjA3Lo0CuJqGNQCv.jpg",
+  "production_companies": [
+    {
+      "id": 559,
+      "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 158680,
+      "logo_path": "/vahWxswpUqWCd1R4KAVPXtjBJb7.png",
+      "name": "HOORAE",
+      "origin_country": "US"
+    },
+    {
+      "id": 79426,
+      "logo_path": "/8aEC7xem9YwHNCDojSFEPQgoFC3.png",
+      "name": "MACRO",
+      "origin_country": "US"
+    },
+    {
+      "id": 242761,
+      "logo_path": "/hqzZKfFYsyn5YjXe04nHZDkvCxn.png",
+      "name": "ColorCreative",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-01-16",
+  "revenue": 51896264,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "One of Them Days",
+  "video": false,
+  "vote_average": 6.643,
+  "vote_count": 242
+}

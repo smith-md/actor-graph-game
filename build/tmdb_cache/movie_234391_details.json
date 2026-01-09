@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/9deUqdRtGm9Ko4K7DIA0KavScHu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 234391,
+  "imdb_id": "tt0059257",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Haunted Mouse",
+  "overview": "Jerry is paid a visit by a look-alike magician.",
+  "popularity": 3.0769,
+  "poster_path": "/dQpF6hDEVFk4h4VGxMFcADpYLCS.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1965-03-24",
+  "revenue": 0,
+  "runtime": 7,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Haunted Mouse",
+  "video": false,
+  "vote_average": 6.095,
+  "vote_count": 21
+}

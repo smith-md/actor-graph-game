@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/81kbwVTU6Im3zcSnK0Pp2oP4piN.jpg",
+  "belongs_to_collection": {
+    "id": 1604632,
+    "name": "The Breed Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 10063,
+  "imdb_id": "tt0455362",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Breed",
+  "overview": "Brothers John and Matt have inherited an island cabin from their recently deceased uncle. Along with Matt's girlfriend, Nicki, and other mutual friends, the siblings travel to the cabin for a relaxing weekend getaway. But, not long after arriving, the group is besieged by ravenous dogs. They watch in horror as another vacationer, Luke, is eaten alive. Soon, they discover a training facility where the dogs have been bred to kill.",
+  "popularity": 3.5894,
+  "poster_path": "/84wIp36RZ1zpVBoJTjwzGjZVRxD.jpg",
+  "production_companies": [
+    {
+      "id": 7770,
+      "logo_path": null,
+      "name": "ApolloProMovie",
+      "origin_country": ""
+    },
+    {
+      "id": 13534,
+      "logo_path": "/vAbdXfuYEakiBnrCDJf3ez50geK.png",
+      "name": "First Look Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-05-17",
+  "revenue": 1675484,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Let the manhunt begin.",
+  "title": "The Breed",
+  "video": false,
+  "vote_average": 5.448,
+  "vote_count": 407
+}

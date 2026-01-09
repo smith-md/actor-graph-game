@@ -1,0 +1,116 @@
+{
+  "adult": false,
+  "backdrop_path": "/2bHoj05gR7I5gp4oeoDCY6bU42d.jpg",
+  "belongs_to_collection": {
+    "id": 247028,
+    "name": "Rurouni Kenshin Collection",
+    "poster_path": "/yBYLuwZ1zbRBEKaZmwiThsEqUbC.jpg",
+    "backdrop_path": "/fVBDlWthHhzwo3wYauHG3ljzQ1t.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "http://wwws.warnerbros.co.jp/rurouni-kenshin/index.html",
+  "id": 127533,
+  "imdb_id": "tt1979319",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "るろうに剣心",
+  "overview": "In 1868, after the Bakumatsu war ends, the ex-assassin Kenshin Himura traverses Japan with an inverted sword, to defend the needy without killing.",
+  "popularity": 3.8539,
+  "poster_path": "/vo3Zs07PZfKNsTrU0pcPZONJcN5.jpg",
+  "production_companies": [
+    {
+      "id": 10765,
+      "logo_path": null,
+      "name": "Studio Swan",
+      "origin_country": "JP"
+    },
+    {
+      "id": 10766,
+      "logo_path": null,
+      "name": "ROCKWORKS",
+      "origin_country": "JP"
+    },
+    {
+      "id": 10764,
+      "logo_path": "/6HWsMwT6cNXzsDqeoBTezc7D4VA.png",
+      "name": "C&I entertainment",
+      "origin_country": "JP"
+    },
+    {
+      "id": 6953,
+      "logo_path": null,
+      "name": "IMJ Entertainment",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3219,
+      "logo_path": "/aGapBauQIUYV6tiXGk0JGiTMnlv.png",
+      "name": "Amuse Soft Entertainment",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3627,
+      "logo_path": "/pBfPYpzg5o3EoBPfrFKzTRi8MGr.png",
+      "name": "Warner Bros. Japan",
+      "origin_country": "JP"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 84048,
+      "logo_path": "/mkxZQuPpZ0cBDfjr4PAxltGSsoH.png",
+      "name": "GAGA Corporation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2012-08-25",
+  "revenue": 61700000,
+  "runtime": 134,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The journey begins.",
+  "title": "Rurouni Kenshin Part I: Origins",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 873
+}

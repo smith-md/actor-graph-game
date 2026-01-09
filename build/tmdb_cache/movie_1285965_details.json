@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/6bfas8v3FzZ3qpzR2RWpw4z9DT7.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.independentfilmco.com/films/dangerous-animals",
+  "id": 1285965,
+  "imdb_id": "tt32299316",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dangerous Animals",
+  "overview": "A savvy and free-spirited surfer is abducted by a shark-obsessed serial killer. Held captive on his boat, she must figure out how to escape before he carries out a ritualistic feeding to the sharks below.",
+  "popularity": 7.6522,
+  "poster_path": "/9tk3Si960hg4E49eMt81dS7Qe9Z.jpg",
+  "production_companies": [
+    {
+      "id": 8533,
+      "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+      "name": "LD Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 212408,
+      "logo_path": "/63KGHkv2ir0WdhIKuVXDltukmTT.png",
+      "name": "Brouhaha Entertainment",
+      "origin_country": "AU"
+    },
+    {
+      "id": 167684,
+      "logo_path": "/kzQwU2H6woBFti9cqjr9BrVXrst.png",
+      "name": "Range Media Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 85465,
+      "logo_path": "/oxx1bmXDQxeBsvYZmCxMtfJ5wa3.png",
+      "name": "Oddfellows Entertainment",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2025-06-05",
+  "revenue": 4569549,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You're safer in the water.",
+  "title": "Dangerous Animals",
+  "video": false,
+  "vote_average": 6.466,
+  "vote_count": 416
+}

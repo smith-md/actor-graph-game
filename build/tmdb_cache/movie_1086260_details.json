@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/3C01kAcKGR6FwsUUSOvJ8N82pqr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1086260,
+  "imdb_id": "tt13964560",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Astronaut",
+  "overview": "After returning from her first space mission, astronaut Sam Walker is placed under NASA’s care at a high security house for rehabilitation and medical testing. However, when disturbing occurrences begin happening around the property, she fears that something extraterrestrial has followed her back to Earth",
+  "popularity": 11.1329,
+  "poster_path": "/souvvkJHYhztC1UqZ8lEVUiJa3J.jpg",
+  "production_companies": [
+    {
+      "id": 165538,
+      "logo_path": null,
+      "name": "Fuller Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 197680,
+      "logo_path": null,
+      "name": "The Wonder Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 129815,
+      "logo_path": "/qbCmnVTQEuFqrVkbxn3i9P7Jrcw.png",
+      "name": "Wild Atlantic Pictures",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-26",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She didn't come back to Earth alone.",
+  "title": "The Astronaut",
+  "video": false,
+  "vote_average": 5.76,
+  "vote_count": 127
+}

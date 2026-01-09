@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/2FAGeHcOOxviG3iNTFh4paFoJYM.jpg",
+  "belongs_to_collection": {
+    "id": 1172371,
+    "name": "Nightwatch Collection",
+    "poster_path": "/78LHeJPhqep4oQdwPtDvLIyxDHM.jpg",
+    "backdrop_path": "/7wAxf2I6ZYnvvHQGb8285ZCXdwW.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.thura.dk/nattevagten/nattevagten-eng.html",
+  "id": 6498,
+  "imdb_id": "tt0110631",
+  "origin_country": [
+    "DK"
+  ],
+  "original_language": "da",
+  "original_title": "Nattevagten",
+  "overview": "Martin, a law student, takes up a job as a nightwatchman at a mortuary to fund his studies. But the mortuary harbours a dark secret, and he has to find the truth before he is implicated in a serial murder case.",
+  "popularity": 2.9053,
+  "poster_path": "/oLBn0MUMMeC71udetLOa1lP7eFL.jpg",
+  "production_companies": [
+    {
+      "id": 2105,
+      "logo_path": "/48jOgfdOkjNXwHPhbtpHj1H8kRt.png",
+      "name": "Thura Film",
+      "origin_country": "DK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "release_date": "1994-02-25",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They are looking for a night watchman. Martin is not afraid of the dark but he just has one problem... he got the job!",
+  "title": "Nightwatch",
+  "video": false,
+  "vote_average": 6.882,
+  "vote_count": 305
+}

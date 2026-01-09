@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/vUmeBHiGp5r2ydd8aEvbNLamTVD.jpg",
+  "belongs_to_collection": {
+    "id": 63043,
+    "name": "TRON Collection",
+    "poster_path": "/l0iZbJXY8MPLSqibet4M2rzrBw4.jpg",
+    "backdrop_path": "/4INQEOQ96EvYmANsCZaad9VvRWW.jpg"
+  },
+  "budget": 17000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://movies.disney.com/tron",
+  "id": 97,
+  "imdb_id": "tt0084827",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tron",
+  "overview": "When brilliant video game maker Flynn hacks the mainframe of his ex-employer, he is beamed inside an astonishing digital world...And becomes part of the very game he is designing. In his mission through cyberspace, Flynn matches wits with a maniacal Master Control Program and teams up with Tron, a security measure created to bring balance to the digital environment.",
+  "popularity": 8.3023,
+  "poster_path": "/jigY9B6TKz4qlfikZcd18qtzTK4.jpg",
+  "production_companies": [
+    {
+      "id": 558,
+      "logo_path": null,
+      "name": "Lisberger/Kushner Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 3166,
+      "logo_path": "/vyyv4Gy9nPqAZKElPm2izLlEaVS.png",
+      "name": "Walt Disney Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1982-07-09",
+  "revenue": 33002371,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A world inside the computer where man has never been. Never before now.",
+  "title": "Tron",
+  "video": false,
+  "vote_average": 6.645,
+  "vote_count": 2612
+}

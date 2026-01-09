@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/7u6fQagw5BON5Xvg82MuPJ2REGB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0DG2NLRSB",
+  "id": 976734,
+  "imdb_id": "tt20048582",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Canary Black",
+  "overview": "Top level CIA agent Avery Graves is blackmailed by terrorists into betraying her own country to save her kidnapped husband. Cut off from her team, she turns to her underworld contacts to survive and help locate the coveted intelligence that the kidnappers want.",
+  "popularity": 4.6588,
+  "poster_path": "/hhiR6uUbTYYvKoACkdAIQPS5c6f.jpg",
+  "production_companies": [
+    {
+      "id": 20664,
+      "logo_path": "/iRrZpxnYNDnVXJkr6HiLgSLlqRc.png",
+      "name": "Anton Capital Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 23514,
+      "logo_path": "/upijXK42EK54sbRf0Opse46F2lH.png",
+      "name": "Sentient Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 138946,
+      "logo_path": "/mBm1lOmTnMnpvYEGfdNb7X9k5Bb.png",
+      "name": "Brickell & Broadbridge International",
+      "origin_country": "US"
+    },
+    {
+      "id": 198301,
+      "logo_path": null,
+      "name": "Off The Pier Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-10",
+  "revenue": 525704,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This mission is personal.",
+  "title": "Canary Black",
+  "video": false,
+  "vote_average": 6.223,
+  "vote_count": 460
+}

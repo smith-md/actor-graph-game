@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/aZ87E27xMNVaK8CwXfqX9ANIpdN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 485906,
+  "imdb_id": "tt7136736",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Elf",
+  "overview": "Nick is haunted by night terrors stemming from a tragic murder he saw when he was young. After inheriting an old toy shop, he discovers a cursed elf doll sealed inside an ancient chest with a naughty list of his family's names written on it. He soon discovers the elf's evil secret.",
+  "popularity": 4.595,
+  "poster_path": "/tzzISeHwvV7WtJjZyzL0xAhQXwi.jpg",
+  "production_companies": [
+    {
+      "id": 67895,
+      "logo_path": null,
+      "name": "Pikchure Zero Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-02-26",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Stay off the Naughty List",
+  "title": "The Elf",
+  "video": false,
+  "vote_average": 4.095,
+  "vote_count": 21
+}

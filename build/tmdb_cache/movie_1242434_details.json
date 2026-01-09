@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/94KROr9xO9u5Tq5gTdCJlVRRfhm.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://a24films.com/films/highest-2-lowest",
+  "id": 1242434,
+  "imdb_id": "tt31194612",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Highest 2 Lowest",
+  "overview": "When a titan music mogul, widely known as having the \"best ears in the business\", is targeted with a ransom plot, he is jammed up in a life-or-death moral dilemma.",
+  "popularity": 8.7001,
+  "poster_path": "/kOzwIr0R7WhaFgoYUZFLPZA2RBZ.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 4319,
+      "logo_path": "/dU4Y8EqPLCz6jARM63NwGhr4DcG.png",
+      "name": "40 Acres and a Mule Filmworks",
+      "origin_country": "US"
+    },
+    {
+      "id": 1423,
+      "logo_path": "/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png",
+      "name": "Escape Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 551,
+      "logo_path": "/jSlzEZZ4Z1g7B2UExjZEIKsUvD9.png",
+      "name": "Mandalay Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 261683,
+      "logo_path": null,
+      "name": "A/Vantage Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2680,
+      "logo_path": null,
+      "name": "Kurosawa Production",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2025-08-14",
+  "revenue": 1500000,
+  "runtime": 133,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All $$ ain't good $$.",
+  "title": "Highest 2 Lowest",
+  "video": false,
+  "vote_average": 5.543,
+  "vote_count": 395
+}

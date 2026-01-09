@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/ktHEdqmMWC1wdfPRMRCTZe2OISL.jpg",
+  "belongs_to_collection": {
+    "id": 1211888,
+    "name": "Thanksgiving Collection",
+    "poster_path": "/wKathQJBkDHusQTgwzoAx9HaVMg.jpg",
+    "backdrop_path": "/nOGO5L9HZSLq03uoVGn7JAqkV9g.jpg"
+  },
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://thanksgiving.movie",
+  "id": 1071215,
+  "imdb_id": "tt1448754",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Thanksgiving",
+  "overview": "After a Black Friday riot ends in tragedy, a mysterious Thanksgiving-inspired killer terrorizes Plymouth, Massachusetts - the birthplace of the holiday. Picking off residents one by one, what begins as random revenge killings are soon revealed to be part of a larger, sinister holiday plan.",
+  "popularity": 6.1413,
+  "poster_path": "/f5f3TEVst1nHHyqgn7Z3tlwnBIH.jpg",
+  "production_companies": [
+    {
+      "id": 175140,
+      "logo_path": "/grxF2M2ZByxjnzDyvHkfU5Tjr80.png",
+      "name": "Electromagnetic Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 18142,
+      "logo_path": null,
+      "name": "Dragonfly Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 143790,
+      "logo_path": "/wo1smiXdiwwxai2dwJlRiGwE7rS.png",
+      "name": "Spyglass Media Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-16",
+  "revenue": 46553280,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There will be no leftovers.",
+  "title": "Thanksgiving",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 1487
+}

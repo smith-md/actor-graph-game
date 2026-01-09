@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/bdSZ5SutGPvFPpRKZNcF1au6owe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 14242,
+  "imdb_id": "tt0181288",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "American Movie",
+  "overview": "American Movie documents the story of filmmaker Mark Borchardt, his mission, and his dream. Spanning over two years of intense struggle with his film, his family, financial decline, and spiritual crisis, American Movie is a portrayal of ambition, obsession, excess, and one man's quest for the American Dream.",
+  "popularity": 3.6608,
+  "poster_path": "/y8dJgWr1HeW0RRxwANDWvgIXdsF.jpg",
+  "production_companies": [
+    {
+      "id": 62136,
+      "logo_path": null,
+      "name": "Civilian Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 62137,
+      "logo_path": null,
+      "name": "Bluemark Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 62138,
+      "logo_path": null,
+      "name": "C-Hundred Film Corporation",
+      "origin_country": "US"
+    },
+    {
+      "id": 113634,
+      "logo_path": "/7ViBFQPmKYxSmfTQ0WC1RPFRQJ.png",
+      "name": "Library Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 58,
+      "logo_path": "/voYCwlBHJQANtjvm5MNIkCF1dDH.png",
+      "name": "Sony Pictures Classics",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1999-11-05",
+  "revenue": 1165795,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "American Movie",
+  "video": false,
+  "vote_average": 7.608,
+  "vote_count": 264
+}

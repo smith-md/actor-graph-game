@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/f03VYCRNJ8XjWFHsfBs0749HhTJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 84986,
+  "imdb_id": "tt0086263",
+  "origin_country": [],
+  "original_language": "en",
+  "original_title": "Screamtime",
+  "overview": "Compilation of three short horror films: \"That's The Way To Do It\", \"Dreamhouse\" and \"Do You Believe In Fairies?\" plus some new linking material.",
+  "popularity": 3.0223,
+  "poster_path": "/b4udMZ6vDrOaqqDxPlVIuVifKpr.jpg",
+  "production_companies": [
+    {
+      "id": 20479,
+      "logo_path": "/qXRIhohcMoCj4PhFCn1trRBVKye.png",
+      "name": "Manson International",
+      "origin_country": "US"
+    },
+    {
+      "id": 19970,
+      "logo_path": null,
+      "name": "Salon Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1983-01-01",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An unholy trinity of terror, three times the horror, three times the murders.",
+  "title": "Screamtime",
+  "video": false,
+  "vote_average": 3.804,
+  "vote_count": 23
+}

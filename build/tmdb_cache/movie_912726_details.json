@@ -1,0 +1,134 @@
+{
+  "adult": false,
+  "backdrop_path": "/ukdapIy8Ag2RCUvy0aYmwQfeajH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 912726,
+  "imdb_id": "tt15536668",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Rheingold",
+  "overview": "Xatar’s way from the ghetto to the top of the charts is as dramatic as it is daring: Fatih Akin’s new film is based on the autobiographical novel »Alles oder Nix« (»All or Nothing«) of the probably most authentic exponent of German gangsta rap. From the hell of an Iraqi jail, Giwar Hajabi (Emilio Sakraya) emigrated to Germany as a young boy with his family in the mid-1980s and has to start right at the bottom. There are opportunities, but far more obstacles. Giwar’s rise from petty criminal to major dealer is swift. Until one shipment goes missing. In order to clear his debts with the cartel, he plans a legendary gold heist. But just as everything goes wrong, another door opens for Giwar thanks to his passion for music …",
+  "popularity": 2.9351,
+  "poster_path": "/aUtbh1sFpCWEZlABXNjOugCbt88.jpg",
+  "production_companies": [
+    {
+      "id": 54306,
+      "logo_path": "/mFVzFYDOshvXcKvhqQ0nCjsoegf.png",
+      "name": "Bombero International",
+      "origin_country": "DE"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 96105,
+      "logo_path": "/yTIbkYK1VGE64FSFqPj5jGDvLG.png",
+      "name": "Warner Bros. Film Productions Germany",
+      "origin_country": "DE"
+    },
+    {
+      "id": 200,
+      "logo_path": null,
+      "name": "Corazón International",
+      "origin_country": "DE"
+    },
+    {
+      "id": 2345,
+      "logo_path": "/nozBgqHmM9A22IHkghTnLiUrM7Q.png",
+      "name": "Lemming Film",
+      "origin_country": "NL"
+    },
+    {
+      "id": 219408,
+      "logo_path": null,
+      "name": "Palosanto Films",
+      "origin_country": "IT"
+    },
+    {
+      "id": 7306,
+      "logo_path": "/iqCkzLmACmrws2tHO2USRLkJqXY.png",
+      "name": "The Match Factory",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2022-10-27",
+  "revenue": 9598008,
+  "runtime": 138,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rhinegold",
+  "video": false,
+  "vote_average": 6.528,
+  "vote_count": 90
+}

@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/lwaItfvrlvCZl1rAnRZ1d3JMFVi.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 2302,
+  "imdb_id": "tt0099073",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Avalon",
+  "overview": "A Polish-Jewish family comes to the U.S. at the beginning of the twentieth century. There, the family and their children try to make themselves a better future in the so-called promised land.",
+  "popularity": 3.6432,
+  "poster_path": "/lsyPs8pU6hIJCS5sw0H9Q8Tl1nJ.jpg",
+  "production_companies": [
+    {
+      "id": 559,
+      "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11407,
+      "logo_path": "/qPYLq3Q7BijSn1l11zz0Ax7o3E2.png",
+      "name": "Baltimore Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-10-05",
+  "revenue": 0,
+  "runtime": 126,
+  "spoken_languages": [
+    {
+      "english_name": "Yiddish",
+      "iso_639_1": "yi",
+      "name": ""
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Three generations of family. They shared a dream called America in a place called Avalon.",
+  "title": "Avalon",
+  "video": false,
+  "vote_average": 6.67,
+  "vote_count": 88
+}

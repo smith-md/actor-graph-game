@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/zNjp6eolIcpGx11tDbE5eekeHEG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 8429,
+  "imdb_id": "tt0038823",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Paisà",
+  "overview": "Six stories unfold in various regions, from Sicily to the northern Po Valley as American military personnel interact with a variety of Italian locals over eighteen months in the push north during the Italian Campaign of WWII as German forces retreat.",
+  "popularity": 3.1781,
+  "poster_path": "/r5IGAFASCXmp8m51vUbER3WwVcB.jpg",
+  "production_companies": [
+    {
+      "id": 2420,
+      "logo_path": null,
+      "name": "Organizzazione Film Internazionali (OFI)",
+      "origin_country": "IT"
+    },
+    {
+      "id": 2421,
+      "logo_path": null,
+      "name": "Foreign Film Productions",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1946-12-10",
+  "revenue": 0,
+  "runtime": 125,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There are always opportunities for redemption.",
+  "title": "Paisan",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 339
+}

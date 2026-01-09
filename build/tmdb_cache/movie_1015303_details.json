@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/73WRlXDUkpFtrB3rFWKnUqxHHDq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://fragmanizlesene.com/asansor-oyunu/",
+  "id": 1015303,
+  "imdb_id": "tt14013772",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Elevator Game",
+  "overview": "Socially awkward teenager Ryan discovers that the night his sister disappeared, she had played 'The Elevator Game' — a ritual conducted in an elevator in which players attempt to travel to another dimension using a set of rules found online. Ignoring warnings, he resolves to follow and find her.",
+  "popularity": 4.0986,
+  "poster_path": "/a4Zb13jow8RqJkYFgCUSdmzJCWq.jpg",
+  "production_companies": [
+    {
+      "id": 180938,
+      "logo_path": null,
+      "name": "Fearworks",
+      "origin_country": ""
+    },
+    {
+      "id": 11517,
+      "logo_path": "/7tT0PqNjEalEwE1GkjxU32SlOW6.png",
+      "name": "Buffalo Gal Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 11520,
+      "logo_path": "/q8oAysfDiYiSJQSp4UB5VNlWctW.png",
+      "name": "MFM",
+      "origin_country": "CA"
+    },
+    {
+      "id": 25954,
+      "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5056,
+      "logo_path": "/583ITs4w9sK31FnJwKiRwapTpzb.png",
+      "name": "Head Gear Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-07-12",
+  "revenue": 302271,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some doors should never be opened.",
+  "title": "Elevator Game",
+  "video": false,
+  "vote_average": 4.928,
+  "vote_count": 187
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/uxRCrEMJlfCILQhkcDuDpadkQC9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.amazon.com/gp/video/detail/B0FLH7MG9M",
+  "id": 1352755,
+  "imdb_id": "tt33335602",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Maintenance Required",
+  "overview": "Charlie, the fiercely independent owner of an all-female mechanic shop, is forced to reevaluate her future when a flashy corporate competitor moves in across the street. Seeking comfort, she turns to an anonymous online confidant - unaware she's confiding in Beau, the very rival threatening her business. As sparks fly both online and off, the truth threatens to blow everything apart.",
+  "popularity": 4.6033,
+  "poster_path": "/lM7Q1y0pmHPWZCPmGkAWGKdgu6W.jpg",
+  "production_companies": [
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 162941,
+      "logo_path": "/br6FiBUYCz57C6VAphJeBf1yxnB.png",
+      "name": "Future Artists Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 220517,
+      "logo_path": null,
+      "name": "Luber-Roklin Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-10-07",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Online... they’re anonymous soulmates. In real life they’re rivals.",
+  "title": "Maintenance Required",
+  "video": false,
+  "vote_average": 5.97,
+  "vote_count": 148
+}

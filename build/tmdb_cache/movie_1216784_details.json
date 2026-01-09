@@ -1,0 +1,139 @@
+{
+  "adult": false,
+  "backdrop_path": "/c5Ural3rnZ9VFfZ2knmVuv4I1OL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.lionsgate.com/movies/sunrise",
+  "id": 1216784,
+  "imdb_id": "tt26742994",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sunrise",
+  "overview": "When an ex-cop named Fallon returns to the scene of a horrific crime, the residents of a rural town soon discover that this dark visitor is really a vampire who feeds on blood and fear. After he is befriended by a kind immigrant family, the instinctive killer is faced with a choice between revenge and redemption.",
+  "popularity": 3.0801,
+  "poster_path": "/4aRvg2ybz646gciX5M6qaclunC2.jpg",
+  "production_companies": [
+    {
+      "id": 104678,
+      "logo_path": "/kdFFpWu5r2ziY9xXPrqhiWS9id8.png",
+      "name": "23ten",
+      "origin_country": "GB"
+    },
+    {
+      "id": 164800,
+      "logo_path": "/qZHPu9QptBtyCRtHhigklmPWvaQ.png",
+      "name": "Source Management + Production",
+      "origin_country": "US"
+    },
+    {
+      "id": 3604,
+      "logo_path": "/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png",
+      "name": "Grindstone Entertainment Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 33768,
+      "logo_path": "/f8TDXTNoj4G4eRCKlUpG3KYQj9I.png",
+      "name": "The Solution",
+      "origin_country": "US"
+    },
+    {
+      "id": 137841,
+      "logo_path": null,
+      "name": "Tetrad Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 31787,
+      "logo_path": "/dWkJVibgXMBhPathe3rn7raMcta.png",
+      "name": "Creativity Capital",
+      "origin_country": "GB"
+    },
+    {
+      "id": 141983,
+      "logo_path": null,
+      "name": "Dark Dreams Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 215940,
+      "logo_path": null,
+      "name": "XA Films",
+      "origin_country": ""
+    },
+    {
+      "id": 98082,
+      "logo_path": null,
+      "name": "Baird Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 95343,
+      "logo_path": null,
+      "name": "Milestone Entertainment",
+      "origin_country": "MM"
+    },
+    {
+      "id": 96310,
+      "logo_path": "/tBxSNuzARadiaBpIJ3qmdPG5BCz.png",
+      "name": "LB Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 52738,
+      "logo_path": null,
+      "name": "Jeff Rice Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 94196,
+      "logo_path": "/1zcO8EP4GynujCDmqatPdye8tWZ.png",
+      "name": "Wee Buns Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 11667,
+      "logo_path": "/dhBJdstAolGmqRfbQfElhsU1cTo.png",
+      "name": "Northern Ireland Screen",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-01-19",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The sun never sets on evil.",
+  "title": "Sunrise",
+  "video": false,
+  "vote_average": 5.667,
+  "vote_count": 51
+}

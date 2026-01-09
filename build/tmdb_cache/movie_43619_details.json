@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/9gZq0bWAiZUTyhCTFEjo7iCW3Jb.jpg",
+  "belongs_to_collection": null,
+  "budget": 7600000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 43619,
+  "imdb_id": "tt1315962",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Partir",
+  "overview": "A bourgeois housewife, planning to go back to work as a physiotherapist after having devoted 20 years to her husband and two children, has her comfortable, elegant life turned upside down when she falls for a Spanish builder and begins a runaway affair.",
+  "popularity": 4.1459,
+  "poster_path": "/fJuIGigEH7YqIkHqHgJTxUs21Nq.jpg",
+  "production_companies": [
+    {
+      "id": 186,
+      "logo_path": "/1xlcFvAz1PQIkMhO0pBLBPW4PWY.png",
+      "name": "Pyramide Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6454,
+      "logo_path": "/nmLFbZsv3x3hr6x0LcL40KqKKIj.png",
+      "name": "Caméra One",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12051,
+      "logo_path": null,
+      "name": "VMP",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12052,
+      "logo_path": null,
+      "name": "Solaire Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2009-08-12",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Leaving",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 118
+}

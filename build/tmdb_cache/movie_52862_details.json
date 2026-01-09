@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 52862,
+  "imdb_id": "tt0125459",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Pitch",
+  "overview": "A Canadian documentary featuring two young filmmakers attending the Toronto Film Festival to pitch a film concept to various celebrities. Their film idea, titled \"The Dawn\", concerns a Mafia don who goes for a hernia operation but gets a sex change instead. During the 1996 Toronto Fest, they approach Roger Ebert, Norman Jewison (at a packed press conference), Eric Stoltz (leaving a limo), Al Pacino, and others without much success. On a roll, they leave Toronto for Hollywood, getting advice from Arthur Hiller and Neil Simon and finding an agent who expresses interest in their pitch.",
+  "popularity": 3.6743,
+  "poster_path": "/pwL7faAN2Rei2gOZvGejNqcDhIi.jpg",
+  "production_companies": [
+    {
+      "id": 95034,
+      "logo_path": null,
+      "name": "Hotz-Rice Productions Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 95032,
+      "logo_path": null,
+      "name": "Cinefornia",
+      "origin_country": ""
+    },
+    {
+      "id": 95033,
+      "logo_path": null,
+      "name": "Hollywood or Bust Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "1997-09-04",
+  "revenue": 0,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Pitch",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 21
+}

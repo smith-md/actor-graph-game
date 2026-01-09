@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/65TVVnWOl3ko0G2GfYcCvbSmQW8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://gkids.com/films/blue-giant/",
+  "id": 887870,
+  "imdb_id": "tt15737898",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "BLUE GIANT",
+  "overview": "High school student Dai Miyamoto has his life is turned upside down the day he discovers jazz. Picking up a saxophone and leaving his sleepy hometown for the bustling nightclubs of Tokyo, Dai will find that the life of a professional musician isn’t for the faint of heart, as he must confront what it truly means to be great.",
+  "popularity": 4.1532,
+  "poster_path": "/auQ5ExCcuuudw0tQwG03obX5Zrh.jpg",
+  "production_companies": [
+    {
+      "id": 122161,
+      "logo_path": "/hxSwLVCw3ffA4Ju23fyeDBkKBTb.png",
+      "name": "NUT",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2023-02-17",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Witness the origin of the next great jazz legend.",
+  "title": "Blue Giant",
+  "video": false,
+  "vote_average": 7.773,
+  "vote_count": 75
+}

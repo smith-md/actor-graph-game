@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/5uf31DQxAFPtveULkEC8a70iPQA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 30114,
+  "imdb_id": "tt0111653",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wagons East!",
+  "overview": "After the 1860s Wild West, a group of misfit settlers - including ex-doctor Phil Taylor, prostitute Belle, and homosexual bookseller Julian - decide they cannot live in their current situation in the west. They hire a grizzled alcoholic wagon master by the name of James Harlow to take them on a journey back to their hometowns in the East.",
+  "popularity": 3.6682,
+  "poster_path": "/8Q9ulJq69kO6nT1Xs5XnL0dDjje.jpg",
+  "production_companies": [
+    {
+      "id": 275,
+      "logo_path": "/oLnOYtAjF0z9CrqJqWptFkhHOQG.png",
+      "name": "Carolco Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 889,
+      "logo_path": "/aqba7mtkseSCXByZiULc0aF2Djq.png",
+      "name": "Outlaw Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1952,
+      "logo_path": null,
+      "name": "Goodman/Rosen Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 5019,
+      "logo_path": null,
+      "name": "Wagons East N.V.",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-08-16",
+  "revenue": 4412297,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They came. They saw. They changed their minds.",
+  "title": "Wagons East!",
+  "video": false,
+  "vote_average": 4.86,
+  "vote_count": 107
+}

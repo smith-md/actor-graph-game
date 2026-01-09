@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/AoXqOWzD0HGZttYi0wHMvvGJZhZ.jpg",
+  "belongs_to_collection": {
+    "id": 59567,
+    "name": "Shanghai Noon Collection",
+    "poster_path": "/lD7h2hlP7Sx6M9jwh9weSJNpY1R.jpg",
+    "backdrop_path": "/b4c3qRzQNkTk3DpN1sZ03xdmBa8.jpg"
+  },
+  "budget": 50000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 6038,
+  "imdb_id": "tt0300471",
+  "origin_country": [
+    "CZ",
+    "HK",
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shanghai Knights",
+  "overview": "When a Chinese rebel murders Chon's estranged father and escapes to England, Chon and Roy make their way to London with revenge on their minds.",
+  "popularity": 6.7989,
+  "poster_path": "/vVNQStMlZS9mn2AKBEpadRunHgt.jpg",
+  "production_companies": [
+    {
+      "id": 58264,
+      "logo_path": null,
+      "name": "All Knight Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 158,
+      "logo_path": "/6SHlNIype9zmyEMRsBtoueUtLsq.png",
+      "name": "Spyglass Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 9195,
+      "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 58262,
+      "logo_path": null,
+      "name": "Birnbaum/Barber Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2726,
+      "logo_path": "/prHrgMVMpZnTgEWYo9Mi7nyka34.png",
+      "name": "JCE Movies",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-02-06",
+  "revenue": 88323487,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Royal Kick In The Arse",
+  "title": "Shanghai Knights",
+  "video": false,
+  "vote_average": 6.14,
+  "vote_count": 2378
+}

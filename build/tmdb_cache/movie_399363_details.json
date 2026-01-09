@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/jqOCty3utHRzDf8BNX5rP6p0UDe.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 399363,
+  "imdb_id": "tt2420124",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wendy",
+  "overview": "A re-imagining of \"Peter Pan\" from the point of view of Wendy Darling, who finds herself lost on a mysterious island where aging and time have come unglued. She must fight to save her family, her freedom and the joyous spirit of youth.",
+  "popularity": 3.4634,
+  "poster_path": "/nphsStbtAuJ2IaXtCvDXDwMUF5N.jpg",
+  "production_companies": [
+    {
+      "id": 127929,
+      "logo_path": "/7DLKyL15ETI9645XSr9JcbMV79c.png",
+      "name": "Searchlight Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 89142,
+      "logo_path": "/bfMAgFDoS5niHK077WKdoUMgLHp.png",
+      "name": "Department of Motion Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 6714,
+      "logo_path": null,
+      "name": "Court 13 Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 860,
+      "logo_path": "/aWrTeKCGu9jjsiiVSDsALC3vxu4.png",
+      "name": "Celluloid Dreams",
+      "origin_country": "FR"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-02-28",
+  "revenue": 235016,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An ageless tale.",
+  "title": "Wendy",
+  "video": false,
+  "vote_average": 5.72,
+  "vote_count": 135
+}

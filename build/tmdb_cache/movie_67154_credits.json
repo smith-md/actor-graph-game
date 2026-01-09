@@ -1,0 +1,140 @@
+{
+  "id": 67154,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2106,
+      "known_for_department": "Production",
+      "name": "Walt Disney",
+      "original_name": "Walt Disney",
+      "popularity": 1.2446,
+      "profile_path": "/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg",
+      "cast_id": 9,
+      "character": "Mickey Mouse (voice) (uncredited)",
+      "credit_id": "52fe4759c3a368484e0c22c1",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 78077,
+      "known_for_department": "Acting",
+      "name": "Clarence Nash",
+      "original_name": "Clarence Nash",
+      "popularity": 0.7566,
+      "profile_path": "/x2g2hbu4RRIcn6Q5RT8gpWR1FKV.jpg",
+      "cast_id": 10,
+      "character": "Donald Duck (voice) (uncredited)",
+      "credit_id": "52fe4759c3a368484e0c22c5",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 148767,
+      "known_for_department": "Acting",
+      "name": "Florence Gill",
+      "original_name": "Florence Gill",
+      "popularity": 1.816,
+      "profile_path": null,
+      "cast_id": 11,
+      "character": "Clara Cluck (voice) (uncredited)",
+      "credit_id": "52fe4759c3a368484e0c22c9",
+      "order": 2
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1062030,
+      "known_for_department": "Visual Effects",
+      "name": "Bill Dunham",
+      "original_name": "Bill Dunham",
+      "popularity": 0.0714,
+      "profile_path": null,
+      "credit_id": "52fe4759c3a368484e0c22b1",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 148185,
+      "known_for_department": "Visual Effects",
+      "name": "Jim Armstrong",
+      "original_name": "Jim Armstrong",
+      "popularity": 0.2447,
+      "profile_path": null,
+      "credit_id": "52fe4759c3a368484e0c229f",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 222582,
+      "known_for_department": "Directing",
+      "name": "Riley Thomson",
+      "original_name": "Riley Thomson",
+      "popularity": 0.264,
+      "profile_path": null,
+      "credit_id": "52fe4759c3a368484e0c2293",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1062031,
+      "known_for_department": "Visual Effects",
+      "name": "Arthur Elliott",
+      "original_name": "Arthur Elliott",
+      "popularity": 1.2805,
+      "profile_path": null,
+      "credit_id": "52fe4759c3a368484e0c22bd",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 148152,
+      "known_for_department": "Visual Effects",
+      "name": "Ed Love",
+      "original_name": "Ed Love",
+      "popularity": 0.3527,
+      "profile_path": null,
+      "credit_id": "52fe4759c3a368484e0c22a5",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 226599,
+      "known_for_department": "Visual Effects",
+      "name": "Norman Ferguson",
+      "original_name": "Norman Ferguson",
+      "popularity": 1.1582,
+      "profile_path": "/fp0NPNlKl08kKbEgrlgvmxJJC7L.jpg",
+      "credit_id": "52fe4759c3a368484e0c22b7",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2106,
+      "known_for_department": "Production",
+      "name": "Walt Disney",
+      "original_name": "Walt Disney",
+      "popularity": 1.2446,
+      "profile_path": "/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg",
+      "credit_id": "52fe4759c3a368484e0c2299",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

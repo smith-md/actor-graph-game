@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/i677xmOGH42gJWTeKyau6Uyo5VV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "https://filmforum.org/film/predators",
+  "id": 1400382,
+  "imdb_id": "tt34963732",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Predators",
+  "overview": "In the mid-aughts, Dateline NBC’s To Catch a Predator drew millions of weekly viewers to watch sting operations: men planning to meet minors for sex would instead be confronted by polished host Chris Hansen, then by the police — all on hidden camera.",
+  "popularity": 7.6252,
+  "poster_path": "/epjqcM33F3PKRZmj3KbpsXlJ3gY.jpg",
+  "production_companies": [
+    {
+      "id": 240585,
+      "logo_path": null,
+      "name": "Sweet Relief",
+      "origin_country": "US"
+    },
+    {
+      "id": 154646,
+      "logo_path": null,
+      "name": "Rosewater Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-19",
+  "revenue": 61248,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Predators",
+  "video": false,
+  "vote_average": 5.958,
+  "vote_count": 24
+}

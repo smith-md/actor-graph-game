@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/qoxriJ6n1qxvG1bBMPnsZBHKGco.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 11845,
+  "imdb_id": "tt0256103",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "Intimacy",
+  "overview": "Failed musician Jay abandoned his family and now earns a living as head bartender in a trendy London pub. Every Wednesday afternoon, a woman comes to his house for graphic, almost wordless, sex. One day, Jay follows her and learns about her. This eventually disrupts their relationship.",
+  "popularity": 5.7512,
+  "poster_path": "/aiPhBVo2eNhuPw5Pezx4BHagvUx.jpg",
+  "production_companies": [
+    {
+      "id": 885,
+      "logo_path": null,
+      "name": "Téléma Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10946,
+      "logo_path": "/gk4SFkJ3G49gGL308zymD8QGNw.png",
+      "name": "WDR/Arte",
+      "origin_country": "DE"
+    },
+    {
+      "id": 11912,
+      "logo_path": null,
+      "name": "Mikado Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 203587,
+      "logo_path": null,
+      "name": "Azor Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2001-01-20",
+  "revenue": 2672527,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every Wednesday. She meets him once per week.",
+  "title": "Intimacy",
+  "video": false,
+  "vote_average": 6.229,
+  "vote_count": 542
+}

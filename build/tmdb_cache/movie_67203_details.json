@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/ykqrPTWtTmxj22FswaWYTl9ZeOr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 67203,
+  "imdb_id": "tt1471352",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Arctic Predator",
+  "overview": "A team searching for a long-lost ship in the Arctic unwittingly unleash an alien creature that looks like it's made of ice.",
+  "popularity": 6.1227,
+  "poster_path": "/eqPbH6EM9BfXXL4SQUG5N31S8xp.jpg",
+  "production_companies": [
+    {
+      "id": 51569,
+      "logo_path": "/y3uHg8odkElsEKzIGV6Ly6eZX71.png",
+      "name": "UFO Films",
+      "origin_country": "BG"
+    },
+    {
+      "id": 68826,
+      "logo_path": null,
+      "name": "Arctic Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 29185,
+      "logo_path": "/3SHlavyUJiZIn4ZS5h3B9ggP0Cf.png",
+      "name": "BUFO",
+      "origin_country": "BG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "BG",
+      "name": "Bulgaria"
+    }
+  ],
+  "release_date": "2010-08-20",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Frost Giant",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 40
+}

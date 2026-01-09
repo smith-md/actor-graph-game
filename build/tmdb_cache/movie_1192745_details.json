@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/n3tSLirzZ8XJ6XeME7SqpmhpMdF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0CGS2QSWR",
+  "id": 1192745,
+  "imdb_id": "tt29536228",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "EXmas",
+  "overview": "When Graham decides to surprise his family by traveling home for Christmas, he is shocked to discover them already celebrating with an unexpected guest of honor, his ex-fiancée, Ali. The two exes battle it out to see who the family will pick to stay through Christmas Day and who must go.",
+  "popularity": 3.849,
+  "poster_path": "/4WfzdlUXUAd1QA6xmbbNH89Kgbo.jpg",
+  "production_companies": [
+    {
+      "id": 125401,
+      "logo_path": "/dMEisJ0hVKRiwqfpPq7ALu1Cy9e.png",
+      "name": "BuzzFeed Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 139492,
+      "logo_path": "/h0mdxIapmlpreNlejW89hSoqXBE.png",
+      "name": "CR8IV DNA",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-17",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "'Twas the fight before Christmas.",
+  "title": "EXmas",
+  "video": false,
+  "vote_average": 6.352,
+  "vote_count": 142
+}

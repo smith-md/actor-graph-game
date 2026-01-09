@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/55Ak5o04S62RiHhITVrMxdn3KJb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 86093,
+  "imdb_id": "tt0097109",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cookie",
+  "overview": "Cookie Voltecki is the illegitimate daughter of mobster Dino Capisco, who has just finished thirteen years in prison. Since being released from jail, all that Dino wants is to settle some old scores, and make up for lost time with his daughter.",
+  "popularity": 5.6282,
+  "poster_path": "/z37uyPcHdQoXFXSywqsUJTeFAPc.jpg",
+  "production_companies": [
+    {
+      "id": 1176,
+      "logo_path": null,
+      "name": "Lorimar Film Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-08-02",
+  "revenue": 1869180,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She's a chip off the old block.",
+  "title": "Cookie",
+  "video": false,
+  "vote_average": 5.19,
+  "vote_count": 21
+}

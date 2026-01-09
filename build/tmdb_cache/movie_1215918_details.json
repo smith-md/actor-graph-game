@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/gMivgcDVJmp8DTwMZ2YLhkJV09V.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 1215918,
+  "imdb_id": "tt22767628",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Blackwater Lane",
+  "overview": "Late one night, a woman drives by a stranded motorist who is later revealed to have been murdered. After a series of terrifying events the woman believes she is the killer's next victim.",
+  "popularity": 3.0051,
+  "poster_path": "/tdUFd56CFC0o6XoAkn4WRNHwqod.jpg",
+  "production_companies": [
+    {
+      "id": 50494,
+      "logo_path": null,
+      "name": "Clear Pictures Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 22061,
+      "logo_path": "/318mlWFaj6wOh4XlF8jc0hgn62g.png",
+      "name": "Vitamin A Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 229145,
+      "logo_path": null,
+      "name": "Piney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 130808,
+      "logo_path": "/lLn5aqdLbYiuN1hq8wGwImdRndG.png",
+      "name": "13 Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 130899,
+      "logo_path": "/bJNituvsaH1VbBlKdnbfU4CRY8G.png",
+      "name": "SSS Film Capital",
+      "origin_country": "US"
+    },
+    {
+      "id": 9987,
+      "logo_path": "/o5OTKAw7Acl5fTZYPyl8M8D9570.png",
+      "name": "Lipsync Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 65649,
+      "logo_path": "/tXTuZTEcYYB1hIyAAwDyhZE0f7c.png",
+      "name": "SSS Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-06-21",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There is a place where the supernatural is real.",
+  "title": "Blackwater Lane",
+  "video": false,
+  "vote_average": 6.02,
+  "vote_count": 127
+}

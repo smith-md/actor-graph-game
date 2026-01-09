@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/704pWRU1CihHgIIKRSAZD7juXQy.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.overcomermovie.com",
+  "id": 527776,
+  "imdb_id": "tt8186318",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Overcomer",
+  "overview": "After reluctantly agreeing to coach cross-country, high school basketball Coach John Harrison helps the least likely runner attempt the impossible in the biggest race of the year.",
+  "popularity": 5.1825,
+  "poster_path": "/rVR3uN1yPRqYBBtNFSrEKCpRhaK.jpg",
+  "production_companies": [
+    {
+      "id": 69411,
+      "logo_path": "/jkkrsMgj9Gbb8g17NUnLqlfmnmv.png",
+      "name": "Kendrick Brothers",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-08-22",
+  "revenue": 38026103,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What do you allow to define you?",
+  "title": "Overcomer",
+  "video": false,
+  "vote_average": 7.692,
+  "vote_count": 297
+}

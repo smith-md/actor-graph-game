@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/5QKddKk1qEe8CwWYpklmKq68uyo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0FDH5GHWX",
+  "id": 1312946,
+  "imdb_id": "tt33549478",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Map That Leads to You",
+  "overview": "Heather is a young woman traveling Europe with friends before starting her perfectly planned life. A chance meeting with Jack sparks an unexpected romance that leads to deep emotional discovery. As secrets and life choices test their bond, her path changes forever.",
+  "popularity": 7.3562,
+  "poster_path": "/uwvKQIjJpC37IEsEj4ZAn1ITyRy.jpg",
+  "production_companies": [
+    {
+      "id": 12292,
+      "logo_path": "/5J93SHsuvIV32AE9oSbMi02pqw9.png",
+      "name": "Temple Hill Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 11068,
+      "logo_path": "/jOdUllzDZRFy0tPIFDEwpP4Mpv4.png",
+      "name": "Nostromo Pictures",
+      "origin_country": "ES"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "2025-08-19",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love is a journey worth taking.",
+  "title": "The Map That Leads to You",
+  "video": false,
+  "vote_average": 6.577,
+  "vote_count": 281
+}

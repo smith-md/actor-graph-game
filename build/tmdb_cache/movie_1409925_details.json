@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/gCwqAuSehwSaGnuqkvFKu9PuyRa.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1409925,
+  "imdb_id": "tt26472958",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "ca",
+  "original_title": "Molt lluny",
+  "overview": "Sergio, who has traveled to Utrecht with his family to attend a soccer match, suffers a panic attack just before taking the flight back to Barcelona.",
+  "popularity": 3.0596,
+  "poster_path": "/9IbpKrE0kHA1pCiFLuf8JYribwR.jpg",
+  "production_companies": [
+    {
+      "id": 139254,
+      "logo_path": null,
+      "name": "Zabriskie Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 46421,
+      "logo_path": "/rajjM3rDu86FKIGDLQUGy1H41Ym.png",
+      "name": "Revolver Amsterdam",
+      "origin_country": "NL"
+    },
+    {
+      "id": 211922,
+      "logo_path": "/jXI0xZEJabWaYtfqWxXyKuJJxzX.png",
+      "name": "3Cat",
+      "origin_country": "ES"
+    },
+    {
+      "id": 265749,
+      "logo_path": "/vFqHb0z4jNbA4h6iMQ52OaQRdEQ.png",
+      "name": "RTVE",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2025-04-11",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Catalan",
+      "iso_639_1": "ca",
+      "name": "Català"
+    },
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Away",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 40
+}

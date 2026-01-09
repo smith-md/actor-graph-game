@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/p3ptZJtmzjpE9jvvi4NzJvuWALp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1021803,
+  "imdb_id": "tt22001304",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Adagio",
+  "overview": "Tangled up with blackmail and crooked cops, the son of a former gangster seeks out his father's old friends, who risk everything to save him.",
+  "popularity": 3.2001,
+  "poster_path": "/x9kLSGl1q6T4IKjXpJ8I6O8U873.jpg",
+  "production_companies": [
+    {
+      "id": 115535,
+      "logo_path": "/mYoc1K3UPAUqKfuCYkvDLJN2aAA.png",
+      "name": "Vision Distribution",
+      "origin_country": "IT"
+    },
+    {
+      "id": 128344,
+      "logo_path": "/zNBa6RAZ5TKWZUEhxx6sxc9tdrr.png",
+      "name": "The Apartment Pictures",
+      "origin_country": "IT"
+    },
+    {
+      "id": 181855,
+      "logo_path": null,
+      "name": "AlterEgo",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2023-12-14",
+  "revenue": 0,
+  "runtime": 127,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Adagio",
+  "video": false,
+  "vote_average": 6.631,
+  "vote_count": 267
+}

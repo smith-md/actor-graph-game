@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/mijSBMlvAp4QoCpEShrl62444Cb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1134278,
+  "imdb_id": "tt28290159",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Maraé",
+  "overview": "A surf vacation turns into a nightmare when a group of surfers go looking for waves on a mysterious island that isn't on any map.",
+  "popularity": 11.2139,
+  "poster_path": "/s2XGmV7exdrQ9WUTxqgjC3Ch0UZ.jpg",
+  "production_companies": [
+    {
+      "id": 176527,
+      "logo_path": null,
+      "name": "Darklight Content",
+      "origin_country": ""
+    },
+    {
+      "id": 67043,
+      "logo_path": "/lcpIJu30UucUTE5SCKYD1qFdDHr.png",
+      "name": "Nolita",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-07-11",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Survive at all costs.",
+  "title": "Pacific Fear",
+  "video": false,
+  "vote_average": 4.368,
+  "vote_count": 38
+}

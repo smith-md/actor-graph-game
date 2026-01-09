@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/eo6mtsq5KPbzp7taUPpwVC7Mrbv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 634524,
+  "imdb_id": "tt10253466",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Badland",
+  "overview": "Detective Matthias Breecher, hired to track down the worst of the Confederate war criminals, roams the Old West seeking justice. His resolve is tested when he meets a determined pioneer woman who is far more than she seems.",
+  "popularity": 4.1154,
+  "poster_path": "/217ddlMrnXll436baw7y5ERmz3x.jpg",
+  "production_companies": [
+    {
+      "id": 106273,
+      "logo_path": null,
+      "name": "Papa Octopus Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-11-01",
+  "revenue": 0,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Badland",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 121
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/vq5EcmEK3Bqsqq9cPINELCtnAUc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 8983,
+  "imdb_id": "tt0109791",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Felidae",
+  "overview": "A domestic house cat named Francis investigates the grisly feline murders taking place in his new neighborhood.",
+  "popularity": 3.1919,
+  "poster_path": "/bI9fGbmtQhtHRTNaZXnFjDzoxtI.jpg",
+  "production_companies": [
+    {
+      "id": 13589,
+      "logo_path": null,
+      "name": "Fontana Film",
+      "origin_country": ""
+    },
+    {
+      "id": 25603,
+      "logo_path": "/j49jGjm5NmgW8lPvqFMxaRjVUjG.png",
+      "name": "TFC Trickompany Filmproduktion",
+      "origin_country": "DE"
+    },
+    {
+      "id": 191,
+      "logo_path": "/5Cz9SVf733VhCvKpaivl1jlAXAK.png",
+      "name": "Senator Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1994-11-03",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Francis is  the world’s greatest cat detective. And all his nine lives are in danger.",
+  "title": "Felidae",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 142
+}

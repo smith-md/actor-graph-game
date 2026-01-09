@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/y8vFE8zsOJkUud6ea0uVaOVPo6y.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://brainstormmedia.com/catalog/1/item/american-sweatshop",
+  "id": 1215020,
+  "imdb_id": "tt32387554",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "American Sweatshop",
+  "overview": "A content moderator is tasked with purging offensive media from the internet. When she witnesses a crime in a video, she is lured away from the safety of her keyboard as she obsessively seeks to hold someone accountable.",
+  "popularity": 5.4796,
+  "poster_path": "/zUXz9LHeU82S3n2pJhiEifOOei5.jpg",
+  "production_companies": [
+    {
+      "id": 1761,
+      "logo_path": "/41POd5EM9CPUZvsNfzPMTFITclq.png",
+      "name": "Elsani Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 11407,
+      "logo_path": "/qPYLq3Q7BijSn1l11zz0Ax7o3E2.png",
+      "name": "Baltimore Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 269742,
+      "logo_path": null,
+      "name": "Elsani & Neary Media",
+      "origin_country": "DE"
+    },
+    {
+      "id": 738,
+      "logo_path": "/bLBdowsgMoipjXLi9QpdcZOvPhG.png",
+      "name": "Myriad Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11658,
+      "logo_path": "/hDKTXUEj1BR3Istbh2Zu5GOYvej.png",
+      "name": "Brainstorm Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 94107,
+      "logo_path": null,
+      "name": "MMC Movies",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-19",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "American Sweatshop",
+  "video": false,
+  "vote_average": 5.095,
+  "vote_count": 21
+}

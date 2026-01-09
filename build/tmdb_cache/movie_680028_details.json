@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/kmxnUYcisJDED8oNNIRd9QwWYYP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 680028,
+  "imdb_id": "tt8945942",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Centigrade",
+  "overview": "A young American couple travel to the arctic mountains of Norway. After pulling over during a snowstorm, they wake up trapped in their SUV, buried underneath layers of snow and ice.",
+  "popularity": 4.4791,
+  "poster_path": "/aNGwyT62PSVNp9xoyP6QyRjH6Tg.jpg",
+  "production_companies": [
+    {
+      "id": 69142,
+      "logo_path": null,
+      "name": "Manhattan Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 107513,
+      "logo_path": "/tRArb3RvrssbYCST9R0A8NKyDKV.png",
+      "name": "Phiphen Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-08-28",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Based on chilling true events",
+  "title": "Centigrade",
+  "video": false,
+  "vote_average": 5.855,
+  "vote_count": 286
+}

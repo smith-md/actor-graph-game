@@ -1,0 +1,49 @@
+{
+  "adult": false,
+  "backdrop_path": "/jc2yc0ogabwS9eryK2WorQNiZxW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1187125,
+  "imdb_id": "tt15791144",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Last County",
+  "overview": "An alcoholic woman with a marriage on the rocks finds an unlikely ally in a wounded drug mule when the two of them are forced to defend her home from a violent siege of corrupt small town cops.",
+  "popularity": 3.6179,
+  "poster_path": "/ibMksKc5cMxrNX3JF6Bs2EIW3Cb.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2024-03-01",
+  "revenue": 0,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Last County",
+  "video": false,
+  "vote_average": 5.95,
+  "vote_count": 20
+}

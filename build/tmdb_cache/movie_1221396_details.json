@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/A3Vlvhhu2IxKXnv5EXAczuNWCys.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.disneyplus.com/movies/details/6MlDlPhBLCIb",
+  "id": 1221396,
+  "imdb_id": "tt30818907",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Self",
+  "overview": "A wooden puppet who desperately wants to fit in makes an ill-fated wish upon a star, sparking a journey of self-discovery.",
+  "popularity": 3.15,
+  "poster_path": "/jrbBVDmC4lTquL5NvNbom9RAzbx.jpg",
+  "production_companies": [
+    {
+      "id": 3,
+      "logo_path": "/1TjvGVDMYsj6JBxOAkUHpPEwLf7.png",
+      "name": "Pixar",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-02-01",
+  "revenue": 0,
+  "runtime": 7,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Not everything that shines is gold.",
+  "title": "Self",
+  "video": false,
+  "vote_average": 6.074,
+  "vote_count": 47
+}

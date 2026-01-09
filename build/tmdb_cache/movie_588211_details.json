@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/W6O4toMGq9yCsLpYci8Q7cAcBy.jpg",
+  "belongs_to_collection": null,
+  "budget": 35000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.alienuniverse.com/mainframe/40th-shorts",
+  "id": 588211,
+  "imdb_id": "tt10090626",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Alien: Ore",
+  "overview": "When her shift uncovers the death of a fellow miner under mysterious circumstances, a hard-working miner of a planet mining colony is forced to choose between escape or defying management orders and fight for the safety of her family.",
+  "popularity": 3.7573,
+  "poster_path": "/zS6vvoRgy3v4FR0diWPydYanzvJ.jpg",
+  "production_companies": [
+    {
+      "id": 116054,
+      "logo_path": "/9FTZXrzoLneV96DwELwp4UWo0Aj.png",
+      "name": "Tongal",
+      "origin_country": "US"
+    },
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-03-30",
+  "revenue": 0,
+  "runtime": 11,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Alien: Ore",
+  "video": false,
+  "vote_average": 6.127,
+  "vote_count": 51
+}

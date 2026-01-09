@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/vgxm0t7WQRo7QNyQCkuPD4tLK9Y.jpg",
+  "belongs_to_collection": null,
+  "budget": 1700000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 14167,
+  "imdb_id": "tt0360016",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Standing Still",
+  "overview": "A chain reaction of confrontations and romantic encounters occurs when college friends reunite for one's wedding.",
+  "popularity": 3.0518,
+  "poster_path": "/zKn3tCS4cZAOWbrjHaAYyDqdkzH.jpg",
+  "production_companies": [
+    {
+      "id": 65654,
+      "logo_path": null,
+      "name": "Trent Othick Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 65655,
+      "logo_path": null,
+      "name": "Insomnia Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 65656,
+      "logo_path": null,
+      "name": "Rice/Walters Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-01-02",
+  "revenue": 12762,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sometimes it's hard moving forward without first looking back.",
+  "title": "Standing Still",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 44
+}

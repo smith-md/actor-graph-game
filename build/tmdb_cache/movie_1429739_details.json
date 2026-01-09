@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/kYsU56QEcwEr8jAQ6Vm3M8bXTWz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81739746",
+  "id": 1429739,
+  "imdb_id": "tt36711248",
+  "origin_country": [
+    "TH"
+  ],
+  "original_language": "th",
+  "original_title": "เขาชุมทอง คะนองชุมโจร",
+  "overview": "At the tail end of World War II, a bandit leader and his crew go up against his sworn enemy and the Japanese army to rob a train full of gold.",
+  "popularity": 4.5709,
+  "poster_path": "/7j6jZNhCTnsZy5QItpruDwyBWoo.jpg",
+  "production_companies": [
+    {
+      "id": 101928,
+      "logo_path": null,
+      "name": "Bang Fai Film",
+      "origin_country": "TH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TH",
+      "name": "Thailand"
+    }
+  ],
+  "release_date": "2025-08-19",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Gold Rush Gang",
+  "video": false,
+  "vote_average": 6.983,
+  "vote_count": 29
+}

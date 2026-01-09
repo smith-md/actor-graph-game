@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/pFIKYogV7g3kjGGiS8TQRJfwDeM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 74585,
+  "imdb_id": "tt0046366",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Stazione Termini",
+  "overview": "While on vacation in Rome, married American Mary Forbes becomes entangled in an affair with an Italian man, Giovanni Doria. As she prepares to leave Italy, Giovanni confesses his love for her; he doesn't want her to go. Together they wander the railroad station where Mary is to take the train to Paris, then ultimately reunite with her husband and daughter in Philadelphia. Will she throw away her old life for this passionate new romance?",
+  "popularity": 4.1472,
+  "poster_path": "/wvv892G09s9o0N1Mg5QkKZKBRNR.jpg",
+  "production_companies": [
+    {
+      "id": 1875,
+      "logo_path": null,
+      "name": "Produzioni De Sica",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1953-04-02",
+  "revenue": 0,
+  "runtime": 64,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This Longing ... This Yearning ... This Wanting ...",
+  "title": "Indiscretion of an American Wife",
+  "video": false,
+  "vote_average": 5.896,
+  "vote_count": 52
+}

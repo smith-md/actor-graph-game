@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/glB4P9UmydAoktMOKHbDCa0XMxb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 30885,
+  "imdb_id": "tt0072354",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Vampyres",
+  "overview": "A duo of bisexual female vampires prey on passing motorists, whom they seduce and murder in the English countryside.",
+  "popularity": 3.3165,
+  "poster_path": "/xPA3n6HGiZccrkygDPq6tzeEDbU.jpg",
+  "production_companies": [
+    {
+      "id": 13985,
+      "logo_path": null,
+      "name": "Lurco Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1974-07-06",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They shared the pleasures of the flesh and the horrors of the grave!",
+  "title": "Vampyres",
+  "video": false,
+  "vote_average": 5.922,
+  "vote_count": 153
+}

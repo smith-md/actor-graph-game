@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/qYvOcinXcnebhmCxYeivurh91T1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81504326",
+  "id": 827931,
+  "imdb_id": "tt14857528",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Time Cut",
+  "overview": "A teen in 2024 accidentally time-travels to 2003, days before a masked killer murders her sister. Can she change the past without destroying the future?",
+  "popularity": 5.4289,
+  "poster_path": "/gzMFMmpJHOmOFKsAhSDac62Dyg2.jpg",
+  "production_companies": [
+    {
+      "id": 172977,
+      "logo_path": "/4FOQ0au99xFZw4uCOJekJAp1We.png",
+      "name": "ACE Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-29",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This murder is set on repeat.",
+  "title": "Time Cut",
+  "video": false,
+  "vote_average": 5.643,
+  "vote_count": 559
+}

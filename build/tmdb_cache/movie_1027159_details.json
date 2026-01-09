@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/tCfkGWgvCNLbazhduNqkd0ZnoIt.jpg",
+  "belongs_to_collection": {
+    "id": 1185967,
+    "name": "Lupin the Third Collection",
+    "poster_path": "/rLq44jhaEuupNyLPWSSW2ZoUC25.jpg",
+    "backdrop_path": "/33WQjdK6QXUq39FgzzO8sZ3TVPR.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0B8TGGKN1",
+  "id": 1027159,
+  "imdb_id": "tt22192398",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "ルパン三世VSキャッツ・アイ",
+  "overview": "Lupin III competes with the Kisugi sisters to steal a triptych of paintings that once belonged to their father, and which hold the key to a long-unsolved mystery.",
+  "popularity": 4.5652,
+  "poster_path": "/t9XXivYtzap9TPNQ5CWskzh5agF.jpg",
+  "production_companies": [
+    {
+      "id": 7164,
+      "logo_path": "/vHsaqTkQ2ZTbdqrCA272YahoVlg.png",
+      "name": "TMS Entertainment",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2023-04-20",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The most elegant battle begins.",
+  "title": "LUPIN THE 3rd vs. CAT'S EYE",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 48
+}

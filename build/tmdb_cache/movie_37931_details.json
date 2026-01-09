@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/q3ySVO0N9tHw00heI0Wd1B9Qwih.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://iamrogue.com/macgruber/",
+  "id": 37931,
+  "imdb_id": "tt1470023",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "MacGruber",
+  "overview": "Ex-special operative MacGruber is called back into action to take down his archenemy, Dieter Von Cunth, who's in possession of a nuclear warhead and bent on destroying Washington, DC.",
+  "popularity": 4.6752,
+  "poster_path": "/4WrSz0dRfq6XwJUQlYvzuhJq8hR.jpg",
+  "production_companies": [
+    {
+      "id": 200953,
+      "logo_path": null,
+      "name": "Universal Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 7295,
+      "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+      "name": "Relativity Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 134,
+      "logo_path": "/2uKAP9aAAhVMpfSqa4wtlIHod5g.png",
+      "name": "Rogue Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 58553,
+      "logo_path": "/axmLR5KFiWOwANdmSX92IgAGVyl.png",
+      "name": "Michaels-Goldwyn",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-05-21",
+  "revenue": 9322895,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's the ultimate tool.",
+  "title": "MacGruber",
+  "video": false,
+  "vote_average": 5.419,
+  "vote_count": 587
+}

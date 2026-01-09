@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/wVg8Fndzwq3ts3zedhW3Vn9aC4B.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 812037,
+  "imdb_id": "tt14550346",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "L'été dernier",
+  "overview": "One summer, a French teenager who has been living with his mother in the city moves in with his estranged father’s family in the countryside, where he clashes with his stepmother.",
+  "popularity": 6.8145,
+  "poster_path": "/a94IHwd6t2oXKy5KWTvaEnAs6Ux.jpg",
+  "production_companies": [
+    {
+      "id": 8997,
+      "logo_path": "/79j5EijIG8NrRg5ibLtdooXTsiu.png",
+      "name": "SBS Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2023-09-13",
+  "revenue": 1022551,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Last Summer",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 234
+}

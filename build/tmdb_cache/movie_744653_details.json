@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/4KN06gns94rQFoYQWDGunK7Cob4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81751137",
+  "id": 744653,
+  "imdb_id": "tt12001534",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Thursday Murder Club",
+  "overview": "A group of senior sleuths passionate about solving cold cases get plunged into a real-life murder mystery in this comic crime caper.",
+  "popularity": 6.7389,
+  "poster_path": "/jbnazCHr8S2l2glyvjPTpa4NbEw.jpg",
+  "production_companies": [
+    {
+      "id": 56,
+      "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 41641,
+      "logo_path": "/rBlfMlCcxulmS25zTQwmXDHZmnB.png",
+      "name": "Maiden Voyage Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 201543,
+      "logo_path": null,
+      "name": "Jennifer Todd Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-22",
+  "revenue": 0,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Join the club.",
+  "title": "The Thursday Murder Club",
+  "video": false,
+  "vote_average": 6.635,
+  "vote_count": 827
+}

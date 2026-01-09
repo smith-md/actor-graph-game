@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/6yrbWzzrPp7pwz6zHdifspJk8t3.jpg",
+  "belongs_to_collection": null,
+  "budget": 120000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1398,
+  "imdb_id": "tt0079944",
+  "origin_country": [
+    "SU"
+  ],
+  "original_language": "ru",
+  "original_title": "Сталкер",
+  "overview": "Near a gray and unnamed city is the Zone, a place guarded by barbed wire and soldiers, and where the normal laws of physics are victim to frequent anomalies. A stalker guides two men into the Zone, specifically to an area in which deep-seated desires are granted.",
+  "popularity": 5.6711,
+  "poster_path": "/1qhOyf5C4s9ZdvY8d5JDx9DFMeT.jpg",
+  "production_companies": [
+    {
+      "id": 344,
+      "logo_path": "/xenuUvcunUNpbaDOYGhWZERaym7.png",
+      "name": "Mosfilm",
+      "origin_country": "SU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SU",
+      "name": "Soviet Union"
+    }
+  ],
+  "release_date": "1979-05-25",
+  "revenue": 0,
+  "runtime": 162,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There's no need to speak. You must only...concentrate and recall all your past life. When a man thinks of the past, he becomes kinder.",
+  "title": "Stalker",
+  "video": false,
+  "vote_average": 8.1,
+  "vote_count": 2406
+}

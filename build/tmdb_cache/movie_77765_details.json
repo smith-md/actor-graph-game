@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/ulXiKO7u6HtOxz1YxQMgEtZ023b.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 77765,
+  "imdb_id": "tt0071721",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Klansman",
+  "overview": "A small southern town has just been rocked by a tragedy: a young white woman has been raped by a black man. When young black man Garth witnesses the Ku Klux Klan's violent retaliation against his innocent friend, Garth declares a one-man war on the Klan and hunts them down one-by-one.",
+  "popularity": 3.8028,
+  "poster_path": "/3dqY2dRGc27rXuYwJL7ipMDs5WB.jpg",
+  "production_companies": [
+    {
+      "id": 8311,
+      "logo_path": null,
+      "name": "Atlanta Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1974-10-25",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Welcome to scenic Atoka County. Pop. 10,000. Cross burnings. Rape. Murder. Arson. It's a great place to live...if THEY let you.",
+  "title": "The Klansman",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 38
+}

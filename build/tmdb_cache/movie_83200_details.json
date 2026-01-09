@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/rft7tLgv41w33b037512tlmxD4N.jpg",
+  "belongs_to_collection": {
+    "id": 1041406,
+    "name": "Roger Rabbit Collection",
+    "poster_path": "/p4mH17CBJbZFmLGMrp0bG9PRUnA.jpg",
+    "backdrop_path": "/6Argi11UOO4rIXCaTUg9jNTjTwp.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    }
+  ],
+  "homepage": "",
+  "id": 83200,
+  "imdb_id": "tt0100821",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tummy Trouble",
+  "overview": "Roger Rabbit once again is chosen for the dangerous task of babysitting Baby Herman and everything is going to be just fine.",
+  "popularity": 4.0667,
+  "poster_path": "/mLOqZNasNOUKSNCpAIeHmJWPkvW.jpg",
+  "production_companies": [
+    {
+      "id": 56,
+      "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 2,
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 171656,
+      "logo_path": "/4UBohOtIr9DtxylH48Qsg6aDow6.png",
+      "name": "Walt Disney Feature Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-06-23",
+  "revenue": 0,
+  "runtime": 7,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Tummy Trouble",
+  "video": false,
+  "vote_average": 6.713,
+  "vote_count": 75
+}

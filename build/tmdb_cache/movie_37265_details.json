@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/hpcrX3mqu5WGM9r5aDlukU86ucS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 37265,
+  "imdb_id": "tt0104014",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Così fan tutte",
+  "overview": "After five years of marriage, Diana discovers the joys of adultery, claiming that she can save her failing relationship through betrayal.",
+  "popularity": 9.1615,
+  "poster_path": "/fVLwjwThhwvxSNGYu2rFO47yaQ9.jpg",
+  "production_companies": [
+    {
+      "id": 5051,
+      "logo_path": null,
+      "name": "Faso Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 5128,
+      "logo_path": null,
+      "name": "San Francisco Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1992-02-21",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A New Erotic Masterpiece from Tinto Brass, the Director of Caligula.",
+  "title": "All Ladies Do It",
+  "video": false,
+  "vote_average": 5.016,
+  "vote_count": 408
+}

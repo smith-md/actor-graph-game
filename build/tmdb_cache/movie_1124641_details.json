@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/dSN3zXRe2QdcdXfvQoPP85lqeUw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/classified",
+  "id": 1124641,
+  "imdb_id": "tt27714840",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Classified",
+  "overview": "Operating alone in the field for more than 20 years, a CIA hitman uses the \"Help Wanted\" section of the newspapers to get his orders from the Agency. His long-lost daughter, now a UK MI6 analyst, tracks him down to deliver shocking news: his CIA boss has been dead for years and the division long since shut down. Together, they set out to discover whose orders he's been executing.",
+  "popularity": 4.8514,
+  "poster_path": "/o5zHDxx9aGtg0bK9gVghik8ohYb.jpg",
+  "production_companies": [
+    {
+      "id": 100121,
+      "logo_path": null,
+      "name": "Film Bridge International",
+      "origin_country": "US"
+    },
+    {
+      "id": 52352,
+      "logo_path": "/dHjAAPaqpjsikkKzmhZ4ofQaEkQ.png",
+      "name": "Great Point Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 159674,
+      "logo_path": "/2NAHsquI5QpycL3RnnxlESGgS7C.png",
+      "name": "Filmology Finance",
+      "origin_country": "AU"
+    },
+    {
+      "id": 276500,
+      "logo_path": null,
+      "name": "Midwest",
+      "origin_country": ""
+    },
+    {
+      "id": 68373,
+      "logo_path": null,
+      "name": "Underdogg Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 76992,
+      "logo_path": "/mw3j3P8SUQJKLSJQrLKuSDO9Xr6.png",
+      "name": "Saban Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-09-19",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Classified",
+  "video": false,
+  "vote_average": 5.595,
+  "vote_count": 179
+}

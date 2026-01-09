@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/wgbch1xH2OezrMKnol8Ze9UghPT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "http://shochikufilms.com/product/cube-tentative-title",
+  "id": 792678,
+  "imdb_id": "tt13975458",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "CUBE 一度入ったら、最後",
+  "overview": "Six complete strangers with widely varying personalities are involuntarily placed in an endless maze of interlocking cube-shaped rooms containing deadly traps.",
+  "popularity": 3.9835,
+  "poster_path": "/3uTnw1XahydeVkwFzY5xq5aFUh7.jpg",
+  "production_companies": [
+    {
+      "id": 192,
+      "logo_path": "/93eAKlnQecDdMtucfOprzcjMw9V.png",
+      "name": "Shochiku",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2021-10-22",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Once you're in, It's over.",
+  "title": "Cube",
+  "video": false,
+  "vote_average": 5.379,
+  "vote_count": 132
+}

@@ -1,0 +1,50 @@
+{
+  "adult": false,
+  "backdrop_path": "/1aOPPkXASkd2By3EKIw66Ilx5qF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1094974,
+  "imdb_id": "tt28129054",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Take Cover",
+  "overview": "A burned-out professional sniper finds himself trapped in an all-glass penthouse by a lethal competitor and must find a way to survive and escape with little to no cover between him and the killer.",
+  "popularity": 5.1935,
+  "poster_path": "/xNLiMNyFzKTL9PVIEulG55Hei8j.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-04",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Make your shot...",
+  "title": "Take Cover",
+  "video": false,
+  "vote_average": 6.297,
+  "vote_count": 175
+}

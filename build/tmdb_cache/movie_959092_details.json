@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/dSbHiA9m62FhQxiSZoJmhzKlmZD.jpg",
+  "belongs_to_collection": null,
+  "budget": 4920000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 959092,
+  "imdb_id": "tt19319352",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Farang",
+  "overview": "Sam is a professional boxer about to get released from prison. While on parole, his past catches up with him and he has no choice but to flee. Five years later, he has rebuilt a simple life on an exotic island in Thailand with his wife and her daughter, but when he gets blackmailed by a dangerous local godfather, he must embark on a dangerous drug smuggling mission which results in a tragedy. Now he has only one purpose: to seek merciless vengeance.",
+  "popularity": 5.9273,
+  "poster_path": "/u9035lysUz3ccloQt0SeIp1Mu8a.jpg",
+  "production_companies": [
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 4696,
+      "logo_path": "/1mZDiaR5yCEe4ayKC8UGx81LtuX.png",
+      "name": "Same Player",
+      "origin_country": "FR"
+    },
+    {
+      "id": 46135,
+      "logo_path": null,
+      "name": "The Ink Connection",
+      "origin_country": "FR"
+    },
+    {
+      "id": 172911,
+      "logo_path": null,
+      "name": "Two suns production",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2023-06-28",
+  "revenue": 1500000,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This ends one way.",
+  "title": "Mayhem!",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 209
+}

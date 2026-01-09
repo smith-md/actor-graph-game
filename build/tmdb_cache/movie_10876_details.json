@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/o4p4joAAFETuUFCHJe2XYJcnCdi.jpg",
+  "belongs_to_collection": null,
+  "budget": 13500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 10876,
+  "imdb_id": "tt0180073",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Quills",
+  "overview": "In early 19th-century France, the Marquis de Sade is confined to an asylum where his forbidden writings continue to circulate beyond its walls. As the authorities tighten control, a clash unfolds between the Marquis’ unyielding imagination, the reformist ideals of the Abbé in charge, and the repressive measures of a doctor sent to silence him. Desire, power, and censorship collide in a battle over freedom of expression.",
+  "popularity": 4.2325,
+  "poster_path": "/AvGdw3BpvJV2wHmK2qY0N7XHqET.jpg",
+  "production_companies": [
+    {
+      "id": 43,
+      "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+      "name": "Fox Searchlight Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 376,
+      "logo_path": "/4TYjUVu74lX3r4ht1ppZxEpj1a4.png",
+      "name": "Industry Entertainment Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 8780,
+      "logo_path": null,
+      "name": "Walrus & Associates",
+      "origin_country": ""
+    },
+    {
+      "id": 30257,
+      "logo_path": null,
+      "name": "Hollywood Partners",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-11-22",
+  "revenue": 17989227,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Meet the Marquis de Sade. The pleasure is all his.",
+  "title": "Quills",
+  "video": false,
+  "vote_average": 7.133,
+  "vote_count": 699
+}

@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/mqto2rCJcuXFHUkDNsLf3FF2qki.jpg",
+  "belongs_to_collection": {
+    "id": 133297,
+    "name": "Ants in the Pants Collection",
+    "poster_path": "/bxFRC5wOpkSPD3qTLxYv198Pcnh.jpg",
+    "backdrop_path": "/8pA1Izy7xmPFmD365HXB5AUbwPW.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81580024",
+  "id": 1120628,
+  "imdb_id": "tt20256412",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Hammerharte Jungs",
+  "overview": "Teenagers Charly and Paula worry that sex could ruin their friendship, while their suddenly and surprisingly bossy private parts urge them to go for it.",
+  "popularity": 3.8837,
+  "poster_path": "/d2jU7XWkPjRN0LpakwShBH2FLZo.jpg",
+  "production_companies": [
+    {
+      "id": 5754,
+      "logo_path": "/lYPqogOigbGMmErpSBBn2SnVypQ.png",
+      "name": "Rat Pack Filmproduktion",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2023-05-24",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hard Feelings",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 170
+}

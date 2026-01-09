@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/14CUYVEfnen8V3tMrfd71UnwbB4.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 821499,
+  "imdb_id": "tt9271850",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Inheritance",
+  "overview": "Billionaire Charles Abernathy, on the eve of his 75th birthday, invites his four estranged children back home out of fear that tonight someone – or something – is coming to kill him. To ensure his family will help protect him from whatever’s coming, Abernathy puts each of their inheritances on the line – they’ll get nothing if he’s found dead by dawn.",
+  "popularity": 3.9711,
+  "poster_path": "/3qQok7BPKVcM0DA9Zu5OeMzzmk6.jpg",
+  "production_companies": [
+    {
+      "id": 23596,
+      "logo_path": null,
+      "name": "Paul Schiff Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-07-12",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Inheritance",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 82
+}

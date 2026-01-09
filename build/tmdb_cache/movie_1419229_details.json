@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/rH60D4bS64CYGBIXps9OgSDl3RT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1419229,
+  "imdb_id": "tt9023964",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Silent Zone",
+  "overview": "In a zombie-ravaged world, a resourceful teen and her protector fight for survival, facing relentless dangers and testing the limits of hope and loyalty.",
+  "popularity": 5.6522,
+  "poster_path": "/7YZ0JRRD7mt8Ov9eIEGWMbDybx2.jpg",
+  "production_companies": [
+    {
+      "id": 99143,
+      "logo_path": null,
+      "name": "Filmfinity Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 250531,
+      "logo_path": null,
+      "name": "Sysplex Media",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HU",
+      "name": "Hungary"
+    }
+  ],
+  "release_date": "2025-03-07",
+  "revenue": 0,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The dead are listening.",
+  "title": "Silent Zone",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 58
+}

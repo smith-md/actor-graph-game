@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/l8pwO23MCvqYumzozpxynCNfck1.jpg",
+  "belongs_to_collection": {
+    "id": 968080,
+    "name": "Wicked Collection",
+    "poster_path": "/b9xo966oVIrFtpevhLQ9XILcXTh.jpg",
+    "backdrop_path": "/oXIhFH4m4ONWScQx6TrbUdPzMv9.jpg"
+  },
+  "budget": 150000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.wickedmovie.com",
+  "id": 967941,
+  "imdb_id": "tt19847976",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wicked: For Good",
+  "overview": "As an angry mob rises against the Wicked Witch, Glinda and Elphaba will need to come together one final time. With their singular friendship now the fulcrum of their futures, they will need to truly see each other, with honesty and empathy, if they are to change themselves, and all of Oz, for good.",
+  "popularity": 88.3538,
+  "poster_path": "/si9tolnefLSUKaqQEGz1bWArOaL.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2527,
+      "logo_path": "/mNSqvPrlkAcdQlEZ3Ttmx75Z8Xw.png",
+      "name": "Marc Platt Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-19",
+  "revenue": 510723521,
+  "runtime": 137,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You will be changed.",
+  "title": "Wicked: For Good",
+  "video": false,
+  "vote_average": 6.703,
+  "vote_count": 657
+}

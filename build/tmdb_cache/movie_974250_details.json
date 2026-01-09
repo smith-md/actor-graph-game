@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/8UyO7ivSeU2VVblZEsFUBxOd2wa.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 974250,
+  "imdb_id": "tt20201748",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Greedy People",
+  "overview": "The eclectic residents of a small, picturesque island town must navigate a sensational murder and the discovery of a million dollars, leading to a series of increasingly bad decisions which upend the once-peaceful community.",
+  "popularity": 4.1208,
+  "poster_path": "/aIUZiciO0nMh8MrhmsTaMWZvEWK.jpg",
+  "production_companies": [
+    {
+      "id": 74808,
+      "logo_path": "/vOYU0riOusJmSETDlY9gu2QiN6.png",
+      "name": "Hideout Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 213851,
+      "logo_path": null,
+      "name": "Boies Schiller Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 128360,
+      "logo_path": "/a9YkOw7I1CCBOc9Cy1FDGYfFrJm.png",
+      "name": "Limelight",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-23",
+  "revenue": 0,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Finder$. Keeper$.",
+  "title": "Greedy People",
+  "video": false,
+  "vote_average": 6.335,
+  "vote_count": 231
+}

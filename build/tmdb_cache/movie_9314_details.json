@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/mILBIbGUP465jmCgzFCM2F0JnrZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 7430072,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 9314,
+  "imdb_id": "tt0087803",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Nineteen Eighty-Four",
+  "overview": "Imagine a world where absolute conformity rules, and word and thought, including loyalty to Big Brother is demanded. It's the year 1984 and such a world exists. Divided into three vast states, whose inhabitants are dominated by all powerful governments, an illegal love affair begins. Soon, worker drone Winston becomes the target of a brain-washing campaign to force him back to conformity.",
+  "popularity": 4.4718,
+  "poster_path": "/hrdQlicxuyTg3zyVqq78EsA4Z6J.jpg",
+  "production_companies": [
+    {
+      "id": 9998,
+      "logo_path": null,
+      "name": "Umbrella-Rosenblum Film Production",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3150,
+      "logo_path": null,
+      "name": "Virgin Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1984-11-09",
+  "revenue": 8430492,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "George Orwell's terrifying vision comes to the screen.",
+  "title": "Nineteen Eighty-Four",
+  "video": false,
+  "vote_average": 6.784,
+  "vote_count": 1582
+}

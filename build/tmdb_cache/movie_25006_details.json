@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/wLMvCoBCtQ83cwKTXxtoQ5Y9Z4J.jpg",
+  "belongs_to_collection": {
+    "id": 124879,
+    "name": "State Property Collection",
+    "poster_path": "/k5WqQolg1sb3RncN0UJpoUuiNo1.jpg",
+    "backdrop_path": "/1j6VjTofmRXC31XP1vYFfxilhLN.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 25006,
+  "imdb_id": "tt0301893",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "State Property",
+  "overview": "A Philadelphia gang member becomes a drug kingpin and starts a feud with vicious rivals in his quest for the American Dream.",
+  "popularity": 3.1856,
+  "poster_path": "/eq8ygk2egSs9QnQfrjqE4fJ44OJ.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-01-18",
+  "revenue": 2106838,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "State Property",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 46
+}

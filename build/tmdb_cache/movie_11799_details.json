@@ -1,0 +1,96 @@
+{
+  "adult": false,
+  "backdrop_path": "/om47GMuXbkAtlBgBcOnklWAXg6H.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 11799,
+  "imdb_id": "tt0059956",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Viva Maria!",
+  "overview": "1907 Central America: Maria II is the daughter of an Irish terrorist. After her father's death, she meets Maria I, a performer, and decides to stay with the circus, and on her debut as a singer, unintentionally invents the striptease and makes the circus famous. Their inadvertent encounter with a socialist revolutionary lands them leading a revolution against the dictator, the capitalists, and the Church.",
+  "popularity": 4.053,
+  "poster_path": "/hAArxvmVALRNf7fmWdzT7dVFz8k.jpg",
+  "production_companies": [
+    {
+      "id": 64,
+      "logo_path": null,
+      "name": "Les Productions Artistes Associés",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12111,
+      "logo_path": null,
+      "name": "Vides Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 751,
+      "logo_path": null,
+      "name": "Nouvelles Éditions de Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1965-11-22",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The world will never forget the two heroines who charged into battle undaunted, unafraid, and… undressed!",
+  "title": "Viva Maria!",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 103
+}

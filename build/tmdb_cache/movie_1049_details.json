@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/jWAK7ONCE1Kski7SsAJvcNBQMyv.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1049,
+  "imdb_id": "tt0108185",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sommersby",
+  "overview": "Set in the South just after the US Civil War, Laurel Sommersby is just managing to work the farm without her husband, believed killed in battle. By all accounts, Jack Sommersby was not a pleasant man, thus when he suddenly returns, Laurel has mixed emotions. It appears that Jack has changed a great deal, leading some people to believe that this is not actually Jack but an imposter. Laurel herself is unsure, but willing to take the man into her home, and perhaps later into her heart.",
+  "popularity": 5.0316,
+  "poster_path": "/tAgQKLv0GK97Tr0bvdI66oXlEVb.jpg",
+  "production_companies": [
+    {
+      "id": 508,
+      "logo_path": "/4sGWXoboEkWPphI6es6rTmqkCBh.png",
+      "name": "Regency Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 644,
+      "logo_path": null,
+      "name": "Alcor Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 183,
+      "logo_path": "/eadyph99FClrWlnE0jPniwOcvvw.png",
+      "name": "Le Studio Canal+",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1993-02-05",
+  "revenue": 140081992,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She knew his face. His touch. His voice. She knew everything about him ... But the truth.",
+  "title": "Sommersby",
+  "video": false,
+  "vote_average": 6.345,
+  "vote_count": 413
+}

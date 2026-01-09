@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/fLvgZEMv012AHZk2PAxMyG8WROt.jpg",
+  "belongs_to_collection": null,
+  "budget": 3500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://a24films.com/films/american-honey",
+  "id": 340485,
+  "imdb_id": "tt3721936",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "American Honey",
+  "overview": "A restless teenager escapes her troubled home and joins a traveling crew of young drifters selling magazines across the American Midwest. Immersed in a world of reckless partying, risky hustles, and fleeting romances, she searches for freedom and belonging on the open road.",
+  "popularity": 5.3862,
+  "poster_path": "/41SVO0AElBAl7zks9dFhJ0OjHni.jpg",
+  "production_companies": [
+    {
+      "id": 7281,
+      "logo_path": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+      "name": "BFI",
+      "origin_country": "GB"
+    },
+    {
+      "id": 19640,
+      "logo_path": "/ddonoYYQ3ToVqMEc2Ke5SB1idkq.png",
+      "name": "Maven Screen Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6531,
+      "logo_path": null,
+      "name": "Parts & Labor",
+      "origin_country": "US"
+    },
+    {
+      "id": 57430,
+      "logo_path": "/4vWiIwU0RLJJMGiqqNUnQyBsVI5.png",
+      "name": "Pulse Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-09-30",
+  "revenue": 2290649,
+  "runtime": 163,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "American Honey",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 903
+}

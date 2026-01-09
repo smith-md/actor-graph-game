@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/3HnkKX1B9h4govdAa3Ku8qMZaoZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1100856,
+  "imdb_id": "tt13358904",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Заклятье. Шёпот ведьм",
+  "overview": "Mara, an ancient pagan spirit, hunts a group of teenagers, taking their body parts to be reborn. A disillusioned and desperate investigator has to face his deepest fears to save the teenagers.",
+  "popularity": 3.6264,
+  "poster_path": "/raDMchyq3dJMqso2TVh75A123Xb.jpg",
+  "production_companies": [
+    {
+      "id": 123659,
+      "logo_path": null,
+      "name": "KD Studios",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2024-06-13",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A sound to die for.",
+  "title": "Whisper of the Witch",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 51
+}

@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/hgczcRWoHfLwnqOQ7781Z0uUIo8.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 44250,
+  "imdb_id": "tt0419663",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cruel World",
+  "overview": "Following his dismissal from a television reality show, a deranged young man lures a group of beautiful coeds to his abode by telling them they will be the stars of a new show he is creating. What the women do not know is that when they lose their slot on the show, they lose their lives as well.",
+  "popularity": 4.2207,
+  "poster_path": "/nwJnkCghNpjnJ6GkSDg5YYooGV4.jpg",
+  "production_companies": [
+    {
+      "id": 36417,
+      "logo_path": null,
+      "name": "Primetime Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 36418,
+      "logo_path": null,
+      "name": "Emergence Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-10-27",
+  "revenue": 16344,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When You Get Voted Off This Reality Show... It's For Good!",
+  "title": "Cruel World",
+  "video": false,
+  "vote_average": 4.2,
+  "vote_count": 26
+}

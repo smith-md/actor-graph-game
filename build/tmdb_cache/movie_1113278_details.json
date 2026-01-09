@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/fCkjXQw2KQr1rKrZXLcC5JE2dwt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://itsawonderfulknifemovie.com/",
+  "id": 1113278,
+  "imdb_id": "tt27619382",
+  "origin_country": [
+    "CA",
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "It's a Wonderful Knife",
+  "overview": "Winnie's life is less than wonderful one year after saving her town from a psychotic killer on Christmas Eve. When she wishes she was never born, she finds herself magically transported to a nightmarish parallel universe. With the murderous maniac now back, she must team up with a misfit to identify the culprit and get back to her own reality.",
+  "popularity": 2.0144,
+  "poster_path": "/bnm5NntrQBcG3P7DbO00v2FmXm8.jpg",
+  "production_companies": [
+    {
+      "id": 89115,
+      "logo_path": "/zQwTHJVIruUlGsa7zIdfXuSm9GG.png",
+      "name": "Divide / Conquer",
+      "origin_country": "US"
+    },
+    {
+      "id": 25318,
+      "logo_path": null,
+      "name": "Fourth Culture Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-11-10",
+  "revenue": 970781,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This Christmas, your wishes will come true... and your nightmares too.",
+  "title": "It's a Wonderful Knife",
+  "video": false,
+  "vote_average": 5.089,
+  "vote_count": 169
+}

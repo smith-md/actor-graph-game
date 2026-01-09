@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/kAyNuFjRk1B7HyYwRTPWeDKAc1v.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1320330,
+  "imdb_id": "tt21154574",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Year 10",
+  "overview": "After the fall of civilization, the few survivors have been driven to cannibalism. A young man must confront a violent tribe that has murdered his father and stolen the medicine that keeps his girlfriend alive.",
+  "popularity": 4.0691,
+  "poster_path": "/zqeFM6cjHjYmgjqJExjt1NPBPdd.jpg",
+  "production_companies": [
+    {
+      "id": 72316,
+      "logo_path": "/zTQKQiYxM8z8UXg0FdeDjeemqFx.png",
+      "name": "BK Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-08-24",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Survival is deadly.",
+  "title": "Year 10",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 58
+}

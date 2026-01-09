@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/1TgnorI5RDzzHhyr5J72BhL7HY8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 481370,
+  "imdb_id": "tt3226786",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bigger",
+  "overview": "The inspirational tale of the grandfathers of the fitness movement as we now know it, Joe & Ben Weider. Battling anti-Semitism, racism and extreme poverty, the brothers beat all odds to build an empire & inspire future generations.",
+  "popularity": 4.4109,
+  "poster_path": "/f6rmiFTfT3Rf9XDrXfLO6XcAgWn.jpg",
+  "production_companies": [
+    {
+      "id": 5641,
+      "logo_path": "/9VGjQxS5wRzr1Ihc1xvjQ5r4qez.png",
+      "name": "Bee Holder Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-10-13",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Bigger",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 81
+}

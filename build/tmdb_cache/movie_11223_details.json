@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/vU6ZnOUcuP4RgB5esrWinzxWZUW.jpg",
+  "belongs_to_collection": null,
+  "budget": 4500000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 11223,
+  "imdb_id": "tt0077355",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Coma",
+  "overview": "When relatively healthy patients begin having 'complications' during simple operations and ending up in comas, a concerned doctor defies her male superiors when she suspects a secret plot.",
+  "popularity": 4.3997,
+  "poster_path": "/kNMfXPm1f8OgVYFU4aEhmP9TJzO.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1978-01-06",
+  "revenue": 0,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Imagine your life hangs by a thread. Imagine your body hangs by a wire. Imagine you're not imagining.",
+  "title": "Coma",
+  "video": false,
+  "vote_average": 6.757,
+  "vote_count": 439
+}

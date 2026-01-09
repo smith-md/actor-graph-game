@@ -1,0 +1,116 @@
+{
+  "id": 228794,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1153644,
+      "known_for_department": "Acting",
+      "name": "Fabrizia Flanders",
+      "original_name": "Fabrizia Flanders",
+      "popularity": 0.4669,
+      "profile_path": "/cqHGz9L57dUmni35InkJgE5h1oI.jpg",
+      "cast_id": 1,
+      "character": "Marilinda",
+      "credit_id": "52fe4ed89251416c751645b9",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1524024,
+      "known_for_department": "Acting",
+      "name": "Erika Savastani",
+      "original_name": "Erika Savastani",
+      "popularity": 3.8158,
+      "profile_path": "/ubQo2EjCXKpqyrNdff0mFtnEzA3.jpg",
+      "cast_id": 4,
+      "character": "Amelia",
+      "credit_id": "5624e79e9251413980001608",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1524031,
+      "known_for_department": "Acting",
+      "name": "Gianni Demartiis",
+      "original_name": "Gianni Demartiis",
+      "popularity": 0.4865,
+      "profile_path": "/nQfOoy5YmoznmygfWXOjluwL91W.jpg",
+      "cast_id": 5,
+      "character": "Carlo",
+      "credit_id": "5624e7cd92514135b0005c36",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1524237,
+      "known_for_department": "Acting",
+      "name": "Lindo Damiani",
+      "original_name": "Lindo Damiani",
+      "popularity": 0.0953,
+      "profile_path": null,
+      "cast_id": 6,
+      "character": "Gianni",
+      "credit_id": "5624e7e6c3a3680e0e013011",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1524238,
+      "known_for_department": "Acting",
+      "name": "Antonio Ascani",
+      "original_name": "Antonio Ascani",
+      "popularity": 0.0768,
+      "profile_path": null,
+      "cast_id": 7,
+      "character": "Giorgio",
+      "credit_id": "5624e7fd92514163d50065ba",
+      "order": 4
+    }
+  ],
+  "crew": [
+    {
+      "adult": true,
+      "gender": 2,
+      "id": 31775,
+      "known_for_department": "Directing",
+      "name": "Joe D'Amato",
+      "original_name": "Joe D'Amato",
+      "popularity": 7.729,
+      "profile_path": "/6cj3AKDSeANiZk2w9vFzcPWGlfF.jpg",
+      "credit_id": "5624e74cc3a3680e0e013009",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": true,
+      "gender": 2,
+      "id": 1266718,
+      "known_for_department": "Art",
+      "name": "Rodolfo Ruzza",
+      "original_name": "Rodolfo Ruzza",
+      "popularity": 0.98,
+      "profile_path": null,
+      "credit_id": "5f01a7487caa470038ded66d",
+      "department": "Art",
+      "job": "Property Master"
+    },
+    {
+      "adult": true,
+      "gender": 2,
+      "id": 31775,
+      "known_for_department": "Directing",
+      "name": "Joe D'Amato",
+      "original_name": "Joe D'Amato",
+      "popularity": 7.729,
+      "profile_path": "/6cj3AKDSeANiZk2w9vFzcPWGlfF.jpg",
+      "credit_id": "685171dfe36a4da081bbd72f",
+      "department": "Camera",
+      "job": "Director of Photography"
+    }
+  ]
+}

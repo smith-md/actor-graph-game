@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/AkfqKaD1KqfIqytxLvWlyKJRlEi.jpg",
+  "belongs_to_collection": {
+    "id": 142022,
+    "name": "Hera Pheri Collection",
+    "poster_path": "/eiqjekHdbTch0307NSmW1zS924H.jpg",
+    "backdrop_path": "/nd7InDezpv44Z30iAOkKv76zorM.jpg"
+  },
+  "budget": 1666000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 21614,
+  "imdb_id": "tt0242519",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Hera Pheri",
+  "overview": "Two tenants and a landlord, in desperate need of money, chance upon a ransom call via a cross connection. They hatch a plan to claim the ransom for themselves.",
+  "popularity": 3.211,
+  "poster_path": "/23MKGUPT5laTStim4TaGhfgSltu.jpg",
+  "production_companies": [
+    {
+      "id": 64343,
+      "logo_path": null,
+      "name": "A.G. Films",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2000-03-31",
+  "revenue": 4755000,
+  "runtime": 156,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hera Pheri",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 286
+}

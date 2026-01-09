@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/miKixKo4wgf05yW02eqmK7tlZLt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81134807",
+  "id": 975533,
+  "imdb_id": "tt15979666",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "द आर्चीज़",
+  "overview": "Set in 1960s India, Archie and the gang navigate romance, friendship and the future of Riverdale as developers threaten to destroy a beloved park.",
+  "popularity": 3.9245,
+  "poster_path": "/hmhWb4NTj02FyDxwBm4x9x2JxwJ.jpg",
+  "production_companies": [
+    {
+      "id": 114917,
+      "logo_path": "/s6Kd14kejawnMcmhhhw9QscE11w.png",
+      "name": "Tiger Baby",
+      "origin_country": "IN"
+    },
+    {
+      "id": 102081,
+      "logo_path": null,
+      "name": "Graphic India",
+      "origin_country": "IN"
+    },
+    {
+      "id": 160140,
+      "logo_path": "/2rkg3AkLxRlreg7yecfFBDHfqxv.png",
+      "name": "Archie Comics",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-12-07",
+  "revenue": 0,
+  "runtime": 144,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Archies",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 60
+}

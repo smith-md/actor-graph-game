@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/9Qyr7lcDOU7jdDYOfrOaFVwo8Ep.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 428585,
+  "imdb_id": "tt5973364",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lemon",
+  "overview": "Isaac has seen better days. His acting career is tanking, his blind girlfriend of 10 years plans to leave him, and his own family singles him out as a constant disappointment. Even as he takes a chance on new romance, he struggles to define his place in a world that has seemingly turned against him.",
+  "popularity": 3.8208,
+  "poster_path": "/cZWjfUKuqufDjp3C9ufI8DLAxH7.jpg",
+  "production_companies": [
+    {
+      "id": 1422,
+      "logo_path": "/rIB6DuimR1qgLE14cBwpMABC2xx.png",
+      "name": "Killer Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 113154,
+      "logo_path": null,
+      "name": "Cryk Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 18346,
+      "logo_path": "/wZT3JBshK7M7ChquboLlPyV9L0p.png",
+      "name": "Burn Later Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 1030,
+      "logo_path": "/bus7KzJshT0VMXuKR7dwK5bqPSO.png",
+      "name": "Magnolia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-01-22",
+  "revenue": 29258,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lemon",
+  "video": false,
+  "vote_average": 4.407,
+  "vote_count": 59
+}

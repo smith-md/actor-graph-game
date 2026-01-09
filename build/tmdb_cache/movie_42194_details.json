@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/sHm4T1o2lMYJHfch7aNxaiJPjsO.jpg",
+  "belongs_to_collection": {
+    "id": 294172,
+    "name": "Tekken Collection",
+    "poster_path": "/wd7MNjA6F4rfsMABNbIHvIn0zHy.jpg",
+    "backdrop_path": "/4WOhFDNOvyqbAu8eB3HO3Eep0ND.jpg"
+  },
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 42194,
+  "imdb_id": "tt0411951",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tekken",
+  "overview": "In the year of 2039, after World Wars destroy much of the civilization as we know it, territories are no longer run by governments, but by corporations; the mightiest of which is the Mishima Zaibatsu. In order to placate the seething masses of this dystopia, Mishima sponsors Tekken, a tournament in which fighters battle until only one is left standing.",
+  "popularity": 5.1178,
+  "poster_path": "/1xO2LirDZstkqZic1FwfK6GJIHH.jpg",
+  "production_companies": [
+    {
+      "id": 5882,
+      "logo_path": null,
+      "name": "Namco",
+      "origin_country": "JP"
+    },
+    {
+      "id": 20241,
+      "logo_path": null,
+      "name": "Crystal Sky Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3656,
+      "logo_path": "/mY6L0bHRp8fNWfICPqLjxp3khvq.png",
+      "name": "GAGA Communications",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3627,
+      "logo_path": "/pBfPYpzg5o3EoBPfrFKzTRi8MGr.png",
+      "name": "Warner Bros. Japan",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-03-20",
+  "revenue": 1697207,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Survival is no game",
+  "title": "Tekken",
+  "video": false,
+  "vote_average": 5.344,
+  "vote_count": 720
+}

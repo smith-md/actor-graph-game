@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/9UCHfC9tYojD4mMVBm0boyzYEQq.jpg",
+  "belongs_to_collection": null,
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 10404,
+  "imdb_id": "tt0101640",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "大红灯笼高高挂",
+  "overview": "In 1920s China, 19-year-old Songlian becomes a concubine of a powerful lord and is forced to compete with his three wives for the privileges gained.",
+  "popularity": 3.2584,
+  "poster_path": "/j6MGZpg55cTqlHHwahBtzI2qQg1.jpg",
+  "production_companies": [
+    {
+      "id": 21329,
+      "logo_path": null,
+      "name": "ERA International",
+      "origin_country": "TW"
+    },
+    {
+      "id": 2269,
+      "logo_path": null,
+      "name": "China Film Co-Production Corp.",
+      "origin_country": "CN"
+    },
+    {
+      "id": 21330,
+      "logo_path": null,
+      "name": "Century Communications",
+      "origin_country": ""
+    },
+    {
+      "id": 194859,
+      "logo_path": "/pG7MJ556xsjrvVosg4TWmMLWV9v.png",
+      "name": "Salon Films",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    }
+  ],
+  "release_date": "1991-12-18",
+  "revenue": 16600000,
+  "runtime": 125,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "China, 1920. One Master, Four Wives.",
+  "title": "Raise the Red Lantern",
+  "video": false,
+  "vote_average": 7.927,
+  "vote_count": 775
+}

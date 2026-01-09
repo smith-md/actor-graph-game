@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/tOo41T9upKd5IaSbpl1yMeJ8Rqa.jpg",
+  "belongs_to_collection": null,
+  "budget": 3200000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 19064,
+  "imdb_id": "tt0089730",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Once Bitten",
+  "overview": "Mark wants to lose his virginity, but his girlfriend wants to wait. Unfortunately for both of them, a 400-year-old vampire Countess needs to turn a virgin into a vampire before Halloween in order to preserve her own youthful appearance, and when she finds Mark, she turns his life upside-down.",
+  "popularity": 3.8602,
+  "poster_path": "/eK3dxRrMQGpZ1kLD9wdyOI8urFZ.jpg",
+  "production_companies": [
+    {
+      "id": 3344,
+      "logo_path": null,
+      "name": "Night Light Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 798,
+      "logo_path": "/nQgX1MOLySgug7FDONdIkht3xob.png",
+      "name": "The Samuel Goldwyn Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1985-11-15",
+  "revenue": 10000000,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Mark Kendall just found out his one-night stand has been around for centuries.",
+  "title": "Once Bitten",
+  "video": false,
+  "vote_average": 5.794,
+  "vote_count": 354
+}

@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/hu2K1XlEyRjO2JvzIHBa6cPQRAi.jpg",
+  "belongs_to_collection": {
+    "id": 1584888,
+    "name": "Miranda Green Mysteries",
+    "poster_path": "/vRy2r2EPR3BiL7eeLBiqgOkUuWv.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 989473,
+  "imdb_id": "tt11773810",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Invitation to a Murder",
+  "overview": "A reclusive billionaire invites six seemingly random strangers to his island estate in the south of England. Aspiring detective Miranda Green finds the mysterious invitation too alluring to pass up. When another guest turns up dead, Miranda must get to the bottom of the malicious plot behind the gathering.",
+  "popularity": 3.645,
+  "poster_path": "/ucYuml5QqkcGKmWmJj7JpJdsPc1.jpg",
+  "production_companies": [
+    {
+      "id": 177363,
+      "logo_path": null,
+      "name": "ACE entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 177364,
+      "logo_path": null,
+      "name": "Ari Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 3604,
+      "logo_path": "/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png",
+      "name": "Grindstone Entertainment Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-05-05",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everyone is a suspect.",
+  "title": "Invitation to a Murder",
+  "video": false,
+  "vote_average": 5.559,
+  "vote_count": 136
+}

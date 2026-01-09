@@ -1,0 +1,143 @@
+{
+  "adult": false,
+  "backdrop_path": "/fxKC10HQliVA3Tn5smOclqzL96N.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://scfilmsinternational.com/current-films-live-action-titles/orang-ikan/",
+  "id": 1214140,
+  "imdb_id": "tt29262075",
+  "origin_country": [
+    "JP",
+    "ID",
+    "GB",
+    "SG"
+  ],
+  "original_language": "en",
+  "original_title": "Orang Ikan",
+  "overview": "In the Pacific, 1944, a Japanese soldier and a British prisoner of war are stranded on a deserted island, hunted by a deadly creature. Two mortal enemies must come together to survive the unknown.",
+  "popularity": 14.4288,
+  "poster_path": "/x1JOs4xWNr1QYjDAXHxWw1NJ7Sq.jpg",
+  "production_companies": [
+    {
+      "id": 128953,
+      "logo_path": "/nncp47GEZpAe4Lh6mgNK2amsFIR.png",
+      "name": "Gorylah Pictures",
+      "origin_country": "SG"
+    },
+    {
+      "id": 20613,
+      "logo_path": "/tXbbUdhyQuF6ERC7Qu2BbbaeA1a.png",
+      "name": "SC Films International",
+      "origin_country": "GB"
+    },
+    {
+      "id": 17365,
+      "logo_path": "/xxgzyEjYEVPkL8KiMhvYOVmCfAU.png",
+      "name": "Zhao Wei Films",
+      "origin_country": "SG"
+    },
+    {
+      "id": 15120,
+      "logo_path": null,
+      "name": "Tigon Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 223491,
+      "logo_path": null,
+      "name": "Yaman Films",
+      "origin_country": "JP"
+    },
+    {
+      "id": 8146,
+      "logo_path": "/etoxfrvduHZMLHpYE2uPkicheX2.png",
+      "name": "Splendid Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 15465,
+      "logo_path": "/391VF4wQ568eSBChoPbgWBVByfl.png",
+      "name": "Amasia Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 269240,
+      "logo_path": null,
+      "name": "Causeway Media Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 269242,
+      "logo_path": null,
+      "name": "Onle Pte Ltd",
+      "origin_country": ""
+    },
+    {
+      "id": 100183,
+      "logo_path": null,
+      "name": "S'YA Concept",
+      "origin_country": "SG"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "SG",
+      "name": "Singapore"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-05-08",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Monster Island",
+  "video": false,
+  "vote_average": 5.983,
+  "vote_count": 87
+}

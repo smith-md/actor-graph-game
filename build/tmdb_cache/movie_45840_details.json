@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/fkATjjwcSiHZCMwY9TdIHW37Dg8.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 45840,
+  "imdb_id": "tt0083641",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Best Friends",
+  "overview": "When a professional couple, who have lived and worked together for many years, finally decide to marry, their sudden betrothal causes many unexpected difficulties. They soon find that being married is often quite different from being \"best friends.\"",
+  "popularity": 3.0733,
+  "poster_path": "/kM78uHJJvUdqW3Aczb1ALNOAGW.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 135624,
+      "logo_path": null,
+      "name": "Timberlane Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1982-12-17",
+  "revenue": 36800000,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What a present for Christmas",
+  "title": "Best Friends",
+  "video": false,
+  "vote_average": 5.123,
+  "vote_count": 53
+}

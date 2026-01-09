@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/vG6JxKspnlub1Ue3xhktOtE5FVJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 70000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "http://www.sonypictures.com/movies/thatsmyboy/",
+  "id": 87428,
+  "imdb_id": "tt1232200",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "That's My Boy",
+  "overview": "While in his teens, Donny fathered a son, Todd, and raised him as a single parent up until Todd's 18th birthday. Now, after not seeing each other for years, Todd's world comes crashing down when Donny resurfaces just before Todd's wedding.",
+  "popularity": 6.3276,
+  "poster_path": "/oaLhdRsZ5Mq8VfZtA4Wlvjzzn0X.jpg",
+  "production_companies": [
+    {
+      "id": 7295,
+      "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+      "name": "Relativity Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 878,
+      "logo_path": "/s5j0xnTXvglZoz49CUaQclVv3s9.png",
+      "name": "Happy Madison Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-06-14",
+  "revenue": 57719093,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The story of a child… and his son.",
+  "title": "That's My Boy",
+  "video": false,
+  "vote_average": 5.814,
+  "vote_count": 2103
+}

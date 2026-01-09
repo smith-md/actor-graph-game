@@ -1,0 +1,125 @@
+{
+  "adult": false,
+  "backdrop_path": "/8oeXbjMtaYYGgjJl9RJNe7umkuS.jpg",
+  "belongs_to_collection": null,
+  "budget": 120000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.20thcenturystudios.com/movies/life-of-pi",
+  "id": 87827,
+  "imdb_id": "tt0454876",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Life of Pi",
+  "overview": "The story of an Indian boy named Pi, a zookeeper's son who finds himself in the company of a hyena, zebra, orangutan, and a Bengal tiger after a shipwreck sets them adrift in the Pacific Ocean.",
+  "popularity": 8.0701,
+  "poster_path": "/iLgRu4hhSr6V1uManX6ukDriiSc.jpg",
+  "production_companies": [
+    {
+      "id": 711,
+      "logo_path": "/tEiIH5QesdheJmDAqQwvtN60727.png",
+      "name": "Fox 2000 Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 444,
+      "logo_path": null,
+      "name": "Dune Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 290,
+      "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
+      "name": "Ingenious Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 13480,
+      "logo_path": null,
+      "name": "Haishang Films",
+      "origin_country": "TW"
+    },
+    {
+      "id": 32555,
+      "logo_path": null,
+      "name": "Netter Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2807,
+      "logo_path": null,
+      "name": "India Take One",
+      "origin_country": "IN"
+    },
+    {
+      "id": 10893,
+      "logo_path": null,
+      "name": "Big Screen Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    },
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-11-20",
+  "revenue": 609016565,
+  "runtime": 127,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Tamil",
+      "iso_639_1": "ta",
+      "name": "தமிழ்"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Take the journey of a lifetime.",
+  "title": "Life of Pi",
+  "video": false,
+  "vote_average": 7.405,
+  "vote_count": 13540
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/cKZcDKawR79igCgDMSXlpkn8hLR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0FBLMNYYW",
+  "id": 997113,
+  "imdb_id": "tt27953589",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hedda",
+  "overview": "Hedda Gabler finds herself torn between the lingering ache of a past love and the quiet suffocation of her present life. Over the course of one charged night, long-repressed desires and hidden tensions erupt—pulling her and everyone around her into a spiral of manipulation, passion, and betrayal.",
+  "popularity": 4.5728,
+  "poster_path": "/ecflk7AZf0ij205yDswjlvdxlCO.jpg",
+  "production_companies": [
+    {
+      "id": 81,
+      "logo_path": "/8wOfUhA7vwU2gbPjQy7Vv3EiF0o.png",
+      "name": "Plan B Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 197821,
+      "logo_path": null,
+      "name": "Viva Maude",
+      "origin_country": "US"
+    },
+    {
+      "id": 267168,
+      "logo_path": "/xAot4SSOIHiWQ2WEnVXYGR1lce9.png",
+      "name": "Orion Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-22",
+  "revenue": 8393,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A little chaos is good for the gathering.",
+  "title": "Hedda",
+  "video": false,
+  "vote_average": 5.414,
+  "vote_count": 81
+}

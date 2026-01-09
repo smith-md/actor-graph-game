@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/oOczvrnhpXUmqCbyKYFj4FQExAo.jpg",
+  "belongs_to_collection": null,
+  "budget": 55000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.20thcenturystudios.com/movies/springsteen-deliver-me-from-nowhere",
+  "id": 1230368,
+  "imdb_id": "tt31923069",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Springsteen: Deliver Me from Nowhere",
+  "overview": "Bruce Springsteen, a young musician on the cusp of global superstardom, struggles to reconcile the pressures of success with the ghosts of his past.",
+  "popularity": 12.3105,
+  "poster_path": "/csBV3eq4RDjNg1acNQ8kwOZyPlZ.jpg",
+  "production_companies": [
+    {
+      "id": 127928,
+      "logo_path": "/h0rjX5vjW5r8yEnUBStFarjcLT4.png",
+      "name": "20th Century Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 3672,
+      "logo_path": "/xpRwVe9NL5791oyUidzeRp8ezGj.png",
+      "name": "The Gotham Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 278463,
+      "logo_path": null,
+      "name": "Night Exterior",
+      "origin_country": ""
+    },
+    {
+      "id": 279898,
+      "logo_path": null,
+      "name": "Bluegrass 7",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-22",
+  "revenue": 45104914,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Witness a true story of risking it all to fight for what you believe in.",
+  "title": "Springsteen: Deliver Me from Nowhere",
+  "video": false,
+  "vote_average": 6.894,
+  "vote_count": 161
+}

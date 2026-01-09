@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/u2Z5gaD5IgGf1gnmW7FvXTrRGKJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 91612,
+  "imdb_id": "tt0097004",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Caged Fury",
+  "overview": "Kat arrives in Los Angeles to audition for movies. However, after meeting a sleazy producer, she and her new friend find themselves in a women's prison run by sadistic guards and a lesbian warden.",
+  "popularity": 3.6755,
+  "poster_path": "/bkDD3t7z5mIOOb7WLDMieF9nVnL.jpg",
+  "production_companies": [
+    {
+      "id": 13282,
+      "logo_path": "/6Ok4uT3msxQMzAZ3jwxhVdqzeb6.png",
+      "name": "21st Century Film Corporation",
+      "origin_country": "US"
+    },
+    {
+      "id": 5387,
+      "logo_path": "/3klEFhjGxV1hC2Ai71L4PpjGiBz.png",
+      "name": "Atlantic Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-03-01",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They Learned Their Lesson The Hard Way.",
+  "title": "Caged Fury",
+  "video": false,
+  "vote_average": 3.9,
+  "vote_count": 44
+}

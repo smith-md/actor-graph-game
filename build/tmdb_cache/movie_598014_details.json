@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/qCEFiZZkkvcLT6swQmpq1d6NuEW.jpg",
+  "belongs_to_collection": {
+    "id": 589755,
+    "name": "The Last Warrior (Collection)",
+    "poster_path": "/rEPhPb8mDomtmn6tHr3vE9QutkB.jpg",
+    "backdrop_path": "/d44L2oJMZOw8nGxbyg8wo2ftwUu.jpg"
+  },
+  "budget": 7000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 598014,
+  "imdb_id": "tt13769630",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Последний богатырь: Посланник тьмы",
+  "overview": "Now that Ivan is about to turn 21, he is now grown up and finally old enough to marry the beautiful Vasilisa. But when Vasilisa is kidnapped and trapped in modern Moscow, Ivan and his friends must travel to the present day to rescue her.",
+  "popularity": 3.359,
+  "poster_path": "/pDlUJj8Xuwl3JeehLtLweGDDJhC.jpg",
+  "production_companies": [
+    {
+      "id": 42877,
+      "logo_path": "/15THT1W3NROsbDXPbrcmWFVkrSv.png",
+      "name": "Yellow, Black & White",
+      "origin_country": "RU"
+    },
+    {
+      "id": 101999,
+      "logo_path": null,
+      "name": "The Walt Disney Company CIS",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2021-12-23",
+  "revenue": 29694624,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Last Warrior: Emissary of Darkness",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 62
+}

@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/k6TwVdyLvBL6G4Go4WZBjXEjnAN.jpg",
+  "belongs_to_collection": null,
+  "budget": 5800000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 8490,
+  "imdb_id": "tt0080465",
+  "origin_country": [
+    "MX",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Borderline",
+  "overview": "Jeb Maynard is a patrolman guarding the U.S.-Mexican border, whose partner and buddy Scooter has just been murdered. Maynard knows that a smuggler of illegal aliens is responsible for Scooter's death, but the feds insist that drug dealers committed the crime.",
+  "popularity": 2.9339,
+  "poster_path": "/2waGlqv59q6CyzcYozsBh8BNqfx.jpg",
+  "production_companies": [
+    {
+      "id": 1155,
+      "logo_path": "/rKTzFu5woCo8k0u9ML7mWeLY541.png",
+      "name": "ITC Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 18936,
+      "logo_path": null,
+      "name": "Marble Arch Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 212833,
+      "logo_path": "/yeAjxb0S7SCLwWHnkadC1JSrRmn.png",
+      "name": "Associated Film Distribution",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1980-12-19",
+  "revenue": 2300000,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Somewhere along a thousand miles of barbed wire border, the American dream has become a nightmare.",
+  "title": "Borderline",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 48
+}

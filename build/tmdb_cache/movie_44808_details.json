@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/sEUfDr2jWxMWc9g07g2OxVFyR2Y.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 44808,
+  "imdb_id": "tt0120851",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sweepers",
+  "overview": "Dolph Lundgren is Christian Erickson, a leading demolition expert trained to disarm mine fields in a humanitarian minesweeping operation in Angola. His son is killed and he discovers that mines are being planted during the war to kill people in the area.",
+  "popularity": 3.4215,
+  "poster_path": "/8M31PAMj8XhrbfXfILLJHRX8UPy.jpg",
+  "production_companies": [
+    {
+      "id": 925,
+      "logo_path": "/dIb9hjXNOkgxu4kBWdIdK8nM4w.png",
+      "name": "Nu Image",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    }
+  ],
+  "release_date": "1998-12-02",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One step between life and death.",
+  "title": "Sweepers",
+  "video": false,
+  "vote_average": 4.304,
+  "vote_count": 46
+}

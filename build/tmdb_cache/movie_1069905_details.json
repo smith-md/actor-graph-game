@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/wR9D9hQvCVBux16NauY4b7letdU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81551446",
+  "id": 1069905,
+  "imdb_id": "tt30446847",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Jay Kelly",
+  "overview": "Famous movie actor Jay Kelly embarks on a journey of self-discovery, confronting both his past and present, accompanied by his devoted manager, Ron.",
+  "popularity": 10.2776,
+  "poster_path": "/lEXYpY9X17pGC7xYYy17Guv0L3J.jpg",
+  "production_companies": [
+    {
+      "id": 84041,
+      "logo_path": "/nw4kyc29QRpNtFbdsBHkRSFavvt.png",
+      "name": "Pascal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 437,
+      "logo_path": "/nu20mtwbEIhUNnQ5NXVhHsNknZj.png",
+      "name": "Heyday Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 181486,
+      "logo_path": null,
+      "name": "NB/GG Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-11-14",
+  "revenue": 0,
+  "runtime": 132,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everybody knows Jay Kelly, but Jay Kelly doesn't know himself.",
+  "title": "Jay Kelly",
+  "video": false,
+  "vote_average": 6.05,
+  "vote_count": 280
+}

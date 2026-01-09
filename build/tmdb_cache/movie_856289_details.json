@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/cwsBDxvFn0pkxPOrQg8Koz2kMRM.jpg",
+  "belongs_to_collection": {
+    "id": 1211317,
+    "name": "Creation of the Gods Trilogy",
+    "poster_path": "/2TgWwiwXcA4iJqPF6kzU1wFqH1n.jpg",
+    "backdrop_path": "/ef9dYKxDe2isgNhoJsGrt9yjXPz.jpg"
+  },
+  "budget": 85000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 856289,
+  "imdb_id": "tt6979756",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "封神第一部：朝歌风云",
+  "overview": "Based on the most well-known classical fantasy novel of China, Fengshenyanyi, the trilogy is a magnificent eastern high fantasy epic that recreates the prolonged mythical wars between humans, immortals and monsters, which happened more than three thousand years ago.",
+  "popularity": 6.4502,
+  "poster_path": "/6VOV2wU3WEyN0H1QtrbAS6whXPc.jpg",
+  "production_companies": [
+    {
+      "id": 148024,
+      "logo_path": "/hwoojywsskxB91jw2QwgLeTwMr.png",
+      "name": "Beijing Culture",
+      "origin_country": "CN"
+    },
+    {
+      "id": 190261,
+      "logo_path": null,
+      "name": "Century Changshengtian Film",
+      "origin_country": "CN"
+    },
+    {
+      "id": 84946,
+      "logo_path": "/8wrAXwrNZ5zHImKb0SyVLQbXkaM.png",
+      "name": "Tencent Penguin Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 96956,
+      "logo_path": null,
+      "name": "Maoyan Entertainment",
+      "origin_country": "CN"
+    },
+    {
+      "id": 25660,
+      "logo_path": null,
+      "name": "Huaxia Film Distribution",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2023-07-15",
+  "revenue": 369081777,
+  "runtime": 148,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Creation of the Gods I: Kingdom of Storms",
+  "video": false,
+  "vote_average": 7.106,
+  "vote_count": 458
+}

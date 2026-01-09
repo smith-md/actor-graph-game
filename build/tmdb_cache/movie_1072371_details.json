@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/xCXMHUMQJess3GACbR2PQI7sjeH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://bleeckerstreetmedia.com/jules/",
+  "id": 1072371,
+  "imdb_id": "tt15428940",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Jules",
+  "overview": "A flying saucer lands in the backyard of an elderly suburbanite with memory problems, who forms a bond with the scared alien inside.",
+  "popularity": 5.7016,
+  "poster_path": "/yMOWu8rpZPiBI0j8MInBTtNO0vU.jpg",
+  "production_companies": [
+    {
+      "id": 188,
+      "logo_path": "/40E8iNvy6brH6t4BbmQL211jIpl.png",
+      "name": "Big Beach",
+      "origin_country": "US"
+    },
+    {
+      "id": 265131,
+      "logo_path": null,
+      "name": "ADI",
+      "origin_country": ""
+    },
+    {
+      "id": 204752,
+      "logo_path": null,
+      "name": "Inner Child Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2023-08-10",
+  "revenue": 2000000,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You won't believe what just crashed into Milton's azaleas.",
+  "title": "Jules",
+  "video": false,
+  "vote_average": 7.192,
+  "vote_count": 352
+}

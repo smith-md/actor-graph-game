@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/yuPXKynGLm1WDidnmC5Oyo7Y8IJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 50374,
+  "imdb_id": "tt0075765",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Black Sunday",
+  "overview": "An Israeli anti-terrorist agent must stop a disgruntled Vietnam vet cooperating in a Black September PLO plot to commit a terrorist attack at the Super Bowl.",
+  "popularity": 3.5549,
+  "poster_path": "/4rMXQICfFEsSGHCjh3bJj7K33sZ.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 94856,
+      "logo_path": null,
+      "name": "Robert Evans Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1977-04-01",
+  "revenue": 15769322,
+  "runtime": 143,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It could be tomorrow!",
+  "title": "Black Sunday",
+  "video": false,
+  "vote_average": 6.699,
+  "vote_count": 157
+}

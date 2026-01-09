@@ -1,0 +1,54 @@
+{
+  "adult": false,
+  "backdrop_path": "/4geEJGCGcqz4LLzmj3Z60FvEeDZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1070629,
+  "imdb_id": "tt23782446",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "Fijn Weekend",
+  "overview": "A close-knit group of friends gather in French Burgundy to finally scatter ashes of their dead friend. When the widow unexpectedly brings her new boyfriend, the weekend takes a turn, and all friendships and relationships are put on edge.",
+  "popularity": 2.3952,
+  "poster_path": "/pMNsMhRlxEO9kb9X7mM63Ig6pR2.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2023-01-19",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Awkward Weekend",
+  "video": false,
+  "vote_average": 4.988,
+  "vote_count": 40
+}

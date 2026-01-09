@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/9Wf1xwPOycnxvdVnpr6Di381Zf.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1422011,
+  "imdb_id": "tt35519455",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "It Ends",
+  "overview": "A group of recent grads head out on a late night drive for grub, hoping to enjoy one final hangout before their paths diverge. Instead, they accidentally turn onto a never-ending, two-lane hellscape surrounded by untold horrors and cosmic forces beyond their understanding. Cramped together inside a Jeep Cherokee and with the miles stretching infinitely ahead, they face a choice: embrace their new existence or fight to escape it.",
+  "popularity": 6.1928,
+  "poster_path": "/x76Fsd65aUwS3W8S1L6NClpmhWP.jpg",
+  "production_companies": [
+    {
+      "id": 15159,
+      "logo_path": "/cGTfEb0nXk4qM3jOA6ESepgDwhZ.png",
+      "name": "Snoot Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 269421,
+      "logo_path": null,
+      "name": "Please Hold Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 269422,
+      "logo_path": null,
+      "name": "Aymara Films",
+      "origin_country": ""
+    },
+    {
+      "id": 255049,
+      "logo_path": null,
+      "name": "Growing Up Dead Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 282273,
+      "logo_path": null,
+      "name": "Above .330",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-07",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some wrong turns last forever.",
+  "title": "It Ends",
+  "video": false,
+  "vote_average": 5.663,
+  "vote_count": 40
+}

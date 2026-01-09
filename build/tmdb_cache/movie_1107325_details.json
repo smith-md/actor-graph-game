@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/sQqdvDQET5pr7PbVAtPsYYucZoR.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://witchboardmovie2025.com",
+  "id": 1107325,
+  "imdb_id": "tt2256055",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Witchboard",
+  "overview": "A cursed Witchboard awakens dark forces, dragging a young couple into a deadly game of possession, deception, and supernatural terror in New Orleans.",
+  "popularity": 4.1717,
+  "poster_path": "/8RcN5FHkJVNJdOaL6WtTePU7CyF.jpg",
+  "production_companies": [
+    {
+      "id": 196905,
+      "logo_path": "/pMR2X3AbHXpcXXKMhH5LEqdIWXR.png",
+      "name": "A-Nation Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 264204,
+      "logo_path": "/jSRRz4GNkAdh9TF7bYPCN5Bajw4.png",
+      "name": "Gala Film",
+      "origin_country": "US"
+    },
+    {
+      "id": 2623,
+      "logo_path": "/7Bkm1yUF0y8x6jw8dHRfzS3B6dq.png",
+      "name": "Blue Rider Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 76991,
+      "logo_path": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
+      "name": "Highland Film Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-14",
+  "revenue": 480640,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Dare to play.",
+  "title": "Witchboard",
+  "video": false,
+  "vote_average": 5.878,
+  "vote_count": 41
+}

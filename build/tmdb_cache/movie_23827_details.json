@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/wfCdJ0MD1hYJzlaHulolNw5pYtR.jpg",
+  "belongs_to_collection": {
+    "id": 41437,
+    "name": "Paranormal Activity Collection",
+    "poster_path": "/lYXAMmm9XlYmj5Dr4O9diLQVCJS.jpg",
+    "backdrop_path": "/hqKCM2q3ceEzFQJSDUcDmMvd9VS.jpg"
+  },
+  "budget": 15000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.paranormalactivity-movie.com/",
+  "id": 23827,
+  "imdb_id": "tt1179904",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Paranormal Activity",
+  "overview": "After a young, middle-class couple moves into what seems like a typical suburban house, they become increasingly disturbed by a presence that may or may not be demonic but is certainly the most active in the middle of the night.",
+  "popularity": 4.7463,
+  "poster_path": "/tmclkEpjeo4Zu564gf3KrwIOuKw.jpg",
+  "production_companies": [
+    {
+      "id": 3172,
+      "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+      "name": "Blumhouse Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 21223,
+      "logo_path": null,
+      "name": "Solana Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2007-09-14",
+  "revenue": 193355800,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What happens when you sleep?",
+  "title": "Paranormal Activity",
+  "video": false,
+  "vote_average": 6.038,
+  "vote_count": 5298
+}

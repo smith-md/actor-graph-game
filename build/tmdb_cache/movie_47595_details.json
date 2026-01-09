@@ -1,0 +1,126 @@
+{
+  "adult": false,
+  "backdrop_path": "/haTYiJ6APNaUtVtekPRFmlPJ9KT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 47595,
+  "imdb_id": "tt0157122",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Trolösa",
+  "overview": "Scripted by Ingmar Bergman, this very personal film is about a destructive affair which wrecks the marriage of an actress (Marianne) and musician (Markus). Wanting to continue the affair, Marianne moves in with her lover. But she is tormented by Markus' decision not to let her have custody of their daughter. Finally Markus announces he may have a solution to the stalemate, but this leads to deception, lies and ultimately, tragedy.",
+  "popularity": 4.7507,
+  "poster_path": "/5fshpCYhGUBPrPsBgFY4mlLqnEN.jpg",
+  "production_companies": [
+    {
+      "id": 157,
+      "logo_path": "/s537keIoi6wUOU8E9ztWaV2DY1H.png",
+      "name": "SVT Drama",
+      "origin_country": "SE"
+    },
+    {
+      "id": 6181,
+      "logo_path": "/eaQ7or8IoEmPfgmQiU2C5lVZkxS.png",
+      "name": "SF Studios",
+      "origin_country": "SE"
+    },
+    {
+      "id": 2888,
+      "logo_path": null,
+      "name": "SF Norge",
+      "origin_country": "NO"
+    },
+    {
+      "id": 109843,
+      "logo_path": "/iwkwIEXWIPApzedElW5sY8LFZSx.png",
+      "name": "NRK",
+      "origin_country": "NO"
+    },
+    {
+      "id": 5975,
+      "logo_path": "/vvjgoKygWWYZvYyidT3RmOCq5If.png",
+      "name": "YLE",
+      "origin_country": "FI"
+    },
+    {
+      "id": 19919,
+      "logo_path": null,
+      "name": "Classic",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 2302,
+      "logo_path": "/rPXEdpqwFycAY9ZgrAJXv13qcWW.png",
+      "name": "Svenska Filminstitutet",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2000-09-15",
+  "revenue": 0,
+  "runtime": 154,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One Moment Can Change A Lifetime",
+  "title": "Faithless",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 50
+}

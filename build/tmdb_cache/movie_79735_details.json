@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/qzJstBZJW2mHvOpcuSiPjKLR6bp.jpg",
+  "belongs_to_collection": null,
+  "budget": 1190000,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 79735,
+  "imdb_id": "tt0067750",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shoot Out",
+  "overview": "Clay Lomax, a bank robber, gets out of jail after an 7 year sentence. He is looking after Sam Foley, the man who betrayed him. Knowing that, Foley hires three men to pay attention of Clay's steps. The things get complicated when Lomax, waiting to receive some money from his ex-lover, gets only the notice of her death and an 7 year old girl, sometimes very annoying, presumed to be his daughter.",
+  "popularity": 4.8702,
+  "poster_path": "/kyuq9116gONmk6zMhP1Qn4VsXBm.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3468,
+      "logo_path": null,
+      "name": "Hal Wallis Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1971-07-02",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Three fast guns against one determined man!",
+  "title": "Shoot Out",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 83
+}

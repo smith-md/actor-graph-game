@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/c0sqIBlZxagZsjL7iudYpP261lB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 75077,
+  "imdb_id": "tt0091617",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Necropolis",
+  "overview": "A reincarnated \"Satanic Witch\" from New Amsterdam, circa 1600's comes back to revive her cult members by sucking the life force out of people.",
+  "popularity": 2.9247,
+  "poster_path": "/sVY1TUU0uktvkRHLlTpiTDeit8.jpg",
+  "production_companies": [
+    {
+      "id": 17431,
+      "logo_path": null,
+      "name": "Tycin Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 1212,
+      "logo_path": null,
+      "name": "Empire Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-10-10",
+  "revenue": 0,
+  "runtime": 77,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Beneath the metropolis is...",
+  "title": "Necropolis",
+  "video": false,
+  "vote_average": 3.4,
+  "vote_count": 32
+}

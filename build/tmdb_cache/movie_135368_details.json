@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/1KWCgzjqu58fAudivh8qst7AY85.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 135368,
+  "imdb_id": "tt2050633",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Barrens",
+  "overview": "A man takes his family on a camping trip and becomes convinced they are being stalked by the legendary monster of the New Jersey Pine Barrens: the Jersey Devil.",
+  "popularity": 3.7595,
+  "poster_path": "/9dTbd20NEgsTDx5glF7dYYAKXKy.jpg",
+  "production_companies": [
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-09-28",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The terrifying legend of the Jersey Devil is alive.",
+  "title": "The Barrens",
+  "video": false,
+  "vote_average": 4.9,
+  "vote_count": 135
+}

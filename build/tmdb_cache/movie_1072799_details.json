@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/hGKXkkCNQy6DilOgI12hhQo2hzt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/downlow",
+  "id": 1072799,
+  "imdb_id": "tt14592044",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Down Low",
+  "overview": "A repressed gay man develops an unlikely friendship with a young masseur who teaches him to embrace life.",
+  "popularity": 5.1843,
+  "poster_path": "/heHmq8R7M5B8KZTksteu9PXlx4U.jpg",
+  "production_companies": [
+    {
+      "id": 7493,
+      "logo_path": "/fHitYiGUCkRafgt6VPYQlXWLkdp.png",
+      "name": "FilmNation Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 195445,
+      "logo_path": null,
+      "name": "Sui Generis Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 11341,
+      "logo_path": "/xytTBODEy3p20ksHL4Ftxr483Iv.png",
+      "name": "Stage 6 Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-03-11",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Finding yourself can get a little messy.",
+  "title": "Down Low",
+  "video": false,
+  "vote_average": 5.216,
+  "vote_count": 51
+}

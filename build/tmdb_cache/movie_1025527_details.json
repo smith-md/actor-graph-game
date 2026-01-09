@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/tLf5hjuO4gx62lVojPiHsIzCroh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1025527,
+  "imdb_id": "tt29610108",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Six jours",
+  "overview": "11 years ago, inspector Malik couldn’t solve a kidnapping case and a little girl died. Now with only a few days before the crime gets classified, he decides to reopen the case. Malik owes it to the mother and to himself. As he digs into the past, a child is kidnapped again. The pattern is the same one as a decade ago, it’s no coincidence. Malik knows he has a few days to make things right and to bring justice.",
+  "popularity": 20.0606,
+  "poster_path": "/foyiQu23zq4WhmffnQkFiNAvqcJ.jpg",
+  "production_companies": [
+    {
+      "id": 104734,
+      "logo_path": null,
+      "name": "Empreinte Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2902,
+      "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
+      "name": "SND",
+      "origin_country": "FR"
+    },
+    {
+      "id": 75242,
+      "logo_path": "/hrZzmOGhzhv473sIInHtSNwQOhT.png",
+      "name": "Pictanovo",
+      "origin_country": "FR"
+    },
+    {
+      "id": 78938,
+      "logo_path": null,
+      "name": "Région Hauts-de-France",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-12-11",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Abyss",
+  "video": false,
+  "vote_average": 5.938,
+  "vote_count": 89
+}

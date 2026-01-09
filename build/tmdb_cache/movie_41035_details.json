@@ -1,0 +1,54 @@
+{
+  "adult": false,
+  "backdrop_path": "/4kBmeJFCqzCmvJ5aGFevc8ncIO7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 41035,
+  "imdb_id": "tt0062384",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Torture Garden",
+  "overview": "Five people visit a fairground sideshow run by the sinister Dr. Diabolo. Having shown them a handful of haunted-house-style attractions, he promises them a genuinely scary experience if they will pay extra.",
+  "popularity": 4.2558,
+  "poster_path": "/9DkIKppS5D7s2dgCegKl4ApAuxa.jpg",
+  "production_companies": [
+    {
+      "id": 4630,
+      "logo_path": null,
+      "name": "Amicus Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1967-11-01",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Do You Dare See What Dr. Diabolo Sees?",
+  "title": "Torture Garden",
+  "video": false,
+  "vote_average": 6.12,
+  "vote_count": 83
+}

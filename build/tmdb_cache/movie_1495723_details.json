@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/j5FNYFaSXmD3T0WAYDAvguEPVOv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1495723,
+  "imdb_id": "tt34691776",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Metruk Adam",
+  "overview": "After serving time in prison for his brother's crime, a man warily reunites with family, finding hope and healing in a life-changing bond with his niece.",
+  "popularity": 3.7962,
+  "poster_path": "/9jrhldzLHXia0uieyqK8UJ8PNAG.jpg",
+  "production_companies": [
+    {
+      "id": 142312,
+      "logo_path": null,
+      "name": "OGM Pictures",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2025-08-22",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Abandoned Man",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 65
+}

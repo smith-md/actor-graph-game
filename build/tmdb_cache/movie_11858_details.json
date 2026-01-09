@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/bNZ4G2h9EABULTThr7lEx9ODzoj.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 11858,
+  "imdb_id": "tt0110971",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Renaissance Man",
+  "overview": "An advertising man is slowly sliding downhill. When he is fired from his job in Detroit, he signs up for unemployment. One day they find him a job: teaching thinking skills to Army recruits. He arrives on base to find that there is no structure set up for the class.",
+  "popularity": 3.9666,
+  "poster_path": "/iPRtaSfN8gNWFclgrcg5oD3V41i.jpg",
+  "production_companies": [
+    {
+      "id": 1504,
+      "logo_path": "/yVAJJ4TgnV1FsDmLh6h5ZNJd0vf.png",
+      "name": "Cinergi Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 9195,
+      "logo_path": "/geK5QOBsXIPGHutKwXtYjMUyYSG.png",
+      "name": "Touchstone Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-06-03",
+  "revenue": 24332324,
+  "runtime": 128,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One man's mission to teach the few, the proud... The impossible!",
+  "title": "Renaissance Man",
+  "video": false,
+  "vote_average": 6.113,
+  "vote_count": 309
+}

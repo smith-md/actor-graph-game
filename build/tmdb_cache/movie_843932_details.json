@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/aNzvd95YGOD9c2Pz4bVO6XVpvuV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://amazon.com/dp/B0B5NWDKC1",
+  "id": 843932,
+  "imdb_id": "tt10931784",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Nanny",
+  "overview": "Aisha, a Senegalese immigrant who takes a job as a nanny for a wealthy white family in New York City, finds herself consumed by unsettling visions and a growing rage.",
+  "popularity": 4.7193,
+  "poster_path": "/mPhXHRudGxsXIQq1WM6oVePkFIp.jpg",
+  "production_companies": [
+    {
+      "id": 156239,
+      "logo_path": "/qb4T2Kk4SLPDjNwWpdTv56xsiIa.png",
+      "name": "LinLay Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 89141,
+      "logo_path": "/56o4r21cdHeMwAMxKKcoPGjbjj3.png",
+      "name": "Stay Gold Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 99366,
+      "logo_path": "/r5UIazzNzEOUSEbxOfwWzEOBe5F.png",
+      "name": "Topic Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 68884,
+      "logo_path": "/1BYexT6Vikz4ulCcYKGPmOi6Jm0.png",
+      "name": "Blumhouse Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-11-23",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Wolof",
+      "iso_639_1": "wo",
+      "name": "Wolof"
+    }
+  ],
+  "status": "Released",
+  "tagline": "We're haunted by what we leave behind.",
+  "title": "Nanny",
+  "video": false,
+  "vote_average": 5.351,
+  "vote_count": 218
+}

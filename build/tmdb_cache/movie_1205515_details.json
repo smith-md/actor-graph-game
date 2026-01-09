@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/nVHEjkA8vuEGJLfNUOmVW5md6yn.jpg",
+  "belongs_to_collection": null,
+  "budget": 1500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://a24films.com/films/sorry-baby",
+  "id": 1205515,
+  "imdb_id": "tt32843349",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sorry, Baby",
+  "overview": "Agnes feels stuck. Unlike her best friend, Lydie, who’s moved to New York and is now expecting a baby, Agnes still lives in the New England house they once shared as graduate students, now working as a professor at her alma mater. A ‘bad thing’ happened to Agnes a few years ago and, since then, despite her best efforts, life hasn’t gotten back on track.",
+  "popularity": 10.4484,
+  "poster_path": "/n8wZEQen5hDNRGzm4fY4sxWe5xe.jpg",
+  "production_companies": [
+    {
+      "id": 103697,
+      "logo_path": "/9gsomzlpj1lLR7kupysQ7nSFcHh.png",
+      "name": "PASTEL",
+      "origin_country": "US"
+    },
+    {
+      "id": 188,
+      "logo_path": "/40E8iNvy6brH6t4BbmQL211jIpl.png",
+      "name": "Big Beach",
+      "origin_country": "US"
+    },
+    {
+      "id": 168181,
+      "logo_path": "/adHpT0fRW86W80jPtJRo96pqJE4.png",
+      "name": "Tango Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 52053,
+      "logo_path": "/grMLc37nDRnKrMsKXcrHm76boxI.png",
+      "name": "High Frequency Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 171882,
+      "logo_path": null,
+      "name": "Case Study Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 102874,
+      "logo_path": "/3oHMY8bVdqo8c9KSQw1ehMc0o3V.png",
+      "name": "Charades",
+      "origin_country": "FR"
+    },
+    {
+      "id": 210197,
+      "logo_path": "/hDX0eQxjfNiV4sBU8CH1oTQ2Jdk.png",
+      "name": "AF Films",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2025-06-27",
+  "revenue": 2279895,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Welcome to the world.",
+  "title": "Sorry, Baby",
+  "video": false,
+  "vote_average": 6.91,
+  "vote_count": 178
+}

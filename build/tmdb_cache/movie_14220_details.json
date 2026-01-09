@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/k7z6Yig0XHge7BdcKLcfGPwjdrF.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 14220,
+  "imdb_id": "tt0489282",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Strange Wilderness",
+  "overview": "With the ratings dropping for a wilderness-themed TV show, two animal fans go to the Andes in search of Bigfoot.",
+  "popularity": 4.1875,
+  "poster_path": "/6tamhOw4dSgn4lonjZyhEhIt9Wm.jpg",
+  "production_companies": [
+    {
+      "id": 3251,
+      "logo_path": null,
+      "name": "Pelican Productions LLC",
+      "origin_country": ""
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 878,
+      "logo_path": "/s5j0xnTXvglZoz49CUaQclVv3s9.png",
+      "name": "Happy Madison Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 10040,
+      "logo_path": null,
+      "name": "Level 1 Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-02-01",
+  "revenue": 7000000,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They could solve nature's biggest mystery if only they had a clue.",
+  "title": "Strange Wilderness",
+  "video": false,
+  "vote_average": 4.888,
+  "vote_count": 241
+}

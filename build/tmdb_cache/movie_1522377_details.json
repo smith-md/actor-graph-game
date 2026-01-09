@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/2yZmwuXiQw58GiXwJwGNYtsDrEL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0FWDXNRPN",
+  "id": 1522377,
+  "imdb_id": "tt36499994",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "İki Dünya Bir Dilek",
+  "overview": "Twenty-one years after a magical meeting at a children's hospital, Bilge and Can suddenly begin hearing each other's voices telepathically. What seems like a miracle soon reveals a hidden secret, as fate-reuniting them after decades-has much more in store.",
+  "popularity": 13.1179,
+  "poster_path": "/mZcwX1aN2RdCLwamxdkoINIhVAm.jpg",
+  "production_companies": [
+    {
+      "id": 37124,
+      "logo_path": "/xds9zZHZZfGD0eyB2CgO7k8gT8D.png",
+      "name": "TAFF Pictures",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2025-11-24",
+  "revenue": 0,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Two Worlds One Wish",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 32
+}

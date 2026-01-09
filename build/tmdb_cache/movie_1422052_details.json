@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/asO6UtEqDB9bdJzDDjnSzNZf3vY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 1422052,
+  "imdb_id": "tt35521703",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Descendent",
+  "overview": "After a traumatic brain injury triggers terrifying visions of extraterrestrials and a newfound talent for drawing, a father-to-be begins to question his reality and becomes obsessed with the need to protect his family from an unseen threat.",
+  "popularity": 4.9377,
+  "poster_path": "/Of1UCdomAu0mJY2SNHHGjhnvx9.jpg",
+  "production_companies": [
+    {
+      "id": 105878,
+      "logo_path": "/1hRvAmvhGy7XrDp7xVa9d1eu8lL.png",
+      "name": "Rustic Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 76991,
+      "logo_path": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
+      "name": "Highland Film Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-08",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Descendent",
+  "video": false,
+  "vote_average": 5.682,
+  "vote_count": 44
+}

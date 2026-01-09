@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/cIPiZqKJhr2NrJku0g34P5ZcLU6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 86214,
+  "imdb_id": "tt0071938",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Vampira",
+  "overview": "In order to revive his long hibernating bride, Vampira, Count Dracula takes blood samples from several beautiful models, but during the transfusion, Vampira's race turns from white to black.",
+  "popularity": 3.0641,
+  "poster_path": "/s3xnVtBdDlpNpo3qAseI4B4zUGG.jpg",
+  "production_companies": [
+    {
+      "id": 3167,
+      "logo_path": null,
+      "name": "World Film Services",
+      "origin_country": ""
+    },
+    {
+      "id": 9266,
+      "logo_path": "/lRinQ7scVye5N8qkUIoCB4QXbRh.png",
+      "name": "American International Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [],
+  "release_date": "1974-10-10",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If You Liked \"Young Frankenstein\" You'll Love \"Old Dracula!\"",
+  "title": "Vampira",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 26
+}

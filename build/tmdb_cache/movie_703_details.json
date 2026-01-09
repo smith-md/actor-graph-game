@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/8n9dYsTbXTykzm2Nuy7R2ftapXQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 703,
+  "imdb_id": "tt0075686",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Annie Hall",
+  "overview": "New York comedian Alvy Singer falls in love with the ditsy Annie Hall.",
+  "popularity": 3.8748,
+  "poster_path": "/gBo4G0p8iVS998aYvXS656jbsH2.jpg",
+  "production_companies": [
+    {
+      "id": 13309,
+      "logo_path": null,
+      "name": "Jack Rollins & Charles H. Joffe Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1977-04-19",
+  "revenue": 43989445,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A nervous romance.",
+  "title": "Annie Hall",
+  "video": false,
+  "vote_average": 7.733,
+  "vote_count": 4126
+}

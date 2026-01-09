@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/4NY2PBOcctr5ETj16zPrd0iiczU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 86541,
+  "imdb_id": "tt1924273",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Promoción fantasma",
+  "overview": "A teacher with paranormal abilities helps a group of ghosts graduate high school.",
+  "popularity": 4.7144,
+  "poster_path": "/oduJ7jj5DsVuvIctPxHRcb88vfr.jpg",
+  "production_companies": [
+    {
+      "id": 10128,
+      "logo_path": "/apcQLKRuLLqhi9fD1gaSL3argeo.png",
+      "name": "Think Studio",
+      "origin_country": "ES"
+    },
+    {
+      "id": 10130,
+      "logo_path": null,
+      "name": "Ciskul",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2012-02-03",
+  "revenue": 1438697,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ghost Graduation",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 222
+}

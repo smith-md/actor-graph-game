@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/fYrWYtAQoeW00vflpeVbvJjkEjb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://www.timerthemovie.com",
+  "id": 39545,
+  "imdb_id": "tt1179794",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "TiMER",
+  "overview": "When implanted in a person's wrist, a TiMER counts down to the day the wearer finds true love. But Oona O'Leary faces the rare dilemma of a blank TiMER. Her soul mate - whoever and wherever he is - has yet to have a TiMER implanted. Staring down the barrel of thirty and tired of waiting for her would-be life partner to get off the dime, Oona breaks her own rules and falls for Mikey, a charming and inappropriately young supermarket clerk with a countdown of four months.",
+  "popularity": 4.0787,
+  "poster_path": "/i9QHzVqko9YxNCGdH8vnruy78nK.jpg",
+  "production_companies": [
+    {
+      "id": 3017,
+      "logo_path": null,
+      "name": "Present Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2009-05-14",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You can't hurry love.",
+  "title": "TiMER",
+  "video": false,
+  "vote_average": 6.274,
+  "vote_count": 250
+}

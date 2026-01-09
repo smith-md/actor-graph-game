@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/iPcAAV7D49lTqm9mLA7w6Ysz5mh.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 18993,
+  "imdb_id": "tt0055207",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Mysterious Island",
+  "overview": "During the US Civil War, Union POWs escape in a balloon and end up stranded on a South Pacific island, inhabited by giant plants and animals. They must use their ingenuity to survive the dangers, and to devise a way to return home. Sequel to '20,000 Leagues Under the Sea' .",
+  "popularity": 3.4698,
+  "poster_path": "/lqLIpwISJEvERlS5fSWe8xbQDFf.jpg",
+  "production_companies": [
+    {
+      "id": 8488,
+      "logo_path": null,
+      "name": "Ameran Films",
+      "origin_country": ""
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1961-12-19",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A world beyond imagination! Adventure beyond belief!",
+  "title": "Mysterious Island",
+  "video": false,
+  "vote_average": 6.59,
+  "vote_count": 200
+}

@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/tljkeU2y1dCvT51Sv4ciNf0VfmV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://fatale.movie",
+  "id": 549514,
+  "imdb_id": "tt8829830",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Fatale",
+  "overview": "After a wild one-night stand, successful sports agent Derrick Tyler watches his perfect life slowly disappear when he discovers the sexy and mysterious woman he risked everything for is determined police detective Valerie Quinlan who entangles him in her latest investigation. As he desperately tries to put the pieces together, he falls deeper into her trap, risking his family, his career, and even his life.",
+  "popularity": 4.2385,
+  "poster_path": "/tGFXEyESXIuei5tZWXRkSRSFSxi.jpg",
+  "production_companies": [
+    {
+      "id": 102809,
+      "logo_path": "/5hoxf5oxUF56UWqWbIt2BjWmZ6m.png",
+      "name": "Hidden Empire Film Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 491,
+      "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+      "name": "Summit Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-12-18",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One mistake can change your life.",
+  "title": "Fatale",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 368
+}

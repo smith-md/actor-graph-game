@@ -1,0 +1,140 @@
+{
+  "id": 261776,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 125494,
+      "known_for_department": "Acting",
+      "name": "Carlos Echevarría",
+      "original_name": "Carlos Echevarría",
+      "popularity": 0.4371,
+      "profile_path": "/3YmZxunH3WvtCRcsG43kmVk4tYt.jpg",
+      "cast_id": 0,
+      "character": "Hernán",
+      "credit_id": "5335a1d6925141445d004a01",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1305339,
+      "known_for_department": "Acting",
+      "name": "Emiliano Dionisi",
+      "original_name": "Emiliano Dionisi",
+      "popularity": 0.123,
+      "profile_path": null,
+      "cast_id": 1,
+      "character": "Fede",
+      "credit_id": "5335a1ef925141445a0049ba",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1305340,
+      "known_for_department": "Acting",
+      "name": "Nicolás Armengol",
+      "original_name": "Nicolás Armengol",
+      "popularity": 0.4561,
+      "profile_path": null,
+      "cast_id": 2,
+      "character": "Franco",
+      "credit_id": "5335a201925141444e00489c",
+      "order": 2
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1436126,
+      "known_for_department": "Directing",
+      "name": "Rodrigo Guerrero",
+      "original_name": "Rodrigo Guerrero",
+      "popularity": 1.7358,
+      "profile_path": "/qxOcKMFLXm989W4ccEaFqUuBR1t.jpg",
+      "credit_id": "54faea98c3a368693b0012c9",
+      "department": "Editing",
+      "job": "Editor"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1436127,
+      "known_for_department": "Camera",
+      "name": "Gustavo Tejeda",
+      "original_name": "Gustavo Tejeda",
+      "popularity": 0.0143,
+      "profile_path": null,
+      "credit_id": "54faea8b9251413ab5001692",
+      "department": "Camera",
+      "job": "Director of Photography"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1436126,
+      "known_for_department": "Directing",
+      "name": "Rodrigo Guerrero",
+      "original_name": "Rodrigo Guerrero",
+      "popularity": 1.7358,
+      "profile_path": "/qxOcKMFLXm989W4ccEaFqUuBR1t.jpg",
+      "credit_id": "54fae9ba9251417b700011c4",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1436126,
+      "known_for_department": "Directing",
+      "name": "Rodrigo Guerrero",
+      "original_name": "Rodrigo Guerrero",
+      "popularity": 1.7358,
+      "profile_path": "/qxOcKMFLXm989W4ccEaFqUuBR1t.jpg",
+      "credit_id": "54fae9c4c3a368199b0015e2",
+      "department": "Writing",
+      "job": "Screenplay"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1376046,
+      "known_for_department": "Sound",
+      "name": "Daniel Melero",
+      "original_name": "Daniel Melero",
+      "popularity": 0.509,
+      "profile_path": null,
+      "credit_id": "58ef576a92514141ff00bbcb",
+      "department": "Sound",
+      "job": "Music"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 1436126,
+      "known_for_department": "Directing",
+      "name": "Rodrigo Guerrero",
+      "original_name": "Rodrigo Guerrero",
+      "popularity": 1.7358,
+      "profile_path": "/qxOcKMFLXm989W4ccEaFqUuBR1t.jpg",
+      "credit_id": "58ef57f3925141424100b0a9",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 4330701,
+      "known_for_department": "Production",
+      "name": "Lorena Quevedo",
+      "original_name": "Lorena Quevedo",
+      "popularity": 0.098,
+      "profile_path": "/ekPx5lcKPA0Deqm1KB4wOgB5j.jpg",
+      "credit_id": "666864bd32018f91663c68c2",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

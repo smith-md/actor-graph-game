@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/n4BrGxLR8XXjmPMptf54J3gEUvD.jpg",
+  "belongs_to_collection": {
+    "id": 86115,
+    "name": "Garfield (Live-Action/CGI) Collection",
+    "poster_path": "/9RxtXHvfX79gnHaXutwVhT1nlUL.jpg",
+    "backdrop_path": "/qHF9Qnzz5zu5AQm3mqnrMfc7w9P.jpg"
+  },
+  "budget": 60000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 9513,
+  "imdb_id": "tt0455499",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Garfield: A Tail of Two Kitties",
+  "overview": "Jon and Garfield visit the United Kingdom, where a case of mistaken cat identity finds Garfield ruling over a castle. His reign is soon jeopardized by the nefarious Lord Dargis, who has designs on the estate.",
+  "popularity": 3.7706,
+  "poster_path": "/eKf3ywh5scQ3wXOIfVgseF4LFir.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 1302,
+      "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+      "name": "Davis Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 444,
+      "logo_path": null,
+      "name": "Dune Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 445,
+      "logo_path": null,
+      "name": "Major Studio Partners",
+      "origin_country": "US"
+    },
+    {
+      "id": 290,
+      "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
+      "name": "Ingenious Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 133789,
+      "logo_path": "/bJdeIb1ET3BkyodAASVDq1x3mls.png",
+      "name": "Ingenious Film Partners",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2006-06-15",
+  "revenue": 141700000,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Ego has landed.",
+  "title": "Garfield: A Tail of Two Kitties",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 2309
+}

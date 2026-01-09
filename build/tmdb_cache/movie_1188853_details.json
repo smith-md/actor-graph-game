@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/kC5d3MDJUvD6XrfPiOmcARLipDW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.calladitafilm.com",
+  "id": 1188853,
+  "imdb_id": "tt18291892",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Calladita",
+  "overview": "Ana has just arrived from Colombia and is the maid of a luxurious mansion on the Costa Brava, where a family of wealthy art dealers spends their summers. The young woman works tirelessly and without a contract, under the promise of decent conditions at the end of the summer, if she remains obedient and discreet.",
+  "popularity": 4.6347,
+  "poster_path": "/pZXKAjNQ9zxGCp7LNddqGoQgzPX.jpg",
+  "production_companies": [
+    {
+      "id": 210649,
+      "logo_path": null,
+      "name": "Calladita Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 72738,
+      "logo_path": "/aWkFdzHJQFCG1V225JJtBRagdlu.png",
+      "name": "Potenza Producciones",
+      "origin_country": "ES"
+    },
+    {
+      "id": 199320,
+      "logo_path": "/w7lIxK8joiKRR7jHhrXXjBXONDV.png",
+      "name": "Decentralized Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-05-17",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Calladita",
+  "video": false,
+  "vote_average": 6.528,
+  "vote_count": 36
+}

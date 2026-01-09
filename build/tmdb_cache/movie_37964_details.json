@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/bRZQqYtGK8y2wypgvVRY338fIxj.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 37964,
+  "imdb_id": "tt0297037",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Brown Sugar",
+  "overview": "Sidney and Dre can attribute their lifelong friendship and the launch of their careers to one single childhood instant... witnessing the birth of hip-hop on a New York street corner. Now some 15 years later, she is a revered music critic at a national magazine and he is a successful, though unfulfilled, hip-hop record company executive. Both come to realize that their true life passions will only be fulfilled by remembering what they learned that day on the corner.",
+  "popularity": 4.2417,
+  "poster_path": "/hKltNdfxKg28mOgFwizNyhIFkJ2.jpg",
+  "production_companies": [
+    {
+      "id": 43,
+      "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+      "name": "Fox Searchlight Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 158410,
+      "logo_path": null,
+      "name": "Evergreen Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 11015,
+      "logo_path": null,
+      "name": "Heller Highwater Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 158411,
+      "logo_path": null,
+      "name": "Magic Johnson Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-10-05",
+  "revenue": 27362712,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When did you first fall in love with hip-hop?",
+  "title": "Brown Sugar",
+  "video": false,
+  "vote_average": 6.593,
+  "vote_count": 123
+}

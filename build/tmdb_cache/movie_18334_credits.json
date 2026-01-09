@@ -1,0 +1,32 @@
+{
+  "id": 18334,
+  "cast": [],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 102187,
+      "known_for_department": "Production",
+      "name": "Satoru Ogura",
+      "original_name": "小椋悟",
+      "popularity": 1.315,
+      "profile_path": null,
+      "credit_id": "52fe47749251416c75099fd3",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 102187,
+      "known_for_department": "Production",
+      "name": "Satoru Ogura",
+      "original_name": "小椋悟",
+      "popularity": 1.315,
+      "profile_path": null,
+      "credit_id": "52fe47749251416c75099fcd",
+      "department": "Directing",
+      "job": "Director"
+    }
+  ]
+}

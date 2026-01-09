@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/u6JGnIabQslWMzX03hb3weEbvx0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.sho.com/titles/3526567/heist-88",
+  "id": 1170944,
+  "imdb_id": "tt7718100",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Heist 88",
+  "overview": "A criminal mastermind recruits a group of young bank employees to steal 80 million dollars in one of the largest bank heist in US history.",
+  "popularity": 4.1897,
+  "poster_path": "/4ueFteb6V38fnSWTN4jIbLOlMlM.jpg",
+  "production_companies": [
+    {
+      "id": 6329,
+      "logo_path": "/4lZJiVHPClma8YB9hXodraFXSwi.png",
+      "name": "MTV Entertainment Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 207294,
+      "logo_path": null,
+      "name": "Bassett Vance Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 96654,
+      "logo_path": "/r76unvd8wmHNKhII3HjcxRxiCW5.png",
+      "name": "Gunpowder & Sky",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-10-01",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Heist 88",
+  "video": false,
+  "vote_average": 6.686,
+  "vote_count": 97
+}

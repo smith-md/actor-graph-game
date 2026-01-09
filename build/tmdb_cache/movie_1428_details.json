@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/ctDqJtlMwASOKoQi7sacSVae3EI.jpg",
+  "belongs_to_collection": {
+    "id": 9649,
+    "name": "Mexico Collection",
+    "poster_path": "/yJy16pGr7xWub8tj92NGY5NMjyt.jpg",
+    "backdrop_path": "/6p1OzuIKWnTDfDea7IpB9xra5J.jpg"
+  },
+  "budget": 29000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1428,
+  "imdb_id": "tt0285823",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Once Upon a Time in Mexico",
+  "overview": "A corrupt CIA agent Sands hires hitman El Mariachi to assassinate a Mexican general hired by a drug kingpin attempting a coup d'état of the President of Mexico.",
+  "popularity": 4.9965,
+  "poster_path": "/bsHbVPpaOfmGlcLMG20HfrPv1hg.jpg",
+  "production_companies": [
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 7405,
+      "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+      "name": "Dimension Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 10807,
+      "logo_path": "/5MhGwwNnXXcTKjIXJ9oALnUas4t.png",
+      "name": "Troublemaker Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-09-11",
+  "revenue": 98769390,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The time has come.",
+  "title": "Once Upon a Time in Mexico",
+  "video": false,
+  "vote_average": 6.295,
+  "vote_count": 2318
+}

@@ -1,0 +1,87 @@
+{
+  "id": 53220,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 33923,
+      "known_for_department": "Acting",
+      "name": "Mel Blanc",
+      "original_name": "Mel Blanc",
+      "popularity": 1.4595,
+      "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+      "cast_id": 2,
+      "character": "Bugs Bunny / Daffy Duck / Elephant (voice)",
+      "credit_id": "52fe4859c3a36847f81630cb",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 147117,
+      "known_for_department": "Acting",
+      "name": "Arthur Q. Bryan",
+      "original_name": "Arthur Q. Bryan",
+      "popularity": 0.7083,
+      "profile_path": "/hvNjp2xYVPgPqPNM4no24myzBUw.jpg",
+      "cast_id": 5,
+      "character": "Elmer Fudd (voice) (uncredited)",
+      "credit_id": "52fe4859c3a36847f81630db",
+      "order": 1
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 362742,
+      "known_for_department": "Writing",
+      "name": "Michael Maltese",
+      "original_name": "Michael Maltese",
+      "popularity": 0.4843,
+      "profile_path": "/kh0VmXGxAAUPybZHMFsir5beXiH.jpg",
+      "credit_id": "52fe4859c3a36847f81630d1",
+      "department": "Writing",
+      "job": "Story"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 100888,
+      "known_for_department": "Directing",
+      "name": "Chuck Jones",
+      "original_name": "Chuck Jones",
+      "popularity": 0.8504,
+      "profile_path": "/6LaYJXpfX6hry3mT8QTEGCPIUdi.jpg",
+      "credit_id": "52fe4859c3a36847f81630c7",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 457819,
+      "known_for_department": "Production",
+      "name": "Edward Selzer",
+      "original_name": "Edward Selzer",
+      "popularity": 1.5628,
+      "profile_path": null,
+      "credit_id": "52fe4859c3a36847f81630d7",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 551674,
+      "known_for_department": "Sound",
+      "name": "Carl W. Stalling",
+      "original_name": "Carl W. Stalling",
+      "popularity": 1.7641,
+      "profile_path": "/pvo2CuSZen19HwzODF9v42OhQmR.jpg",
+      "credit_id": "5b942e12c3a3685681012c52",
+      "department": "Sound",
+      "job": "Music"
+    }
+  ]
+}

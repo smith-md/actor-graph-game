@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/qcxXFE9XEfnyUmAdbvtJqXYtAqc.jpg",
+  "belongs_to_collection": null,
+  "budget": 9000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 31945,
+  "imdb_id": "tt0093966",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Sicilian",
+  "overview": "Egocentric bandit Salvatore Giuliano fights the Church, the Mafia, and the landed gentry while leading a populist movement for Sicilian independence.",
+  "popularity": 3.9037,
+  "poster_path": "/3zjrYyAtTs0uxX1a4hhDR3Ir5Rz.jpg",
+  "production_companies": [
+    {
+      "id": 1648,
+      "logo_path": "/z57DIlsxnejkR3tp0Bs8BcLnKOi.png",
+      "name": "Gladden Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1987-10-07",
+  "revenue": 5406879,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In Sicily, you stand by the law or by the Mafia. Only one man ever dared to stand alone.",
+  "title": "The Sicilian",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 141
+}

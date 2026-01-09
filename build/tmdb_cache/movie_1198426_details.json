@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/9uSytfP3mvIwEdLUOSf0DlrEq9J.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 1198426,
+  "imdb_id": "tt17423376",
+  "origin_country": [
+    "DO"
+  ],
+  "original_language": "es",
+  "original_title": "Capitán Avispa",
+  "overview": "In Avispatropolis, the fearless Captain Avispa emerges as an exemplary protector of the city, whose courage and convictions always prevail over the forces of evil. His unbreakable power is nourished by absolute sincerity, as he would lose his strength if he dared to weave deceit. Only in pursuit of noble causes does he allow himself to deviate from the truth. As is common in stories of this kind, Captain Wasp is surrounded by a constellation of close friends and arch-enemies, whose stories have their origins in the artist's songs.",
+  "popularity": 7.7001,
+  "poster_path": "/zmthz3CuFljmBQcfuaz4hBNwbQ0.jpg",
+  "production_companies": [
+    {
+      "id": 226162,
+      "logo_path": null,
+      "name": "Guerra Toons",
+      "origin_country": "DO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DO",
+      "name": "Dominican Republic"
+    }
+  ],
+  "release_date": "2024-04-04",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Captain Avispa",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 40
+}

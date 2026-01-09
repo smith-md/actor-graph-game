@@ -1,0 +1,108 @@
+{
+  "adult": false,
+  "backdrop_path": "/wyDNiOVWwviCFzWITuxs9CnjmAW.jpg",
+  "belongs_to_collection": {
+    "id": 99321,
+    "name": "Gantz Collection",
+    "poster_path": "/4nybjgZf153YzEvRVyaGXckz7rl.jpg",
+    "backdrop_path": "/chA5nmb6KsI88TmAqDtvuhybMJ8.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "http://gantzo.jp/",
+  "id": 396263,
+  "imdb_id": "tt5923962",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "GANTZ:O",
+  "overview": "After being brutally murdered in a subway station, a teen boy awakens to find himself resurrected by a strange computer named Gantz, and forced to fight a large force of invading aliens in Osaka.",
+  "popularity": 3.959,
+  "poster_path": "/9yTuw6ddf28lItHwgeqFSNtXsaG.jpg",
+  "production_companies": [
+    {
+      "id": 3361,
+      "logo_path": "/sDKWkiVJRY0gn1j5NBseGKlgFyY.png",
+      "name": "Digital Frontier",
+      "origin_country": "JP"
+    },
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1778,
+      "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+      "name": "dentsu",
+      "origin_country": "JP"
+    },
+    {
+      "id": 60196,
+      "logo_path": null,
+      "name": "Fields Corporation",
+      "origin_country": "JP"
+    },
+    {
+      "id": 163691,
+      "logo_path": "/24qBOdAWHBTz9YjDoQwPrL1uyMw.png",
+      "name": "Jinnan Studio",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4673,
+      "logo_path": "/tXMheRYcKXCK1a90NRESqO1ibhQ.png",
+      "name": "King Records",
+      "origin_country": "JP"
+    },
+    {
+      "id": 221091,
+      "logo_path": "/pu0DoV6xEqYOt5mFw2r3P2mlWSV.png",
+      "name": "Kyoraku Industrial Holdings",
+      "origin_country": "JP"
+    },
+    {
+      "id": 104184,
+      "logo_path": "/reEBh8dBl2y1DbXe2EdgxtMtaim.png",
+      "name": "Lawson Entertainment",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2016-10-14",
+  "revenue": 2238600,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "GANTZ:O",
+  "video": false,
+  "vote_average": 7.304,
+  "vote_count": 804
+}

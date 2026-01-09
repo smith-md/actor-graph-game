@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/mhRXv5sSpl4BhkNgWgW2OoK7ghc.jpg",
+  "belongs_to_collection": null,
+  "budget": 450000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 3043,
+  "imdb_id": "tt0071508",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Flesh for Frankenstein",
+  "overview": "Within the decadent walls of the Frankenstein mansion, the Baron and his depraved assistant Otto have discovered the means of creating new life. As the Baron's laboratory begins to fill up with stitched body parts, the Baroness dallies with the randy new manservant and soon the decadent, permissive household is consumed by an outrageous, bizarre and hilarious combination of death and dismemberment.",
+  "popularity": 2.0431,
+  "poster_path": "/9GRNVP3Vny8WRafI1bwsrsf2BC0.jpg",
+  "production_companies": [
+    {
+      "id": 1299,
+      "logo_path": null,
+      "name": "Braunsberg Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 1300,
+      "logo_path": null,
+      "name": "Carlo Ponti Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 10000,
+      "logo_path": null,
+      "name": "C. C. Champion",
+      "origin_country": "IT"
+    },
+    {
+      "id": 207313,
+      "logo_path": null,
+      "name": "Rassam Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 207314,
+      "logo_path": null,
+      "name": "Yanne et Rassam",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1973-11-30",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "We dare you to see...",
+  "title": "Flesh for Frankenstein",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 148
+}

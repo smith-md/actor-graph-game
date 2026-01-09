@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": "/vOV4Qy3g791OTzEndiSGoJwuI2M.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1401778,
+  "imdb_id": "tt33009027",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Turbulence",
+  "overview": "Young married couple Zach and Emmy decide to take a hot air balloon trip across the Italian Dolomites to rekindle their relationship. When they and pilot Harry are joined by a third passenger, Julia, events unfold in ways they could never imagine five thousand meters in the air.",
+  "popularity": 5.3673,
+  "poster_path": "/jRuiKL4S9UpLma2ZlM47xIu2gbe.jpg",
+  "production_companies": [
+    {
+      "id": 85170,
+      "logo_path": "/iy4CaQI06wU1XjuC2sPtxr40VRt.png",
+      "name": "Altitude Film Sales",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5056,
+      "logo_path": "/583ITs4w9sK31FnJwKiRwapTpzb.png",
+      "name": "Head Gear Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 25954,
+      "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology",
+      "origin_country": "GB"
+    },
+    {
+      "id": 19638,
+      "logo_path": "/ueSsb3nJfvu8utNO1linVypm2mv.png",
+      "name": "Altitude Film Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 21608,
+      "logo_path": "/8T1IRxvzcTr7NWhobIKXBMCkUiY.png",
+      "name": "Enderby Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 107513,
+      "logo_path": "/tRArb3RvrssbYCST9R0A8NKyDKV.png",
+      "name": "Phiphen Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-11-26",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fear takes flight.",
+  "title": "Turbulence",
+  "video": false,
+  "vote_average": 5.524,
+  "vote_count": 41
+}

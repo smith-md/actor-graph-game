@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/c9woVMyzX8Po9ZdAvwvSU2Tu0OI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 77418,
+  "imdb_id": "tt0049501",
+  "origin_country": [
+    "FR",
+    "IT",
+    "YU"
+  ],
+  "original_language": "fr",
+  "original_title": "Michel Strogoff",
+  "overview": "When Emir Feofar Khan, leader of the Tartar hordes, takes up arms and invades the steppes of Eastern Siberia, Czar Alexander II of Russia entrusts the brave officer Michael Strogoff with a dangerous mission.",
+  "popularity": 3.1456,
+  "poster_path": "/88PdFuBXAH9DtqpLigL3bPfOleg.jpg",
+  "production_companies": [
+    {
+      "id": 8022,
+      "logo_path": null,
+      "name": "Illiria Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 8023,
+      "logo_path": null,
+      "name": "Produzione Gallone",
+      "origin_country": "IT"
+    },
+    {
+      "id": 8024,
+      "logo_path": null,
+      "name": "UFUS",
+      "origin_country": "YU"
+    },
+    {
+      "id": 1574,
+      "logo_path": null,
+      "name": "Les Films Modernes",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "YU",
+      "name": "Yugoslavia"
+    }
+  ],
+  "release_date": "1956-12-14",
+  "revenue": 0,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He fought single-handed against the terror of Tartar hordes!",
+  "title": "Michael Strogoff",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 33
+}

@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/dymsqRll89InKJV3h7fN6Gjn0QG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 41578,
+  "imdb_id": "tt0109816",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Floundering",
+  "overview": "John Boyz lives close to where they film \"Baywatch\", but you'd never know it. His life is full of bizarre friends, sweaty sex, pistol wielding gangsters, bungling bureaucrats, police fanatics, revolutionaries, and weirdos. All John wants is a little peace of mind and a little piece of the action, but in \"Floundering\" it wont come easy.",
+  "popularity": 3.2668,
+  "poster_path": "/sTW4JE8SOn5x50bhzYd47SOhWtQ.jpg",
+  "production_companies": [
+    {
+      "id": 21149,
+      "logo_path": null,
+      "name": "Front Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-11-04",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Floundering",
+  "video": false,
+  "vote_average": 4.925,
+  "vote_count": 20
+}

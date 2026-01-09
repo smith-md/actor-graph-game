@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/8aanbGZZFefH8HlE0v9PLb3pQ6k.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 18926,
+  "imdb_id": "tt0039208",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Boomerang!",
+  "overview": "When a kindly priest is murdered while waiting at a street corner in a quiet Connecticut town, the citizens are horrified and demand action from the police. All of the witnesses identify John Waldron, a nervous out-of-towner, as the killer. District Attorney Henry Harvey is then put on the case and faces political opposition in his attempt to prove Waldron's innocence.",
+  "popularity": 2.6715,
+  "poster_path": "/eN6p5zG2ar7zw5BD6UIGUpkA2FF.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1947-02-28",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It comes back at you again and again!",
+  "title": "Boomerang!",
+  "video": false,
+  "vote_average": 7.005,
+  "vote_count": 82
+}

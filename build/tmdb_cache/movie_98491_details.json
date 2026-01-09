@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/8kcFXRFMuSAiqTpOshNbpUL8Fh0.jpg",
+  "belongs_to_collection": null,
+  "budget": 800000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 98491,
+  "imdb_id": "tt0066585",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Wuthering Heights",
+  "overview": "A passionate and tumultuous love story set against the backdrop of the Yorkshire moors, exploring the intense and destructive relationship between Heathcliff and Catherine Earnshaw.",
+  "popularity": 3.4488,
+  "poster_path": "/gOK1fb5nvk6IXTRmOr1pPsNr8Zu.jpg",
+  "production_companies": [
+    {
+      "id": 9266,
+      "logo_path": "/lRinQ7scVye5N8qkUIoCB4QXbRh.png",
+      "name": "American International Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1970-06-09",
+  "revenue": 4500000,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The power, the passion, the terror of Emily Bronte's immortal story of young love.",
+  "title": "Wuthering Heights",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 43
+}

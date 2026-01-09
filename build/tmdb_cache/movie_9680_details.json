@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/shVXXr8rcL7uFB9DAz1U41KgF7t.jpg",
+  "belongs_to_collection": null,
+  "budget": 2000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 9680,
+  "imdb_id": "tt0118025",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Uncle Sam",
+  "overview": "It's Fourth of July Weekend, and the recently discovered corpse of Sgt. Sam Harper rises from the dead to punish the unpatriotic.",
+  "popularity": 4.9682,
+  "poster_path": "/fp1agcfQwsOepWIVNgS09MyPLXz.jpg",
+  "production_companies": [
+    {
+      "id": 14280,
+      "logo_path": null,
+      "name": "A-Pix Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-11-13",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "I want you... DEAD!",
+  "title": "Uncle Sam",
+  "video": false,
+  "vote_average": 4.769,
+  "vote_count": 65
+}

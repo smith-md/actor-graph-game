@@ -1,0 +1,98 @@
+{
+  "adult": false,
+  "backdrop_path": "/x2KkEHansZHktiIo89wfGgaa23J.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.lionsgate.com/movies/shattered",
+  "id": 844398,
+  "imdb_id": "tt14923008",
+  "origin_country": [
+    "DE",
+    "US",
+    "CH"
+  ],
+  "original_language": "en",
+  "original_title": "Shattered",
+  "overview": "Chris, a wealthy divorcee, lives in a high-tech house of his own design in Montana. His life changes when he meets Sky, a mysterious young woman who draws him out of his shell and moves in after Chris is injured.",
+  "popularity": 5.292,
+  "poster_path": "/h6buNalHVFyBRQFLQKqzkvshQWc.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 44225,
+      "logo_path": null,
+      "name": "Construction Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 3604,
+      "logo_path": "/jC6Hk3ZyNRlVPJsA0xGlAhgd2RP.png",
+      "name": "Grindstone Entertainment Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 12075,
+      "logo_path": null,
+      "name": "Silver Reel",
+      "origin_country": "CH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-01-14",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She'll love him to death.",
+  "title": "Shattered",
+  "video": false,
+  "vote_average": 5.757,
+  "vote_count": 191
+}

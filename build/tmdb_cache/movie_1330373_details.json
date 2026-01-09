@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/2RzjwyWB0YlH8PpQEQOh9rl4cdx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 1330373,
+  "imdb_id": "tt33383283",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Alien: Rubicon",
+  "overview": "An alien spacecraft lands near New York and destroys everything as it heads toward Washington D.C. If it reaches the capital, it will trigger an invasion. Scientists and the military must stop it before it's too late.",
+  "popularity": 4.431,
+  "poster_path": "/zFH6wa8uVU7dKkval9QzMX8nSAb.jpg",
+  "production_companies": [
+    {
+      "id": 1311,
+      "logo_path": "/ic2bTizdzRLDVzAvN7MXdUg3WQV.png",
+      "name": "The Asylum",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-23",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They DO NOT come in peace",
+  "title": "Alien: Rubicon",
+  "video": false,
+  "vote_average": 3.625,
+  "vote_count": 24
+}

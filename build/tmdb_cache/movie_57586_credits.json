@@ -1,0 +1,139 @@
+{
+  "id": 57586,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2231,
+      "known_for_department": "Acting",
+      "name": "Samuel L. Jackson",
+      "original_name": "Samuel L. Jackson",
+      "popularity": 9.0658,
+      "profile_path": "/AiAYAqwpM5xmiFrAIeQvUXDCVvo.jpg",
+      "cast_id": 1004,
+      "character": "Narrator (voice)",
+      "credit_id": "52fe493cc3a36847f818febd",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2387,
+      "known_for_department": "Acting",
+      "name": "Patrick Stewart",
+      "original_name": "Patrick Stewart",
+      "popularity": 4.3311,
+      "profile_path": "/ufqtnLh3JJjPbEgxEag3MM5nZyv.jpg",
+      "cast_id": 1009,
+      "character": "Narrator (voice)",
+      "credit_id": "62ce985bd4cc8e004b4fd0b8",
+      "order": 1
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 227452,
+      "known_for_department": "Production",
+      "name": "Keith Scholey",
+      "original_name": "Keith Scholey",
+      "popularity": 0.4748,
+      "profile_path": "/w4Nq22lNHSegSDZK5yfQblQXZSK.jpg",
+      "credit_id": "52fe493cc3a36847f818fea7",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 67589,
+      "known_for_department": "Directing",
+      "name": "Alastair Fothergill",
+      "original_name": "Alastair Fothergill",
+      "popularity": 0.5672,
+      "profile_path": "/l2fqoPIjMxVLRgb8BU9AwCrDJJA.jpg",
+      "credit_id": "52fe493cc3a36847f818fead",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 227453,
+      "known_for_department": "Production",
+      "name": "Alex Tidmarsh",
+      "original_name": "Alex Tidmarsh",
+      "popularity": 0.0357,
+      "profile_path": null,
+      "credit_id": "52fe493cc3a36847f818feb3",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 227452,
+      "known_for_department": "Production",
+      "name": "Keith Scholey",
+      "original_name": "Keith Scholey",
+      "popularity": 0.4748,
+      "profile_path": "/w4Nq22lNHSegSDZK5yfQblQXZSK.jpg",
+      "credit_id": "52fe493cc3a36847f818feb9",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 392846,
+      "known_for_department": "Writing",
+      "name": "John Truby",
+      "original_name": "John Truby",
+      "popularity": 0.4777,
+      "profile_path": null,
+      "credit_id": "52fe493cc3a36847f818fec3",
+      "department": "Writing",
+      "job": "Screenplay"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 227452,
+      "known_for_department": "Production",
+      "name": "Keith Scholey",
+      "original_name": "Keith Scholey",
+      "popularity": 0.4748,
+      "profile_path": "/w4Nq22lNHSegSDZK5yfQblQXZSK.jpg",
+      "credit_id": "52fe493cc3a36847f818fec9",
+      "department": "Writing",
+      "job": "Screenplay"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 11344,
+      "known_for_department": "Sound",
+      "name": "Nicholas Hooper",
+      "original_name": "Nicholas Hooper",
+      "popularity": 1.8018,
+      "profile_path": "/kSvqq7PeHSX3IIvHptFQBklXE54.jpg",
+      "credit_id": "611b2bb30f0da5004763761b",
+      "department": "Sound",
+      "job": "Music"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1434566,
+      "known_for_department": "Production",
+      "name": "Donald Dowd",
+      "original_name": "Donald Dowd",
+      "popularity": 0.8199,
+      "profile_path": "/w5dt7nUsZCdQaFddfiU52pow3kC.jpg",
+      "credit_id": "5b534f790e0a262312012693",
+      "department": "Crew",
+      "job": "Compositor"
+    }
+  ]
+}

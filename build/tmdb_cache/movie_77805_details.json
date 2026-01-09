@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/fRpJYkNkd6gKguUVVM8JpN6khbQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 77805,
+  "imdb_id": "tt1426329",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lovelace",
+  "overview": "Story of Linda Lovelace, who is used and abused by the porn industry at the behest of her coercive husband, before taking control of her life.",
+  "popularity": 4.704,
+  "poster_path": "/ibt7chnBsaDbE6ZVwyneuZwYfsC.jpg",
+  "production_companies": [
+    {
+      "id": 2123,
+      "logo_path": null,
+      "name": "Helios-Filmproduktion",
+      "origin_country": "AT"
+    },
+    {
+      "id": 4135,
+      "logo_path": "/8lz5brU6aEkKBnawP5NOU1fvhCP.png",
+      "name": "Animus Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 1020,
+      "logo_path": "/kuUIHNwMec4dwOLghDhhZJzHZTd.png",
+      "name": "Millennium Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2013-08-08",
+  "revenue": 1585582,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The truth goes deeper than you think.",
+  "title": "Lovelace",
+  "video": false,
+  "vote_average": 6.018,
+  "vote_count": 725
+}

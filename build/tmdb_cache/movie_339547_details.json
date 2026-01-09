@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/p2y3RhQZZfzLY1xFGHaXTpqWkhI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://epic-pictures.com/detail.aspx?ProjectId=15790f7b-fb5a-e411-9d0b-d4ae527c3b65",
+  "id": 339547,
+  "imdb_id": "tt4552524",
+  "origin_country": [
+    "IL"
+  ],
+  "original_language": "en",
+  "original_title": "Jeruzalem",
+  "overview": "When a couple of American young adults fly to Israel to visit the city of Jerusalem, a biblical nightmare falls upon the city.",
+  "popularity": 4.0828,
+  "poster_path": "/hYkfUKjWlVP6GVqIW5wL2ruREGZ.jpg",
+  "production_companies": [
+    {
+      "id": 7662,
+      "logo_path": "/uGLpMN6r5MyFosNTgP9PKU48CHp.png",
+      "name": "Epic Pictures Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 200466,
+      "logo_path": "/tXy5Aqg0xCLwhpYzhTqVjKavroi.png",
+      "name": "Mifal HaPais",
+      "origin_country": "IL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IL",
+      "name": "Israel"
+    }
+  ],
+  "release_date": "2016-01-22",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "Hebrew",
+      "iso_639_1": "he",
+      "name": "עִבְרִית"
+    },
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "On Judgement Day, Hell Shall Inherit The Earth.",
+  "title": "Jeruzalem",
+  "video": false,
+  "vote_average": 5.526,
+  "vote_count": 630
+}

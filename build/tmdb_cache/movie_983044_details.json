@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/4BXIBNeYpKkOrYtRVXpGCwHj3Ve.jpg",
+  "belongs_to_collection": null,
+  "budget": 6600000,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://fantefilm.no/",
+  "id": 983044,
+  "imdb_id": "tt27724113",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Konvoi",
+  "overview": "In 1942, a convoy of 35 civilian ships, carrying vital supplies from Iceland to the Soviet Union, faces deadly challenges in the Arctic. Despite Allied naval escort, catastrophic intelligence errors expose the convoy to relentless German air and naval attacks. In the brutal conditions, inexperienced civilian sailors fight for survival, with only 12 ships making it to their destination.",
+  "popularity": 3.8055,
+  "poster_path": "/7qtd6xschdz7GBnEMZfPfUir7cs.jpg",
+  "production_companies": [
+    {
+      "id": 3079,
+      "logo_path": "/12cb7xhHlYnW4uksoVR8hp48psC.png",
+      "name": "Fantefilm",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2023-12-25",
+  "revenue": 3637940,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Courage becomes their only lifeline.",
+  "title": "The Arctic Convoy",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 134
+}

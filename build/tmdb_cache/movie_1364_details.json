@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/pif2pejoGDWooOsGF9tldOfYV0F.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1364,
+  "imdb_id": "tt0254455",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Lucía y el sexo",
+  "overview": "Various lives converge on an isolated island, all connected by an author whose novel has become inextricably entwined with his own life.",
+  "popularity": 3.2114,
+  "poster_path": "/gvErAg9bv7xOO3B40gottv6Bqip.jpg",
+  "production_companies": [
+    {
+      "id": 692,
+      "logo_path": "/mKVxLKcaUmevZUfxsuKzfIoeSw.png",
+      "name": "Sogecine",
+      "origin_country": "ES"
+    },
+    {
+      "id": 14688,
+      "logo_path": null,
+      "name": "Alicia Produce",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2001-08-24",
+  "revenue": 7640680,
+  "runtime": 128,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sex and Lucía",
+  "video": false,
+  "vote_average": 6.654,
+  "vote_count": 599
+}

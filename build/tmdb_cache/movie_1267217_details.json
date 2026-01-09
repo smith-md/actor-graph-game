@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/gscL9tqxpkmAMmbeRLLzLZPyJXb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1267217,
+  "imdb_id": "tt30225465",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Почему ты?",
+  "overview": "Love comes without asking. Often not to those, not so and not then. Can a genuine feeling survive when everything started wrong and the whole world is against it? Give up everything or give up? Burn or survive?",
+  "popularity": 4.1688,
+  "poster_path": "/kcREsnVDEFFXmt5GuPwyGqyDuDJ.jpg",
+  "production_companies": [
+    {
+      "id": 225233,
+      "logo_path": null,
+      "name": "Andreevskaya 5",
+      "origin_country": "RU"
+    },
+    {
+      "id": 46939,
+      "logo_path": null,
+      "name": "Nashe Kino",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2024-04-25",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sugar Baby",
+  "video": false,
+  "vote_average": 7.091,
+  "vote_count": 110
+}

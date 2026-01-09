@@ -1,0 +1,102 @@
+{
+  "adult": false,
+  "backdrop_path": "/q1qnZt1WUOVGgJEkkkUSp58A6Gf.jpg",
+  "belongs_to_collection": null,
+  "budget": 16,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 13404,
+  "imdb_id": "tt0865868",
+  "origin_country": [
+    "BE",
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Big City",
+  "overview": "Set in the American Wild West, this French-language film quickly overcomes its dire beginning--the Native American ambush of a group of immigrants--and becomes an enjoyable comedy. When the adults of Big City leave for the ambush site, the children realize they are all alone and in charge. With a cast composed almost entirely of young people...",
+  "popularity": 3.0273,
+  "poster_path": "/zD3Ti9AHoim4Q4NoiJIH049AnVw.jpg",
+  "production_companies": [
+    {
+      "id": 8953,
+      "logo_path": null,
+      "name": "Miroir Magique",
+      "origin_country": ""
+    },
+    {
+      "id": 792,
+      "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF",
+      "origin_country": "BE"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 9,
+      "logo_path": "/nda3dTUYdDrJ6rZqBpYvY865aDv.png",
+      "name": "Gaumont",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11773,
+      "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+      "name": "Artémis Productions",
+      "origin_country": "BE"
+    },
+    {
+      "id": 12467,
+      "logo_path": "/qxkYfDP05Rrwu8Msgieq6XbCX4K.png",
+      "name": "Nomadic Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 175953,
+      "logo_path": null,
+      "name": "Sofilm",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2007-12-12",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Big City",
+  "video": false,
+  "vote_average": 5.34,
+  "vote_count": 53
+}

@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/hjkAO8GDwipwEL3gyItLxrfiIsw.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.bbc.co.uk/programmes/p00gfgwt",
+  "id": 26561,
+  "imdb_id": "tt0101811",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Enchanted April",
+  "overview": "When married British women Rose Arbuthnot and Lottie Wilkins decide to take a break from their respective spouses, they stay at a castle in Italy for a quiet holiday. Joining the ladies is Caroline Dester, a young socialite, and Mrs. Fisher, an older aristocrat. Liberated from their daily routines, the four women ease into life in rural Italy, and each finds herself transformed by the experience.",
+  "popularity": 2.4512,
+  "poster_path": "/b4Jrg23Q3y7p8GS7aMnPdFiEcnP.jpg",
+  "production_companies": [
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 12918,
+      "logo_path": null,
+      "name": "Greenpoint Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1991-11-27",
+  "revenue": 13200170,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's April in Italy, and anything can happen... even love.",
+  "title": "Enchanted April",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 73
+}

@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/nehq8TDd7WnwBnTLnvv8BQNekzW.jpg",
+  "belongs_to_collection": null,
+  "budget": 3500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 26973,
+  "imdb_id": "tt0078111",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Pretty Baby",
+  "overview": "In 1917 New Orleans, a 12-year-old girl is raised in a brothel by her prostitute mother.",
+  "popularity": 5.9346,
+  "poster_path": "/4B2BAYGBnk4sMeGyL037vKDpRKV.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1978-04-05",
+  "revenue": 11600000,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The image of an adult world seen through a child's eyes.",
+  "title": "Pretty Baby",
+  "video": false,
+  "vote_average": 6.964,
+  "vote_count": 398
+}

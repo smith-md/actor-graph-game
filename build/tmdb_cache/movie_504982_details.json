@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/s30qeq9lamHfP7GH14DiIJdpbpw.jpg",
+  "belongs_to_collection": {
+    "id": 1513008,
+    "name": "The Jurassic Games Collection",
+    "poster_path": "/ftkVkds97bfsPNGF8zUn8xlKMlW.jpg",
+    "backdrop_path": "/yq6BTYh5OMwvWqeL1MUQjB3CR8w.jpg"
+  },
+  "budget": 28000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 504982,
+  "imdb_id": "tt6710826",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Jurassic Games",
+  "overview": "In the near future, 10 death row convicts are forced to compete in a virtual reality game that pits them against dinosaurs and each other.",
+  "popularity": 0.8899,
+  "poster_path": "/vjcoKGhJ5KR1lNoMsMzHeQ8xefo.jpg",
+  "production_companies": [
+    {
+      "id": 97473,
+      "logo_path": "/wUdvGcrOBNhYNWqPCYSyXbP5hpS.png",
+      "name": "High Octane Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-05-21",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Win the games. Win your freedom.",
+  "title": "The Jurassic Games",
+  "video": false,
+  "vote_average": 4.7,
+  "vote_count": 161
+}

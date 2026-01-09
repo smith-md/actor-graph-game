@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/6SD8Z4aGvglKU7qIX0kwNT3n4be.jpg",
+  "belongs_to_collection": {
+    "id": 86341,
+    "name": "Fortress (1992) Collection",
+    "poster_path": "/56jqs23rY4kdBLoGV5dwZ2ehwRC.jpg",
+    "backdrop_path": "/6SD8Z4aGvglKU7qIX0kwNT3n4be.jpg"
+  },
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 12088,
+  "imdb_id": "tt0106950",
+  "origin_country": [
+    "AU",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Fortress",
+  "overview": "In the future, the inmates of a private underground prison are computer-controlled with cameras, dream readers, and devices that can cause pain or death. John and his illegally pregnant wife Karen are locked inside \"The Fortress\" but are determined to escape before the birth of their baby.",
+  "popularity": 5.1068,
+  "poster_path": "/evjpqWPUY4VpOdyLpeRfkGU8DiR.jpg",
+  "production_companies": [
+    {
+      "id": 79,
+      "logo_path": "/at4uYdwAAgNRKhZuuFX8ShKSybw.png",
+      "name": "Village Roadshow Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1302,
+      "logo_path": "/zC3b70ixHh89qJIikLQPEvLqbPM.png",
+      "name": "Davis Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 19047,
+      "logo_path": null,
+      "name": "Fortress Films",
+      "origin_country": ""
+    },
+    {
+      "id": 7405,
+      "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+      "name": "Dimension Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-12-18",
+  "revenue": 6739141,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In the year 2017, one corporation is building a fortress for the ultimate takeover... your mind.",
+  "title": "Fortress",
+  "video": false,
+  "vote_average": 6.047,
+  "vote_count": 707
+}

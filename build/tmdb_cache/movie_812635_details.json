@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/olwNdhuypfQruJzrgC6qdvpZHfO.jpg",
+  "belongs_to_collection": null,
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "https://www.searchlightpictures.com/chevalier/",
+  "id": 812635,
+  "imdb_id": "tt12758486",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Chevalier",
+  "overview": "The illegitimate son of an African slave and a French plantation owner, Joseph Bologne rises to improbable heights in French society as a celebrated violinist-composer and fencer, complete with an ill-fated love affair and a falling out with Marie Antoinette and her court.",
+  "popularity": 4.2978,
+  "poster_path": "/iLhp2fqA0VDIhnC20QHDnw5Yrcf.jpg",
+  "production_companies": [
+    {
+      "id": 127929,
+      "logo_path": "/7DLKyL15ETI9645XSr9JcbMV79c.png",
+      "name": "Searchlight Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3353,
+      "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
+      "name": "Element Pictures",
+      "origin_country": "IE"
+    },
+    {
+      "id": 22213,
+      "logo_path": "/qx9K6bFWJupwde0xQDwOvXkOaL8.png",
+      "name": "TSG Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-04-20",
+  "revenue": 4200000,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The true untold story.",
+  "title": "Chevalier",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 120
+}

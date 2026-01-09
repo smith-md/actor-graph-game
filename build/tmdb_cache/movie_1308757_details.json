@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/y0XEqAqynGW4uVG8gkOnAf5vcYU.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1308757,
+  "imdb_id": "tt11724920",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dead Sea",
+  "overview": "Stranded in the open sea after a fatal accident, a young woman and her two friends are rescued by a fishing vessel's captain, unaware that the ship harbors a chilling secret.",
+  "popularity": 3.7061,
+  "poster_path": "/ohisXa9ArEoV05ajLfX2T5D6NNF.jpg",
+  "production_companies": [
+    {
+      "id": 89989,
+      "logo_path": null,
+      "name": "Del Rey Films",
+      "origin_country": ""
+    },
+    {
+      "id": 232155,
+      "logo_path": null,
+      "name": "Laguna Six",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-07-26",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Survival has its price.",
+  "title": "Dead Sea",
+  "video": false,
+  "vote_average": 6.27,
+  "vote_count": 209
+}

@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/xFqLWRaYqxNC2KfqvUcj5Ln4gmB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 19072,
+  "imdb_id": "tt0038363",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Blithe Spirit",
+  "overview": "A harmless séance at a novelist's home summons the ghost of his glamorous first wife.",
+  "popularity": 4.1867,
+  "poster_path": "/mBKB90yS8Gti4QhcYGuUeJmeOoC.jpg",
+  "production_companies": [
+    {
+      "id": 83409,
+      "logo_path": null,
+      "name": "Noel Coward-Cineguild",
+      "origin_country": "GB"
+    },
+    {
+      "id": 4006,
+      "logo_path": null,
+      "name": "Two Cities Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 14377,
+      "logo_path": null,
+      "name": "J. Arthur Rank Organisation",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1945-04-05",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Elvira is the kind of gal who can turn an evening into a night you'll never forget!",
+  "title": "Blithe Spirit",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 160
+}

@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/mnHFxgmByxPT3SGc9VX7h816wDj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 98025,
+  "imdb_id": "tt0073290",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La liceale",
+  "overview": "Loredana is a schoolgirl who takes advantage of her fellow students and teachers by using her innocent schoolgirl beauty. After she loses her virginity to an older man she soon realizes there are more important things to life than teasing men.",
+  "popularity": 7.1851,
+  "poster_path": "/nEDUPz4zkuteERpTXNQUveiYz4t.jpg",
+  "production_companies": [
+    {
+      "id": 36288,
+      "logo_path": null,
+      "name": "R.P.A. International",
+      "origin_country": ""
+    },
+    {
+      "id": 1701,
+      "logo_path": null,
+      "name": "Dania Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1975-10-31",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What They Do in Public Will Shock You...What They Do in Private Will Boggle Your Mind!",
+  "title": "The Teasers",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 59
+}

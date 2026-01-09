@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/4WBATV7YAhwczVKZVuTDMpEemiF.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1232781,
+  "imdb_id": "tt27165281",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Sterben",
+  "overview": "Mother Lissy, father Gerd, son Tom and daughter Ellen: the members of the Lunies family are estranged. But confronted with death, they finally meet each other again.",
+  "popularity": 5.5315,
+  "poster_path": "/kkPGlBrkmck3nlANsQwJKCKhRQ7.jpg",
+  "production_companies": [
+    {
+      "id": 587,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "DE"
+    },
+    {
+      "id": 63193,
+      "logo_path": null,
+      "name": "Port au Prince Films",
+      "origin_country": "DE"
+    },
+    {
+      "id": 25719,
+      "logo_path": null,
+      "name": "Schwarzweiss Filmproduktion",
+      "origin_country": ""
+    },
+    {
+      "id": 191,
+      "logo_path": "/5Cz9SVf733VhCvKpaivl1jlAXAK.png",
+      "name": "Senator Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2024-04-25",
+  "revenue": 1789850,
+  "runtime": 182,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Latvian",
+      "iso_639_1": "lv",
+      "name": "Latviešu"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dying",
+  "video": false,
+  "vote_average": 7.986,
+  "vote_count": 37
+}

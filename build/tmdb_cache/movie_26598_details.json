@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/c3vNU1AAuSVNhWIthjigmycK6J1.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 26598,
+  "imdb_id": "tt0173714",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Cats",
+  "overview": "\"Jellicle\" cats join for a Jellicle ball where they rejoice with their leader, Old Deuteronomy. One cat will be chosen to go to the \"Heavyside Layer\" and be reborn.",
+  "popularity": 4.137,
+  "poster_path": "/lT8V3oJS50LAtsz3Mb1oJB6ofTC.jpg",
+  "production_companies": [
+    {
+      "id": 1382,
+      "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 39477,
+      "logo_path": "/hfXGuDnuVFOYJVfw83fJvGUtt5O.png",
+      "name": "KQED",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1998-10-05",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The World's Best-Loved Musical! The Memory Will Live Forever!",
+  "title": "Cats",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 175
+}

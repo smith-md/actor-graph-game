@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/tflrcWltHuZ15pxrhHFZovPLGQs.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 26271,
+  "imdb_id": "tt0113674",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Live Nude Girls",
+  "overview": "A group of old friends at a Hens Night discuss their issues, uncertainties, fears and fantasies.",
+  "popularity": 4.7249,
+  "poster_path": "/vg9piYFtCTHep2V5EmLjwsYMzn2.jpg",
+  "production_companies": [
+    {
+      "id": 272,
+      "logo_path": "/j0Sy9TMabnwjPD482mNBAClemvv.png",
+      "name": "Spelling Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1930,
+      "logo_path": null,
+      "name": "IRS Media",
+      "origin_country": ""
+    },
+    {
+      "id": 10348,
+      "logo_path": "/oNeA4Uu1NrvxshFuHAyVso7JFD2.png",
+      "name": "Republic Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-12-08",
+  "revenue": 0,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sex, Lies and Fantasies... Unrated!",
+  "title": "Live Nude Girls",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 38
+}

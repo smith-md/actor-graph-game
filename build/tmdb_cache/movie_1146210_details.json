@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/8lNbxRsGKzWdtLk6hKdB1z11pjE.jpg",
+  "belongs_to_collection": {
+    "id": 142015,
+    "name": "Housefull Collection",
+    "poster_path": "/vq12Lw1TqOljYj5Bxgww2jwjKM0.jpg",
+    "backdrop_path": "/csXJoZzp2uD7OceBYnYUmelHBMS.jpg"
+  },
+  "budget": 28000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1146210,
+  "imdb_id": "tt9104736",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "हाउसफ़ूल 5",
+  "overview": "A father writes his will — his son \"Jolly\" is going to get it all. But who is Jolly? The comedy unfolds as different people pose as the \"real\" Jolly on a cruise celebrating the father's birthday — where a murder takes place.",
+  "popularity": 3.0505,
+  "poster_path": "/iGvGkVOfsooO0ZBrhN5i6zXYUCy.jpg",
+  "production_companies": [
+    {
+      "id": 60536,
+      "logo_path": "/chMIfiURhqvr6eWCrzxIwuaWVeN.png",
+      "name": "Nadiadwala Grandson Entertainment",
+      "origin_country": "IN"
+    },
+    {
+      "id": 103329,
+      "logo_path": "/bjJ6phaG9F8cGm3RYBjly8wYuH5.png",
+      "name": "Pen Studios",
+      "origin_country": "IN"
+    },
+    {
+      "id": 263530,
+      "logo_path": null,
+      "name": "Apple & Burberry Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-06-05",
+  "revenue": 30000000,
+  "runtime": 163,
+  "spoken_languages": [
+    {
+      "english_name": "Punjabi",
+      "iso_639_1": "pa",
+      "name": "ਪੰਜਾਬੀ"
+    },
+    {
+      "english_name": "Urdu",
+      "iso_639_1": "ur",
+      "name": "اردو"
+    },
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Killer Comedy",
+  "title": "Housefull 5",
+  "video": false,
+  "vote_average": 5.333,
+  "vote_count": 36
+}

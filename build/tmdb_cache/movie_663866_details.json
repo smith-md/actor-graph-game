@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/biUrxGIyrJjMGwASrPECVbrh6w4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.censormovie.com/",
+  "id": 663866,
+  "imdb_id": "tt10329614",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Censor",
+  "overview": "A screener at the British Board of Film Classification (BBFC), who has earned an unsavory reputation for being the strictest censor of violent films, begins to spiral out of control after viewing a low-budget horror with similarities to the disappearance of her sister.",
+  "popularity": 3.4153,
+  "poster_path": "/1FOEEtGFPp5cgpLfPQVMB0UNVpI.jpg",
+  "production_companies": [
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12177,
+      "logo_path": "/9P2VDiqTAr9qupVBbgCpf6FhLhn.png",
+      "name": "Ffilm Cymru Wales",
+      "origin_country": "GB"
+    },
+    {
+      "id": 171904,
+      "logo_path": null,
+      "name": "Cinelab London",
+      "origin_country": ""
+    },
+    {
+      "id": 171905,
+      "logo_path": null,
+      "name": "Kodak Motion Picture Products",
+      "origin_country": ""
+    },
+    {
+      "id": 16853,
+      "logo_path": "/ihiEwwDAc8ghtdNxpMp0T34OhIi.png",
+      "name": "Rook Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7281,
+      "logo_path": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+      "name": "BFI",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2021-06-11",
+  "revenue": 314785,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You can't edit reality.",
+  "title": "Censor",
+  "video": false,
+  "vote_average": 5.834,
+  "vote_count": 439
+}

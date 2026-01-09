@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/x8QLAiJknQoOHNxwoiVBu7TC0wT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 159095,
+  "imdb_id": "tt2165859",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "In Fear",
+  "overview": "Driving to a music festival in Ireland, a young couple gets trapped in a country maze on their way to a remote hotel, where an unidentifiable sinister force torments them.",
+  "popularity": 4.1257,
+  "poster_path": "/9GpmoAAp1LTMx8byVLlpjumOzgj.jpg",
+  "production_companies": [
+    {
+      "id": 20664,
+      "logo_path": "/iRrZpxnYNDnVXJkr6HiLgSLlqRc.png",
+      "name": "Anton Capital Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 443,
+      "logo_path": "/wibNj4tELmsnCFlf5ldLik37Urr.png",
+      "name": "Big Talk Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 26387,
+      "logo_path": "/hMdAyynt1cePDkaC39y8w11vuzM.png",
+      "name": "LOVEFiLM International",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2013-04-03",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Don’t fear the dark, fear what it hides.",
+  "title": "In Fear",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 237
+}

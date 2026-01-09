@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/c5MCkebYhFuhmi32x760HfcvLIO.jpg",
+  "belongs_to_collection": {
+    "id": 94602,
+    "name": "Puss in Boots Collection",
+    "poster_path": "/anHwj9IupRoRZZ98WTBvHpTiE6A.jpg",
+    "backdrop_path": "/eCeLuBBdXLh1LguQ0f73LZ5KWgV.jpg"
+  },
+  "budget": 130000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.dreamworks.com/movies/puss-in-boots",
+  "id": 417859,
+  "imdb_id": "tt0448694",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Puss in Boots",
+  "overview": "Long before he even met Shrek, the notorious fighter, lover and outlaw Puss in Boots becomes a hero when he sets off on an adventure with the tough and street smart Kitty Softpaws and the mastermind Humpty Dumpty to save his town. This is the true story of The Cat, The Myth, The Legend... The Boots.",
+  "popularity": 7.7443,
+  "poster_path": "/n4UkIqNYSTr4DPoHCVfLrL8mbre.jpg",
+  "production_companies": [
+    {
+      "id": 521,
+      "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+      "name": "DreamWorks Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-10-27",
+  "revenue": 554987477,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Live for danger. Fight for justice. Pray for mercy.",
+  "title": "Puss in Boots",
+  "video": false,
+  "vote_average": 6.587,
+  "vote_count": 4385
+}

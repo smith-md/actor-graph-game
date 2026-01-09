@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/yRqfdiRAEPcInhbXpogpYPDY1bp.jpg",
+  "belongs_to_collection": {
+    "id": 877586,
+    "name": "... Cameras Collection",
+    "poster_path": "/fQKDQpgYI2SpKMMwECwZg6jWKpE.jpg",
+    "backdrop_path": "/21ERZyyJthORgHLYEkURZLzXdCq.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1179558,
+  "imdb_id": "tt28255598",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "15 Cameras",
+  "overview": "A couple buys a house from The Slumlord Tapes, infamous for hidden cameras and a psycho landlord. It's not as safe as they tell themselves.",
+  "popularity": 3.2348,
+  "poster_path": "/muQrASlFPg4Hx0BEDwXjUsBMSHM.jpg",
+  "production_companies": [
+    {
+      "id": 89268,
+      "logo_path": null,
+      "name": "Hood River Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-10-13",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Take a peek.",
+  "title": "15 Cameras",
+  "video": false,
+  "vote_average": 5.775,
+  "vote_count": 40
+}

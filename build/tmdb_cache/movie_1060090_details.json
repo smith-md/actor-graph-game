@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/biRLtgt3t8MwxeLRRJkf1BsHoeq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1060090,
+  "imdb_id": "tt23556408",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Collective",
+  "overview": "A group of righteous assassins called The Collective take aim at a highly sophisticated human trafficking ring backed by a network of untouchable billionaires. With their backs against the wall, The Collective has no choice but to put their most important mission in the hands of rookie assassin, Sam Alexander.",
+  "popularity": 5.1245,
+  "poster_path": "/Ah9H6Sj434nJiZpTPQrovHaEePV.jpg",
+  "production_companies": [
+    {
+      "id": 183188,
+      "logo_path": "/qNgImFjk8SP7lwzoH69VgeAGPii.png",
+      "name": "Yale Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 92109,
+      "logo_path": "/1wOgBio7WGOskOAQ2aTvtCHAdm8.png",
+      "name": "Dawn's Light",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-08-04",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The hunt is on.",
+  "title": "The Collective",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 154
+}

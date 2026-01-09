@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/adTOBZgIPow1QT4sqzEzwJo1RBC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 26191,
+  "imdb_id": "tt1100048",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "35 Rhums",
+  "overview": "A widower and his daughter witness the retirement of a colleague of his and the closing of her department at her university.",
+  "popularity": 2.8499,
+  "poster_path": "/joOoCuOaiZXZZRiS4JpontBL3Gz.jpg",
+  "production_companies": [
+    {
+      "id": 3060,
+      "logo_path": null,
+      "name": "Soudaine Compagnie",
+      "origin_country": "FR"
+    },
+    {
+      "id": 140,
+      "logo_path": "/ooz5b0ov3PLfBoOJyMmdoffVuHs.png",
+      "name": "Pandora Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 856,
+      "logo_path": "/3tfzS2CrX6Ntbu927XzHXEPDA6y.png",
+      "name": "Wild Bunch",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10946,
+      "logo_path": "/gk4SFkJ3G49gGL308zymD8QGNw.png",
+      "name": "WDR/Arte",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2009-02-18",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "We all live such withdrawn lives... Everyone in his corner.",
+  "title": "35 Shots of Rum",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 81
+}

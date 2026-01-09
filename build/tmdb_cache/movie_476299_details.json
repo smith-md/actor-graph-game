@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/oFyptNOx02o8sMcSsax4GSCAemg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 476299,
+  "imdb_id": "tt6195094",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "en",
+  "original_title": "Ghostland",
+  "overview": "A mother of two inherits a home from her aunt. On the first night in the new home she is confronted with murderous intruders and fights for her daughters’ lives. Sixteen years later the daughters reunite at the house, and that is when things get strange...",
+  "popularity": 6.3972,
+  "poster_path": "/ma9gY6OikBev8MsMaeA6h2EIdGo.jpg",
+  "production_companies": [
+    {
+      "id": 819,
+      "logo_path": "/cEqVIluQuO1ubtID8RvOem4ZiIg.png",
+      "name": "Mars Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 100853,
+      "logo_path": null,
+      "name": "5656 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 92840,
+      "logo_path": "/4LyDs7gsAMq5sg3fPjUa1P52emj.png",
+      "name": "Logical Pictures",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83549,
+      "logo_path": "/6AQrYukoi0OGD1Yal9vYjFREXxJ.png",
+      "name": "Inferno Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 4845,
+      "logo_path": null,
+      "name": "Highwire Pictures",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2018-03-14",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You really thought you’ve been scared?",
+  "title": "Ghostland",
+  "video": false,
+  "vote_average": 7.388,
+  "vote_count": 2577
+}

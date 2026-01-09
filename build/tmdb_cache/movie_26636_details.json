@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/25TagjkrkQnpmziQkuTEzZ5mo4a.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 26636,
+  "imdb_id": "tt0315110",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Twentynine Palms",
+  "overview": "A photographer and an unemployed woman embark on a chaotic trip to the California desert for a photo shoot, filled with passionate encounters and frequent fights. Their seemingly empty relationship takes a dark turn when a brutal incident abruptly ends their journey.",
+  "popularity": 4.7485,
+  "poster_path": "/y5JeGg69UPpgwakBeKrA7uaAoaf.jpg",
+  "production_companies": [
+    {
+      "id": 87494,
+      "logo_path": null,
+      "name": "Thoke Moebius Film Company",
+      "origin_country": "DE"
+    },
+    {
+      "id": 5609,
+      "logo_path": null,
+      "name": "3B Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 5708,
+      "logo_path": null,
+      "name": "The 7th Floor",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-09-17",
+  "revenue": 0,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Twentynine Palms",
+  "video": false,
+  "vote_average": 5.086,
+  "vote_count": 105
+}

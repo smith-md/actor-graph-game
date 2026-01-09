@@ -1,0 +1,54 @@
+{
+  "adult": false,
+  "backdrop_path": "/ianNeGxVqC5oj7RtahmVh0EPVKV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://seino-gekiyaku.com/",
+  "id": 715756,
+  "imdb_id": "tt12879746",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "性の劇薬",
+  "overview": "An elite salaryman drunkenly tries to die by suicide, but is saved by a mysterious stranger who holds him captive and sexually torments him.",
+  "popularity": 6.0804,
+  "poster_path": "/y3EDZG21H6qPg3Mc0HtJkHN4qto.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2020-02-14",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dangerous Drugs of Sex",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 33
+}

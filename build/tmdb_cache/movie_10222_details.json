@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/sl7hpSJR11FlfcewMJ6ihsbbAuJ.jpg",
+  "belongs_to_collection": {
+    "id": 105322,
+    "name": "Kickboxer Collection",
+    "poster_path": "/frOnbHEHWISXBC43wjsrBGOhqGJ.jpg",
+    "backdrop_path": "/sl7hpSJR11FlfcewMJ6ihsbbAuJ.jpg"
+  },
+  "budget": 1500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 10222,
+  "imdb_id": "tt0097659",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Kickboxer",
+  "overview": "If your enemy refuses to be humbled... Destroy him. Accompanied by his brother Kurt, American kickboxing champion Eric Sloane, arrives in Thailand to defeat the Eastern warriors at their own sport. His opponent: ruthless fighter and Thai champion, Tong Po. Tong not only defeats Eric, he paralyzes him for life. Crazed with anger, Kurt vows revenge.",
+  "popularity": 5.6112,
+  "poster_path": "/tzEOkUn5708fQvF0bOPB5bLLRNk.jpg",
+  "production_companies": [
+    {
+      "id": 4255,
+      "logo_path": null,
+      "name": "Kings Road Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 1444,
+      "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+      "name": "The Cannon Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1989-04-20",
+  "revenue": 50000000,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "An ancient sport becomes a deadly game.",
+  "title": "Kickboxer",
+  "video": false,
+  "vote_average": 6.841,
+  "vote_count": 1517
+}

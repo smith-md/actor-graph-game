@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/3m7252MFY0YkOrr7SmnPEhuSha6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 395817,
+  "imdb_id": "tt4058618",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Thicket",
+  "overview": "An innocent young man, Jack, goes on an epic quest to rescue his sister Lula after she has been kidnapped by the violent killer Cut Throat Bill and her gang. To save her, Jack enlists the help of a crafty bounty hunter named Reginald Jones, a grave-digging alcoholic son of an ex-slave, and a street-smart prostitute. The gang tracks Cut Throat Bill into the deadly no-man’s land known as The Big Thicket — a place where blood and chaos reign.",
+  "popularity": 7.8776,
+  "poster_path": "/jsvk8e0HgITFX0gbDEjj6hOytsP.jpg",
+  "production_companies": [
+    {
+      "id": 153734,
+      "logo_path": "/bsgAvAzw5U06P73A3n1pqeFiu4F.png",
+      "name": "Tubi",
+      "origin_country": "US"
+    },
+    {
+      "id": 107244,
+      "logo_path": null,
+      "name": "Estuary Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 12467,
+      "logo_path": "/qxkYfDP05Rrwu8Msgieq6XbCX4K.png",
+      "name": "Nomadic Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2994,
+      "logo_path": "/jg4nWIIjQ49APUHqTWZ09gArhF8.png",
+      "name": "Hollywood Gang Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 194802,
+      "logo_path": null,
+      "name": "MiLu Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 25140,
+      "logo_path": "/6SeV4YCwyIDktJlvrVwiEDSLovF.png",
+      "name": "The Exchange",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-09-05",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Death comes fast in Texas",
+  "title": "The Thicket",
+  "video": false,
+  "vote_average": 6.454,
+  "vote_count": 140
+}

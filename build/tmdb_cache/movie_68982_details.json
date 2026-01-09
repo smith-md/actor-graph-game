@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/gdIOTSXME0QwPPK0Z2yuKAXRJH5.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 68982,
+  "imdb_id": "tt0073586",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Psychic Killer",
+  "overview": "Mental patient Arnold Masters, hospitalized for a murder he didn't commit, learns astral projection--the art of leaving one's physical body and transporting the soul someplace else--from a fellow inmate. Upon his release, Arnold uses his new powers to bump off the people he holds responsible for his arrest, his mother's death while he was imprisoned and the price of meat! Lt. Morgan and Lt. Anderson are the cops on his trail, while his caring shrink, Dr. Scott, tries to prevent any more deaths.",
+  "popularity": 3.6744,
+  "poster_path": "/pOkdu9Dxlu85SIcJa6Y66MXl24y.jpg",
+  "production_companies": [
+    {
+      "id": 4742,
+      "logo_path": null,
+      "name": "Syn-Frank Enterprises",
+      "origin_country": "FR"
+    },
+    {
+      "id": 91402,
+      "logo_path": null,
+      "name": "Lexington Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1975-12-01",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He Freed his Mind and Body to Commit the Most Sensual and Shocking Acts Imaginable!",
+  "title": "Psychic Killer",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 21
+}

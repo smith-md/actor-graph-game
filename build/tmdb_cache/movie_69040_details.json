@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/6eH6cyXGKiTrt7GsF5o1Bgjj1Sc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 69040,
+  "imdb_id": "tt0093964",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shy People",
+  "overview": "A Cosmo Magazine journalist and her daughter leave New York City to visit their distant relatives deep in the bayous of Louisiana.",
+  "popularity": 3.4788,
+  "poster_path": "/6GWGbFWk6fB9FuYSF5c5EuR3Jfp.jpg",
+  "production_companies": [
+    {
+      "id": 1444,
+      "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+      "name": "The Cannon Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 13549,
+      "logo_path": null,
+      "name": "Golan-Globus Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1987-12-04",
+  "revenue": 769119,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Women from separate worlds bound by a secret that will haunt them forever.",
+  "title": "Shy People",
+  "video": false,
+  "vote_average": 6.292,
+  "vote_count": 24
+}

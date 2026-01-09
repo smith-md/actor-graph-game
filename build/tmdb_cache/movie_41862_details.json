@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/2VJ1eehzRI8DQiOu6D75BNgSACI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://www.freshmanorientation-themovie.com/",
+  "id": 41862,
+  "imdb_id": "tt0380420",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Freshman Orientation",
+  "overview": "A bored college student sees a prime opportunity to score with a hot coed who has made the assumption that he is gay, and he decides to play along when she follows her sorority leader's assignment to seduce then cut loose a series of misfits and losers.",
+  "popularity": 3.1043,
+  "poster_path": "/85Jj34KuJieIBobf010KXGNOvt3.jpg",
+  "production_companies": [
+    {
+      "id": 810,
+      "logo_path": null,
+      "name": "Persistent Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 1305,
+      "logo_path": null,
+      "name": "LIFT Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 3353,
+      "logo_path": "/hUw1iTY3hdjyb2zXT9KxupHbL4M.png",
+      "name": "Element Pictures",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2004-01-18",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "How Far Would You Swing... To Get The Girl You Loved?",
+  "title": "Freshman Orientation",
+  "video": false,
+  "vote_average": 5.1,
+  "vote_count": 28
+}

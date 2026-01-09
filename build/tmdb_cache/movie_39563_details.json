@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/keMfCmqrkSfnjyqCEvhc7mGzWX6.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "http://www.theeclipsefilm.com/",
+  "id": 39563,
+  "imdb_id": "tt1346961",
+  "origin_country": [
+    "IE",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Eclipse",
+  "overview": "Michael is a widower who is struggling to adjust to his new role as the sole caretaker of his two children. Still reeling from the death of his wife, he has been plagued by terrifying apparitions. When he volunteers at a local literary festival, he finds himself drawn to Lena, an empathetic author of supernatural fiction. While Lena tries to help Michael with the mystery of his nightmarish visions, she must contend with problems of her own, as she’s being jealously pursued by self-obsessed novelist Nicholas, her one-time lover. As the festival progresses, the three adults’ lives converge and collide.",
+  "popularity": 2.7337,
+  "poster_path": "/96ma6Hn8aW3FbHoaDzHiRflCHls.jpg",
+  "production_companies": [
+    {
+      "id": 21872,
+      "logo_path": "/sex8X2qwrKfFTSJLEXMPH4kmDxN.png",
+      "name": "Treasure Entertainment",
+      "origin_country": "IE"
+    },
+    {
+      "id": 1923,
+      "logo_path": "/ilgktofJY7OsURHfccJrug4GKdQ.png",
+      "name": "RTÉ",
+      "origin_country": "IE"
+    },
+    {
+      "id": 221618,
+      "logo_path": null,
+      "name": "Broadcasting Commission of Ireland",
+      "origin_country": "IE"
+    },
+    {
+      "id": 1898,
+      "logo_path": "/8ix6SGlJiyuUDxLBtY8E0PY2G7w.png",
+      "name": "Fís Éireann/Screen Ireland",
+      "origin_country": "IE"
+    },
+    {
+      "id": 851,
+      "logo_path": "/kieSA3GFVysJcAUXNRer06u6e5x.png",
+      "name": "MEDIA Programme of the European Union",
+      "origin_country": "BE"
+    },
+    {
+      "id": 55424,
+      "logo_path": null,
+      "name": "Irish Film Industry",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2009-04-24",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If there is life after death - love lives on",
+  "title": "The Eclipse",
+  "video": false,
+  "vote_average": 5.956,
+  "vote_count": 57
+}

@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/8tRMWphlmPWNRN6zvD5xBxbhoDb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1113505,
+  "imdb_id": "tt28350789",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Sei fratelli",
+  "overview": "Marco, Guido, Leo, Luisa, Gaelle and Mattia have different mothers, they are not all biological children of the same father but they have a single true father figure of reference: Manfredi Alicante. When the latter passes away, they all find themselves together for the first time in their father's house in Bordeaux, living the illusion of being able to become a united family. But now each of them brings with them a story, an identity and going back won't be easy.",
+  "popularity": 3.1788,
+  "poster_path": "/s0dOH8kGNnFvuklzKqBdmFD1VRj.jpg",
+  "production_companies": [
+    {
+      "id": 86177,
+      "logo_path": "/3AKkfIbKVXiMUBx5RRaU4T7Y9d8.png",
+      "name": "Groenlandia",
+      "origin_country": "IT"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2024-05-01",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Family Matters",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 37
+}

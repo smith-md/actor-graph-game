@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/qjWx2S3XrVxYkYUe940DNDe1NKZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 71841,
+  "imdb_id": "tt0090904",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dangerously Close",
+  "overview": "Rebel without a cause or a clue at an elite but uptight college discovers some of his classmates have formed an even more elite clique more or less hell-bent on ridding the school, and quite possibly American society, of what they deem to be its undesirables because of ethnicity, politics, etc. Our hero recruits a teacher and some other \"less desirable\" classmates to undermine the elitists, and, naturally, things get quite violent.",
+  "popularity": 2.6402,
+  "poster_path": "/uno9H8AwYu9kq31MjOKMB8EmBWI.jpg",
+  "production_companies": [
+    {
+      "id": 1444,
+      "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+      "name": "The Cannon Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 13549,
+      "logo_path": null,
+      "name": "Golan-Globus Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-05-09",
+  "revenue": 2390525,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dangerously Close",
+  "video": false,
+  "vote_average": 4.7,
+  "vote_count": 22
+}

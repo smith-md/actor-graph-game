@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/6jeisB2CFbdGmXK5vE9NP3YJPcp.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 575299,
+  "imdb_id": "tt10516086",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Верность",
+  "overview": "A successful obstetrician living a seemingly stable married life begins to question her relationship when emotional and physical intimacy fades. Suspecting her husband of betrayal, she seeks connection elsewhere, stepping into a hidden world that offers desire, control, and escape. As she navigates this parallel existence, the boundaries between loyalty, loneliness, and self-discovery slowly begin to blur.",
+  "popularity": 4.3106,
+  "poster_path": "/gG8tlkC981yNenGtKuByqUPu48P.jpg",
+  "production_companies": [
+    {
+      "id": 48844,
+      "logo_path": null,
+      "name": "Droog Drooga",
+      "origin_country": "RU"
+    },
+    {
+      "id": 119813,
+      "logo_path": "/iyGJzcnWXZoNxYLzZu4jKzxIoFw.png",
+      "name": "Premier Studios",
+      "origin_country": "RU"
+    },
+    {
+      "id": 113707,
+      "logo_path": "/12CETnhPLK0KzlHdBt9FvI6lRqz.png",
+      "name": "1-2-3 Production",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2019-10-31",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Fidelity",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 320
+}

@@ -1,0 +1,45 @@
+{
+  "adult": false,
+  "backdrop_path": "/8U8VlyesdyOubs80MWnb7OBkXd0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 790803,
+  "imdb_id": "tt11105376",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Nest",
+  "overview": "As a mother becomes suspicious that her daughter may be infected by a parasitic creature, she is thrust into a nightmare as the people she trusts most push her into a chasm of drug addiction, self-destruction, and devastating sacrifice.",
+  "popularity": 4.8156,
+  "poster_path": "/opz1fG0zINwQYU1hDjVXK2vbcYw.jpg",
+  "production_companies": [],
+  "production_countries": [],
+  "release_date": "2021-08-02",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Don't let the bed bugs bite. They'll infest your mind.",
+  "title": "The Nest",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 48
+}

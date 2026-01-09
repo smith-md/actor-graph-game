@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/a1LBO2XQ9q2VI8r0jtfFBFkVH8A.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81425117",
+  "id": 818648,
+  "imdb_id": "tt14463514",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Eres tú",
+  "overview": "The story of Javier who, at the age of 16, while kissing a girl for the first time, realized that he had a gift of romantic clairvoyance. Javier can see the future... and he finally knows who the love of his life is.",
+  "popularity": 2.8221,
+  "poster_path": "/A5buE7Bepg2rJhPaNCSzFc5kQ0T.jpg",
+  "production_companies": [
+    {
+      "id": 9967,
+      "logo_path": "/273isjO76GPpWVBLjBiBgFPUfwu.png",
+      "name": "Zeta Studios",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2023-03-03",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love at First Kiss",
+  "video": false,
+  "vote_average": 6.183,
+  "vote_count": 197
+}

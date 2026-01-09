@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/o8XSR1SONnjcsv84NRu6Mwsl5io.jpg",
+  "belongs_to_collection": {
+    "id": 1310970,
+    "name": "Kalki Cinematic Universe",
+    "poster_path": null,
+    "backdrop_path": "/on8c6SMsJFj8bhwWuR9rYYVM7cO.jpg"
+  },
+  "budget": 75000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 801688,
+  "imdb_id": "tt12735488",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "te",
+  "original_title": "కల్కి 2898-ఎ.డి",
+  "overview": "In the year 2898 AD, around 6000 years after Kurukshetra war, Ashwatthama gears up for his final battle of redemption at the sign of hope in a dystopian world and Bhairava, a wisecracking and self-interested bounty hunter, tired of the perilous life becomes the hurdle in the process.",
+  "popularity": 4.2553,
+  "poster_path": "/rstcAnBeCkxNQjNp3YXrF6IP1tW.jpg",
+  "production_companies": [
+    {
+      "id": 80065,
+      "logo_path": "/9zMLq3789hC7qAPpbMl4TwaxJ69.png",
+      "name": "Vyjayanthi Movies",
+      "origin_country": "IN"
+    },
+    {
+      "id": 44098,
+      "logo_path": "/eplqXZD7BVDvu4E2QyKRFkL7rtJ.png",
+      "name": "Annapurna Studios",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2024-06-26",
+  "revenue": 141000000,
+  "runtime": 176,
+  "spoken_languages": [
+    {
+      "english_name": "Telugu",
+      "iso_639_1": "te",
+      "name": "తెలుగు"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When the world is taken over by darkness, a new force will arise.",
+  "title": "Kalki 2898-AD",
+  "video": false,
+  "vote_average": 6.446,
+  "vote_count": 158
+}

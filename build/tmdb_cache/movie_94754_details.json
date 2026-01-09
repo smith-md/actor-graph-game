@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/pYCgXJajltrXDpZfiTmn1DMm8FV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 94754,
+  "imdb_id": "tt0088789",
+  "origin_country": [
+    "DE",
+    "IT"
+  ],
+  "original_language": "en",
+  "original_title": "Interno berlinese",
+  "overview": "What begins as an innocent art class becomes a steamy triangle of erotic passions and forbidden love. A beautiful Japanese girl becomes the object of obsession in a devious relationship between the wife of a German diplomat and her husband.",
+  "popularity": 4.8673,
+  "poster_path": "/nltxTUSKKld16Zrnwyz2KV6VnM9.jpg",
+  "production_companies": [
+    {
+      "id": 1429,
+      "logo_path": "/n1GvY0KLgk3gcEPO07L7nXncB3i.png",
+      "name": "Italian International Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1444,
+      "logo_path": "/1848gsFuV3EGewKg8xWADAyJUVy.png",
+      "name": "The Cannon Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 13549,
+      "logo_path": null,
+      "name": "Golan-Globus Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1985-10-03",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Two women, a man and a madness",
+  "title": "The Berlin Affair",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 27
+}

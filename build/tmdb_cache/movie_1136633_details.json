@@ -1,0 +1,85 @@
+{
+  "adult": false,
+  "backdrop_path": "/70tE7e2urpwaomj7kfbCKTLqo63.jpg",
+  "belongs_to_collection": null,
+  "budget": 13500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1136633,
+  "imdb_id": "tt27813775",
+  "origin_country": [
+    "BE",
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Eterno visionario",
+  "overview": "In 1934, while traveling to Stockholm, where he is about to receive the Nobel Prize, the Italian playwright Luigi Pirandello recalls his life and his relationship with the loved ones who have inspired his art.",
+  "popularity": 4.5003,
+  "poster_path": "/xnnp2UjJHGKICiT9ZUF9mWVWCH5.jpg",
+  "production_companies": [
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 112625,
+      "logo_path": null,
+      "name": "Goldenart Production",
+      "origin_country": "IT"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2024-11-07",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Eternal Visionary",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 27
+}

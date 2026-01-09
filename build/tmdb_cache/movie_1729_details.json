@@ -1,0 +1,124 @@
+{
+  "adult": false,
+  "backdrop_path": "/9a59H9qoAzMcj1NWurMgvg9iLaT.jpg",
+  "belongs_to_collection": null,
+  "budget": 55000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1729,
+  "imdb_id": "tt0865556",
+  "origin_country": [
+    "CN",
+    "US",
+    "HK"
+  ],
+  "original_language": "en",
+  "original_title": "The Forbidden Kingdom",
+  "overview": "An American teenager who is obsessed with Hong Kong cinema and kung-fu classics makes an extraordinary discovery in a Chinatown pawnshop: the legendary stick weapon of the Chinese sage and warrior, the Monkey King. With the lost relic in hand, the teenager unexpectedly finds himself travelling back to ancient China to join a crew of warriors from martial arts lore on a dangerous quest to free the imprisoned Monkey King.",
+  "popularity": 4.8812,
+  "poster_path": "/z8chF1Z7hyuSVqLYTgElkQZh2VB.jpg",
+  "production_companies": [
+    {
+      "id": 877,
+      "logo_path": "/n8gjQIrJ77CSFroDCuQbj5cqOaQ.png",
+      "name": "Casey Silver Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2269,
+      "logo_path": null,
+      "name": "China Film Co-Production Corp.",
+      "origin_country": "CN"
+    },
+    {
+      "id": 7295,
+      "logo_path": "/5MYE96QiE5a5oFhXxFb4y8ILSpw.png",
+      "name": "Relativity Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 308,
+      "logo_path": "/e8F3mQM7DkJ5SfYYDp8FYzPBOGX.png",
+      "name": "The Weinstein Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 2520,
+      "logo_path": null,
+      "name": "Arclight Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 3393,
+      "logo_path": "/rv37YfhPg03ugK252E4oXMzgvks.png",
+      "name": "Huayi Brothers Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 200407,
+      "logo_path": null,
+      "name": "J&J Project",
+      "origin_country": "HK"
+    },
+    {
+      "id": 194859,
+      "logo_path": "/pG7MJ556xsjrvVosg4TWmMLWV9v.png",
+      "name": "Salon Films",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-04-17",
+  "revenue": 127906624,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The battle for eternity is the fantasy of a lifetime.",
+  "title": "The Forbidden Kingdom",
+  "video": false,
+  "vote_average": 6.627,
+  "vote_count": 1850
+}

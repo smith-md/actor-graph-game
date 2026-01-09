@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/mLihPIodzSenkZtiUauDy4e9hRs.jpg",
+  "belongs_to_collection": {
+    "id": 466463,
+    "name": "Descendants Collection",
+    "poster_path": "/htZuHIuG9ybcw6xkrWz4khZRBu0.jpg",
+    "backdrop_path": "/bGhp9ANBOcsbnDcicSmtO8AelzG.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 417320,
+  "imdb_id": "tt5117876",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Descendants 2",
+  "overview": "When the pressure to be royal becomes too much for Mal, she returns to the Isle of the Lost where her archenemy Uma, Ursula's daughter, has taken her spot as self-proclaimed queen.",
+  "popularity": 6.5583,
+  "poster_path": "/qoNlGfQmFZ37Gf5fRBaCTLlOZtx.jpg",
+  "production_companies": [
+    {
+      "id": 11072,
+      "logo_path": null,
+      "name": "Bad Angels Productions, Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 138908,
+      "logo_path": null,
+      "name": "5678 Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 240533,
+      "logo_path": "/9AxUB1RdRnm0r5ki8Thb69Jo9Ma.png",
+      "name": "Disney Channel",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-07-21",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Long Live Evil",
+  "title": "Descendants 2",
+  "video": false,
+  "vote_average": 7.349,
+  "vote_count": 1742
+}

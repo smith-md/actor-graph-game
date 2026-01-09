@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/oktRqHfL2ORYAwpIZh7ZfXw72TE.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "http://www.adeleblancsec-lefilm.com/",
+  "id": 35552,
+  "imdb_id": "tt1179025",
+  "origin_country": [
+    "FR",
+    "US"
+  ],
+  "original_language": "fr",
+  "original_title": "Les Aventures extraordinaires d'Adèle Blanc-Sec",
+  "overview": "An adventure set in the early part of the 20th century, focused on a popular novelist and her dealings with would-be suitors, the cops, monsters, and other distractions.",
+  "popularity": 7.3354,
+  "poster_path": "/7OxguFgt8VoFgKsiXZQIEjpMtjt.jpg",
+  "production_companies": [
+    {
+      "id": 6896,
+      "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+      "name": "EuropaCorp",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1076,
+      "logo_path": null,
+      "name": "Apipoulaï Prod",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-04-09",
+  "revenue": 34604339,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Extraordinary Adventures of Adèle Blanc-Sec",
+  "video": false,
+  "vote_average": 6.239,
+  "vote_count": 1445
+}

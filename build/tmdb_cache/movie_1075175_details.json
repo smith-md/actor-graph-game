@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/akvlTeB0LiNzw9U9YCAB8wwb5Qo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://mubi.com/films/how-to-have-sex",
+  "id": 1075175,
+  "imdb_id": "tt22890246",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "How to Have Sex",
+  "overview": "Three British teenage girls go on a rites-of-passage holiday—drinking, clubbing and hooking up, in what should be the best summer of their lives.",
+  "popularity": 5.0101,
+  "poster_path": "/yQyoFCBLGJH5HXESmJAzaiXw9zU.jpg",
+  "production_companies": [
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6274,
+      "logo_path": "/ngZoa368SAnERTz3IBvgTT4eWeB.png",
+      "name": "MK2 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 25954,
+      "logo_path": "/oga9DS7GZGbZ0iZ4JFuVTBMBv1C.png",
+      "name": "Metrol Technology",
+      "origin_country": "GB"
+    },
+    {
+      "id": 19037,
+      "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+      "name": "uMedia",
+      "origin_country": "BE"
+    },
+    {
+      "id": 182380,
+      "logo_path": "/kKEKB70wXqeXXqaYhm95Epfyuzu.png",
+      "name": "Wild Swim Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 76888,
+      "logo_path": "/eQzzrPMtHbgAxKgQysFH73mHaHF.png",
+      "name": "Heretic",
+      "origin_country": "GR"
+    },
+    {
+      "id": 5056,
+      "logo_path": "/583ITs4w9sK31FnJwKiRwapTpzb.png",
+      "name": "Head Gear Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "GR",
+      "name": "Greece"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2023-11-02",
+  "revenue": 1216642,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "How to Have Sex",
+  "video": false,
+  "vote_average": 6.218,
+  "vote_count": 456
+}

@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/sbCQ5uuQ9Y4fkWR8NR3x41rvFvF.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 21610,
+  "imdb_id": "tt0082817",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Nighthawks",
+  "overview": "When one of Europe's most lethal terrorists shows up in New York, an elite undercover cop is assigned to take him down by any means necessary.",
+  "popularity": 20.5998,
+  "poster_path": "/EuWOvbS7GdbXuYhRwFXgUGIRFd.jpg",
+  "production_companies": [
+    {
+      "id": 3986,
+      "logo_path": null,
+      "name": "Martin Poll Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 3987,
+      "logo_path": null,
+      "name": "The Production Company",
+      "origin_country": ""
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1981-03-17",
+  "revenue": 19905359,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One man can bring the world to its knees and only one man can stop him.",
+  "title": "Nighthawks",
+  "video": false,
+  "vote_average": 6.394,
+  "vote_count": 472
+}

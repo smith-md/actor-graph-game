@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/A73L43TlR4ISUn4B9b6EGcoEcpm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 47244,
+  "imdb_id": "tt0216605",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Captive",
+  "overview": "Ariane and Simon met down by the water. Simon has managed to prize Ariane away from her friends, a bunch of free and arrogant girls, and move her into his place, with her own room at the end of the hall and her own bathroom next to his. He has taken on Andrée, one of the girls from the bunch by the water, to watch over Ariane, escort her wherever she goes and report back to him on everything she does. Andrée becomes Ariane’s accomplice. She’ll tell lies for her, and with her, and most likely they’ll make love together when the mood takes them.",
+  "popularity": 4.0036,
+  "poster_path": "/h7M7jy1tzLR5Il0jZptEYw0ECnt.jpg",
+  "production_companies": [
+    {
+      "id": 6584,
+      "logo_path": null,
+      "name": "Gemini Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10645,
+      "logo_path": null,
+      "name": "Paradise Films",
+      "origin_country": "BE"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2000-09-27",
+  "revenue": 0,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Freely inspired by Proust’s “La Prisonnière” (“Remembrance of Things Past” Vol. 5)",
+  "title": "The Captive",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 63
+}

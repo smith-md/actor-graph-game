@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/qo2VoL7vyDWKvUejikxrdIFUDIa.jpg",
+  "belongs_to_collection": null,
+  "budget": 28100000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 1472638,
+  "imdb_id": "tt38350059",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Buen Camino",
+  "overview": "Checco's life is a comfortable and luxurious one, and it couldn't be otherwise, considering he's the only son of Eugenio Zalone, a wealthy sofa manufacturer. Stranded by the pool in his luxurious villas, with an unspecified number of Filipinos serving him, a very young Mexican model as a girlfriend, and vacationing on his yacht with friends who share his passion for not wanting to work; it seems like a truly enviable life, considering he lacks nothing, absolutely nothing. Actually, no. Something is missing. It's his underage daughter, Cristal, named after the famous French sparkling wine, who has suddenly disappeared without a trace. Urgently summoned to Rome by his ex-wife, Linda, he finds himself facing the responsibilities of fatherhood for the first time, trying to find the girl—a very complicated task, considering he knows absolutely nothing about Cristal and her life.",
+  "popularity": 23.8386,
+  "poster_path": "/5sHyD2AEaaX9tzRkBdWM5G9NeJ8.jpg",
+  "production_companies": [
+    {
+      "id": 18156,
+      "logo_path": "/3nAuYcaWdpW0ULMvMz6V5HIJmCO.png",
+      "name": "Indiana Production",
+      "origin_country": "IT"
+    },
+    {
+      "id": 6246,
+      "logo_path": "/7X6pfxldTiOD7MLo2EQqUQlmOUw.png",
+      "name": "Medusa Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2025-12-25",
+  "revenue": 31688894,
+  "runtime": 0,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Buen Camino",
+  "video": false,
+  "vote_average": 6.559,
+  "vote_count": 244
+}

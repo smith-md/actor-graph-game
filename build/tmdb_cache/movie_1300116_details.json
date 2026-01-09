@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/xd7YqovQSLBY7dbptsz2bPgL0ym.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81678621",
+  "id": 1300116,
+  "imdb_id": "tt32543884",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Fall for Me",
+  "overview": "Lilli is suspicious of her sister's new fiance, but when an attractive stranger enters her life, she's suddenly distracted by the thralls of desire.",
+  "popularity": 10.5551,
+  "poster_path": "/mduZ3YRKele4rHhrse7b7B3d44b.jpg",
+  "production_companies": [
+    {
+      "id": 40788,
+      "logo_path": "/ydsYNksXNi0NzkCDSjnpsPRUCGI.png",
+      "name": "Wiedemann & Berg Television",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-08-20",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Fall for Me",
+  "video": false,
+  "vote_average": 6.139,
+  "vote_count": 180
+}

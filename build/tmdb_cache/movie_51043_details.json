@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/2FRGE0hIaEOAIB3pq2rEq3Vx9NQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 51043,
+  "imdb_id": "tt0113682",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Loch Ness",
+  "overview": "Dr. Dempsey, an American scientist, is sent to Scotland to disprove the existence of the Loch Ness Monster. He is shocked when Laura, an inn-keeper, introduces him to a small family of Nessie-dinosaurs.",
+  "popularity": 3.5493,
+  "poster_path": "/fMXL9o1N150SK0z6Sk6aXnC4oEB.jpg",
+  "production_companies": [
+    {
+      "id": 1382,
+      "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 10163,
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1996-08-23",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "for 1500 years one legend remains undiscovered undisturbed until now LOCH NESS.",
+  "title": "Loch Ness",
+  "video": false,
+  "vote_average": 5.693,
+  "vote_count": 122
+}

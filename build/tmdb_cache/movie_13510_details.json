@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/34fIB4TBdYHerdbcXoMVPZiX7q0.jpg",
+  "belongs_to_collection": null,
+  "budget": 12850990,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 13510,
+  "imdb_id": "tt1020530",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Eden Lake",
+  "overview": "When a young couple goes to a remote wooded lake for a romantic getaway, their quiet weekend is shattered by an aggressive group of local kids. Rowdiness quickly turns to rage as the teens terrorize the couple in unimaginable ways, and a weekend outing becomes a bloody battle for survival.",
+  "popularity": 5.5139,
+  "poster_path": "/tOg6ElTe1mJwaCFN0172U4oso22.jpg",
+  "production_companies": [
+    {
+      "id": 8575,
+      "logo_path": null,
+      "name": "Rollercoaster Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 3272,
+      "logo_path": null,
+      "name": "Aramid Entertainment",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2008-09-12",
+  "revenue": 3984669,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A weekend by the lake, with views to die for.",
+  "title": "Eden Lake",
+  "video": false,
+  "vote_average": 6.83,
+  "vote_count": 1996
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/dhjcwoymr9oLO1EJPrhHZweT6x5.jpg",
+  "belongs_to_collection": null,
+  "budget": 13000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 17796,
+  "imdb_id": "tt0109838",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Freaked",
+  "overview": "A vain actor, his best friend, and an activist end up at a mutant freak farm run by a weirdo scientist.",
+  "popularity": 4.2988,
+  "poster_path": "/enQ9FBLo4bd7AHX78geP6qRSl9U.jpg",
+  "production_companies": [
+    {
+      "id": 3397,
+      "logo_path": null,
+      "name": "Tommy",
+      "origin_country": ""
+    },
+    {
+      "id": 3173,
+      "logo_path": null,
+      "name": "Chiodo Bros. Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 20555,
+      "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+      "name": "Taurus Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1993-10-01",
+  "revenue": 29296,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Butt ugly. But funny.",
+  "title": "Freaked",
+  "video": false,
+  "vote_average": 6.116,
+  "vote_count": 177
+}

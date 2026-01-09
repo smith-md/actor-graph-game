@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/7WToT7QLZMkupWysQKLUpyJYnAf.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 835975,
+  "imdb_id": "tt14775784",
+  "origin_country": [
+    "AT",
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Große Freiheit",
+  "overview": "In post-war Germany, liberation by the Allies does not mean freedom for everyone. Hans Hoffmann is repeatedly imprisoned under Paragraph 175, which criminalizes homosexuality. Nevertheless, over the decades, he continues his quest for freedom and love, even if he finds it in the most unusual places.",
+  "popularity": 2.9681,
+  "poster_path": "/vbx3xp83wLo3ocdzhs3BvGHcrsF.jpg",
+  "production_companies": [
+    {
+      "id": 81956,
+      "logo_path": "/j1gYelmPIye4HKBR47CiQ87TaqB.png",
+      "name": "FreibeuterFilm",
+      "origin_country": "AT"
+    },
+    {
+      "id": 18485,
+      "logo_path": "/q49Qk6zMyhWVjowLXlpoboONqHx.png",
+      "name": "Rohfilm",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2021-11-18",
+  "revenue": 218511,
+  "runtime": 116,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Great Freedom",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 189
+}

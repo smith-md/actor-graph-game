@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/9L6qUlNYbL6XgYTXPKOlMtphzSu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81221344",
+  "id": 1216512,
+  "imdb_id": "tt31123288",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Casagrandes Movie",
+  "overview": "On a birthday trip to Mexico, 12-year-old Ronnie Anne accidentally frees a demigod trapped in a mountain and needs her family's help to set things right.",
+  "popularity": 2.8664,
+  "poster_path": "/1ZHetsKD44xB63ZjTjqryC0CtoL.jpg",
+  "production_companies": [
+    {
+      "id": 2348,
+      "logo_path": "/oydqrfwRAm6qqdYbxuMmmPsVi87.png",
+      "name": "Nickelodeon Movies",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-03-21",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Casagrandes Movie",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 46
+}

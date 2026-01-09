@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/duelwmJcXTeEs2huscpxZ97QqOx.jpg",
+  "belongs_to_collection": null,
+  "budget": 18000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 2990,
+  "imdb_id": "tt0100318",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Pacific Heights",
+  "overview": "A couple works hard to renovate their dream house and become landlords to pay for it. Unfortunately one of their tenants has plans of his own.",
+  "popularity": 4.806,
+  "poster_path": "/9iHD6xIrGSuuMEFWhwSVGXSddY2.jpg",
+  "production_companies": [
+    {
+      "id": 10210,
+      "logo_path": "/fmFmUxBijh8764GNSSIiwXYD83K.png",
+      "name": "Morgan Creek Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-09-28",
+  "revenue": 55000000,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They were the perfect couple, buying the perfect house. Until a perfect stranger moved into their lives.",
+  "title": "Pacific Heights",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 399
+}

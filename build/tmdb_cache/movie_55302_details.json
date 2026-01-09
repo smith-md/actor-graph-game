@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/yrdp38bUpwcSNuu6FAjl76Uy49e.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 55302,
+  "imdb_id": "tt0210943",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Relative Values",
+  "overview": "A comedy of discriminating taste and dirty little secrets. In 1952 England, Nigel, the Earl of Marshwood, woos Hollywood star Miranda, upsetting both Nigel's mother, Countess Felicity, and Miranda's former love fellow Hollywood star Don. Right before the engagement party at Marshwood, Moxie, the Countess's personal maid and best friend, reveals that Miranda is her estranged sister. Crestwell, the Countess's butler, devises a plan - but an inebriated Don's arrival at Marshwood to talk to Miranda causes all chaos to break loose.",
+  "popularity": 2.1501,
+  "poster_path": "/jhTusqXqn2lTB9In49Y3UmWliz3.jpg",
+  "production_companies": [
+    {
+      "id": 15761,
+      "logo_path": null,
+      "name": "Lucinda Films",
+      "origin_country": ""
+    },
+    {
+      "id": 8719,
+      "logo_path": null,
+      "name": "Isle of Man Film Commission",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2000-06-23",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Relative Values",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 38
+}

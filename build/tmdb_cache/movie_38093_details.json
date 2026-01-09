@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/gvNBgLoVxEGZrzjyudnTY0tdDlz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 38093,
+  "imdb_id": "tt1407061",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Just Wright",
+  "overview": "Physical therapist Leslie Wright lands the dream job of working with basketball superstar Scott McKnight, helping him recover from a career-threatening injury. All goes well and soon Leslie finds herself falling in love with him. Just as their friendship deepens, however, Scott focuses his attention back on his tenuous relationship with his ex-fiancé Morgan, Leslie's gorgeous godsister, who would love to be the basketball player's trophy wife.",
+  "popularity": 5.2834,
+  "poster_path": "/qx1SumoTQYtB9VyxQ7irlfE2e7L.jpg",
+  "production_companies": [
+    {
+      "id": 444,
+      "logo_path": null,
+      "name": "Dune Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 5677,
+      "logo_path": null,
+      "name": "Flavor Unit Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 43,
+      "logo_path": "/4RgIPr55kBakgupWkzdDxqXJEqr.png",
+      "name": "Fox Searchlight Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 53583,
+      "logo_path": null,
+      "name": "Martin Chase Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-05-14",
+  "revenue": 21520719,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In this game every shot counts.",
+  "title": "Just Wright",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 448
+}

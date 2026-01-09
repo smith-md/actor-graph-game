@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 451676,
+  "imdb_id": "tt6100122",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "en",
+  "original_title": "Beyond Words",
+  "overview": "A young Polish-born, Berlin-based lawyer working on refugee cases is unexpectedly reunited with his father, who is his only tie left with his homeland.",
+  "popularity": 6.6387,
+  "poster_path": "/tlU5U9mWYrwD6Ep73m1OqfPJJDQ.jpg",
+  "production_companies": [
+    {
+      "id": 6477,
+      "logo_path": "/tn6i5FOfcfCrYR3zviZVvYdolwu.png",
+      "name": "Opus Film",
+      "origin_country": "PL"
+    },
+    {
+      "id": 26389,
+      "logo_path": "/eZG7nmYHpVpp6jsOytILEmITHNf.png",
+      "name": "Family Affair Films",
+      "origin_country": "NL"
+    },
+    {
+      "id": 129370,
+      "logo_path": "/c7OFocnzGIZ86DrcNAzosYNssKZ.png",
+      "name": "EC1 Łódź",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2018-02-16",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Beyond Words",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 24
+}

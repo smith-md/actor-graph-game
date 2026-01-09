@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/fquVJ2v5NAW96sRfFAw4vXR5zla.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.neverletgo.movie",
+  "id": 814889,
+  "imdb_id": "tt14415204",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Never Let Go",
+  "overview": "As an evil takes over the world beyond their front doorstep, the only protection for a mother and her twin sons is their house and their family’s protective bond.",
+  "popularity": 3.4852,
+  "poster_path": "/iwUoM3y77fov7bKyFMwpGMzRHyn.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 2575,
+      "logo_path": "/9YJrHYlcfHtwtulkFMAies3aFEl.png",
+      "name": "21 Laps Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 221429,
+      "logo_path": "/7xNNmHcuDy0tOqZmsUMnZ6HcZ6E.png",
+      "name": "Media Capital Technologies",
+      "origin_country": "US"
+    },
+    {
+      "id": 211864,
+      "logo_path": null,
+      "name": "HalleHolly",
+      "origin_country": "US"
+    },
+    {
+      "id": 491,
+      "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+      "name": "Summit Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 171888,
+      "logo_path": "/dPVemcyP71LLCRzQ9rJgRIdkjKk.png",
+      "name": "Firstep",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2024-09-18",
+  "revenue": 21768945,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One touch is all it takes.",
+  "title": "Never Let Go",
+  "video": false,
+  "vote_average": 6.113,
+  "vote_count": 541
+}

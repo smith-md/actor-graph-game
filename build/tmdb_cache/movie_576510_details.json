@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/cl2PJfdyV1PlmNvzsSEsajUCbHQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 576510,
+  "imdb_id": "tt7763324",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Amazing Stories",
+  "overview": "A feature film edited from three episodes of Amazing Stories (1985): The Mission, Mummy Daddy, and Go to the Head of the Class.",
+  "popularity": 3.7806,
+  "poster_path": "/8XJb9oEnpLtMoOx4Za6JVMA8vqy.jpg",
+  "production_companies": [
+    {
+      "id": 56,
+      "logo_path": "/cEaxANEisCqeEoRvODv2dO1I0iI.png",
+      "name": "Amblin Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 26727,
+      "logo_path": "/jeTxdjXhzgKZyLr3l9MllkTn3fy.png",
+      "name": "Universal Television",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-07-10",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "As one experience ends... another adventure begins.",
+  "title": "Amazing Stories",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 29
+}

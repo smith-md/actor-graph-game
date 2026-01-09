@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/28xIxuw60UNZ3Tsz1tT5Gg7MS67.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81594315",
+  "id": 1327769,
+  "imdb_id": "tt38095263",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "27 noches",
+  "overview": "When a woman is admitted by her daughters to a psychiatric clinic for her carefree ways, an expert must judge if she is ill or simply wants to enjoy life.",
+  "popularity": 4.6883,
+  "poster_path": "/kVMUTLFbfQvNYdFHiexTDnSHntV.jpg",
+  "production_companies": [
+    {
+      "id": 16948,
+      "logo_path": "/oZKnEm3BUXsiV8znce6fX26ad3R.png",
+      "name": "La Unión de los Ríos",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    }
+  ],
+  "release_date": "2025-09-19",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "27 Nights",
+  "video": false,
+  "vote_average": 6.313,
+  "vote_count": 32
+}

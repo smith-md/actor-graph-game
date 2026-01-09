@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/x0J0OMKwnX1eeVRQWeb2D05yd3K.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.amazon.com/salp/afterthehunt",
+  "id": 1265063,
+  "imdb_id": "tt32159989",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "After the Hunt",
+  "overview": "A college professor finds herself at a personal and professional crossroads when a star pupil levels an accusation against one of her colleagues, and a dark secret from her own past threatens to come to light.",
+  "popularity": 7.2066,
+  "poster_path": "/ryF8QPGUGlo8gRB4OYKb4J0r3aJ.jpg",
+  "production_companies": [
+    {
+      "id": 46344,
+      "logo_path": "/qpSdIjnGHiz6UNIQWGIJkDnG79l.png",
+      "name": "Frenesy Film",
+      "origin_country": "IT"
+    },
+    {
+      "id": 23,
+      "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 6831,
+      "logo_path": "/fWSI4EjIDEEzCNJC8OTPX9Pdbxv.png",
+      "name": "Big Indie Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2025-10-09",
+  "revenue": 9299531,
+  "runtime": 139,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Not everything is supposed to make you comfortable.",
+  "title": "After the Hunt",
+  "video": false,
+  "vote_average": 5.705,
+  "vote_count": 370
+}

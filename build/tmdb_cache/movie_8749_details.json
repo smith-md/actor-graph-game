@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/YbzfnWSeZvfABKn0zSyY3IY0IV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 8749,
+  "imdb_id": "tt0093139",
+  "origin_country": [
+    "FI"
+  ],
+  "original_language": "fi",
+  "original_title": "Hamlet liikemaailmassa",
+  "overview": "When Hamlet discovers his father’s deceased body, he finds himself pulled into a power struggle as his scheming uncle attempts to secure a monopoly on the Scandinavian rubber duck industry. Will Hamlet avenge his father? Will he become the king of rubber ducks? Does any of it really matter?",
+  "popularity": 2.6864,
+  "poster_path": "/5OjVh44NDV3m8ePTt2BXMWTzlH5.jpg",
+  "production_companies": [
+    {
+      "id": 2303,
+      "logo_path": null,
+      "name": "Villealfa Filmproductions",
+      "origin_country": "FI"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FI",
+      "name": "Finland"
+    }
+  ],
+  "release_date": "1987-08-21",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hamlet Goes Business",
+  "video": false,
+  "vote_average": 6.652,
+  "vote_count": 46
+}

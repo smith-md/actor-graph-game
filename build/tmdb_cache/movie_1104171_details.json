@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/8jujdLr4OAQoWGgfNmaE4RR0mqb.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81392060",
+  "id": 1104171,
+  "imdb_id": "tt20502488",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Meet Me Next Christmas",
+  "overview": "On a quest to reconnect with the man of her dreams, Layla races across New York City to find a ticket to a sold-out Pentatonix Christmas Eve concert.",
+  "popularity": 2.4663,
+  "poster_path": "/tPRH0Rm00esNefnI1ZxQqTTIpzJ.jpg",
+  "production_companies": [
+    {
+      "id": 122077,
+      "logo_path": "/lZf5ifXR3Pst0w8VF3nQHdZjx6A.png",
+      "name": "Roberts Media",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-11-05",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Meet Me Next Christmas",
+  "video": false,
+  "vote_average": 6.34,
+  "vote_count": 257
+}

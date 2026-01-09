@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/ovq99oayVGCKEBUPeqT1SvQQwDU.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 58232,
+  "imdb_id": "tt1487118",
+  "origin_country": [
+    "AT",
+    "DE",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Chalet Girl",
+  "overview": "While working a job at an exclusive ski resort to support her Dad, Kim learns to snowboard and is so good at it that she enters a competition with a huge cash prize. She has to dig deep to overcome her fears, but her life gets more complicated through her spoken-for boss, Jonny.",
+  "popularity": 4.1344,
+  "poster_path": "/uzHIG8nXums3sCAiO4w5heZi3Hc.jpg",
+  "production_companies": [
+    {
+      "id": 29305,
+      "logo_path": null,
+      "name": "Kaleidoscope Films",
+      "origin_country": ""
+    },
+    {
+      "id": 2452,
+      "logo_path": "/gOkUB0TdXRLAl6s0s6jCSLS3sOb.png",
+      "name": "UK Film Council",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7309,
+      "logo_path": null,
+      "name": "Aegis Film Fund",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6901,
+      "logo_path": null,
+      "name": "Prescience",
+      "origin_country": "GB"
+    },
+    {
+      "id": 137219,
+      "logo_path": null,
+      "name": "Hindsight Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 11389,
+      "logo_path": "/eKVLElq1XAbcCcwnVj89G9EXRGB.png",
+      "name": "OFI",
+      "origin_country": "AT"
+    },
+    {
+      "id": 13016,
+      "logo_path": null,
+      "name": "Cine Tirol",
+      "origin_country": "AT"
+    },
+    {
+      "id": 205799,
+      "logo_path": null,
+      "name": "Metropolis International Sales",
+      "origin_country": ""
+    },
+    {
+      "id": 205801,
+      "logo_path": null,
+      "name": "BKM, kulturelle Filmförderung des Bundes",
+      "origin_country": ""
+    },
+    {
+      "id": 205802,
+      "logo_path": null,
+      "name": "CrossDay Productions Ltd.",
+      "origin_country": ""
+    },
+    {
+      "id": 403,
+      "logo_path": "/h2nyRbglJy4d6TN6UDycqpdsLpr.png",
+      "name": "Neue Bioskop Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 2707,
+      "logo_path": null,
+      "name": "Novotny & Novotny Filmproduktion",
+      "origin_country": "AT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2011-02-02",
+  "revenue": 5468650,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "How to marry a billionaire.",
+  "title": "Chalet Girl",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 656
+}

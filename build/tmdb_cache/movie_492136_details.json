@@ -1,0 +1,175 @@
+{
+  "adult": false,
+  "backdrop_path": "/yuKD3TjbRIKFmMaJceXMZaFcmUr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "http://kamakura-movie.jp/",
+  "id": 492136,
+  "imdb_id": "tt6493648",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "DESTINY 鎌倉ものがたり",
+  "overview": "Set in an alternate universe, the ancient capital of Kamakura is a vibrant town where fantastical creatures live alongside humans. Akiko is a cheerful publishing assistant who moves into town after marrying Masakazu, a popular mystery writer. Akiko is surprised by the unusual town but enjoys the new curiosities surrounding her. However, just as she was beginning to settle in, a trifling incident sweeps her spirit to the underworld too soon. Convinced that destiny has something else in store for his wife, Masakazu journeys into the underworld to bring back Akiko’s spirit.",
+  "popularity": 3.6272,
+  "poster_path": "/h7FFTr5zUvOuiZmyYOMSMcedJ87.jpg",
+  "production_companies": [
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 12386,
+      "logo_path": "/oxvw2Mrq3GcTxFc2mlT7E5tpek7.png",
+      "name": "Robot Communications",
+      "origin_country": "JP"
+    },
+    {
+      "id": 12383,
+      "logo_path": null,
+      "name": "Abe Shuji",
+      "origin_country": "JP"
+    },
+    {
+      "id": 33677,
+      "logo_path": "/85U2onICiQV9fMHORxw8EWSQ6MZ.png",
+      "name": "Chukyo TV Broadcasting Company",
+      "origin_country": "JP"
+    },
+    {
+      "id": 116589,
+      "logo_path": "/bUVqV0jOXTbJmLdiMJJdvXjn2Jj.png",
+      "name": "Culture Entertainment",
+      "origin_country": "JP"
+    },
+    {
+      "id": 1778,
+      "logo_path": "/b5rT6VbYza3LyfltCmz1OcqzWJM.png",
+      "name": "dentsu",
+      "origin_country": "JP"
+    },
+    {
+      "id": 8157,
+      "logo_path": "/pEqcMX1aG3JvtDgfh2wNZJLCcb4.png",
+      "name": "jeki",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11720,
+      "logo_path": "/3LCoBMbwUQcKqum0VDa66fJ969e.png",
+      "name": "Fukuoka Broadcasting System",
+      "origin_country": "JP"
+    },
+    {
+      "id": 62866,
+      "logo_path": "/uYawQ0Lb8smRXNNCoq8gTHG92Pz.png",
+      "name": "Futabasha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11722,
+      "logo_path": "/4OpeDJ8jzPeaSiOlzGCnHjm6tpt.png",
+      "name": "Hiroshima Telecasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4330,
+      "logo_path": "/n8v5Ii8FCPHAg0KaIXviDRFSqhG.png",
+      "name": "Horipro",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11723,
+      "logo_path": "/2pAs8G6yRArSEcZ3VA6bRyVl0uJ.png",
+      "name": "Miyagi Television Broadcasting",
+      "origin_country": "JP"
+    },
+    {
+      "id": 170927,
+      "logo_path": "/k8pquRgZwIWvy9qQcSmNGRBBox2.png",
+      "name": "Nippon Broadcasting System",
+      "origin_country": "JP"
+    },
+    {
+      "id": 9148,
+      "logo_path": "/rtW3NadfF4kR5mTW00ahiFxw6k7.png",
+      "name": "Pony Canyon",
+      "origin_country": "JP"
+    },
+    {
+      "id": 78956,
+      "logo_path": "/rI2oiwZKzD4sTVfDgRvLJwWK1Qe.png",
+      "name": "Sapporo Television Broadcasting Company",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11327,
+      "logo_path": "/gJM4ZwaQEKz9zsus8MNGWbm4maV.png",
+      "name": "Shirogumi",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11724,
+      "logo_path": "/tFePbc4dqJzcUaHeKAQkhRgT5zJ.png",
+      "name": "Shizuoka Daiichi Television",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11726,
+      "logo_path": "/kgyCJlIgEJmC05ddOewgkDl9jZF.png",
+      "name": "Yomiuri Shimbun Company",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11725,
+      "logo_path": "/3OZxd70DZ1LbVelmZK8mR5FIXxO.png",
+      "name": "VAP",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11727,
+      "logo_path": "/cIMyE9cw1W4kMFGxmC17HKTnVz9.png",
+      "name": "Yomiuri Telecasting Corporation",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2017-12-09",
+  "revenue": 0,
+  "runtime": 129,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Destiny: The Tale of Kamakura",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 34
+}

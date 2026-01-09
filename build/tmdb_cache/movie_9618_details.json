@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/vzvHhP8ZrDvOOx5fa9YC0OzDNIU.jpg",
+  "belongs_to_collection": null,
+  "budget": 55000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 9618,
+  "imdb_id": "tt0098439",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tango & Cash",
+  "overview": "Ray Tango and Gabriel Cash are two successful narcotics detectives who can't stand each other. Crime lord Yves Perret, furious at the loss of income they have caused him, plots an elaborate revenge against them.",
+  "popularity": 4.7837,
+  "poster_path": "/jxxxjTu87OSmQYkMFF7MgOEDXRn.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 276,
+      "logo_path": null,
+      "name": "The Guber-Peters Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "PT",
+      "name": "Portugal"
+    }
+  ],
+  "release_date": "1989-12-22",
+  "revenue": 63408614,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Two of L.A.'s top rival cops are going to have to work together… Even if it kills them.",
+  "title": "Tango & Cash",
+  "video": false,
+  "vote_average": 6.473,
+  "vote_count": 2059
+}

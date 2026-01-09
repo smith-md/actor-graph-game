@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/2IIKts2A9vnUdM9tTC76B8tDmuZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://a24films.com/films/bring-her-back",
+  "id": 1151031,
+  "imdb_id": "tt32246771",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "Bring Her Back",
+  "overview": "Following the death of their father, a brother and sister are sent to live with a foster mother, only to learn that she is hiding a terrifying secret.",
+  "popularity": 17.9883,
+  "poster_path": "/1Q3GlCXGYWELifxANYZ5OVMRVZl.jpg",
+  "production_companies": [
+    {
+      "id": 32301,
+      "logo_path": "/5VG9QRUCSDez359VNqcTmOLOH3C.png",
+      "name": "Causeway Films",
+      "origin_country": "AU"
+    },
+    {
+      "id": 234094,
+      "logo_path": null,
+      "name": "Blue Bear",
+      "origin_country": "AU"
+    },
+    {
+      "id": 150239,
+      "logo_path": "/i2Gi8eJ8NH1MwpV0OJydTL0Eaui.png",
+      "name": "Salmira Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 2806,
+      "logo_path": "/vxOhCbpsRBh10m6LZ3HyImTYpPY.png",
+      "name": "South Australian Film Corporation",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-05-28",
+  "revenue": 39410222,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Family requires sacrifices.",
+  "title": "Bring Her Back",
+  "video": false,
+  "vote_average": 7.4,
+  "vote_count": 1302
+}

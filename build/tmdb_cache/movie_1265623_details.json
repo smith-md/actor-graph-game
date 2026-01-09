@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/oDvBfDVgF6uthIPdRfC6zqqbvcE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81691348",
+  "id": 1265623,
+  "imdb_id": "tt35434840",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Banger",
+  "overview": "When cops recruit a has-been DJ to bust a quirky criminal gang with ties to his rival, he spots a chance to mix his way back to the top with a banger.",
+  "popularity": 3.5941,
+  "poster_path": "/x2pegSby27ebOwW361GJb1aKcxa.jpg",
+  "production_companies": [
+    {
+      "id": 78780,
+      "logo_path": "/3niMKWcBpqOh4C1PHAG4FSubsgp.png",
+      "name": "Iconoclast",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-04-01",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Banger",
+  "video": false,
+  "vote_average": 4.763,
+  "vote_count": 76
+}

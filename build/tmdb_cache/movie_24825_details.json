@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/iNeKed9XkezIJYHjDReFMWGhiyD.jpg",
+  "belongs_to_collection": null,
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 24825,
+  "imdb_id": "tt0081259",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Octagon",
+  "overview": "Scott James, a veteran martial arts expert, is recruited as the protector of the wealthy and beautiful Justine  after she becomes the target of a ninja clan. When Scott finds out that his ruthless arch-nemesis, McCarn , is involved with the stealthy and dangerous criminals, he is eager to settle old scores. Soon Scott is facing off against McCarn and the entire ninja horde in an effort to take them all down.",
+  "popularity": 3.9629,
+  "poster_path": "/CHZCoIruTfZ3ssN5tY7EG7UDvY.jpg",
+  "production_companies": [
+    {
+      "id": 4112,
+      "logo_path": null,
+      "name": "American Cinema Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1980-08-14",
+  "revenue": 18971000,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In a world of choices, for one man there is no choice... he must face The Octagon.",
+  "title": "The Octagon",
+  "video": false,
+  "vote_average": 5.0,
+  "vote_count": 139
+}

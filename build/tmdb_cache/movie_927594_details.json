@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/8FgFpyqpm5XZ8JpYXv6iHyQ7lKa.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://mk2films.com/en/film/love-life/",
+  "id": 927594,
+  "imdb_id": "tt18235306",
+  "origin_country": [
+    "JP",
+    "FR"
+  ],
+  "original_language": "ja",
+  "original_title": "LOVE LIFE",
+  "overview": "Taeko and her husband, Jirō, are living a peaceful existence with her young son, Keita, when a tragic accident brings the boy's long-lost father, Park, back into her life. To cope with the pain and guilt, Taeko throws herself into helping this deaf and homeless man.",
+  "popularity": 4.6235,
+  "poster_path": "/5OSTURpAJCFsUydL6w4JPx48SSQ.jpg",
+  "production_companies": [
+    {
+      "id": 159459,
+      "logo_path": null,
+      "name": "Chipangu",
+      "origin_country": ""
+    },
+    {
+      "id": 81418,
+      "logo_path": "/kW9bMQqnMFtPHvdoyCDpRqh7Gxt.png",
+      "name": "Nagoya Broadcasting Network",
+      "origin_country": "JP"
+    },
+    {
+      "id": 7003,
+      "logo_path": "/Ar3mtT0DfdXng0Bg4OxarqukBIt.png",
+      "name": "Comme des Cinémas",
+      "origin_country": "FR"
+    },
+    {
+      "id": 6274,
+      "logo_path": "/ngZoa368SAnERTz3IBvgTT4eWeB.png",
+      "name": "MK2 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 4748,
+      "logo_path": "/bTMeosrSiKaTPmZiTYnSDZlin5d.png",
+      "name": "Oscilloscope",
+      "origin_country": "US"
+    },
+    {
+      "id": 34951,
+      "logo_path": "/ltl63eccTZ7shohTrNE8ZHRNJlN.png",
+      "name": "Stardust Pictures",
+      "origin_country": "JP"
+    },
+    {
+      "id": 3031,
+      "logo_path": "/2JcgVKZ1gEY5RsLJU1CGj1MaKFj.png",
+      "name": "The Asahi Shimbun",
+      "origin_country": "JP"
+    },
+    {
+      "id": 88224,
+      "logo_path": "/uNtkgY8xtAvVwzqkgKF8AJAPyYh.png",
+      "name": "Elephant House",
+      "origin_country": "JP"
+    },
+    {
+      "id": 255548,
+      "logo_path": null,
+      "name": "Lotus Wise Partners",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2022-09-09",
+  "revenue": 1782,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love Life",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 98
+}

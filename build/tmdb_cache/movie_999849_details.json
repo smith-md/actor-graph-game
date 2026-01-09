@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": "/sCAs35ZZTyXMidOIR3hGuhcMmPi.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 999849,
+  "imdb_id": "tt21284442",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Late Bloomers",
+  "overview": "Louise, an aimless, 28 year-old Brooklynite, recently single, sort of a musician, depressed without admitting to it, drunkenly falls while doing something stupid and breaks her hip. This lands her in a physical therapy ward full of people twice her age. There, she meets Antonina - a cranky elderly Polish woman, who speaks no English. Louise gets a job caring for her. Neither woman loves the arrangement but it’s time to face the truth about aging. We all have to grow up sometime.",
+  "popularity": 3.4414,
+  "poster_path": "/3SOHdbnArnILAkv07X0f6uCRBxf.jpg",
+  "production_companies": [
+    {
+      "id": 13466,
+      "logo_path": "/d2ewBAUkCGeYMj6bv2Z9PkzL5OA.png",
+      "name": "Park Pictures Features",
+      "origin_country": "US"
+    },
+    {
+      "id": 178767,
+      "logo_path": "/4gTgCahSwRvdu3jHIrm5dIvMdXw.png",
+      "name": "We're Doin Great",
+      "origin_country": "US"
+    },
+    {
+      "id": 178768,
+      "logo_path": null,
+      "name": "Fierce Optimism Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 161406,
+      "logo_path": "/8nKTrAIhB5OnrcFOEOZk1aS5z7v.png",
+      "name": "World of HA Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 18346,
+      "logo_path": "/wZT3JBshK7M7ChquboLlPyV9L0p.png",
+      "name": "Burn Later Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 178770,
+      "logo_path": "/qZQVSMycwH4m7v7sQYbJcbkNCYE.png",
+      "name": "MM2 Asia Productions",
+      "origin_country": "SG"
+    },
+    {
+      "id": 153887,
+      "logo_path": "/tMNMRoFonVfUYhb7BAYYxilgpYD.png",
+      "name": "Good Gravy Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 178771,
+      "logo_path": "/zn4pNtfFnecGGMzX7UKEnSfnyzM.png",
+      "name": "Bindery Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-06-07",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You’re never too old to come of age.",
+  "title": "Late Bloomers",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 25
+}

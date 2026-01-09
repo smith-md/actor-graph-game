@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/3DLMjKZUctOUsTaUbU3AE2nRemH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 926924,
+  "imdb_id": "tt15523334",
+  "origin_country": [
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "¡Vaya vacaciones!",
+  "overview": "It tells the story of Manuela and José. Even though they are delighted with taking care of their grandchildren, they are a bit fed up with no longer having time to dedicate to themselves.",
+  "popularity": 3.1235,
+  "poster_path": "/4Ji9EP9bdyftAhGWNd1560Z5F1d.jpg",
+  "production_companies": [
+    {
+      "id": 21632,
+      "logo_path": "/gEto1Q487D4JPriz2qVfkkvyqjy.png",
+      "name": "Mediaset España",
+      "origin_country": "ES"
+    },
+    {
+      "id": 33803,
+      "logo_path": null,
+      "name": "Aliwood Mediterráneo Producciones",
+      "origin_country": ""
+    },
+    {
+      "id": 67412,
+      "logo_path": "/vgVqq5hunVs8GN5Je9d9rG7Q2NU.png",
+      "name": "Movistar Plus+",
+      "origin_country": "ES"
+    },
+    {
+      "id": 85588,
+      "logo_path": "/f2KG2yn1wWkYDsM2w6xvL8EZsSa.png",
+      "name": "Quexito Films",
+      "origin_country": "ES"
+    },
+    {
+      "id": 237706,
+      "logo_path": null,
+      "name": "Creced y Multiplicaos",
+      "origin_country": "ES"
+    },
+    {
+      "id": 2674,
+      "logo_path": "/bkgwJWvqqLuzsXV2Qv3Mg3wfcNZ.png",
+      "name": "Telecinco Cinema",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2023-04-21",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "One Hell of a Holiday!",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 28
+}

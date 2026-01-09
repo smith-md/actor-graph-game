@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/4WaqsTQUhGzRRuuY7FXPVM1lLda.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 38291,
+  "imdb_id": "tt0085478",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Educating Rita",
+  "overview": "Rita, a witty 26-year-old hairdresser, wants to 'discover' herself, so she joins the Open University where she meets the disillusioned professor of literature, Dr. Frank Bryant. His marriage has failed, his new girlfriend is having an affair with his best friend and he can't get through the day without downing a bottle or two of whisky. What Frank needs is a challenge... and along comes Rita.",
+  "popularity": 2.713,
+  "poster_path": "/xwxgiRzw2zxzWNIYp98faJ0rUy5.jpg",
+  "production_companies": [
+    {
+      "id": 32843,
+      "logo_path": null,
+      "name": "Acorn Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 364,
+      "logo_path": null,
+      "name": "The Rank Organisation",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1983-06-16",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sometimes students end up being the best teachers.",
+  "title": "Educating Rita",
+  "video": false,
+  "vote_average": 6.829,
+  "vote_count": 199
+}

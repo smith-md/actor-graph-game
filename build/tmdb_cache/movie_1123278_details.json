@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/5yZIKAPCjqm8t2r19vlzuasxbOP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1123278,
+  "imdb_id": "tt27676959",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Lazareth",
+  "overview": "Lee is an aunt whose life mission is to protect her orphaned nieces, Imogen and Maeve, from a self-destructing world, raising them in isolation until an outsider threatens their peaceful existence.",
+  "popularity": 5.3821,
+  "poster_path": "/36o8ancoKDKW1sstzMi0YYkQkpU.jpg",
+  "production_companies": [
+    {
+      "id": 20312,
+      "logo_path": "/iYmytRQt5jqlBIEaMQ0Cb6iAHh8.png",
+      "name": "TPC",
+      "origin_country": "US"
+    },
+    {
+      "id": 188570,
+      "logo_path": null,
+      "name": "The Barnum Picture Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-05-10",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Lazareth must be protected at any cost.",
+  "title": "Lazareth",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 46
+}

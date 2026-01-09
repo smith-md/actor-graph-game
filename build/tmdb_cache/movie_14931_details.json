@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/tkMPZ6sPmK2SH93Nkkc9qb5UwnC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 14931,
+  "imdb_id": "tt0100143",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Miami Blues",
+  "overview": "After Junior is released from prison, he plans on starting a new life in Miami. But when he kills a man in the airport, he flees the scene and finds Susie, a mild-mannered prostitute searching for stability. The two opposites become romantically involved, and Junior steals a badge and gun from a veteran detective. Using the officer's identity, Junior embarks on a crime spree and convinces Susie that he is the perfect man.",
+  "popularity": 3.2811,
+  "poster_path": "/eOqOf2qG0sjsfhFdYp6SbZuorSF.jpg",
+  "production_companies": [
+    {
+      "id": 41,
+      "logo_path": "/em0rOXVRu3qprWZCx58uDDV2fze.png",
+      "name": "Orion Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3002,
+      "logo_path": null,
+      "name": "Tristes Tropiques",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-04-20",
+  "revenue": 9888167,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Real badge. Real gun. Fake cop.",
+  "title": "Miami Blues",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 207
+}

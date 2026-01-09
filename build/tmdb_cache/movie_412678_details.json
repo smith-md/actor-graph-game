@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/op8VP5bKaRSKO7MxDi4BKOuAeKL.jpg",
+  "belongs_to_collection": null,
+  "budget": 7000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 412678,
+  "imdb_id": "tt4949290",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Killing Salazar",
+  "overview": "An elite team of DEA agents are assigned to protect a dangerous drug lord and take refuge in a luxury hotel while they await extraction. They soon find themselves at the center of an ambush as the drug lord's former associates launch an explosive assault on the hotel.",
+  "popularity": 3.9608,
+  "poster_path": "/2J7jc9VZroyf4rFlyWJ0mIreu2A.jpg",
+  "production_companies": [
+    {
+      "id": 80712,
+      "logo_path": null,
+      "name": "Action House",
+      "origin_country": ""
+    },
+    {
+      "id": 80713,
+      "logo_path": "/7pcqQVviN7Uao9B1h850ek65EPJ.png",
+      "name": "Daro Film Distribution",
+      "origin_country": "MC"
+    },
+    {
+      "id": 80714,
+      "logo_path": null,
+      "name": "24TL Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RO",
+      "name": "Romania"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-01-23",
+  "revenue": 37766,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In this game, there is only one king.",
+  "title": "Killing Salazar",
+  "video": false,
+  "vote_average": 4.927,
+  "vote_count": 62
+}

@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/c6wTuTMEl0ffnZyzozNiw08Ocnl.jpg",
+  "belongs_to_collection": {
+    "id": 362848,
+    "name": "A Chinese Torture Chamber Story Collection",
+    "poster_path": "/hles52TcXlTIGDacT1LFYso9rXT.jpg",
+    "backdrop_path": "/kNrQhWvxYLU7rlBF3x9CdhLghOi.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 32629,
+  "imdb_id": "tt0113757",
+  "origin_country": [
+    "HK"
+  ],
+  "original_language": "cn",
+  "original_title": "滿清十大酷刑",
+  "overview": "A corrupt magistrate subjects a innocent young bride to inconceivable physical punishments after convicting her of killing her husband.",
+  "popularity": 4.0097,
+  "poster_path": "/wbMoB0gCTA9oKz75YuE8szcCjfJ.jpg",
+  "production_companies": [
+    {
+      "id": 89807,
+      "logo_path": null,
+      "name": "Wong Jing's Workshop Ltd.",
+      "origin_country": "HK"
+    },
+    {
+      "id": 2521,
+      "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+      "name": "Orange Sky Golden Harvest",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "1994-05-19",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Chinese Torture Chamber Story",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 68
+}

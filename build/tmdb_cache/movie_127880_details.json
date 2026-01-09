@@ -1,0 +1,128 @@
+{
+  "adult": false,
+  "backdrop_path": "/yZkIWGk7easNUNOag67dqc6irmd.jpg",
+  "belongs_to_collection": null,
+  "budget": 1009653,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 127880,
+  "imdb_id": "tt1726888",
+  "origin_country": [
+    "AR",
+    "BR",
+    "ES"
+  ],
+  "original_language": "es",
+  "original_title": "Infancia clandestina",
+  "overview": "Juan lives in clandestinity. Just like his mum, his dad and his adored uncle Beto, outside his home he has another name. At school, Juan is known as Ernesto. And he meets María, who only has one name. Based on true events, set in the Argentina of 1979, this film is one about love.",
+  "popularity": 4.7429,
+  "poster_path": "/f9kD66dPRbJZYZkw1jCU4ubCjCC.jpg",
+  "production_companies": [
+    {
+      "id": 79898,
+      "logo_path": null,
+      "name": "Historias Cinematográficas",
+      "origin_country": "AR"
+    },
+    {
+      "id": 51371,
+      "logo_path": "/jOmeNjQU80uaphI5MdTvmAqN5MV.png",
+      "name": "Habitación 1520 Producciones",
+      "origin_country": "AR"
+    },
+    {
+      "id": 7526,
+      "logo_path": null,
+      "name": "TV Pública/RTA",
+      "origin_country": ""
+    },
+    {
+      "id": 34716,
+      "logo_path": null,
+      "name": "Antàrtida Produccions",
+      "origin_country": ""
+    },
+    {
+      "id": 87456,
+      "logo_path": "/qCt0OTlEeX6ERSQIHcpiElYnhau.png",
+      "name": "Academia de Filmes",
+      "origin_country": "BR"
+    },
+    {
+      "id": 65091,
+      "logo_path": "/7D7JB71JEiWigcRwkUawvukMocx.png",
+      "name": "Programa Ibermedia",
+      "origin_country": "ES"
+    },
+    {
+      "id": 981,
+      "logo_path": "/pkrdO9ykplO4Zc8edikoSX5APUN.png",
+      "name": "TVE",
+      "origin_country": "ES"
+    },
+    {
+      "id": 11547,
+      "logo_path": "/kyOeH5CwsaILcJItafIMAM4KElB.png",
+      "name": "Agência Nacional do Cinema - ANCINE",
+      "origin_country": "BR"
+    },
+    {
+      "id": 6458,
+      "logo_path": "/eT4oMUK7ODM0vvZue8yq3Ojwqf8.png",
+      "name": "INCAA",
+      "origin_country": "AR"
+    },
+    {
+      "id": 201633,
+      "logo_path": "/6Ox2aOmqNP6vEmlh02fqygwOkeE.png",
+      "name": "Instituto de la Cinematografía y de las Artes Audiovisuales",
+      "origin_country": "ES"
+    },
+    {
+      "id": 121259,
+      "logo_path": null,
+      "name": "TVP",
+      "origin_country": "AR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    }
+  ],
+  "release_date": "2012-09-16",
+  "revenue": 1212354,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Clandestine Childhood",
+  "video": false,
+  "vote_average": 6.9,
+  "vote_count": 59
+}

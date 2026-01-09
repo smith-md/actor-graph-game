@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/f43mO9U6ohYQT8UYsaLUwQ2PT6i.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 13818,
+  "imdb_id": "tt0091188",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Heartburn",
+  "overview": "She's a magazine writer who gives up her career for love and family. He's a playboy newspaper columnist who can't quite give up his old tricks. And if that combination doesn't give a relationship heartburn, nothing will.",
+  "popularity": 3.3336,
+  "poster_path": "/pF1uPAi9TWRSRLf9SHfIDQle2NK.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-07-25",
+  "revenue": 52600000,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sex. Love. Marriage. Some people don't know when to quit.",
+  "title": "Heartburn",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 205
+}

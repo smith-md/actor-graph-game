@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/4js6VLf6qHWUbW42BpXiQKPBP7t.jpg",
+  "belongs_to_collection": {
+    "id": 9380,
+    "name": "An American Werewolf Collection",
+    "poster_path": "/lFAGG96X7iMG26Oxytq2IkEgQqJ.jpg",
+    "backdrop_path": "/Aa3snJ9wKKNkqjU4tAt3Kn4AL2U.jpg"
+  },
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 814,
+  "imdb_id": "tt0082010",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "An American Werewolf in London",
+  "overview": "American tourists David and Jack are savagely attacked by an unidentified animal while hiking on the Yorkshire Moors. After retiring to the home of a beautiful nurse to recuperate, David soon begins experiencing disturbing changes to his body and mind.",
+  "popularity": 4.0419,
+  "poster_path": "/hVEqUASJmCQaolkKFEySCHZ8uKG.jpg",
+  "production_companies": [
+    {
+      "id": 607,
+      "logo_path": null,
+      "name": "Lyncanthrope Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 67889,
+      "logo_path": "/rgEZCUJeQFyVyOdXdSLSa9BsEq4.png",
+      "name": "Polygram Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1981-08-21",
+  "revenue": 31973249,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "From the director of Animal House... a different kind of animal.",
+  "title": "An American Werewolf in London",
+  "video": false,
+  "vote_average": 7.397,
+  "vote_count": 2614
+}

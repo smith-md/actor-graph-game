@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/tEhvOU8nJp4v9goYwrJTASJJD3C.jpg",
+  "belongs_to_collection": null,
+  "budget": 6200000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://mk2films.com/en/film/la-pianiste/",
+  "id": 1791,
+  "imdb_id": "tt0254686",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Pianiste",
+  "overview": "Erika Kohut, a sexually repressed piano teacher living with her domineering mother, meets a young man who starts romantically pursuing her.",
+  "popularity": 3.9704,
+  "poster_path": "/gNHKYQnP1RnqEhkivHJzBPb4MOP.jpg",
+  "production_companies": [
+    {
+      "id": 224,
+      "logo_path": "/fCv129CE3olInpdEiOWcC5s2YbQ.png",
+      "name": "Wega Film",
+      "origin_country": "AT"
+    },
+    {
+      "id": 6274,
+      "logo_path": "/ngZoa368SAnERTz3IBvgTT4eWeB.png",
+      "name": "MK2 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 635,
+      "logo_path": "/ikp5Hokscs88jMWSkM9dB98U3Ak.png",
+      "name": "Les Films Alain Sarde",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    }
+  ],
+  "release_date": "2001-09-05",
+  "revenue": 6766708,
+  "runtime": 131,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Piano Teacher",
+  "video": false,
+  "vote_average": 7.253,
+  "vote_count": 1211
+}

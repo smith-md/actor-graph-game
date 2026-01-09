@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/677kz71I1J0uHXVBZpsH9XuEVT1.jpg",
+  "belongs_to_collection": null,
+  "budget": 100000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.screenireland.ie/directory/view/44/borstal-boy/archive",
+  "id": 24309,
+  "imdb_id": "tt0221838",
+  "origin_country": [
+    "IE",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Borstal Boy",
+  "overview": "Brendan Behan, a sixteen year-old IRA foot soldier, is going on a bombing mission from Ireland to Liverpool during the second world war. His mission is thwarted when he is apprehended, charged and imprisoned in Borstal, a reform institution for young offenders in East Anglia, England.",
+  "popularity": 4.7062,
+  "poster_path": "/1wtBSqyuRqiab8Bfdp38FngbIje.jpg",
+  "production_companies": [
+    {
+      "id": 16105,
+      "logo_path": null,
+      "name": "Dakota Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2307,
+      "logo_path": "/owHyONluEVR9YdJtJv3XfTacKWD.png",
+      "name": "Hell's Kitchen",
+      "origin_country": "IE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "IE",
+      "name": "Ireland"
+    }
+  ],
+  "release_date": "2001-03-22",
+  "revenue": 87400,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "Irish",
+      "iso_639_1": "ga",
+      "name": "Gaeilge"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "As a prisoner of war it is my duty to escape.",
+  "title": "Borstal Boy",
+  "video": false,
+  "vote_average": 6.143,
+  "vote_count": 49
+}

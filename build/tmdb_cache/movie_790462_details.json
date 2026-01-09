@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/cw8YicokMa3okekWq2rJT8Hccaz.jpg",
+  "belongs_to_collection": null,
+  "budget": 13800000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://bleeckerstreetmedia.com/i-s-s",
+  "id": 790462,
+  "imdb_id": "tt13655120",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "I.S.S.",
+  "overview": "Tensions flare in the near future aboard the International Space Station as a conflict breaks out on Earth. U.S. and Russian astronauts receive orders from the ground: take control of the station by any means necessary.",
+  "popularity": 3.3944,
+  "poster_path": "/blPAS2HZcOGLTREbUeNIWmz0B6f.jpg",
+  "production_companies": [
+    {
+      "id": 8533,
+      "logo_path": "/5jxaT7zoJKtnwqxniiJ9iJLsJru.png",
+      "name": "LD Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-01-19",
+  "revenue": 6605079,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The war on earth will be decided in space.",
+  "title": "I.S.S.",
+  "video": false,
+  "vote_average": 5.802,
+  "vote_count": 349
+}

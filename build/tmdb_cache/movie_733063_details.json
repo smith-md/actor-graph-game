@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/jmoDv23znao8d7W5GRXUYxGTFhx.jpg",
+  "belongs_to_collection": {
+    "id": 993131,
+    "name": "Jailangkung Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 733063,
+  "imdb_id": "tt21600496",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "Jailangkung: Sandekala",
+  "overview": "The supernatural terror centers on a small family consisting of Adrian and his wife Sandra, along with their two children, Niki and Kinan, who are on vacation out of town.",
+  "popularity": 3.7803,
+  "poster_path": "/rrAG3nzfG4pNkmTZTSxBAespWyD.jpg",
+  "production_companies": [
+    {
+      "id": 104946,
+      "logo_path": "/qwq74morPMzy1QzkxUqhbrelDfu.png",
+      "name": "Sky Media",
+      "origin_country": "ID"
+    },
+    {
+      "id": 7872,
+      "logo_path": "/5zodgZbBTlY5PAviS6KxOCyOlGH.png",
+      "name": "Rapi Films",
+      "origin_country": "ID"
+    },
+    {
+      "id": 46840,
+      "logo_path": "/y5TYYZWMM6CoNyAMMRL9lJA10yD.png",
+      "name": "Legacy Pictures",
+      "origin_country": "ID"
+    },
+    {
+      "id": 118168,
+      "logo_path": null,
+      "name": "Nimpuna Sinema",
+      "origin_country": ""
+    },
+    {
+      "id": 7036,
+      "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+      "name": "CJ Entertainment",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    },
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2022-09-22",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Jailangkung: Sandekala",
+  "video": false,
+  "vote_average": 6.571,
+  "vote_count": 28
+}

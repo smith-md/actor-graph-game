@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/9pdoEzieGdUTlRWTAO7QP8q1tIo.jpg",
+  "belongs_to_collection": null,
+  "budget": 9500000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1137179,
+  "imdb_id": "tt35851026",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "야당",
+  "overview": "Navigating both the criminal underworld and law enforcement agencies, professional snitches called \"yadang\" provide covert information about the drug world to prosecutors and police. When a drug bust at a party attended by high-profile second-generation VIPs entangles those involved into a dangerous conspiracy, a seasoned yadang must do everything in his power not just to make it out on top, but alive.",
+  "popularity": 119.1239,
+  "poster_path": "/y7dsDbG8zVWkrkyOhA6ckZXX1uC.jpg",
+  "production_companies": [
+    {
+      "id": 108532,
+      "logo_path": "/lHzoqEuTPHwKSFiBx9skKpp9vCc.png",
+      "name": "Hive Media Corp",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2025-04-16",
+  "revenue": 24508523,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Blowing the nation's  drug scene wide open.",
+  "title": "Yadang: The Snitch",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 31
+}

@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/8rcAwVaI05t42pUR7EcF2LfKugV.jpg",
+  "belongs_to_collection": null,
+  "budget": 2500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 94901,
+  "imdb_id": "tt1945062",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "About Cherry",
+  "overview": "18-year-old Angelina shuffles between school, a dead-end job, her exploitative boyfriend, and home, where her life consists of cleaning up after her alcoin holic mother and protecting her younger sister from their menacing stepfather. After arranging an escape to San Francisco with her best friend Andrew, she soon finds herself dating a coke-addicted attorney and becoming immersed in the local porn industry, mentored by lesbian director Margaret, who has more than just a professional interest in Angelina's talents.",
+  "popularity": 5.2137,
+  "poster_path": "/gl6Q7GwDnwHDNd1emmQBoyUKiwB.jpg",
+  "production_companies": [
+    {
+      "id": 307,
+      "logo_path": "/gUi3pAUznQJpR296lw4mSVbB7zx.png",
+      "name": "IFC FIlms",
+      "origin_country": "US"
+    },
+    {
+      "id": 21608,
+      "logo_path": "/8T1IRxvzcTr7NWhobIKXBMCkUiY.png",
+      "name": "Enderby Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 207239,
+      "logo_path": null,
+      "name": "Visualiner Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 12876,
+      "logo_path": null,
+      "name": "Gordon Bijelonic / Datari Turner Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2012-02-14",
+  "revenue": 8315,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There's No Such Thing As Going Too Far.",
+  "title": "About Cherry",
+  "video": false,
+  "vote_average": 4.623,
+  "vote_count": 310
+}

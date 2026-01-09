@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/1hCwhL4zmMDJI8YAe9XYrN2kDAJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 3586,
+  "imdb_id": "tt0110907",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Prêt-à-Porter",
+  "overview": "During Paris Fashion Week, models, designers and industry hot shots gather to work, mingle, argue and try to seduce one another.",
+  "popularity": 2.9223,
+  "poster_path": "/h0eJN4Dj5DhB4QtERMDK3VTOBuJ.jpg",
+  "production_companies": [
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-12-23",
+  "revenue": 11300653,
+  "runtime": 133,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sex. Greed. Murder. Some things never go out of style.",
+  "title": "Prêt-à-Porter",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 223
+}

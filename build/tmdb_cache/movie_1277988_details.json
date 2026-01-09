@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/wBV11KLQcp5pyxl8JW1lBaDshqr.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81702623",
+  "id": 1277988,
+  "imdb_id": "tt32549601",
+  "origin_country": [
+    "BR"
+  ],
+  "original_language": "pt",
+  "original_title": "Caramelo",
+  "overview": "After a life-changing diagnosis, a promising chef finds hope and humor with the help of a fur-midable dog friend.",
+  "popularity": 7.8561,
+  "poster_path": "/c4ZEAah5a01cu27w7vT2IAoFogk.jpg",
+  "production_companies": [
+    {
+      "id": 54386,
+      "logo_path": "/pqbhVbxp2qLqILbJf1XMxt6Cmq9.png",
+      "name": "Migdal Filmes",
+      "origin_country": "BR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    }
+  ],
+  "release_date": "2025-10-07",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Caramelo",
+  "video": false,
+  "vote_average": 7.717,
+  "vote_count": 230
+}

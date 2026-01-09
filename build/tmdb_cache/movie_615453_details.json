@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/k1pJslKr4aDayw9kWwWnlC3MIP3.jpg",
+  "belongs_to_collection": {
+    "id": 1449595,
+    "name": "Ne Zha Collection",
+    "poster_path": "/uY4ICaCkGIbDgiu7quRz5kfZXda.jpg",
+    "backdrop_path": "/kazABXcuhF5AdpdjlWQQCH8iUyR.jpg"
+  },
+  "budget": 22000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.wellgousa.com/films/ne-zha",
+  "id": 615453,
+  "imdb_id": "tt10627720",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "哪吒之魔童降世",
+  "overview": "A young boy is born as the reincarnation of a demonic power, into a society that hates and fears him. Destined by prophecy to bring destruction to the world, Nezha must choose between good and evil to see if he can change his fate.",
+  "popularity": 19.0697,
+  "poster_path": "/phM9bb6s9c60LA8qwsdk7U1N2cS.jpg",
+  "production_companies": [
+    {
+      "id": 17818,
+      "logo_path": "/tqImejhMUsOuuKCX2cySzaO7QTj.png",
+      "name": "Beijing Enlight Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 121042,
+      "logo_path": "/c8y6syie4YoN4Pzz62Lvu11UNz0.png",
+      "name": "Horgos Coloroom Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 153486,
+      "logo_path": "/389mBiWxOR04XM8233qcRFfx9TN.png",
+      "name": "October Media",
+      "origin_country": "CN"
+    },
+    {
+      "id": 167789,
+      "logo_path": null,
+      "name": "Chengdu Coco Cartoon",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2019-07-26",
+  "revenue": 742718496,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fight your fate",
+  "title": "Ne Zha",
+  "video": false,
+  "vote_average": 7.877,
+  "vote_count": 767
+}

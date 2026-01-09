@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/hZiVR0mn81iyYnRQNw7gGRaHkw8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 829038,
+  "imdb_id": "tt13380324",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Night Shift",
+  "overview": "A young woman working her first night shift at a remote motel begins to suspect that she is being followed by a dangerous character from her past. As the night progresses and increasingly supernatural  events occur, she quickly finds out that nothing is what it appears to be.",
+  "popularity": 4.631,
+  "poster_path": "/shsdw00R6RwkGsUmT7O5cKhmLqv.jpg",
+  "production_companies": [
+    {
+      "id": 109294,
+      "logo_path": "/exzVzwYDJjcc3KMB4Ox3Tl2mQX8.png",
+      "name": "Defiant Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 24021,
+      "logo_path": "/urq2p5ColCf657b5nOmBpBOrjyv.png",
+      "name": "Jax Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 96571,
+      "logo_path": "/psHQ7ArAzRZuXkr1jGJC20tJRlf.png",
+      "name": "Bradley Pilz Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 90761,
+      "logo_path": "/uPcwljtUrpoeRiXI4vpDsvqWiqP.png",
+      "name": "Kodiak Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-03-03",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Fear never sleeps.",
+  "title": "Night Shift",
+  "video": false,
+  "vote_average": 6.176,
+  "vote_count": 111
+}

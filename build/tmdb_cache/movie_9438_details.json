@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/ynSNDPkOPNWStSzVsj3CZ6NT6F5.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 9438,
+  "imdb_id": "tt0119718",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mr. Magoo",
+  "overview": "Mr. Magoo, a man with terrible eyesight, gets caught up in a museum robbery.",
+  "popularity": 4.4725,
+  "poster_path": "/po5CfSBmmATuCNIt7M1G7xOPuUK.jpg",
+  "production_companies": [
+    {
+      "id": 2,
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1997-12-25",
+  "revenue": 75000000,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You won't believe your eyes.",
+  "title": "Mr. Magoo",
+  "video": false,
+  "vote_average": 4.46,
+  "vote_count": 405
+}

@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/axSW4BIn5tGsBvjRu6VDCfsqWZh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 804046,
+  "imdb_id": "tt8657270",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Fear",
+  "overview": "A lethal virus forces humanity to remote regions for survival, one family fights to try to save its children from a band of marauders bent on revenge.",
+  "popularity": 5.1791,
+  "poster_path": "/yrDI5AQeevDulhcVTgHKTObXHCG.jpg",
+  "production_companies": [
+    {
+      "id": 153302,
+      "logo_path": null,
+      "name": "Action Figure Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 153727,
+      "logo_path": null,
+      "name": "Fort Night Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-04-26",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They won't stay dead.",
+  "title": "Fear",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 20
+}

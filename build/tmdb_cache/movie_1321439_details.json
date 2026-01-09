@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/i8QHgJKnsd8csNBo8fH9wYW2Y9E.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81700163",
+  "id": 1321439,
+  "imdb_id": "tt33039440",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Wrong Paris",
+  "overview": "Dawn thinks she's joining a dating show in Paris, France, only to land in Paris, Texas. She has an exit plan — until sparks fly with the cowboy bachelor.",
+  "popularity": 4.4388,
+  "poster_path": "/A0KRoR842OgNByCfw9iFHbWoeR9.jpg",
+  "production_companies": [
+    {
+      "id": 2090,
+      "logo_path": "/jYlUttNqcN5u1pzMQrh5AEhZ27t.png",
+      "name": "Motion Picture Corporation of America",
+      "origin_country": "US"
+    },
+    {
+      "id": 278708,
+      "logo_path": null,
+      "name": "Brad Krevoy Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-11",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Romance gets a Texas-sized reality check.",
+  "title": "The Wrong Paris",
+  "video": false,
+  "vote_average": 6.681,
+  "vote_count": 268
+}

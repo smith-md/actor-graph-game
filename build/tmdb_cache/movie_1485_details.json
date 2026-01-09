@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/1jUECFiy3gNvXL6x010VQnkqrZ2.jpg",
+  "belongs_to_collection": null,
+  "budget": 1814462,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.getcarterfilm.co.uk/",
+  "id": 1485,
+  "imdb_id": "tt0067128",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Get Carter",
+  "overview": "Jack Carter is a small-time hood working in London. When word reaches him of his brother's death, he travels to Newcastle to attend the funeral. Refusing to accept the police report of suicide, Carter seeks out his brother’s friends and acquaintances to learn who murdered his sibling and why.",
+  "popularity": 3.2911,
+  "poster_path": "/sc35sDbREB1Yv509jfbirOjtEUC.jpg",
+  "production_companies": [
+    {
+      "id": 5579,
+      "logo_path": "/p3vXYhkpbws0QrdSAwI98ONX7Po.png",
+      "name": "Metro-Goldwyn-Mayer British Studios",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1971-02-03",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "What happens when a professional killer violates the code? Get Carter!",
+  "title": "Get Carter",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 539
+}

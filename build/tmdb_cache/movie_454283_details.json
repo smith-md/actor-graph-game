@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/3ldiRRggT4CC38jEE4gqVgTUhVM.jpg",
+  "belongs_to_collection": null,
+  "budget": 19000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.paramount.com/movies/action-point",
+  "id": 454283,
+  "imdb_id": "tt6495770",
+  "origin_country": [
+    "ZA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Action Point",
+  "overview": "A daredevil designs and operates his own theme park with his friends.",
+  "popularity": 3.6873,
+  "poster_path": "/5lqJx0uNKrD1cEKgaqF1LBsLAoi.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 975,
+      "logo_path": "/fknQoaiVO632mD4QMdJFmP3Gbda.png",
+      "name": "Gerber Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-06-01",
+  "revenue": 5059608,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Real Stunts. Real Thrills. Real Messed Up.",
+  "title": "Action Point",
+  "video": false,
+  "vote_average": 5.458,
+  "vote_count": 356
+}

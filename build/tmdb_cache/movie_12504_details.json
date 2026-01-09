@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/roLOinUoMpksR4D7Cmz7oQPaTwC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 12504,
+  "imdb_id": "tt0085900",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Le Marginal",
+  "overview": "Philippe Jordan is a policeman prone to advancing the cause of justice by any means necessary. On his agenda is a powerful drug cartel working out of Paris and Marseilles, with a drug lord who is essentially inaccessible -- but not immortal.",
+  "popularity": 4.4965,
+  "poster_path": "/li1IrkJldDlHNm8DtcA79b251fS.jpg",
+  "production_companies": [
+    {
+      "id": 7110,
+      "logo_path": null,
+      "name": "Les Films Ariane",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10784,
+      "logo_path": null,
+      "name": "Cerito Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1983-10-26",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Outsider",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 215
+}

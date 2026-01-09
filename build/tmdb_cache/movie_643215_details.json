@@ -1,0 +1,106 @@
+{
+  "adult": false,
+  "backdrop_path": "/n9wlAmb4vEgZHghtqsXXj95PocJ.jpg",
+  "belongs_to_collection": {
+    "id": 2396,
+    "name": "Asterix & Obelix Live-action Collection",
+    "poster_path": "/AlUO83mpTu9OBOnEiwVgZJoeVvs.jpg",
+    "backdrop_path": "/qDuW7l81vwgFAtjISG6Y0m1Pv48.jpg"
+  },
+  "budget": 72000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81389022",
+  "id": 643215,
+  "imdb_id": "tt11210390",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Astérix & Obélix : L'Empire du Milieu",
+  "overview": "Gallic heroes and forever friends Asterix and Obelix journey to China to help Princess Sa See save the Empress and her land from a nefarious prince.",
+  "popularity": 5.0697,
+  "poster_path": "/ifOqT5SmA4ANjmyEacLw3KAFKUd.jpg",
+  "production_companies": [
+    {
+      "id": 20409,
+      "logo_path": "/4zc3s2aIeZQfUVxrhr2JJ7TyzFn.png",
+      "name": "Les Éditions Albert René",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83068,
+      "logo_path": null,
+      "name": "Les Enfants Terribles",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7981,
+      "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+      "name": "Pathé",
+      "origin_country": "FR"
+    },
+    {
+      "id": 120768,
+      "logo_path": "/ccHWgGgU03FvvhPNgGmdzddNLTN.png",
+      "name": "Trésor Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11773,
+      "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+      "name": "Artémis Productions",
+      "origin_country": "BE"
+    },
+    {
+      "id": 175064,
+      "logo_path": null,
+      "name": "White and Yellow Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2023-02-01",
+  "revenue": 46497678,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Asterix & Obelix: The Middle Kingdom",
+  "video": false,
+  "vote_average": 4.838,
+  "vote_count": 1129
+}

@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/1nn7nCFRTKeWOXbtjrFxfSvf1EI.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "https://www.focusfeatures.com/the-ballad-of-wallis-island",
+  "id": 1122099,
+  "imdb_id": "tt27674982",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Ballad of Wallis Island",
+  "overview": "An eccentric lottery winner who lives alone on a remote island tries to make his fantasies come true by getting his favourite musicians to perform at his home.",
+  "popularity": 3.3959,
+  "poster_path": "/CBG77EwlLhxTb1yKoO4DTUGMM1.jpg",
+  "production_companies": [
+    {
+      "id": 1219,
+      "logo_path": "/6OGqCShROjIvmBOfRbeUsn7im93.png",
+      "name": "Baby Cow Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 19375,
+      "logo_path": null,
+      "name": "Moxie Pictures",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-03-28",
+  "revenue": 736965,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's getting the band back together.",
+  "title": "The Ballad of Wallis Island",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 129
+}

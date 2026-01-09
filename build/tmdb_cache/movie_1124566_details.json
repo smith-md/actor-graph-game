@@ -1,0 +1,180 @@
+{
+  "adult": false,
+  "backdrop_path": "/vRoIogTQDO5yAmTmH5uGrlPfS0N.jpg",
+  "belongs_to_collection": null,
+  "budget": 7800000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.neonrated.com/film/sentimental-value",
+  "id": 1124566,
+  "imdb_id": "tt27714581",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "no",
+  "original_title": "Affeksjonsverdi",
+  "overview": "Sisters Nora and Agnes reunite with their estranged father, the charismatic Gustav, a once-renowned director who offers stage actress Nora a role in what he hopes will be his comeback film. When Nora turns it down, she soon discovers he has given her part to an eager young Hollywood star.",
+  "popularity": 20.0879,
+  "poster_path": "/dNy7iCibnVTJuvosArcDEdbruBT.jpg",
+  "production_companies": [
+    {
+      "id": 21979,
+      "logo_path": "/pVdOYVNJracFdcEsDihqz3VSZ0U.png",
+      "name": "Mer Film",
+      "origin_country": "NO"
+    },
+    {
+      "id": 199028,
+      "logo_path": "/eIdSKNL7OLCxIEtZRqebD1uLKDL.png",
+      "name": "Eye Eye Pictures",
+      "origin_country": "NO"
+    },
+    {
+      "id": 259543,
+      "logo_path": null,
+      "name": "Lumen",
+      "origin_country": "FR"
+    },
+    {
+      "id": 76,
+      "logo_path": "/nebkQYtQKhZyHJfh5v0oGpNbPzu.png",
+      "name": "Zentropa Entertainments",
+      "origin_country": "DK"
+    },
+    {
+      "id": 1618,
+      "logo_path": "/dacmPYkpGE9Mbu2dqG2sFTXpsqr.png",
+      "name": "Komplizen Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 189258,
+      "logo_path": "/i77SPCRCRDsFffKvcosikw4dhpP.png",
+      "name": "Oslo Filmfond",
+      "origin_country": "NO"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 218924,
+      "logo_path": null,
+      "name": "Mediefondet Zefyr",
+      "origin_country": "NO"
+    },
+    {
+      "id": 226500,
+      "logo_path": "/lN6tX0sC8QcKPh4CfpqKeZeyIC.png",
+      "name": "Alaz Film",
+      "origin_country": "TR"
+    },
+    {
+      "id": 49936,
+      "logo_path": null,
+      "name": "Don't Look Now",
+      "origin_country": "NO"
+    },
+    {
+      "id": 228923,
+      "logo_path": "/lsrFxFozZBdbzUPb7DG5OBcmnuC.png",
+      "name": "MK Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 4606,
+      "logo_path": "/otZHbf1HmzLRQsZFSqJXkf8EHz7.png",
+      "name": "ZDF",
+      "origin_country": "DE"
+    },
+    {
+      "id": 587,
+      "logo_path": "/6UIpEURdjnmcJPwgTDRzVRuwADr.png",
+      "name": "ARTE",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    },
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    },
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-08-20",
+  "revenue": 6757440,
+  "runtime": 133,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sentimental Value",
+  "video": false,
+  "vote_average": 7.6,
+  "vote_count": 260
+}

@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/cZZyqi78c9yQfUm1AwNwQMETy3Y.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://bloodstarmovie.com/",
+  "id": 1304106,
+  "imdb_id": "tt28452681",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Blood Star",
+  "overview": "A young woman is driving through the desert alone when she is drawn into a dangerous game of cat and mouse with a psychopathic Sheriff. The chase escalates to deadly levels, and she must use her street-smarts to turn the tables against him.",
+  "popularity": 4.936,
+  "poster_path": "/1luaxuRCI7X8mtNMKsQ4grBYICo.jpg",
+  "production_companies": [
+    {
+      "id": 271305,
+      "logo_path": null,
+      "name": "Beast Branded Content",
+      "origin_country": ""
+    },
+    {
+      "id": 271306,
+      "logo_path": null,
+      "name": "Fastback Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2024-12-11",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There's just one law. Run.",
+  "title": "Blood Star",
+  "video": false,
+  "vote_average": 5.705,
+  "vote_count": 56
+}

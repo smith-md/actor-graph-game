@@ -1,1 +1,72 @@
-{"adult": false, "backdrop_path": "/tWEcrdHbQLJUuetCQupgCJaTRQ9.jpg", "belongs_to_collection": {"id": 1178688, "name": "Justice League (Tomorrowverse) Collection", "poster_path": "/wqU63rtzsgw1wfZ4BJcReEDP54n.jpg", "backdrop_path": "/8STbpmPoVcBnZAQOAZYDhmLzoKG.jpg"}, "budget": 70000000, "genres": [{"id": 16, "name": "Animation"}, {"id": 878, "name": "Science Fiction"}, {"id": 28, "name": "Action"}], "homepage": "https://www.warnerbros.com/movies/justice-league-crisis-infinite-earths-part-one", "id": 1155089, "imdb_id": "tt29195117", "origin_country": ["US"], "original_language": "en", "original_title": "Justice League: Crisis on Infinite Earths Part One", "overview": "Death is coming. Worse than death: oblivion. Not just for our Earth, but for everyone, everywhere, in every universe! Against this ultimate destruction, the mysterious Monitor has gathered the greatest team of Super Heroes ever assembled. But what can the combined might of Superman, Wonder Woman, Batman, The Flash, Green Lantern and hundreds of Super Heroes from multiple Earths even do to save all of reality from an unstoppable antimatter armageddon?!", "popularity": 5.657, "poster_path": "/zR6C66EDklgTPLHRSmmMt5878MR.jpg", "production_companies": [{"id": 9993, "logo_path": "/i63Fcf2QkMjIAGQ0W4baaxM2fPk.png", "name": "DC Entertainment", "origin_country": "US"}, {"id": 2785, "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png", "name": "Warner Bros. Animation", "origin_country": "US"}], "production_countries": [{"iso_3166_1": "US", "name": "United States of America"}], "release_date": "2024-01-08", "revenue": 0, "runtime": 93, "spoken_languages": [{"english_name": "English", "iso_639_1": "en", "name": "English"}], "status": "Released", "tagline": "Worlds will live, worlds will die and nothing will ever be the same.", "title": "Justice League: Crisis on Infinite Earths Part One", "video": false, "vote_average": 7.305, "vote_count": 372}
+{
+  "adult": false,
+  "backdrop_path": "/tWEcrdHbQLJUuetCQupgCJaTRQ9.jpg",
+  "belongs_to_collection": {
+    "id": 1178688,
+    "name": "Justice League (Tomorrowverse) Collection",
+    "poster_path": "/wqU63rtzsgw1wfZ4BJcReEDP54n.jpg",
+    "backdrop_path": "/8STbpmPoVcBnZAQOAZYDhmLzoKG.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.warnerbros.com/movies/justice-league-crisis-infinite-earths-part-one",
+  "id": 1155089,
+  "imdb_id": "tt29195117",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Justice League: Crisis on Infinite Earths Part One",
+  "overview": "Death is coming. Worse than death: oblivion. Not just for our Earth, but for everyone, everywhere, in every universe! Against this ultimate destruction, the mysterious Monitor has gathered the greatest team of Super Heroes ever assembled. But what can the combined might of Superman, Wonder Woman, Batman, The Flash, Green Lantern and hundreds of Super Heroes from multiple Earths even do to save all of reality from an unstoppable antimatter armageddon?!",
+  "popularity": 3.7465,
+  "poster_path": "/zR6C66EDklgTPLHRSmmMt5878MR.jpg",
+  "production_companies": [
+    {
+      "id": 2785,
+      "logo_path": "/l5zW8jjmQOCx2dFmvnmbYmqoBmL.png",
+      "name": "Warner Bros. Animation",
+      "origin_country": "US"
+    },
+    {
+      "id": 429,
+      "logo_path": "/4Y00XuSMuP1gimd0jP6JT57QbCI.png",
+      "name": "DC",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-01-08",
+  "revenue": 0,
+  "runtime": 93,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Worlds will live, worlds will die and nothing will ever be the same.",
+  "title": "Justice League: Crisis on Infinite Earths Part One",
+  "video": false,
+  "vote_average": 7.297,
+  "vote_count": 384
+}

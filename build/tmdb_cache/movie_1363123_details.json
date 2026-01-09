@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/7nAVXGHHtaNcdsqvDXmY6R9N0fG.jpg",
+  "belongs_to_collection": {
+    "id": 1363124,
+    "name": "The Family Plan Collection",
+    "poster_path": "/etf8OuJwaVYCa9NfQTrpPoTvvbj.jpg",
+    "backdrop_path": "/1nCczfmL9rNDOBJ53w4NrSqJu6F.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://tv.apple.com/movie/umc.cmc.1wj0ab94s7t1wy7sqv5dt6bfy",
+  "id": 1363123,
+  "imdb_id": "tt34276058",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Family Plan 2",
+  "overview": "Now that Dan's assassin days are behind him, all he wants for Christmas is quality time with his kids. But when he learns his daughter has her own plans, he books a family trip to London—putting them all in the crosshairs of an unexpected enemy.",
+  "popularity": 45.7401,
+  "poster_path": "/semFxuYx6HcrkZzslgAkBqfJvZk.jpg",
+  "production_companies": [
+    {
+      "id": 82819,
+      "logo_path": "/gXfFl9pRPaoaq14jybEn1pHeldr.png",
+      "name": "Skydance Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 169668,
+      "logo_path": "/iGEtQO0W5H2PAgqjL0yubcbSgr4.png",
+      "name": "Municipal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-11",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Deck the halls, dodge the bad guys.",
+  "title": "The Family Plan 2",
+  "video": false,
+  "vote_average": 6.561,
+  "vote_count": 441
+}

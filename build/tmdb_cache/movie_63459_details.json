@@ -1,0 +1,82 @@
+{
+  "adult": false,
+  "backdrop_path": "/2rODM53W2hG0eDFYPczeqN6TKQ2.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 63459,
+  "imdb_id": "tt0331509",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Funky Monkey",
+  "overview": "A teen genius teams up with a super-talented chimpanzee and his caretaker to take down an animal testing lab. In exchange, the scientist gives the teen some pointers on the girl of his dreams.",
+  "popularity": 4.1064,
+  "poster_path": "/zBVDA9WnoSA0hg4nk04HQLR3dor.jpg",
+  "production_companies": [
+    {
+      "id": 16850,
+      "logo_path": null,
+      "name": "ApolloMedia",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1403,
+      "logo_path": "/pMTQNUhHCwr39CsS7yUmSg503E7.png",
+      "name": "Franchise Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 208910,
+      "logo_path": null,
+      "name": "Kolin S.A.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-09-17",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's the best super-Ninja secret agent football star monkey hero around.",
+  "title": "Funky Monkey",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 30
+}

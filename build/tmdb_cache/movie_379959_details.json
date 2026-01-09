@@ -1,0 +1,50 @@
+{
+  "adult": false,
+  "backdrop_path": "/7qHNNNw42ZOtJiN8dKais3oKYLc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 379959,
+  "imdb_id": "tt5116560",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Thunder Road",
+  "overview": "Jimmy Arnaud eulogizes his mother.",
+  "popularity": 3.6825,
+  "poster_path": "/ycgibsqsst0vnr9Dv0BVg0vEbtt.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2016-01-23",
+  "revenue": 0,
+  "runtime": 13,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Officer Arnaud loved his Mom.",
+  "title": "Thunder Road",
+  "video": false,
+  "vote_average": 7.3,
+  "vote_count": 53
+}

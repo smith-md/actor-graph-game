@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/aWYWi34IKwcXt6yQA9fnRGQmZpq.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.paramountmovies.com/movies/boomerang",
+  "id": 11066,
+  "imdb_id": "tt0103859",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Boomerang",
+  "overview": "Marcus is a successful advertising executive who woos and beds women almost at will. After a company merger he finds that his new boss, the ravishing Jacqueline, is treating him in exactly the same way. Completely traumatised by this, his work goes badly downhill.",
+  "popularity": 4.7641,
+  "poster_path": "/apwkBVaJqLuK6mxe6sOABCeNjRw.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 30,
+      "logo_path": null,
+      "name": "Eddie Murphy Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 23,
+      "logo_path": "/bJOFo2ufq7iFC1F4qZm8aLxF5aS.png",
+      "name": "Imagine Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1992-06-30",
+  "revenue": 131052444,
+  "runtime": 117,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A player who's about to be played.",
+  "title": "Boomerang",
+  "video": false,
+  "vote_average": 5.7,
+  "vote_count": 607
+}

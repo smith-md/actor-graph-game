@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/8R82TxhOmIOtkxl4SXeRyylpvJi.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://www.wallisandedward.co.uk/",
+  "id": 80591,
+  "imdb_id": "tt1536048",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "W.E.",
+  "overview": "In 1998, an auction of the estate of the Duke and Duchess of Windsor causes great excitement. For one woman, Wally Winthrop, it has much more meaning. Wally becomes obsessed by their historic love story. As she learns more about the sacrifices involved, Wally gains her own courage to find happiness.",
+  "popularity": 5.4,
+  "poster_path": "/aNE7gtJ8vrhG4vaDbetMa1SLxGi.jpg",
+  "production_companies": [
+    {
+      "id": 57740,
+      "logo_path": null,
+      "name": "Semtex Films",
+      "origin_country": ""
+    },
+    {
+      "id": 7437,
+      "logo_path": "/e5CcgFrdlxMUwlsS72si8q1yHBr.png",
+      "name": "IM Global",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-09-01",
+  "revenue": 868439,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Their affair ignited a scandal. Their passion brought down an empire.",
+  "title": "W.E.",
+  "video": false,
+  "vote_average": 6.325,
+  "vote_count": 305
+}

@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/zgW0dbMOqVfpsefYYIRh0AO5Z7D.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 5144,
+  "imdb_id": "tt0119623",
+  "origin_country": [
+    "FR",
+    "IT",
+    "ES",
+    "CH"
+  ],
+  "original_language": "fr",
+  "original_title": "Marquise",
+  "overview": "Marquise is a drama about the rise and fall of a beauteous actress. As cheerfully portrayed by Sophie Marceau, the eponymous heroine is an engagingly ribald, but perhaps rather too modern, character. She rises from an impoverished background to become a favourite of the Sun King, Louis XIV, and the mistress of the celebrated Racine, who wrote roles especially for her; but her fate, in the end, is a tragic one.",
+  "popularity": 3.5395,
+  "poster_path": "/4FlAhORNIfOwL5XPEtXUbSAKnTK.jpg",
+  "production_companies": [
+    {
+      "id": 1869,
+      "logo_path": "/yzT8r8szh67ENcLOgCk1pp4rJg8.png",
+      "name": "AMLF",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1871,
+      "logo_path": null,
+      "name": "Cofimage 5",
+      "origin_country": ""
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 166945,
+      "logo_path": null,
+      "name": "3Emme",
+      "origin_country": ""
+    },
+    {
+      "id": 83302,
+      "logo_path": "/b6ezTqTg0sXxo0uY4xlVYjZvgSt.png",
+      "name": "Alhena Production",
+      "origin_country": "ES"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1997-08-20",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Latin",
+      "iso_639_1": "la",
+      "name": "Latin"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The rise and fall of a beauteous actress",
+  "title": "Marquise",
+  "video": false,
+  "vote_average": 5.44,
+  "vote_count": 50
+}

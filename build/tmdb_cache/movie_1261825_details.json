@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/haAekI7zBtffqILr90DkviTe9fk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0FVKNVJ7G",
+  "id": 1261825,
+  "imdb_id": "tt31998881",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Oh. What. Fun.",
+  "overview": "Claire Clauster is the glue that holds her chaotic, lovable family together at the holidays. But this year, after planning a special outing for them, they make a crucial mistake and leave her home alone. Fed up and feeling under appreciated, she sets off on an impromptu adventure of her own. As her family scrambles to find her, Claire discovers the unexpected magic of a Christmas gone off-script.",
+  "popularity": 8.7634,
+  "poster_path": "/qynCyBKCJUUcj4wo4PE2aQVvote.jpg",
+  "production_companies": [
+    {
+      "id": 112037,
+      "logo_path": "/tEjXfABMQ01K1T6YQienJMe0QRH.png",
+      "name": "Semi-Formal Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 11391,
+      "logo_path": "/t6m0uRTzaFHCsvEpikENE0PWJGb.png",
+      "name": "Tribeca Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-12-03",
+  "revenue": 0,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Come for the presents. Stay for the baggage.",
+  "title": "Oh. What. Fun.",
+  "video": false,
+  "vote_average": 5.571,
+  "vote_count": 211
+}

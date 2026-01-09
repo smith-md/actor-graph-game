@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/aoJpJTwSGs6web4KGh3nLA5An8H.jpg",
+  "belongs_to_collection": null,
+  "budget": 14400000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 77560,
+  "imdb_id": "tt1437357",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Faust",
+  "overview": "A doctor in early 19th-century Germany becomes infatuated with the sister of a man he unintentionally killed and bargains with the Devil incarnate to conjure their union in exchange for his soul.",
+  "popularity": 3.9679,
+  "poster_path": "/8jH8wVLNZ24QVxm5IEByWpsmHXJ.jpg",
+  "production_companies": [
+    {
+      "id": 3327,
+      "logo_path": "/qhDTiAJRhfFdiao6s2KS1EhwyCz.png",
+      "name": "Proline Film",
+      "origin_country": "RU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2011-09-08",
+  "revenue": 0,
+  "runtime": 140,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Faust",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 205
+}

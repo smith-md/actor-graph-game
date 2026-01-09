@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/oyatchDPpS4I9jpIIezFJGrmXcR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 499,
+  "imdb_id": "tt0055852",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Cléo de 5 à 7",
+  "overview": "Agnès Varda eloquently captures Paris in the sixties with this real-time portrait of a singer set adrift in the city as she awaits test results of a biopsy. A chronicle of the minutes of one woman’s life, Cléo from 5 to 7 is a spirited mix of vivid vérité and melodrama, featuring a score by Michel Legrand and cameos by Jean-Luc Godard and Anna Karina.",
+  "popularity": 3.6854,
+  "poster_path": "/oelBStY4xpguaplRv15P3Za7Xsr.jpg",
+  "production_companies": [
+    {
+      "id": 109,
+      "logo_path": null,
+      "name": "Rome-Paris Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 14683,
+      "logo_path": "/oqpU5dX9DlN3YB96NdsNXknJhcl.png",
+      "name": "Ciné-Tamaris",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1962-04-11",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The whole world... has made an appointment with...",
+  "title": "Cléo from 5 to 7",
+  "video": false,
+  "vote_average": 7.655,
+  "vote_count": 749
+}

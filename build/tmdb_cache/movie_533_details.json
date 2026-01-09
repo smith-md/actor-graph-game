@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/Aqvtwgu1G4eEwIf8nSIxiCN5ewC.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.dreamworksanimation.com/rabbit",
+  "id": 533,
+  "imdb_id": "tt0312004",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+  "overview": "Cheese-loving eccentric Wallace and his cunning canine pal, Gromit, investigate a mystery in Nick Park's animated adventure, in which the lovable inventor and his intrepid pup run a business ridding the town of garden pests. Using only humane methods that turn their home into a halfway house for evicted vermin, the pair stumble upon a mystery involving a voracious vegetarian monster that threatens to ruin the annual veggie-growing contest.",
+  "popularity": 5.6388,
+  "poster_path": "/cMQ2lNd7sBe6PCf6zF5QxrKzbRG.jpg",
+  "production_companies": [
+    {
+      "id": 297,
+      "logo_path": "/8ixoR3cvroUqNDLjaX6AZmJIdRY.png",
+      "name": "Aardman",
+      "origin_country": "GB"
+    },
+    {
+      "id": 521,
+      "logo_path": "/3BPX5VGBov8SDqTV7wC1L1xShAS.png",
+      "name": "DreamWorks Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-09-15",
+  "revenue": 192610372,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Something wicked this way hops.",
+  "title": "Wallace & Gromit: The Curse of the Were-Rabbit",
+  "video": false,
+  "vote_average": 7.112,
+  "vote_count": 2991
+}

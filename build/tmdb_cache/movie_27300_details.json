@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/fSaoBP4x9qapyEcsY8NiWOEZpOt.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 27300,
+  "imdb_id": "tt0365296",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hair High",
+  "overview": "Rod and Cherri are the unmistakable king and queen of Echo High. When new kid Spud arrives, he makes a faux pas so bad that Rod forces him to be his girl's slave. What unfolds is the tale of Cherri and Spud's blossoming relationship behind Rod's back, and their untimely demise on the night of the prom. A tale of tragedy that could only be as irreverent and sensational through the pen (or pencils, if you will) of Bill Plympton.",
+  "popularity": 2.6413,
+  "poster_path": "/kWQdTdUr2KCJ51yrvJI0DTPMDnJ.jpg",
+  "production_companies": [
+    {
+      "id": 4660,
+      "logo_path": null,
+      "name": "Plymptoons",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-04-17",
+  "revenue": 0,
+  "runtime": 78,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hair High",
+  "video": false,
+  "vote_average": 6.357,
+  "vote_count": 35
+}

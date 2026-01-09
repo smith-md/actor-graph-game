@@ -1,0 +1,47 @@
+{
+  "id": 44355,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1086191,
+      "known_for_department": "Production",
+      "name": "Sid Davis",
+      "original_name": "Sid Davis",
+      "popularity": 0.3226,
+      "profile_path": null,
+      "cast_id": 0,
+      "character": "Man at the Public Restroom",
+      "credit_id": "533eea37c3a368705100029d",
+      "order": 0
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1086191,
+      "known_for_department": "Production",
+      "name": "Sid Davis",
+      "original_name": "Sid Davis",
+      "popularity": 0.3226,
+      "profile_path": null,
+      "credit_id": "65601b8ea6c104011bdc9ff4",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1086191,
+      "known_for_department": "Production",
+      "name": "Sid Davis",
+      "original_name": "Sid Davis",
+      "popularity": 0.3226,
+      "profile_path": null,
+      "credit_id": "5a6e62bbc3a36855470283fa",
+      "department": "Production",
+      "job": "Producer"
+    }
+  ]
+}

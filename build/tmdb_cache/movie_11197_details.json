@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/2EIiauBZJspEHEJQeSw7OvrFG3d.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 11197,
+  "imdb_id": "tt0338309",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Ondskan",
+  "overview": "Stockholm, in the 1950s.  Erik is expelled from the local school for getting into one brawl too many. To protect Erik from his violent stepfather’s reaction to his expulsion, Erik's mother arranges for Erik to spend a year at Stjärnsberg Boarding School, the only school willing to accept him. This is Erik's last chance to graduate to Upper School and he promises his mother, for his and her sake, to do all he can to stay out of trouble.",
+  "popularity": 5.012,
+  "poster_path": "/1qqI4qh3VP7jUBRTGsIxh1miNKJ.jpg",
+  "production_companies": [
+    {
+      "id": 6782,
+      "logo_path": null,
+      "name": "Moviola Film och Television AB",
+      "origin_country": ""
+    },
+    {
+      "id": 6784,
+      "logo_path": null,
+      "name": "Skinworxxx",
+      "origin_country": ""
+    },
+    {
+      "id": 327,
+      "logo_path": "/vodjjKlAbwGeERPjrAhxZMBGPUc.png",
+      "name": "Nordisk Film Sweden",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    },
+    {
+      "iso_3166_1": "DK",
+      "name": "Denmark"
+    }
+  ],
+  "release_date": "2003-09-16",
+  "revenue": 12469000,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's time to take a stand.",
+  "title": "Evil",
+  "video": false,
+  "vote_average": 7.322,
+  "vote_count": 382
+}

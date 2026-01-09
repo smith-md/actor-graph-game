@@ -1,0 +1,102 @@
+{
+  "id": 1262299,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1593456,
+      "known_for_department": "Acting",
+      "name": "Ricardo Castro",
+      "original_name": "Ricardo Castro",
+      "popularity": 0.1434,
+      "profile_path": "/v3c3w1QqdQoneuMu3pYHPq6g3zf.jpg",
+      "cast_id": 1,
+      "character": "",
+      "credit_id": "65fb436c3fe1600164f34806",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 4605148,
+      "known_for_department": "Acting",
+      "name": "Miguel Angel Marchessi",
+      "original_name": "Miguel Angel Marchessi",
+      "popularity": 0.1122,
+      "profile_path": null,
+      "cast_id": 2,
+      "character": "",
+      "credit_id": "65fb4375a199a6017cde6250",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 4605149,
+      "known_for_department": "Acting",
+      "name": "Héctor Hugo Larriera",
+      "original_name": "Héctor Hugo Larriera",
+      "popularity": 0.0468,
+      "profile_path": null,
+      "cast_id": 3,
+      "character": "",
+      "credit_id": "65fb4380a199a6017cde625c",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 4991982,
+      "known_for_department": "Acting",
+      "name": "Carlos Secilio",
+      "original_name": "Carlos Secilio",
+      "popularity": 0.0566,
+      "profile_path": null,
+      "cast_id": 7,
+      "character": "",
+      "credit_id": "6707da031d96dc6d476a33e8",
+      "order": 3
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 3742645,
+      "known_for_department": "Editing",
+      "name": "Patricio Dondo",
+      "original_name": "Patricio Dondo",
+      "popularity": 0.0381,
+      "profile_path": null,
+      "credit_id": "65fb43919408ec014afb3742",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 4605151,
+      "known_for_department": "Directing",
+      "name": "Simón Delacre",
+      "original_name": "Simón Delacre",
+      "popularity": 0.0429,
+      "profile_path": null,
+      "credit_id": "65fb439c3fe160014af2fcf7",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 4605151,
+      "known_for_department": "Directing",
+      "name": "Simón Delacre",
+      "original_name": "Simón Delacre",
+      "popularity": 0.0429,
+      "profile_path": null,
+      "credit_id": "6707d9ee6718012fc233c356",
+      "department": "Writing",
+      "job": "Writer"
+    }
+  ]
+}

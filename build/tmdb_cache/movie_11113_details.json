@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/d1mciHTH1Pcb3KDYNoaNKuOSDOC.jpg",
+  "belongs_to_collection": null,
+  "budget": 17000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 11113,
+  "imdb_id": "tt0058385",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "My Fair Lady",
+  "overview": "A snobbish phonetics professor agrees to a wager that he can take a flower girl and make her presentable in high society.",
+  "popularity": 3.5771,
+  "poster_path": "/bTXVc29lGSNclf94VIZ49W4gGKl.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1964-12-01",
+  "revenue": 72661442,
+  "runtime": 170,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The loverliest motion picture of them all!",
+  "title": "My Fair Lady",
+  "video": false,
+  "vote_average": 7.503,
+  "vote_count": 1391
+}

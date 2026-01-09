@@ -1,0 +1,60 @@
+{
+  "adult": false,
+  "backdrop_path": "/oes3kun1m4GLnXTrgomeSV9Kq1r.jpg",
+  "belongs_to_collection": {
+    "id": 1164234,
+    "name": "Uncle Kent Collection",
+    "poster_path": "/93XRof9UkHS7QOs74NACwCwI8Ee.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 87820,
+  "imdb_id": "tt1787831",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Uncle Kent",
+  "overview": "A pothead kid's show cartoonist in Los Angeles spends a weekend trying to sleep with his visiting house guest - a woman from New York who he met on Chatroulette.",
+  "popularity": 3.4674,
+  "poster_path": "/gc5oKvfw1fJv48F20VJnVMhdl1O.jpg",
+  "production_companies": [
+    {
+      "id": 307,
+      "logo_path": "/gUi3pAUznQJpR296lw4mSVbB7zx.png",
+      "name": "IFC FIlms",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2011-01-17",
+  "revenue": 0,
+  "runtime": 72,
+  "spoken_languages": [],
+  "status": "Released",
+  "tagline": "",
+  "title": "Uncle Kent",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 21
+}

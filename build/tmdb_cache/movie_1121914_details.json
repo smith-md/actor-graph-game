@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/vaJFSMNHdwBc8xA8R26MOOuHREG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1121914,
+  "imdb_id": "tt33029866",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "Broken Rage",
+  "overview": "A seemingly unremarkable man called “Mouse” is caught by the police. In exchange for his freedom, he goes undercover, infiltrates a drug ring, and arranges a fake deal, but an unexpected turn of events occurs.",
+  "popularity": 4.1099,
+  "poster_path": "/fDUtTF3wFMjxKR0oQDwEu5bjY4P.jpg",
+  "production_companies": [
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 237150,
+      "logo_path": null,
+      "name": "Kitano Agency",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2024-09-06",
+  "revenue": 0,
+  "runtime": 66,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Broken Rage",
+  "video": false,
+  "vote_average": 6.653,
+  "vote_count": 85
+}

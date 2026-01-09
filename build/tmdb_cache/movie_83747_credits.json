@@ -1,0 +1,138 @@
+{
+  "id": 83747,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 33923,
+      "known_for_department": "Acting",
+      "name": "Mel Blanc",
+      "original_name": "Mel Blanc",
+      "popularity": 1.6254,
+      "profile_path": "/8fevv4K06TmHsYom2XfmxgKrTcd.jpg",
+      "cast_id": 2,
+      "character": "Bugs Bunny / Yosemite Sam / Polly Parrot (voice)",
+      "credit_id": "52fe48bc9251416c91096975",
+      "order": 0
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 930633,
+      "known_for_department": "Directing",
+      "name": "Friz Freleng",
+      "original_name": "Friz Freleng",
+      "popularity": 0.7112,
+      "profile_path": "/xmhr2IEs1wS8u5QY07fCrGEatva.jpg",
+      "credit_id": "52fe48bc9251416c9109697b",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 362742,
+      "known_for_department": "Writing",
+      "name": "Michael Maltese",
+      "original_name": "Michael Maltese",
+      "popularity": 0.4948,
+      "profile_path": "/kh0VmXGxAAUPybZHMFsir5beXiH.jpg",
+      "credit_id": "52fe48bc9251416c91096981",
+      "department": "Writing",
+      "job": "Story"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 375782,
+      "known_for_department": "Writing",
+      "name": "Tedd Pierce",
+      "original_name": "Tedd Pierce",
+      "popularity": 0.5854,
+      "profile_path": "/9S5zyGnMPpPXgRVLiq6rr9ioFjZ.jpg",
+      "credit_id": "52fe48bc9251416c91096987",
+      "department": "Writing",
+      "job": "Story"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 457819,
+      "known_for_department": "Production",
+      "name": "Edward Selzer",
+      "original_name": "Edward Selzer",
+      "popularity": 1.5242,
+      "profile_path": null,
+      "credit_id": "52fe48bc9251416c9109698d",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 573775,
+      "known_for_department": "Visual Effects",
+      "name": "Ken Champin",
+      "original_name": "Ken Champin",
+      "popularity": 0.3823,
+      "profile_path": null,
+      "credit_id": "52fe48bc9251416c91096993",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 549358,
+      "known_for_department": "Visual Effects",
+      "name": "Gerry Chiniquy",
+      "original_name": "Gerry Chiniquy",
+      "popularity": 1.7639,
+      "profile_path": "/kf1LSE0BKvYGuTSXfHwuO0NC422.jpg",
+      "credit_id": "52fe48bc9251416c91096999",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 551674,
+      "known_for_department": "Sound",
+      "name": "Carl W. Stalling",
+      "original_name": "Carl W. Stalling",
+      "popularity": 1.8595,
+      "profile_path": "/pvo2CuSZen19HwzODF9v42OhQmR.jpg",
+      "credit_id": "52fe48bc9251416c9109699f",
+      "department": "Sound",
+      "job": "Original Music Composer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 149379,
+      "known_for_department": "Editing",
+      "name": "Treg Brown",
+      "original_name": "Treg Brown",
+      "popularity": 0.5271,
+      "profile_path": null,
+      "credit_id": "5b720dd40e0a267ef81a9cdd",
+      "department": "Editing",
+      "job": "Editor"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 149379,
+      "known_for_department": "Editing",
+      "name": "Treg Brown",
+      "original_name": "Treg Brown",
+      "popularity": 0.5271,
+      "profile_path": null,
+      "credit_id": "5b720de59251414054182dec",
+      "department": "Sound",
+      "job": "Sound Effects Editor"
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/2Hckt3ug71qy1z9qrzHZx94pP0v.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 54553,
+  "imdb_id": "tt1830633",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Home Makeover",
+  "overview": "When a social worker visits Gru’s house to assess its suitability for children, chaos ensues. Margo, Edith, and Agnes, along with the ever-mischievous Minions, scramble to give the home a makeover in record time. Their attempts to create a warm and inviting environment quickly spiral into hilarity as the Minions’ unorthodox methods lead to outrageous results. This short captures the Minions’ inventive, albeit chaotic, solutions, blending humor with heartwarming moments of teamwork.",
+  "popularity": 3.2993,
+  "poster_path": "/ch1QTMEOBrBhSSILw6CPFXCdxgB.jpg",
+  "production_companies": [
+    {
+      "id": 6704,
+      "logo_path": "/fOG2oY4m1YuYTQh4bMqqZkmgOAI.png",
+      "name": "Illumination",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-12-13",
+  "revenue": 0,
+  "runtime": 5,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Home Makeover",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 193
+}

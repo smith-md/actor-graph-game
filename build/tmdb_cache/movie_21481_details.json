@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/biWonOe1GrPEMqvXhr7FbLox6xt.jpg",
+  "belongs_to_collection": {
+    "id": 263106,
+    "name": "Twitches Collection",
+    "poster_path": "/604AzmRITkNJD4MyNzkO6KFlEUw.jpg",
+    "backdrop_path": "/dQXRd7YyAtuslFCGOsY7i4bKG0z.jpg"
+  },
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 21481,
+  "imdb_id": "tt0467421",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Twitches",
+  "overview": "Twins separated at birth, Camryn and Alex meet by chance for the first time on their 21st birthday and discover they're witches with the power to save their homeland of Coventry from the evil that threatens it. But when Camryn leaves Alex to face the darkness alone, will Coventry be doomed? Or will the sisters multiply their magic by standing together?",
+  "popularity": 4.1822,
+  "poster_path": "/8ctDK5B0uR2gre2PxQSSkJZFmh.jpg",
+  "production_companies": [
+    {
+      "id": 240533,
+      "logo_path": "/9AxUB1RdRnm0r5ki8Thb69Jo9Ma.png",
+      "name": "Disney Channel",
+      "origin_country": "US"
+    },
+    {
+      "id": 40867,
+      "logo_path": null,
+      "name": "Carla Singer Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-10-14",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This Halloween, broomsticks are so not happenin'.",
+  "title": "Twitches",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 526
+}

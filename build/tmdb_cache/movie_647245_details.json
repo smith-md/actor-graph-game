@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/vhMJZYFNRJ7v2L0lrYT8lYAs05z.jpg",
+  "belongs_to_collection": null,
+  "budget": 25000000,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.reaganmovie.com",
+  "id": 647245,
+  "imdb_id": "tt1723808",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Reagan",
+  "overview": "Told through the voice of former KGB agent Viktor Petrovich, whose life becomes inextricably linked with Ronald Reagan's when Reagan first caught the Soviets’ attention as an actor in Hollywood, Reagan overcomes the odds to become the 40th president of the United States.",
+  "popularity": 5.2692,
+  "poster_path": "/o21NB4f5fNk1dtrRlyAmA0C0cb3.jpg",
+  "production_companies": [
+    {
+      "id": 143537,
+      "logo_path": null,
+      "name": "Rawhide Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 3235,
+      "logo_path": "/eQOKf3LynrbL2kFR0seYpGwwUWr.png",
+      "name": "Brookwell-McNamara Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-29",
+  "revenue": 30107173,
+  "runtime": 141,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Trust, but Verify",
+  "title": "Reagan",
+  "video": false,
+  "vote_average": 6.322,
+  "vote_count": 104
+}

@@ -1,0 +1,73 @@
+{
+  "id": 426889,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1711359,
+      "known_for_department": "Directing",
+      "name": "Lori Malépart-Traversy",
+      "original_name": "Lori Malépart-Traversy",
+      "popularity": 0.367,
+      "profile_path": "/5e1eyZDw9CUHdonxBqFtBJFJcUO.jpg",
+      "cast_id": 1,
+      "character": "Narrator (voice)",
+      "credit_id": "645569f3ccb15f00fc6c0068",
+      "order": 0
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1711359,
+      "known_for_department": "Directing",
+      "name": "Lori Malépart-Traversy",
+      "original_name": "Lori Malépart-Traversy",
+      "popularity": 0.367,
+      "profile_path": "/5e1eyZDw9CUHdonxBqFtBJFJcUO.jpg",
+      "credit_id": "58317630c3a3685bad01ffaa",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1711359,
+      "known_for_department": "Directing",
+      "name": "Lori Malépart-Traversy",
+      "original_name": "Lori Malépart-Traversy",
+      "popularity": 0.367,
+      "profile_path": "/5e1eyZDw9CUHdonxBqFtBJFJcUO.jpg",
+      "credit_id": "64556a075b370d01225e57a0",
+      "department": "Writing",
+      "job": "Writer"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 4046730,
+      "known_for_department": "Sound",
+      "name": "Marcelo Suarez",
+      "original_name": "Marcelo Suarez",
+      "popularity": 0.0143,
+      "profile_path": null,
+      "credit_id": "64556a3add731b01550455b1",
+      "department": "Sound",
+      "job": "Sound"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 4046728,
+      "known_for_department": "Sound",
+      "name": "Eliazer Kramer",
+      "original_name": "Eliazer Kramer",
+      "popularity": 0.0714,
+      "profile_path": null,
+      "credit_id": "64556a2671083a00e3f70729",
+      "department": "Sound",
+      "job": "Music"
+    }
+  ]
+}

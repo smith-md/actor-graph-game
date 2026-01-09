@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/kx3xEq2BKFmsVzCPn3wSRMeIvJo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.amazon.com/Elf-Me-Lillo-Petrolo/dp/B0CHDD5TXB",
+  "id": 938030,
+  "imdb_id": "tt28527613",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Elf Me",
+  "overview": "A bumbling Christmas elf whose Santa's helper job is jeopardized by a complete inability in building toys teams up with a kid harassed by bullies.",
+  "popularity": 3.5635,
+  "poster_path": "/43NaJeiXYgsEo7ysRDWUGliYSmv.jpg",
+  "production_companies": [
+    {
+      "id": 779,
+      "logo_path": "/KFFOFoztyjV5epvnW5GerPbcvx.png",
+      "name": "Lucky Red",
+      "origin_country": "IT"
+    },
+    {
+      "id": 74686,
+      "logo_path": "/d86Hxn6IXd9Kq9eSDuXVGdI9rp3.png",
+      "name": "Goon Films",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2023-11-24",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Elf Me",
+  "video": false,
+  "vote_average": 5.762,
+  "vote_count": 86
+}

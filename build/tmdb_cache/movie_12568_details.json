@@ -1,0 +1,117 @@
+{
+  "adult": false,
+  "backdrop_path": "/yXF89vOhQeGl4ayy1jez67zTPHd.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://bridesheadrevisited-themovie.com/",
+  "id": 12568,
+  "imdb_id": "tt0412536",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Brideshead Revisited",
+  "overview": "Befriended by aristocrat Sebastian Flyte, Oxford student Charles Ryder finds that the power and privilege experienced by the family is seductive. On a visit to the ancestral home, Brideshead, he falls in love with his friend's sister, Julia.  However, as his ties to the Flytes deepen, Ryder finds himself at odds with their strong Roman Catholicism.",
+  "popularity": 2.6711,
+  "poster_path": "/q1IqGWVNIRcXnfw9vjye7oQYUg4.jpg",
+  "production_companies": [
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1267,
+      "logo_path": "/j3kXC0bEn4vxrIyUApeKBtSUu9w.png",
+      "name": "Ecosse Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2395,
+      "logo_path": "/pZz4qs03FtP6UGtZ3hjQ6qimcwi.png",
+      "name": "HanWay Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2452,
+      "logo_path": "/gOkUB0TdXRLAl6s0s6jCSLS3sOb.png",
+      "name": "UK Film Council",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2689,
+      "logo_path": null,
+      "name": "2 Entertain",
+      "origin_country": "GB"
+    },
+    {
+      "id": 8881,
+      "logo_path": null,
+      "name": "Zak Productions",
+      "origin_country": "MA"
+    },
+    {
+      "id": 11558,
+      "logo_path": null,
+      "name": "Brideshead Films",
+      "origin_country": ""
+    },
+    {
+      "id": 11559,
+      "logo_path": "/shg2TRsosE4Q5ya3veV2L6Ba3TE.png",
+      "name": "Mestiere Cinema",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MA",
+      "name": "Morocco"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2008-07-25",
+  "revenue": 13204291,
+  "runtime": 133,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Privilege. Ambition. Desire. At Brideshead everything comes at a price.",
+  "title": "Brideshead Revisited",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 161
+}

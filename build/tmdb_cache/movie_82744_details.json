@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/ncnqQZP5G0fzXP57AhOTRPLxWSB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 82744,
+  "imdb_id": "tt0078898",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Boulevard Nights",
+  "overview": "Raymond Avila is an ex-gang member trying to build a future. His kid brother Chuco is a sullen low-rider still caught up in the life. Despite their differences, their family bond is strong. But that bond is violently tested when rivals challenge Chuco's gang and ignite a neighborhood war.",
+  "popularity": 4.1161,
+  "poster_path": "/5Hq4qe0GM3A0MHIEVIkazD1EMXZ.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1979-03-23",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everything happens on the boulevard - and the boulevard happens at night.",
+  "title": "Boulevard Nights",
+  "video": false,
+  "vote_average": 7.153,
+  "vote_count": 62
+}

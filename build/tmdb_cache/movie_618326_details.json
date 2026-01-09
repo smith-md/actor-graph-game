@@ -1,0 +1,159 @@
+{
+  "adult": false,
+  "backdrop_path": "/s3Mwtw1MtILMYIu5749DjCEOdgt.jpg",
+  "belongs_to_collection": null,
+  "budget": 5600000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 618326,
+  "imdb_id": "tt7858472",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Sœurs d'armes",
+  "overview": "Kenza and Yaël are two young French women who go to Syria to fight alongside the Kurdish forces. There they meet Zara, a Yezidi survivor. Born in different cultures but deeply united, the women-fighters heal their past wounds and discover their present strength, especially the fear they inspire in their opponents. The three young women soon bound together and become true sisters-in-arms.",
+  "popularity": 2.3922,
+  "poster_path": "/6sqF5XvmcawutVXkzzefqrbxlJ4.jpg",
+  "production_companies": [
+    {
+      "id": 128893,
+      "logo_path": null,
+      "name": "Kador",
+      "origin_country": "FR"
+    },
+    {
+      "id": 128894,
+      "logo_path": null,
+      "name": "Place du Marché Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 342,
+      "logo_path": "/kZ99mxyNvNgyAFjm7rcl9vfYmU8.png",
+      "name": "Davis Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10400,
+      "logo_path": "/9LlB2YAwXTkUAhx0pItSo6pDlkB.png",
+      "name": "Eagle Pictures",
+      "origin_country": "IT"
+    },
+    {
+      "id": 128895,
+      "logo_path": null,
+      "name": "Happy Moon Productions",
+      "origin_country": "BE"
+    },
+    {
+      "id": 16419,
+      "logo_path": "/8HbaRV1gwW9FTHFvl31tpwGFleK.png",
+      "name": "Metropolitan Filmexport",
+      "origin_country": "FR"
+    },
+    {
+      "id": 24049,
+      "logo_path": "/zOHQ0A3PpNoLLeAxRZwSqNV3nPr.png",
+      "name": "Sierra/Affinity",
+      "origin_country": "US"
+    },
+    {
+      "id": 7131,
+      "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 10611,
+      "logo_path": "/zQ4fGaEnNkWfSzyygXRcUZwPmDG.png",
+      "name": "Ciné+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 178045,
+      "logo_path": null,
+      "name": "DeliCe Film",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-10-09",
+  "revenue": 540482,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "Kurdish",
+      "iso_639_1": "ku",
+      "name": ""
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Sisters in Arms",
+  "video": false,
+  "vote_average": 7.119,
+  "vote_count": 147
+}

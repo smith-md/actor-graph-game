@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/6DSXD0cSOOQJd9YX7KUekv6bKLr.jpg",
+  "belongs_to_collection": null,
+  "budget": 4500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 6106,
+  "imdb_id": "tt0091886",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Salvador",
+  "overview": "In 1980, an American journalist covering the Salvadoran Civil War becomes entangled with both the leftist guerrilla groups and the right-wing military dictatorship while trying to rescue his girlfriend and her children.",
+  "popularity": 3.1552,
+  "poster_path": "/c5JgUmzN7syTFy9suwoHF3vhNsN.jpg",
+  "production_companies": [
+    {
+      "id": 3952,
+      "logo_path": "/hLfS5FjBQjK5MUNl7kdXgIHSSWy.png",
+      "name": "Hemdale",
+      "origin_country": "GB"
+    },
+    {
+      "id": 218473,
+      "logo_path": null,
+      "name": "Cinema '85",
+      "origin_country": "US"
+    },
+    {
+      "id": 5153,
+      "logo_path": "/d4BySWBlcGBBY58FG78DWMi9nrs.png",
+      "name": "Estudios Churubusco Azteca",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "1986-04-23",
+  "revenue": 1500000,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Dateline: 1980, El Salvador. Correspondent: Richard Boyle, Photojournalist - Guatemala, Iran, Vietnam, Chile, Belfast, Lebanon, Cambodia...",
+  "title": "Salvador",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 390
+}

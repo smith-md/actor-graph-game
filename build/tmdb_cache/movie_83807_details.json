@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/wMK9aFbz0J5gSFXdUdrYY7nNtqu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 83807,
+  "imdb_id": "tt0030314",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Katnip Kollege",
+  "overview": "At the Katnip Kollege, we see a roomful of cats taking a course in Swingology. Everyone swings except Johnny, who can't cut it and has to sit in the dunce chair. Miss Kitty Bright tells him to look her up when he learns how to swing. Finally, listening to the pendulum clock at night, Johnny gets the beat. He rushes out to where everyone is playing and sings \"Easy As Rollin' Off a Log\" to Kitty Bright. She joins in; he grabs a trumpet for an instrumental break, with the complete band. They both fall off a log; she covers him with kisses.",
+  "popularity": 4.1337,
+  "poster_path": "/xsKkYidm70jfcJQRKBcXtm34YlN.jpg",
+  "production_companies": [
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 134798,
+      "logo_path": null,
+      "name": "Leon Schlesinger Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1938-06-11",
+  "revenue": 0,
+  "runtime": 7,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Katnip Kollege",
+  "video": false,
+  "vote_average": 5.5,
+  "vote_count": 25
+}

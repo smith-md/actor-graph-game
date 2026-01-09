@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/inEy3A5OPgeYW4rjRiGycfEeQzA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 637920,
+  "imdb_id": "tt10431500",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "7. Koğuştaki Mucize",
+  "overview": "Separated from his daughter, a father with an intellectual disability must prove his innocence when he is jailed for the death of a commander's child.",
+  "popularity": 5.6808,
+  "poster_path": "/bOth4QmNyEkalwahfPCfiXjNh1r.jpg",
+  "production_companies": [
+    {
+      "id": 137006,
+      "logo_path": "/3kWHIeqSfjoIVErLYTzJMlHimwn.png",
+      "name": "Lanistar Media",
+      "origin_country": "TR"
+    },
+    {
+      "id": 98733,
+      "logo_path": "/7V4dUwsU0Op8q7tpGXuzxRYB6O9.png",
+      "name": "Motion Content Group",
+      "origin_country": ""
+    },
+    {
+      "id": 126639,
+      "logo_path": null,
+      "name": "CJ ENM Turkey",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "2019-10-10",
+  "revenue": 28000000,
+  "runtime": 132,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Miracle in Cell No. 7",
+  "video": false,
+  "vote_average": 8.255,
+  "vote_count": 4508
+}

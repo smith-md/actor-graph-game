@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/jWMWZ2ttg8B8YtVzG04UfhlcL67.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 809314,
+  "imdb_id": "tt13382698",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Trigger Point",
+  "overview": "Nicolas Shaw is a retired U.S. special operative who becomes part of an elite 'invisible' team that quietly takes out the worst villains around the world.",
+  "popularity": 5.6221,
+  "poster_path": "/qlXenN6jjgbsIyEJxBjkfkEU0q8.jpg",
+  "production_companies": [
+    {
+      "id": 151375,
+      "logo_path": "/5nd7OeTaESo8fmAQRqKxlXF5d6P.png",
+      "name": "20/20",
+      "origin_country": "US"
+    },
+    {
+      "id": 151376,
+      "logo_path": "/3tbNsW27o56Hiyx93VHw4SP4aaY.png",
+      "name": "Chicken Soup for the Soul Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 151377,
+      "logo_path": "/iPo58ykIJXieNUnc8JYyMpu1rZP.png",
+      "name": "High Park Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 151378,
+      "logo_path": null,
+      "name": "Landmark Studio Group",
+      "origin_country": ""
+    },
+    {
+      "id": 151380,
+      "logo_path": null,
+      "name": "Peace River Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 114338,
+      "logo_path": "/iApSXPfwHZdtt3sR2y5VDoS2BRK.png",
+      "name": "Ontario Creates",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2021-04-23",
+  "revenue": 29262,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everyone breaks.",
+  "title": "Trigger Point",
+  "video": false,
+  "vote_average": 6.149,
+  "vote_count": 195
+}

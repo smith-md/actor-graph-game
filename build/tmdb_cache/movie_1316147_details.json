@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": "/keToI4XlwYVtImAXjoeoaLJKnfc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.grand-prix-of-europe.com",
+  "id": 1316147,
+  "imdb_id": "tt32897929",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Grand Prix of Europe",
+  "overview": "Edda, a young mouse and the daughter of fairground operator Erwin, dreams of becoming a race car driver. Ahead of the 50th anniversary of the European Grand Prix, Edda gets the opportunity to meet her idol, racing star Ed, and to help her father save his failing business. But to do so, she'll have to get behind the wheel herself.",
+  "popularity": 9.9341,
+  "poster_path": "/jGGEqRaHAJ1pKJBj35WVxDyQBNw.jpg",
+  "production_companies": [
+    {
+      "id": 91702,
+      "logo_path": null,
+      "name": "Mack Media",
+      "origin_country": ""
+    },
+    {
+      "id": 234068,
+      "logo_path": "/26VdbRGwelApTb9RzVHLwAKtF4m.png",
+      "name": "Mack Animation",
+      "origin_country": "DE"
+    },
+    {
+      "id": 234069,
+      "logo_path": "/zdEFQ0HA7PRNHH1wYUEv7v7cyV2.png",
+      "name": "MACK Magic",
+      "origin_country": "DE"
+    },
+    {
+      "id": 250517,
+      "logo_path": null,
+      "name": "Timeless Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 109759,
+      "logo_path": "/na8NZKqFc8Ep9qAg8KQUcH1DpQl.png",
+      "name": "Warner Bros. International Television Production Germany",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2025-07-24",
+  "revenue": 2917068,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Danish",
+      "iso_639_1": "da",
+      "name": "Dansk"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    },
+    {
+      "english_name": "Finnish",
+      "iso_639_1": "fi",
+      "name": "suomi"
+    },
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Grand Prix of Europe",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 27
+}

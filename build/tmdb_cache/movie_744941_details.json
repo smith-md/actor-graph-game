@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/sbr49JL9xSkM9u8hKXqDxvh70FY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.mylifetime.com/movies/dear-christmas",
+  "id": 744941,
+  "imdb_id": "tt12997976",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dear Christmas",
+  "overview": "Natalie Morgan is an author and host of a popular podcast, Holiday Love, which shares true stories of holiday romance with its listeners. While to the outside world and her listeners everywhere see Natalie is an expert on romance, she's never truly experienced a romance of her own. As Natalie prepares to embark on a promotional tour for her new book, she stops back home to spend Christmas with her family and to celebrate her parent's 50th anniversary where she unexpectedly begins to experience her own holiday romance as sparks ignite with local firefighter, Jack.",
+  "popularity": 3.7473,
+  "poster_path": "/5Izo5eJ9aOCd6Ikf0M5sxCzZnNc.jpg",
+  "production_companies": [
+    {
+      "id": 5452,
+      "logo_path": "/piIgZnVf0h0PoHY7wpHXQtFZ3O9.png",
+      "name": "Hartbreak Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 23761,
+      "logo_path": "/4jwuS7AnT0Itq4ExleF90Cmo3mt.png",
+      "name": "Synthetic Cinema International",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2020-11-27",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Dear Christmas",
+  "video": false,
+  "vote_average": 6.482,
+  "vote_count": 55
+}

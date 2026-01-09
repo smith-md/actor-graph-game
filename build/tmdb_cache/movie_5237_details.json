@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/5V0v8Gh2JEBycQ7TNgocEv3i0PN.jpg",
+  "belongs_to_collection": null,
+  "budget": 8000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 5237,
+  "imdb_id": "tt0104155",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Dust Devil",
+  "overview": "A woman on the run from her abusive husband encounters a mysterious hitch-hiker.",
+  "popularity": 4.3391,
+  "poster_path": "/59pEswv24gaJk1BZ6s7o7NnceVf.jpg",
+  "production_companies": [
+    {
+      "id": 12745,
+      "logo_path": null,
+      "name": "British Screen Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 927,
+      "logo_path": null,
+      "name": "Palace Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 6282,
+      "logo_path": null,
+      "name": "Shadow Theatre Films",
+      "origin_country": ""
+    },
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    },
+    {
+      "id": 6705,
+      "logo_path": "/iNB1FCwT4XjO6wkN3PnpPnwr9GX.png",
+      "name": "Film4 Productions",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NA",
+      "name": "Namibia"
+    },
+    {
+      "iso_3166_1": "ZA",
+      "name": "South Africa"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1992-07-11",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He's not a serial killer. He's much worse.",
+  "title": "Dust Devil",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 145
+}

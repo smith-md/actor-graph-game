@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/1YL8ksfwm3p2Tgt1yaNVYYOvOKC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81484026",
+  "id": 1203329,
+  "imdb_id": "tt15495150",
+  "origin_country": [
+    "PL",
+    "KR",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Witcher: Sirens of the Deep",
+  "overview": "When human sailors are attacked by mysterious creatures of the deep, only one person can stop the war between land and sea: the Witcher, Geralt of Rivia.",
+  "popularity": 3.7728,
+  "poster_path": "/y0pR5aBVvPn5uncaZjl94ZEnuEF.jpg",
+  "production_companies": [
+    {
+      "id": 58209,
+      "logo_path": "/bmoAT1OD8AAHpBVj4OGvA5UkM9e.png",
+      "name": "Studio Mir",
+      "origin_country": "KR"
+    },
+    {
+      "id": 124634,
+      "logo_path": "/psPuEpFeqqykCaNecpCq7K8Qsro.png",
+      "name": "Hivemind",
+      "origin_country": "US"
+    },
+    {
+      "id": 137769,
+      "logo_path": "/xNtW64uEpnium6eitLnyNl8za27.png",
+      "name": "Platige Films",
+      "origin_country": "PL"
+    },
+    {
+      "id": 162859,
+      "logo_path": null,
+      "name": "Little Schmidt Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    },
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-02-10",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Witcher: Sirens of the Deep",
+  "video": false,
+  "vote_average": 6.815,
+  "vote_count": 248
+}

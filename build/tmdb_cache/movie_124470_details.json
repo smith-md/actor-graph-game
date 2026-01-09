@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/m9xwvflfh4hpjmlSapeDx2h9RCP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 124470,
+  "imdb_id": "tt1988621",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Exists",
+  "overview": "A group of friends venture into the remote Texas woods for a party weekend and find themselves stalked by Bigfoot.",
+  "popularity": 3.2521,
+  "poster_path": "/m3BteJOJcbEI3pDgrZ1Fguy0ndV.jpg",
+  "production_companies": [
+    {
+      "id": 46240,
+      "logo_path": "/8jiwvypPWazxmJcY6os2aACfk3d.png",
+      "name": "Miscellaneous Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 30023,
+      "logo_path": "/byhvEbKsEOjmhKccroy73esbE6n.png",
+      "name": "Court Five",
+      "origin_country": "US"
+    },
+    {
+      "id": 15160,
+      "logo_path": "/nksfViwBwYdv73nkdn3Dk3OEINr.png",
+      "name": "Haxan Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2014-03-17",
+  "revenue": 413767,
+  "runtime": 81,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The legend is real. So is the terror.",
+  "title": "Exists",
+  "video": false,
+  "vote_average": 5.505,
+  "vote_count": 375
+}

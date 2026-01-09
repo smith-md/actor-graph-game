@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/uMD8XurrO3MY8M84S3dxqZLX87A.jpg",
+  "belongs_to_collection": {
+    "id": 1230356,
+    "name": "Oslo Stories Trilogy",
+    "poster_path": "/wZHhcEvUd3k1MwSrh9XpGbuo00K.jpg",
+    "backdrop_path": "/eOFijuW42tJP3NAp7IWlbtDTWXP.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.modernfilms.com/love",
+  "id": 1228685,
+  "imdb_id": "tt30810792",
+  "origin_country": [
+    "NO"
+  ],
+  "original_language": "no",
+  "original_title": "Kjærlighet",
+  "overview": "Marianne, a doctor, and Tor, a nurse, avoid relationships. After meeting on a ferry where Tor seeks casual encounters, Marianne explores the possibility of spontaneous intimacy, questioning societal norms.",
+  "popularity": 3.6045,
+  "poster_path": "/iLkxnDAhmzOlLtjzv19RvbnrHsP.jpg",
+  "production_companies": [
+    {
+      "id": 19492,
+      "logo_path": null,
+      "name": "ArtHaus",
+      "origin_country": ""
+    },
+    {
+      "id": 103314,
+      "logo_path": "/8b8R8uWwaeInvv1lHuVFoF8skSQ.png",
+      "name": "Novemberfilm",
+      "origin_country": "NO"
+    },
+    {
+      "id": 2783,
+      "logo_path": "/mBN9Pu2qP0gEdzi9R2NvARodQ5X.png",
+      "name": "Motlys",
+      "origin_country": "NO"
+    },
+    {
+      "id": 178553,
+      "logo_path": "/ifjbQWgwqHEye4YeGfMVnkEz3Tu.png",
+      "name": "Viaplay Group",
+      "origin_country": "NO"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NO",
+      "name": "Norway"
+    }
+  ],
+  "release_date": "2024-11-10",
+  "revenue": 267240,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "Norwegian",
+      "iso_639_1": "no",
+      "name": "Norsk"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Love",
+  "video": false,
+  "vote_average": 6.957,
+  "vote_count": 35
+}

@@ -1,0 +1,92 @@
+{
+  "adult": false,
+  "backdrop_path": "/qXh8mVwF9IQwclEZAdjbuqfXAeB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "http://www.insightfilm.com/monsterisland.html",
+  "id": 88905,
+  "imdb_id": "tt0382856",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Monster Island",
+  "overview": "Mutant radioactive bugs attack VJs, Carmen Electra and an island full of MTV contest winners in this tongue-in-cheek tribute to B-movies, monster flicks and even MTV. MTV Original Movies presents Monster Island, a flick with old school effects mixed with hot new celebrities. There’s action, romance and big bugs--now is that something you really want to miss?",
+  "popularity": 4.7868,
+  "poster_path": "/mkzLVg7jhsPLd5LJ8KBSz4fgBqE.jpg",
+  "production_companies": [
+    {
+      "id": 11534,
+      "logo_path": null,
+      "name": "MTV Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 4679,
+      "logo_path": null,
+      "name": "Shavick Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 2865,
+      "logo_path": "/5O0gp5QS3n9ZPRvWFxaWa6QPpGX.png",
+      "name": "Insight Film Studios",
+      "origin_country": "CA"
+    },
+    {
+      "id": 8136,
+      "logo_path": "/zHS0wY1haJ3GOvkHFOf8Dfjkyt3.png",
+      "name": "MTV",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2004-03-07",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Tickets to Paradise... or ParaSITES?",
+  "title": "Monster Island",
+  "video": false,
+  "vote_average": 4.3,
+  "vote_count": 31
+}

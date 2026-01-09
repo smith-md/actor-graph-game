@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/hQ86bjGpjBXjCoZ9wpRQyZSplqu.jpg",
+  "belongs_to_collection": {
+    "id": 747063,
+    "name": "Kuntilanak (Remake) Collection",
+    "poster_path": "/ggUaHjqKxcQe5LvdgvbnEmVfsw5.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 524736,
+  "imdb_id": "tt8512746",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "Kuntilanak",
+  "overview": "A group of kids agree to explore an abandon house in order to win a reality show contest, which requires them to prove that the stories of the evil Kuntilanak are real. They soon discover that the ghost is very much real when it appears from an old mirror and starts haunting them.",
+  "popularity": 3.3217,
+  "poster_path": "/pn3wmdsCTDLukJK1lDF68aJ2wVL.jpg",
+  "production_companies": [
+    {
+      "id": 16614,
+      "logo_path": "/1tubNNggNsJ3xNtNigXfEwWgrEa.png",
+      "name": "MVP Pictures",
+      "origin_country": "ID"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2018-06-14",
+  "revenue": 0,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Kuntilanak hungers for young children.",
+  "title": "The Chanting: Revisited",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 63
+}

@@ -1,0 +1,97 @@
+{
+  "adult": false,
+  "backdrop_path": "/eYXfoFJyKsp9TAK0a7GtT4G6goL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 1291712,
+  "imdb_id": "tt27811248",
+  "origin_country": [
+    "BE",
+    "IT",
+    "CH"
+  ],
+  "original_language": "de",
+  "original_title": "Le assaggiatrici",
+  "overview": "The film follows in the wake of young Rosa who flees bomb-stricken Berlin in the autumn of 1943 and heads to a small, isolated village near the eastern border. This is where her in-laws live and where her husband, who’s deployed on the front, has advised she take shelter until the war ends and he returns. Rosa soon discovers that this seemingly sleepy village conceals a secret: in the forest bordering the hamlet is Hitler’s headquarters, the Wolf’s Lair.",
+  "popularity": 3.3621,
+  "poster_path": "/j1BMHOfmEARIPeJr32GAyROaFlj.jpg",
+  "production_companies": [
+    {
+      "id": 56435,
+      "logo_path": "/ocrd98oFlVYQ27QAnE4E6IyuBQ.png",
+      "name": "Lumière & Co.",
+      "origin_country": "IT"
+    },
+    {
+      "id": 34086,
+      "logo_path": "/aBKkhycyubHlCsszV8KibiKZGg0.png",
+      "name": "tellfilm",
+      "origin_country": "CH"
+    },
+    {
+      "id": 115535,
+      "logo_path": "/mYoc1K3UPAUqKfuCYkvDLJN2aAA.png",
+      "name": "Vision Distribution",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 247919,
+      "logo_path": null,
+      "name": "IDM Film Commission Südtirol",
+      "origin_country": ""
+    },
+    {
+      "id": 8471,
+      "logo_path": "/rfmlWuH9lxt9pgQetWbNwZKSXvZ.png",
+      "name": "Tarantula",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2025-03-27",
+  "revenue": 945973,
+  "runtime": 123,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every meal could be their last.",
+  "title": "The Tasters",
+  "video": false,
+  "vote_average": 6.644,
+  "vote_count": 180
+}

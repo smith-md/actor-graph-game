@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/rEX85lgoawCWv9l8bgEPRqWtdPp.jpg",
+  "belongs_to_collection": {
+    "id": 534673,
+    "name": "Madea Collection",
+    "poster_path": "/bO9NvwpSElW8lp33fGyy8VaS5s9.jpg",
+    "backdrop_path": "/qxLbjNPrMKTgYrMhIIDzj4zgYjf.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81702431",
+  "id": 1246310,
+  "imdb_id": "tt33299083",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Madea's Destination Wedding",
+  "overview": "Madea packs her best floral dresses and a whole lot of chaos when the Simmons family heads to the Bahamas for her grandniece's whirlwind wedding.",
+  "popularity": 3.2384,
+  "poster_path": "/jwMwRucnAROgWo9WLLmIqzHmmzi.jpg",
+  "production_companies": [
+    {
+      "id": 3096,
+      "logo_path": "/fkZTZ4veYYr3lwr2riVrVAOfeqD.png",
+      "name": "Tyler Perry Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 239167,
+      "logo_path": null,
+      "name": "Areu Bros.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-07-10",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They trippin'.",
+  "title": "Madea's Destination Wedding",
+  "video": false,
+  "vote_average": 6.058,
+  "vote_count": 77
+}

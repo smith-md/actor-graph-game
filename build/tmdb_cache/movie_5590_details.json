@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/3yZva3ONs7C1kKJ6IVvrZQJCUIj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 5590,
+  "imdb_id": "tt0066207",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Peau d'âne",
+  "overview": "A fairy godmother helps a princess disguise herself so she won't have to marry her father.",
+  "popularity": 2.6942,
+  "poster_path": "/kSODEFNpTBCOJNHhsbwrwvH0Uvd.jpg",
+  "production_companies": [
+    {
+      "id": 1497,
+      "logo_path": null,
+      "name": "Marianne Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 14680,
+      "logo_path": null,
+      "name": "Parc Film",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1970-12-16",
+  "revenue": 13200000,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The skin of an animal hid her captivating beauty that only a prince could discover!",
+  "title": "Donkey Skin",
+  "video": false,
+  "vote_average": 7.2,
+  "vote_count": 538
+}

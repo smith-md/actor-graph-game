@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/i7n9u1SppzXcSO2EVgwEehzABzm.jpg",
+  "belongs_to_collection": {
+    "id": 584320,
+    "name": "Rooster Cogburn Collection",
+    "poster_path": "/aXnD7Ncrw82Fxk6iTalAPrdPZF.jpg",
+    "backdrop_path": "/5BjY6QptDkUIVqzFpsR2qj3eTfz.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 17529,
+  "imdb_id": "tt0065126",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "True Grit",
+  "overview": "The murder of her father sends a teenage tomboy on a mission of 'justice', which involves avenging her father's death. She recruits a tough old marshal, 'Rooster' Cogburn because he has 'true grit', and a reputation of getting the job done.",
+  "popularity": 3.2717,
+  "poster_path": "/lmexRC57l39elaIcnxhaHpcaIW2.jpg",
+  "production_companies": [
+    {
+      "id": 87385,
+      "logo_path": null,
+      "name": "Wallis-Hazen Inc.",
+      "origin_country": "US"
+    },
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 20555,
+      "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+      "name": "Taurus Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1969-06-11",
+  "revenue": 37659900,
+  "runtime": 128,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The strangest trio ever to track a killer.",
+  "title": "True Grit",
+  "video": false,
+  "vote_average": 7.332,
+  "vote_count": 827
+}

@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/8uAwA3xnpMyP6etx3JIjFouA4Cl.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 9058,
+  "imdb_id": "tt0110737",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Only You",
+  "overview": "Two childhood paranormal incidents have convinced schoolteacher Faith Corvatch that her true love is a guy named \"Damon Bradley,\" but she has yet to meet him. Preparing to marry podiatrist Dwayne in 10 days, Faith receives a phone call from Dwayne's old classmate named Damon Bradley who is on his way to Venice. Faith tries to catch him at the airport but just misses him so she impulsively decides to fly to Venice hoping to finally encounter the man of her dreams; accompanying her on the trip is her sister-in-law and childhood best friend, Kate, who has just left her husband, Faith's brother Larry.",
+  "popularity": 2.7707,
+  "poster_path": "/7mLLANXgUg3bibTiUitDlB0NZcU.jpg",
+  "production_companies": [
+    {
+      "id": 559,
+      "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1484,
+      "logo_path": null,
+      "name": "Yorktown Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "1994-03-04",
+  "revenue": 20059210,
+  "runtime": 115,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A love story written in the stars.",
+  "title": "Only You",
+  "video": false,
+  "vote_average": 6.735,
+  "vote_count": 550
+}

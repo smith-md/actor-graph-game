@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/dT1bXXEd7cfuVsB7CMvOKYiRZWl.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0CMSHFQ15",
+  "id": 1007826,
+  "imdb_id": "tt21434318",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Underdoggs",
+  "overview": "Jaycen 'Two Js' Jennings is a washed-up former pro football star who has hit rock bottom. When sentenced to community service coaching the Underdoggs, an unruly pee-wee football team in his hometown, he sees it mostly as an opportunity to rebuild his public image. But in the process, he may just turn his life around and rediscover his love of the game.",
+  "popularity": 4.8875,
+  "poster_path": "/haFB89tlAcex3WHuy3trtp1yhwt.jpg",
+  "production_companies": [
+    {
+      "id": 179870,
+      "logo_path": "/xGvDDGCYvS8tZrrGcaOCJxz2lef.png",
+      "name": "Death Row Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 114690,
+      "logo_path": "/dP4q0910XaQmW6WsDGNaAyZDK8J.png",
+      "name": "Khalabo Ink Society",
+      "origin_country": "US"
+    },
+    {
+      "id": 79423,
+      "logo_path": "/2MxXCP5O86LZHYCILLLYwe6yWHa.png",
+      "name": "SMAC Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 179871,
+      "logo_path": "/uOX81wWZeoj2hq3lJBJbbT8OMM6.png",
+      "name": "Panoramic Media Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-01-25",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "From blunts to runts.",
+  "title": "The Underdoggs",
+  "video": false,
+  "vote_average": 7.003,
+  "vote_count": 193
+}

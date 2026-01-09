@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/u06SympEEMb7pLhR9W3tvydHT9L.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 653,
+  "imdb_id": "tt0013442",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Nosferatu, eine Symphonie des Grauens",
+  "overview": "The mysterious Count Orlok summons a happily married real estate agent to his castle, located up in the Transylvanian mountains, to finalise a terrifying deal.",
+  "popularity": 3.8792,
+  "poster_path": "/zv7J85D8CC9qYagAEhPM63CIG6j.jpg",
+  "production_companies": [
+    {
+      "id": 1960,
+      "logo_path": null,
+      "name": "Prana-Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "1922-02-16",
+  "revenue": 24194,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "No Language",
+      "iso_639_1": "xx",
+      "name": "No Language"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A symphony of horror.",
+  "title": "Nosferatu",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 2368
+}

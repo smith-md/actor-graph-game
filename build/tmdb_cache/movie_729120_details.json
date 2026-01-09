@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/w8OpyJ7O3Uozflzxkn0J0TmowZn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0B8PG5K3G",
+  "id": 729120,
+  "imdb_id": "tt14954534",
+  "origin_country": [
+    "MX",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Cassandro",
+  "overview": "The true story of Saúl Armendáriz, a gay amateur wrestler from El Paso that rises to international stardom after he creates the character Cassandro, the “Liberace of Lucha Libre.” In the process, he upends not just the macho wrestling world but also his own life.",
+  "popularity": 3.4102,
+  "poster_path": "/hWHwWsKVr5GkmOI1hWgHZBYkRwi.jpg",
+  "production_companies": [
+    {
+      "id": 10978,
+      "logo_path": "/ez34P9AcoWcuBWcPkZ3exAxzODZ.png",
+      "name": "Motto Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1423,
+      "logo_path": "/gzvsPHV9WqcQMrvI8pq5hbuvEZ5.png",
+      "name": "Escape Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 167724,
+      "logo_path": null,
+      "name": "Grand Illusion Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 103832,
+      "logo_path": "/AhbCrTCxKtl2706mPPLHRdQ1yQ6.png",
+      "name": "La Corriente del Golfo",
+      "origin_country": "MX"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-09-14",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Changing the game, one match at a time.",
+  "title": "Cassandro",
+  "video": false,
+  "vote_average": 6.648,
+  "vote_count": 125
+}

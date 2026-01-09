@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/hE39tIC0VUt8tPMDGIbTeTrqklP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 1119774,
+  "imdb_id": "tt27075304",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Chantal im Märchenland",
+  "overview": "Chantal is at the beginning of her career as an influencer when she steps through a mirror and finds herself in a fairy tale. She identifies as Sleeping Beauty. Her best friend Zeynep follows her through the mirror. Chantal’s goal, naturally, is to find a man, definitely a prince. Perhaps she will marry Prince Bosco. She already has a wedding gown, but he seems more interested in men. Her friend, Aladdin (Mido Kotaini), has a magic lamp; he rubs it, and people appear. She works to finish making a flying carpet. There is a wicked witch, Sansara, who sometimes looks old but often young. Her friend Zeynep ends up in a grave but reappears. An elderly rather fat fairy pops up occasionally. Chantal must fight a dragon.",
+  "popularity": 3.5418,
+  "poster_path": "/z9KCiGL6HdwWztnlywUOIjiaz6n.jpg",
+  "production_companies": [
+    {
+      "id": 47,
+      "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2024-03-28",
+  "revenue": 29671107,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Chantal in Fairyland",
+  "video": false,
+  "vote_average": 5.699,
+  "vote_count": 83
+}

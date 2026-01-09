@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/evCHYeumw4Y4hikG4AG9o5yZXUW.jpg",
+  "belongs_to_collection": null,
+  "budget": 1500000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://web.archive.org/web/20150402132323/http://www.sonypictures.com/movies/persuasion/",
+  "id": 17015,
+  "imdb_id": "tt0114117",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Persuasion",
+  "overview": "Living with her snobby family on the brink of bankruptcy, Anne Elliot is an unconforming woman with modern sensibilities. When Frederick Wentworth – the dashing one she once sent away – crashes back into her life, Anne must choose between putting the past behind her or listening to her heart when it comes to second chances.",
+  "popularity": 13.2248,
+  "poster_path": "/10hycdhFLq3M3y0ONxIMSiY8Mrs.jpg",
+  "production_companies": [
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 132236,
+      "logo_path": null,
+      "name": "Millésime Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 10197,
+      "logo_path": "/lRah8iyzBZJ90ZgsKUIWUU9XnRu.png",
+      "name": "GBH",
+      "origin_country": "US"
+    },
+    {
+      "id": 11359,
+      "logo_path": "/aqWJRi66t2oMPMmC60CdK9I3WQd.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-05-01",
+  "revenue": 5269757,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A love lost, but never forgotten in this new BBC dramatization",
+  "title": "Persuasion",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 137
+}

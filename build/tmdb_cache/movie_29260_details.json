@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/3ty1Whni0RiGt4nBnFr3a5A91J0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 29260,
+  "imdb_id": "tt0041983",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Trapped",
+  "overview": "Secret Service agents make a deal with a counterfeiting inmate to be released on early parole if he will help them recover some bogus moneymaking plates, but he plans to double-cross them.",
+  "popularity": 2.618,
+  "poster_path": "/ylqAsFE9pfpBgdfsie2FABD2VYW.jpg",
+  "production_companies": [
+    {
+      "id": 4927,
+      "logo_path": null,
+      "name": "Eagle-Lion Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1949-09-27",
+  "revenue": 0,
+  "runtime": 78,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "When a killer dreams of millions... and a girl to spend them on!",
+  "title": "Trapped",
+  "video": false,
+  "vote_average": 5.897,
+  "vote_count": 29
+}

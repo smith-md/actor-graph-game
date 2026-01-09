@@ -1,0 +1,110 @@
+{
+  "adult": false,
+  "backdrop_path": "/k0ucFBBgSDTXYU8fVHXJyjAuIIe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1063879,
+  "imdb_id": "tt26744289",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Vermines",
+  "overview": "Residents of a rundown French apartment building battle against an army of deadly, rapidly reproducing spiders.",
+  "popularity": 3.1987,
+  "poster_path": "/dY98PkUAbIGUUg0FhXEcOkbzHIZ.jpg",
+  "production_companies": [
+    {
+      "id": 125339,
+      "logo_path": "/1qMAzaB915azuJioe5FtHJXFL9A.png",
+      "name": "My Box Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 171659,
+      "logo_path": "/ha1f2fPtUQpNi7AUo80ie6EapXm.png",
+      "name": "Tandem",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7131,
+      "logo_path": "/qpFsGoa96SytbWkhtkkpllu5Cch.png",
+      "name": "France Télévisions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 256718,
+      "logo_path": null,
+      "name": "Impact Film",
+      "origin_country": ""
+    },
+    {
+      "id": 215774,
+      "logo_path": null,
+      "name": "Cinécap 6",
+      "origin_country": ""
+    },
+    {
+      "id": 234647,
+      "logo_path": null,
+      "name": "Cinéaxe 5",
+      "origin_country": ""
+    },
+    {
+      "id": 222376,
+      "logo_path": null,
+      "name": "Cofimage 34",
+      "origin_country": ""
+    },
+    {
+      "id": 256720,
+      "logo_path": null,
+      "name": "SG Image 2022",
+      "origin_country": ""
+    },
+    {
+      "id": 234645,
+      "logo_path": null,
+      "name": "Indéfilms 12",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2023-12-27",
+  "revenue": 2110014,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "Arabic",
+      "iso_639_1": "ar",
+      "name": "العربية"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Infested",
+  "video": false,
+  "vote_average": 6.597,
+  "vote_count": 546
+}

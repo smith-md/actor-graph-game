@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/xUUtcxWC6H48UCrpRwwSPQz69XC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 659986,
+  "imdb_id": "tt9806370",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Owners",
+  "overview": "A group of friends think they found the perfect easy score - an empty house with a safe full of cash. But when the elderly couple that lives there comes home early, the tables are suddenly turned. As a deadly game of cat and mouse ensues, the would-be thieves must fight to save themselves from a nightmare they could never have imagined.",
+  "popularity": 3.3818,
+  "poster_path": "/zMUpzTRF4f4MkScDkUZM030H2t0.jpg",
+  "production_companies": [
+    {
+      "id": 92840,
+      "logo_path": "/4LyDs7gsAMq5sg3fPjUa1P52emj.png",
+      "name": "Logical Pictures",
+      "origin_country": "FR"
+    },
+    {
+      "id": 856,
+      "logo_path": "/3tfzS2CrX6Ntbu927XzHXEPDA6y.png",
+      "name": "Wild Bunch",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12142,
+      "logo_path": "/rPnEeMwxjI6rYMGqkWqIWwIJXxi.png",
+      "name": "XYZ Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 107356,
+      "logo_path": null,
+      "name": "BlueLight",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2020-08-27",
+  "revenue": 225374,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Respect your elders... or else.",
+  "title": "The Owners",
+  "video": false,
+  "vote_average": 5.62,
+  "vote_count": 429
+}

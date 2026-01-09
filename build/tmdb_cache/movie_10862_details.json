@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/hZARFbBT4I3svc6TAnaHrhTyKbc.jpg",
+  "belongs_to_collection": null,
+  "budget": 35000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.miramax.com/movie/bounce",
+  "id": 10862,
+  "imdb_id": "tt0186894",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Bounce",
+  "overview": "Buddy Amaral, a successful and self-absorbed Los Angeles advertising executive, switches airline tickets with a stranger just before boarding a long-delayed flight so that he might enjoy an overnight fling with a pretty Dallas businesswoman. When the plane goes down, killing all aboard, Buddy's guilt soon turns into an alcohol problem. As part of his 12-step program, Buddy seeks atonement and decides to seek out the woman he thinks he's left a widow.",
+  "popularity": 4.6404,
+  "poster_path": "/w7X4M14WV7KrkkvXd64lcLh79sR.jpg",
+  "production_companies": [
+    {
+      "id": 14,
+      "logo_path": "/m6AHu84oZQxvq7n1rsvMNJIAsMu.png",
+      "name": "Miramax",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2000-11-15",
+  "revenue": 36779296,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Two strangers fell in love. One knew it wasn't by chance.",
+  "title": "Bounce",
+  "video": false,
+  "vote_average": 5.799,
+  "vote_count": 403
+}

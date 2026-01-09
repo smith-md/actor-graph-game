@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/sYKYfeJK83QlwL0ty5gOZ7MazCv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 1134754,
+  "imdb_id": "tt28005338",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "172 Hari",
+  "overview": "A young woman with a troubled past turns to religion as she seeks purpose in life — and a chance at finding true love.",
+  "popularity": 4.8398,
+  "poster_path": "/pbeSOr5ODJMHMzR4hbLXhnHNs1S.jpg",
+  "production_companies": [
+    {
+      "id": 14140,
+      "logo_path": "/tYujZw7UWP1mjWv48eqsjutjqeN.png",
+      "name": "Starvision Plus",
+      "origin_country": "ID"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2023-11-23",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "172 Days",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 32
+}

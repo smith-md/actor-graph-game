@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/1HrRnAXeYQkIucFZ08fHcNHeGjM.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 35250,
+  "imdb_id": "tt0387357",
+  "origin_country": [
+    "NZ"
+  ],
+  "original_language": "en",
+  "original_title": "The Locals",
+  "overview": "Two best friends, Grant and Paul, hita country road for a night of fun, but unfortunately take a short cut to their fate...where they meet the Locals.",
+  "popularity": 3.9954,
+  "poster_path": "/xnC2JbGHPHxRvCkdUATq4isCIBj.jpg",
+  "production_companies": [
+    {
+      "id": 39988,
+      "logo_path": null,
+      "name": "Essential Films",
+      "origin_country": ""
+    },
+    {
+      "id": 294,
+      "logo_path": "/a05DY2oSeUOVFDM61RsQa9x9RoC.png",
+      "name": "New Zealand Film Commission",
+      "origin_country": "NZ"
+    },
+    {
+      "id": 3207,
+      "logo_path": null,
+      "name": "Pictures in Paradise",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NZ",
+      "name": "New Zealand"
+    }
+  ],
+  "release_date": "2003-10-17",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They're Dying To Meet You",
+  "title": "The Locals",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 47
+}

@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/nZsKWhwhUL3Eg88SkIaJjuIZzpN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1319895,
+  "imdb_id": "tt31727397",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hostile Takeover",
+  "overview": "Follows Pete, a professional hitman, as he faces a group of assassins after the boss of a crime syndicate suspects disloyalty due to his attendance at Workaholics Anonymous meetings.",
+  "popularity": 11.8701,
+  "poster_path": "/vntwlS3CAKfoLTs90GaoK6lymBC.jpg",
+  "production_companies": [
+    {
+      "id": 234531,
+      "logo_path": null,
+      "name": "Dovetale Media",
+      "origin_country": ""
+    },
+    {
+      "id": 234532,
+      "logo_path": null,
+      "name": "Fun Republic Pictures",
+      "origin_country": ""
+    },
+    {
+      "id": 34994,
+      "logo_path": "/fr0hEjEX7w4vPmDNxKGEjfGPEaH.png",
+      "name": "Julijette",
+      "origin_country": "CA"
+    },
+    {
+      "id": 198392,
+      "logo_path": "/4FMAmrkNPNb48CdGpm2oAe3nAs8.png",
+      "name": "Karma Films",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-08",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Hostile Takeover",
+  "video": false,
+  "vote_average": 7.167,
+  "vote_count": 54
+}

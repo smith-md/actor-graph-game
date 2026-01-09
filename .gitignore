@@ -32,8 +32,8 @@ frontend/build/
 # Generated graph files (can be rebuilt with build script)
 *.gpickle
 
-# TMDb cache
-build/tmdb_cache/
+# TMDb cache (now included in repo for faster deploys)
+# build/tmdb_cache/
 
 # IDEs
 .vscode/

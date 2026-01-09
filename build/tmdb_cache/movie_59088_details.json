@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/AfjFIWJL3bOzuSwjPqRQ3KuMMC2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 59088,
+  "imdb_id": "tt0062277",
+  "origin_country": [
+    "YU"
+  ],
+  "original_language": "sr",
+  "original_title": "Skupljaci perja",
+  "overview": "The protagonist, Bora, is a charming but mean-spirited gypsy, while his older wife, Lence, is submissive. Bora is in love with the younger Tisa, who is being offered in marriage by her father. The two get themselves in trouble and eventually have to flee. Tisa rejects her husband and she and Bora get married in the church, and their adventures continue.",
+  "popularity": 2.0943,
+  "poster_path": "/zSegXDenrymOkEnCn5kb40HMtnH.jpg",
+  "production_companies": [
+    {
+      "id": 5940,
+      "logo_path": "/pJR6Hhx3FsRPzoh4LyJyHEa6cD3.png",
+      "name": "Avala Film",
+      "origin_country": "YU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "YU",
+      "name": "Yugoslavia"
+    }
+  ],
+  "release_date": "1967-03-27",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Serbo-Croatian",
+      "iso_639_1": "sh",
+      "name": ""
+    },
+    {
+      "english_name": "Serbian",
+      "iso_639_1": "sr",
+      "name": "Srpski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "I Even Met Happy Gypsies",
+  "video": false,
+  "vote_average": 7.033,
+  "vote_count": 30
+}

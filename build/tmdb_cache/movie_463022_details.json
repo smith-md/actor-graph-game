@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/1wSYWBqSmy0xCNFD2UWe0PsBu8.jpg",
+  "belongs_to_collection": null,
+  "budget": 2300000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 463022,
+  "imdb_id": "tt5884784",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Super",
+  "overview": "A man becomes the superintendent of a large New York City apartment building where people mysteriously go missing.",
+  "popularity": 4.3378,
+  "poster_path": "/1No4DWiCA7QiVwz3CghUQ6X8PMJ.jpg",
+  "production_companies": [
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    },
+    {
+      "id": 25545,
+      "logo_path": "/8Lqf0okunSPAwBBL08Ua1IRe1xi.png",
+      "name": "Wolf Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 5176,
+      "logo_path": null,
+      "name": "Fortress Features",
+      "origin_country": ""
+    },
+    {
+      "id": 6626,
+      "logo_path": "/y1PsXJOr4fSUk948lftHFUw67hs.png",
+      "name": "Voltage Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-11-08",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He has your keys",
+  "title": "The Super",
+  "video": false,
+  "vote_average": 5.171,
+  "vote_count": 164
+}

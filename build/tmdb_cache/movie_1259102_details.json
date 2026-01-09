@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/fuacZLpnohQtLD0AhtCErcPVL98.jpg",
+  "belongs_to_collection": null,
+  "budget": 12000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://a24films.com/films/eternity",
+  "id": 1259102,
+  "imdb_id": "tt24950660",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Eternity",
+  "overview": "In an afterlife where souls have one week to decide where to spend eternity, Joan is faced with the impossible choice between the man she spent her life with and her first love, who died young and has waited decades for her to arrive.",
+  "popularity": 45.5156,
+  "poster_path": "/o8pg20G67BGmQvRkXwstNre062J.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 27497,
+      "logo_path": "/1QuLulTFEynrZnFsogW0UefcKYC.png",
+      "name": "Star Thrower Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-11-26",
+  "revenue": 32066992,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You can only choose one.",
+  "title": "Eternity",
+  "video": false,
+  "vote_average": 7.134,
+  "vote_count": 272
+}

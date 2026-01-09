@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/9x82vpYkZBY0ljJj14ImQuCI57u.jpg",
+  "belongs_to_collection": null,
+  "budget": 60000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/thepiratesbandofmisfits",
+  "id": 72197,
+  "imdb_id": "tt1430626",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Pirates! In an Adventure with Scientists!",
+  "overview": "The enthusiastic Pirate Captain, along with his rag-tag crew, sets out to beat his bitter rivals. The chaotic adventure takes them from exotic shores to Victorian London, and from a haplessly smitten scientist to a diabolical queen.",
+  "popularity": 2.9625,
+  "poster_path": "/bkLeXPDP6sramrTiF5W7TzUl4t0.jpg",
+  "production_companies": [
+    {
+      "id": 297,
+      "logo_path": "/8ixoR3cvroUqNDLjaX6AZmJIdRY.png",
+      "name": "Aardman",
+      "origin_country": "GB"
+    },
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2251,
+      "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+      "name": "Sony Pictures Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2012-03-12",
+  "revenue": 123054041,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's a plunderful life.",
+  "title": "The Pirates! In an Adventure with Scientists!",
+  "video": false,
+  "vote_average": 6.515,
+  "vote_count": 1171
+}

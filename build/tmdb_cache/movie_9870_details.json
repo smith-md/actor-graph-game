@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/buLc1G3Ou5wYUsAI8nbJpomzLdh.jpg",
+  "belongs_to_collection": null,
+  "budget": 30000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.forgettingsarahmarshall.com/",
+  "id": 9870,
+  "imdb_id": "tt0800039",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Forgetting Sarah Marshall",
+  "overview": "When actress Sarah Marshall dumps aspiring musician Peter Bretter for rock star Aldous Snow, Peter's world comes crashing down. His best friend Brian suggests that Peter should get away from everything and to fly off to Hawaii to escape all his problems. After arriving in Hawaii and meeting the beautiful receptionist Rachel Jansen, Peter is shocked to see not only Aldous in Hawaii, but also Sarah.",
+  "popularity": 5.2648,
+  "poster_path": "/oj2oj0AaiY2HIDJJ66aUiXTRS7i.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10105,
+      "logo_path": "/bN4tiAS8oNlHhIqq66KBPQ1Ekqh.png",
+      "name": "Apatow Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-04-17",
+  "revenue": 105173115,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You lose some, you get some.",
+  "title": "Forgetting Sarah Marshall",
+  "video": false,
+  "vote_average": 6.505,
+  "vote_count": 3600
+}

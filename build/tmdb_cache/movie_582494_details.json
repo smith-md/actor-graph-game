@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/w5fJZQASD37RuXDiFL9bYMQXhFk.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "https://vod.tvp.pl/filmy-fabularne,136/kurier,317651",
+  "id": 582494,
+  "imdb_id": "tt8706988",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Kurier",
+  "overview": "Based on the true story of Jan Nowak-Jezioranski, who served as a courier between the commanders of the Polish Home Army and the Polish Government in Exile in London. He must return quickly to Warsaw to transmit orders from the Polish PM to the Home Army's commander-in-chief before the start of the Warsaw uprising.",
+  "popularity": 3.907,
+  "poster_path": "/4uWOX6yAQLHzgoX3VtZwZIVGeNk.jpg",
+  "production_companies": [
+    {
+      "id": 53894,
+      "logo_path": null,
+      "name": "Scorpio Studio",
+      "origin_country": "PL"
+    },
+    {
+      "id": 6480,
+      "logo_path": "/qJUUNzFYXNUDaisssBTV3Zdki9R.png",
+      "name": "Telewizja Polska",
+      "origin_country": "PL"
+    },
+    {
+      "id": 94865,
+      "logo_path": null,
+      "name": "Chimney Poland",
+      "origin_country": "PL"
+    },
+    {
+      "id": 237862,
+      "logo_path": null,
+      "name": "Muzeum Powstania Warszawskiego",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2019-03-15",
+  "revenue": 2458025,
+  "runtime": 114,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every man fights his own war.",
+  "title": "The Resistance Fighter",
+  "video": false,
+  "vote_average": 6.173,
+  "vote_count": 84
+}

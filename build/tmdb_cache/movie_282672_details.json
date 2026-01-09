@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/eoLwcutwbn9DYqmWUSshAF5AMhm.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.transmissionfilms.com.au/films/my-mistress",
+  "id": 282672,
+  "imdb_id": "tt2622874",
+  "origin_country": [
+    "AU"
+  ],
+  "original_language": "en",
+  "original_title": "My Mistress",
+  "overview": "After the death of his father, a 16-year-old boy struggles with anger and instability, distancing himself from his mother. His search for escape leads him to a lonely dominatrix living nearby, a woman accustomed to giving and controlling pain. Drawn to her world, he seeks both solace and love, while she finds herself pulled into a bond that neither expected but both need.",
+  "popularity": 6.0396,
+  "poster_path": "/r5hLODk4cnYZ7OQGBhs1EpulZDT.jpg",
+  "production_companies": [
+    {
+      "id": 167181,
+      "logo_path": null,
+      "name": "Mini Studios",
+      "origin_country": "AU"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AU",
+      "name": "Australia"
+    }
+  ],
+  "release_date": "2014-11-06",
+  "revenue": 7000,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love hurts.",
+  "title": "My Mistress",
+  "video": false,
+  "vote_average": 5.154,
+  "vote_count": 68
+}

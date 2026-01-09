@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/rOmUuQEZfPXglwFs5ELLLUDKodL.jpg",
+  "belongs_to_collection": null,
+  "budget": 250000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://www.amazon.com/salp/redonemovie",
+  "id": 845781,
+  "imdb_id": "tt14948432",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Red One",
+  "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+  "popularity": 19.2456,
+  "poster_path": "/cdqLnri3NEGcmfnqwk2TSIYtddg.jpg",
+  "production_companies": [
+    {
+      "id": 73669,
+      "logo_path": "/pZ1sOLrUxvCvW1jODdCFgU6RxUA.png",
+      "name": "Seven Bucks Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 92693,
+      "logo_path": "/rMKRo8kFoJKxZr0MFEVRoZ8b54E.png",
+      "name": "The Detective Agency",
+      "origin_country": "US"
+    },
+    {
+      "id": 25998,
+      "logo_path": null,
+      "name": "Chris Morgan Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-10-31",
+  "revenue": 185700759,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The mission to save Christmas is on.",
+  "title": "Red One",
+  "video": false,
+  "vote_average": 7.015,
+  "vote_count": 2878
+}

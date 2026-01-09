@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/pzvnnpJmCtSZMw44WYVEqldhn17.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://www.amazon.com/dp/B0C9GQ5LSC",
+  "id": 1143319,
+  "imdb_id": "tt28182736",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Puppy Love",
+  "overview": "After a disastrous first date, wild-child Nicole and socially-anxious Max vow to lose each other’s numbers until they learn that their dogs found a love match, and now puppies are on the way! The hilariously mismatched Nicole and Max are forced to become responsible co-parents, but may end up finding love themselves.",
+  "popularity": 5.2414,
+  "poster_path": "/fVsy8dJjouq8opEGlktWTHcdr8.jpg",
+  "production_companies": [
+    {
+      "id": 125401,
+      "logo_path": "/dMEisJ0hVKRiwqfpPq7ALu1Cy9e.png",
+      "name": "BuzzFeed Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 1632,
+      "logo_path": "/cisLn1YAUuptXVBa0xjq7ST9cH0.png",
+      "name": "Lionsgate",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-08-22",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "One bone can change everything.",
+  "title": "Puppy Love",
+  "video": false,
+  "vote_average": 6.967,
+  "vote_count": 334
+}

@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": "/8fodptokLS15t13AGPOEJcyepx3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 572404,
+  "imdb_id": "tt7587282",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Port Authority",
+  "overview": "Paul, a 20 year old midwesterner, arrives at the central bus station and quickly catches eyes with Wye, a 22 year old girl voguing on the sidewalk. After Paul seeks her out in secret, an intense love between them blossoms. But when Paul discovers Wye is trans, he is forced to confront his own identity and what it means to belong.",
+  "popularity": 2.5152,
+  "poster_path": "/SXkZMR3zue7FeOvsLGVeQq2z0R.jpg",
+  "production_companies": [
+    {
+      "id": 1147,
+      "logo_path": "/tBDaGOA04LmlsbLvMwHjR7WzT9H.png",
+      "name": "Madeleine Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 30666,
+      "logo_path": "/g8LmDZVFWDRJW72sj0nAj1gh8ac.png",
+      "name": "RT Features",
+      "origin_country": "BR"
+    },
+    {
+      "id": 23243,
+      "logo_path": "/cBPyrhXhGKzxUdL4Fkg801HZ4W.png",
+      "name": "Sikelia Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 37504,
+      "logo_path": "/k4A2f5FeH96xamI0ZuXlEQAerog.png",
+      "name": "Rhea Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 147591,
+      "logo_path": "/uMVoIH3rug7F3BsU1FGVJos4yrR.png",
+      "name": "Hercules Film Fund",
+      "origin_country": "LU"
+    },
+    {
+      "id": 204957,
+      "logo_path": "/16gclYCHdh6QFQyBRNOo3DuaqDT.png",
+      "name": "MUBI",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BR",
+      "name": "Brazil"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2019-09-25",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Port Authority",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 45
+}

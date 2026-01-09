@@ -1,0 +1,153 @@
+{
+  "id": 64648,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 121039,
+      "known_for_department": "Acting",
+      "name": "Frank Graham",
+      "original_name": "Frank Graham",
+      "popularity": 0.4727,
+      "profile_path": "/eyk6QL2NR8Ay4AlrAHYyqcRtMqY.jpg",
+      "cast_id": 8,
+      "character": "Narrator / Foxy Loxy / Chicken Little / Cocky Locky / Turkey Lurkey / Additional characters (voice) (uncredited)",
+      "credit_id": "52fe46e2c3a368484e0a9215",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 148767,
+      "known_for_department": "Acting",
+      "name": "Florence Gill",
+      "original_name": "Florence Gill",
+      "popularity": 1.816,
+      "profile_path": null,
+      "cast_id": 9,
+      "character": "Hens (voice) (uncredited)",
+      "credit_id": "52fe46e2c3a368484e0a9219",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 78077,
+      "known_for_department": "Acting",
+      "name": "Clarence Nash",
+      "original_name": "Clarence Nash",
+      "popularity": 0.7566,
+      "profile_path": "/x2g2hbu4RRIcn6Q5RT8gpWR1FKV.jpg",
+      "cast_id": 10,
+      "character": "Ducks (voice) (uncredited)",
+      "credit_id": "52fe46e2c3a368484e0a921d",
+      "order": 2
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 69003,
+      "known_for_department": "Visual Effects",
+      "name": "John Lounsbery",
+      "original_name": "John Lounsbery",
+      "popularity": 1.6115,
+      "profile_path": "/sHvTdMA98zyOEn3Mfffz1zApBaL.jpg",
+      "credit_id": "52fe46e2c3a368484e0a920b",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 109453,
+      "known_for_department": "Visual Effects",
+      "name": "Ward Kimball",
+      "original_name": "Ward Kimball",
+      "popularity": 0.2674,
+      "profile_path": null,
+      "credit_id": "52fe46e2c3a368484e0a9205",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1015864,
+      "known_for_department": "Visual Effects",
+      "name": "Norman Tate",
+      "original_name": "Norman Tate",
+      "popularity": 0.1506,
+      "profile_path": null,
+      "credit_id": "52fe46e2c3a368484e0a9211",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 138170,
+      "known_for_department": "Visual Effects",
+      "name": "Milt Kahl",
+      "original_name": "Milt Kahl",
+      "popularity": 0.5397,
+      "profile_path": "/3Kh10dBqHTNDbXmsEoD7GAISelz.jpg",
+      "credit_id": "52fe46e2c3a368484e0a91ff",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2106,
+      "known_for_department": "Production",
+      "name": "Walt Disney",
+      "original_name": "Walt Disney",
+      "popularity": 1.2446,
+      "profile_path": "/fnB3Yt4dPiVODHzfLwntISAvbhw.jpg",
+      "credit_id": "52fe46e2c3a368484e0a91f3",
+      "department": "Production",
+      "job": "Producer"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 143786,
+      "known_for_department": "Visual Effects",
+      "name": "Ollie Johnston",
+      "original_name": "Ollie Johnston",
+      "popularity": 0.9121,
+      "profile_path": "/7LShcoYbJg7vfXV2lSjzTlGAGb.jpg",
+      "credit_id": "52fe46e2c3a368484e0a91f9",
+      "department": "Visual Effects",
+      "job": "Animation"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 64864,
+      "known_for_department": "Visual Effects",
+      "name": "Clyde Geronimi",
+      "original_name": "Clyde Geronimi",
+      "popularity": 0.929,
+      "profile_path": "/eAeqN6fPYuzKjGRSaR2jqhSeeMq.jpg",
+      "credit_id": "52fe46e2c3a368484e0a91ed",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 69134,
+      "known_for_department": "Visual Effects",
+      "name": "Dick Huemer",
+      "original_name": "Dick Huemer",
+      "popularity": 0.5105,
+      "profile_path": "/eJwIebTnY1xGhlQV1p0AvnpGFFQ.jpg",
+      "credit_id": "5f24cbcc1b70ae0033a09b83",
+      "department": "Writing",
+      "job": "Story"
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "adult": false,
+  "backdrop_path": "/c4UbjY6n3YvsRLbAPd8gK04Ag7Q.jpg",
+  "belongs_to_collection": null,
+  "budget": 18000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 509853,
+  "imdb_id": "tt7869070",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Fanatic",
+  "overview": "A rabid film fan stalks his favorite action hero and destroys the star's life.",
+  "popularity": 4.5833,
+  "poster_path": "/nojx83s8JWyYpI9oeKdQXniWMu6.jpg",
+  "production_companies": [
+    {
+      "id": 77079,
+      "logo_path": null,
+      "name": "Daniel Grodnik Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 117746,
+      "logo_path": null,
+      "name": "Fig Production Group",
+      "origin_country": "US"
+    },
+    {
+      "id": 117747,
+      "logo_path": "/brD72VA95qgjCtGx0hJEAVUeldW.png",
+      "name": "Media Finance Capital",
+      "origin_country": "GB"
+    },
+    {
+      "id": 101889,
+      "logo_path": null,
+      "name": "Pretzel Fang Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 101890,
+      "logo_path": "/1uN1lWLR1bwTGwu52j1SS21KPnu.png",
+      "name": "Wonderfilm Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 122718,
+      "logo_path": null,
+      "name": "Oscar Generale Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 20555,
+      "logo_path": "/hD8yEGUBlHOcfHYbujp71vD8gZp.png",
+      "name": "Taurus Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 121205,
+      "logo_path": "/f1oMMN9etU1sT6owkPDtxFH2yMA.png",
+      "name": "VMI WorldWide",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2019-08-30",
+  "revenue": 3153,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "All he wanted was an autograph.",
+  "title": "The Fanatic",
+  "video": false,
+  "vote_average": 4.456,
+  "vote_count": 328
+}

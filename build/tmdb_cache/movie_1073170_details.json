@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/tXkIqZL1GnDymT1M8WMXfLzC1qa.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.paramountplus.com/movies/video/lCSAVc3DeT0smQxSBZ9uRu9GSEOCX28S/",
+  "id": 1073170,
+  "imdb_id": "tt26217622",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Zoey 102",
+  "overview": "Pacific Coast Academy alumni return to Malibu for an over-the-top wedding that turns into a high school reunion for the books.",
+  "popularity": 4.2151,
+  "poster_path": "/liVS0KJMviz4iOfbrZkLqdCzBIp.jpg",
+  "production_companies": [
+    {
+      "id": 5371,
+      "logo_path": "/2GFJ3jJ7dhjqcOGj41aTwd3OhQT.png",
+      "name": "Nickelodeon Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 2348,
+      "logo_path": "/oydqrfwRAm6qqdYbxuMmmPsVi87.png",
+      "name": "Nickelodeon Movies",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-07-27",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Saving the date since 2008.",
+  "title": "Zoey 102",
+  "video": false,
+  "vote_average": 6.772,
+  "vote_count": 186
+}

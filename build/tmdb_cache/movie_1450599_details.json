@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/rU9kRB3rBU5O7AMReZCiuIy7zmE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81745661",
+  "id": 1450599,
+  "imdb_id": "tt36240772",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "K.O.",
+  "overview": "A former fighter must find the missing son of an opponent he accidentally killed years ago, taking on a brutally violent crime gang in Marseille.",
+  "popularity": 9.8401,
+  "poster_path": "/qcM2sUiAeP4zXwx4ADSvgc9S58k.jpg",
+  "production_companies": [
+    {
+      "id": 3286,
+      "logo_path": "/kMwaZKoh6b5JouZ9mZrLN8YvaWf.png",
+      "name": "Empreinte Digitale",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11773,
+      "logo_path": "/8fCjsqh43LbPV6pm3SfR5Jx64GU.png",
+      "name": "Artémis Productions",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2025-06-05",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "K.O.",
+  "video": false,
+  "vote_average": 6.445,
+  "vote_count": 247
+}

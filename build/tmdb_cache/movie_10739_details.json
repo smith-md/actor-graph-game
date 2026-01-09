@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/1ZGPaOYfEe4DW2yFQok98TZCm4C.jpg",
+  "belongs_to_collection": null,
+  "budget": 18000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 10739,
+  "imdb_id": "tt0313792",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Anything Else",
+  "overview": "Jerry Falk, an aspiring writer in New York, falls in love at first sight with a free-spirited young woman named Amanda. He has heard the phrase that life is like \"anything else,\" but soon he finds that life with the unpredictable Amanda isn't like anything else at all.",
+  "popularity": 3.4817,
+  "poster_path": "/bvyoWDh60R31ZE5L8TjZ8Qpv5xM.jpg",
+  "production_companies": [
+    {
+      "id": 7,
+      "logo_path": "/vru2SssLX3FPhnKZGtYw00pVIS9.png",
+      "name": "DreamWorks Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 21785,
+      "logo_path": null,
+      "name": "VCL Communications",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1824,
+      "logo_path": null,
+      "name": "Gravier Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 12966,
+      "logo_path": null,
+      "name": "Perdido Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2003-08-27",
+  "revenue": 13585075,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In any relationship, one person always does the heavy lifting.",
+  "title": "Anything Else",
+  "video": false,
+  "vote_average": 6.14,
+  "vote_count": 648
+}

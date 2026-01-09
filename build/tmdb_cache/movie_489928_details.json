@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/hX5cGuen5cEdAVfAbBgWpYAQ55T.jpg",
+  "belongs_to_collection": null,
+  "budget": 1200000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "http://blazethemovie.com/",
+  "id": 489928,
+  "imdb_id": "tt6443294",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Blaze",
+  "overview": "Inspired by the life of Blaze Foley, the unsung songwriting legend of the Texas outlaw country movement that spawned the likes of Merle Haggard and Willie Nelson. The film weaves together three periods in Blaze's life, exploring his love affair with Sybil Rosen; his last, dark night on Earth; and the impact his songs and his death had on his fans, friends, and foes.",
+  "popularity": 4.1669,
+  "poster_path": "/g3rMWJRP6rQO5qP9E6umeRq9hGA.jpg",
+  "production_companies": [
+    {
+      "id": 97085,
+      "logo_path": null,
+      "name": "Ansgar Media",
+      "origin_country": ""
+    },
+    {
+      "id": 88582,
+      "logo_path": "/zf2Akd6JvRZlnd1OacHYaN5dj0k.png",
+      "name": "Cinetic Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 98506,
+      "logo_path": null,
+      "name": "Under the Influence Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-08-17",
+  "revenue": 467306,
+  "runtime": 129,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Based on a true Texas love story",
+  "title": "Blaze",
+  "video": false,
+  "vote_average": 6.3,
+  "vote_count": 56
+}

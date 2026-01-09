@@ -1,0 +1,100 @@
+{
+  "adult": false,
+  "backdrop_path": "/xVcffNU61CclEGgtiWP7KLIE2dm.jpg",
+  "belongs_to_collection": {
+    "id": 1166174,
+    "name": "Angels Fallen Collection",
+    "poster_path": "/65iuw5wff0HGPpwKNtErzQ5nCp.jpg",
+    "backdrop_path": null
+  },
+  "budget": 3200000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 1058537,
+  "imdb_id": "tt20258220",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Angels Fallen: Warriors of Peace",
+  "overview": "When an Iraq War veteran receives a calling from a higher power, he embarks on a mission to stop a fallen angel from raising an army of the dead to take over the world.",
+  "popularity": 4.5209,
+  "poster_path": "/dKdKUSGQ9E0G73WPr9xIHrofpkT.jpg",
+  "production_companies": [
+    {
+      "id": 188701,
+      "logo_path": null,
+      "name": "AZ Film Studios",
+      "origin_country": ""
+    },
+    {
+      "id": 188702,
+      "logo_path": null,
+      "name": "Bossa Nova Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 188703,
+      "logo_path": null,
+      "name": "Eleven Seven Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 188705,
+      "logo_path": null,
+      "name": "Ron Lee Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 141658,
+      "logo_path": "/f9d5hojLGirDcJqHJm6kskGjeMx.png",
+      "name": "Silent D Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 35613,
+      "logo_path": null,
+      "name": "Millman Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-07-09",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He is the world's only hope.",
+  "title": "Angels Fallen: Warriors of Peace",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 66
+}

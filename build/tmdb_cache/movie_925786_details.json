@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/jZXI5WdFkYDfDNBZsy8PFqp03vP.jpg",
+  "belongs_to_collection": {
+    "id": 991946,
+    "name": "Satan's Slaves Collection",
+    "poster_path": "/heI32V3XGEjG1eDrbWhbi388zye.jpg",
+    "backdrop_path": null
+  },
+  "budget": 1000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 925786,
+  "imdb_id": "tt16915972",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "Pengabdi Setan 2: Communion",
+  "overview": "After moving from their home to an apartment building, a new terror awaits Rini’s family.",
+  "popularity": 4.9843,
+  "poster_path": "/xQNMM3u6srkhM8bdTCKVTFzyCF1.jpg",
+  "production_companies": [
+    {
+      "id": 7872,
+      "logo_path": "/5zodgZbBTlY5PAviS6KxOCyOlGH.png",
+      "name": "Rapi Films",
+      "origin_country": "ID"
+    },
+    {
+      "id": 104946,
+      "logo_path": "/qwq74morPMzy1QzkxUqhbrelDfu.png",
+      "name": "Sky Media",
+      "origin_country": "ID"
+    },
+    {
+      "id": 72491,
+      "logo_path": null,
+      "name": "Brown Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 198917,
+      "logo_path": "/rcQ9T6tnlNky6jPXVkswITn1Tsq.png",
+      "name": "Come and See Pictures",
+      "origin_country": "ID"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2022-07-30",
+  "revenue": 14342131,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A mother's terror is forever.",
+  "title": "Satan's Slaves 2: Communion",
+  "video": false,
+  "vote_average": 6.942,
+  "vote_count": 69
+}

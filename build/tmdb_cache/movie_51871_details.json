@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/dCTOCAHNIdZ1jDhUbMjcYwhKTL2.jpg",
+  "belongs_to_collection": null,
+  "budget": 3367980,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 51871,
+  "imdb_id": "tt1160022",
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "fr",
+  "original_title": "Rumba",
+  "overview": "Teachers in a rural school, happy couple Fiona and Dom have a common passion: Latin Dancing. One night, after a glorious dance competition, they have a car accident and see their lives turn upside down. Rumba or how optimism and humour can overcome fatality!",
+  "popularity": 3.3057,
+  "poster_path": "/oZSjoQAVgV6MemlfbX8AFDtgBX5.jpg",
+  "production_companies": [
+    {
+      "id": 93132,
+      "logo_path": "/idgy9hLGBaV0RQgw8jEUrWT2Xhl.png",
+      "name": "Courage Mon Amour",
+      "origin_country": "BE"
+    },
+    {
+      "id": 6274,
+      "logo_path": "/ngZoa368SAnERTz3IBvgTT4eWeB.png",
+      "name": "MK2 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 792,
+      "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2008-09-10",
+  "revenue": 0,
+  "runtime": 77,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Rumba",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 41
+}

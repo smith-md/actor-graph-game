@@ -1,0 +1,101 @@
+{
+  "adult": false,
+  "backdrop_path": "/qLAMT52DRM3vzqYtcRJ4hBAOYgd.jpg",
+  "belongs_to_collection": null,
+  "budget": 52000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "https://signature-entertainment.co.uk/distribution/titles/dracula",
+  "id": 1246049,
+  "imdb_id": "tt31434030",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Dracula",
+  "overview": "When a 15th-century prince denounces God after the devastating loss of his wife, he inherits an eternal curse: he becomes Dracula. Condemned to wander the centuries, he defies fate and death itself, guided by a single hope — to be reunited with his lost love.",
+  "popularity": 47.1651,
+  "poster_path": "/ykyRfv7JDofLxXLAwtLXaSuaFfM.jpg",
+  "production_companies": [
+    {
+      "id": 6896,
+      "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+      "name": "EuropaCorp",
+      "origin_country": "FR"
+    },
+    {
+      "id": 221450,
+      "logo_path": null,
+      "name": "Luc Besson Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 2902,
+      "logo_path": "/vFmmYSgFp8eE6C34JVCXy9bJFmc.png",
+      "name": "SND",
+      "origin_country": "FR"
+    },
+    {
+      "id": 18626,
+      "logo_path": "/gb0xmYIKvNy2LnUOfLVglww7U0g.png",
+      "name": "Kinology",
+      "origin_country": "FR"
+    },
+    {
+      "id": 255253,
+      "logo_path": null,
+      "name": "Actarus Productions",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-07-30",
+  "revenue": 28540896,
+  "runtime": 130,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Romanian",
+      "iso_639_1": "ro",
+      "name": "Română"
+    }
+  ],
+  "status": "Released",
+  "tagline": "He renounced his faith to become immortal. Passion, anger, vengeance, and hatred will be unleashed into the modern world.",
+  "title": "Dracula",
+  "video": false,
+  "vote_average": 7.143,
+  "vote_count": 712
+}

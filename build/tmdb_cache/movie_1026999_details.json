@@ -1,0 +1,120 @@
+{
+  "adult": false,
+  "backdrop_path": "/w2zsNG7WKBMH35QqcFYILEAdYDU.jpg",
+  "belongs_to_collection": {
+    "id": 1223424,
+    "name": "Kleks Academy: Collection",
+    "poster_path": "/jIPnW8JI2gmpMFpdOrbmbdMbjCO.jpg",
+    "backdrop_path": "/2uUR92fJlua4fP7fZlxM0sef79P.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://www.kleksacademy.com/",
+  "id": 1026999,
+  "imdb_id": "tt20857676",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Akademia Pana Kleksa",
+  "overview": "A seemingly ordinary girl finds her way into the eponymous Academy to explore the world of fairy tales, imagination and creativity. With the help of a crazy, talented teacher, she develops her unique abilities and also stumbles upon a clue that will help her unravel the biggest secret of the family...",
+  "popularity": 3.7141,
+  "poster_path": "/ymbECZscR8BTkdvXziSinMIckAz.jpg",
+  "production_companies": [
+    {
+      "id": 133440,
+      "logo_path": "/affIuBGXZHwRdnk893aMhEeavAQ.png",
+      "name": "Open Mind Production",
+      "origin_country": "PL"
+    },
+    {
+      "id": 215209,
+      "logo_path": null,
+      "name": "Bajka Pana Kleksa",
+      "origin_country": "PL"
+    },
+    {
+      "id": 231784,
+      "logo_path": null,
+      "name": "Platinum Towers Management",
+      "origin_country": ""
+    },
+    {
+      "id": 231785,
+      "logo_path": null,
+      "name": "Flame Natalia Siwiec",
+      "origin_country": ""
+    },
+    {
+      "id": 231786,
+      "logo_path": null,
+      "name": "MSL",
+      "origin_country": ""
+    },
+    {
+      "id": 148963,
+      "logo_path": "/jYOXf9Q07mlO4AU0o16YpTWlor2.png",
+      "name": "Mazowiecki i Warszawski Fundusz Filmowy",
+      "origin_country": "PL"
+    },
+    {
+      "id": 125737,
+      "logo_path": "/v4YRjUXtET5EqW2XXYB05K3yUpd.png",
+      "name": "Mazowiecki Instytut Kultury",
+      "origin_country": "PL"
+    },
+    {
+      "id": 233704,
+      "logo_path": "/hXwh3n5q2ubbBwPTZG4UeYIJ56c.png",
+      "name": "TVN Warner Bros. Discovery",
+      "origin_country": "PL"
+    },
+    {
+      "id": 46346,
+      "logo_path": "/pcBTGWDtsjOSTIczHTfThttHe9P.png",
+      "name": "Next Film",
+      "origin_country": "PL"
+    },
+    {
+      "id": 86548,
+      "logo_path": "/afjrunf5FSqGc3cjTzq5qhLqNnx.png",
+      "name": "Jake Vision",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2024-01-05",
+  "revenue": 15348026,
+  "runtime": 130,
+  "spoken_languages": [
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Kleks Academy",
+  "video": false,
+  "vote_average": 6.045,
+  "vote_count": 178
+}

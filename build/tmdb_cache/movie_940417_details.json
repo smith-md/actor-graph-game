@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/lY5MUW2nAbiKrSfRHlQVa7ohJg8.jpg",
+  "belongs_to_collection": {
+    "id": 93369,
+    "name": "Ring Collection",
+    "poster_path": "/biJHrhd2pm2ppOYg3XD7MFQjkcI.jpg",
+    "backdrop_path": "/aS42DTtR6UYNLfKdKJBKYL1OS1U.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 940417,
+  "imdb_id": "tt19815280",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "貞子DX",
+  "overview": "Ayaka Ichijo is a graduate student with an IQ of 200 who tries to investigate the strange deaths happening nationwide after people supposedly watched a cursed video and her younger sister also did the same out of curiosity.",
+  "popularity": 3.1775,
+  "poster_path": "/a0WfIX5OMr6mi6QusBOfMnQkiGh.jpg",
+  "production_companies": [
+    {
+      "id": 2073,
+      "logo_path": "/tWxRSaKmRJNTcmtlXsmn5R4KOSU.png",
+      "name": "KADOKAWA",
+      "origin_country": "JP"
+    },
+    {
+      "id": 46774,
+      "logo_path": "/muOQv2xpkJqfwNthZbTS6ur85ZA.png",
+      "name": "KADOKAWA Daiei Studio",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2022-10-28",
+  "revenue": 2352175,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "This curse mutates and spreads.",
+  "title": "Sadako DX",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 42
+}

@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/viHDt7yHqZYjnzvLbfP8BCWXmdx.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 74225,
+  "imdb_id": "tt0091338",
+  "origin_country": [
+    "US",
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Killer Party",
+  "overview": "Three sorority pledges are tasked with ensuring that the gals of Sigma Alpha Pi throw a killer party at an abandoned fraternity house. Unfortunately a vengeful spirit decides to take the killer epithet literally",
+  "popularity": 3.3185,
+  "poster_path": "/ym1KgAPOfmVYSh31mzK56jytqfT.jpg",
+  "production_companies": [
+    {
+      "id": 62072,
+      "logo_path": null,
+      "name": "Polar Entertainment Corporation",
+      "origin_country": "US"
+    },
+    {
+      "id": 151,
+      "logo_path": null,
+      "name": "Marquis Film",
+      "origin_country": ""
+    },
+    {
+      "id": 3606,
+      "logo_path": null,
+      "name": "Telecom Entertainment Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 21678,
+      "logo_path": null,
+      "name": "Marquis Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-05-09",
+  "revenue": 681000,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "By the end of the dance, some of the sorority sisters were dead on their feet.",
+  "title": "Killer Party",
+  "video": false,
+  "vote_average": 4.984,
+  "vote_count": 64
+}

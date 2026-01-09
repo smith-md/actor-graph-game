@@ -1,0 +1,161 @@
+{
+  "adult": false,
+  "backdrop_path": "/9HiPNg8Y1equeEjbqT9aFok0C3N.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 2700,
+  "imdb_id": "tt0168331",
+  "origin_country": [
+    "IT",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Esther",
+  "overview": "Esther, the beautiful queen of Persia, intervenes to save the Jewish people from a bloody massacre.",
+  "popularity": 3.044,
+  "poster_path": "/6RaDUkZan01ixkpsM7hew4UQybw.jpg",
+  "production_companies": [
+    {
+      "id": 1082,
+      "logo_path": "/lEvojpyYkqD9W8mIEH5LB1cft2q.png",
+      "name": "Lux Vide",
+      "origin_country": "IT"
+    },
+    {
+      "id": 7196,
+      "logo_path": null,
+      "name": "Lube",
+      "origin_country": ""
+    },
+    {
+      "id": 1583,
+      "logo_path": "/gKP4egMJOi5rksdnplfPV1wa0sd.png",
+      "name": "RAI",
+      "origin_country": "IT"
+    },
+    {
+      "id": 6370,
+      "logo_path": null,
+      "name": "Quinta Communications",
+      "origin_country": "FR"
+    },
+    {
+      "id": 23946,
+      "logo_path": "/nMSb08CGf7EPLaY6SDlOknlS9ZP.png",
+      "name": "NCRV",
+      "origin_country": "NL"
+    },
+    {
+      "id": 15847,
+      "logo_path": "/citziAyntn5lDG23a6oKMTzptYt.png",
+      "name": "MTM Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 1251,
+      "logo_path": "/fc0O0mvjl8PbHgZXXY2VgPYos1Z.png",
+      "name": "ARD",
+      "origin_country": "DE"
+    },
+    {
+      "id": 11359,
+      "logo_path": "/aqWJRi66t2oMPMmC60CdK9I3WQd.png",
+      "name": "France 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7102,
+      "logo_path": "/dVMf5qfBDzhYioWkUD6UysKiS8y.png",
+      "name": "BSB",
+      "origin_country": "GB"
+    },
+    {
+      "id": 29566,
+      "logo_path": "/wHbtRtUnXGNzX0riQIpq1fcgueq.png",
+      "name": "Atresmedia",
+      "origin_country": "ES"
+    },
+    {
+      "id": 487,
+      "logo_path": "/x3BUIowxU2skXOpnOeOkl7kIYDo.png",
+      "name": "Česká televize",
+      "origin_country": "CZ"
+    },
+    {
+      "id": 1080,
+      "logo_path": "/6bZ0BiLDzCZSqVCjiSqweWwp9Ew.png",
+      "name": "Beta Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "ES",
+      "name": "Spain"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1999-03-29",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Esther",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 36
+}

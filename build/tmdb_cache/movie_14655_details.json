@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/v6A68pZ2BWqxFMFdSuCCZBPPj8I.jpg",
+  "belongs_to_collection": null,
+  "budget": 40000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 14655,
+  "imdb_id": "tt1111948",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Soul Men",
+  "overview": "Two former backup soul singers, Louis and Floyd, have not spoken to each other in 20 years, and reluctantly agree to travel across the country together to a reunion concert to honor their recently-deceased lead singer. Cleo, a beautiful young woman who is believed to be Floyd's daughter, accompanies them as a new singer.",
+  "popularity": 2.9122,
+  "poster_path": "/ewU8w8IPlAkauFutzSwYYFILiU8.jpg",
+  "production_companies": [
+    {
+      "id": 7405,
+      "logo_path": "/rfnws0uY8rsNAsrLbx3gEIcYXx3.png",
+      "name": "Dimension Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-11-07",
+  "revenue": 12300000,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Soul Men",
+  "video": false,
+  "vote_average": 6.102,
+  "vote_count": 177
+}

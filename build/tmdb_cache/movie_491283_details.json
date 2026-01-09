@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/x3u29Z4fWAeQmsUkgkRTFNgDZig.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    }
+  ],
+  "homepage": "",
+  "id": 491283,
+  "imdb_id": "tt7549996",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Judy",
+  "overview": "Thirty years after starring in \"The Wizard of Oz,\" beloved actress and singer Judy Garland arrives in London to perform sold-out shows at the Talk of the Town nightclub. While there, she reminisces with friends and fans and begins a whirlwind romance with musician Mickey Deans, her soon-to-be fifth husband.",
+  "popularity": 4.7207,
+  "poster_path": "/iqJhHjD6k6T07waELjMKDpQJUP.jpg",
+  "production_companies": [
+    {
+      "id": 7396,
+      "logo_path": "/jnjLKDfdAfNylfVdybY9370Ybrg.png",
+      "name": "Pathe",
+      "origin_country": "GB"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 290,
+      "logo_path": "/jrgCuaQsY9ouP5ILZf4Dq4ZOkIX.png",
+      "name": "Ingenious Media",
+      "origin_country": "GB"
+    },
+    {
+      "id": 26369,
+      "logo_path": null,
+      "name": "Calamity Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2019-09-27",
+  "revenue": 38981322,
+  "runtime": 118,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The legend behind the rainbow.",
+  "title": "Judy",
+  "video": false,
+  "vote_average": 6.688,
+  "vote_count": 1235
+}

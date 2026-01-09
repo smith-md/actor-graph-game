@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/sUnZmYTDBgJhxPt9OKWUy6JoN5l.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 108202,
+  "imdb_id": "tt0102613",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Our Sons",
+  "overview": "When James admits to his mother that he is gay it strains her liberal attitude. A San Diego businesswoman, Audrey believes she is a modern, open-minded mother, but the news sends her reeling. However, the real shock comes when James asks her to travel to Arkansas and inform his lover's estranged mom, Luanne, that her son has AIDS. As Audrey and Luanne learn to put aside their prejudice toward each other, they soon discover how to share their thoughts, hopes and fears for their sons.",
+  "popularity": 3.0467,
+  "poster_path": "/o6kAe8zA3pDSOCLasrPBPeJ84Ef.jpg",
+  "production_companies": [
+    {
+      "id": 8589,
+      "logo_path": null,
+      "name": "Robert Greenwald Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-05-19",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "We know what we want to know.",
+  "title": "Our Sons",
+  "video": false,
+  "vote_average": 5.3,
+  "vote_count": 21
+}

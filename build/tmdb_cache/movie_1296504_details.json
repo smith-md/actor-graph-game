@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/wE1TZtB5G1fdiln3PPnnLhExuCz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://epic-pictures.com/film/stand-your-ground",
+  "id": 1296504,
+  "imdb_id": "tt30826955",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Stand Your Ground",
+  "overview": "Former Special Forces operative, Jack Johnson, uses the Stand Your Ground law to seek vengeance for his wife’s murder, igniting a brutal war against a local crime lord’s family and ending in an explosive showdown.",
+  "popularity": 15.6594,
+  "poster_path": "/vKB59pPIYvjRxxEXoRoyUfaiBoD.jpg",
+  "production_companies": [
+    {
+      "id": 138759,
+      "logo_path": null,
+      "name": "Highfield Grange Studios",
+      "origin_country": "GB"
+    },
+    {
+      "id": 98610,
+      "logo_path": null,
+      "name": "Daniel Stisen Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-05-09",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Their town, his war.",
+  "title": "Stand Your Ground",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 61
+}

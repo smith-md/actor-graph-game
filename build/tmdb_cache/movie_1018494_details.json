@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/6fYTLy4QE55BgMiHF3Co7bErjry.jpg",
+  "belongs_to_collection": null,
+  "budget": 15000,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "",
+  "id": 1018494,
+  "imdb_id": "tt13429928",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Operation Seawolf",
+  "overview": "During the last days of World War II, Germany, desperate for any last grasp to defeat the allied powers, looked to their last remaining weapons and soldiers. The German Navy and the last remaining U-Boats were formed together for one desperate last mission – a mission to attack the United States Homeland, known as Operation Seawolf. Captain Hans Kessler, a grizzled submarine commander from both World Wars, is called into service to make one mission a success and help turn the tide of the war.",
+  "popularity": 3.4098,
+  "poster_path": "/eqm5EAyC9hJCN5qutuW4Ka1xYbU.jpg",
+  "production_companies": [
+    {
+      "id": 200650,
+      "logo_path": null,
+      "name": "Relis Pic",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-10-07",
+  "revenue": 23000,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Last mission to win this war.",
+  "title": "Operation Seawolf",
+  "video": false,
+  "vote_average": 5.665,
+  "vote_count": 112
+}

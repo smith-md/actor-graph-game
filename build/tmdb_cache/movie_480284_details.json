@@ -1,0 +1,55 @@
+{
+  "adult": false,
+  "backdrop_path": null,
+  "belongs_to_collection": {
+    "id": 1179336,
+    "name": "Тайны дворцовых переворотов",
+    "poster_path": "/rSiWBjVq65xa95b3i7Mx8KmuqaV.jpg",
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 480284,
+  "imdb_id": "tt0320566",
+  "origin_country": [
+    "RU"
+  ],
+  "original_language": "ru",
+  "original_title": "Тайны дворцовых переворотов. Россия, век XVIII-ый. Фильм 1-й. Завещание императора",
+  "overview": "Russia, January 25, 1725. \"Give it all...\". The emperor's weakening hand was able to write in his will only these two short incomprehensible words that kept Russia in a bloody struggle for the crown for a century.",
+  "popularity": 4.2539,
+  "poster_path": "/qQ6PkvdJs38aRP86YaNxN72FDqR.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "RU",
+      "name": "Russia"
+    }
+  ],
+  "release_date": "2000-07-01",
+  "revenue": 0,
+  "runtime": 80,
+  "spoken_languages": [
+    {
+      "english_name": "Russian",
+      "iso_639_1": "ru",
+      "name": "Pусский"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Secrets of Palace coup d'etat. Russia, 18th century. Film №1. Testament Emperor",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 50
+}

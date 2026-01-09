@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/nHadNHaVzPXHpHnZlafxeXIVIMU.jpg",
+  "belongs_to_collection": null,
+  "budget": 12000000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 61178,
+  "imdb_id": "tt0093596",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Nadine",
+  "overview": "Hairdresser Nadine Hightower wants to retrieve the risqué photos she once posed for, but when she visits the photographer at his office, he's murdered by an intruder. Nadine talks her estranged husband, Vernon, into going along when she returns to the office, where they stumble across plans for a less than legal construction project. But when Vernon tries to turn the documents into a cash windfall, he and Nadine are pursued by goons with guns.",
+  "popularity": 4.4957,
+  "poster_path": "/mim8TLLXmD3ui03f9jVmOXGACv8.jpg",
+  "production_companies": [
+    {
+      "id": 559,
+      "logo_path": "/eC0bWHVjnjUducyA6YFoEFqnPMC.png",
+      "name": "TriStar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 44425,
+      "logo_path": null,
+      "name": "ML Delphi Premier Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1987-08-07",
+  "revenue": 5669831,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The cops want her. The killers want him. They want a divorce. Ain't love grand!",
+  "title": "Nadine",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 88
+}

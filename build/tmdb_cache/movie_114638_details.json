@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/uQLZMpvt8AVkVm8HNYtlg6Tiu2G.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 114638,
+  "imdb_id": "tt0029695",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "True Confession",
+  "overview": "A writer takes a job as a secretary because her scrupulous husband isn't bringing in the dough as an attorney. When her new employer is murdered, she can't seem to make up her mind as to whether she \"dunnit\" or not.",
+  "popularity": 5.2505,
+  "poster_path": "/t80JoyYUBJwNJxT3pgGfvTNyOwq.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1937-12-24",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "THEY'RE ON ANOTHER BENDER!",
+  "title": "True Confession",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 20
+}

@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/78XMuCvwtCRLFUbZNd5qbM0oaO3.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 44435,
+  "imdb_id": "tt0104053",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Trauma",
+  "overview": "A young Romanian woman and a recovering drug addict launch an unlikely investigation after her parents are murdered by a vicious serial killer known as The Headhunter.",
+  "popularity": 3.8855,
+  "poster_path": "/A9lheNDXPb4HS0g2RQu2rUD98V5.jpg",
+  "production_companies": [
+    {
+      "id": 888,
+      "logo_path": null,
+      "name": "Overseas FilmGroup",
+      "origin_country": "US"
+    },
+    {
+      "id": 36546,
+      "logo_path": null,
+      "name": "ADC Films",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1993-03-12",
+  "revenue": 0,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A dark secret. A twisted mind. An insane desire for revenge.",
+  "title": "Trauma",
+  "video": false,
+  "vote_average": 5.795,
+  "vote_count": 237
+}

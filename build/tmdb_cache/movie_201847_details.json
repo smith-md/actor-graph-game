@@ -1,0 +1,93 @@
+{
+  "adult": false,
+  "backdrop_path": "/kocXGxlVKLAC8k3mHXjTJvRDgEJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 201847,
+  "imdb_id": "tt2381931",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Compulsion",
+  "overview": "A strange and destructive relationship develops between a chef and her neighbor, a former child actress.",
+  "popularity": 3.5505,
+  "poster_path": "/z4kJGHSn2BLh8EdJTvi7SCV12xR.jpg",
+  "production_companies": [
+    {
+      "id": 9081,
+      "logo_path": "/hTVOTTyd3q5pDZffdtIURw8VMrd.png",
+      "name": "Phase 4 Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 20067,
+      "logo_path": null,
+      "name": "TAJJ Media",
+      "origin_country": ""
+    },
+    {
+      "id": 8690,
+      "logo_path": null,
+      "name": "Rollercoaster Entertainment",
+      "origin_country": "CA"
+    },
+    {
+      "id": 8691,
+      "logo_path": null,
+      "name": "Vortex Words + Pictures",
+      "origin_country": "CA"
+    },
+    {
+      "id": 197758,
+      "logo_path": null,
+      "name": "Prime AD AB",
+      "origin_country": ""
+    },
+    {
+      "id": 11575,
+      "logo_path": null,
+      "name": "Movie Central",
+      "origin_country": "CA"
+    },
+    {
+      "id": 808,
+      "logo_path": "/4L1apH72jCx6Z5qyH7UOJUDlRoF.png",
+      "name": "The Movie Network",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2013-06-21",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Her passion was cooking, her obsession was deadly",
+  "title": "Compulsion",
+  "video": false,
+  "vote_average": 4.427,
+  "vote_count": 96
+}

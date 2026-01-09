@@ -1,0 +1,61 @@
+{
+  "id": 570595,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 2201276,
+      "known_for_department": "Acting",
+      "name": "Oleg Bilitsky",
+      "original_name": "Oleg Bilitsky",
+      "popularity": 0.0626,
+      "profile_path": null,
+      "cast_id": 4,
+      "character": "Aleksandr",
+      "credit_id": "5c218748c3a3687011ecf6f9",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 1552410,
+      "known_for_department": "Acting",
+      "name": "Valeria Nemchenko",
+      "original_name": "Valeria Nemchenko",
+      "popularity": 1.7567,
+      "profile_path": "/3IpXBWSRIy13f19vAaMm99E9yWT.jpg",
+      "cast_id": 5,
+      "character": "Model",
+      "credit_id": "5e08d1dca1c59d0016aa94ca",
+      "order": 1
+    }
+  ],
+  "crew": [
+    {
+      "adult": true,
+      "gender": 2,
+      "id": 1552409,
+      "known_for_department": "Directing",
+      "name": "Armen Oganezov",
+      "original_name": "Армен Оганезов",
+      "popularity": 3.354,
+      "profile_path": null,
+      "credit_id": "5c2186e2c3a368044aea75a2",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": true,
+      "gender": 2,
+      "id": 1552409,
+      "known_for_department": "Directing",
+      "name": "Armen Oganezov",
+      "original_name": "Армен Оганезов",
+      "popularity": 3.354,
+      "profile_path": null,
+      "credit_id": "5c218708c3a3687011ecf67a",
+      "department": "Writing",
+      "job": "Writer"
+    }
+  ]
+}

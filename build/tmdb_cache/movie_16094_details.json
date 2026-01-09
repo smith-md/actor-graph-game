@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/9OpLLvTG3lK1tjOHyC0zIw49pRu.jpg",
+  "belongs_to_collection": {
+    "id": 159600,
+    "name": "House Party Collection",
+    "poster_path": "/weRLgwIofrSyxorooPNtrpPpQb3.jpg",
+    "backdrop_path": "/oOqooJMnjKcpB2iyrAIxkBMAie1.jpg"
+  },
+  "budget": 2500000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 16094,
+  "imdb_id": "tt0099800",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "House Party",
+  "overview": "Young Kid has been invited to a party at his friend Play's house. But after a fight at school, Kid's father grounds him. None the less, Kid sneaks out when his father falls asleep. But Kid doesn't know that three of the thugs at school have decided to give him a lesson in behavior.",
+  "popularity": 4.3525,
+  "poster_path": "/hmUsEUI7RdgvTznkLCNSOHnjU4O.jpg",
+  "production_companies": [
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1990-01-20",
+  "revenue": 26385628,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If they get caught, it's all over. If they don't, it's just the beginning!",
+  "title": "House Party",
+  "video": false,
+  "vote_average": 6.412,
+  "vote_count": 251
+}

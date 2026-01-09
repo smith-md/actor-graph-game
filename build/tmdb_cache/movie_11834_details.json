@@ -1,0 +1,64 @@
+{
+  "adult": false,
+  "backdrop_path": "/hMtePcTyWLQjBbujHd4kiquQcZ3.jpg",
+  "belongs_to_collection": null,
+  "budget": 500000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 11834,
+  "imdb_id": "tt0076221",
+  "origin_country": [
+    "US",
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Jabberwocky",
+  "overview": "After the death of his father, young Dennis Cooper goes to town where he has to pass several adventures. The town and the whole kingdom is threatened by a terrible monster called 'Jabberwocky'. Will Dennis make his fortune? Is anyone brave enough to defeat the monster?",
+  "popularity": 3.4911,
+  "poster_path": "/kprcqmFxWPU45L1ZnMXO5yPPMVA.jpg",
+  "production_companies": [
+    {
+      "id": 11771,
+      "logo_path": null,
+      "name": "Python Films",
+      "origin_country": ""
+    },
+    {
+      "id": 3453,
+      "logo_path": null,
+      "name": "Umbrella Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1977-03-28",
+  "revenue": 490000,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Jabberwocky: the monster so horrible that people caught the plague to avoid it",
+  "title": "Jabberwocky",
+  "video": false,
+  "vote_average": 6.002,
+  "vote_count": 305
+}

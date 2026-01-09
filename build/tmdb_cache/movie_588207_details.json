@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/wDhUsYN1Yk2wQufyFIq7gwIBlsq.jpg",
+  "belongs_to_collection": null,
+  "budget": 35000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 588207,
+  "imdb_id": "tt10110646",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Alien: Containment",
+  "overview": "Aboard a small escape pod, four survivors try to discover what caused the destruction of their spaceship.",
+  "popularity": 2.4374,
+  "poster_path": "/Au2rDB47SuP0U0y3MV8awoCO8qd.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    },
+    {
+      "id": 116054,
+      "logo_path": "/9FTZXrzoLneV96DwELwp4UWo0Aj.png",
+      "name": "Tongal",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-03-15",
+  "revenue": 0,
+  "runtime": 10,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Alien: Containment",
+  "video": false,
+  "vote_average": 6.076,
+  "vote_count": 59
+}

@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/8PLq5IKRuY866i5Um0uHngsMtCq.jpg",
+  "belongs_to_collection": {
+    "id": 91799,
+    "name": "Tremors Collection",
+    "poster_path": "/dvNb7S2jXGPfaAZFextA5ojvwrS.jpg",
+    "backdrop_path": "/wZeBvDh9lpGpqHB0FyltARuMSmK.jpg"
+  },
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 10891,
+  "imdb_id": "tt0334541",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tremors 4: The Legend Begins",
+  "overview": "In 1889, seventeen men die under mysterious circumstances, and spooked by recent events, the miners who populate the town leave in droves until there's nothing left but a shell of a community.",
+  "popularity": 3.46,
+  "poster_path": "/yhh1zMGoy6nYSXMgrsYoNRbclJn.jpg",
+  "production_companies": [
+    {
+      "id": 3853,
+      "logo_path": null,
+      "name": "Stampede Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2004-01-02",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A Revolution Has Begun...",
+  "title": "Tremors 4: The Legend Begins",
+  "video": false,
+  "vote_average": 5.751,
+  "vote_count": 497
+}

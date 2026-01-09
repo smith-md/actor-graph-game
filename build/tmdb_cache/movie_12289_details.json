@@ -1,0 +1,178 @@
+{
+  "adult": false,
+  "backdrop_path": "/pkcW3uu862e41ol1JXEVP4RSo0N.jpg",
+  "belongs_to_collection": {
+    "id": 96677,
+    "name": "Red Cliff Collection",
+    "poster_path": "/oTjHE2R7sZvOEYOw8ewggpM41fX.jpg",
+    "backdrop_path": "/pkcW3uu862e41ol1JXEVP4RSo0N.jpg"
+  },
+  "budget": 80341000,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "http://www.redclifffilm.com",
+  "id": 12289,
+  "imdb_id": "tt0425637",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "赤壁",
+  "overview": "In 208 A.D., in the final days of the Han Dynasty, shrewd Prime Minster Cao convinced the fickle Emperor Han the only way to unite all of China was to declare war on the kingdoms of Xu in the west and East Wu in the south. Thus began a military campaign of unprecedented scale. Left with no other hope for survival, the kingdoms of Xu and East Wu formed an unlikely alliance.",
+  "popularity": 3.6827,
+  "poster_path": "/eEelFTjUYJJDlwqd53VfSA8xMfj.jpg",
+  "production_companies": [
+    {
+      "id": 2812,
+      "logo_path": null,
+      "name": "Lion Rock Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 3491,
+      "logo_path": "/hXRKXi3M9qfP4Npi1kjAaH4eGnM.png",
+      "name": "Showbox",
+      "origin_country": "KR"
+    },
+    {
+      "id": 708,
+      "logo_path": null,
+      "name": "Beijing Film Studio",
+      "origin_country": "CN"
+    },
+    {
+      "id": 2788,
+      "logo_path": "/16p9VkS5ddLMqb4JNMJ4f9omTKx.png",
+      "name": "Avex Entertainment",
+      "origin_country": "JP"
+    },
+    {
+      "id": 4713,
+      "logo_path": "/pdypzFmcHh5Uvd1u4X04NRXJNlp.png",
+      "name": "CMC Entertainment",
+      "origin_country": "TW"
+    },
+    {
+      "id": 3407,
+      "logo_path": "/iVMjKOFyRvm9PW45lW1wW6TSvnj.png",
+      "name": "Shanghai Film Group",
+      "origin_country": "CN"
+    },
+    {
+      "id": 3320,
+      "logo_path": null,
+      "name": "Emperor Multimedia Group",
+      "origin_country": "HK"
+    },
+    {
+      "id": 11413,
+      "logo_path": null,
+      "name": "China Movie Channel",
+      "origin_country": "CN"
+    },
+    {
+      "id": 491,
+      "logo_path": "/5LvDUt3KmvRnXQ4NrdWJYHeuA8J.png",
+      "name": "Summit Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 5636,
+      "logo_path": null,
+      "name": "Beijing Jinyinma Movie & TV Culture Co.",
+      "origin_country": "CN"
+    },
+    {
+      "id": 11415,
+      "logo_path": null,
+      "name": "Beijing Forbidden City Film",
+      "origin_country": "CN"
+    },
+    {
+      "id": 198228,
+      "logo_path": null,
+      "name": "Red Cliff Korea Investment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 11417,
+      "logo_path": null,
+      "name": "Chengtian Entertainment",
+      "origin_country": "CN"
+    },
+    {
+      "id": 30148,
+      "logo_path": "/zerhOenUD6CkH8SMgZUhrDkOs4w.png",
+      "name": "Bona Film Group",
+      "origin_country": "CN"
+    },
+    {
+      "id": 14714,
+      "logo_path": "/dSHaVKtBCpMU5VP9wMbTkqov62i.png",
+      "name": "China Film Group Corporation",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    },
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    },
+    {
+      "iso_3166_1": "TW",
+      "name": "Taiwan"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-07-10",
+  "revenue": 250100000,
+  "runtime": 145,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The future will be decided.",
+  "title": "Red Cliff",
+  "video": false,
+  "vote_average": 7.117,
+  "vote_count": 865
+}

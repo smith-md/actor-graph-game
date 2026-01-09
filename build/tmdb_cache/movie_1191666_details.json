@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/6pffDq3yzdRBxKd6y2O2InRzxZe.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 1191666,
+  "imdb_id": "tt33610694",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Le Routard",
+  "overview": "Yann can’t find a job he likes or can keep, and dreams of a better life. One day he learns that the famous travel guide Le Routard pays its employees to travel the world. Surely the perfect free holiday! Smooth-talking his way through the door, Yann manages to get himself hired for a trial research trip to Morocco, but he rapidly comes to realise that he’s seriously underestimated the job… Beguiled by Sofia, a feisty tourist guide, Yann gets swept up in an art trafficking operation led by the infamous mobster art dealer Dr Charoux and is plunged into an adventure where nothing will go as planned!",
+  "popularity": 6.6402,
+  "poster_path": "/fSxrzckEOWAFBBPwt9X4AHfVEA7.jpg",
+  "production_companies": [
+    {
+      "id": 175064,
+      "logo_path": null,
+      "name": "White and Yellow Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-04-02",
+  "revenue": 0,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Rookie Guide",
+  "video": false,
+  "vote_average": 4.608,
+  "vote_count": 60
+}

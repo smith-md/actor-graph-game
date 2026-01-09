@@ -1,0 +1,117 @@
+{
+  "id": 35212,
+  "cast": [
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 24976,
+      "known_for_department": "Acting",
+      "name": "Ana Torrent",
+      "original_name": "Ana Torrent",
+      "popularity": 1.015,
+      "profile_path": "/20fCWHV6CckcpwiSlAplJCSzBZj.jpg",
+      "cast_id": 3,
+      "character": "Francesca",
+      "credit_id": "52fe459b9251416c91038321",
+      "order": 0
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1606,
+      "known_for_department": "Acting",
+      "name": "Francisco Boira",
+      "original_name": "Francisco Boira",
+      "popularity": 0.4972,
+      "profile_path": "/eZdkSEZ9EUSlO9XZb01ahXK0PKd.jpg",
+      "cast_id": 4,
+      "character": "Pedro",
+      "credit_id": "52fe459b9251416c91038325",
+      "order": 1
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 34020,
+      "known_for_department": "Acting",
+      "name": "Héctor Colomé",
+      "original_name": "Héctor Colomé",
+      "popularity": 1.0317,
+      "profile_path": "/mQ97L4wqVpAEr29hFQeLwvQXv4c.jpg",
+      "cast_id": 5,
+      "character": "Miguel",
+      "credit_id": "52fe459b9251416c91038329",
+      "order": 2
+    },
+    {
+      "adult": false,
+      "gender": 1,
+      "id": 54158,
+      "known_for_department": "Acting",
+      "name": "Rocío Muñoz-Cobo",
+      "original_name": "Rocío Muñoz-Cobo",
+      "popularity": 0.7887,
+      "profile_path": "/8svq4XgUdvsEU2iLaUDpMzJYkBd.jpg",
+      "cast_id": 6,
+      "character": "Jean",
+      "credit_id": "52fe459b9251416c9103832d",
+      "order": 3
+    },
+    {
+      "adult": false,
+      "gender": 0,
+      "id": 133596,
+      "known_for_department": "Acting",
+      "name": "Francisco Casares",
+      "original_name": "Francisco Casares",
+      "popularity": 0.4684,
+      "profile_path": "/eFCPoJLXFypOoRLjSXdaeMp24vd.jpg",
+      "cast_id": 7,
+      "character": "Gabriel",
+      "credit_id": "52fe459b9251416c91038331",
+      "order": 4
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 588323,
+      "known_for_department": "Acting",
+      "name": "Julio Perillán",
+      "original_name": "Julio Perillán",
+      "popularity": 0.6386,
+      "profile_path": "/9I8hltk6BQZZcwL0pvyh4sWpvW3.jpg",
+      "cast_id": 9,
+      "character": "",
+      "credit_id": "5af391150e0a263964003509",
+      "order": 5
+    }
+  ],
+  "crew": [
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1036577,
+      "known_for_department": "Directing",
+      "name": "Elio Quiroga",
+      "original_name": "Elio Quiroga",
+      "popularity": 0.2273,
+      "profile_path": "/dVEty3FmUtvVfeytNcRN8aqiTgU.jpg",
+      "credit_id": "5ac2da350e0a264a5706abbc",
+      "department": "Directing",
+      "job": "Director"
+    },
+    {
+      "adult": false,
+      "gender": 2,
+      "id": 1036577,
+      "known_for_department": "Directing",
+      "name": "Elio Quiroga",
+      "original_name": "Elio Quiroga",
+      "popularity": 0.2273,
+      "profile_path": "/dVEty3FmUtvVfeytNcRN8aqiTgU.jpg",
+      "credit_id": "5c64b3ec0e0a266dac9a8c55",
+      "department": "Writing",
+      "job": "Writer"
+    }
+  ]
+}

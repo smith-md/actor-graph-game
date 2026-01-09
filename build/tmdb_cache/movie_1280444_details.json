@@ -1,0 +1,114 @@
+{
+  "adult": false,
+  "backdrop_path": "/hltwDG1SWl1BqjORA619hIJb4Ui.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.decalreleasing.com/films/the-occupant",
+  "id": 1280444,
+  "imdb_id": "tt7230422",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Occupant",
+  "overview": "Desperate to save her sister, Abby takes a dangerous job in the remote Georgian wilderness. Stranded in the mountains after her helicopter crashes, she finds hope through John, a mysterious helper radioing from nearby. As he guides her through the harsh conditions, Abby struggles to survive, and her grip on reality falters until she is faced with an impossible choice.",
+  "popularity": 3.9411,
+  "poster_path": "/aRWeT2UIkaWolqQ6fYeHOB1D6vA.jpg",
+  "production_companies": [
+    {
+      "id": 46421,
+      "logo_path": "/rajjM3rDu86FKIGDLQUGy1H41Ym.png",
+      "name": "Revolver Amsterdam",
+      "origin_country": "NL"
+    },
+    {
+      "id": 67260,
+      "logo_path": "/oV2FZfhRcEc1HReC66e1L4t2qPV.png",
+      "name": "Electric Shadow Company",
+      "origin_country": "GB"
+    },
+    {
+      "id": 93093,
+      "logo_path": "/pTSNH02SI9Qb6MEMjOgKmCeBKa1.png",
+      "name": "20 Steps Productions",
+      "origin_country": "GE"
+    },
+    {
+      "id": 94802,
+      "logo_path": "/za6AmJNMqbsOoPYUl3hpXtdjIta.png",
+      "name": "Artizm",
+      "origin_country": "GE"
+    },
+    {
+      "id": 19638,
+      "logo_path": "/ueSsb3nJfvu8utNO1linVypm2mv.png",
+      "name": "Altitude Film Entertainment",
+      "origin_country": "GB"
+    },
+    {
+      "id": 257103,
+      "logo_path": "/ktFQNgQSwmVcLGpimpoPgoyjGPn.png",
+      "name": "Obscura",
+      "origin_country": "US"
+    },
+    {
+      "id": 244902,
+      "logo_path": "/e1OAXOyxwCHaFUdXIoNboz0XNwI.png",
+      "name": "UK Global Screen Fund",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GE",
+      "name": "Georgia"
+    },
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-07",
+  "revenue": 0,
+  "runtime": 104,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Stranded. Isolated. Not alone.",
+  "title": "The Occupant",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 52
+}

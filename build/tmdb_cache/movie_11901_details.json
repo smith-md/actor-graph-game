@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/teLJilYBEdBiCNwPuiJaJT0p7i8.jpg",
+  "belongs_to_collection": null,
+  "budget": 5500000,
+  "genres": [
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 11901,
+  "imdb_id": "tt0068699",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "High Plains Drifter",
+  "overview": "A gunfighting stranger comes to the small settlement of Lago. After gunning down three gunmen who tried to kill him, the townsfolk decide to hire the Stranger to hold off three outlaws who are on their way.",
+  "popularity": 2.8631,
+  "poster_path": "/AjkJCFkqanK1OZqiHxc6Kl2wPQO.jpg",
+  "production_companies": [
+    {
+      "id": 171,
+      "logo_path": "/bqLWwuNCHcY3IjB5e4o29h7l80D.png",
+      "name": "Malpaso Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1973-04-19",
+  "revenue": 15700000,
+  "runtime": 105,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They'd never forget the day he drifted into town.",
+  "title": "High Plains Drifter",
+  "video": false,
+  "vote_average": 7.321,
+  "vote_count": 1282
+}

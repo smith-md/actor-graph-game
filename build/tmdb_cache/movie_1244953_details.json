@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/aJgTPBIkB5rovcF9FjUMl05W10D.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1244953,
+  "imdb_id": "tt31314745",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Trust",
+  "overview": "A Hollywood starlet seeks refuge in a secluded Airbnb following a high-profile scandal, only to find herself at the mercy of hardened criminals on the hunt for a score.",
+  "popularity": 5.0397,
+  "poster_path": "/n9GS1mUAVMiC3gBn9rb8jrDoK4D.jpg",
+  "production_companies": [
+    {
+      "id": 2061,
+      "logo_path": "/nr7S29cCZePwD1EoFM2wJxVji51.png",
+      "name": "Twisted Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 264181,
+      "logo_path": null,
+      "name": "Koulest Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-22",
+  "revenue": 368356,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You can hide but you can't run.",
+  "title": "Trust",
+  "video": false,
+  "vote_average": 5.623,
+  "vote_count": 73
+}

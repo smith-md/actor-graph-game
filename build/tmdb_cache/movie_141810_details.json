@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/mNsEuQA6horTfplSBtmiDfA9Va6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 141810,
+  "imdb_id": "tt2370096",
+  "origin_country": [
+    "IT",
+    "FR"
+  ],
+  "original_language": "it",
+  "original_title": "Gli Equilibristi",
+  "overview": "Giulio suddenly finds himself having to change his life when his wife, after discovering his betrayal, asks for a separation and, suddenly, the reality around him is no longer the same. Forty years old and father of two children, Giulio is forced by circumstances to say goodbye to family and economic well-being and to study new solutions in order to stay afloat and not drown in a new poverty made of double rents and double bills to pay, solitary lunches in fourth-rate restaurants, children's wishes not to be ignored and creditors to hide from.",
+  "popularity": 4.3229,
+  "poster_path": "/s37AxtdijqZ5wLick35IpLN8Rlr.jpg",
+  "production_companies": [
+    {
+      "id": 3112,
+      "logo_path": "/y7X4AYWOC20LnkCnOgIoh70gMct.png",
+      "name": "Rodeo Drive",
+      "origin_country": "IT"
+    },
+    {
+      "id": 22393,
+      "logo_path": null,
+      "name": "Babe Film",
+      "origin_country": ""
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 104,
+      "logo_path": "/9aotxauvc9685tq9pTcRJszuT06.png",
+      "name": "Canal+",
+      "origin_country": "FR"
+    },
+    {
+      "id": 21649,
+      "logo_path": "/6Ji6E59Wt9O4VA6nqwAd6RW7ijs.png",
+      "name": "Sky Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 1677,
+      "logo_path": "/dI1xprCsOhTe1MSJcW0TEn9McrG.png",
+      "name": "Mediaset",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 6246,
+      "logo_path": "/7X6pfxldTiOD7MLo2EQqUQlmOUw.png",
+      "name": "Medusa Film",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2013-02-27",
+  "revenue": 437143,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Balancing Act",
+  "video": false,
+  "vote_average": 6.709,
+  "vote_count": 86
+}

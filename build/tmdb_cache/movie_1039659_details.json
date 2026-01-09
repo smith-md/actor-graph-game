@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/qS2rFOmMD6ExjMqDun96efA2MIa.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1039659,
+  "imdb_id": "tt11433906",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Winner",
+  "overview": "Winner is a brilliant young misfit from Texas who finds her morals challenged while serving in the U.S. Air Force and working as an NSA contractor. A fresh take on the traditional whistleblower thriller, the coming-of-age story follows an idealistic young woman persecuted for standing by her principles.",
+  "popularity": 3.8296,
+  "poster_path": "/wvTlXCh0XKukjsQtFGC4qtnO6Cz.jpg",
+  "production_companies": [
+    {
+      "id": 33603,
+      "logo_path": "/K1SdQd49Kx3QRx0djfHbzeotCz.png",
+      "name": "Shivhans Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 184830,
+      "logo_path": "/iF2iK95nLOR5I3xPxYOsfj4BFei.png",
+      "name": "1Community",
+      "origin_country": "US"
+    },
+    {
+      "id": 188,
+      "logo_path": "/40E8iNvy6brH6t4BbmQL211jIpl.png",
+      "name": "Big Beach",
+      "origin_country": "US"
+    },
+    {
+      "id": 61011,
+      "logo_path": "/kDPeollsOtUtGqqEF4P29NwEjf5.png",
+      "name": "Scythia Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 254121,
+      "logo_path": null,
+      "name": "Thundersnow Pictures",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-09-13",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Based on Reality.",
+  "title": "Winner",
+  "video": false,
+  "vote_average": 6.985,
+  "vote_count": 65
+}

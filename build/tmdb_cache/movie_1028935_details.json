@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Qtb47jSlBnzeOzIZqMmlRLV63Q.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10402,
+      "name": "Music"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "https://www.hbomax.com/feature/urn:hbo:feature:GY2P7nwk70IGhwwEAAADH",
+  "id": 1028935,
+  "imdb_id": "tt22814692",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Holiday Harmony",
+  "overview": "A likeable and talented underdog gets momentarily sidelined from chasing her musical dreams when her van breaks down in a welcoming small town just before Christmas.",
+  "popularity": 3.0611,
+  "poster_path": "/5lDOz2zlfiprRYKAWUJRkdSaWhl.jpg",
+  "production_companies": [
+    {
+      "id": 79279,
+      "logo_path": "/gcCJ3eCR1bzw7IPQX3UoxqClpUP.png",
+      "name": "ESX Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 186218,
+      "logo_path": "/4G1yai3i2nUmoBbz78BSP0TDh8l.png",
+      "name": "Lila Lane Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2022-11-24",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Let your voice lead you home.",
+  "title": "Holiday Harmony",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 53
+}

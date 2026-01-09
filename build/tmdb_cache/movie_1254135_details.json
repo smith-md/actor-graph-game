@@ -1,0 +1,94 @@
+{
+  "adult": false,
+  "backdrop_path": "/1zlHZDtV5KsX5VcBahNy5GDqUVt.jpg",
+  "belongs_to_collection": null,
+  "budget": 31400000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1254135,
+  "imdb_id": "tt28291010",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "13 jours, 13 nuits",
+  "overview": "Kabul, August 15, 2021. US troops are preparing to withdraw from Afghanistan, while the Taliban are marching on the capital to seize power. Amid the chaos, Commander Mohamed Bida and his men are in charge of security at the French embassy, the last Western mission to remain open. Trapped along with 500 people, left to their own devices, the team must reach the airport at all costs. A perilous mission with no guarantee of success to flee the hell of Kabul and rescue what remains of humanity.",
+  "popularity": 5.4329,
+  "poster_path": "/orcdyqJZhbr731iN7yq7TK5zluc.jpg",
+  "production_companies": [
+    {
+      "id": 7981,
+      "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+      "name": "Pathé",
+      "origin_country": "FR"
+    },
+    {
+      "id": 20339,
+      "logo_path": "/zPj4RPXztwznZcKDef583wqKERy.png",
+      "name": "Chapter 2",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1115,
+      "logo_path": "/ntH7T5gsN6wtyrfHGHJDTuneQ7o.png",
+      "name": "M6 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 209127,
+      "logo_path": "/6kby8aYYQX7RqPGs0DPIGMtG2Sg.png",
+      "name": "Logical Content Ventures",
+      "origin_country": "FR"
+    },
+    {
+      "id": 19037,
+      "logo_path": "/tceh2aAORA5JxIZSLQ1GkzTBZDL.png",
+      "name": "uMedia",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2025-06-27",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "13 Days, 13 Nights: In the Hell of Kabul",
+  "video": false,
+  "vote_average": 6.624,
+  "vote_count": 153
+}

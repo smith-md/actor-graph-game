@@ -1,0 +1,62 @@
+{
+  "adult": false,
+  "backdrop_path": "/AeGgtElKvBQY9f9350fztaGLAvH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81739319",
+  "id": 1306764,
+  "imdb_id": "tt32643879",
+  "origin_country": [
+    "PH"
+  ],
+  "original_language": "tl",
+  "original_title": "Outside",
+  "overview": "A family retreats to an isolated farm during a zombie outbreak, but years of painful secrets take a toll as they navigate their desolate world.",
+  "popularity": 2.64,
+  "poster_path": "/a3ej47ztXkeVfHpkwb0TUiA8jQY.jpg",
+  "production_companies": [
+    {
+      "id": 221176,
+      "logo_path": null,
+      "name": "Black Cap Pictures",
+      "origin_country": "PH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PH",
+      "name": "Philippines"
+    }
+  ],
+  "release_date": "2024-10-16",
+  "revenue": 0,
+  "runtime": 142,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Tagalog",
+      "iso_639_1": "tl",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "You can't keep out what's already inside.",
+  "title": "Outside",
+  "video": false,
+  "vote_average": 6.16,
+  "vote_count": 150
+}

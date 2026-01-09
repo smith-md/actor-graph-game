@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/yQy9Y3p5INwkfTuHSnzYnz4MCV3.jpg",
+  "belongs_to_collection": {
+    "id": 1125292,
+    "name": "Freaky Friday Collection",
+    "poster_path": "/vSCsz3251W00OVcXarUSafHpf3x.jpg",
+    "backdrop_path": "/8QWJmqzT6WiYKY9wXpfUfwpjad1.jpg"
+  },
+  "budget": 42000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "https://movies.disney.com/freakier-friday",
+  "id": 1125257,
+  "imdb_id": "tt31956415",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Freakier Friday",
+  "overview": "Years after Tess and Anna endured an identity crisis, Anna now has a daughter of her own and a soon-to-be stepdaughter. As they navigate the myriad challenges that come when two families merge, Tess and Anna discover lightning might indeed strike twice.",
+  "popularity": 17.5904,
+  "poster_path": "/9wV65OmsjLAqBfDnYTkMPutXH8j.jpg",
+  "production_companies": [
+    {
+      "id": 2,
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 128491,
+      "logo_path": null,
+      "name": "Burr! Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 3538,
+      "logo_path": null,
+      "name": "Gunn Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-06",
+  "revenue": 153176952,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Here we go again.",
+  "title": "Freakier Friday",
+  "video": false,
+  "vote_average": 6.875,
+  "vote_count": 559
+}

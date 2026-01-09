@@ -1,0 +1,98 @@
+{
+  "adult": false,
+  "backdrop_path": "/aJDWjM71k7pujvzoaN3U7VfhW09.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 315880,
+  "imdb_id": "tt3530978",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "La corrispondenza",
+  "overview": "The relationship between Ed, a married astronomer and Amy, his lover, who spend their years apart, is based only on phone calls and texts. One day Amy begins noticing something strange in Ed's messages.",
+  "popularity": 2.7512,
+  "poster_path": "/juvp46Hjpz0FksOXvV28pYM11BK.jpg",
+  "production_companies": [
+    {
+      "id": 26261,
+      "logo_path": "/thn5VXJ5JegdrtiJn7mFuV2NWB6.png",
+      "name": "Film Commission Torino Piemonte",
+      "origin_country": "IT"
+    },
+    {
+      "id": 3110,
+      "logo_path": "/kOgKTSvA7pezpfBfuRvEnwgrvpL.png",
+      "name": "PACO Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 14016,
+      "logo_path": "/snclwsIZQbgvqYCBJP8fqNlCA5y.png",
+      "name": "MiC",
+      "origin_country": "IT"
+    },
+    {
+      "id": 20644,
+      "logo_path": null,
+      "name": "Business Location Sudtirol Alto Adige",
+      "origin_country": ""
+    },
+    {
+      "id": 197649,
+      "logo_path": null,
+      "name": "IDM Südtirol - Alto Adige Film Fund",
+      "origin_country": ""
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 231766,
+      "logo_path": null,
+      "name": "Trentino Film Commission",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2016-01-14",
+  "revenue": 0,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Forbidden love. Undying devotion.",
+  "title": "Correspondence",
+  "video": false,
+  "vote_average": 6.366,
+  "vote_count": 410
+}

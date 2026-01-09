@@ -1,0 +1,95 @@
+{
+  "adult": false,
+  "backdrop_path": "/jfHbKVLes49W1s1SaPua7ijhWJG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://www.kino.com/ladychatterley/#Scene_1",
+  "id": 3542,
+  "imdb_id": "tt0459880",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Lady Chatterley",
+  "overview": "After a crippling injury leaves her husband impotent, Lady Chatterly is torn between her love for her husband and her physical desires. With her husband's consent, she seeks out other means of fulfilling her needs.",
+  "popularity": 2.7394,
+  "poster_path": "/A1Rk4mtHrai2harr7MM5Vn9mfwU.jpg",
+  "production_companies": [
+    {
+      "id": 2643,
+      "logo_path": null,
+      "name": "Maïa Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 1249,
+      "logo_path": null,
+      "name": "Les Films du Lendemain",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 859,
+      "logo_path": "/wK6ssskf1QaGp057lSYb6fa3Nwc.png",
+      "name": "Saga Film",
+      "origin_country": "BE"
+    },
+    {
+      "id": 55157,
+      "logo_path": null,
+      "name": "Titre et Structure Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 310,
+      "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+      "name": "CNC",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2006-11-01",
+  "revenue": 0,
+  "runtime": 167,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Lady Chatterley",
+  "video": false,
+  "vote_average": 6.1,
+  "vote_count": 113
+}

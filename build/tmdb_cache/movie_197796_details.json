@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/92Uceuy7HaiiHFgW48gNyxhx17d.jpg",
+  "belongs_to_collection": null,
+  "budget": 33000000,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 197796,
+  "imdb_id": "tt2316801",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Belle et la Bête",
+  "overview": "Forced to face the cruel side of life, a devastated, bankrupt merchant chances upon the enchanted castle of a hideous creature, the mere sight of it chills the bone to the marrow. There, a fate worse than death awaits the poor father-of-six, who, after plucking a sweet-scented rose from the repulsive master's verdant garden, must do the impossible: permit his compassionate daughter, Belle, to take his place and pay for the sins of her parent. Now, an impenetrable mystery shrouds the haunted mansion, and, as repugnance gradually turns into affection, only true love could break the spell.",
+  "popularity": 4.4327,
+  "poster_path": "/8bErT2koHXAUSW5PdLQqgL5gEEe.jpg",
+  "production_companies": [
+    {
+      "id": 264,
+      "logo_path": "/fA90qwUKgPhMONqtwY60GaHRyrW.png",
+      "name": "Studio Babelsberg",
+      "origin_country": "DE"
+    },
+    {
+      "id": 616,
+      "logo_path": "/aeBPwUMUqIOFnt3Fxv9fC91hBuq.png",
+      "name": "Eskwad",
+      "origin_country": "FR"
+    },
+    {
+      "id": 7981,
+      "logo_path": "/6Yv1gIAuGkHS5Vis4UjnqHhCPWV.png",
+      "name": "Pathé",
+      "origin_country": "FR"
+    },
+    {
+      "id": 19233,
+      "logo_path": null,
+      "name": "120 Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 356,
+      "logo_path": "/9tW5wZEGotn1Ei5pErA88m47XiD.png",
+      "name": "TF1 Films Production",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2014-02-12",
+  "revenue": 47430624,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The legend is reborn...",
+  "title": "Beauty and the Beast",
+  "video": false,
+  "vote_average": 6.212,
+  "vote_count": 2124
+}

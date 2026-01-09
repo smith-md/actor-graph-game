@@ -1,0 +1,105 @@
+{
+  "adult": false,
+  "backdrop_path": "/nxB2tFHsINO9TWOoIhSmIR0Ai02.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 931102,
+  "imdb_id": "tt15430628",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "龙马精神",
+  "overview": "A washed-up stuntman and his stunt horse become an overnight social media sensation when their real-life fight with debt collectors goes viral.",
+  "popularity": 4.4406,
+  "poster_path": "/7cVHSVDEltw7dO9t9ixClpQqekm.jpg",
+  "production_companies": [
+    {
+      "id": 69484,
+      "logo_path": "/2xtmvbEse87LM7OJXVksv7DToZx.png",
+      "name": "Alibaba Pictures Group",
+      "origin_country": "CN"
+    },
+    {
+      "id": 25657,
+      "logo_path": "/nR1OM1kwQ1ZrtbUb6sSfV0Ldynk.png",
+      "name": "Hairun Pictures Company",
+      "origin_country": "CN"
+    },
+    {
+      "id": 14714,
+      "logo_path": "/dSHaVKtBCpMU5VP9wMbTkqov62i.png",
+      "name": "China Film Group Corporation",
+      "origin_country": "CN"
+    },
+    {
+      "id": 102774,
+      "logo_path": "/9novy7zPpam3XVmfE3jXG4MexAr.png",
+      "name": "Fosun Pictures",
+      "origin_country": "CN"
+    },
+    {
+      "id": 192871,
+      "logo_path": "/nnpF5QzLVIAAQB9AXB5IvY4A24g.png",
+      "name": "Hengdian Entertainment",
+      "origin_country": "CN"
+    },
+    {
+      "id": 79046,
+      "logo_path": null,
+      "name": "Golden Network Asia",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2023-04-07",
+  "revenue": 36232675,
+  "runtime": 126,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The legend is back!",
+  "title": "Ride On",
+  "video": false,
+  "vote_average": 7.208,
+  "vote_count": 391
+}

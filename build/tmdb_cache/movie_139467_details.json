@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/87nVG9pGCoph8hjtdA2XAz4Y6b7.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 139467,
+  "imdb_id": "tt0075730",
+  "origin_country": [
+    "PL"
+  ],
+  "original_language": "pl",
+  "original_title": "Barwy ochronne",
+  "overview": "A moral conflict between a young assistant and an associate professor arises during a university linguistics camp.",
+  "popularity": 5.4249,
+  "poster_path": "/bgIojJb5DbLZWCkgbhKsFKAXg0v.jpg",
+  "production_companies": [
+    {
+      "id": 38,
+      "logo_path": "/oZyTaSTMP9LMB6BTzPDv3q4oyMj.png",
+      "name": "Studio Filmowe Tor",
+      "origin_country": "PL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "1977-01-28",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Camouflage",
+  "video": false,
+  "vote_average": 6.556,
+  "vote_count": 36
+}

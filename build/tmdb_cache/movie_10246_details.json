@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/7zVPeUgL6pgBmV0H9ptqeMiGHUD.jpg",
+  "belongs_to_collection": {
+    "id": 109592,
+    "name": "Porky's Collection",
+    "poster_path": "/1NjnpHR2e589vX8ApHyq21IARFU.jpg",
+    "backdrop_path": "/1Ra6Un73JwIjGHfEU0lM3397Q8z.jpg"
+  },
+  "budget": 4000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 10246,
+  "imdb_id": "tt0084522",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Porky's",
+  "overview": "In 1954 Florida, a group of high school boys head to a strip club in the Everglades in an attempt to lose their collective virginity. When the club's owner and his sheriff brother swindle them out of their money and embarrass them, the boys plan revenge.",
+  "popularity": 5.6838,
+  "poster_path": "/AqCOt1cWfKqCepxK7LIdT812idH.jpg",
+  "production_companies": [
+    {
+      "id": 2124,
+      "logo_path": null,
+      "name": "Melvin Simon Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 10313,
+      "logo_path": null,
+      "name": "Astral Bellevue Pathé",
+      "origin_country": "CA"
+    },
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1981-11-13",
+  "revenue": 159989673,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Keep an eye out for the funniest movie about growing up ever made!",
+  "title": "Porky's",
+  "video": false,
+  "vote_average": 6.412,
+  "vote_count": 935
+}

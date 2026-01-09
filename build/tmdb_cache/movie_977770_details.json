@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/fgIjuWPLUVKEPg4qHUH2FznbGqq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://bleeckerstreetmedia.com/the-lesson",
+  "id": 977770,
+  "imdb_id": "tt20358284",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "The Lesson",
+  "overview": "Liam, an aspiring and ambitious young writer, eagerly accepts a tutoring position at the family estate of his idol, renowned author J.M. Sinclair. But soon, Liam realizes that he is ensnared in a web of family secrets, resentment, and retribution. Sinclair, his wife Hélène, and their son Bertie all guard a dark past, one that threatens Liam’s future as well as their own.",
+  "popularity": 5.0701,
+  "poster_path": "/ktB7bt09HRQT701hVS8C23tkN6N.jpg",
+  "production_companies": [
+    {
+      "id": 75495,
+      "logo_path": "/iHT7CkK5jPZ5pl20z4hU6sYFath.png",
+      "name": "Film Constellation",
+      "origin_country": "GB"
+    },
+    {
+      "id": 85169,
+      "logo_path": null,
+      "name": "Poison Chef",
+      "origin_country": "GB"
+    },
+    {
+      "id": 177093,
+      "logo_path": "/bYbhJeVv2yNnSzABI9Vg2P7s7pS.png",
+      "name": "Egoli Tossell Pictures",
+      "origin_country": "DE"
+    },
+    {
+      "id": 73122,
+      "logo_path": "/oiPvX2fbRoKrhbVg30WpW4ngrrt.png",
+      "name": "Jeva Films",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2023-07-07",
+  "revenue": 310746,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Who is teaching whom?",
+  "title": "The Lesson",
+  "video": false,
+  "vote_average": 5.692,
+  "vote_count": 78
+}

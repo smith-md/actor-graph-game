@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/9tywiX5sG55QvsBODVdcDN7FO9y.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 964819,
+  "imdb_id": "tt13149356",
+  "origin_country": [
+    "CH"
+  ],
+  "original_language": "de",
+  "original_title": "99 Moons",
+  "overview": "Everything is under control, she thinks. Everything is lost, he thinks. And then they meet. And fall.",
+  "popularity": 3.8045,
+  "poster_path": "/8hdVTMczTVcKEGgdL7ze5Xfor4n.jpg",
+  "production_companies": [
+    {
+      "id": 12431,
+      "logo_path": "/3m45frhaRCLsCKuMtuj7ZwfGwBB.png",
+      "name": "SRG SSR",
+      "origin_country": "CH"
+    },
+    {
+      "id": 42145,
+      "logo_path": "/fX8uY3tXWh814PLVqKM0IJEoDPW.png",
+      "name": "SRF",
+      "origin_country": "CH"
+    },
+    {
+      "id": 5485,
+      "logo_path": "/nN4hD2hrcJ3g1RrDsAIILb4Xwm5.png",
+      "name": "Zodiac Pictures",
+      "origin_country": "CH"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2023-04-27",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "99 Moons",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 35
+}

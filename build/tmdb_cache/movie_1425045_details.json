@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/apNfldKI3RiaukNwJzr8EjRG7Wc.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81731553",
+  "id": 1425045,
+  "imdb_id": "tt31806049",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Brick",
+  "overview": "When a mysterious brick wall encloses their apartment building overnight, Tim and Olivia must unite with their wary neighbors to get out alive.",
+  "popularity": 4.9804,
+  "poster_path": "/vTX9CxFNEQOlfXsgqec7xmc5UtD.jpg",
+  "production_companies": [
+    {
+      "id": 129014,
+      "logo_path": "/prEkjaZmlInntYbwTCJvgpAzd8E.png",
+      "name": "Leonine Studios",
+      "origin_country": "DE"
+    },
+    {
+      "id": 218757,
+      "logo_path": "/gtaS9qruBQ9nXuMCjzzKzOGjeT8.png",
+      "name": "Nocturna Productions",
+      "origin_country": "DE"
+    },
+    {
+      "id": 40788,
+      "logo_path": "/ydsYNksXNi0NzkCDSjnpsPRUCGI.png",
+      "name": "Wiedemann & Berg Television",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-07-02",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They want to leave – but their apartment won't let them.",
+  "title": "Brick",
+  "video": false,
+  "vote_average": 5.788,
+  "vote_count": 653
+}

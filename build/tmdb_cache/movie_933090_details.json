@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/f74BDYMlNCYf797Wj0guOzDXFyz.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 933090,
+  "imdb_id": "tt17521612",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Starve Acre",
+  "overview": "When their son starts acting strangely, a couple unwittingly allow dark and sinister forces into their home, awakening a long-dormant ancient evil rooted deep in the countryside.",
+  "popularity": 2.6715,
+  "poster_path": "/5j37QHXuNygzEa2X54RMlOb6hj3.jpg",
+  "production_companies": [
+    {
+      "id": 169009,
+      "logo_path": "/aZvYgihElo7VhgVQXunxKkAGt4U.png",
+      "name": "House Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 11658,
+      "logo_path": "/hDKTXUEj1BR3Istbh2Zu5GOYvej.png",
+      "name": "Brainstorm Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 288,
+      "logo_path": "/aW0IpM9d4Zjj978EqgDVSxXXhTj.png",
+      "name": "BBC Film",
+      "origin_country": "GB"
+    },
+    {
+      "id": 7281,
+      "logo_path": "/iI7qdR1OFPo0U41BlpKBLD3xesh.png",
+      "name": "BFI",
+      "origin_country": "GB"
+    },
+    {
+      "id": 103376,
+      "logo_path": "/zAyfGEx1LJOkwNTrHugnWHzLRE.png",
+      "name": "Access Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-07-26",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Starve Acre",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 93
+}

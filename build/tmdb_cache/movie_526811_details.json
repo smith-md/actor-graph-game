@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/5IETLw4XVLeN8tdWGh11TmJvyUn.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 526811,
+  "imdb_id": "tt10023172",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Passion simple",
+  "overview": "A man and a woman are brought together by chance for several months. He is younger than she is, married, Russian, officially a diplomat stationed in Paris. She is a beautiful teacher and researcher, with her feet firmly on the ground. The film follows the evolution of their love, from the beginning to end.",
+  "popularity": 5.4339,
+  "poster_path": "/gbecuqHDcF8MyllcOBS4YO9oJBz.jpg",
+  "production_companies": [
+    {
+      "id": 12389,
+      "logo_path": "/6yilbEvoHtPcTb4LwAueAq091iT.png",
+      "name": "Les Films Pelléas",
+      "origin_country": "FR"
+    },
+    {
+      "id": 3040,
+      "logo_path": "/aZww3B7RCFAMV1qrDZDrdeB8qcI.png",
+      "name": "Versus Production",
+      "origin_country": "BE"
+    },
+    {
+      "id": 109756,
+      "logo_path": "/sudlIoNIIrKmVWaYD2ZVo9HGogW.png",
+      "name": "Auvergne-Rhône-Alpes Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 92187,
+      "logo_path": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+      "name": "Proximus",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2021-01-14",
+  "revenue": 75167,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Simple Passion",
+  "video": false,
+  "vote_average": 5.6,
+  "vote_count": 105
+}

@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/2YiCk4kN24f29Uy6X7T9JktUmvn.jpg",
+  "belongs_to_collection": {
+    "id": 632906,
+    "name": "Dilan Collection",
+    "poster_path": "/c52SSb6q2WMvwXHfJrOFcj9h1Ag.jpg",
+    "backdrop_path": "/wYlmCChs5XKNGm6O8muMoJu9oBM.jpg"
+  },
+  "budget": 675000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 492459,
+  "imdb_id": "tt7843946",
+  "origin_country": [
+    "ID"
+  ],
+  "original_language": "id",
+  "original_title": "Dilan 1990",
+  "overview": "At a Bandung high school, charming and rebellious Dilan vies for the affections of shy new student Milea.",
+  "popularity": 5.4587,
+  "poster_path": "/eitRZXfbw6rO0CfP3lPaGgK63qr.jpg",
+  "production_companies": [
+    {
+      "id": 84442,
+      "logo_path": "/26lMqyZAFqRu9UFiYszYX3kHOo2.png",
+      "name": "Max Pictures",
+      "origin_country": "ID"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "ID",
+      "name": "Indonesia"
+    }
+  ],
+  "release_date": "2018-01-25",
+  "revenue": 13564570,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "Indonesian",
+      "iso_639_1": "id",
+      "name": "Bahasa indonesia"
+    },
+    {
+      "english_name": "Sundanese",
+      "iso_639_1": "su",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "Dilan and Milea in Bandung, September 1990.",
+  "title": "Dilan 1990",
+  "video": false,
+  "vote_average": 7.7,
+  "vote_count": 34
+}

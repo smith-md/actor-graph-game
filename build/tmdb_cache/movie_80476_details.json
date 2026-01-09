@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/xptEFtH35Q7zLf99PuK1rdlZr6l.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 80476,
+  "imdb_id": "tt0056581",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Thérèse Desqueyroux",
+  "overview": "Thérèse is living in a provincial town, unhappily married to Bernard, a dull, pompous man whose only interest is preserving his family name and property. They live in an isolated country mansion surrounded by servants. Early in her marriage her only comforts are her fondness for Bernard's pine-tree forest, which was her primary reason for marrying him, and her love for her sister-in-law and Bernard's half-sister, Anne.  The movie recounts in flashback the circumstances that led to her being charged with poisoning her husband.",
+  "popularity": 4.2972,
+  "poster_path": "/y2t9L6Enl7yVmHepDeRfMMoy7tU.jpg",
+  "production_companies": [
+    {
+      "id": 42182,
+      "logo_path": null,
+      "name": "Filmel",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1962-09-21",
+  "revenue": 0,
+  "runtime": 109,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Therese",
+  "video": false,
+  "vote_average": 6.6,
+  "vote_count": 32
+}

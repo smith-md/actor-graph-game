@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/38ulOB6ApJnSlFZIgxfQc7xTdkJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "",
+  "id": 18969,
+  "imdb_id": "tt0435631",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Demon Hunter",
+  "overview": "After resolving a situation of exorcism, the half-breed demon hunter Jake Greyman reports to Cardinal White and they realize that the demon Asmodeus is impregnating many mortals trying to raise offspring. Cardinal White calls Sister Sarah Ryan to assist Jake in his hunting for Asmodeus and his women.",
+  "popularity": 3.7226,
+  "poster_path": "/bSqKoqa3yQ3EVPOD9jgElaXYffG.jpg",
+  "production_companies": [
+    {
+      "id": 114697,
+      "logo_path": null,
+      "name": "Demon Hunter Productions Inc.",
+      "origin_country": ""
+    },
+    {
+      "id": 9194,
+      "logo_path": null,
+      "name": "Cannell Studios",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-06-01",
+  "revenue": 0,
+  "runtime": 78,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In The Final War Between Heaven & Hell, Pray He's On Your Side.",
+  "title": "Demon Hunter",
+  "video": false,
+  "vote_average": 4.528,
+  "vote_count": 36
+}

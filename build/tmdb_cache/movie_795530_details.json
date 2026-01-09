@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/czGqAam7ddX3l1tKK46VIXcq1JO.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.languagelessonsfilm.com",
+  "id": 795530,
+  "imdb_id": "tt14031338",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Language Lessons",
+  "overview": "For his 45th birthday, wealthy Californian Adam receives a surprise gift from his choreographer partner: 100 weekly Spanish lessons with Cariño, a vivacious expat who teaches virtually from her home in Costa Rica. Adam's unconvinced at first; a self-described “creature-of-habit”, he’s unsure about where or how this new element will fit into his carefully-structured routine.",
+  "popularity": 4.7649,
+  "poster_path": "/DLHXdi6B1JeYQ9YElNfdSIYO35.jpg",
+  "production_companies": [
+    {
+      "id": 1974,
+      "logo_path": "/t8p2PpDBJo282a5TTr6Ln0wVkMZ.png",
+      "name": "Duplass Brothers Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 271344,
+      "logo_path": null,
+      "name": "Devastator Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2021-09-10",
+  "revenue": 73257,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Get lost in translation.",
+  "title": "Language Lessons",
+  "video": false,
+  "vote_average": 6.659,
+  "vote_count": 63
+}

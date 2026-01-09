@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/lOje1iz4VYWELYWRkZAwI7oIJd0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "https://www.amazon.com/gp/video/detail/B0F3SQQ3BH",
+  "id": 1239193,
+  "imdb_id": "tt31121295",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Deep Cover",
+  "overview": "Kat is an improv comedy teacher beginning to question if she’s missed her shot at success. When an undercover cop offers her the role of a lifetime, she recruits two of her students to infiltrate London’s gangland by impersonating dangerous criminals.",
+  "popularity": 7.2797,
+  "poster_path": "/1vXTHTbSQJs9r2hp4Uk08XzKwPp.jpg",
+  "production_companies": [
+    {
+      "id": 136158,
+      "logo_path": "/3UnDn896d5dGkn9t11Vip8oY6V.png",
+      "name": "Metronome Film Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 49325,
+      "logo_path": "/R05WCoCJcPWGSDaKaYgx3AeVuR.png",
+      "name": "Parkes+MacDonald Image Nation",
+      "origin_country": "US"
+    },
+    {
+      "id": 210099,
+      "logo_path": "/g5oRCNCi8kNVb8gEoSoIcqkhjmR.png",
+      "name": "Amazon MGM Studios",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-06-12",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If you want to survive, improvise.",
+  "title": "Deep Cover",
+  "video": false,
+  "vote_average": 6.701,
+  "vote_count": 502
+}

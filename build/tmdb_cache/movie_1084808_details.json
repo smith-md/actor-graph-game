@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/1ciHkqt7UZrv02ASmyBKgWLTWfs.jpg",
+  "belongs_to_collection": {
+    "id": 805909,
+    "name": "The Paul Dédalus Collection",
+    "poster_path": "/y9O9kOZ2r8Uw82Uf2PSpZ8LiX8v.jpg",
+    "backdrop_path": "/njB1BqqTPpj29d9ilJvGaRNEpXc.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1084808,
+  "imdb_id": "tt30416258",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Spectateurs !",
+  "overview": "What does it mean, to go to the movies? Why have people been going for over one hundred years? I set out to celebrate movie theaters and their manifold magic. So I walked in the footsteps of young Paul Dédalus, as if in a filmgoer’s coming-of-age story. Memories, fiction, discoveries come together in an irrepressible torrent of pictures.",
+  "popularity": 2.9199,
+  "poster_path": "/pLRYPH6Yzj5ezrINCoeAuYS9Drz.jpg",
+  "production_companies": [
+    {
+      "id": 75242,
+      "logo_path": "/hrZzmOGhzhv473sIInHtSNwQOhT.png",
+      "name": "Pictanovo",
+      "origin_country": "FR"
+    },
+    {
+      "id": 51696,
+      "logo_path": "/1HeS0gYnwi2AVtfGvSBaCqlXMuS.png",
+      "name": "CG Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 229472,
+      "logo_path": "/77wIavmHhDKJ9n4vpEM3K8jMriM.png",
+      "name": "Scala Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-01-15",
+  "revenue": 0,
+  "runtime": 88,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Filmlovers!",
+  "video": false,
+  "vote_average": 5.571,
+  "vote_count": 21
+}

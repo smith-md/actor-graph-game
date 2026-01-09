@@ -1,0 +1,109 @@
+{
+  "adult": false,
+  "backdrop_path": "/k1MgIkKeTVMlHl4rGkVoS0DGx9o.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 962319,
+  "imdb_id": "tt25051484",
+  "origin_country": [
+    "BE"
+  ],
+  "original_language": "fr",
+  "original_title": "Un silence",
+  "overview": "Astrid is the wife of an acclaimed lawyer. Silenced for 25 years, her family balance suddenly collapses when her children initiate their search for justice.",
+  "popularity": 3.9167,
+  "poster_path": "/pXWJGRUqztTkflac30jjd2bjvBU.jpg",
+  "production_companies": [
+    {
+      "id": 790,
+      "logo_path": "/k0MnHFovKIeev0ANR0Ww6HO6tfF.png",
+      "name": "Samsa Film",
+      "origin_country": "LU"
+    },
+    {
+      "id": 84352,
+      "logo_path": "/jCluvAPVwESTEP012VHYmmAPrgs.png",
+      "name": "Stenola Productions",
+      "origin_country": "BE"
+    },
+    {
+      "id": 223,
+      "logo_path": "/pdthRbCuXNlrGNwnmLFRxv5Zy3t.png",
+      "name": "Les Films du Losange",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11931,
+      "logo_path": "/38bX28MdtlhBIgwv71KPqBqE7lO.png",
+      "name": "Prime Time",
+      "origin_country": "BE"
+    },
+    {
+      "id": 11797,
+      "logo_path": "/61JT9Ldht918n04Q73l2KhCjss.png",
+      "name": "VOO",
+      "origin_country": "BE"
+    },
+    {
+      "id": 24430,
+      "logo_path": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
+      "name": "BeTV",
+      "origin_country": "BE"
+    },
+    {
+      "id": 792,
+      "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF",
+      "origin_country": "BE"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 92187,
+      "logo_path": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+      "name": "Proximus",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    }
+  ],
+  "release_date": "2024-01-10",
+  "revenue": 0,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "A Silence",
+  "video": false,
+  "vote_average": 5.1,
+  "vote_count": 63
+}

@@ -1,0 +1,103 @@
+{
+  "adult": false,
+  "backdrop_path": "/f5csnjqQj5qdqc0EZchon94hXZ6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.umbrellaent.com.au/film/exit-8",
+  "id": 1408208,
+  "imdb_id": "tt35222590",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "８番出口",
+  "overview": "A man gets lost in an underground passage. He follows the \"guide\" through the passage, but one after another, strange things happen to him. Is this space real? Or an illusion? Will the man be able to escape the passage?",
+  "popularity": 48.8683,
+  "poster_path": "/nQXYTvm6AY4WmtcPskroqC7Skh.jpg",
+  "production_companies": [
+    {
+      "id": 882,
+      "logo_path": "/fRSWWjquvzcHjACbtF53utZFIll.png",
+      "name": "TOHO",
+      "origin_country": "JP"
+    },
+    {
+      "id": 39804,
+      "logo_path": "/bT7wDgMpeT7EAewYfWIHs3gWNYE.png",
+      "name": "AOI Pro.",
+      "origin_country": "JP"
+    },
+    {
+      "id": 128616,
+      "logo_path": "/cjmwexOzetWZa8QKy447NMrM6MG.png",
+      "name": "Story",
+      "origin_country": "JP"
+    },
+    {
+      "id": 11849,
+      "logo_path": "/ssKAToULWqC6LJXOJWtd0O3VdV0.png",
+      "name": "Lawson",
+      "origin_country": "JP"
+    },
+    {
+      "id": 270390,
+      "logo_path": null,
+      "name": "Suirinsha",
+      "origin_country": "JP"
+    },
+    {
+      "id": 145105,
+      "logo_path": "/oFUDvCLCRmAXlGqjmwO8CN33ygl.png",
+      "name": "Tohan",
+      "origin_country": "JP"
+    },
+    {
+      "id": 270391,
+      "logo_path": null,
+      "name": "Office Nino",
+      "origin_country": "JP"
+    },
+    {
+      "id": 270392,
+      "logo_path": null,
+      "name": "Metro Ad Agency",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "2025-08-28",
+  "revenue": 32100000,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Try your best to get out.",
+  "title": "Exit 8",
+  "video": false,
+  "vote_average": 6.061,
+  "vote_count": 98
+}

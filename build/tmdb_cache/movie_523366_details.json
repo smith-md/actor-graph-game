@@ -1,0 +1,88 @@
+{
+  "adult": false,
+  "backdrop_path": "/494bVeWKJ3DlCRHQu7kaPyskou9.jpg",
+  "belongs_to_collection": null,
+  "budget": 17800000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    }
+  ],
+  "homepage": "https://timelessfilms.co.uk/programme/dragon-rider",
+  "id": 523366,
+  "imdb_id": "tt7080422",
+  "origin_country": [
+    "BE",
+    "DE"
+  ],
+  "original_language": "en",
+  "original_title": "Dragon Rider",
+  "overview": "An unlikely trio of heroes – a dragon, a boy and a forest brownie – embark on an epic adventure to find the “Rim of Heaven” - the mythological safe haven for all dragons.",
+  "popularity": 4.2004,
+  "poster_path": "/ucDrOXUrVnr9X3ZmXP2Q68HDIHr.jpg",
+  "production_companies": [
+    {
+      "id": 47,
+      "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 111372,
+      "logo_path": "/AcGUKknJRR0oACxehbXFnCBg2fX.png",
+      "name": "Cyborn",
+      "origin_country": "BE"
+    },
+    {
+      "id": 143397,
+      "logo_path": null,
+      "name": "Lumatic",
+      "origin_country": "DE"
+    },
+    {
+      "id": 100870,
+      "logo_path": null,
+      "name": "RISE PICTURES",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2020-10-13",
+  "revenue": 7000000,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "We are flying carbon neutral.",
+  "title": "Dragon Rider",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 169
+}

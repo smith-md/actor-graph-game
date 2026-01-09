@@ -1,0 +1,58 @@
+{
+  "adult": false,
+  "backdrop_path": "/4Oc02EALUgJSo5BBwwakh8zLIKY.jpg",
+  "belongs_to_collection": {
+    "id": 181502,
+    "name": "Screwballs Collection",
+    "poster_path": "/hFkwUfhLA9SWYKBBUYvlM6000oY.jpg",
+    "backdrop_path": "/mDVBnGb8K0RPxrWkQS7IyUUUyDy.jpg"
+  },
+  "budget": 945000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 44191,
+  "imdb_id": "tt0089501",
+  "origin_country": [
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "Loose Screws",
+  "overview": "What happens when four high school screw-ups are forced to attend an academy summer school to graduate? They turn their scholastic sentence into a wacky game of trying to improve their scores... with the women. The ultimate conquest for the 100-point prize is the sexy new French teacher, but she proves to be a bigger challenge than their failing grades. The unforgiving principal foils every scheme, and their sidesplitting last chance is the academy's anniversary celebration.",
+  "popularity": 3.3384,
+  "poster_path": "/lUYuorrNoVvEmee8SPtATKnWqvd.jpg",
+  "production_companies": [
+    {
+      "id": 24309,
+      "logo_path": null,
+      "name": "Crazy Wheels Film Corporation",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "1985-08-01",
+  "revenue": 0,
+  "runtime": 77,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "More fun than you can shake your stick at!",
+  "title": "Loose Screws",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 53
+}

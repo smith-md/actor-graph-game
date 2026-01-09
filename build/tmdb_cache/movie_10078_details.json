@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/7l2Qwo1VfIFv3hT6hM7F513hjLB.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 10078,
+  "imdb_id": "tt0841027",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Magicians",
+  "overview": "A pair of rivaling stage magicians are forced to confront their falling out over a guillotine mishap when they compete in a magic competition.",
+  "popularity": 3.3006,
+  "poster_path": "/bNdA5ebwyaE9gwUUiTrdvQ3Ll6j.jpg",
+  "production_companies": [
+    {
+      "id": 4400,
+      "logo_path": null,
+      "name": "Universal Pictures UK",
+      "origin_country": "GB"
+    },
+    {
+      "id": 8856,
+      "logo_path": "/hlbfz8l0yIXhMn7EecL0JVSeceE.png",
+      "name": "Intermedia",
+      "origin_country": "US"
+    },
+    {
+      "id": 7060,
+      "logo_path": null,
+      "name": "Breakout Films",
+      "origin_country": ""
+    },
+    {
+      "id": 350,
+      "logo_path": "/bW7Ew27756PFKI3ucLFDIKEkFc0.png",
+      "name": "Radar Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 2452,
+      "logo_path": "/gOkUB0TdXRLAl6s0s6jCSLS3sOb.png",
+      "name": "UK Film Council",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2007-05-18",
+  "revenue": 1752038,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Magicians",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 73
+}

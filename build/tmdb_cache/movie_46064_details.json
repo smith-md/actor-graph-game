@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/sarGZnE5MzXwLrcyacsc8900TRY.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    }
+  ],
+  "homepage": "",
+  "id": 46064,
+  "imdb_id": "tt1376699",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Den Brother",
+  "overview": "Alex Pearson has a lot to learn about teamwork. As the star of the Lemon Oaks hockey team, Alex almost always has his way on and off the ice. That is until he pulls a stunt so outrageous not even his own coach can give him a pass. His punishment? Suspension from the team, a never-ending list of chores and a job watching his little sister Emily after school.",
+  "popularity": 4.6487,
+  "poster_path": "/5oWZJChuObK0STDK3FiPNgxzFfr.jpg",
+  "production_companies": [],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2010-08-13",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Moldavian",
+      "iso_639_1": "mo",
+      "name": ""
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Den Brother",
+  "video": false,
+  "vote_average": 5.882,
+  "vote_count": 136
+}

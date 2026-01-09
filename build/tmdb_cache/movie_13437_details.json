@@ -1,0 +1,86 @@
+{
+  "adult": false,
+  "backdrop_path": "/UNP6AvoiTo1am5WBx11slm5NOQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 13437,
+  "imdb_id": "tt0275947",
+  "origin_country": [
+    "CH",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Avenging Angelo",
+  "overview": "A woman who has recently discovered that she is the daughter of Angelo, a major mafia boss, decides to wreak vengeance when he is killed by a hitman. She's aided by his faithful bodyguard, with whom she soon falls in love.",
+  "popularity": 3.221,
+  "poster_path": "/hl4mI28D4NhE6ePNgPojQuyEYw7.jpg",
+  "production_companies": [
+    {
+      "id": 2755,
+      "logo_path": null,
+      "name": "Dante Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 6370,
+      "logo_path": null,
+      "name": "Quinta Communications",
+      "origin_country": "FR"
+    },
+    {
+      "id": 22006,
+      "logo_path": null,
+      "name": "Cinema Holdings",
+      "origin_country": ""
+    },
+    {
+      "id": 22007,
+      "logo_path": null,
+      "name": "Lionweed",
+      "origin_country": ""
+    },
+    {
+      "id": 1403,
+      "logo_path": "/pMTQNUhHCwr39CsS7yUmSg503E7.png",
+      "name": "Franchise Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-08-30",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Her life is his job.",
+  "title": "Avenging Angelo",
+  "video": false,
+  "vote_average": 5.383,
+  "vote_count": 254
+}

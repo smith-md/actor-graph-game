@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/k19u7EVyMqhfQrH9KMlyCNbnvBZ.jpg",
+  "belongs_to_collection": null,
+  "budget": 50000000,
+  "genres": [
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 11863,
+  "imdb_id": "tt0113451",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Jade",
+  "overview": "When a prominent art dealer is found murdered, the man's death leads to an intriguing investigation steeped in sex, corruption and crime. District Attorney David Corelli gets assigned to the case and discovers that a key suspect is his ex-lover Katrina Gavin, a beautiful psychologist who has settled down with his old friend and peer. As Corelli gets deeper into the case, he uncovers dark secrets with far-reaching implications.",
+  "popularity": 4.178,
+  "poster_path": "/8KWiZKDYpAgh8n27lanvTuDquyX.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 94856,
+      "logo_path": null,
+      "name": "Robert Evans Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 49947,
+      "logo_path": null,
+      "name": "Adelson-Baumgarten Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1995-10-13",
+  "revenue": 9851610,
+  "runtime": 95,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some fantasies go too far.",
+  "title": "Jade",
+  "video": false,
+  "vote_average": 5.47,
+  "vote_count": 285
+}

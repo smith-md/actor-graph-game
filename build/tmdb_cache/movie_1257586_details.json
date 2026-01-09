@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/8aQYGyXKCohzoTjjxWzANPV2VBS.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://epic-pictures.com/film/the-hangman",
+  "id": 1257586,
+  "imdb_id": "tt31645789",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Hangman",
+  "overview": "Troubled father Leon takes son camping in Appalachia. Local cult summons evil Hangman demon. Son goes missing. Leon must confront cult, monster to find him amid rising body count.",
+  "popularity": 3.5199,
+  "poster_path": "/rij9Eh4RVXyPet8A1BNU8pDvtmu.jpg",
+  "production_companies": [
+    {
+      "id": 46241,
+      "logo_path": "/vky0cn7DXiP9LAHETop7CVhvYk5.png",
+      "name": "Traverse Media",
+      "origin_country": "US"
+    },
+    {
+      "id": 7662,
+      "logo_path": "/uGLpMN6r5MyFosNTgP9PKU48CHp.png",
+      "name": "Epic Pictures Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-05-30",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Give the devil his due.",
+  "title": "The Hangman",
+  "video": false,
+  "vote_average": 5.798,
+  "vote_count": 57
+}

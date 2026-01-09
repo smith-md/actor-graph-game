@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/xxIRKSd9LmHojUD5grvMuGypwVC.jpg",
+  "belongs_to_collection": null,
+  "budget": 20000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 36095,
+  "imdb_id": "tt0123948",
+  "origin_country": [
+    "JP"
+  ],
+  "original_language": "ja",
+  "original_title": "キュア",
+  "overview": "A detective starts spiraling out of control when a wave of gruesome murders with seemingly similar bizarre circumstances is sweeping Tokyo.",
+  "popularity": 4.1356,
+  "poster_path": "/yTRrqIGusJuzG5Pe3iFQTnHg1Ps.jpg",
+  "production_companies": [
+    {
+      "id": 880,
+      "logo_path": "/vwhPRAZ4lhUtSuaifk4Au2MIm92.png",
+      "name": "Daiei Film",
+      "origin_country": "JP"
+    },
+    {
+      "id": 5072,
+      "logo_path": null,
+      "name": "Twins Japan",
+      "origin_country": "JP"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "JP",
+      "name": "Japan"
+    }
+  ],
+  "release_date": "1997-12-27",
+  "revenue": 234821,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Madness. Terror. Murder.",
+  "title": "Cure",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 710
+}

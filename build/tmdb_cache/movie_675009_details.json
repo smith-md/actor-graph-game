@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/dEVrGUhTnvk5FMH4SAucEzTSblj.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 675009,
+  "imdb_id": "tt7708510",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Firma Aquí",
+  "overview": "In this world he already realized that love forever is impossible. That's why there is a company that finds the perfect love every four years.  After spending a few days on break, Fran meets Roque, who immediately begins to win her heart despite not understanding each other at first. But as time progresses, they learn to know each other and Fran experiences a sensation that she had never felt before.  Would it be tragic if they decide to stay together for more than 4 years?",
+  "popularity": 3.826,
+  "poster_path": "/ywOfMinoCujghleZEd7sEAe4Og9.jpg",
+  "production_companies": [
+    {
+      "id": 12487,
+      "logo_path": "/wUKVwhE1CWpgwNcL5x88zcWjJMI.png",
+      "name": "Alebrije Producciones",
+      "origin_country": "MX"
+    },
+    {
+      "id": 150640,
+      "logo_path": null,
+      "name": "Monstro Films",
+      "origin_country": ""
+    },
+    {
+      "id": 228488,
+      "logo_path": "/bVewn2motj4B6MPCJa94GM1i1IO.png",
+      "name": "Pasajero",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2024-05-09",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Firma Aquí",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 29
+}

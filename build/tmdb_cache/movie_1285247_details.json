@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/eDVp3J8HqkXXMagnVKlm53dYJvJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 1285247,
+  "imdb_id": "tt29685033",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Murder Company",
+  "overview": "In the midst of the D-Day invasion, a group of US soldiers are given orders to smuggle a member of the French Resistance behind enemy lines to assassinate a high-value Nazi target.",
+  "popularity": 6.4677,
+  "poster_path": "/eUjzUUFm1dEUR6U4r0C6s9L2FEd.jpg",
+  "production_companies": [
+    {
+      "id": 205514,
+      "logo_path": null,
+      "name": "Complex Corp",
+      "origin_country": "US"
+    },
+    {
+      "id": 241938,
+      "logo_path": null,
+      "name": "Maverick Film",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-07-05",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Murder Company",
+  "video": false,
+  "vote_average": 5.688,
+  "vote_count": 32
+}

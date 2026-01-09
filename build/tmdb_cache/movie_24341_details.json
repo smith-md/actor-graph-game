@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/aOH67myzG6Gk0MrHIldOR5odTZW.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 24341,
+  "imdb_id": "tt0092906",
+  "origin_country": [
+    "IT",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dolls",
+  "overview": "A precocious girl, her nasty parents, two punk-rock losers and a weak-kneed salesman inadvertently become the guests of two ghoulish senior citizens in their dark, haunted mansion.",
+  "popularity": 3.3741,
+  "poster_path": "/yEE9Ly5r9o2XR35wKiIlkLfvnx6.jpg",
+  "production_companies": [
+    {
+      "id": 1212,
+      "logo_path": null,
+      "name": "Empire Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 17429,
+      "logo_path": null,
+      "name": "Taryn Productions Inc.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1986-10-27",
+  "revenue": 0,
+  "runtime": 77,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "They're cute, they're cuddly... and they kill!",
+  "title": "Dolls",
+  "video": false,
+  "vote_average": 6.38,
+  "vote_count": 361
+}

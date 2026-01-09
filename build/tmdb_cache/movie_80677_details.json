@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/pRHEEYikeDrzpoPlDEO4yr0eJnQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 80677,
+  "imdb_id": "tt0051852",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "La Legge",
+  "overview": "A gorgeous housekeeper turns the tables on the men in a small Mediterranean coastal town by using their own vicious drinking game.",
+  "popularity": 2.9369,
+  "poster_path": "/t72s3vbVbhEVbGxYhdRMKQPXEb3.jpg",
+  "production_companies": [
+    {
+      "id": 14562,
+      "logo_path": null,
+      "name": "Le Groupe des Quatre",
+      "origin_country": "FR"
+    },
+    {
+      "id": 641,
+      "logo_path": "/w8flpSJntsxVCMkIU1qeg1kJcJh.png",
+      "name": "Titanus",
+      "origin_country": "IT"
+    },
+    {
+      "id": 23249,
+      "logo_path": null,
+      "name": "GE.S.I. Cinematografica",
+      "origin_country": "IT"
+    },
+    {
+      "id": 4748,
+      "logo_path": "/bTMeosrSiKaTPmZiTYnSDZlin5d.png",
+      "name": "Oscilloscope",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "1959-01-25",
+  "revenue": 0,
+  "runtime": 110,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Law",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 26
+}

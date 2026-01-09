@@ -1,0 +1,61 @@
+{
+  "adult": false,
+  "backdrop_path": "/oMxI0VCdp26C14rf7rjGZsyKXGJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 785527,
+  "imdb_id": "tt12748300",
+  "origin_country": [
+    "NL"
+  ],
+  "original_language": "nl",
+  "original_title": "Forever Rich",
+  "overview": "This is the story of Richie and his journey to become the greatest rap-artist in the Netherlands. One evening he is violently mugged by a group of teenagers and loses his most prized possession: an expensive watch. When images of the humiliating robbery go viral, Richie's hard-earned reputation is damaged.",
+  "popularity": 3.5596,
+  "poster_path": "/vRbX9sTiZheczEtNfjAi0bhHPAn.jpg",
+  "production_companies": [
+    {
+      "id": 107129,
+      "logo_path": "/UuHggj4vBKvRxSKoroHWbgISVX.png",
+      "name": "Fiction Valley",
+      "origin_country": "NL"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "NL",
+      "name": "Netherlands"
+    }
+  ],
+  "release_date": "2021-10-01",
+  "revenue": 0,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "Dutch",
+      "iso_639_1": "nl",
+      "name": "Nederlands"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Forever Rich",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 122
+}

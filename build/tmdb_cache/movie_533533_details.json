@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/min9ZUDZbiguTiQ7yz1Hbqk78HT.jpg",
+  "belongs_to_collection": {
+    "id": 63043,
+    "name": "TRON Collection",
+    "poster_path": "/l0iZbJXY8MPLSqibet4M2rzrBw4.jpg",
+    "backdrop_path": "/4INQEOQ96EvYmANsCZaad9VvRWW.jpg"
+  },
+  "budget": 220000000,
+  "genres": [
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://movies.disney.com/tron-ares",
+  "id": 533533,
+  "imdb_id": "tt6604188",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "TRON: Ares",
+  "overview": "A highly sophisticated Program called Ares is sent from the digital world into the real world on a dangerous mission, marking humankind's first encounter with A.I. beings.",
+  "popularity": 81.1088,
+  "poster_path": "/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",
+  "production_companies": [
+    {
+      "id": 2,
+      "logo_path": "/wdrCwmRnLFJhEoH8GSfymY85KHT.png",
+      "name": "Walt Disney Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 23791,
+      "logo_path": null,
+      "name": "Sean Bailey Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-08",
+  "revenue": 142249983,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No going back.",
+  "title": "TRON: Ares",
+  "video": false,
+  "vote_average": 6.569,
+  "vote_count": 895
+}

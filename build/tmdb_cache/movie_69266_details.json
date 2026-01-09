@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/azRTTHIoePFExbZt7SxofwMlzpL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 69266,
+  "imdb_id": "tt0086350",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Special Bulletin",
+  "overview": "An evening of TV programming is interrupted by breaking news: in Charleston, South Carolina, two Coast Guard personnel and two members of a local news team have been taken hostage by a group of terrorists who are seeking to destroy the triggers of all local nuclear devices. Moreover, the terrorists threaten to detonate their own device if their demands are not met.",
+  "popularity": 4.4186,
+  "poster_path": "/zRhDjn2xZNOILNYDQokIGtR63vc.jpg",
+  "production_companies": [
+    {
+      "id": 1502,
+      "logo_path": "/ywjcvHUiKxv7cYsestkONF8LieH.png",
+      "name": "NBC",
+      "origin_country": "US"
+    },
+    {
+      "id": 111994,
+      "logo_path": null,
+      "name": "Ohlmeyer Communications Company",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1983-03-20",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Special Bulletin",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 25
+}

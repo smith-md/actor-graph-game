@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/F7Ji8YjVqQV5mJrtaPr9pe6uix.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 4375,
+  "imdb_id": "tt0061647",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Triple Cross",
+  "overview": "Safecracker Eddie Chapman is languishing in prison on the island of Jersey when the Nazis arrive. An adept manipulator of situations, Chapman convinces the Germans to use him to spy on the British. And when the would-be traitor arrives home, he convinces the English to use him as a double agent -- in exchange for a full pardon.",
+  "popularity": 3.2744,
+  "poster_path": "/AoGvqzc66h533Ncxjx3pSjy7Xmf.jpg",
+  "production_companies": [
+    {
+      "id": 86337,
+      "logo_path": null,
+      "name": "Cineurop",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1966-12-09",
+  "revenue": 0,
+  "runtime": 140,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "MASTER-CRIMINAL! SUPER-SPY! AND ALL TRUE!",
+  "title": "Triple Cross",
+  "video": false,
+  "vote_average": 6.019,
+  "vote_count": 79
+}

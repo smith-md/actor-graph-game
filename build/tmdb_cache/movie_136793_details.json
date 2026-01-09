@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/pjvnL6gwb1m6noRIipRDjrgn4gC.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "http://www.myriadpictures.com/index.php/films/detail?id=7ba48caf-9429-4ee1-8e0d-248b211f1b2a",
+  "id": 136793,
+  "imdb_id": "tt1321862",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dino Time",
+  "overview": "Young daredevil Ernie, his sister Julia, and his best friend Max accidentally trip a time-machine into operation and find themselves transported back in time 65 million years, where they meet a T-rex named Tyra and her rambunctious son Dodger.",
+  "popularity": 5.4585,
+  "poster_path": "/pzOkddFfLexWtTozMMvPDUNe0AK.jpg",
+  "production_companies": [
+    {
+      "id": 7036,
+      "logo_path": "/javbyY0ZCvlFJtly3tpZqf2NwLX.png",
+      "name": "CJ Entertainment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 738,
+      "logo_path": "/bLBdowsgMoipjXLi9QpdcZOvPhG.png",
+      "name": "Myriad Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 14833,
+      "logo_path": null,
+      "name": "TOIION",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2012-12-07",
+  "revenue": 6423279,
+  "runtime": 85,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "3 kids accidentally travel 65 million years into the past, are taken in by a dinosaur and must receive a missing piece of their time machine to get home.",
+  "title": "Dino Time",
+  "video": false,
+  "vote_average": 5.709,
+  "vote_count": 79
+}

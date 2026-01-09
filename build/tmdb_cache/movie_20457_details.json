@@ -1,0 +1,80 @@
+{
+  "adult": false,
+  "backdrop_path": "/wrz94zJpGWZgq2DKbxqLiy97Lbd.jpg",
+  "belongs_to_collection": null,
+  "budget": 7000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 20457,
+  "imdb_id": "tt0119632",
+  "origin_country": [
+    "US",
+    "IE"
+  ],
+  "original_language": "en",
+  "original_title": "The Matchmaker",
+  "overview": "Marcy, a worker in the reelection campaign of bumbling Senator John McGlory, is sent to Ireland on a quest to find the Irish ancestry of Sen. McGlory, to help him win the Irish vote. But when Marcy arrives in the small village of Ballinagra, she finds herself in the middle of a matchmaking festival, and the local matchmaker is determined to pair her off with one of the local bachelors.",
+  "popularity": 4.2676,
+  "poster_path": "/3TlW75w0Lo4uT6l8WRf3pdxbHHs.jpg",
+  "production_companies": [
+    {
+      "id": 5406,
+      "logo_path": null,
+      "name": "Good Film Company",
+      "origin_country": ""
+    },
+    {
+      "id": 10163,
+      "logo_path": "/16KWBMmfPX0aJzDExDrPxSLj0Pg.png",
+      "name": "Working Title Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1382,
+      "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 37,
+      "logo_path": "/wniaiKc5UCnC8qZcNKZNYwdKnUv.png",
+      "name": "Gramercy Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1997-10-03",
+  "revenue": 6000000,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A comedy for the incurably unromantic.",
+  "title": "The Matchmaker",
+  "video": false,
+  "vote_average": 6.2,
+  "vote_count": 47
+}

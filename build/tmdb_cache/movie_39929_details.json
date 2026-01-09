@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/w6OKe2d54o9CUnCGBgUmvDT8loU.jpg",
+  "belongs_to_collection": {
+    "id": 123255,
+    "name": "Prom Night Collection",
+    "poster_path": "/mWk1l7NPYDVDVHlJhwry5pcIoMd.jpg",
+    "backdrop_path": "/fgGV9R3v0OmFQoHECEUVrV9ZeEz.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 39929,
+  "imdb_id": "tt0093176",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hello Mary Lou: Prom Night II",
+  "overview": "When Hamilton High’s Prom Queen of 1957, Mary Lou Maloney is killed by her jilted boyfriend, she comes back for revenge thirty years later.",
+  "popularity": 2.4083,
+  "poster_path": "/i8kA5ImH7fWn8JBsilBJPTVdRvv.jpg",
+  "production_companies": [
+    {
+      "id": 7258,
+      "logo_path": null,
+      "name": "Alliance",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "1987-10-16",
+  "revenue": 2683519,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "You Can't Keep a Bad Girl Down!",
+  "title": "Hello Mary Lou: Prom Night II",
+  "video": false,
+  "vote_average": 6.06,
+  "vote_count": 209
+}

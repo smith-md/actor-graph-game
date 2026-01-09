@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Iw2ArIWqy5PQnGgLi2ZTEtdrgp.jpg",
+  "belongs_to_collection": null,
+  "budget": 3500000,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 426375,
+  "imdb_id": "tt6197494",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Malicious",
+  "overview": "A young college professor and his pregnant wife unwittingly release a malevolent entity with murderous intentions.",
+  "popularity": 3.0808,
+  "poster_path": "/ms6V9gUMcw6T6ENgUCU7SL5x7dl.jpg",
+  "production_companies": [
+    {
+      "id": 83455,
+      "logo_path": null,
+      "name": "Lost Hills Film Fund",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-06-23",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It will take what's most precious to you.",
+  "title": "Malicious",
+  "video": false,
+  "vote_average": 5.675,
+  "vote_count": 180
+}

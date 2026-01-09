@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/yYvQXiX4KPN0cfPzVBcWOD5OuRJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "http://www.stayinyourroom.com/",
+  "id": 298312,
+  "imdb_id": "tt3567288",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Visit",
+  "overview": "A brother and sister are sent to their grandparents' remote Pennsylvania farm for a week, where they discover that the elderly couple is involved in something deeply disturbing.",
+  "popularity": 5.2023,
+  "poster_path": "/hDrToKMpKYTdwdpOhshL8ko6WVp.jpg",
+  "production_companies": [
+    {
+      "id": 3172,
+      "logo_path": "/rzKluDcRkIwHZK2pHsiT667A2Kw.png",
+      "name": "Blumhouse Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 12236,
+      "logo_path": "/bVu0qQm4GujSTCvZZz9S3rHDczA.png",
+      "name": "Blinding Edge Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2015-09-10",
+  "revenue": 98450062,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "No one loves you like your grandparents.",
+  "title": "The Visit",
+  "video": false,
+  "vote_average": 6.326,
+  "vote_count": 5029
+}

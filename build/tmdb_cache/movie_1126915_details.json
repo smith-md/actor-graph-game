@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": "/db44XHVbqhQXr3tQQgYcw2gp39Z.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 1126915,
+  "imdb_id": "tt27721490",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "Tornado",
+  "overview": "When her father's puppet samurai show gets ambushed by a notorious gang, Tornado vows to seek vengeance and forge her own destiny by stealing their ill-gotten gold.",
+  "popularity": 4.4952,
+  "poster_path": "/iow3KuKBJN2Hfqi7i7Tq3pZUbAa.jpg",
+  "production_companies": [
+    {
+      "id": 2395,
+      "logo_path": "/pZz4qs03FtP6UGtZ3hjQ6qimcwi.png",
+      "name": "HanWay Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 155758,
+      "logo_path": "/iZi0zd9ijrcWR9zlEUUthG8d600.png",
+      "name": "Tea Shop Productions",
+      "origin_country": "GB"
+    },
+    {
+      "id": 1270,
+      "logo_path": "/4xicOE0sCK3PWfM3RKvHUc89xoL.png",
+      "name": "National Lottery",
+      "origin_country": "GB"
+    },
+    {
+      "id": 124380,
+      "logo_path": "/ixl5eB1t9AJmjhmtvF3c8YJIrsU.png",
+      "name": "BFI Network",
+      "origin_country": "GB"
+    },
+    {
+      "id": 189103,
+      "logo_path": "/hu0qcD4k7kfWpdAewqmJSUyZPa7.png",
+      "name": "Ashland Hill Media Finance",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-05-30",
+  "revenue": 213499,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Japanese",
+      "iso_639_1": "ja",
+      "name": "日本語"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In the face of evil, become a force of nature.",
+  "title": "Tornado",
+  "video": false,
+  "vote_average": 6.428,
+  "vote_count": 69
+}

@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/o5vasl0xbZWWKQnAlaBTSgntHH2.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.sonypictures.com/movies/turnonocturno",
+  "id": 1208808,
+  "imdb_id": "tt13657394",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Turno nocturno",
+  "overview": "A young nurse with a domestic abuse past starts working the night shift at a small hospital, where, during the night, the ghost of a nurse materializes.",
+  "popularity": 8.5696,
+  "poster_path": "/jnX2JQIbYwCLhHenhQFBFw6fozR.jpg",
+  "production_companies": [
+    {
+      "id": 63520,
+      "logo_path": "/ytQNtv7i4wtkuLyguqRLC0FX8GL.png",
+      "name": "Sony Pictures International Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 74139,
+      "logo_path": null,
+      "name": "EFICINE 189",
+      "origin_country": "MX"
+    },
+    {
+      "id": 299,
+      "logo_path": "/elssmtHcogGtF8Gxokh9phZvLKi.png",
+      "name": "Instituto Mexicano de Cinematografía",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2024-12-05",
+  "revenue": 0,
+  "runtime": 107,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "There's no cure for this evil.",
+  "title": "Night Shift",
+  "video": false,
+  "vote_average": 6.362,
+  "vote_count": 178
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/aYO96tiCdOC4Zg0RBGKtPvHWKAR.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 542905,
+  "imdb_id": "tt6237268",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Ride",
+  "overview": "A night in Los Angeles becomes a psychological war for survival when an Uber driver, James, and his passenger, Jessica, pick up Bruno, who is charismatic but manipulative.",
+  "popularity": 4.3369,
+  "poster_path": "/skyZpGolECdQD3KrtqjYHLHC4to.jpg",
+  "production_companies": [
+    {
+      "id": 13238,
+      "logo_path": "/kDNZz8imH866Mezx1YhLWljoQTV.png",
+      "name": "Unified Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 89122,
+      "logo_path": null,
+      "name": "Look to the Sky Films",
+      "origin_country": "CA"
+    },
+    {
+      "id": 36109,
+      "logo_path": "/wca0Jcidf2N1KAPicYMjGoKOmYu.png",
+      "name": "The Fyzz",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-10-05",
+  "revenue": 0,
+  "runtime": 79,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Some rides should never be shared",
+  "title": "Ride",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 157
+}

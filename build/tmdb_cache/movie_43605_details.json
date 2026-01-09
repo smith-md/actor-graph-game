@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/zV7JeAgHut2diYjC6LzB5I8mx50.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 43605,
+  "imdb_id": "tt0025907",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Treasure Island",
+  "overview": "In this early film adaptation of the classic novel by Robert Louis Stevenson, young Jim Hawkins is caught up with the pirate Long John Silver in search of buccaneer Captain Flint's buried treasure.",
+  "popularity": 3.9971,
+  "poster_path": "/gagTpKHWd9DiDtSb6hIFTAuXi0k.jpg",
+  "production_companies": [
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1934-08-17",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Sail the high seas of adventure again!",
+  "title": "Treasure Island",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 72
+}

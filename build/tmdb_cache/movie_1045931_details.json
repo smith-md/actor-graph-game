@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/4kX80Ea98cEy2Ahy0LSMYtFvJDG.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1045931,
+  "imdb_id": "tt21383812",
+  "origin_country": [
+    "IN"
+  ],
+  "original_language": "hi",
+  "original_title": "Crew",
+  "overview": "Three ordinary air hostesses from Mumbai embark on a journey to pursue their dreams but find themselves caught up in unexpected misfortunes.",
+  "popularity": 4.5001,
+  "poster_path": "/8mnCtQngfhYt0W0BmkrCePutmvy.jpg",
+  "production_companies": [
+    {
+      "id": 3750,
+      "logo_path": "/4YRT7sNsvvULDZclOcJkvNpDGOb.png",
+      "name": "Balaji Motion Pictures",
+      "origin_country": "IN"
+    },
+    {
+      "id": 221540,
+      "logo_path": "/6LVZ5JosGhxVTf2cnLr8iReoWXN.png",
+      "name": "Anil Kapoor Film & Communication Network",
+      "origin_country": "IN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IN",
+      "name": "India"
+    }
+  ],
+  "release_date": "2024-03-29",
+  "revenue": 0,
+  "runtime": 124,
+  "spoken_languages": [
+    {
+      "english_name": "Hindi",
+      "iso_639_1": "hi",
+      "name": "हिन्दी"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Risk it. Fake it. Steal it.",
+  "title": "Crew",
+  "video": false,
+  "vote_average": 6.72,
+  "vote_count": 66
+}

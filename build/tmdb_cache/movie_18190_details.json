@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/83hLixhpxMw2WpG72IzFYE28b3v.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 18190,
+  "imdb_id": "tt0109665",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dream Lover",
+  "overview": "Not long after they cross paths at an art gallery, architect Ray Reardon and hypnotically sensual Lena are married with children. But as strange incidents occur, Ray begins to realize he may not really know the woman he married.",
+  "popularity": 6.8588,
+  "poster_path": "/epl5pprGt04gAJI8lzbKy83XkbE.jpg",
+  "production_companies": [
+    {
+      "id": 278,
+      "logo_path": "/r3Aya3Sy7f24t6Waaug3mQn6ew7.png",
+      "name": "Propaganda Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 1382,
+      "logo_path": "/8b5XGJ8YhZoEo9LgFP8KRQWHjYL.png",
+      "name": "PolyGram Filmed Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1994-11-11",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "If you think you know your lover. Think again. Especially if she's your wife.",
+  "title": "Dream Lover",
+  "video": false,
+  "vote_average": 6.31,
+  "vote_count": 113
+}

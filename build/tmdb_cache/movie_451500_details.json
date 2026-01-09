@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/uc369Ws3HHY4NXCgs2hwb5pjrGN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 451500,
+  "imdb_id": "tt7018010",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Santa & Cie",
+  "overview": "Christmas is on its way and with it disaster. The 92,000 responsible for manufacturing children's toys all become sick at the same time! It's a tough moment for Santa, better known as Father Christmas. He's left no choice: he must make an emergency trip to Earth with his reindeer to search for a remedy. When he arrives, he must find some allies to save the magic of Christmas.",
+  "popularity": 3.8032,
+  "poster_path": "/sRsrP5iowmCGV2IvVWMga1EmHZA.jpg",
+  "production_companies": [
+    {
+      "id": 13800,
+      "logo_path": null,
+      "name": "Gaumont Distribution",
+      "origin_country": ""
+    },
+    {
+      "id": 22997,
+      "logo_path": "/niPdWsCgM1HoAEnh3Z200V4nDIo.png",
+      "name": "Légende Films",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2017-12-06",
+  "revenue": 0,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Portuguese",
+      "iso_639_1": "pt",
+      "name": "Português"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Hold on for deer life!",
+  "title": "Christmas & Co.",
+  "video": false,
+  "vote_average": 6.281,
+  "vote_count": 661
+}

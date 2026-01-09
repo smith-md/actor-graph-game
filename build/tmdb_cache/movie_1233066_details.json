@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/6za18wAVGMr5VsEnDXeLfL4ujjW.jpg",
+  "belongs_to_collection": {
+    "id": 1245650,
+    "name": "Manitu Filmreihe",
+    "poster_path": "/xEya4vsdoVNpYOUUMOqili8Faz9.jpg",
+    "backdrop_path": "/jj34TGXD4i7rvI7XKa1LhfdUWlu.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    }
+  ],
+  "homepage": "",
+  "id": 1233066,
+  "imdb_id": "tt30972054",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "Das Kanu des Manitu",
+  "overview": "Abahachi, the Apache chief, and his white blood brother Ranger fight tirelessly for peace and justice - but a new, up-and-coming gang is making life particularly difficult for them! They lure Abahachi and Ranger into a trap in order to get their hands on the legendary “Canoe of Manitou”.",
+  "popularity": 7.2547,
+  "poster_path": "/8d5Qnz2LGbu0kr7RCwdX8E55mYT.jpg",
+  "production_companies": [
+    {
+      "id": 47,
+      "logo_path": "/i7Z9ot2o3N5Sa3HrF09kniFs2y8.png",
+      "name": "Constantin Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 1635,
+      "logo_path": null,
+      "name": "herbX film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2025-08-14",
+  "revenue": 57840726,
+  "runtime": 89,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Manitou's Canoe",
+  "video": false,
+  "vote_average": 6.789,
+  "vote_count": 114
+}

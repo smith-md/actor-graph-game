@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/mCK4c04c4D4c80qZJXuDaIMiQtl.jpg",
+  "belongs_to_collection": {
+    "id": 10893,
+    "name": "Critters Collection",
+    "poster_path": "/6DTwPOGG1FVebElsUqH9UAJg2Qw.jpg",
+    "backdrop_path": "/wqqvfXVm6fQwEVLSWImt4yYdgCD.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    }
+  ],
+  "homepage": "",
+  "id": 12702,
+  "imdb_id": "tt0101627",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Critters 3",
+  "overview": "As fanged, furious furballs viciously invade an L.A. apartment building and sink their teeth into the low-rent tenants, Josh leads the battle to beat back the conniving critters and save the planet.",
+  "popularity": 5.5117,
+  "poster_path": "/frjklbq23pRgBjhekEq6drQkrZm.jpg",
+  "production_companies": [
+    {
+      "id": 66755,
+      "logo_path": null,
+      "name": "OH Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 12,
+      "logo_path": "/2ycs64eqV5rqKYHyQK0GVoKGvfX.png",
+      "name": "New Line Cinema",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-12-11",
+  "revenue": 0,
+  "runtime": 86,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "First they destroyed a farm. Then they terrorized a town. Now they're ready to do some REAL damage!",
+  "title": "Critters 3",
+  "video": false,
+  "vote_average": 5.284,
+  "vote_count": 442
+}

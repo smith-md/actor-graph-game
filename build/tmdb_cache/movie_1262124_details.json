@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/7R2MLdOYtBhTckadXcLlYZZTCA0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://highlandfilmgroup.com/movies/impulse",
+  "id": 1262124,
+  "imdb_id": "tt18304514",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Impulse",
+  "overview": "A young journalist is pulled into the orbit of a string of murders that connects media moguls, politicians, and Hollywood elites - setting off on the impossible task of taking them down.",
+  "popularity": 3.2641,
+  "poster_path": "/8UiYw9JGDZsXODKtBpnAhmoK2UO.jpg",
+  "production_companies": [
+    {
+      "id": 76991,
+      "logo_path": "/pQjdvbv4y9yuIDSHDEHc9ijJKaS.png",
+      "name": "Highland Film Group",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2023-03-05",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Every lie has two sides.",
+  "title": "Impulse",
+  "video": false,
+  "vote_average": 6.677,
+  "vote_count": 31
+}

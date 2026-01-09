@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/qn409bhscdT6iWIn8JqiPwjfoDy.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 79008,
+  "imdb_id": "tt0084173",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Jinxed!",
+  "overview": "Harold, a professional gambler, and his girlfriend Bonita, a lounge singer, follow Willie, a young blackjack dealer, around the western U.S. Harold has a jinx on Willie and can't lose with him. Bonita and Willie meet and fall for each other and plot to do away with Harold and collect on his life insurance.",
+  "popularity": 2.857,
+  "poster_path": "/x0qfhkkrKK9z1Sh2qbunXLTcp2m.jpg",
+  "production_companies": [
+    {
+      "id": 60,
+      "logo_path": "/4YldLvCWQL9VIAHQ2Fu3Ffkh9Si.png",
+      "name": "United Artists",
+      "origin_country": "US"
+    },
+    {
+      "id": 15177,
+      "logo_path": null,
+      "name": "Herb Jaffe",
+      "origin_country": ""
+    },
+    {
+      "id": 16442,
+      "logo_path": null,
+      "name": "Pacific Bay Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1982-10-22",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "America's favorite tootsie is on a roll.",
+  "title": "Jinxed!",
+  "video": false,
+  "vote_average": 4.5,
+  "vote_count": 23
+}

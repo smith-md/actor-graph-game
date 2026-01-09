@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/x351MSYFH0sT2aSHeTP5qv8WJOm.jpg",
+  "belongs_to_collection": {
+    "id": 979674,
+    "name": "Eugene Trilogy",
+    "poster_path": "/cAPNuOZQHM3HlrPwtPS9GqJElQI.jpg",
+    "backdrop_path": "/8ws8cIho7OtPXcbMwymfYCeMurG.jpg"
+  },
+  "budget": 20000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10752,
+      "name": "War"
+    }
+  ],
+  "homepage": "",
+  "id": 19382,
+  "imdb_id": "tt0094746",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Biloxi Blues",
+  "overview": "A Jewish teenager sets three goals: lose his virginity, become a writer, and survive World War II.",
+  "popularity": 3.8442,
+  "poster_path": "/vAhQegSNb0OYwBN2KbSr8GRSUsI.jpg",
+  "production_companies": [
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1177,
+      "logo_path": "/gxvrQWG6byKMVEHMjTJjGhRlARQ.png",
+      "name": "Rastar Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1988-03-25",
+  "revenue": 51684798,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Army made Eugene a man. But Daisy gave him basic training!",
+  "title": "Biloxi Blues",
+  "video": false,
+  "vote_average": 6.241,
+  "vote_count": 216
+}

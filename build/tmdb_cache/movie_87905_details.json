@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/71J5BdofL1578TJLlLZ3PfT7XYE.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 87905,
+  "imdb_id": "tt0090145",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Tenement",
+  "overview": "A drug-dealing band of violent street thugs terrorize the tenants of a South Bronx apartment building.",
+  "popularity": 3.299,
+  "poster_path": "/m52I0tP2gwVtYXMoKzIfVpOMPPm.jpg",
+  "production_companies": [
+    {
+      "id": 5447,
+      "logo_path": null,
+      "name": "Laurel Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1985-09-20",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A bloodbath in the Bronx!",
+  "title": "Tenement",
+  "video": false,
+  "vote_average": 5.267,
+  "vote_count": 30
+}

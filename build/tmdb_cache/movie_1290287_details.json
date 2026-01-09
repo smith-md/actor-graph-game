@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/6neVLKBU4DaWAwpWFhfCpV6yuqN.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81764579",
+  "id": 1290287,
+  "imdb_id": "tt32359447",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Hot Frosty",
+  "overview": "When a young widow's magic scarf brings a dashing snowman to life, can he help her rediscover romance, laughter and holiday cheer before he melts away?",
+  "popularity": 3.5324,
+  "poster_path": "/waW6R5WJQSxq65gwBkvnKlseU6n.jpg",
+  "production_companies": [
+    {
+      "id": 78703,
+      "logo_path": null,
+      "name": "Muse Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 6438,
+      "logo_path": "/hQVRii7CRnfG0rowSEc6ibt2Pke.png",
+      "name": "Muse Entertainment",
+      "origin_country": "CA"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2024-11-12",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It took a snowman to melt her heart.",
+  "title": "Hot Frosty",
+  "video": false,
+  "vote_average": 5.91,
+  "vote_count": 279
+}

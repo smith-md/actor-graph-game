@@ -1,0 +1,81 @@
+{
+  "adult": false,
+  "backdrop_path": "/AcOcz5Lr4viQ2k7BVtOrarRbECu.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 414187,
+  "imdb_id": "tt4682780",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Josie",
+  "overview": "Everyone knows everyone in the southern town of Baymont. So when tattooed, sweet-talking Josie struts into town, heads turn. Striking up relationships with young punk Gator and loner Hank, she quickly becomes a hot topic of local gossip.",
+  "popularity": 2.7297,
+  "poster_path": "/sXwATbG3eJjkteGh1YaqV1PGeGb.jpg",
+  "production_companies": [
+    {
+      "id": 54268,
+      "logo_path": "/Pvi7supNmOjgH2dqnKPTsmKsSL.png",
+      "name": "Boo Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 208489,
+      "logo_path": null,
+      "name": "Coalition Group",
+      "origin_country": ""
+    },
+    {
+      "id": 39043,
+      "logo_path": null,
+      "name": "Traveling Picture Show Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 127736,
+      "logo_path": null,
+      "name": "Eggplant Picture & Sound",
+      "origin_country": ""
+    },
+    {
+      "id": 62410,
+      "logo_path": "/7YzIXhp1QKwo0s4a7hIbCgswAyg.png",
+      "name": "Waterstone Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2018-03-16",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Secrets will come to light.",
+  "title": "Josie",
+  "video": false,
+  "vote_average": 5.2,
+  "vote_count": 106
+}

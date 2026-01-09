@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/ojqNpimiCSk09SUKNmO1aLTeUzL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 395902,
+  "imdb_id": "tt0252485",
+  "origin_country": [
+    "TR"
+  ],
+  "original_language": "tr",
+  "original_title": "Gurbetçi Şaban",
+  "overview": "Şaban is a poor man. In Germany, where Şaban went as a worker, tragicomic events happen.",
+  "popularity": 4.0154,
+  "poster_path": "/qDpSZIdw1MhvA3dXXt2rChhB6Kv.jpg",
+  "production_companies": [
+    {
+      "id": 14418,
+      "logo_path": null,
+      "name": "Uğur Film",
+      "origin_country": "TR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "TR",
+      "name": "Turkey"
+    }
+  ],
+  "release_date": "1985-10-01",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "Turkish",
+      "iso_639_1": "tr",
+      "name": "Türkçe"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Expat Şaban",
+  "video": false,
+  "vote_average": 6.4,
+  "vote_count": 44
+}

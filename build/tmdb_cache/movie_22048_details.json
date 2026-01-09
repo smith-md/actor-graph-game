@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/fBbaoVkZjzmF3Rea40xz87qwwf3.jpg",
+  "belongs_to_collection": null,
+  "budget": 500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 22048,
+  "imdb_id": "tt0071517",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Foxy Brown",
+  "overview": "A voluptuous black woman takes a job as a high-class prostitute in order to get revenge on the mobsters who murdered her boyfriend.",
+  "popularity": 3.4561,
+  "poster_path": "/lAeEDcBgEqnxl9l7n7i4936ERi8.jpg",
+  "production_companies": [
+    {
+      "id": 9266,
+      "logo_path": "/lRinQ7scVye5N8qkUIoCB4QXbRh.png",
+      "name": "American International Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 140120,
+      "logo_path": null,
+      "name": "Hollywood West Entertainment",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1974-04-05",
+  "revenue": 0,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "She's brown sugar and spice but if you don't treat her nice she'll put you on ice!",
+  "title": "Foxy Brown",
+  "video": false,
+  "vote_average": 6.246,
+  "vote_count": 250
+}

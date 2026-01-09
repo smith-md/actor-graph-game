@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/hp6fGWF1e2BMmMg0s6hzR8Me5rT.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "https://www.abanquetmovie.com/",
+  "id": 775400,
+  "imdb_id": "tt11400902",
+  "origin_country": [
+    "GB"
+  ],
+  "original_language": "en",
+  "original_title": "A Banquet",
+  "overview": "Widowed mother Holly is radically tested when her teenage daughter Betsey experiences a profound enlightenment and insists that her body is no longer her own, but in service to a higher power. Bound to her newfound faith, Betsey refuses to eat but loses no weight. In an agonizing dilemma, torn between love and fear, Holly is forced to confront the boundaries of her own beliefs.",
+  "popularity": 3.8658,
+  "poster_path": "/4FlSYrcjO4z3McJ6UP3V5npb4B4.jpg",
+  "production_companies": [
+    {
+      "id": 76314,
+      "logo_path": "/oFiHo3350Nj7bi6oxYMq3Kp6VGC.png",
+      "name": "Riverstone Pictures",
+      "origin_country": "GB"
+    },
+    {
+      "id": 118125,
+      "logo_path": null,
+      "name": "Reliance Entertainment Productions 8",
+      "origin_country": "GB"
+    },
+    {
+      "id": 13161,
+      "logo_path": null,
+      "name": "Tea Shop & Film Company",
+      "origin_country": "GB"
+    },
+    {
+      "id": 2395,
+      "logo_path": "/pZz4qs03FtP6UGtZ3hjQ6qimcwi.png",
+      "name": "HanWay Films",
+      "origin_country": "GB"
+    },
+    {
+      "id": 31787,
+      "logo_path": "/dWkJVibgXMBhPathe3rn7raMcta.png",
+      "name": "Creativity Capital",
+      "origin_country": "GB"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "2022-02-18",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Family or famine.",
+  "title": "A Banquet",
+  "video": false,
+  "vote_average": 4.156,
+  "vote_count": 32
+}

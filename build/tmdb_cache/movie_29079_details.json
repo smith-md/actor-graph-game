@@ -1,0 +1,90 @@
+{
+  "adult": false,
+  "backdrop_path": "/sQLAF4RGTgOBwscrHEKHD4Qnrfv.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 29079,
+  "imdb_id": "tt0332281",
+  "origin_country": [
+    "FR",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Happy End",
+  "overview": "Val is 23 years old and full of dreams. She travels to New York to become an actress. She is lonely in a strange country, in a strange city, with little money and no friends. In her path, she meets weird people who they, also, seek their dreams but everyday life gets in the way. Tired and hungry she sits on the corner of a building. Across the street a writer whose fantasy has dry out. In an instant she becomes his muse... At the Oscar's night she will be the one with the Golden Globe in her hands.",
+  "popularity": 4.1344,
+  "poster_path": "/jbLxetPVJH03a8CZPpa0bw4E2tI.jpg",
+  "production_companies": [
+    {
+      "id": 694,
+      "logo_path": "/5LEHONGkZBIoWvp1ygHOF8iyi1M.png",
+      "name": "StudioCanal",
+      "origin_country": "FR"
+    },
+    {
+      "id": 635,
+      "logo_path": "/ikp5Hokscs88jMWSkM9dB98U3Ak.png",
+      "name": "Les Films Alain Sarde",
+      "origin_country": "FR"
+    },
+    {
+      "id": 92756,
+      "logo_path": null,
+      "name": "FRP - Frédéric Robbes Productions",
+      "origin_country": "FR"
+    },
+    {
+      "id": 140,
+      "logo_path": "/ooz5b0ov3PLfBoOJyMmdoffVuHs.png",
+      "name": "Pandora Film",
+      "origin_country": "DE"
+    },
+    {
+      "id": 2813,
+      "logo_path": null,
+      "name": "Forensic Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2003-12-24",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Happy End",
+  "video": false,
+  "vote_average": 4.9,
+  "vote_count": 24
+}

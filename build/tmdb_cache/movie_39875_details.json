@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/waIOV7MBwHzFkAUe4a4CRFBzrop.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 39875,
+  "imdb_id": "tt0102690",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Popcorn",
+  "overview": "While holding a horror film festival, a group of film students find themselves stalked by a madman who may have a sinister connection to a cult leader.",
+  "popularity": 1.105,
+  "poster_path": "/o6peTotMLdRLQ5Hq2oJI5EYurIR.jpg",
+  "production_companies": [
+    {
+      "id": 39647,
+      "logo_path": null,
+      "name": "Movie Partners",
+      "origin_country": ""
+    },
+    {
+      "id": 135339,
+      "logo_path": null,
+      "name": "Trans-Atlantic Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-02-01",
+  "revenue": 4205000,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Buy a bag... Go home in a box.",
+  "title": "Popcorn",
+  "video": false,
+  "vote_average": 5.8,
+  "vote_count": 154
+}

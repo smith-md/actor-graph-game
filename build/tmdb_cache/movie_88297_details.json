@@ -1,0 +1,68 @@
+{
+  "adult": false,
+  "backdrop_path": "/uU3f9v32R2goea4i3a8Jih3ksLq.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 88297,
+  "imdb_id": "tt0118601",
+  "origin_country": [
+    "CA",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "American Dragons",
+  "overview": "Murders in Seoul, Korea and in America pair two cops from each of the countries together to solve the crimes. The investigation leads to a gang war between the Mafia and the Yakuza, but one that may not be of either of their making. A shadowy assassin is killing the leaders and an Italian assassin may have his own agenda.",
+  "popularity": 4.2752,
+  "poster_path": "/ty7ST4V6fj7SzZMIHXEviO853s4.jpg",
+  "production_companies": [
+    {
+      "id": 41,
+      "logo_path": "/em0rOXVRu3qprWZCx58uDDV2fze.png",
+      "name": "Orion Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 147412,
+      "logo_path": null,
+      "name": "Daewoo Corporation",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "1998-10-15",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "East meets West with a vengeance!",
+  "title": "American Dragons",
+  "video": false,
+  "vote_average": 4.8,
+  "vote_count": 20
+}

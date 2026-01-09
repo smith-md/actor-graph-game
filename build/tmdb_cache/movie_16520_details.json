@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/gjFI54BO9f6eZ2iQyNDhgVVnUCJ.jpg",
+  "belongs_to_collection": null,
+  "budget": 4550000,
+  "genres": [
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 16520,
+  "imdb_id": "tt0049408",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The King and I",
+  "overview": "Widowed Welsh mother Anna Leonowens becomes a governess and English tutor to the wives and many children of the stubborn King Mongkut of Siam. Anna and the King have a clash of personalities as she works to teach the royal family about the English language, customs and etiquette, and rushes to prepare a party for a group of European diplomats who must change their opinions about the King.",
+  "popularity": 2.744,
+  "poster_path": "/wUfaP0lLaMpZzp5CrHyII5Vd7cp.jpg",
+  "production_companies": [
+    {
+      "id": 25,
+      "logo_path": "/qZCc1lty5FzX30aOCVRBLzaVmcp.png",
+      "name": "20th Century Fox",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1956-06-29",
+  "revenue": 21300000,
+  "runtime": 133,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Thai",
+      "iso_639_1": "th",
+      "name": "ภาษาไทย"
+    }
+  ],
+  "status": "Released",
+  "tagline": "More than your eyes have ever seen… More than your heart has ever known!",
+  "title": "The King and I",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 393
+}

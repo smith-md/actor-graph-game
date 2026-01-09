@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/qDFb1ZDvUqJvPF7HniZnmLXsDpQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 791295,
+  "imdb_id": "tt10749816",
+  "origin_country": [
+    "AR"
+  ],
+  "original_language": "es",
+  "original_title": "Casi muerta",
+  "overview": "María and Javi are two lifelong friends. Even though they have drifted apart over the course of the last year, when María suffers an accident that leaves her at the verge of dying, they reunite and discover that they have always been in love. Now Javi has to decide whether he continues with his new life with an Uruguayan girlfriend, or give a chance to a childhood love that could die out any second.",
+  "popularity": 3.7091,
+  "poster_path": "/gSezYOBs7H3RG8rDcjsK3MqluxN.jpg",
+  "production_companies": [
+    {
+      "id": 93506,
+      "logo_path": null,
+      "name": "Cinema 7 Films",
+      "origin_country": "AR"
+    },
+    {
+      "id": 106553,
+      "logo_path": "/f4SuFvgXUHrX6hpQ3VzidSkdFE.png",
+      "name": "NonStop",
+      "origin_country": "AR"
+    },
+    {
+      "id": 119056,
+      "logo_path": "/vbhwOf0TQ4z12GIytYGWmhPJAOz.png",
+      "name": "Particular Crowd",
+      "origin_country": "US"
+    },
+    {
+      "id": 117907,
+      "logo_path": null,
+      "name": "Montelona Cine",
+      "origin_country": "UY"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "AR",
+      "name": "Argentina"
+    },
+    {
+      "iso_3166_1": "UY",
+      "name": "Uruguay"
+    }
+  ],
+  "release_date": "2023-07-06",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "Hungarian",
+      "iso_639_1": "hu",
+      "name": "Magyar"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Expiration Date",
+  "video": false,
+  "vote_average": 7.1,
+  "vote_count": 36
+}

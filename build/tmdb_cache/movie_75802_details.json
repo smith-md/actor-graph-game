@@ -1,0 +1,98 @@
+{
+  "adult": false,
+  "backdrop_path": "/8DPxvLQGXXd96q59rd5mllgOqVo.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 75802,
+  "imdb_id": "tt1435513",
+  "origin_country": [
+    "GB",
+    "CH"
+  ],
+  "original_language": "en",
+  "original_title": "Hysteria",
+  "overview": "Two doctors in Victorian England use manual stimulation of female genitalia to cure their patients' ills, leading to the invention of the vibrator.",
+  "popularity": 3.5506,
+  "poster_path": "/ziWnXi2VyNDD9qPi5wmOuolOCIu.jpg",
+  "production_companies": [
+    {
+      "id": 9321,
+      "logo_path": null,
+      "name": "Forthcoming Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 9323,
+      "logo_path": null,
+      "name": "Beachfront Films",
+      "origin_country": ""
+    },
+    {
+      "id": 9324,
+      "logo_path": null,
+      "name": "Chimera Films LLC",
+      "origin_country": ""
+    },
+    {
+      "id": 9325,
+      "logo_path": null,
+      "name": "Informant Media",
+      "origin_country": ""
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "LU",
+      "name": "Luxembourg"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "CH",
+      "name": "Switzerland"
+    }
+  ],
+  "release_date": "2011-06-06",
+  "revenue": 9504139,
+  "runtime": 100,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A comedy about the birth of the vibrator in Victorian England.",
+  "title": "Hysteria",
+  "video": false,
+  "vote_average": 6.675,
+  "vote_count": 841
+}

@@ -1,0 +1,59 @@
+{
+  "adult": false,
+  "backdrop_path": "/2vObOLMqve3TCcrhXZYCtNdg11b.jpg",
+  "belongs_to_collection": null,
+  "budget": 5000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 15660,
+  "imdb_id": "tt0082766",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Mommie Dearest",
+  "overview": "Renowned film star Joan Crawford's abuse towards Christina, her adopted daughter, intensifies as her professional and romantic relationships turn sour.",
+  "popularity": 3.4963,
+  "poster_path": "/3Amv5uQfadEonn7SmYLfNnoeOSu.jpg",
+  "production_companies": [
+    {
+      "id": 4,
+      "logo_path": "/jay6WcMgagAklUt7i9Euwj1pzTF.png",
+      "name": "Paramount Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 10501,
+      "logo_path": null,
+      "name": "The Irwin Yablans Company",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1981-09-16",
+  "revenue": 19032261,
+  "runtime": 128,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Faye Dunaway is Joan Crawford. A star...a legend...and a mother...the illusion of perfection.",
+  "title": "Mommie Dearest",
+  "video": false,
+  "vote_average": 6.342,
+  "vote_count": 228
+}

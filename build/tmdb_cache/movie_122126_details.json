@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/zgx6bBaVLAsFO5ip7gwndOjhE7U.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 122126,
+  "imdb_id": "tt2544120",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "후궁: 제왕의 첩",
+  "overview": "Living a torturous life of poverty and barely able to survive, Hwa-yeon decides to offer herself as one of the king’s concubines. Once inside the royal palace, two men are immediately seized by the woman - the Grand Prince Seong-won, a megalomaniacal ruler drunk with power and lust, and Kwon-yoo, who has everything to lose if his desire for Hwa-yeon is exposed.",
+  "popularity": 5.6999,
+  "poster_path": "/cLT2eYXoDSXWkqJQcDqVinxIkf0.jpg",
+  "production_companies": [
+    {
+      "id": 7819,
+      "logo_path": "/ghFZAt4edln0M7BzDExyYMzUGX1.png",
+      "name": "Lotte Entertainment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 126109,
+      "logo_path": null,
+      "name": "HwangKiSung Films",
+      "origin_country": "KR"
+    },
+    {
+      "id": 13958,
+      "logo_path": "/yblRwoxf2sGIzzWVy8scyidp7j2.png",
+      "name": "My Way Film Company",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    },
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    }
+  ],
+  "release_date": "2012-06-06",
+  "revenue": 16465764,
+  "runtime": 122,
+  "spoken_languages": [
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The one the king couldn't have.",
+  "title": "The Concubine",
+  "video": false,
+  "vote_average": 5.9,
+  "vote_count": 104
+}

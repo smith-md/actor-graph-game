@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/x3wwbQsJVkWSJ6vnQxMrk4bY7kh.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://bleeckerstreetmedia.com/the-friend",
+  "id": 1186563,
+  "imdb_id": "tt18108824",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Friend",
+  "overview": "New York City writer Iris finds her comfortable, solitary life thrown into disarray after her closest friend and mentor bequeaths her a Great Dane named Apollo. The huge dog immediately creates practical problems for Iris, from furniture destruction to eviction notices, as well as more existential ones. Yet as Iris finds herself unexpectedly bonding with Apollo, she begins to come to terms with her past, and her own creative inner life.",
+  "popularity": 6.0487,
+  "poster_path": "/xPAcaKFWvbB9fXAmhIr3leBCRVJ.jpg",
+  "production_companies": [
+    {
+      "id": 210065,
+      "logo_path": null,
+      "name": "Big Creek Projects",
+      "origin_country": "US"
+    },
+    {
+      "id": 123420,
+      "logo_path": "/hljaOO48h8RAnB6vsVyQ65DFkGP.png",
+      "name": "3dot Productions",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-03-28",
+  "revenue": 4139459,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Friend",
+  "video": false,
+  "vote_average": 6.661,
+  "vote_count": 87
+}

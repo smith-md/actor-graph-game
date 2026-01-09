@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/mgQum2DEYJaDe6opeQu9KvACOQ9.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "https://www.vertigoreleasing.com/portfolio/piercing/",
+  "id": 440444,
+  "imdb_id": "tt6516314",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Piercing",
+  "overview": "After kissing his wife and baby goodbye for a seemingly normal business trip, Reed checks himself into a hotel room to accomplish something he’s always dreamed of: the perfect murder. As his sinister plans unfold, he soon realizes he might be in over his head with a mysteriously unhinged call girl named Jackie.",
+  "popularity": 3.8661,
+  "poster_path": "/1iDIFMzYxY25X25KDeARA6VoDl3.jpg",
+  "production_companies": [
+    {
+      "id": 85140,
+      "logo_path": "/MCCWEqtp5SFXX2bZiaFCyFdLL3.png",
+      "name": "Borderline Presents",
+      "origin_country": "US"
+    },
+    {
+      "id": 10949,
+      "logo_path": "/2JOR75Gaz14Vzim0XSTSCmGFYsD.png",
+      "name": "Memento Films International",
+      "origin_country": "FR"
+    },
+    {
+      "id": 28360,
+      "logo_path": "/juWn38bElYfPvCCu8OUR1ovDBbO.png",
+      "name": "Paradise City",
+      "origin_country": "FR"
+    },
+    {
+      "id": 109045,
+      "logo_path": null,
+      "name": "YL Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2019-01-03",
+  "revenue": 0,
+  "runtime": 82,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Practice doesn't always make perfect.",
+  "title": "Piercing",
+  "video": false,
+  "vote_average": 5.713,
+  "vote_count": 249
+}

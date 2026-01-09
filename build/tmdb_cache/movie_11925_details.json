@@ -1,0 +1,53 @@
+{
+  "adult": false,
+  "backdrop_path": "/cZfQOciISEwfPdKwyO63NcnNSEv.jpg",
+  "belongs_to_collection": null,
+  "budget": 25,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "",
+  "id": 11925,
+  "imdb_id": "tt0269604",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Naken",
+  "overview": "When Anders wakes up on his wedding day, he finds himself naked in an elevator, only remembering some of what happened.",
+  "popularity": 3.4233,
+  "poster_path": "/hAcxezeEqcF3g96Kwpj3quCrNfH.jpg",
+  "production_companies": [
+    {
+      "id": 2681,
+      "logo_path": null,
+      "name": "Pratfilm",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2000-12-15",
+  "revenue": 24,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Naked",
+  "video": false,
+  "vote_average": 4.2,
+  "vote_count": 22
+}

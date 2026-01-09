@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/lrcHD5MYg5ZXSfIumL3WlCesp5s.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 27,
+      "name": "Horror"
+    }
+  ],
+  "homepage": "",
+  "id": 29542,
+  "imdb_id": "tt0203343",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Blood Dolls",
+  "overview": "Virgil, an eccentric freak billionaire, spends his days being a \"biological inventor.\" The \"blood dolls,\" his newest creation, aid him in getting revenge on those who betrayed him.",
+  "popularity": 4.1606,
+  "poster_path": "/iaY1mAjoWqj3wpmPt7APj5RrNR8.jpg",
+  "production_companies": [
+    {
+      "id": 1369,
+      "logo_path": null,
+      "name": "Full Moon Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 4867,
+      "logo_path": "/ifNDQE2NMX3QAJgX0517FZMkLq5.png",
+      "name": "Full Moon Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1999-08-31",
+  "revenue": 0,
+  "runtime": 84,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Power... Lust... Freaks...",
+  "title": "Blood Dolls",
+  "video": false,
+  "vote_average": 4.6,
+  "vote_count": 39
+}

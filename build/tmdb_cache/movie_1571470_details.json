@@ -1,0 +1,83 @@
+{
+  "adult": false,
+  "backdrop_path": "/en0NbTEjf3qKokHvwGeaq9DBPIP.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81572393",
+  "id": 1571470,
+  "imdb_id": "tt28283547",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Rats: A Witcher Tale",
+  "overview": "To pull off a daring heist, a gang of six misfit outlaws will have to do something they've never done before: trust each other — and a washed-up Witcher.",
+  "popularity": 8.4278,
+  "poster_path": "/1T0kO1cgR430AC9I6jurMOezKwg.jpg",
+  "production_companies": [
+    {
+      "id": 137769,
+      "logo_path": "/xNtW64uEpnium6eitLnyNl8za27.png",
+      "name": "Platige Films",
+      "origin_country": "PL"
+    },
+    {
+      "id": 124634,
+      "logo_path": "/psPuEpFeqqykCaNecpCq7K8Qsro.png",
+      "name": "Hivemind",
+      "origin_country": "US"
+    },
+    {
+      "id": 162859,
+      "logo_path": null,
+      "name": "Little Schmidt Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 279361,
+      "logo_path": null,
+      "name": "Hailzor",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "PL",
+      "name": "Poland"
+    }
+  ],
+  "release_date": "2025-10-29",
+  "revenue": 0,
+  "runtime": 83,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Rats: A Witcher Tale",
+  "video": false,
+  "vote_average": 5.285,
+  "vote_count": 121
+}

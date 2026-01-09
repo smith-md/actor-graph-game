@@ -1,0 +1,89 @@
+{
+  "adult": false,
+  "backdrop_path": "/1pOp56fSV4XySjaGrhb6NPD2n4r.jpg",
+  "belongs_to_collection": null,
+  "budget": 14000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "",
+  "id": 10423,
+  "imdb_id": "tt0106770",
+  "origin_country": [
+    "HK",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Dragon: The Bruce Lee Story",
+  "overview": "This film is a glimpse into the life, love and the unconquerable spirit of the legendary Bruce Lee. From a childhood of rigorous martial arts training, Lee realizes his dream of opening his own kung-fu school in America. Before long, he is discovered by a Hollywood producer and begins a meteoric rise to fame and an all too short reign as one the most charismatic action heroes in cinema history.",
+  "popularity": 6.6404,
+  "poster_path": "/lxhsdC8wuGgQf0gKCt8wyHHxGcQ.jpg",
+  "production_companies": [
+    {
+      "id": 3410,
+      "logo_path": null,
+      "name": "Raffaella De Laurentiis Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 33,
+      "logo_path": "/8lvHyhjr8oUKOOy2dKXoALWKdp0.png",
+      "name": "Universal Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 238517,
+      "logo_path": null,
+      "name": "Dragon Productions",
+      "origin_country": "HK"
+    },
+    {
+      "id": 2521,
+      "logo_path": "/e9lXexogBN1nOXA8axzASggea8B.png",
+      "name": "Orange Sky Golden Harvest",
+      "origin_country": "HK"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "HK",
+      "name": "Hong Kong"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1993-05-07",
+  "revenue": 63513743,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Cantonese",
+      "iso_639_1": "cn",
+      "name": "广州话 / 廣州話"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The mystery. The life. The love. The legend.",
+  "title": "Dragon: The Bruce Lee Story",
+  "video": false,
+  "vote_average": 6.898,
+  "vote_count": 778
+}

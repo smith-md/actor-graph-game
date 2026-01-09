@@ -1,0 +1,63 @@
+{
+  "adult": false,
+  "backdrop_path": "/tM0iSNKRaSSsrltOIjEZ1kKkujX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 41950,
+  "imdb_id": "tt0094827",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Call Me",
+  "overview": "After agreeing to meet an obscene caller at a bar, a young New York reporter witnesses a murder and becomes an unwilling player in a dangerous game of cat-and-mouse.",
+  "popularity": 4.8476,
+  "poster_path": "/iXG5ZDn02moIruBi3nbK2EzppMd.jpg",
+  "production_companies": [
+    {
+      "id": 21175,
+      "logo_path": null,
+      "name": "Martel Media",
+      "origin_country": ""
+    },
+    {
+      "id": 12360,
+      "logo_path": "/EugVVMfcbv9zxCr0C60VhD0vGY.png",
+      "name": "Vestron Pictures",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1988-05-20",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Her fantasies could be fatal.",
+  "title": "Call Me",
+  "video": false,
+  "vote_average": 4.6,
+  "vote_count": 23
+}

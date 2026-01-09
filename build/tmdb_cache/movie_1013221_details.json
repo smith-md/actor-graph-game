@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/aWLkVSdeTpO3OXkP1qNCnqaV51L.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 1013221,
+  "imdb_id": "tt21412402",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Cento domeniche",
+  "overview": "Antonio, a former shipyard worker, leads a mild and peaceful life: he plays bowls with friends, takes care of his elderly mother, has an ex-wife with whom he is on excellent terms and Emilia, his only and beloved daughter When Emilia announces to him one day that she has decided to get married, Antonio is filled with joy, he can finally fulfill his dream by giving her the reception they have always dreamed of together being able to count on the savings of a lifetime.However, the bank of which he has always been a client seems to be hiding something, the employees are suddenly elusive and the director inexplicably changes constantly.The task of paying for his daughter's wedding will prove increasingly difficult and Antonio will discover, against his will, that those who keep our treasures don't always keep our dreams as well.",
+  "popularity": 2.8966,
+  "poster_path": "/yVYTR3TA8c3eoHPAg2lwt3UBWmK.jpg",
+  "production_companies": [
+    {
+      "id": 7699,
+      "logo_path": "/fHasfMWVRXGOmao2p1ijwicv9f4.png",
+      "name": "Palomar",
+      "origin_country": "IT"
+    },
+    {
+      "id": 115535,
+      "logo_path": "/mYoc1K3UPAUqKfuCYkvDLJN2aAA.png",
+      "name": "Vision Distribution",
+      "origin_country": "IT"
+    },
+    {
+      "id": 21649,
+      "logo_path": "/6Ji6E59Wt9O4VA6nqwAd6RW7ijs.png",
+      "name": "Sky Cinema",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2023-11-23",
+  "revenue": 2020322,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "100 Sundays",
+  "video": false,
+  "vote_average": 6.723,
+  "vote_count": 175
+}

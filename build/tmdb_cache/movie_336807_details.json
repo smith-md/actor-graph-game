@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/eMg53MAM6XAEK4EZ4hBmuikzzLL.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 336807,
+  "imdb_id": "tt4466544",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Fatima",
+  "overview": "Fatima, an Algerian-born woman who now lives in France with her two teenage daughters, with whom she is barely able to communicate.",
+  "popularity": 3.275,
+  "poster_path": "/btzQZUQv2jsJ3M8EDyaSsM7YlBx.jpg",
+  "production_companies": [
+    {
+      "id": 73816,
+      "logo_path": null,
+      "name": "Possibles Média",
+      "origin_country": "CA"
+    },
+    {
+      "id": 10854,
+      "logo_path": null,
+      "name": "Istiqlal Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 94,
+      "logo_path": "/huC7HqorvUThGIrENrbcHmQVUA0.png",
+      "name": "ARTE France Cinéma",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    }
+  ],
+  "release_date": "2015-10-07",
+  "revenue": 0,
+  "runtime": 79,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Fatima",
+  "video": false,
+  "vote_average": 6.191,
+  "vote_count": 128
+}

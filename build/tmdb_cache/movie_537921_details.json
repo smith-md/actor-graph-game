@@ -1,0 +1,57 @@
+{
+  "adult": false,
+  "backdrop_path": "/vmWgToiWzgWxzGtdbeQFrtuS2BN.jpg",
+  "belongs_to_collection": null,
+  "budget": 3000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/82038224",
+  "id": 537921,
+  "imdb_id": "tt8785038",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Fixed",
+  "overview": "After learning he's getting neutered, a dog has 24 hours to squeeze in one last balls-to-the-wall adventure with the boys.",
+  "popularity": 6.0587,
+  "poster_path": "/udtlwWSJ45S0uQm29BvFvjPJGW0.jpg",
+  "production_companies": [
+    {
+      "id": 2251,
+      "logo_path": "/5ilV5mH3gxTEU7p5wjxptHvXkyr.png",
+      "name": "Sony Pictures Animation",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-08-13",
+  "revenue": 0,
+  "runtime": 87,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Obedience training is out the window.",
+  "title": "Fixed",
+  "video": false,
+  "vote_average": 6.215,
+  "vote_count": 130
+}

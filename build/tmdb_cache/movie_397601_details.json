@@ -1,0 +1,72 @@
+{
+  "adult": false,
+  "backdrop_path": "/aUhyPlj1ci8cJCt8DnbTlBrMPkA.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 397601,
+  "imdb_id": "tt5253282",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Bachelors",
+  "overview": "After the early death of his wife, a mourning father moves with his teenage son across the country for a private school teaching job. Their lives begin to transform due to two unique women, who help them embrace life and love again",
+  "popularity": 3.4497,
+  "poster_path": "/yAwoDmcLFuZxg5bHzYgRexYhykm.jpg",
+  "production_companies": [
+    {
+      "id": 74764,
+      "logo_path": null,
+      "name": "Windowseat Entertainment",
+      "origin_country": ""
+    },
+    {
+      "id": 52925,
+      "logo_path": null,
+      "name": "Matt Baer Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2017-10-20",
+  "revenue": 106212,
+  "runtime": 99,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It's never too late for a second chance.",
+  "title": "The Bachelors",
+  "video": false,
+  "vote_average": 7.065,
+  "vote_count": 169
+}

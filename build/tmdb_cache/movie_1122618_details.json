@@ -1,0 +1,71 @@
+{
+  "adult": false,
+  "backdrop_path": "/13H7aiwQsiEDok54b1OFDTz7u1X.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://www.goodonefilm.com/",
+  "id": 1122618,
+  "imdb_id": "tt30319516",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Good One",
+  "overview": "On a weekend backpacking trip in the Catskills, 17-year-old Sam contends with the competing egos of her father and his oldest friend.",
+  "popularity": 3.5257,
+  "poster_path": "/yesxQtWrG5vCrNsnG3TrXiOfpOZ.jpg",
+  "production_companies": [
+    {
+      "id": 179854,
+      "logo_path": "/wJYXwFErJBD1Q4ApWM4sDik8z2u.png",
+      "name": "International Pigeon Production",
+      "origin_country": "US"
+    },
+    {
+      "id": 90610,
+      "logo_path": "/nFJMPK22kJS6LfsQtwd3u2cF9v9.png",
+      "name": "Smudge Films",
+      "origin_country": "US"
+    },
+    {
+      "id": 217122,
+      "logo_path": "/yvL2vLmhuiW8cq5BxCRGTBTuJAN.png",
+      "name": "Tinygiant",
+      "origin_country": "US"
+    },
+    {
+      "id": 217123,
+      "logo_path": null,
+      "name": "Baird Street Pictures",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-08-09",
+  "revenue": 165620,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Good One",
+  "video": false,
+  "vote_average": 6.7,
+  "vote_count": 54
+}

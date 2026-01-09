@@ -1,0 +1,87 @@
+{
+  "adult": false,
+  "backdrop_path": "/eGyvNUw7Kess2QfgtqZjAHC7DqW.jpg",
+  "belongs_to_collection": {
+    "id": 619802,
+    "name": "The Roundup Collection",
+    "poster_path": "/lmf188GpuWrm9nrvhfpQzv65kcG.jpg",
+    "backdrop_path": "/ra2aSkkwOQRoymeg5p19PfnC9r9.jpg"
+  },
+  "budget": 7600000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    }
+  ],
+  "homepage": "https://theroundup.capelight.de/",
+  "id": 619803,
+  "imdb_id": "tt15838850",
+  "origin_country": [
+    "KR"
+  ],
+  "original_language": "ko",
+  "original_title": "범죄도시 2",
+  "overview": "The 'Beast Cop' Ma Seok-do heads to a foreign country to extradite a suspect, but soon after his arrival, he discovers additional murder cases and hears about a vicious killer who has been committing crimes against tourists for several years.",
+  "popularity": 6.0993,
+  "poster_path": "/aTogcymFfYXYb2sx950ntIpgOJe.jpg",
+  "production_companies": [
+    {
+      "id": 84678,
+      "logo_path": "/8pjrX8L669kQUdCqCCpv3uWOSBC.png",
+      "name": "BA Entertainment",
+      "origin_country": "KR"
+    },
+    {
+      "id": 96989,
+      "logo_path": null,
+      "name": "Hong Film",
+      "origin_country": "KR"
+    },
+    {
+      "id": 129217,
+      "logo_path": "/s5rN5NUfE9yx21Yh0CuLULAGH5Y.png",
+      "name": "Big Punch Pictures",
+      "origin_country": "KR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "KR",
+      "name": "South Korea"
+    }
+  ],
+  "release_date": "2022-05-18",
+  "revenue": 101166707,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Korean",
+      "iso_639_1": "ko",
+      "name": "한국어/조선말"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The Beast Cop Is Back!",
+  "title": "The Roundup",
+  "video": false,
+  "vote_average": 7.319,
+  "vote_count": 396
+}

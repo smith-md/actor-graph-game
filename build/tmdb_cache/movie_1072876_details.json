@@ -1,0 +1,75 @@
+{
+  "adult": false,
+  "backdrop_path": "/jsp420JTZ7EK5LhpwzunE1Pu43d.jpg",
+  "belongs_to_collection": null,
+  "budget": 70000000,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1072876,
+  "imdb_id": "tt26084002",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Self Reliance",
+  "overview": "When a man is offered a million dollars to play a game in which hunters try to kill him, he thinks he has found the perfect loophole: they can only attack when he’s alone. His only problem is that none of his friends or family believe the game is real. Forced to seek companionship in unexpected places, he navigates the bizarre challenge with humor, paranoia, and a surprising search for connection.",
+  "popularity": 6.1214,
+  "poster_path": "/hlSWmmuuLeV1p3YcIkU59khEHLY.jpg",
+  "production_companies": [
+    {
+      "id": 53808,
+      "logo_path": "/6nnIZAKEXVKwZtuzfbv5gLeHvp2.png",
+      "name": "The Lonely Island",
+      "origin_country": "US"
+    },
+    {
+      "id": 204275,
+      "logo_path": null,
+      "name": "Walcott Productions",
+      "origin_country": ""
+    },
+    {
+      "id": 2531,
+      "logo_path": "/9MfCJ2G6Nrf9yyRj4tAgPmMiDcn.png",
+      "name": "MRC",
+      "origin_country": "US"
+    },
+    {
+      "id": 216580,
+      "logo_path": null,
+      "name": "Clown Show",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2024-01-03",
+  "revenue": 0,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Surviving is all about the company you keep.",
+  "title": "Self Reliance",
+  "video": false,
+  "vote_average": 5.929,
+  "vote_count": 282
+}

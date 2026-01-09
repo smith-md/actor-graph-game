@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/dMloNvayweggmvv0UD0iOJIkkbH.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://www.netflix.com/title/81752951",
+  "id": 1261501,
+  "imdb_id": "tt32138452",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Ad Vitam",
+  "overview": "When he and his pregnant wife are attacked in their home, a former elite agent becomes trapped in a deadly manhunt tied to his own painful past.",
+  "popularity": 4.8081,
+  "poster_path": "/xqBSapk1nC35WlZ6PraMjOVMQBy.jpg",
+  "production_companies": [
+    {
+      "id": 22976,
+      "logo_path": null,
+      "name": "Les Films du Cap",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2025-01-09",
+  "revenue": 0,
+  "runtime": 97,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Ad Vitam",
+  "video": false,
+  "vote_average": 6.236,
+  "vote_count": 414
+}

@@ -1,0 +1,99 @@
+{
+  "adult": false,
+  "backdrop_path": "/t1heWGwej1OkXRJAZQlMeKUgMK4.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 36,
+      "name": "History"
+    }
+  ],
+  "homepage": "",
+  "id": 822177,
+  "imdb_id": "tt13107800",
+  "origin_country": [
+    "IT"
+  ],
+  "original_language": "it",
+  "original_title": "Leonora addio",
+  "overview": "A tale of the three funerals for the ashes of Italian writer Luigi Pirandello intertwined with a murder committed by a young Sicilian immigrant boy in 1930s Brooklyn for what is described as a surreal, grotesque, complex narrative.",
+  "popularity": 3.384,
+  "poster_path": "/kKzk1ARlCDubcSpcGUa4G2tMNXM.jpg",
+  "production_companies": [
+    {
+      "id": 43244,
+      "logo_path": "/cOymUIboPJTfT3TUPDGSwQg7QOe.png",
+      "name": "Stemal Entertainment",
+      "origin_country": "IT"
+    },
+    {
+      "id": 76921,
+      "logo_path": "/dkPpGhEL2uQ5bmNDAqSZRFp894g.png",
+      "name": "Les Films d'Ici",
+      "origin_country": "FR"
+    },
+    {
+      "id": 155990,
+      "logo_path": "/py9VaywwK6KVi94YwrxSKVg1gkh.png",
+      "name": "RAI Cinema",
+      "origin_country": "IT"
+    },
+    {
+      "id": 317,
+      "logo_path": "/HJj0J9Tk6AGcLpL4O7mI3bsccM.png",
+      "name": "Istituto Luce Cinecittà",
+      "origin_country": "IT"
+    },
+    {
+      "id": 28699,
+      "logo_path": "/vCqaf8TwyhBgpHBoCvCkoaGtrON.png",
+      "name": "Cinemaundici",
+      "origin_country": "IT"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "IT",
+      "name": "Italy"
+    }
+  ],
+  "release_date": "2022-02-17",
+  "revenue": 0,
+  "runtime": 90,
+  "spoken_languages": [
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Leonora addio",
+  "video": false,
+  "vote_average": 6.5,
+  "vote_count": 35
+}

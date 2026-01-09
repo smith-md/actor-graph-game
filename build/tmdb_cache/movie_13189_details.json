@@ -1,0 +1,70 @@
+{
+  "adult": false,
+  "backdrop_path": "/1WQ4bHXzS7DpGppkS2PcpFvpY7T.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 10770,
+      "name": "TV Movie"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 13189,
+  "imdb_id": "tt0087056",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "A Christmas Carol",
+  "overview": "Miser Ebenezer Scrooge is awakened on Christmas Eve by spirits who reveal to him his own miserable existence, what opportunities he wasted in his youth, his current cruelties, and the dire fate that awaits him if he does not change his ways. Scrooge is faced with his own story of growing bitterness and meanness, and must decide what his own future will hold: death or redemption.",
+  "popularity": 5.0985,
+  "poster_path": "/m3T3iLdE6J5PrqvvP0XNHBvM2bm.jpg",
+  "production_companies": [
+    {
+      "id": 4015,
+      "logo_path": null,
+      "name": "Entertainment Partners Ltd.",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    },
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1984-10-09",
+  "revenue": 0,
+  "runtime": 101,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A new powerful presentation of the most loved ghost story of all time!",
+  "title": "A Christmas Carol",
+  "video": false,
+  "vote_average": 7.465,
+  "vote_count": 405
+}

@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/vXYRqIySwaa56quJGRKxXfSaTh0.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "https://thethreesome-movie.com",
+  "id": 993708,
+  "imdb_id": "tt21187592",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Threesome",
+  "overview": "Connor and his long-time crush Olivia engage in a threesome with a sweet, alluring stranger named Jenny. This encounter sparks a relationship between Connor and Olivia, leading them to plan a life together. However, their romance faces challenges when Jenny reappears, thrusting all three into a difficult journey toward true accountability and adulthood.",
+  "popularity": 13.9091,
+  "poster_path": "/7vQUAw3CX60dhzgzC7BQZFN7Y31.jpg",
+  "production_companies": [
+    {
+      "id": 198179,
+      "logo_path": "/ct4wmzYtS2prZnitm4iuMxRAMsR.png",
+      "name": "Filmopoly",
+      "origin_country": "US"
+    },
+    {
+      "id": 222340,
+      "logo_path": null,
+      "name": "Jupiter Peak Productions",
+      "origin_country": "US"
+    },
+    {
+      "id": 27497,
+      "logo_path": "/1QuLulTFEynrZnFsogW0UefcKYC.png",
+      "name": "Star Thrower Entertainment",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-09-04",
+  "revenue": 851473,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "It was supposed to be fun.",
+  "title": "The Threesome",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 42
+}

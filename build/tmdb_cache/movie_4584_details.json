@@ -1,0 +1,74 @@
+{
+  "adult": false,
+  "backdrop_path": "/cFnyfWHL6HjOOVal6lp8e5gqibK.jpg",
+  "belongs_to_collection": null,
+  "budget": 16000000,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 4584,
+  "imdb_id": "tt0114388",
+  "origin_country": [
+    "GB",
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Sense and Sensibility",
+  "overview": "The Dashwood sisters, sensible Elinor and passionate Marianne, whose chances at marriage seem doomed by their family's sudden loss of fortune.  When Henry Dashwood dies unexpectedly, his estate must pass on by law to his son from his first marriage, John and wife Fanny. But these circumstances leave Mr. Dashwood's current wife, and daughters Elinor, Marianne and Margaret, without a home and with barely enough money to live on. As Elinor and Marianne struggle to find romantic fulfillment in a society obsessed with financial and social status, they must learn to mix sense with sensibility in their dealings with both money and men.",
+  "popularity": 8.3069,
+  "poster_path": "/cBK2yL3HqhFvIVd7lLtazWlRZPR.jpg",
+  "production_companies": [
+    {
+      "id": 5,
+      "logo_path": "/71BqEFAF4V3qjjMPCpLuyJFB9A.png",
+      "name": "Columbia Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 932,
+      "logo_path": "/o7leiZVIDBHxODfK8pjGPV2SdMp.png",
+      "name": "Mirage Enterprises",
+      "origin_country": "US"
+    },
+    {
+      "id": 10565,
+      "logo_path": "/5djnxodjmgbzdXiNRllwhQPxANY.png",
+      "name": "Good Machine",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1995-12-13",
+  "revenue": 134582776,
+  "runtime": 136,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Lose your heart and come to your senses.",
+  "title": "Sense and Sensibility",
+  "video": false,
+  "vote_average": 7.423,
+  "vote_count": 1795
+}

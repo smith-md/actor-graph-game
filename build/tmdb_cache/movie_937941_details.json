@@ -1,0 +1,79 @@
+{
+  "adult": false,
+  "backdrop_path": "/jOuu4mEBOuJVb6CkkmRDpjnrZed.jpg",
+  "belongs_to_collection": null,
+  "budget": 1400000,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "https://www.neonrated.com/film/shelby-oaks",
+  "id": 937941,
+  "imdb_id": "tt14999684",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Shelby Oaks",
+  "overview": "A woman's obsessive search for her missing sister leads her into a terrifying mystery at the hands of an unknown evil.",
+  "popularity": 14.7982,
+  "poster_path": "/i3omY4P6QUzFQlEeclWY92RuXCH.jpg",
+  "production_companies": [
+    {
+      "id": 89269,
+      "logo_path": "/pKWk2XfT9xoHYdGKW1Bac7hFvrz.png",
+      "name": "Paper Street Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 1224,
+      "logo_path": "/9s5tOG7GWWym1P37QJuFX438rAI.png",
+      "name": "Intrepid Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 226694,
+      "logo_path": null,
+      "name": "HLBRK Entertainment",
+      "origin_country": "US"
+    },
+    {
+      "id": 41813,
+      "logo_path": "/pqoPwhsmo0f0V3r6yKouspsuFaF.png",
+      "name": "Title Media",
+      "origin_country": "BE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    }
+  ],
+  "release_date": "2025-10-02",
+  "revenue": 2350523,
+  "runtime": 91,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Who took Riley Brennan?",
+  "title": "Shelby Oaks",
+  "video": false,
+  "vote_average": 5.775,
+  "vote_count": 171
+}

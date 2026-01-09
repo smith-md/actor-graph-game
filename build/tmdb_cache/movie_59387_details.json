@@ -1,0 +1,78 @@
+{
+  "adult": false,
+  "backdrop_path": "/9JYhHvfdLC0rUI1AtXyw6l4bUpV.jpg",
+  "belongs_to_collection": {
+    "id": 1418338,
+    "name": "The Powerpuff Girls Collection",
+    "poster_path": "/1K6zM7m8DaAw8oiY6skVms3FvW1.jpg",
+    "backdrop_path": "/wJhCrNK7Kb7bXCIjKn2vtNLHJXO.jpg"
+  },
+  "budget": 11000000,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 10751,
+      "name": "Family"
+    }
+  ],
+  "homepage": "",
+  "id": 59387,
+  "imdb_id": "tt0289408",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Powerpuff Girls Movie",
+  "overview": "After destroying the city of Townsville in a game of tag, a trio of superpowered little girls must redeem themselves by stopping a vengeful monkey's plot for world domination.",
+  "popularity": 2.379,
+  "poster_path": "/yAFalW8UtdJg1z1gPjXx8C1sXZq.jpg",
+  "production_companies": [
+    {
+      "id": 7899,
+      "logo_path": "/uYMD8NPD7Eph0cFd1WJZJrot1Fb.png",
+      "name": "Cartoon Network Studios",
+      "origin_country": "US"
+    },
+    {
+      "id": 174,
+      "logo_path": "/ingPVoHnINIrFR7WHmYux1f5pES.png",
+      "name": "Warner Bros. Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 274991,
+      "logo_path": "/tJUFfVUpKgU48FJ57T8bF8Kzuwr.png",
+      "name": "Cartoon Network Movies",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2002-07-03",
+  "revenue": 16426471,
+  "runtime": 74,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Saving the world before bedtime!",
+  "title": "The Powerpuff Girls Movie",
+  "video": false,
+  "vote_average": 6.788,
+  "vote_count": 337
+}

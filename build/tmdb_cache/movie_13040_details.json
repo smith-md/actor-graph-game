@@ -1,0 +1,91 @@
+{
+  "adult": false,
+  "backdrop_path": "/dM5oFjWAJshpySl83XTYNISj9lg.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 13040,
+  "imdb_id": "tt0298491",
+  "origin_country": [
+    "SE"
+  ],
+  "original_language": "sv",
+  "original_title": "Den osynlige",
+  "overview": "A teenager is assaulted and killed, but returns as a ghost to find his killer.",
+  "popularity": 3.5913,
+  "poster_path": "/vinvtwxUlNlcnsTwh17NvoFcC5s.jpg",
+  "production_companies": [
+    {
+      "id": 2801,
+      "logo_path": "/bswb1PLLsKDUXMLgy42bZtCtIde.png",
+      "name": "Film i Väst",
+      "origin_country": "SE"
+    },
+    {
+      "id": 100397,
+      "logo_path": "/sZggqq5KqYJFcly1YibMJEetmdD.png",
+      "name": "SF Bio",
+      "origin_country": "SE"
+    },
+    {
+      "id": 146917,
+      "logo_path": null,
+      "name": "Sonet Film AB",
+      "origin_country": ""
+    },
+    {
+      "id": 207559,
+      "logo_path": null,
+      "name": "TV1000 AB",
+      "origin_country": ""
+    },
+    {
+      "id": 2802,
+      "logo_path": "/7L7VUXTBLiHruhUjYJebV46uw3c.png",
+      "name": "TV4",
+      "origin_country": "SE"
+    },
+    {
+      "id": 327,
+      "logo_path": "/vodjjKlAbwGeERPjrAhxZMBGPUc.png",
+      "name": "Nordisk Film Sweden",
+      "origin_country": "SE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "SE",
+      "name": "Sweden"
+    }
+  ],
+  "release_date": "2002-01-30",
+  "revenue": 0,
+  "runtime": 92,
+  "spoken_languages": [
+    {
+      "english_name": "Swedish",
+      "iso_639_1": "sv",
+      "name": "svenska"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Invisible",
+  "video": false,
+  "vote_average": 6.0,
+  "vote_count": 52
+}

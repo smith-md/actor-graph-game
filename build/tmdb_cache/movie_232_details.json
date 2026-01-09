@@ -1,0 +1,67 @@
+{
+  "adult": false,
+  "backdrop_path": "/g2SvOk7ZEgV1VyOfJB2CwFyqgmF.jpg",
+  "belongs_to_collection": null,
+  "budget": 10000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "http://www.rumblefishdvd.com/",
+  "id": 232,
+  "imdb_id": "tt0086216",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rumble Fish",
+  "overview": "Absent-minded street thug Rusty James struggles to live up to his legendary older brother's reputation, and longs for the days of gang warfare.",
+  "popularity": 5.2326,
+  "poster_path": "/vwMfVhBwAcRT7K0xjFrNoNf9YRb.jpg",
+  "production_companies": [
+    {
+      "id": 70,
+      "logo_path": "/ueaENQkPcy8rlr5fGZVBXKOhlBh.png",
+      "name": "American Zoetrope",
+      "origin_country": "US"
+    },
+    {
+      "id": 229511,
+      "logo_path": null,
+      "name": "Hotweather Films",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1983-10-09",
+  "revenue": 2494480,
+  "runtime": 94,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Rusty James can't live up to his brother's reputation. His brother can't live it down.",
+  "title": "Rumble Fish",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 735
+}

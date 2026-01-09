@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/kGdrLjZ1J3XlD57LFjUQN6npCFQ.jpg",
+  "belongs_to_collection": {
+    "id": 166698,
+    "name": "Westworld Collection",
+    "poster_path": "/cezpGxSMDsWjwrS7VwMqZ5N4Ay8.jpg",
+    "backdrop_path": "/3yzaSCXO8cT7Q1tgCsmf8ypSxRI.jpg"
+  },
+  "budget": 2500000,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 878,
+      "name": "Science Fiction"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 10640,
+  "imdb_id": "tt0074559",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Futureworld",
+  "overview": "Two years after the Westworld tragedy in the Delos amusement park, the corporate owners have reopened the park following over $1 billion in safety and other improvements. For publicity purposes, reporters Chuck Browning and Tracy Ballard are invited to review the park. Just prior to arriving, however, Browning is given a clue by a dying man that something is amiss.",
+  "popularity": 25.0462,
+  "poster_path": "/sH5b8w52rEt8iqc1ibt1SwU5P.jpg",
+  "production_companies": [
+    {
+      "id": 9266,
+      "logo_path": "/lRinQ7scVye5N8qkUIoCB4QXbRh.png",
+      "name": "American International Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 173622,
+      "logo_path": null,
+      "name": "The Aubrey Company",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1976-07-14",
+  "revenue": 4200000,
+  "runtime": 108,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Is this you... or are YOU you?",
+  "title": "Futureworld",
+  "video": false,
+  "vote_average": 5.886,
+  "vote_count": 348
+}

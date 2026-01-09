@@ -1,0 +1,111 @@
+{
+  "adult": false,
+  "backdrop_path": "/cS9J8ZDj9OPqwylrRRBbDvX6Zh6.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 222230,
+  "imdb_id": "tt2776074",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Angélique",
+  "overview": "The incredible destiny of Angélique: a beautiful girl who found in her love for Joffrey Peyrac the strength to fight injustice and submission in a century plagued by power struggles, inequality and the oppression.",
+  "popularity": 4.3217,
+  "poster_path": "/vLnWjVLuf5IK4SZcn9VPgkWlmaO.jpg",
+  "production_companies": [
+    {
+      "id": 6896,
+      "logo_path": "/2Q89KvzxTKB5BAv9RqFIPI1qb7E.png",
+      "name": "EuropaCorp",
+      "origin_country": "FR"
+    },
+    {
+      "id": 851,
+      "logo_path": "/kieSA3GFVysJcAUXNRer06u6e5x.png",
+      "name": "MEDIA Programme of the European Union",
+      "origin_country": "BE"
+    },
+    {
+      "id": 11473,
+      "logo_path": "/qAFim6lLYyvlWyDIRZcGr6oZwkg.png",
+      "name": "A.J.O.Z. Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 591,
+      "logo_path": "/q5I5RDwMEiqoNmfaJgd2LraEOJY.png",
+      "name": "France 3 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 168576,
+      "logo_path": null,
+      "name": "Big Bang Production",
+      "origin_country": "BE"
+    },
+    {
+      "id": 9066,
+      "logo_path": null,
+      "name": "Climax Films",
+      "origin_country": "BE"
+    },
+    {
+      "id": 18955,
+      "logo_path": "/l75RRUtr7na0fmq9Vp091xFCIzT.png",
+      "name": "Mona Film Produktion",
+      "origin_country": "AT"
+    },
+    {
+      "id": 8990,
+      "logo_path": "/pW8lFFCl01KEb6HEIz4LididoLl.png",
+      "name": "Wilma Film",
+      "origin_country": "CZ"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    },
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "CZ",
+      "name": "Czech Republic"
+    },
+    {
+      "iso_3166_1": "AT",
+      "name": "Austria"
+    }
+  ],
+  "release_date": "2013-12-18",
+  "revenue": 0,
+  "runtime": 112,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Angélique",
+  "video": false,
+  "vote_average": 6.451,
+  "vote_count": 123
+}

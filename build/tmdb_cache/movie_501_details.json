@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/yvPsQ5A5eDHBV3bBmAWn2qDawJX.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 99,
+      "name": "Documentary"
+    }
+  ],
+  "homepage": "",
+  "id": 501,
+  "imdb_id": "tt0427312",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Grizzly Man",
+  "overview": "Follows the story of \"Grizzly Man\" Timothy Treadwell and what the thirteen summers in a National Park in Alaska were like in his attempt to protect the grizzly bears. The film is full of unique images and a look into the spirit of a man who sacrificed himself for nature.",
+  "popularity": 6.2515,
+  "poster_path": "/zuZWpcuye25rpsiZ4XzsAvmLDHG.jpg",
+  "production_companies": [
+    {
+      "id": 274,
+      "logo_path": null,
+      "name": "Discovery Docs",
+      "origin_country": ""
+    },
+    {
+      "id": 220813,
+      "logo_path": null,
+      "name": "Real Big Production",
+      "origin_country": ""
+    },
+    {
+      "id": 35,
+      "logo_path": "/wxrHa3nZ1K4zo65p56991INkGo6.png",
+      "name": "Lions Gate Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2005-08-12",
+  "revenue": 0,
+  "runtime": 103,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "In nature, there are boundaries. One man spent the last thirteen years of his life crossing them.",
+  "title": "Grizzly Man",
+  "video": false,
+  "vote_average": 7.5,
+  "vote_count": 915
+}

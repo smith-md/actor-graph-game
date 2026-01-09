@@ -1,0 +1,76 @@
+{
+  "adult": false,
+  "backdrop_path": "/ish5utoJCe3JWKsKMCIyj6dEQ3n.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 12,
+      "name": "Adventure"
+    },
+    {
+      "id": 37,
+      "name": "Western"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 10749,
+      "name": "Romance"
+    }
+  ],
+  "homepage": "",
+  "id": 51445,
+  "imdb_id": "tt0061115",
+  "origin_country": [
+    "GB",
+    "CA"
+  ],
+  "original_language": "en",
+  "original_title": "The Trap",
+  "overview": "A French-Canadian fur trapper takes a mute girl as his unwilling wife to live with him in his remote cabin in the woods.",
+  "popularity": 2.5889,
+  "poster_path": "/qdiAXBVYvSqmN0KEFVvSqzo46nE.jpg",
+  "production_companies": [
+    {
+      "id": 364,
+      "logo_path": null,
+      "name": "The Rank Organisation",
+      "origin_country": "GB"
+    },
+    {
+      "id": 14379,
+      "logo_path": null,
+      "name": "George H. Brown Productions",
+      "origin_country": ""
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CA",
+      "name": "Canada"
+    },
+    {
+      "iso_3166_1": "GB",
+      "name": "United Kingdom"
+    }
+  ],
+  "release_date": "1966-04-07",
+  "revenue": 0,
+  "runtime": 106,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Trap",
+  "video": false,
+  "vote_average": 7.0,
+  "vote_count": 34
+}

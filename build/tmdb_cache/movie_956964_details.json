@@ -1,0 +1,138 @@
+{
+  "adult": false,
+  "backdrop_path": "/5Dn52LUvWTcgZmjIATr5vqd6rmd.jpg",
+  "belongs_to_collection": null,
+  "budget": 3700000,
+  "genres": [
+    {
+      "id": 36,
+      "name": "History"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 956964,
+  "imdb_id": "tt26255020",
+  "origin_country": [
+    "FR"
+  ],
+  "original_language": "fr",
+  "original_title": "Le Consentement",
+  "overview": "In 2013, Vanessa Springora recounts how she found herself under the influence of a famous writer. In 1986, she was 13; him, almost 50. The victim of a triple predation: sexual, literary, and psychic, there's more beyond her individual story. She questions the excesses of an era, and the complacency of an environment blinded by talent and celebrity.",
+  "popularity": 4.8009,
+  "poster_path": "/8QTo3OgSqS09jFYPwQWXyx0fi2W.jpg",
+  "production_companies": [
+    {
+      "id": 77550,
+      "logo_path": "/ewSUQIJIWTAXxqjZOBdNz6MDqPf.png",
+      "name": "Moana Films",
+      "origin_country": "FR"
+    },
+    {
+      "id": 104715,
+      "logo_path": "/3HP2gq4ffIMAnrNkyvFq5LrmAId.png",
+      "name": "Windy Production",
+      "origin_country": "FR"
+    },
+    {
+      "id": 12407,
+      "logo_path": "/g11ZDtSicimXi5MmwUznAsEomXZ.png",
+      "name": "Panache Productions",
+      "origin_country": "BE"
+    },
+    {
+      "id": 12406,
+      "logo_path": "/e89tcj2PpfFffwA0etxuGftj0YU.png",
+      "name": "La Compagnie Cinématographique",
+      "origin_country": "BE"
+    },
+    {
+      "id": 83,
+      "logo_path": "/9OQ0rm55xtlgX7KcAKMUePJSrQc.png",
+      "name": "France 2 Cinéma",
+      "origin_country": "FR"
+    },
+    {
+      "id": 792,
+      "logo_path": "/cRhBQP1FFNugNxKkO1pUgeD2Rkr.png",
+      "name": "RTBF",
+      "origin_country": "BE"
+    },
+    {
+      "id": 114894,
+      "logo_path": null,
+      "name": "Les films du Monsieur",
+      "origin_country": "FR"
+    },
+    {
+      "id": 24430,
+      "logo_path": "/7ZIwXTA5QVD6feybiITOL6OYJPJ.png",
+      "name": "BeTV",
+      "origin_country": "BE"
+    },
+    {
+      "id": 11797,
+      "logo_path": "/61JT9Ldht918n04Q73l2KhCjss.png",
+      "name": "VOO",
+      "origin_country": "BE"
+    },
+    {
+      "id": 850,
+      "logo_path": "/aF7qajGJGtMpdrtvssM9g90YanX.png",
+      "name": "Eurimages",
+      "origin_country": "FR"
+    },
+    {
+      "id": 92187,
+      "logo_path": "/yrAyYme1zlZtHuhlWS3DlFAj762.png",
+      "name": "Proximus",
+      "origin_country": "BE"
+    },
+    {
+      "id": 310,
+      "logo_path": "/4Gp5A4YdjPBfsHT47ngHMaXWmb9.png",
+      "name": "CNC",
+      "origin_country": "FR"
+    },
+    {
+      "id": 11246,
+      "logo_path": "/4YZ5CQZkJa2FIKGtjLLoKhNOAIw.png",
+      "name": "La Région Île-de-France",
+      "origin_country": "FR"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "BE",
+      "name": "Belgium"
+    },
+    {
+      "iso_3166_1": "FR",
+      "name": "France"
+    }
+  ],
+  "release_date": "2023-10-11",
+  "revenue": 4710394,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "French",
+      "iso_639_1": "fr",
+      "name": "Français"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "Consent",
+  "video": false,
+  "vote_average": 6.8,
+  "vote_count": 222
+}

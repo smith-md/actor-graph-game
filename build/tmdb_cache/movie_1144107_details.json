@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/uJEZaEM2hY3MG50CgZ3z9jeTwmp.jpg",
+  "belongs_to_collection": {
+    "id": 1444577,
+    "name": "The Legend of Hei Collection",
+    "poster_path": "/3R3AvYITzvcBTOhAbNNDSTwiQ5i.jpg",
+    "backdrop_path": "/pzdtFcMqLw5wd9Rs7lHk2gflFFl.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 16,
+      "name": "Animation"
+    },
+    {
+      "id": 14,
+      "name": "Fantasy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    }
+  ],
+  "homepage": "https://gkids.com/films/the-legend-of-hei-2",
+  "id": 1144107,
+  "imdb_id": "tt37284198",
+  "origin_country": [
+    "CN"
+  ],
+  "original_language": "zh",
+  "original_title": "罗小黑战记 2",
+  "overview": "When an attack shatters the fragile peace between the spirit world and humanity, Hei teams up with Luye, the last disciple of his Shifu Wuxian, to expose a conspiracy that threatens both realms - and the bond they've sworn to protect.",
+  "popularity": 14.3697,
+  "poster_path": "/l1Q7YzanazjJescEkSfcRuIj1hR.jpg",
+  "production_companies": [
+    {
+      "id": 152035,
+      "logo_path": "/uh2Q6PLOOy9HZPIM5Hn92IPn2XY.png",
+      "name": "HMCH",
+      "origin_country": "CN"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "CN",
+      "name": "China"
+    }
+  ],
+  "release_date": "2025-07-18",
+  "revenue": 55353618,
+  "runtime": 119,
+  "spoken_languages": [
+    {
+      "english_name": "Mandarin",
+      "iso_639_1": "zh",
+      "name": "普通话"
+    }
+  ],
+  "status": "Released",
+  "tagline": "",
+  "title": "The Legend of Hei 2",
+  "video": false,
+  "vote_average": 8.5,
+  "vote_count": 38
+}

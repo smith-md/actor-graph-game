@@ -1,0 +1,77 @@
+{
+  "adult": false,
+  "backdrop_path": "/vGXZfAV77IcmHvt7ZvfXEfUecPQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 27,
+      "name": "Horror"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "http://www.german-angst.com/",
+  "id": 252596,
+  "imdb_id": "tt3398436",
+  "origin_country": [
+    "DE"
+  ],
+  "original_language": "de",
+  "original_title": "German Angst",
+  "overview": "Horror anthology consisting of three episodes directed by Jörg Buttgereit, Andreas Marschall and Michal Kosakowski.",
+  "popularity": 4.216,
+  "poster_path": "/7kSww7oRgQUmLbiyzAkyeUq94y9.jpg",
+  "production_companies": [
+    {
+      "id": 19672,
+      "logo_path": "/msmrreCfhYAFCx9sc9MRHVBqGLR.png",
+      "name": "Kosakowski Films",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    }
+  ],
+  "release_date": "2015-01-24",
+  "revenue": 0,
+  "runtime": 111,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Italian",
+      "iso_639_1": "it",
+      "name": "Italiano"
+    },
+    {
+      "english_name": "Polish",
+      "iso_639_1": "pl",
+      "name": "Polski"
+    },
+    {
+      "english_name": "German",
+      "iso_639_1": "de",
+      "name": "Deutsch"
+    },
+    {
+      "english_name": "Ukrainian",
+      "iso_639_1": "uk",
+      "name": "Український"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Love. Sex. Death.",
+  "title": "German Angst",
+  "video": false,
+  "vote_average": 5.4,
+  "vote_count": 88
+}

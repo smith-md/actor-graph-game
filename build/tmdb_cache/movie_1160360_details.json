@@ -1,0 +1,84 @@
+{
+  "adult": false,
+  "backdrop_path": "/hHN4iGAu0sCYvR0oaFmemKXDnVV.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 35,
+      "name": "Comedy"
+    }
+  ],
+  "homepage": "https://a24films.com/films/if-i-had-legs-id-kick-you",
+  "id": 1160360,
+  "imdb_id": "tt18382850",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "If I Had Legs I'd Kick You",
+  "overview": "With her life crashing down around her, Linda attempts to navigate her child's mysterious illness, her absent husband, a missing person, and an increasingly hostile relationship with her therapist.",
+  "popularity": 6.6163,
+  "poster_path": "/gkIFK1HzqfgQg4v4ifeNKogHtPG.jpg",
+  "production_companies": [
+    {
+      "id": 41077,
+      "logo_path": "/1ZXsGaFPgrgS6ZZGS37AqD5uU12.png",
+      "name": "A24",
+      "origin_country": "US"
+    },
+    {
+      "id": 243162,
+      "logo_path": null,
+      "name": "Central Pictures",
+      "origin_country": "US"
+    },
+    {
+      "id": 208363,
+      "logo_path": "/nPXwPbmlUVl9saVTNBMuvPGRV7c.png",
+      "name": "Fat City",
+      "origin_country": "US"
+    },
+    {
+      "id": 247337,
+      "logo_path": null,
+      "name": "Bronxburgh",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2025-10-10",
+  "revenue": 1300000,
+  "runtime": 113,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    },
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "Everything is under control.",
+  "title": "If I Had Legs I'd Kick You",
+  "video": false,
+  "vote_average": 6.582,
+  "vote_count": 98
+}

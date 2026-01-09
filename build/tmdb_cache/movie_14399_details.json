@@ -1,0 +1,66 @@
+{
+  "adult": false,
+  "backdrop_path": "/q2FY8sbqaSJBWz5ABg1E6lNiAbB.jpg",
+  "belongs_to_collection": {
+    "id": 922575,
+    "name": "Killing Cabos Collection",
+    "poster_path": "/hv9SG7339SgAQIo4a7RPMz1soEh.jpg",
+    "backdrop_path": "/742C7DjV0RMOVLtWAYT3Q2Jmt5k.jpg"
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 35,
+      "name": "Comedy"
+    },
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 80,
+      "name": "Crime"
+    }
+  ],
+  "homepage": "",
+  "id": 14399,
+  "imdb_id": "tt0380538",
+  "origin_country": [
+    "MX"
+  ],
+  "original_language": "es",
+  "original_title": "Matando Cabos",
+  "overview": "Two young men get involved with some criminals while trying to free the tycoon they kidnapped.",
+  "popularity": 2.6111,
+  "poster_path": "/d6fY8CZH2UyFlFi8r8odbJR0YEt.jpg",
+  "production_companies": [
+    {
+      "id": 7570,
+      "logo_path": "/gW8dfVtl1JsGIiLnvglea1OHHVr.png",
+      "name": "Videocine",
+      "origin_country": "MX"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "MX",
+      "name": "Mexico"
+    }
+  ],
+  "release_date": "2004-07-16",
+  "revenue": 0,
+  "runtime": 98,
+  "spoken_languages": [
+    {
+      "english_name": "Spanish",
+      "iso_639_1": "es",
+      "name": "Español"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A killer mob comedy.",
+  "title": "Killing Cabos",
+  "video": false,
+  "vote_average": 7.9,
+  "vote_count": 170
+}

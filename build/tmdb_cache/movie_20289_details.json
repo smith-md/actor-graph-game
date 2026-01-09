@@ -1,0 +1,69 @@
+{
+  "adult": false,
+  "backdrop_path": "/6hqe60NFfYjHfOt6PM3oI5BfTCQ.jpg",
+  "belongs_to_collection": null,
+  "budget": 17000000,
+  "genres": [
+    {
+      "id": 80,
+      "name": "Crime"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    }
+  ],
+  "homepage": "",
+  "id": 20289,
+  "imdb_id": "tt0102820",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "Rush",
+  "overview": "Undercover cop Jim Raynor is a seasoned veteran. His partner, Kristen Cates, is lacking in experience, but he thinks she's tough enough to work his next case with him: a deep cover assignment to bring down the notoriously hard-to-capture drug lord Gaines. While their relationship turns romantic during the assignment, they also turn into junkies, and will have to battle their own addictions if they want to bring down Gaines once and for all.",
+  "popularity": 3.9782,
+  "poster_path": "/mYRGsAFhvPmH8umMhsO8EJmhLQX.jpg",
+  "production_companies": [
+    {
+      "id": 80,
+      "logo_path": "/i6B0AIrUESLt5Fm6MOPXmuPhsvA.png",
+      "name": "The Zanuck Company",
+      "origin_country": "US"
+    },
+    {
+      "id": 15526,
+      "logo_path": null,
+      "name": "MGM-Pathé Communications",
+      "origin_country": "US"
+    },
+    {
+      "id": 21,
+      "logo_path": "/usUnaYV6hQnlVAXP6r4HwrlLFPG.png",
+      "name": "Metro-Goldwyn-Mayer",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "1991-12-22",
+  "revenue": 0,
+  "runtime": 120,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "How far do they go before they've gone too far?",
+  "title": "Rush",
+  "video": false,
+  "vote_average": 6.643,
+  "vote_count": 147
+}

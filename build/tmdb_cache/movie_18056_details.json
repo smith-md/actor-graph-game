@@ -1,0 +1,65 @@
+{
+  "adult": false,
+  "backdrop_path": "/v62fLT86ljdYJh0bLGuV3Wq6ez8.jpg",
+  "belongs_to_collection": null,
+  "budget": 0,
+  "genres": [
+    {
+      "id": 28,
+      "name": "Action"
+    },
+    {
+      "id": 53,
+      "name": "Thriller"
+    },
+    {
+      "id": 18,
+      "name": "Drama"
+    },
+    {
+      "id": 9648,
+      "name": "Mystery"
+    }
+  ],
+  "homepage": "",
+  "id": 18056,
+  "imdb_id": "tt0828158",
+  "origin_country": [
+    "US"
+  ],
+  "original_language": "en",
+  "original_title": "The Take",
+  "overview": "After he's shot during a heist in East L.A., an armored truck driver wrestles with rehabilitation and tracking down the man who committed the crime.",
+  "popularity": 4.3496,
+  "poster_path": "/kbJ8bjRr0U2wIhomhllEGUQ9071.jpg",
+  "production_companies": [
+    {
+      "id": 769,
+      "logo_path": "/j8zjbr6CzgiOj4kdtkTkwjdn0b3.png",
+      "name": "Destination Films",
+      "origin_country": "US"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "US",
+      "name": "United States of America"
+    }
+  ],
+  "release_date": "2008-08-22",
+  "revenue": 0,
+  "runtime": 96,
+  "spoken_languages": [
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "The crime was only the beginning",
+  "title": "The Take",
+  "video": false,
+  "vote_average": 5.362,
+  "vote_count": 47
+}

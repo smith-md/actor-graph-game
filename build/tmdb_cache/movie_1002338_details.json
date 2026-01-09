@@ -1,0 +1,73 @@
+{
+  "adult": false,
+  "backdrop_path": "/oTAbBVd48ngNEfXrZhGAtNbRbto.jpg",
+  "belongs_to_collection": {
+    "id": 1563564,
+    "name": "Operation Napoleon Collection",
+    "poster_path": null,
+    "backdrop_path": null
+  },
+  "budget": 0,
+  "genres": [
+    {
+      "id": 53,
+      "name": "Thriller"
+    }
+  ],
+  "homepage": "",
+  "id": 1002338,
+  "imdb_id": "tt15485390",
+  "origin_country": [
+    "IS"
+  ],
+  "original_language": "is",
+  "original_title": "Napóleonsskjölin",
+  "overview": "A modern-day lawyer is sucked into an international conspiracy after being accused of a murder she didn't commit. Her only chance of freedom lies in uncovering the secret of an old German WWII aeroplane, long buried deep beneath the ice, before the CIA.",
+  "popularity": 5.2286,
+  "poster_path": "/l5VLVINzfiltL1fqNLt8oMTWnr0.jpg",
+  "production_companies": [
+    {
+      "id": 91291,
+      "logo_path": "/xy2KPzjdztf17Bwrp3ZuQqpxPax.png",
+      "name": "Sagafilm",
+      "origin_country": "IS"
+    },
+    {
+      "id": 8146,
+      "logo_path": "/etoxfrvduHZMLHpYE2uPkicheX2.png",
+      "name": "Splendid Film",
+      "origin_country": "DE"
+    }
+  ],
+  "production_countries": [
+    {
+      "iso_3166_1": "DE",
+      "name": "Germany"
+    },
+    {
+      "iso_3166_1": "IS",
+      "name": "Iceland"
+    }
+  ],
+  "release_date": "2023-01-26",
+  "revenue": 0,
+  "runtime": 102,
+  "spoken_languages": [
+    {
+      "english_name": "Icelandic",
+      "iso_639_1": "is",
+      "name": "Íslenska"
+    },
+    {
+      "english_name": "English",
+      "iso_639_1": "en",
+      "name": "English"
+    }
+  ],
+  "status": "Released",
+  "tagline": "A dark secret hides beneath the ice.",
+  "title": "Operation Napoleon",
+  "video": false,
+  "vote_average": 6.191,
+  "vote_count": 160
+}
