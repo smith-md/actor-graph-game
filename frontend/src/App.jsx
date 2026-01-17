@@ -34,6 +34,10 @@ export default function App() {
   const [elapsedSeconds, setElapsedSeconds] = useState(0);
   const [timerStartTime, setTimerStartTime] = useState(null);
 
+  // Modal state for interactive graph guessing
+  const [showGuessModal, setShowGuessModal] = useState(false);
+  const [guessMode, setGuessMode] = useState('movie'); // 'movie' or 'actor'
+
   // localStorage helper functions
   const getCurrentPuzzleId = () => {
     const now = new Date();
@@ -109,13 +113,6 @@ export default function App() {
     setState(savedState.state);
     setElapsedSeconds(savedState.elapsedSeconds || 0);
     setTimerStartTime(Date.now());
-
-    setMessage("Welcome back! Continuing your daily puzzle...");
-    setMessageType("success");
-    setTimeout(() => {
-      setMessage("");
-      setMessageType("");
-    }, 3000);
   };
 
   const startDailyPuzzle = async () => {
@@ -253,13 +250,6 @@ export default function App() {
       // Save updated state to localStorage
       setTimeout(() => saveGameState(), 100);
 
-      setMessage("Actors swapped!");
-      setMessageType("success");
-      setTimeout(() => {
-        setMessage("");
-        setMessageType("");
-      }, 2000);
-
     } catch (err) {
       setMessage(err.message || "Failed to swap actors");
       setMessageType("error");
@@ -330,45 +320,98 @@ export default function App() {
     }
   };
 
+  const openGuessModal = (mode) => {
+    setGuessMode(mode); // 'movie' or 'actor'
+    setShowGuessModal(true);
+    // Clear previous selections
+    if (mode === 'movie') {
+      setMovie(null);
+      setShowMovieSug(false);
+    } else {
+      setActor('');
+      setShowActorSug(false);
+    }
+    setMessage('');
+    setMessageType('');
+  };
+
   const submitGuess = async (e) => {
     if (e) e.preventDefault();
-    if (!gameId || !movie || !actor) return;
+
+    // Validate based on guess mode
+    if (!gameId) return;
+    if (guessMode === 'movie' && (!movie || typeof movie !== 'object' || !movie.movie_id)) {
+      setMessage("Please select a movie from the autocomplete suggestions.");
+      setMessageType("error");
+      return;
+    }
+    if (guessMode === 'actor' && !actor) return;
 
     setLoading(true);
     setMessage("");
     setMessageType("");
 
     try {
+      // Build payload based on guess mode
+      const payload = guessMode === 'movie'
+        ? { movieId: movie.movie_id, actorName: null }
+        : { movieId: null, actorName: actor };
+
       const res = await fetch(`${API}/api/game/${gameId}/guess`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ movieId: movie.movie_id, actorName: actor }),
+        body: JSON.stringify(payload),
       });
 
-      const data = await res.json();
-      if (!res.ok) throw new Error(data.message || "Request failed");
-
-      // Update path and state
-      setPath(data.path);
-      setState(data.state);
-
-      // Save updated state to localStorage
-      setTimeout(() => saveGameState(), 100);
-
-      // Show success message only on win
-      if (data.state && data.state.completed) {
-        setMessage("🎉 You won!");
-        setMessageType("success");
-
-        // Stop timer (keep completed state per plan)
-        setElapsedSeconds(calculateElapsedSeconds());
-        setTimerStartTime(null);
+      // Handle 404 - game doesn't exist (backend restarted)
+      if (res.status === 404) {
+        localStorage.removeItem('cinelinks-game-state');
+        setMessage("Game session expired. Starting new game...");
+        setMessageType("error");
+        setShowGuessModal(false);
+        // Clear all game state and start fresh
+        setGameId(null);
+        setPath(null);
+        setState(null);
+        setTimeout(() => window.location.reload(), 1500);
+        return;
       }
 
-      // Reset inputs on successful guess
+      const data = await res.json();
+
       if (data.success) {
+        // Update path and state
+        console.log('[DEBUG] Guess response - path:', data.path);
+        console.log('[DEBUG] pendingMovie:', data.path?.pendingMovie);
+        setPath(data.path);
+        setState(data.state);
+
+        // Save updated state to localStorage
+        setTimeout(() => saveGameState(), 100);
+
+        // Close modal on success
+        setShowGuessModal(false);
+        setMessage('');
+        setMessageType('');
+
+        // Reset inputs
         setMovie(null);
-        setActor("");
+        setActor('');
+
+        // Show success message only on win
+        if (data.state && data.state.completed) {
+          setMessage("🎉 You won!");
+          setMessageType("success");
+
+          // Stop timer (keep completed state per plan)
+          setElapsedSeconds(calculateElapsedSeconds());
+          setTimerStartTime(null);
+        }
+      } else {
+        // Show error in modal, keep it open
+        setMessage(data.message || 'Incorrect guess. Try again!');
+        setMessageType('error');
+        // Stay on same empty box - don't close modal
       }
     } catch (err) {
       setMessage(err.message || "Network error. Please retry.");
@@ -502,7 +545,8 @@ export default function App() {
             color: '#111827',
             letterSpacing: '-0.02em'
           }}>
-            CineLinks
+            CineLinks{' '}
+            <span className="beta-badge">BETA</span>
           </h1>
           <button
             onClick={handleReopenOnboarding}
@@ -540,9 +584,6 @@ export default function App() {
           >
             ?
           </button>
-          <p className="game-subtitle" style={{ color: '#6b7280', fontWeight: '300' }}>
-            Connect actors through their movies
-          </p>
           {healthStatus && !healthStatus.ready && (
             <p style={{ color: '#d97706', fontSize: '14px', marginTop: '16px' }}>
               Graph loading... please wait
@@ -575,261 +616,111 @@ export default function App() {
               </div>
             ) : gameId ? (
               <div className="main-sections-container" style={{ display: 'flex', flexDirection: 'column', position: 'relative' }}>
-                {/* Give Up Button - Top Right Corner */}
-                {!state?.completed && (
-                  <button
-                    onClick={handleGiveUp}
-                    disabled={loading}
-                    className="give-up-button"
-                    style={{
-                      padding: '8px 16px',
-                      backgroundColor: 'transparent',
-                      color: '#111827',
-                      fontWeight: '300',
-                      fontSize: '14px',
-                      border: '1px solid #111827',
-                      borderRadius: '8px',
-                      cursor: loading ? 'not-allowed' : 'pointer',
-                      opacity: loading ? 0.3 : 1,
-                      transition: 'all 0.2s'
-                    }}
-                    onMouseEnter={(e) => {
-                      if (!loading) {
-                        e.target.style.backgroundColor = '#f9fafb';
-                      }
-                    }}
-                    onMouseLeave={(e) => {
-                      e.target.style.backgroundColor = 'transparent';
-                    }}
-                  >
-                    Give Up?
-                  </button>
-                )}
-
-                {/* Actor Display - Side by Side with Inline Styles */}
-                <div className="actor-display-container" style={{
+                {/* Actor Display and Stats Container */}
+                <div style={{
                   display: 'flex',
-                  alignItems: 'center',
+                  alignItems: 'flex-start',
                   justifyContent: 'center',
-                  gap: '32px',
+                  gap: '48px',
                   flexWrap: 'wrap'
                 }}>
-                  <ActorCard actor={start} />
-                  {(!state || state.totalGuesses === 0) ? (
-                    <button
-                      onClick={handleSwapActors}
-                      disabled={loading}
-                      className="actor-separator-button"
-                      style={{
-                        color: loading ? '#d1d5db' : '#6b7280',
-                        fontWeight: '300',
-                        border: 'none',
-                        background: 'transparent',
-                        cursor: loading ? 'not-allowed' : 'pointer',
-                        padding: '8px 16px',
-                        transition: 'all 0.2s',
-                        opacity: loading ? 0.5 : 1
-                      }}
-                      onMouseEnter={(e) => {
-                        if (!loading) {
-                          e.target.style.color = '#111827';
-                          e.target.style.transform = 'scale(1.1)';
-                        }
-                      }}
-                      onMouseLeave={(e) => {
-                        e.target.style.color = '#6b7280';
-                        e.target.style.transform = 'scale(1)';
-                      }}
-                      title="Swap starting and target actors"
-                    >
-                      ⇄
-                    </button>
-                  ) : (
-                    <div className="actor-separator-arrow" style={{ color: '#d1d5db', fontWeight: '300' }}>→</div>
-                  )}
-                  <ActorCard actor={target} />
-                </div>
-
-                {/* Game Stats - Centered */}
-                {state && (
-                  <div className="game-stats" style={{
+                  {/* Actor Display - Side by Side */}
+                  <div className="actor-display-container" style={{
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
+                    gap: '32px',
+                    flexWrap: 'wrap'
+                  }}>
+                    <ActorCard actor={start} />
+                    {(!state || state.totalGuesses === 0) ? (
+                      <button
+                        onClick={handleSwapActors}
+                        disabled={loading}
+                        className="actor-separator-button"
+                        style={{
+                          color: loading ? '#d1d5db' : '#6b7280',
+                          fontWeight: '300',
+                          border: 'none',
+                          background: 'transparent',
+                          cursor: loading ? 'not-allowed' : 'pointer',
+                          padding: '8px 16px',
+                          transition: 'all 0.2s',
+                          opacity: loading ? 0.5 : 1
+                        }}
+                        onMouseEnter={(e) => {
+                          if (!loading) {
+                            e.target.style.color = '#111827';
+                            e.target.style.transform = 'scale(1.1)';
+                          }
+                        }}
+                        onMouseLeave={(e) => {
+                          e.target.style.color = '#6b7280';
+                          e.target.style.transform = 'scale(1)';
+                        }}
+                        title="Swap starting and target actors"
+                      >
+                        ⇄
+                      </button>
+                    ) : (
+                      <div className="actor-separator-arrow" style={{ color: '#d1d5db', fontWeight: '300' }}>→</div>
+                    )}
+                    <ActorCard actor={target} />
+                  </div>
+
+                  {/* Game Stats and Give Up - Right side */}
+                  <div style={{
+                    display: 'block',
                     textAlign: 'center'
                   }}>
-                    <div>
-                      <div className="game-stats-number" style={{ fontWeight: '300', color: '#111827' }}>
-                        {state.moves_taken || 0}
-                      </div>
-                      <div style={{ fontSize: '14px', color: '#6b7280', marginTop: '4px', fontWeight: '300' }}>
-                        Moves Taken
-                      </div>
-                    </div>
-                    <div style={{ width: '1px', height: '48px', backgroundColor: '#e5e7eb' }}></div>
-                    <div>
-                      <div className="game-stats-number" style={{ fontWeight: '300', color: '#111827' }}>
-                        {state.moves_remaining ?? 6}
-                      </div>
-                      <div style={{ fontSize: '14px', color: '#6b7280', marginTop: '4px', fontWeight: '300' }}>
-                        Moves Left
-                      </div>
-                    </div>
-                  </div>
-                )}
-
-                {/* Input Form - Centered */}
-                {!state?.completed && (
-                  <div className="game-form" style={{ display: 'flex', flexDirection: 'column', maxWidth: '640px', margin: '0 auto', width: '100%' }}>
-                    <div style={{ position: 'relative' }}>
-                      <label style={{
-                        display: 'block',
-                        fontSize: '14px',
-                        fontWeight: '300',
-                        color: '#6b7280',
-                        marginBottom: '8px',
-                        textAlign: 'center'
+                    {/* Connections Counter */}
+                    {state && (
+                      <div style={{
+                        marginBottom: '16px'
                       }}>
-                        Movie Title
-                      </label>
-                      <input
-                        type="text"
-                        value={typeof movie === 'string' ? movie : (movie ? movie.title : "")}  // Handle both string and object
-                        onChange={(e) => {
-                          const value = e.target.value;
-                          // Always set as string when typing (not object)
-                          setMovie(value === '' ? null : value);
-                          if (value) setShowMovieSug(true);
+                        <div className="game-stats-number" style={{ fontWeight: '300', color: '#111827' }}>
+                          {state.moves_taken || 0}
+                        </div>
+                        <div style={{ fontSize: '14px', color: '#6b7280', marginTop: '4px', fontWeight: '300' }}>
+                          Connections
+                        </div>
+                      </div>
+                    )}
+
+                    {/* Give Up Button */}
+                    {!state?.completed && (
+                      <button
+                        onClick={handleGiveUp}
+                        disabled={loading}
+                        className="give-up-button"
+                        style={{
+                          padding: '8px 16px',
+                          backgroundColor: 'transparent',
+                          color: '#111827',
+                          fontWeight: '300',
+                          fontSize: '14px',
+                          border: '1px solid #111827',
+                          borderRadius: '8px',
+                          cursor: loading ? 'not-allowed' : 'pointer',
+                          opacity: loading ? 0.3 : 1,
+                          transition: 'all 0.2s',
+                          display: 'block',
+                          margin: '0 auto'
                         }}
-                        onFocus={() => {
-                          // FIX: Don't reopen popup if movie already selected
-                          if (movie && movie.title) {
-                            if (movie.movie_id !== null) {
-                              setShowMovieSug(false);
-                            } else {
-                              setShowMovieSug(true);
-                            }
+                        onMouseEnter={(e) => {
+                          if (!loading) {
+                            e.target.style.backgroundColor = '#f9fafb';
                           }
                         }}
-                        onBlur={() => setTimeout(() => setShowMovieSug(false), 150)}
-                        onKeyDown={(e) => e.key === 'Enter' && submitGuess()}
-                        placeholder="Start typing a movie..."
-                        style={{
-                          width: '100%',
-                          padding: '16px 24px',
-                          backgroundColor: '#f9fafb',
-                          border: '1px solid #e5e7eb',
-                          borderRadius: '16px',
-                          color: '#111827',
-                          fontSize: '18px',
-                          fontWeight: '300',
-                          textAlign: 'center',
-                          outline: 'none'
+                        onMouseLeave={(e) => {
+                          e.target.style.backgroundColor = 'transparent';
                         }}
-                        onFocus={(e) => {
-                          e.target.style.ring = '2px';
-                          e.target.style.ringColor = '#111827';
-                          e.target.style.borderColor = 'transparent';
-                        }}
-                        onBlur={(e) => {
-                          if (!movie || !showMovieSug) {
-                            e.target.style.ring = '0px';
-                            e.target.style.borderColor = '#e5e7eb';
-                          }
-                        }}
-                      />
-                      {showMovieSug && movieSuggestions.length > 0 && typeof movie === 'string' && (
-                        <SuggestionBox
-                          items={movieSuggestions}
-                          onSelect={(item) => {
-                            // FIX: Set full object with ID and close immediately
-                            setMovie({ movie_id: item.movie_id, title: item.title });
-                            setShowMovieSug(false);
-                            setMovieSuggestions([]);  // Clear to prevent refetch
-                          }}
-                          renderItem={(item) => item.title}
-                        />
-                      )}
-                    </div>
-
-                    <div style={{ position: 'relative' }}>
-                      <label style={{
-                        display: 'block',
-                        fontSize: '14px',
-                        fontWeight: '300',
-                        color: '#6b7280',
-                        marginBottom: '8px',
-                        textAlign: 'center'
-                      }}>
-                        Actor Name
-                      </label>
-                      <input
-                        type="text"
-                        value={actor}
-                        onChange={(e) => {
-                          const value = e.target.value;
-                          setActor(value);
-                          if (value) setShowActorSug(true);
-                        }}
-                        onFocus={() => actor && setShowActorSug(true)}
-                        onBlur={() => setTimeout(() => setShowActorSug(false), 120)}
-                        onKeyDown={(e) => e.key === 'Enter' && submitGuess()}
-                        placeholder="Start typing an actor..."
-                        style={{
-                          width: '100%',
-                          padding: '16px 24px',
-                          backgroundColor: '#f9fafb',
-                          border: '1px solid #e5e7eb',
-                          borderRadius: '16px',
-                          color: '#111827',
-                          fontSize: '18px',
-                          fontWeight: '300',
-                          textAlign: 'center',
-                          outline: 'none'
-                        }}
-                      />
-                      {showActorSug && actorSuggestions.length > 0 && (
-                        <SuggestionBox
-                          items={actorSuggestions}
-                          onSelect={(item) => {
-                            setActor(item.name);
-                            setShowActorSug(false);
-                            setActorSuggestions([]);  // Clear to prevent re-fetch
-                          }}
-                          renderItem={(item) => item.name}
-                        />
-                      )}
-                    </div>
-
-                    <button
-                      onClick={submitGuess}
-                      disabled={loading || !movie || !actor}
-                      style={{
-                        width: '100%',
-                        padding: '20px 32px',
-                        backgroundColor: '#111827',
-                        color: '#ffffff',
-                        fontWeight: '300',
-                        borderRadius: '16px',
-                        border: 'none',
-                        cursor: (loading || !movie || !actor) ? 'not-allowed' : 'pointer',
-                        opacity: (loading || !movie || !actor) ? 0.3 : 1,
-                        fontSize: '18px',
-                        transition: 'all 0.2s'
-                      }}
-                      onMouseEnter={(e) => {
-                        if (!loading && movie && actor) {
-                          e.target.style.backgroundColor = '#1f2937';
-                        }
-                      }}
-                      onMouseLeave={(e) => {
-                        e.target.style.backgroundColor = '#111827';
-                      }}
-                    >
-                      {loading ? "Checking..." : "Submit Guess"}
-                    </button>
+                      >
+                        Give Up?
+                      </button>
+                    )}
                   </div>
-                )}
+                </div>
 
                 {/* Message - Centered */}
                 {message && (
@@ -850,10 +741,15 @@ export default function App() {
                   </div>
                 )}
 
-                {/* Path Visualization */}
-                {path && state && state.totalGuesses > 0 && (
-                  <div style={{ marginTop: '32px' }}>
-                    <PathVisualization path={path} isOptimal={false} />
+                {/* Path Visualization - Always show with interactive empty nodes */}
+                {!state?.completed && start && (
+                  <div style={{ marginTop: '16px' }}>
+                    <PathVisualization
+                      path={path}
+                      start={start}
+                      onEmptyNodeClick={openGuessModal}
+                      isOptimal={false}
+                    />
                   </div>
                 )}
 
@@ -1072,6 +968,102 @@ export default function App() {
           </div>
         </div>
 
+        {/* Guess Input Modal */}
+        {showGuessModal && (
+          <div
+            className="guess-modal-overlay"
+            onClick={() => setShowGuessModal(false)}
+          >
+            <div
+              className="guess-modal-content"
+              onClick={(e) => e.stopPropagation()}
+            >
+              <h3>{guessMode === 'movie' ? 'Guess a Movie' : 'Guess an Actor'}</h3>
+
+              <div style={{ position: 'relative' }}>
+                {/* Input field */}
+                <input
+                  type="text"
+                  value={guessMode === 'movie'
+                    ? (typeof movie === 'string' ? movie : (movie ? movie.title : ""))
+                    : actor
+                  }
+                  onChange={(e) => {
+                    const value = e.target.value;
+                    if (guessMode === 'movie') {
+                      setMovie(value === '' ? null : value);
+                      if (value) setShowMovieSug(true);
+                    } else {
+                      setActor(value);
+                      if (value) setShowActorSug(true);
+                    }
+                  }}
+                  onBlur={() => {
+                    setTimeout(() => {
+                      setShowMovieSug(false);
+                      setShowActorSug(false);
+                    }, 150);
+                  }}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter') {
+                      submitGuess();
+                    }
+                  }}
+                  placeholder={guessMode === 'movie' ? 'Enter movie title...' : 'Enter actor name...'}
+                  autoFocus
+                />
+
+                {/* Autocomplete suggestions */}
+                {guessMode === 'movie' && showMovieSug && movieSuggestions.length > 0 && (
+                  <SuggestionBox
+                    items={movieSuggestions}
+                    onSelect={(item) => {
+                      setMovie({ movie_id: item.movie_id, title: item.title });
+                      setShowMovieSug(false);
+                      setMovieSuggestions([]);
+                    }}
+                    renderItem={(item) => (
+                      <div>
+                        <div style={{ fontWeight: 500 }}>{item.title}</div>
+                        {item.year && (
+                          <div style={{ fontSize: '12px', color: '#6b7280' }}>
+                            {item.year}
+                          </div>
+                        )}
+                      </div>
+                    )}
+                  />
+                )}
+
+                {guessMode === 'actor' && showActorSug && actorSuggestions.length > 0 && (
+                  <SuggestionBox
+                    items={actorSuggestions}
+                    onSelect={(item) => {
+                      setActor(item.name);
+                      setShowActorSug(false);
+                      setActorSuggestions([]);
+                    }}
+                    renderItem={(item) => item.name}
+                  />
+                )}
+              </div>
+
+              {/* Submit button */}
+              <button
+                onClick={submitGuess}
+                disabled={loading || (guessMode === 'movie' ? !movie : !actor)}
+              >
+                {loading ? 'Checking...' : 'Submit Guess'}
+              </button>
+
+              {/* Error message if guess was wrong */}
+              {message && messageType === 'error' && (
+                <p className="error-message">{message}</p>
+              )}
+            </div>
+          </div>
+        )}
+
         {/* Onboarding Modal */}
         {showOnboarding && (
           <OnboardingModal
@@ -1086,14 +1078,23 @@ export default function App() {
   );
 }
 
-function PathVisualization({ path, isOptimal = false }) {
-  if (!path) return null;
+function PathVisualization({ path, start, onEmptyNodeClick, isOptimal = false }) {
+  // Show start actor even without path, or use path.startActor if available
+  const startActor = path?.startActor || start;
+  if (!startActor) return null;
 
-  const segments = path.segments || [];
+  const segments = path?.segments || [];
+  const pendingMovie = path?.pendingMovie;
+
+  // Determine what empty placeholder to show next
+  // If there's a pending movie, we need an actor guess
+  // Otherwise, if last segment has both movie and actor, we need a movie guess
+  const needsActorGuess = pendingMovie !== null && pendingMovie !== undefined;
+  const needsMovieGuess = !needsActorGuess && (segments.length === 0 || segments[segments.length - 1].actor);
 
   return (
     <div className="path-visualization" style={{
-      overflowX: 'auto',
+      overflowX: 'visible',
       overflowY: 'visible'
     }}>
       <div style={{
@@ -1105,20 +1106,156 @@ function PathVisualization({ path, isOptimal = false }) {
         position: 'relative'
       }}>
         {/* Start Actor */}
-        <ActorNodeInPath actor={path.startActor} index={0} />
+        <ActorNodeInPath actor={startActor} index={0} />
 
         {/* Segments (movie + actor pairs) */}
         {segments.map((segment, i) => (
           <React.Fragment key={i}>
-            <MovieSegment
-              movie={segment.movie}
-              index={i}
-              isOptimal={isOptimal}
-            />
-            <ActorNodeInPath actor={segment.actor} index={i + 1} />
+            {segment.movie && (
+              <MovieSegment
+                movie={segment.movie}
+                index={i}
+                isOptimal={isOptimal}
+              />
+            )}
+            {segment.actor && (
+              <ActorNodeInPath actor={segment.actor} index={i + 1} />
+            )}
           </React.Fragment>
         ))}
+
+        {/* Pending movie (guessed but not yet paired with actor) */}
+        {pendingMovie && (
+          <MovieSegment
+            movie={pendingMovie}
+            index={segments.length}
+            isOptimal={isOptimal}
+          />
+        )}
+
+        {/* Empty placeholder for next guess - only in interactive mode */}
+        {!isOptimal && onEmptyNodeClick && (
+          <>
+            {needsMovieGuess && (
+              <EmptyMovieNode
+                onClick={() => onEmptyNodeClick('movie')}
+                index={segments.length}
+              />
+            )}
+            {needsActorGuess && (
+              <EmptyActorNode onClick={() => onEmptyNodeClick('actor')} />
+            )}
+          </>
+        )}
       </div>
+    </div>
+  );
+}
+
+function EmptyMovieNode({ onClick, index = 0 }) {
+  // Alternate above/below like real movie segments
+  const isAbove = index % 2 === 0;
+
+  return (
+    <div className="movie-segment" style={{
+      position: 'relative',
+      display: 'flex',
+      alignItems: 'center'
+    }}>
+      {/* Horizontal line through center */}
+      <div style={{
+        width: '80px',
+        height: '2px',
+        backgroundColor: '#d1d5db',
+        position: 'relative',
+        zIndex: 1
+      }}>
+        {/* Vertical connector line */}
+        <div className={`movie-segment-connector ${isAbove ? 'movie-segment-connector-above' : ''}`} style={{
+          position: 'absolute',
+          left: '50%',
+          top: isAbove ? '-90px' : '0',
+          transform: 'translateX(-50%)',
+          width: '2px',
+          height: '90px',
+          backgroundColor: '#d1d5db'
+        }} />
+
+        {/* Empty movie box - positioned at end of vertical connector */}
+        <div className={isAbove ? 'movie-segment-movie-above' : 'movie-segment-movie-below'} style={{
+          position: 'absolute',
+          left: '50%',
+          transform: 'translateX(-50%)',
+          top: isAbove ? '-250px' : '90px',
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          gap: '6px'
+        }}>
+          <div
+            className="empty-node movie-placeholder"
+            onClick={onClick}
+            style={{
+              border: '2px dashed #d1d5db',
+              borderRadius: '8px',
+              cursor: 'pointer',
+              backgroundColor: '#f9fafb',
+              textAlign: 'center',
+              flexShrink: 0,
+              width: '120px',
+              height: '180px',
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'center',
+              padding: '16px'
+            }}
+          >
+            <p style={{
+              color: '#6b7280',
+              fontWeight: '500',
+              fontSize: '13px',
+              margin: 0,
+              lineHeight: '1.3'
+            }}>
+              Guess a<br/>movie
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function EmptyActorNode({ onClick }) {
+  return (
+    <div
+      className="empty-node actor-placeholder"
+      onClick={onClick}
+      style={{
+        width: '120px',
+        height: '120px',
+        borderRadius: '50%',
+        border: '2px dashed #d1d5db',
+        cursor: 'pointer',
+        backgroundColor: '#f9fafb',
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        justifyContent: 'center',
+        flexShrink: 0,
+        gap: '4px'
+      }}
+    >
+      <p style={{
+        color: '#6b7280',
+        fontSize: '12px',
+        fontWeight: '500',
+        margin: 0,
+        textAlign: 'center',
+        lineHeight: '1.2'
+      }}>
+        Guess an<br/>actor
+      </p>
     </div>
   );
 }
