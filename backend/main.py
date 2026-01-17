@@ -3,9 +3,10 @@ from uuid import uuid4
 from typing import Dict, Optional, List
 from collections import defaultdict
 from datetime import datetime
+from zoneinfo import ZoneInfo
 
 import networkx as nx
-from fastapi import FastAPI, HTTPException, Query
+from fastapi import FastAPI, HTTPException, Query, Request
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
@@ -233,8 +234,8 @@ class GamePath(BaseModel):
     segments: List[PathSegment]
 
 class NewGuessInput(BaseModel):
-    movieId: int
-    actorName: str
+    movieId: Optional[int] = None
+    actorName: Optional[str] = None
 
 class CreateGameRequest(BaseModel):
     startActorId: Optional[str] = None
@@ -288,10 +289,16 @@ def build_path_response(game: MovieConnectionGame) -> dict:
             "actor": build_actor_node_dict(game.path[i + 1])
         })
 
+    # Include pending movie if one has been guessed but not yet paired with actor
+    pending_movie = None
+    if game.pending_movie_dict:
+        pending_movie = build_movie_dict(game.pending_movie_dict['id'], game.pending_movie_dict)
+
     return {
         "startActor": build_actor_node_dict(game.start),
         "targetActor": build_actor_node_dict(game.target),
-        "segments": segments
+        "segments": segments,
+        "pendingMovie": pending_movie
     }
 
 def graph_not_ready_response():
@@ -347,8 +354,9 @@ def get_daily_pair():
     if not GRAPH_READY:
         return graph_not_ready_response()
 
-    # Get current date in UTC as puzzle ID
-    puzzle_id = datetime.utcnow().strftime("%Y%m%d")
+    # Get current date in Central Time as puzzle ID
+    central_tz = ZoneInfo("America/Chicago")
+    puzzle_id = datetime.now(central_tz).strftime("%Y%m%d")
 
     # Get or generate today's puzzle
     start_actor, target_actor = DAILY_PUZZLE_MANAGER.get_daily_puzzle(puzzle_id)
@@ -461,13 +469,20 @@ def submit_guess(game_id: str, input: NewGuessInput):
     # Validate guess using existing logic
     success, message, poster_url = game.guess(input.movieId, input.actorName)
 
+    path_response = build_path_response(game)
+    print(f"[DEBUG] Path response pendingMovie: {path_response.get('pendingMovie')}")
+    print(f"[DEBUG] Game pending_movie_dict: {game.pending_movie_dict}")
+    print(f"[DEBUG] movies_used count: {len(game.movies_used)}")
+    print(f"[DEBUG] movies_used: {game.movies_used}")
+
     return {
         "success": success,
         "message": message,
-        "path": build_path_response(game),
+        "path": path_response,
         "state": {
             "completed": game.completed,
             "totalGuesses": game.total_guesses,
+            "moves_taken": len(game.movies_used),  # Count completed connections (movie+actor pairs)
             "incorrectGuesses": game.incorrect_guesses,
             "remainingAttempts": game.max_incorrect - game.incorrect_guesses
         }
@@ -528,6 +543,7 @@ def give_up_game(game_id: str):
         "state": {
             "completed": game.completed,
             "totalGuesses": game.total_guesses,
+            "moves_taken": len(game.movies_used),  # Count completed connections
             "incorrectGuesses": game.incorrect_guesses,
             "remainingAttempts": 0,
             "gaveUp": game.gave_up
