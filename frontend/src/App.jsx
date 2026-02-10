@@ -1,34 +1,41 @@
 import React, { useEffect, useState, useRef } from "react";
 import * as api from './services/api.js';
 import { prefetchNeighbors } from './services/api.js';
+import { GameEngine } from './services/gameEngine.js';
+import { SearchIndex } from './services/search.js';
 import { GameLoadingSkeleton, ErrorWithRetry, ButtonSpinner } from './components/Skeleton.jsx';
 
-const API = import.meta.env.VITE_API_URL || "http://localhost:8000";
+const TMDB_IMAGE_BASE = 'https://image.tmdb.org/t/p';
 
 export default function App() {
-  const [gameId, setGameId] = useState("");
+  // Game engine and search index refs (mutable, don't trigger re-renders)
+  const engineRef = useRef(null);
+  const searchIndexRef = useRef(new SearchIndex());
+  const actorsMetaRef = useRef(null);
+  const moviesMetaRef = useRef(null);
+
+  // UI state
+  const [gameReady, setGameReady] = useState(false);
+  const [metadataLoaded, setMetadataLoaded] = useState(false);
   const [start, setStart] = useState(null);
   const [target, setTarget] = useState(null);
-  const [movie, setMovie] = useState(null);  // CHANGED: Now stores {movie_id, title} or null
+  const [movie, setMovie] = useState(null);
   const [actor, setActor] = useState("");
+  const [selectedActorId, setSelectedActorId] = useState(null);
   const [message, setMessage] = useState("");
   const [messageType, setMessageType] = useState("");
-  const [path, setPath] = useState(null);  // NEW: Full path structure
-  const [optimalPath, setOptimalPath] = useState(null);  // NEW: Optimal path for comparison
-  const [showOptimalPath, setShowOptimalPath] = useState(false);  // NEW: Toggle for optimal path display
-  const [optimalPaths, setOptimalPaths] = useState(null);  // NEW: Array of diverse optimal paths
-  const [showPathsModal, setShowPathsModal] = useState(false);  // NEW: Modal visibility for multiple paths
+  const [path, setPath] = useState(null);
+  const [optimalPaths, setOptimalPaths] = useState(null);
+  const [showPathsModal, setShowPathsModal] = useState(false);
   const [state, setState] = useState(null);
   const [loading, setLoading] = useState(false);
   const [healthStatus, setHealthStatus] = useState(null);
 
   const [actorSuggestions, setActorSuggestions] = useState([]);
   const [showActorSug, setShowActorSug] = useState(false);
-  const sugAbort = useRef(null);
 
   const [movieSuggestions, setMovieSuggestions] = useState([]);
   const [showMovieSug, setShowMovieSug] = useState(false);
-  const movieSugAbort = useRef(null);
 
   // Onboarding state
   const [showOnboarding, setShowOnboarding] = useState(false);
@@ -42,9 +49,19 @@ export default function App() {
   // Modal state for interactive graph guessing
   const [showGuessModal, setShowGuessModal] = useState(false);
   const [showGiveUpModal, setShowGiveUpModal] = useState(false);
-  const [guessMode, setGuessMode] = useState('movie'); // 'movie' or 'actor'
+  const [guessMode, setGuessMode] = useState('movie');
 
-  // localStorage helper functions
+  // Sync engine state to React state
+  const syncFromEngine = () => {
+    const engine = engineRef.current;
+    if (!engine) return;
+    setPath(engine.getPath());
+    setState(engine.getState());
+    setStart(engine.resolveActor(engine.startActorId));
+    setTarget(engine.resolveActor(engine.targetActorId));
+  };
+
+  // localStorage helpers
   const getCurrentPuzzleId = () => {
     const now = new Date();
     const year = now.getUTCFullYear();
@@ -61,15 +78,12 @@ export default function App() {
   };
 
   const saveGameState = () => {
-    if (!gameId || !puzzleId) return;
+    const engine = engineRef.current;
+    if (!engine || !puzzleId) return;
 
     const gameState = {
       puzzleId,
-      gameId,
-      startActor: start,
-      targetActor: target,
-      path,
-      state,
+      engineData: engine.serialize(),
       elapsedSeconds: calculateElapsedSeconds(),
       lastSaved: new Date().toISOString()
     };
@@ -89,7 +103,6 @@ export default function App() {
       const gameState = JSON.parse(saved);
       const currentPuzzleId = getCurrentPuzzleId();
 
-      // Validate puzzle ID matches today
       if (gameState.puzzleId !== currentPuzzleId) {
         localStorage.removeItem('cinelinks-game-state');
         return null;
@@ -107,52 +120,65 @@ export default function App() {
     localStorage.removeItem('cinelinks-game-state');
   };
 
-  const hydrateGameState = (savedState) => {
-    setPuzzleId(savedState.puzzleId);
-    setGameId(savedState.gameId);
-    setStart(savedState.startActor);
-    setTarget(savedState.targetActor);
-    setPath(savedState.path);
-    setState(savedState.state);
-    setElapsedSeconds(savedState.elapsedSeconds || 0);
-    setTimerStartTime(Date.now());
+  // Load metadata (actors + movies) and build search index
+  const loadMetadata = async () => {
+    const [actorsData, moviesData] = await Promise.all([
+      api.getActorsMetadata(),
+      api.getMoviesMetadata()
+    ]);
+
+    actorsMetaRef.current = actorsData.actors || actorsData;
+    moviesMetaRef.current = moviesData.movies || moviesData;
+
+    searchIndexRef.current.loadActors(actorsData, TMDB_IMAGE_BASE);
+    searchIndexRef.current.loadMovies(moviesData, TMDB_IMAGE_BASE);
+
+    setMetadataLoaded(true);
+    return { actorsMeta: actorsMetaRef.current, moviesMeta: moviesMetaRef.current };
   };
 
+  // Start a new daily puzzle (client-side engine, no server session)
   const startDailyPuzzle = async () => {
     setLoading(true);
     setMessage("");
     setMessageType("");
     setPath(null);
-    setOptimalPath(null);
-    setShowOptimalPath(false);
+    setOptimalPaths(null);
     setState(null);
     setMovie(null);
     setActor("");
+    setSelectedActorId(null);
     setElapsedSeconds(0);
     setTimerStartTime(null);
+    setGameReady(false);
 
     try {
-      // Get today's daily puzzle actors
-      const dailyData = await api.getPuzzle();
-      setPuzzleId(dailyData.puzzleId);
+      // Ensure metadata is loaded
+      let actorsMeta = actorsMetaRef.current;
+      let moviesMeta = moviesMetaRef.current;
+      if (!actorsMeta || !moviesMeta) {
+        const meta = await loadMetadata();
+        actorsMeta = meta.actorsMeta;
+        moviesMeta = meta.moviesMeta;
+      }
 
-      // Create game session with daily puzzle actors
-      const gameData = await api.createGame(
-        dailyData.startActor.id,
-        dailyData.targetActor.id
+      // Get today's puzzle
+      const puzzleData = await api.getPuzzle();
+      setPuzzleId(puzzleData.date);
+
+      // Create client-side game engine
+      const engine = new GameEngine(
+        puzzleData.startActorId,
+        puzzleData.endActorId,
+        actorsMeta,
+        moviesMeta,
+        TMDB_IMAGE_BASE
       );
+      engineRef.current = engine;
 
-      // Set game state from response
-      setGameId(gameData.gameId);
-      setStart(gameData.startActor);
-      setTarget(gameData.targetActor);
-      setPath({
-        startActor: gameData.startActor,
-        targetActor: gameData.targetActor,
-        segments: []
-      });
-
-      // Start timer
+      // Sync UI state from engine
+      syncFromEngine();
+      setGameReady(true);
       setTimerStartTime(Date.now());
 
       // Save initial state
@@ -166,131 +192,113 @@ export default function App() {
     }
   };
 
-  useEffect(() => {
-    checkHealth();
-
-    // Check if user has seen onboarding before
-    const hasSeenOnboarding = localStorage.getItem('cinelinks-onboarding-seen');
-    if (!hasSeenOnboarding) {
-      setIsReopenedTutorial(false);
-      setShowOnboarding(true);
-    } else {
-      // Try to load saved game state
-      const savedState = loadGameState();
-
-      if (savedState) {
-        // Hydrate from saved state
-        hydrateGameState(savedState);
-      } else {
-        // Start new daily puzzle
-        startDailyPuzzle();
-      }
-    }
-  }, []);
-
-  const checkHealth = async () => {
-    try {
-      const data = await api.checkHealth();
-      setHealthStatus(data);
-    } catch (err) {
-      setHealthStatus({ ok: false, ready: false });
-      console.error("Health check failed:", err);
-    }
+  // Hydrate engine from saved localStorage state
+  const hydrateFromSaved = (savedState, actorsMeta, moviesMeta) => {
+    const engine = GameEngine.deserialize(
+      savedState.engineData,
+      actorsMeta,
+      moviesMeta,
+      TMDB_IMAGE_BASE
+    );
+    engineRef.current = engine;
+    setPuzzleId(savedState.puzzleId);
+    setElapsedSeconds(savedState.elapsedSeconds || 0);
+    setTimerStartTime(Date.now());
+    syncFromEngine();
+    setGameReady(true);
   };
 
-  const handleSwapActors = async () => {
-    if (!gameId || loading) return;
+  // Initialize app
+  useEffect(() => {
+    const init = async () => {
+      // Health check (non-blocking)
+      api.checkHealth().then(data => setHealthStatus(data)).catch(() => setHealthStatus({ ok: false }));
 
-    // Frontend validation: prevent swap if moves have been made
-    if (state && state.totalGuesses > 0) {
+      const hasSeenOnboarding = localStorage.getItem('cinelinks-onboarding-seen');
+      if (!hasSeenOnboarding) {
+        setIsReopenedTutorial(false);
+        setShowOnboarding(true);
+        // Still load metadata in background while onboarding shows
+        loadMetadata().catch(() => {});
+        return;
+      }
+
+      // Load metadata first
+      setLoading(true);
+      try {
+        const { actorsMeta, moviesMeta } = await loadMetadata();
+
+        // Try to restore saved game
+        const savedState = loadGameState();
+        if (savedState && savedState.engineData) {
+          hydrateFromSaved(savedState, actorsMeta, moviesMeta);
+          setLoading(false);
+        } else {
+          setLoading(false);
+          startDailyPuzzle();
+        }
+      } catch (err) {
+        setLoading(false);
+        setMessage("Failed to load game data. Please refresh.");
+        setMessageType("error");
+      }
+    };
+
+    init();
+  }, []);
+
+  const handleSwapActors = () => {
+    const engine = engineRef.current;
+    if (!engine || loading) return;
+
+    if (engine.getState().totalGuesses > 0) {
       setMessage("Cannot swap actors after making a move");
       setMessageType("error");
-      setTimeout(() => {
-        setMessage("");
-        setMessageType("");
-      }, 3000);
+      setTimeout(() => { setMessage(""); setMessageType(""); }, 3000);
       return;
     }
 
-    setLoading(true);
-    setMessage("");
-    setMessageType("");
-
-    try {
-      const data = await api.swapActors(gameId);
-
-      // Update state with swapped actors
-      setStart(data.startActor);
-      setTarget(data.targetActor);
-      setPath(data.path);
-
-      // Save updated state to localStorage
+    const swapped = engine.swap();
+    if (swapped) {
+      syncFromEngine();
       setTimeout(() => saveGameState(), 100);
-
-    } catch (err) {
-      setMessage(err.message || "Failed to swap actors");
-      setMessageType("error");
-      setTimeout(() => {
-        setMessage("");
-        setMessageType("");
-      }, 3000);
-    } finally {
-      setLoading(false);
     }
   };
 
   const handleGiveUp = () => {
-    if (!gameId || loading) return;
+    if (!engineRef.current || loading) return;
     setShowGiveUpModal(true);
   };
 
   const confirmGiveUp = async () => {
     setShowGiveUpModal(false);
-    setLoading(true);
-    setMessage("");
-    setMessageType("");
 
-    try {
-      const data = await api.giveUp(gameId);
+    const engine = engineRef.current;
+    if (!engine) return;
 
-      // Update state with gave-up status, preserving existing fields
-      setState({
-        totalGuesses: 0,
-        moves_taken: 0,
-        ...state,
-        completed: true,
-        gaveUp: true
-      });
+    engine.giveUp();
+    syncFromEngine();
 
-      // Stop timer
-      setElapsedSeconds(calculateElapsedSeconds());
-      setTimerStartTime(null);
+    // Stop timer
+    setElapsedSeconds(calculateElapsedSeconds());
+    setTimerStartTime(null);
 
-      // Clear game state from localStorage (daily puzzle is over)
-      clearGameState();
+    // Clear saved state
+    clearGameState();
 
-      // Automatically fetch and show optimal paths
-      setTimeout(() => {
-        fetchOptimalPaths();
-      }, 500);
-
-    } catch (err) {
-      setMessage(err.message || "Failed to give up");
-      setMessageType("error");
-    } finally {
-      setLoading(false);
-    }
+    // Fetch and show optimal paths
+    setTimeout(() => fetchOptimalPaths(), 500);
   };
 
   const openGuessModal = (mode) => {
-    setGuessMode(mode); // 'movie' or 'actor'
+    setGuessMode(mode);
     setShowGuessModal(true);
-    // Clear previous selections
     if (mode === 'movie') {
       setMovie(null);
       setShowMovieSug(false);
     } else {
       setActor('');
+      setSelectedActorId(null);
       setShowActorSug(false);
     }
     setMessage('');
@@ -300,99 +308,128 @@ export default function App() {
   const submitGuess = async (e) => {
     if (e) e.preventDefault();
 
-    // Validate based on guess mode
-    if (!gameId) return;
-    if (guessMode === 'movie' && (!movie || typeof movie !== 'object' || !movie.movie_id)) {
-      setMessage("Please select a movie from the autocomplete suggestions.");
-      setMessageType("error");
-      return;
-    }
-    if (guessMode === 'actor' && !actor) return;
+    const engine = engineRef.current;
+    if (!engine) return;
 
-    setLoading(true);
-    setMessage("");
-    setMessageType("");
-
-    try {
-      // Build payload based on guess mode
-      const movieId = guessMode === 'movie' ? movie.movie_id : null;
-      const actorName = guessMode === 'actor' ? actor : null;
-
-      const data = await api.submitGuess(gameId, movieId, actorName);
-
-      if (data.success) {
-        // Update path and state
-        setPath(data.path);
-        setState(data.state);
-
-        // Save updated state to localStorage
-        setTimeout(() => saveGameState(), 100);
-
-        // Close modal on success
-        setShowGuessModal(false);
-        setMessage('');
-        setMessageType('');
-
-        // Reset inputs
-        setMovie(null);
-        setActor('');
-
-        // Show success message only on win
-        if (data.state && data.state.completed) {
-          setMessage("🎉 You won!");
-          setMessageType("success");
-
-          // Stop timer (keep completed state per plan)
-          setElapsedSeconds(calculateElapsedSeconds());
-          setTimerStartTime(null);
-
-          // Fetch optimal paths on win
-          setTimeout(() => {
-            fetchOptimalPaths();
-          }, 1000);
-        }
-      } else {
-        // Show error in modal, keep it open
-        setMessage(data.message || 'Incorrect guess. Try again!');
-        setMessageType('error');
-        // Stay on same empty box - don't close modal
-      }
-    } catch (err) {
-      // Handle session expired (404) or other errors
-      if (err.message && (err.message.includes('404') || err.message.includes('not found'))) {
-        localStorage.removeItem('cinelinks-game-state');
-        setMessage("Game session expired. Starting new game...");
+    if (guessMode === 'movie') {
+      // Movie guess
+      if (!movie || typeof movie !== 'object' || !movie.movie_id) {
+        setMessage("Please select a movie from the autocomplete suggestions.");
         setMessageType("error");
-        setShowGuessModal(false);
-        setGameId(null);
-        setPath(null);
-        setState(null);
-        setTimeout(() => window.location.reload(), 1500);
         return;
       }
-      setMessage(err.message || "Network error. Please retry.");
-      setMessageType("error");
-    } finally {
-      setLoading(false);
-    }
-  };
 
-  const fetchOptimalPath = async () => {
-    try {
-      const data = await api.getOptimalPath(gameId);
-      setOptimalPath(data);
-      setShowOptimalPath(!showOptimalPath);
-    } catch (err) {
-      setMessage(err.message || "Failed to fetch optimal path");
-      setMessageType("error");
+      setLoading(true);
+      setMessage("");
+      setMessageType("");
+
+      try {
+        // Fetch neighbors for current actor
+        const neighborsData = await api.getNeighbors(engine.getCurrentActorId());
+        const result = engine.guessMovie(movie.movie_id, neighborsData);
+
+        if (result.success) {
+          syncFromEngine();
+          setTimeout(() => saveGameState(), 100);
+
+          // Close modal, switch to actor mode
+          setShowGuessModal(false);
+          setMessage('');
+          setMessageType('');
+          setMovie(null);
+        } else {
+          setMessage(result.message);
+          setMessageType('error');
+        }
+      } catch (err) {
+        setMessage(err.message || "Network error. Please retry.");
+        setMessageType("error");
+      } finally {
+        setLoading(false);
+      }
+
+    } else {
+      // Actor guess
+      if (!selectedActorId) {
+        setMessage("Please select an actor from the autocomplete suggestions.");
+        setMessageType("error");
+        return;
+      }
+
+      setLoading(true);
+      setMessage("");
+      setMessageType("");
+
+      try {
+        const result = engine.guessActor(selectedActorId);
+
+        if (result.success) {
+          syncFromEngine();
+          setTimeout(() => saveGameState(), 100);
+
+          setShowGuessModal(false);
+          setMessage('');
+          setMessageType('');
+          setActor('');
+          setSelectedActorId(null);
+
+          if (result.completed) {
+            setMessage("You won!");
+            setMessageType("success");
+
+            // Stop timer
+            setElapsedSeconds(calculateElapsedSeconds());
+            setTimerStartTime(null);
+
+            // Clear saved state on win
+            clearGameState();
+
+            // Fetch optimal paths on win
+            setTimeout(() => fetchOptimalPaths(), 1000);
+          }
+        } else {
+          setMessage(result.message);
+          setMessageType('error');
+        }
+      } catch (err) {
+        setMessage(err.message || "Error validating guess.");
+        setMessageType("error");
+      } finally {
+        setLoading(false);
+      }
     }
   };
 
   const fetchOptimalPaths = async () => {
     try {
-      const data = await api.getOptimalPaths(gameId, 3);
-      setOptimalPaths(data.paths);
-      setShowPathsModal(true);
+      const revealData = await api.getReveal();
+      const engine = engineRef.current;
+      if (!revealData || !engine) return;
+
+      // Transform reveal data into PathsModal format
+      const paths = [];
+
+      if (revealData.bestPath) {
+        const { actors: actorIds, movies: movieIds } = revealData.bestPath;
+        const segments = [];
+
+        for (let i = 0; i < movieIds.length; i++) {
+          segments.push({
+            movie: engine.resolveMovie(movieIds[i]),
+            actor: engine.resolveActor(actorIds[i + 1])
+          });
+        }
+
+        paths.push({
+          startActor: engine.resolveActor(actorIds[0]),
+          segments
+        });
+      }
+
+      if (paths.length > 0) {
+        setOptimalPaths(paths);
+        setShowPathsModal(true);
+      }
     } catch (err) {
       console.error("Error fetching optimal paths:", err);
       setMessage("Failed to load optimal paths.");
@@ -400,67 +437,39 @@ export default function App() {
     }
   };
 
-  const fetchActorSuggestions = async (text) => {
-    if (!text) {
-      setActorSuggestions([]);
-      return;
-    }
-    try {
-      if (sugAbort.current) sugAbort.current.abort();
-      sugAbort.current = new AbortController();
-      const data = await api.autocompleteActors(text, 10, sugAbort.current.signal);
-      setActorSuggestions(data.results || []);
-      setShowActorSug(true);
-    } catch {}
-  };
-
+  // Client-side autocomplete for actors
   useEffect(() => {
-    // Only fetch if actor has text AND popup is open (not just closed by selection)
     if (actor && actor.trim() && showActorSug) {
-      const t = setTimeout(() => fetchActorSuggestions(actor), 150);
-      return () => clearTimeout(t);
+      const results = searchIndexRef.current.searchActors(actor, 10);
+      setActorSuggestions(results);
     } else if (!actor || !actor.trim()) {
       setActorSuggestions([]);
     }
   }, [actor, showActorSug]);
 
-  const fetchMovieSuggestions = async (text) => {
-    if (!text) {
-      setMovieSuggestions([]);
-      return;
-    }
-    try {
-      if (movieSugAbort.current) movieSugAbort.current.abort();
-      movieSugAbort.current = new AbortController();
-      const data = await api.autocompleteMovies(text, 10, movieSugAbort.current.signal);
-      setMovieSuggestions(data.results || []);
-      setShowMovieSug(true);
-    } catch {}
-  };
-
+  // Client-side autocomplete for movies
   useEffect(() => {
-    // Only fetch if movie is a string (user typing), not object (already selected)
     if (typeof movie === 'string' && movie.trim()) {
-      const t = setTimeout(() => fetchMovieSuggestions(movie), 150);
-      return () => clearTimeout(t);
-    } else if (movie === null || (typeof movie === 'object' && movie.movie_id !== null)) {
-      // Clear suggestions if nothing selected or movie already selected
+      const results = searchIndexRef.current.searchMovies(movie, 10);
+      setMovieSuggestions(results);
+      setShowMovieSug(true);
+    } else {
       setMovieSuggestions([]);
     }
   }, [movie]);
 
   // Auto-save game state every 10 seconds
   useEffect(() => {
-    if (!gameId || !puzzleId) return;
+    if (!gameReady || !puzzleId) return;
 
     const interval = setInterval(() => {
       saveGameState();
-    }, 10000); // Save every 10 seconds
+    }, 10000);
 
     return () => clearInterval(interval);
-  }, [gameId, puzzleId, path, state, elapsedSeconds, timerStartTime]);
+  }, [gameReady, puzzleId, path, state, elapsedSeconds, timerStartTime]);
 
-  const handleStartGame = () => {
+  const handleStartGame = async () => {
     localStorage.setItem('cinelinks-onboarding-seen', 'true');
     setShowOnboarding(false);
     startDailyPuzzle();
@@ -469,7 +478,7 @@ export default function App() {
   const handleCloseOnboarding = () => {
     localStorage.setItem('cinelinks-onboarding-seen', 'true');
     setShowOnboarding(false);
-    if (!gameId) {
+    if (!gameReady) {
       startDailyPuzzle();
     }
   };
@@ -515,15 +524,15 @@ export default function App() {
                   whiteSpace: 'nowrap'
                 }}>BETA</span>
               </h1>
-              {healthStatus && !healthStatus.ready && (
+              {healthStatus && !healthStatus.ok && (
                 <p style={{ color: '#d97706', fontSize: '14px', marginTop: '16px' }}>
-                  Graph loading... please wait
+                  Server unavailable... please wait
                 </p>
               )}
             </div>
-            {loading && !gameId ? (
+            {loading && !gameReady ? (
               <GameLoadingSkeleton />
-            ) : gameId ? (
+            ) : gameReady ? (
               <div className="main-sections-container" style={{ display: 'flex', flexDirection: 'column', position: 'relative' }}>
                 {/* Actor Display Container */}
                 <div style={{
@@ -759,7 +768,7 @@ export default function App() {
             ) : null}
 
             {/* Error message if game failed to load */}
-            {!loading && !gameId && message && (
+            {!loading && !gameReady && message && (
               <div style={{
                 textAlign: 'center',
                 padding: '60px 20px'
@@ -854,6 +863,7 @@ export default function App() {
                       if (value) setShowMovieSug(true);
                     } else {
                       setActor(value);
+                      setSelectedActorId(null);
                       if (value) setShowActorSug(true);
                     }
                   }}
@@ -899,6 +909,7 @@ export default function App() {
                     items={actorSuggestions}
                     onSelect={(item) => {
                       setActor(item.name);
+                      setSelectedActorId(item.id);
                       setShowActorSug(false);
                       setActorSuggestions([]);
                     }}
@@ -910,7 +921,7 @@ export default function App() {
               {/* Submit button */}
               <button
                 onClick={submitGuess}
-                disabled={loading || (guessMode === 'movie' ? !movie : !actor)}
+                disabled={loading || (guessMode === 'movie' ? !movie : !selectedActorId)}
               >
                 {loading ? 'Checking...' : 'Submit Guess'}
               </button>
@@ -1510,7 +1521,6 @@ function PathsModal({ paths, onClose, isWin = false }) {
   const [currentPathIndex, setCurrentPathIndex] = useState(0);
   if (!paths || paths.length === 0) return null;
 
-  const neutralColor = '#6b7280';
   const labels = ['Shortest Path', 'Alternative Path #1', 'Alternative Path #2'];
   const path = paths[currentPathIndex];
   const hasMultiple = paths.length > 1;
