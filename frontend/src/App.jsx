@@ -1,29 +1,41 @@
 import React, { useEffect, useState, useRef } from "react";
+import * as api from './services/api.js';
+import { prefetchNeighbors } from './services/api.js';
+import { GameEngine } from './services/gameEngine.js';
+import { SearchIndex } from './services/search.js';
+import { GameLoadingSkeleton, ErrorWithRetry, ButtonSpinner } from './components/Skeleton.jsx';
 
-const API = import.meta.env.VITE_API_URL || "http://localhost:8000";
+const TMDB_IMAGE_BASE = 'https://image.tmdb.org/t/p';
 
 export default function App() {
-  const [gameId, setGameId] = useState("");
+  // Game engine and search index refs (mutable, don't trigger re-renders)
+  const engineRef = useRef(null);
+  const searchIndexRef = useRef(new SearchIndex());
+  const actorsMetaRef = useRef(null);
+  const moviesMetaRef = useRef(null);
+
+  // UI state
+  const [gameReady, setGameReady] = useState(false);
+  const [metadataLoaded, setMetadataLoaded] = useState(false);
   const [start, setStart] = useState(null);
   const [target, setTarget] = useState(null);
-  const [movie, setMovie] = useState(null);  // CHANGED: Now stores {movie_id, title} or null
+  const [movie, setMovie] = useState(null);
   const [actor, setActor] = useState("");
+  const [selectedActorId, setSelectedActorId] = useState(null);
   const [message, setMessage] = useState("");
   const [messageType, setMessageType] = useState("");
-  const [path, setPath] = useState(null);  // NEW: Full path structure
-  const [optimalPath, setOptimalPath] = useState(null);  // NEW: Optimal path for comparison
-  const [showOptimalPath, setShowOptimalPath] = useState(false);  // NEW: Toggle for optimal path display
+  const [path, setPath] = useState(null);
+  const [optimalPaths, setOptimalPaths] = useState(null);
+  const [showPathsModal, setShowPathsModal] = useState(false);
   const [state, setState] = useState(null);
   const [loading, setLoading] = useState(false);
   const [healthStatus, setHealthStatus] = useState(null);
 
   const [actorSuggestions, setActorSuggestions] = useState([]);
   const [showActorSug, setShowActorSug] = useState(false);
-  const sugAbort = useRef(null);
 
   const [movieSuggestions, setMovieSuggestions] = useState([]);
   const [showMovieSug, setShowMovieSug] = useState(false);
-  const movieSugAbort = useRef(null);
 
   // Onboarding state
   const [showOnboarding, setShowOnboarding] = useState(false);
@@ -36,9 +48,20 @@ export default function App() {
 
   // Modal state for interactive graph guessing
   const [showGuessModal, setShowGuessModal] = useState(false);
-  const [guessMode, setGuessMode] = useState('movie'); // 'movie' or 'actor'
+  const [showGiveUpModal, setShowGiveUpModal] = useState(false);
+  const [guessMode, setGuessMode] = useState('movie');
 
-  // localStorage helper functions
+  // Sync engine state to React state
+  const syncFromEngine = () => {
+    const engine = engineRef.current;
+    if (!engine) return;
+    setPath(engine.getPath());
+    setState(engine.getState());
+    setStart(engine.resolveActor(engine.startActorId));
+    setTarget(engine.resolveActor(engine.targetActorId));
+  };
+
+  // localStorage helpers
   const getCurrentPuzzleId = () => {
     const now = new Date();
     const year = now.getUTCFullYear();
@@ -55,15 +78,12 @@ export default function App() {
   };
 
   const saveGameState = () => {
-    if (!gameId || !puzzleId) return;
+    const engine = engineRef.current;
+    if (!engine || !puzzleId) return;
 
     const gameState = {
       puzzleId,
-      gameId,
-      startActor: start,
-      targetActor: target,
-      path,
-      state,
+      engineData: engine.serialize(),
       elapsedSeconds: calculateElapsedSeconds(),
       lastSaved: new Date().toISOString()
     };
@@ -83,9 +103,7 @@ export default function App() {
       const gameState = JSON.parse(saved);
       const currentPuzzleId = getCurrentPuzzleId();
 
-      // Validate puzzle ID matches today
       if (gameState.puzzleId !== currentPuzzleId) {
-        console.log("Saved game is from different day, clearing...");
         localStorage.removeItem('cinelinks-game-state');
         return null;
       }
@@ -102,69 +120,65 @@ export default function App() {
     localStorage.removeItem('cinelinks-game-state');
   };
 
-  const hydrateGameState = (savedState) => {
-    console.log("Hydrating game from saved state:", savedState);
+  // Load metadata (actors + movies) and build search index
+  const loadMetadata = async () => {
+    const [actorsData, moviesData] = await Promise.all([
+      api.getActorsMetadata(),
+      api.getMoviesMetadata()
+    ]);
 
-    setPuzzleId(savedState.puzzleId);
-    setGameId(savedState.gameId);
-    setStart(savedState.startActor);
-    setTarget(savedState.targetActor);
-    setPath(savedState.path);
-    setState(savedState.state);
-    setElapsedSeconds(savedState.elapsedSeconds || 0);
-    setTimerStartTime(Date.now());
+    actorsMetaRef.current = actorsData.actors || actorsData;
+    moviesMetaRef.current = moviesData.movies || moviesData;
+
+    searchIndexRef.current.loadActors(actorsData, TMDB_IMAGE_BASE);
+    searchIndexRef.current.loadMovies(moviesData, TMDB_IMAGE_BASE);
+
+    setMetadataLoaded(true);
+    return { actorsMeta: actorsMetaRef.current, moviesMeta: moviesMetaRef.current };
   };
 
+  // Start a new daily puzzle (client-side engine, no server session)
   const startDailyPuzzle = async () => {
     setLoading(true);
     setMessage("");
     setMessageType("");
     setPath(null);
-    setOptimalPath(null);
-    setShowOptimalPath(false);
+    setOptimalPaths(null);
     setState(null);
     setMovie(null);
     setActor("");
+    setSelectedActorId(null);
     setElapsedSeconds(0);
     setTimerStartTime(null);
+    setGameReady(false);
 
     try {
-      // Get today's daily puzzle actors
-      const dailyRes = await fetch(`${API}/api/daily-pair`);
-      if (!dailyRes.ok) {
-        const error = await dailyRes.json();
-        throw new Error(error.message || "Failed to get daily puzzle");
+      // Ensure metadata is loaded
+      let actorsMeta = actorsMetaRef.current;
+      let moviesMeta = moviesMetaRef.current;
+      if (!actorsMeta || !moviesMeta) {
+        const meta = await loadMetadata();
+        actorsMeta = meta.actorsMeta;
+        moviesMeta = meta.moviesMeta;
       }
-      const dailyData = await dailyRes.json();
 
-      setPuzzleId(dailyData.puzzleId);
+      // Get today's puzzle
+      const puzzleData = await api.getPuzzle();
+      setPuzzleId(puzzleData.date);
 
-      // Create game session with daily puzzle actors
-      const gameRes = await fetch(`${API}/api/game`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          startActorId: dailyData.startActor.id,
-          targetActorId: dailyData.targetActor.id
-        })
-      });
-      if (!gameRes.ok) {
-        const error = await gameRes.json();
-        throw new Error(error.message || "Failed to start game");
-      }
-      const gameData = await gameRes.json();
+      // Create client-side game engine
+      const engine = new GameEngine(
+        puzzleData.startActorId,
+        puzzleData.endActorId,
+        actorsMeta,
+        moviesMeta,
+        TMDB_IMAGE_BASE
+      );
+      engineRef.current = engine;
 
-      // Set game state from response
-      setGameId(gameData.gameId);
-      setStart(gameData.startActor);
-      setTarget(gameData.targetActor);
-      setPath({
-        startActor: gameData.startActor,
-        targetActor: gameData.targetActor,
-        segments: []
-      });
-
-      // Start timer
+      // Sync UI state from engine
+      syncFromEngine();
+      setGameReady(true);
       setTimerStartTime(Date.now());
 
       // Save initial state
@@ -178,157 +192,113 @@ export default function App() {
     }
   };
 
+  // Hydrate engine from saved localStorage state
+  const hydrateFromSaved = (savedState, actorsMeta, moviesMeta) => {
+    const engine = GameEngine.deserialize(
+      savedState.engineData,
+      actorsMeta,
+      moviesMeta,
+      TMDB_IMAGE_BASE
+    );
+    engineRef.current = engine;
+    setPuzzleId(savedState.puzzleId);
+    setElapsedSeconds(savedState.elapsedSeconds || 0);
+    setTimerStartTime(Date.now());
+    syncFromEngine();
+    setGameReady(true);
+  };
+
+  // Initialize app
   useEffect(() => {
-    checkHealth();
+    const init = async () => {
+      // Health check (non-blocking)
+      api.checkHealth().then(data => setHealthStatus(data)).catch(() => setHealthStatus({ ok: false }));
 
-    // Check if user has seen onboarding before
-    const hasSeenOnboarding = localStorage.getItem('cinelinks-onboarding-seen');
-    if (!hasSeenOnboarding) {
-      setIsReopenedTutorial(false);
-      setShowOnboarding(true);
-    } else {
-      // Try to load saved game state
-      const savedState = loadGameState();
-
-      if (savedState) {
-        // Hydrate from saved state
-        hydrateGameState(savedState);
-      } else {
-        // Start new daily puzzle
-        startDailyPuzzle();
+      const hasSeenOnboarding = localStorage.getItem('cinelinks-onboarding-seen');
+      if (!hasSeenOnboarding) {
+        setIsReopenedTutorial(false);
+        setShowOnboarding(true);
+        // Still load metadata in background while onboarding shows
+        loadMetadata().catch(() => {});
+        return;
       }
-    }
+
+      // Load metadata first
+      setLoading(true);
+      try {
+        const { actorsMeta, moviesMeta } = await loadMetadata();
+
+        // Try to restore saved game
+        const savedState = loadGameState();
+        if (savedState && savedState.engineData) {
+          hydrateFromSaved(savedState, actorsMeta, moviesMeta);
+          setLoading(false);
+        } else {
+          setLoading(false);
+          startDailyPuzzle();
+        }
+      } catch (err) {
+        setLoading(false);
+        setMessage("Failed to load game data. Please refresh.");
+        setMessageType("error");
+      }
+    };
+
+    init();
   }, []);
 
-  const checkHealth = async () => {
-    try {
-      const res = await fetch(`${API}/health`);
-      const data = await res.json();
-      setHealthStatus(data);
-    } catch (err) {
-      setHealthStatus({ ok: false, ready: false });
-      console.error("Health check failed:", err);
-    }
-  };
+  const handleSwapActors = () => {
+    const engine = engineRef.current;
+    if (!engine || loading) return;
 
-  const handleSwapActors = async () => {
-    if (!gameId || loading) return;
-
-    // Frontend validation: prevent swap if moves have been made
-    if (state && state.totalGuesses > 0) {
+    if (engine.getState().totalGuesses > 0) {
       setMessage("Cannot swap actors after making a move");
       setMessageType("error");
-      setTimeout(() => {
-        setMessage("");
-        setMessageType("");
-      }, 3000);
+      setTimeout(() => { setMessage(""); setMessageType(""); }, 3000);
       return;
     }
 
-    setLoading(true);
-    setMessage("");
-    setMessageType("");
-
-    try {
-      const res = await fetch(`${API}/api/game/${gameId}/swap-actors`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" }
-      });
-
-      if (!res.ok) {
-        const error = await res.json();
-        throw new Error(error.detail || error.message || "Failed to swap actors");
-      }
-
-      const data = await res.json();
-
-      // Update state with swapped actors
-      setStart(data.startActor);
-      setTarget(data.targetActor);
-      setPath(data.path);
-
-      // Save updated state to localStorage
+    const swapped = engine.swap();
+    if (swapped) {
+      syncFromEngine();
       setTimeout(() => saveGameState(), 100);
-
-    } catch (err) {
-      setMessage(err.message || "Failed to swap actors");
-      setMessageType("error");
-      setTimeout(() => {
-        setMessage("");
-        setMessageType("");
-      }, 3000);
-    } finally {
-      setLoading(false);
     }
   };
 
-  const handleGiveUp = async () => {
-    if (!gameId || loading) return;
+  const handleGiveUp = () => {
+    if (!engineRef.current || loading) return;
+    setShowGiveUpModal(true);
+  };
 
-    // Confirm before giving up
-    if (!window.confirm("Are you sure you want to give up? This will count as a loss and show you the solution.")) {
-      return;
-    }
+  const confirmGiveUp = async () => {
+    setShowGiveUpModal(false);
 
-    setLoading(true);
-    setMessage("");
-    setMessageType("");
+    const engine = engineRef.current;
+    if (!engine) return;
 
-    try {
-      const res = await fetch(`${API}/api/game/${gameId}/give-up`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" }
-      });
+    engine.giveUp();
+    syncFromEngine();
 
-      if (!res.ok) {
-        const error = await res.json();
-        throw new Error(error.detail || error.message || "Failed to give up");
-      }
+    // Stop timer
+    setElapsedSeconds(calculateElapsedSeconds());
+    setTimerStartTime(null);
 
-      const data = await res.json();
+    // Clear saved state
+    clearGameState();
 
-      // Update state with gave-up status
-      setState({
-        ...state,
-        completed: true,
-        gaveUp: true,
-        incorrectGuesses: 3,
-        remainingAttempts: 0
-      });
-
-      // Stop timer
-      setElapsedSeconds(calculateElapsedSeconds());
-      setTimerStartTime(null);
-
-      // Clear game state from localStorage (daily puzzle is over)
-      clearGameState();
-
-      // Show message
-      setMessage("You gave up. Here's the optimal solution:");
-      setMessageType("error");
-
-      // Automatically fetch and show optimal path
-      setTimeout(() => {
-        fetchOptimalPath();
-      }, 500);
-
-    } catch (err) {
-      setMessage(err.message || "Failed to give up");
-      setMessageType("error");
-    } finally {
-      setLoading(false);
-    }
+    // Fetch and show optimal paths
+    setTimeout(() => fetchOptimalPaths(), 500);
   };
 
   const openGuessModal = (mode) => {
-    setGuessMode(mode); // 'movie' or 'actor'
+    setGuessMode(mode);
     setShowGuessModal(true);
-    // Clear previous selections
     if (mode === 'movie') {
       setMovie(null);
       setShowMovieSug(false);
     } else {
       setActor('');
+      setSelectedActorId(null);
       setShowActorSug(false);
     }
     setMessage('');
@@ -338,188 +308,177 @@ export default function App() {
   const submitGuess = async (e) => {
     if (e) e.preventDefault();
 
-    // Validate based on guess mode
-    if (!gameId) return;
-    if (guessMode === 'movie' && (!movie || typeof movie !== 'object' || !movie.movie_id)) {
-      setMessage("Please select a movie from the autocomplete suggestions.");
-      setMessageType("error");
-      return;
-    }
-    if (guessMode === 'actor' && !actor) return;
+    const engine = engineRef.current;
+    if (!engine) return;
 
-    setLoading(true);
-    setMessage("");
-    setMessageType("");
-
-    try {
-      // Build payload based on guess mode
-      const payload = guessMode === 'movie'
-        ? { movieId: movie.movie_id, actorName: null }
-        : { movieId: null, actorName: actor };
-
-      const res = await fetch(`${API}/api/game/${gameId}/guess`, {
-        method: "POST",
-        headers: { "Content-Type": "application/json" },
-        body: JSON.stringify(payload),
-      });
-
-      // Handle 404 - game doesn't exist (backend restarted)
-      if (res.status === 404) {
-        localStorage.removeItem('cinelinks-game-state');
-        setMessage("Game session expired. Starting new game...");
+    if (guessMode === 'movie') {
+      // Movie guess
+      if (!movie || typeof movie !== 'object' || !movie.movie_id) {
+        setMessage("Please select a movie from the autocomplete suggestions.");
         setMessageType("error");
-        setShowGuessModal(false);
-        // Clear all game state and start fresh
-        setGameId(null);
-        setPath(null);
-        setState(null);
-        setTimeout(() => window.location.reload(), 1500);
         return;
       }
 
-      const data = await res.json();
+      setLoading(true);
+      setMessage("");
+      setMessageType("");
 
-      if (data.success) {
-        // Update path and state
-        console.log('[DEBUG] Guess response - path:', data.path);
-        console.log('[DEBUG] pendingMovie:', data.path?.pendingMovie);
-        setPath(data.path);
-        setState(data.state);
+      try {
+        // Fetch neighbors for current actor
+        const neighborsData = await api.getNeighbors(engine.getCurrentActorId());
+        const result = engine.guessMovie(movie.movie_id, neighborsData);
 
-        // Save updated state to localStorage
-        setTimeout(() => saveGameState(), 100);
+        if (result.success) {
+          syncFromEngine();
+          setTimeout(() => saveGameState(), 100);
 
-        // Close modal on success
-        setShowGuessModal(false);
-        setMessage('');
-        setMessageType('');
-
-        // Reset inputs
-        setMovie(null);
-        setActor('');
-
-        // Show success message only on win
-        if (data.state && data.state.completed) {
-          setMessage("🎉 You won!");
-          setMessageType("success");
-
-          // Stop timer (keep completed state per plan)
-          setElapsedSeconds(calculateElapsedSeconds());
-          setTimerStartTime(null);
+          // Close modal, switch to actor mode
+          setShowGuessModal(false);
+          setMessage('');
+          setMessageType('');
+          setMovie(null);
+        } else {
+          setMessage(result.message);
+          setMessageType('error');
         }
-      } else {
-        // Show error in modal, keep it open
-        setMessage(data.message || 'Incorrect guess. Try again!');
-        setMessageType('error');
-        // Stay on same empty box - don't close modal
+      } catch (err) {
+        setMessage(err.message || "Network error. Please retry.");
+        setMessageType("error");
+      } finally {
+        setLoading(false);
+      }
+
+    } else {
+      // Actor guess
+      if (!selectedActorId) {
+        setMessage("Please select an actor from the autocomplete suggestions.");
+        setMessageType("error");
+        return;
+      }
+
+      setLoading(true);
+      setMessage("");
+      setMessageType("");
+
+      try {
+        const result = engine.guessActor(selectedActorId);
+
+        if (result.success) {
+          syncFromEngine();
+          setTimeout(() => saveGameState(), 100);
+
+          setShowGuessModal(false);
+          setMessage('');
+          setMessageType('');
+          setActor('');
+          setSelectedActorId(null);
+
+          if (result.completed) {
+            setMessage("You won!");
+            setMessageType("success");
+
+            // Stop timer
+            setElapsedSeconds(calculateElapsedSeconds());
+            setTimerStartTime(null);
+
+            // Clear saved state on win
+            clearGameState();
+
+            // Fetch optimal paths on win
+            setTimeout(() => fetchOptimalPaths(), 1000);
+          }
+        } else {
+          setMessage(result.message);
+          setMessageType('error');
+        }
+      } catch (err) {
+        setMessage(err.message || "Error validating guess.");
+        setMessageType("error");
+      } finally {
+        setLoading(false);
+      }
+    }
+  };
+
+  const fetchOptimalPaths = async () => {
+    try {
+      const revealData = await api.getReveal();
+      const engine = engineRef.current;
+      if (!revealData || !engine) return;
+
+      // Transform reveal data into PathsModal format
+      const paths = [];
+
+      if (revealData.bestPath) {
+        const { actors: actorIds, movies: movieIds } = revealData.bestPath;
+        const segments = [];
+
+        for (let i = 0; i < movieIds.length; i++) {
+          segments.push({
+            movie: engine.resolveMovie(movieIds[i]),
+            actor: engine.resolveActor(actorIds[i + 1])
+          });
+        }
+
+        paths.push({
+          startActor: engine.resolveActor(actorIds[0]),
+          segments
+        });
+      }
+
+      if (paths.length > 0) {
+        setOptimalPaths(paths);
+        setShowPathsModal(true);
       }
     } catch (err) {
-      setMessage(err.message || "Network error. Please retry.");
-      setMessageType("error");
-    } finally {
-      setLoading(false);
-    }
-  };
-
-  const fetchOptimalPath = async () => {
-    try {
-      const res = await fetch(`${API}/api/game/${gameId}/optimal-path`);
-      const data = await res.json();
-      if (!res.ok) throw new Error(data.message || "Failed to fetch optimal path");
-      setOptimalPath(data);
-      setShowOptimalPath(!showOptimalPath);
-    } catch (err) {
-      setMessage(err.message || "Failed to fetch optimal path");
+      console.error("Error fetching optimal paths:", err);
+      setMessage("Failed to load optimal paths.");
       setMessageType("error");
     }
   };
 
-  const fetchActorSuggestions = async (text) => {
-    if (!text) {
-      setActorSuggestions([]);
-      return;
-    }
-    try {
-      if (sugAbort.current) sugAbort.current.abort();
-      sugAbort.current = new AbortController();
-      const res = await fetch(
-        `${API}/autocomplete/actors?q=${encodeURIComponent(text)}&limit=10`,
-        { signal: sugAbort.current.signal }
-      );
-      if (!res.ok) return;
-      const data = await res.json();
-      setActorSuggestions(data.results || []);
-      setShowActorSug(true);
-    } catch {}
-  };
-
+  // Client-side autocomplete for actors
   useEffect(() => {
-    // Only fetch if actor has text AND popup is open (not just closed by selection)
     if (actor && actor.trim() && showActorSug) {
-      const t = setTimeout(() => fetchActorSuggestions(actor), 150);
-      return () => clearTimeout(t);
+      const results = searchIndexRef.current.searchActors(actor, 10);
+      setActorSuggestions(results);
     } else if (!actor || !actor.trim()) {
       setActorSuggestions([]);
     }
   }, [actor, showActorSug]);
 
-  const fetchMovieSuggestions = async (text) => {
-    if (!text) {
-      setMovieSuggestions([]);
-      return;
-    }
-    try {
-      if (movieSugAbort.current) movieSugAbort.current.abort();
-      movieSugAbort.current = new AbortController();
-      const res = await fetch(
-        `${API}/autocomplete/movies?q=${encodeURIComponent(text)}&limit=10`,
-        { signal: movieSugAbort.current.signal }
-      );
-      if (!res.ok) return;
-      const data = await res.json();
-      setMovieSuggestions(data.results || []);
-      setShowMovieSug(true);
-    } catch {}
-  };
-
+  // Client-side autocomplete for movies
   useEffect(() => {
-    // Only fetch if movie is a string (user typing), not object (already selected)
     if (typeof movie === 'string' && movie.trim()) {
-      const t = setTimeout(() => fetchMovieSuggestions(movie), 150);
-      return () => clearTimeout(t);
-    } else if (movie === null || (typeof movie === 'object' && movie.movie_id !== null)) {
-      // Clear suggestions if nothing selected or movie already selected
+      const results = searchIndexRef.current.searchMovies(movie, 10);
+      setMovieSuggestions(results);
+      setShowMovieSug(true);
+    } else {
       setMovieSuggestions([]);
     }
   }, [movie]);
 
   // Auto-save game state every 10 seconds
   useEffect(() => {
-    if (!gameId || !puzzleId) return;
+    if (!gameReady || !puzzleId) return;
 
     const interval = setInterval(() => {
       saveGameState();
-    }, 10000); // Save every 10 seconds
+    }, 10000);
 
     return () => clearInterval(interval);
-  }, [gameId, puzzleId, path, state, elapsedSeconds, timerStartTime]);
+  }, [gameReady, puzzleId, path, state, elapsedSeconds, timerStartTime]);
 
-  const handleStartGame = () => {
+  const handleStartGame = async () => {
     localStorage.setItem('cinelinks-onboarding-seen', 'true');
     setShowOnboarding(false);
     startDailyPuzzle();
   };
 
-  const handleViewTutorial = () => {
-    // Tutorial will be shown in the modal carousel
-    // Just mark as seen when they close it
-    localStorage.setItem('cinelinks-onboarding-seen', 'true');
-  };
-
   const handleCloseOnboarding = () => {
     localStorage.setItem('cinelinks-onboarding-seen', 'true');
     setShowOnboarding(false);
-    if (!gameId) {
+    if (!gameReady) {
       startDailyPuzzle();
     }
   };
@@ -535,102 +494,58 @@ export default function App() {
       backgroundColor: '#ffffff',
       display: 'flex',
       justifyContent: 'center',
-      fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
     }}>
       <div style={{ width: '100%', maxWidth: '1000px' }}>
-        {/* Header - Centered with Help Icon */}
-        <div className="header-container" style={{ textAlign: 'center', position: 'relative' }}>
-          <h1 className="game-title" style={{
-            fontWeight: '300',
-            color: '#111827',
-            letterSpacing: '-0.02em'
-          }}>
-            CineLinks{' '}
-            <span className="beta-badge">BETA</span>
-          </h1>
-          <button
-            onClick={handleReopenOnboarding}
-            className="help-icon-button"
-            style={{
-              position: 'absolute',
-              top: '16px',
-              right: '16px',
-              width: '40px',
-              height: '40px',
-              borderRadius: '50%',
-              border: '2px solid #e5e7eb',
-              backgroundColor: '#ffffff',
-              color: '#6b7280',
-              fontSize: '20px',
-              fontWeight: '600',
-              cursor: 'pointer',
-              display: 'flex',
-              alignItems: 'center',
-              justifyContent: 'center',
-              transition: 'all 0.2s',
-              padding: 0
-            }}
-            onMouseEnter={(e) => {
-              e.target.style.backgroundColor = '#f9fafb';
-              e.target.style.borderColor = '#111827';
-              e.target.style.color = '#111827';
-            }}
-            onMouseLeave={(e) => {
-              e.target.style.backgroundColor = '#ffffff';
-              e.target.style.borderColor = '#e5e7eb';
-              e.target.style.color = '#6b7280';
-            }}
-            title="How to Play"
-          >
-            ?
-          </button>
-          {healthStatus && !healthStatus.ready && (
-            <p style={{ color: '#d97706', fontSize: '14px', marginTop: '16px' }}>
-              Graph loading... please wait
-            </p>
-          )}
-        </div>
-
         {/* Main Container - Clean without border */}
         <div style={{
           backgroundColor: '#ffffff',
           overflow: 'hidden'
         }}>
           <div className="main-container-padding">
-            {loading && !gameId ? (
-              <div style={{
-                display: 'flex',
-                flexDirection: 'column',
-                alignItems: 'center',
-                justifyContent: 'center',
-                paddingTop: '60px',
-                paddingBottom: '60px'
+            {/* Header */}
+            <div className="header-container" style={{ textAlign: 'center' }}>
+              <h1 className="game-title" style={{
+                fontWeight: '700',
+                color: '#111827',
+                letterSpacing: '-0.5px',
+                lineHeight: '1.1',
+                position: 'relative',
+                display: 'inline-block'
               }}>
-                <p style={{
-                  color: '#6b7280',
-                  fontSize: '18px',
-                  fontWeight: '300'
-                }}>
-                  Starting game...
+                MOVIE LINKS
+                <span style={{
+                  position: 'absolute',
+                  left: '100%',
+                  top: '0.15em',
+                  fontWeight: '600',
+                  fontSize: '14px',
+                  marginLeft: '8px',
+                  letterSpacing: '0.05em',
+                  whiteSpace: 'nowrap'
+                }}>BETA</span>
+              </h1>
+              {healthStatus && !healthStatus.ok && (
+                <p style={{ color: '#d97706', fontSize: '14px', marginTop: '16px' }}>
+                  Server unavailable... please wait
                 </p>
-              </div>
-            ) : gameId ? (
+              )}
+            </div>
+            {loading && !gameReady ? (
+              <GameLoadingSkeleton />
+            ) : gameReady ? (
               <div className="main-sections-container" style={{ display: 'flex', flexDirection: 'column', position: 'relative' }}>
-                {/* Actor Display and Stats Container */}
+                {/* Actor Display Container */}
                 <div style={{
                   display: 'flex',
-                  alignItems: 'flex-start',
-                  justifyContent: 'center',
-                  gap: '48px',
-                  flexWrap: 'wrap'
+                  flexDirection: 'column',
+                  alignItems: 'center'
                 }}>
-                  {/* Actor Display - Side by Side */}
+                  {/* Actor Names - Side by Side */}
                   <div className="actor-display-container" style={{
-                    display: 'flex',
+                    display: 'inline-grid',
+                    gridTemplateColumns: '1fr auto 1fr',
                     alignItems: 'center',
-                    justifyContent: 'center',
-                    gap: '32px',
-                    flexWrap: 'wrap'
+                    gap: '32px'
                   }}>
                     <ActorCard actor={start} />
                     {(!state || state.totalGuesses === 0) ? (
@@ -668,58 +583,103 @@ export default function App() {
                     <ActorCard actor={target} />
                   </div>
 
-                  {/* Game Stats and Give Up - Right side */}
-                  <div style={{
-                    display: 'block',
-                    textAlign: 'center'
-                  }}>
-                    {/* Connections Counter */}
-                    {state && (
-                      <div style={{
-                        marginBottom: '16px'
-                      }}>
-                        <div className="game-stats-number" style={{ fontWeight: '300', color: '#111827' }}>
-                          {state.moves_taken || 0}
-                        </div>
-                        <div style={{ fontSize: '14px', color: '#6b7280', marginTop: '4px', fontWeight: '300' }}>
-                          Connections
-                        </div>
-                      </div>
-                    )}
+                  {/* Connections Counter */}
+                  {state && state.moves_taken > 0 && (
+                    <div style={{ textAlign: 'center', marginTop: '16px' }}>
+                      <span className="game-stats-number" style={{ fontWeight: '300', color: '#111827' }}>
+                        {state.moves_taken}
+                      </span>
+                      <span style={{ fontSize: '14px', color: '#6b7280', marginLeft: '8px', fontWeight: '300' }}>
+                        {state.moves_taken === 1 ? 'Connection' : 'Connections'}
+                      </span>
+                    </div>
+                  )}
 
-                    {/* Give Up Button */}
-                    {!state?.completed && (
+                  {/* Give Up + Rules Buttons */}
+                  {(!state?.completed || state?.gaveUp) && (
+                    <div style={{
+                      display: 'flex',
+                      justifyContent: 'center',
+                      gap: '12px',
+                      marginTop: '24px',
+                      alignSelf: 'stretch'
+                    }}>
+                      {state?.gaveUp ? (
+                        <button
+                          onClick={startDailyPuzzle}
+                          style={{
+                            padding: '8px 16px',
+                            backgroundColor: 'transparent',
+                            color: '#111827',
+                            fontWeight: '600',
+                            fontSize: '14px',
+                            border: '1px solid #E5E7EB',
+                            borderRadius: '8px',
+                            cursor: 'pointer',
+                            transition: 'all 0.2s',
+                            fontFamily: 'inherit'
+                          }}
+                          onMouseEnter={(e) => {
+                            e.target.style.backgroundColor = '#F3F4F6';
+                          }}
+                          onMouseLeave={(e) => {
+                            e.target.style.backgroundColor = 'transparent';
+                          }}
+                        >
+                          New Game
+                        </button>
+                      ) : (
+                        <button
+                          onClick={handleGiveUp}
+                          disabled={loading}
+                          style={{
+                            padding: '8px 16px',
+                            backgroundColor: 'transparent',
+                            color: '#111827',
+                            fontWeight: '600',
+                            fontSize: '14px',
+                            border: '1px solid #E5E7EB',
+                            borderRadius: '8px',
+                            cursor: loading ? 'not-allowed' : 'pointer',
+                            opacity: loading ? 0.3 : 1,
+                            transition: 'all 0.2s',
+                            fontFamily: 'inherit'
+                          }}
+                          onMouseEnter={(e) => {
+                            if (!loading) e.target.style.backgroundColor = '#F3F4F6';
+                          }}
+                          onMouseLeave={(e) => {
+                            e.target.style.backgroundColor = 'transparent';
+                          }}
+                        >
+                          Give Up
+                        </button>
+                      )}
                       <button
-                        onClick={handleGiveUp}
-                        disabled={loading}
-                        className="give-up-button"
+                        onClick={handleReopenOnboarding}
                         style={{
                           padding: '8px 16px',
                           backgroundColor: 'transparent',
                           color: '#111827',
-                          fontWeight: '300',
+                          fontWeight: '600',
                           fontSize: '14px',
-                          border: '1px solid #111827',
+                          border: '1px solid #E5E7EB',
                           borderRadius: '8px',
-                          cursor: loading ? 'not-allowed' : 'pointer',
-                          opacity: loading ? 0.3 : 1,
+                          cursor: 'pointer',
                           transition: 'all 0.2s',
-                          display: 'block',
-                          margin: '0 auto'
+                          fontFamily: 'inherit'
                         }}
                         onMouseEnter={(e) => {
-                          if (!loading) {
-                            e.target.style.backgroundColor = '#f9fafb';
-                          }
+                          e.target.style.backgroundColor = '#F3F4F6';
                         }}
                         onMouseLeave={(e) => {
                           e.target.style.backgroundColor = 'transparent';
                         }}
                       >
-                        Give Up?
+                        Rules
                       </button>
-                    )}
-                  </div>
+                    </div>
+                  )}
                 </div>
 
                 {/* Message - Centered */}
@@ -742,22 +702,22 @@ export default function App() {
                 )}
 
                 {/* Path Visualization - Always show with interactive empty nodes */}
-                {!state?.completed && start && (
-                  <div style={{ marginTop: '16px' }}>
+                {(!state?.completed || state?.gaveUp) && start && (
+                  <div>
                     <PathVisualization
                       path={path}
                       start={start}
-                      onEmptyNodeClick={openGuessModal}
+                      onEmptyNodeClick={state?.gaveUp ? null : openGuessModal}
                       isOptimal={false}
                     />
                   </div>
                 )}
 
-                {/* Win state - Show controls to view optimal path */}
-                {state?.completed && state?.incorrectGuesses < 3 && !state?.gaveUp && (
+                {/* Win state - Show controls to view optimal paths */}
+                {state?.completed && !state?.gaveUp && (
                   <div style={{ textAlign: 'center', marginTop: '32px', display: 'flex', gap: '16px', justifyContent: 'center', flexWrap: 'wrap' }}>
                     <button
-                      onClick={fetchOptimalPath}
+                      onClick={fetchOptimalPaths}
                       style={{
                         padding: '16px 32px',
                         backgroundColor: '#10b981',
@@ -776,7 +736,7 @@ export default function App() {
                         e.target.style.backgroundColor = '#10b981';
                       }}
                     >
-                      {showOptimalPath ? 'Hide Optimal Path' : 'Show Optimal Path'}
+                      View Solutions
                     </button>
 
                     <button
@@ -804,134 +764,11 @@ export default function App() {
                   </div>
                 )}
 
-                {/* Loss by incorrect attempts */}
-                {state?.completed && state?.incorrectGuesses >= 3 && !state?.gaveUp && (
-                  <div>
-                    <div style={{
-                      textAlign: 'center',
-                      padding: '20px',
-                      backgroundColor: '#fef2f2',
-                      borderRadius: '16px',
-                      marginTop: '32px',
-                      border: '1px solid #fecaca'
-                    }}>
-                      <p style={{ fontSize: '18px', fontWeight: '500', color: '#991b1b', marginBottom: '16px' }}>
-                        Game Over - You ran out of attempts
-                      </p>
-                      <button
-                        onClick={fetchOptimalPath}
-                        style={{
-                          padding: '12px 24px',
-                          backgroundColor: '#10b981',
-                          color: '#ffffff',
-                          borderRadius: '12px',
-                          border: 'none',
-                          cursor: 'pointer',
-                          fontSize: '16px',
-                          fontWeight: '500',
-                          transition: 'all 0.2s'
-                        }}
-                        onMouseEnter={(e) => {
-                          e.target.style.backgroundColor = '#059669';
-                        }}
-                        onMouseLeave={(e) => {
-                          e.target.style.backgroundColor = '#10b981';
-                        }}
-                      >
-                        {showOptimalPath ? 'Hide Optimal Path' : 'Show Optimal Path'}
-                      </button>
-                    </div>
-                    <div style={{ textAlign: 'center', paddingTop: '16px' }}>
-                      <button
-                        onClick={startDailyPuzzle}
-                        style={{
-                          padding: '16px 48px',
-                          backgroundColor: '#111827',
-                          color: '#ffffff',
-                          fontWeight: '300',
-                          borderRadius: '9999px',
-                          border: 'none',
-                          cursor: 'pointer',
-                          fontSize: '18px',
-                          transition: 'all 0.2s'
-                        }}
-                        onMouseEnter={(e) => {
-                          e.target.style.backgroundColor = '#1f2937';
-                        }}
-                        onMouseLeave={(e) => {
-                          e.target.style.backgroundColor = '#111827';
-                        }}
-                      >
-                        Start New Game
-                      </button>
-                    </div>
-                  </div>
-                )}
-
-                {/* Gave up - Show optimal path automatically */}
-                {state?.completed && state?.gaveUp && (
-                  <div>
-                    <div style={{
-                      textAlign: 'center',
-                      padding: '20px',
-                      backgroundColor: '#fff7ed',
-                      borderRadius: '16px',
-                      marginTop: '32px',
-                      border: '1px solid #fed7aa'
-                    }}>
-                      <p style={{ fontSize: '18px', fontWeight: '500', color: '#9a3412', marginBottom: '8px' }}>
-                        You gave up on this puzzle
-                      </p>
-                      <p style={{ fontSize: '14px', color: '#9a3412', fontWeight: '300' }}>
-                        Here's the optimal solution:
-                      </p>
-                    </div>
-                    <div style={{ textAlign: 'center', paddingTop: '16px' }}>
-                      <button
-                        onClick={startDailyPuzzle}
-                        style={{
-                          padding: '16px 48px',
-                          backgroundColor: '#111827',
-                          color: '#ffffff',
-                          fontWeight: '300',
-                          borderRadius: '9999px',
-                          border: 'none',
-                          cursor: 'pointer',
-                          fontSize: '18px',
-                          transition: 'all 0.2s'
-                        }}
-                        onMouseEnter={(e) => {
-                          e.target.style.backgroundColor = '#1f2937';
-                        }}
-                        onMouseLeave={(e) => {
-                          e.target.style.backgroundColor = '#111827';
-                        }}
-                      >
-                        Start New Game
-                      </button>
-                    </div>
-                  </div>
-                )}
-
-                {/* Optimal path comparison */}
-                {showOptimalPath && optimalPath && (
-                  <div style={{ marginTop: '60px', padding: '20px', backgroundColor: '#1f2937', borderRadius: '12px' }}>
-                    <h3 style={{ textAlign: 'center', color: '#f3f4f6', marginBottom: '20px' }}>
-                      Your Path: {path.segments.length} moves
-                    </h3>
-                    <PathVisualization path={path} isOptimal={false} />
-
-                    <h3 style={{ textAlign: 'center', color: '#10b981', marginTop: '40px', marginBottom: '20px' }}>
-                      Optimal Path: {optimalPath.segments.length} moves
-                    </h3>
-                    <PathVisualization path={optimalPath} isOptimal={true} />
-                  </div>
-                )}
               </div>
             ) : null}
 
             {/* Error message if game failed to load */}
-            {!loading && !gameId && message && (
+            {!loading && !gameReady && message && (
               <div style={{
                 textAlign: 'center',
                 padding: '60px 20px'
@@ -968,6 +805,37 @@ export default function App() {
           </div>
         </div>
 
+        {/* Give Up Confirmation Modal */}
+        {showGiveUpModal && (
+          <div
+            className="guess-modal-overlay"
+            onClick={() => setShowGiveUpModal(false)}
+          >
+            <div
+              className="give-up-modal-content"
+              onClick={(e) => e.stopPropagation()}
+            >
+              <p style={{ color: '#111827', fontSize: '16px', lineHeight: '1.5', marginBottom: '24px' }}>
+                Are you sure you want to give up?
+              </p>
+              <div style={{ display: 'flex', gap: '12px' }}>
+                <button
+                  className="give-up-cancel-btn"
+                  onClick={() => setShowGiveUpModal(false)}
+                >
+                  Cancel
+                </button>
+                <button
+                  className="give-up-confirm-btn"
+                  onClick={confirmGiveUp}
+                >
+                  Give Up
+                </button>
+              </div>
+            </div>
+          </div>
+        )}
+
         {/* Guess Input Modal */}
         {showGuessModal && (
           <div
@@ -995,6 +863,7 @@ export default function App() {
                       if (value) setShowMovieSug(true);
                     } else {
                       setActor(value);
+                      setSelectedActorId(null);
                       if (value) setShowActorSug(true);
                     }
                   }}
@@ -1040,6 +909,7 @@ export default function App() {
                     items={actorSuggestions}
                     onSelect={(item) => {
                       setActor(item.name);
+                      setSelectedActorId(item.id);
                       setShowActorSug(false);
                       setActorSuggestions([]);
                     }}
@@ -1051,7 +921,7 @@ export default function App() {
               {/* Submit button */}
               <button
                 onClick={submitGuess}
-                disabled={loading || (guessMode === 'movie' ? !movie : !actor)}
+                disabled={loading || (guessMode === 'movie' ? !movie : !selectedActorId)}
               >
                 {loading ? 'Checking...' : 'Submit Guess'}
               </button>
@@ -1068,9 +938,17 @@ export default function App() {
         {showOnboarding && (
           <OnboardingModal
             onStartGame={handleStartGame}
-            onViewTutorial={handleViewTutorial}
             onClose={handleCloseOnboarding}
             isReopen={isReopenedTutorial}
+          />
+        )}
+
+        {/* Optimal Paths Modal */}
+        {showPathsModal && optimalPaths && (
+          <PathsModal
+            paths={optimalPaths}
+            onClose={() => setShowPathsModal(false)}
+            isWin={state?.completed && !state?.gaveUp}
           />
         )}
       </div>
@@ -1100,7 +978,7 @@ function PathVisualization({ path, start, onEmptyNodeClick, isOptimal = false })
       <div style={{
         display: 'flex',
         alignItems: 'center',
-        justifyContent: 'flex-start',
+        justifyContent: isOptimal ? 'center' : 'flex-start',
         gap: '0',
         minWidth: 'fit-content',
         position: 'relative'
@@ -1261,22 +1139,71 @@ function EmptyActorNode({ onClick }) {
 }
 
 function ActorNodeInPath({ actor, index = 0 }) {
+  const [showFullName, setShowFullName] = useState(false);
+  const nodeRef = useRef(null);
+
+  useEffect(() => {
+    if (!showFullName) return;
+    const handleClickOutside = (e) => {
+      if (nodeRef.current && !nodeRef.current.contains(e.target)) {
+        setShowFullName(false);
+      }
+    };
+    document.addEventListener('pointerdown', handleClickOutside);
+    return () => document.removeEventListener('pointerdown', handleClickOutside);
+  }, [showFullName]);
+
   return (
-    <div style={{
+    <div ref={nodeRef} style={{
       display: 'flex',
       flexDirection: 'column',
       alignItems: 'center',
       gap: '8px',
-      animation: `slideIn 0.3s ease-out ${index * 0.1}s both`
+      animation: `slideIn 0.3s ease-out ${index * 0.1}s both`,
+      position: 'relative'
     }}>
+      {/* Full name popup */}
+      {showFullName && (
+        <div style={{
+          position: 'absolute',
+          bottom: '100%',
+          left: '50%',
+          transform: 'translateX(-50%)',
+          marginBottom: '4px',
+          backgroundColor: '#111827',
+          color: 'white',
+          padding: '6px 12px',
+          borderRadius: '6px',
+          fontSize: '13px',
+          fontWeight: '500',
+          whiteSpace: 'nowrap',
+          zIndex: 10,
+          boxShadow: '0 2px 8px rgba(0,0,0,0.2)',
+          pointerEvents: 'none'
+        }}>
+          {actor.name}
+        </div>
+      )}
+
       {/* Actor Image */}
-      <div className="path-actor-node" style={{
-        borderRadius: '50%',
-        overflow: 'hidden',
-        border: '3px solid #1f2937',
-        boxShadow: '0 4px 6px rgba(0,0,0,0.2)',
-        backgroundColor: '#374151'
-      }}>
+      <div
+        className="path-actor-node"
+        onClick={() => setShowFullName(v => !v)}
+        onMouseEnter={() => {
+          // Prefetch neighbors on hover for faster subsequent navigation
+          if (actor.id) {
+            prefetchNeighbors(actor.id);
+          }
+        }}
+        style={{
+          borderRadius: '50%',
+          overflow: 'hidden',
+          border: '3px solid #1f2937',
+          boxShadow: '0 4px 6px rgba(0,0,0,0.2)',
+          backgroundColor: '#374151',
+          cursor: 'pointer'
+        }}
+      >
         {actor.imageUrl ? (
           <img
             src={actor.imageUrl}
@@ -1321,7 +1248,7 @@ function ActorNodeInPath({ actor, index = 0 }) {
 function MovieSegment({ movie, index, isOptimal = false }) {
   // Alternate movies above (even index) and below (odd index) the center line
   const isAbove = index % 2 === 0;
-  const lineColor = isOptimal ? '#10b981' : '#6b7280';
+  const lineColor = '#6b7280';
 
   return (
     <div className="movie-segment" style={{
@@ -1365,8 +1292,8 @@ function MovieSegment({ movie, index, isOptimal = false }) {
             borderRadius: '8px',
             overflow: 'hidden',
             boxShadow: '0 4px 6px rgba(0,0,0,0.2)',
-            border: `2px solid ${isOptimal ? '#10b981' : '#374151'}`,
-            backgroundColor: '#1f2937'
+            border: '2px solid #e5e7eb',
+            backgroundColor: 'white'
           }}>
             {movie.posterUrl ? (
               <img
@@ -1385,8 +1312,8 @@ function MovieSegment({ movie, index, isOptimal = false }) {
                 display: 'flex',
                 alignItems: 'center',
                 justifyContent: 'center',
-                backgroundColor: '#374151',
-                color: '#9ca3af',
+                backgroundColor: '#f3f4f6',
+                color: '#6b7280',
                 fontSize: '12px',
                 padding: '8px',
                 textAlign: 'center'
@@ -1403,44 +1330,128 @@ function MovieSegment({ movie, index, isOptimal = false }) {
 
 
 function ActorCard({ actor }) {
-  // Support both old and new API formats (image and imageUrl)
+  const [showPopup, setShowPopup] = useState(false);
+  const popupRef = useRef(null);
   const imageUrl = actor?.imageUrl || actor?.image;
 
+  // Split name into first/last
+  const nameParts = actor?.name?.split(' ') || [];
+  const firstName = nameParts.slice(0, -1).join(' ') || nameParts[0] || '';
+  const lastName = nameParts.length > 1 ? nameParts[nameParts.length - 1] : '';
+
+  // Close on Esc
+  useEffect(() => {
+    if (!showPopup) return;
+    const handleEsc = (e) => {
+      if (e.key === 'Escape') setShowPopup(false);
+    };
+    document.addEventListener('keydown', handleEsc);
+    return () => document.removeEventListener('keydown', handleEsc);
+  }, [showPopup]);
+
+  // Close on click outside
+  useEffect(() => {
+    if (!showPopup) return;
+    const handleClickOutside = (e) => {
+      if (popupRef.current && !popupRef.current.contains(e.target)) {
+        setShowPopup(false);
+      }
+    };
+    document.addEventListener('mousedown', handleClickOutside);
+    return () => document.removeEventListener('mousedown', handleClickOutside);
+  }, [showPopup]);
+
   return (
-    <div className="actor-card" style={{
-      display: 'flex',
-      flexDirection: 'column',
-      alignItems: 'center',
-      gap: '16px',
-      backgroundColor: '#f9fafb',
-      borderRadius: '24px',
-      border: '1px solid #e5e7eb',
-      flexShrink: 0
-    }}>
-      {imageUrl && (
-        <img
-          src={imageUrl}
-          alt={actor?.name}
-          className="actor-card-image"
-          style={{
-            borderRadius: '16px',
-            objectFit: 'cover',
-            objectPosition: '50% 25%',
-            display: 'block',
-            border: '2px solid #e5e7eb',
-            boxShadow: '0 1px 3px 0 rgb(0 0 0 / 0.1)'
-          }}
-        />
-      )}
-      <span className="actor-card-name" style={{
-        fontWeight: '300',
-        color: '#111827',
-        textAlign: 'center',
-        fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
+    <>
+      <div className="actor-card" style={{
+        display: 'flex',
+        flexDirection: 'column',
+        alignItems: 'center',
+        border: '1px solid #e5e7eb',
+        borderRadius: '16px',
+        padding: '16px 24px',
+        backgroundColor: '#f9fafb'
       }}>
-        {actor?.name}
-      </span>
-    </div>
+        <button
+          onClick={() => setShowPopup(!showPopup)}
+          className="actor-card-name"
+          style={{
+            background: 'none',
+            border: 'none',
+            cursor: 'pointer',
+            padding: '8px',
+            minHeight: '44px',
+            minWidth: '44px',
+            fontWeight: '600',
+            color: '#111827',
+            textAlign: 'center',
+            lineHeight: '1.3',
+            fontFamily: 'inherit'
+          }}
+        >
+          <span style={{ display: 'block' }}>{firstName}</span>
+          {lastName && <span style={{ display: 'block', marginTop: '2px' }}>{lastName}</span>}
+        </button>
+      </div>
+
+      {/* Headshot popup */}
+      {showPopup && imageUrl && (
+        <div style={{
+          position: 'fixed',
+          top: 0,
+          left: 0,
+          right: 0,
+          bottom: 0,
+          backgroundColor: 'rgba(0, 0, 0, 0.3)',
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          zIndex: 1000
+        }}>
+          <div ref={popupRef} style={{
+            position: 'relative',
+            borderRadius: '16px',
+            overflow: 'hidden',
+            boxShadow: '0 4px 12px rgba(0,0,0,0.08)'
+          }}>
+            <button
+              onClick={() => setShowPopup(false)}
+              style={{
+                position: 'absolute',
+                top: '8px',
+                right: '8px',
+                width: '32px',
+                height: '32px',
+                borderRadius: '50%',
+                border: 'none',
+                backgroundColor: 'rgba(0, 0, 0, 0.4)',
+                color: '#ffffff',
+                fontSize: '18px',
+                cursor: 'pointer',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                zIndex: 1
+              }}
+            >
+              x
+            </button>
+            <img
+              src={imageUrl}
+              alt={actor?.name}
+              loading="lazy"
+              style={{
+                width: '220px',
+                height: '280px',
+                objectFit: 'cover',
+                objectPosition: '50% 25%',
+                display: 'block'
+              }}
+            />
+          </div>
+        </div>
+      )}
+    </>
   );
 }
 
@@ -1496,8 +1507,7 @@ function SuggestionBox({ items, onSelect, renderItem }) {
           <span style={{
             color: '#111827',
             fontSize: '16px',
-            fontWeight: '300',
-            fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
+            fontWeight: '300'
           }}>
             {renderItem(item)}
           </span>
@@ -1507,77 +1517,219 @@ function SuggestionBox({ items, onSelect, renderItem }) {
   );
 }
 
-function OnboardingModal({ onStartGame, onViewTutorial, onClose, isReopen = false }) {
-  const [showTutorial, setShowTutorial] = useState(isReopen);
-  const [currentCard, setCurrentCard] = useState(0);
-  const [touchStart, setTouchStart] = useState(null);
-  const [touchEnd, setTouchEnd] = useState(null);
+function PathsModal({ paths, onClose, isWin = false }) {
+  const [currentPathIndex, setCurrentPathIndex] = useState(0);
+  if (!paths || paths.length === 0) return null;
 
-  const tutorialCards = [
-    {
-      title: "1. Select a Movie",
-      description: "Choose a movie featuring the starting actor",
-      icon: "🎬"
-    },
-    {
-      title: "2. Pick an Actor",
-      description: "Select an actor who appeared in that movie",
-      icon: "⭐"
-    },
-    {
-      title: "3. Reach the Target",
-      description: "Repeat until you connect to the target actor",
-      icon: "🎯"
-    }
-  ];
+  const labels = ['Shortest Path', 'Alternative Path #1', 'Alternative Path #2'];
+  const path = paths[currentPathIndex];
+  const hasMultiple = paths.length > 1;
 
-  const handleViewTutorial = () => {
-    setShowTutorial(true);
-    onViewTutorial();
-  };
-
-  const handleNext = () => {
-    if (currentCard < tutorialCards.length - 1) {
-      setCurrentCard(currentCard + 1);
-    } else {
-      onClose();
-    }
-  };
-
-  const handlePrev = () => {
-    if (currentCard > 0) {
-      setCurrentCard(currentCard - 1);
-    }
-  };
-
-  // Touch handlers for swipe
-  const minSwipeDistance = 50;
-
-  const onTouchStart = (e) => {
-    setTouchEnd(null);
-    setTouchStart(e.targetTouches[0].clientX);
-  };
-
-  const onTouchMove = (e) => {
-    setTouchEnd(e.targetTouches[0].clientX);
-  };
-
-  const onTouchEnd = () => {
-    if (!touchStart || !touchEnd) return;
-    const distance = touchStart - touchEnd;
-    const isLeftSwipe = distance > minSwipeDistance;
-    const isRightSwipe = distance < -minSwipeDistance;
-    if (isLeftSwipe) {
-      handleNext();
-    }
-    if (isRightSwipe) {
-      handlePrev();
-    }
-  };
+  const arrowButtonStyle = (disabled) => ({
+    width: '40px',
+    height: '40px',
+    borderRadius: '50%',
+    border: '1px solid #e5e7eb',
+    backgroundColor: disabled ? '#f9fafb' : 'white',
+    color: disabled ? '#d1d5db' : '#374151',
+    fontSize: '20px',
+    cursor: disabled ? 'default' : 'pointer',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    flexShrink: 0,
+    transition: 'all 0.15s ease',
+    boxShadow: disabled ? 'none' : '0 1px 3px rgba(0,0,0,0.08)'
+  });
 
   return (
     <div
-      className="onboarding-backdrop"
+      style={{
+        position: 'fixed',
+        top: 0,
+        left: 0,
+        right: 0,
+        bottom: 0,
+        backgroundColor: 'rgba(0, 0, 0, 0.5)',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        zIndex: 1000,
+        padding: '20px',
+        overflow: 'auto'
+      }}
+      onClick={onClose}
+    >
+      <div
+        style={{
+          backgroundColor: 'white',
+          borderRadius: '16px',
+          maxWidth: '900px',
+          width: '100%',
+          maxHeight: '90vh',
+          overflow: 'auto',
+          padding: '32px',
+          position: 'relative',
+          boxShadow: '0 20px 25px -5px rgba(0,0,0,0.1), 0 8px 10px -6px rgba(0,0,0,0.1)'
+        }}
+        onClick={(e) => e.stopPropagation()}
+      >
+        {/* Close X button */}
+        <button
+          onClick={onClose}
+          style={{
+            position: 'absolute',
+            top: '16px',
+            right: '16px',
+            backgroundColor: 'transparent',
+            border: 'none',
+            color: '#6b7280',
+            fontSize: '28px',
+            cursor: 'pointer',
+            lineHeight: 1,
+            padding: '4px'
+          }}
+        >
+          ×
+        </button>
+
+        {/* Header */}
+        <div style={{ marginBottom: '24px', textAlign: 'center' }}>
+          <h2 style={{ fontSize: '28px', color: '#111827', marginBottom: '8px', fontWeight: '700' }}>
+            {isWin ? 'Congratulations!' : 'Shortest Paths'}
+          </h2>
+          <p style={{ fontSize: '16px', color: '#6b7280' }}>
+            {paths.length === 1
+              ? 'Here is 1 shortest path:'
+              : `Here are ${paths.length} diverse shortest paths:`}
+          </p>
+        </div>
+
+        {/* Path display area with arrows */}
+        <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
+          {/* Left arrow */}
+          {hasMultiple && (
+            <button
+              onClick={() => setCurrentPathIndex(i => Math.max(0, i - 1))}
+              disabled={currentPathIndex === 0}
+              style={arrowButtonStyle(currentPathIndex === 0)}
+            >
+              ‹
+            </button>
+          )}
+
+          {/* Current path */}
+          <div style={{ flex: 1, minWidth: 0, overflow: 'hidden' }}>
+            {/* Path label */}
+            <div style={{
+              textAlign: 'center',
+              marginBottom: '16px'
+            }}>
+              <span style={{
+                fontSize: '20px',
+                fontWeight: 'bold',
+                color: '#111827'
+              }}>
+                {labels[currentPathIndex]}
+              </span>
+              <span style={{
+                fontSize: '14px',
+                color: '#6b7280',
+                fontWeight: 'normal',
+                marginLeft: '10px'
+              }}>
+                ({path.segments.length} move{path.segments.length !== 1 ? 's' : ''})
+              </span>
+            </div>
+
+            {/* Path visualization */}
+            <div style={{
+              overflowX: 'auto',
+              padding: '40px 20px',
+              backgroundColor: '#f9fafb',
+              borderRadius: '12px',
+              border: `2px solid #e5e7eb`
+            }}>
+              <PathVisualization path={path} isOptimal={true} />
+            </div>
+          </div>
+
+          {/* Right arrow */}
+          {hasMultiple && (
+            <button
+              onClick={() => setCurrentPathIndex(i => Math.min(paths.length - 1, i + 1))}
+              disabled={currentPathIndex === paths.length - 1}
+              style={arrowButtonStyle(currentPathIndex === paths.length - 1)}
+            >
+              ›
+            </button>
+          )}
+        </div>
+
+        {/* Page indicator dots */}
+        {hasMultiple && (
+          <div style={{
+            display: 'flex',
+            justifyContent: 'center',
+            gap: '8px',
+            marginTop: '16px'
+          }}>
+            {paths.map((_, i) => (
+              <button
+                key={i}
+                onClick={() => setCurrentPathIndex(i)}
+                style={{
+                  width: i === currentPathIndex ? '24px' : '8px',
+                  height: '8px',
+                  borderRadius: '4px',
+                  border: 'none',
+                  backgroundColor: i === currentPathIndex ? '#111827' : '#d1d5db',
+                  cursor: 'pointer',
+                  padding: 0,
+                  transition: 'all 0.2s ease'
+                }}
+              />
+            ))}
+          </div>
+        )}
+
+        {/* Footer close button */}
+        <div style={{ marginTop: '24px', textAlign: 'center' }}>
+          <button
+            onClick={onClose}
+            style={{
+              padding: '10px 28px',
+              backgroundColor: '#111827',
+              color: 'white',
+              border: 'none',
+              borderRadius: '8px',
+              fontSize: '15px',
+              fontWeight: '600',
+              cursor: 'pointer'
+            }}
+          >
+            Close
+          </button>
+        </div>
+      </div>
+    </div>
+  );
+}
+
+function OnboardingModal({ onStartGame, onClose, isReopen = false }) {
+  const modalRef = useRef(null);
+
+  // Close on Esc
+  useEffect(() => {
+    const handleEsc = (e) => {
+      if (e.key === 'Escape') onClose();
+    };
+    document.addEventListener('keydown', handleEsc);
+    return () => document.removeEventListener('keydown', handleEsc);
+  }, [onClose]);
+
+  return (
+    <div
       style={{
         position: 'fixed',
         top: 0,
@@ -1592,28 +1744,22 @@ function OnboardingModal({ onStartGame, onViewTutorial, onClose, isReopen = fals
         padding: '16px'
       }}
       onClick={(e) => {
-        if (e.target.className === 'onboarding-backdrop') {
+        if (modalRef.current && !modalRef.current.contains(e.target)) {
           onClose();
         }
       }}
     >
       <div
-        className="onboarding-modal"
+        ref={modalRef}
         style={{
           backgroundColor: '#ffffff',
-          borderRadius: '24px',
-          maxWidth: '500px',
+          borderRadius: '12px',
+          maxWidth: '520px',
           width: '100%',
-          maxHeight: '70vh',
-          overflow: 'hidden',
-          display: 'flex',
-          flexDirection: 'column',
           boxShadow: '0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1)',
-          position: 'relative'
+          position: 'relative',
+          padding: '40px 32px 32px'
         }}
-        onTouchStart={onTouchStart}
-        onTouchMove={onTouchMove}
-        onTouchEnd={onTouchEnd}
       >
         {/* Close button */}
         <button
@@ -1633,245 +1779,74 @@ function OnboardingModal({ onStartGame, onViewTutorial, onClose, isReopen = fals
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
-            zIndex: 10,
-            transition: 'all 0.2s'
-          }}
-          onMouseEnter={(e) => {
-            e.target.style.backgroundColor = '#e5e7eb';
-            e.target.style.color = '#111827';
-          }}
-          onMouseLeave={(e) => {
-            e.target.style.backgroundColor = '#f3f4f6';
-            e.target.style.color = '#6b7280';
+            zIndex: 10
           }}
         >
-          ×
+          x
         </button>
 
-        {!showTutorial ? (
-          // Welcome screen
-          <div
+        {/* Title */}
+        <h2 style={{
+          fontSize: '28px',
+          fontWeight: '700',
+          color: '#111827',
+          marginBottom: '24px',
+          textAlign: 'center'
+        }}>
+          How to Play
+        </h2>
+
+        {/* Rules */}
+        <ol style={{
+          color: '#374151',
+          fontSize: '15px',
+          lineHeight: '1.7',
+          paddingLeft: '20px',
+          margin: '0 0 32px 0'
+        }}>
+          <li style={{ marginBottom: '12px' }}>
+            You are given two actors: a starting actor and a target actor. Use the swap button to choose which actor you want to start from.
+          </li>
+          <li style={{ marginBottom: '12px' }}>
+            Guess a movie featuring the starting actor.
+          </li>
+          <li style={{ marginBottom: '12px' }}>
+            If your movie guess is correct, you must then guess an actor who appeared in that movie. You are not given any new actor or hint automatically.
+          </li>
+          <li style={{ marginBottom: '12px' }}>
+            Repeat with the previously guessed actor until you connect to the target actor.
+          </li>
+          <li>
+            You do <strong>not</strong> have a limited number of guesses. However, you cannot guess the same movie or the same actor more than once (only applies to guesses that were previously correct).
+          </li>
+        </ol>
+
+        {/* Button */}
+        <div style={{ textAlign: 'center' }}>
+          <button
+            onClick={isReopen ? onClose : onStartGame}
             style={{
-              padding: '48px 32px',
-              textAlign: 'center',
-              display: 'flex',
-              flexDirection: 'column',
-              gap: '32px',
-              alignItems: 'center',
-              justifyContent: 'center',
-              minHeight: '400px'
+              padding: '14px 32px',
+              backgroundColor: '#111827',
+              color: '#ffffff',
+              borderRadius: '12px',
+              border: 'none',
+              fontSize: '16px',
+              fontWeight: '600',
+              cursor: 'pointer',
+              transition: 'background-color 0.2s',
+              fontFamily: 'inherit'
+            }}
+            onMouseEnter={(e) => {
+              e.target.style.backgroundColor = '#1f2937';
+            }}
+            onMouseLeave={(e) => {
+              e.target.style.backgroundColor = '#111827';
             }}
           >
-            <div>
-              <h2 style={{
-                fontSize: '32px',
-                fontWeight: '600',
-                color: '#111827',
-                marginBottom: '16px',
-                fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
-              }}>
-                Welcome to CineLinks
-              </h2>
-              <p style={{
-                fontSize: '18px',
-                color: '#6b7280',
-                fontWeight: '300',
-                lineHeight: '1.6',
-                fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
-              }}>
-                Connect two actors through the movies they've appeared in
-              </p>
-            </div>
-
-            <div style={{
-              display: 'flex',
-              flexDirection: 'column',
-              gap: '16px',
-              width: '100%',
-              maxWidth: '320px'
-            }}>
-              <button
-                onClick={handleViewTutorial}
-                style={{
-                  padding: '16px 32px',
-                  backgroundColor: '#111827',
-                  color: '#ffffff',
-                  borderRadius: '16px',
-                  border: 'none',
-                  fontSize: '18px',
-                  fontWeight: '500',
-                  cursor: 'pointer',
-                  transition: 'all 0.2s',
-                  fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
-                }}
-                onMouseEnter={(e) => {
-                  e.target.style.backgroundColor = '#1f2937';
-                }}
-                onMouseLeave={(e) => {
-                  e.target.style.backgroundColor = '#111827';
-                }}
-              >
-                How to Play
-              </button>
-              <button
-                onClick={onStartGame}
-                style={{
-                  padding: '16px 32px',
-                  backgroundColor: '#ffffff',
-                  color: '#111827',
-                  borderRadius: '16px',
-                  border: '2px solid #e5e7eb',
-                  fontSize: '18px',
-                  fontWeight: '500',
-                  cursor: 'pointer',
-                  transition: 'all 0.2s',
-                  fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
-                }}
-                onMouseEnter={(e) => {
-                  e.target.style.borderColor = '#111827';
-                  e.target.style.backgroundColor = '#f9fafb';
-                }}
-                onMouseLeave={(e) => {
-                  e.target.style.borderColor = '#e5e7eb';
-                  e.target.style.backgroundColor = '#ffffff';
-                }}
-              >
-                Start Game
-              </button>
-            </div>
-          </div>
-        ) : (
-          // Tutorial carousel
-          <div
-            style={{
-              padding: '48px 32px 32px',
-              textAlign: 'center',
-              display: 'flex',
-              flexDirection: 'column',
-              gap: '32px',
-              minHeight: '400px',
-              justifyContent: 'space-between'
-            }}
-          >
-            {/* Card content */}
-            <div style={{
-              flex: 1,
-              display: 'flex',
-              flexDirection: 'column',
-              alignItems: 'center',
-              justifyContent: 'center',
-              gap: '24px'
-            }}>
-              <div style={{
-                fontSize: '64px',
-                marginBottom: '16px'
-              }}>
-                {tutorialCards[currentCard].icon}
-              </div>
-              <h3 style={{
-                fontSize: '24px',
-                fontWeight: '600',
-                color: '#111827',
-                marginBottom: '8px',
-                fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
-              }}>
-                {tutorialCards[currentCard].title}
-              </h3>
-              <p style={{
-                fontSize: '16px',
-                color: '#6b7280',
-                fontWeight: '300',
-                lineHeight: '1.6',
-                maxWidth: '320px',
-                fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
-              }}>
-                {tutorialCards[currentCard].description}
-              </p>
-            </div>
-
-            {/* Dot indicators */}
-            <div style={{
-              display: 'flex',
-              gap: '8px',
-              justifyContent: 'center',
-              marginTop: '16px'
-            }}>
-              {tutorialCards.map((_, index) => (
-                <div
-                  key={index}
-                  onClick={() => setCurrentCard(index)}
-                  style={{
-                    width: '8px',
-                    height: '8px',
-                    borderRadius: '50%',
-                    backgroundColor: index === currentCard ? '#111827' : '#d1d5db',
-                    cursor: 'pointer',
-                    transition: 'all 0.2s'
-                  }}
-                />
-              ))}
-            </div>
-
-            {/* Navigation buttons */}
-            <div style={{
-              display: 'flex',
-              justifyContent: 'space-between',
-              alignItems: 'center',
-              marginTop: '16px'
-            }}>
-              <button
-                onClick={handlePrev}
-                disabled={currentCard === 0}
-                style={{
-                  padding: '12px 24px',
-                  backgroundColor: 'transparent',
-                  color: currentCard === 0 ? '#d1d5db' : '#6b7280',
-                  border: 'none',
-                  fontSize: '16px',
-                  fontWeight: '500',
-                  cursor: currentCard === 0 ? 'not-allowed' : 'pointer',
-                  transition: 'all 0.2s',
-                  fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
-                }}
-                onMouseEnter={(e) => {
-                  if (currentCard !== 0) {
-                    e.target.style.color = '#111827';
-                  }
-                }}
-                onMouseLeave={(e) => {
-                  if (currentCard !== 0) {
-                    e.target.style.color = '#6b7280';
-                  }
-                }}
-              >
-                Previous
-              </button>
-              <button
-                onClick={handleNext}
-                style={{
-                  padding: '12px 24px',
-                  backgroundColor: '#111827',
-                  color: '#ffffff',
-                  border: 'none',
-                  borderRadius: '12px',
-                  fontSize: '16px',
-                  fontWeight: '500',
-                  cursor: 'pointer',
-                  transition: 'all 0.2s',
-                  fontFamily: '-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif'
-                }}
-                onMouseEnter={(e) => {
-                  e.target.style.backgroundColor = '#1f2937';
-                }}
-                onMouseLeave={(e) => {
-                  e.target.style.backgroundColor = '#111827';
-                }}
-              >
-                {currentCard === tutorialCards.length - 1 ? "Let's Play!" : "Next"}
-              </button>
-            </div>
-          </div>
-        )}
+            Let's Play.
+          </button>
+        </div>
       </div>
     </div>
   );

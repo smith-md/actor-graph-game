@@ -48,5 +48,8 @@ Thumbs.db
 .DS_Store
 *.log
 
+# Cloudflare Workers config (contains KV namespace IDs)
+workers/wrangler.toml
+
 # Local settings
 .claude/settings.local.json

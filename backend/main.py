@@ -1,6 +1,6 @@
-import os, json, hashlib, unicodedata, random, pickle
+import os, json, hashlib, unicodedata, random, pickle, itertools, time, logging
 from uuid import uuid4
-from typing import Dict, Optional, List
+from typing import Dict, Optional, List, Tuple
 from collections import defaultdict
 from datetime import datetime
 from zoneinfo import ZoneInfo
@@ -9,26 +9,44 @@ import networkx as nx
 from fastapi import FastAPI, HTTPException, Query, Request
 from fastapi.responses import JSONResponse
 from fastapi.middleware.cors import CORSMiddleware
+from starlette.middleware.base import BaseHTTPMiddleware
 from pydantic import BaseModel
+
+logger = logging.getLogger("movielinks")
 
 from game_logic import MovieConnectionGame
 from daily_puzzle import DailyPuzzleManager
 
+is_prod = os.getenv("ENV", "dev") == "production"
+
 app = FastAPI(
-    title="CineLinks API",
-    description="CineLinks — connect two actors through shared movies.",
+    title="Movie Links API",
+    description="Movie Links — connect two actors through shared movies.",
     version="0.1.0",
-    docs_url="/docs",
-    redoc_url="/redoc",
+    docs_url=None if is_prod else "/docs",
+    redoc_url=None if is_prod else "/redoc",
 )
 
+# ---------- Security Headers ----------
+class SecurityHeadersMiddleware(BaseHTTPMiddleware):
+    async def dispatch(self, request, call_next):
+        response = await call_next(request)
+        response.headers["X-Content-Type-Options"] = "nosniff"
+        response.headers["X-Frame-Options"] = "DENY"
+        response.headers["Referrer-Policy"] = "strict-origin-when-cross-origin"
+        return response
+
+app.add_middleware(SecurityHeadersMiddleware)
+
 # ---------- CORS ----------
+ALLOWED_ORIGINS = os.getenv("CORS_ORIGINS", "http://localhost:5173").split(",")
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
-    allow_credentials=True,
-    allow_methods=["*"],
-    allow_headers=["*"],
+    allow_origins=ALLOWED_ORIGINS,
+    allow_credentials=False,
+    allow_methods=["GET", "POST"],
+    allow_headers=["Content-Type"],
 )
 
 # ---------- Graph globals ----------
@@ -135,7 +153,7 @@ def load_graph():
     """Load the prebuilt graph AND actor-movie index using pickle."""
     global GRAPH, GRAPH_READY, GRAPH_CHECKSUM, ACTOR_INDEX, MOVIE_INDEX, ACTOR_BY_NORM, MOVIE_BY_NORM, ACTOR_MOVIE_INDEX, DAILY_PUZZLE_MANAGER
     if not os.path.exists(GRAPH_PATH):
-        print(f"[CineLinks] Graph file not found at {GRAPH_PATH}")
+        print(f"[Movie Links] Graph file not found at {GRAPH_PATH}")
         GRAPH_READY = False
         return
 
@@ -149,31 +167,31 @@ def load_graph():
         if os.path.exists(index_path):
             with open(index_path, "rb") as f:
                 ACTOR_MOVIE_INDEX = pickle.load(f)
-            print(f"[CineLinks] Loaded actor-movie index: {index_path}")
-            print(f"[CineLinks]   Movies: {len(ACTOR_MOVIE_INDEX['movies'])}, Actors: {len(ACTOR_MOVIE_INDEX['actor_movies'])}")
+            print(f"[Movie Links] Loaded actor-movie index: {index_path}")
+            print(f"[Movie Links]   Movies: {len(ACTOR_MOVIE_INDEX['movies'])}, Actors: {len(ACTOR_MOVIE_INDEX['actor_movies'])}")
         else:
-            print(f"[CineLinks] WARNING: Actor-movie index not found at {index_path}")
-            print(f"[CineLinks] Movie autocomplete will have limited coverage (edge metadata only)")
+            print(f"[Movie Links] WARNING: Actor-movie index not found at {index_path}")
+            print(f"[Movie Links] Movie autocomplete will have limited coverage (edge metadata only)")
             ACTOR_MOVIE_INDEX = None
 
         GRAPH_READY = True
         GRAPH_CHECKSUM = compute_graph_fingerprint(GRAPH)
         ACTOR_INDEX, MOVIE_INDEX = build_indexes(GRAPH, ACTOR_MOVIE_INDEX)  # Pass index to build_indexes
         ACTOR_BY_NORM, MOVIE_BY_NORM = build_lookup_maps(GRAPH, ACTOR_INDEX, MOVIE_INDEX)
-        print(f"[CineLinks] Loaded graph: {GRAPH_PATH}")
-        print(f"[CineLinks] Nodes={GRAPH.number_of_nodes()} | Edges={GRAPH.number_of_edges()} | Movies indexed={len(MOVIE_INDEX)}")
+        print(f"[Movie Links] Loaded graph: {GRAPH_PATH}")
+        print(f"[Movie Links] Nodes={GRAPH.number_of_nodes()} | Edges={GRAPH.number_of_edges()} | Movies indexed={len(MOVIE_INDEX)}")
 
         # Log playable and starting pool counts
         playable_count = sum(1 for _, d in GRAPH.nodes(data=True) if d.get("in_playable_graph", False))
         starting_count = sum(1 for _, d in GRAPH.nodes(data=True) if d.get("in_starting_pool", False))
-        print(f"[CineLinks] Playable actors: {playable_count}")
-        print(f"[CineLinks] Starting pool: {starting_count}")
+        print(f"[Movie Links] Playable actors: {playable_count}")
+        print(f"[Movie Links] Starting pool: {starting_count}")
 
         # Initialize daily puzzle manager
         DAILY_PUZZLE_MANAGER = DailyPuzzleManager(GRAPH)
-        print(f"[CineLinks] Daily puzzle manager initialized")
+        print(f"[Movie Links] Daily puzzle manager initialized")
     except Exception as e:
-        print(f"[CineLinks] Failed to load graph: {e}")
+        print(f"[Movie Links] Failed to load graph: {e}")
         GRAPH = None
         GRAPH_READY = False
         GRAPH_CHECKSUM = ""
@@ -260,7 +278,15 @@ class SwapActorsResponse(BaseModel):
     targetActor: ActorNode
     path: GamePath
 
-games: Dict[str, MovieConnectionGame] = {}
+games: Dict[str, Tuple[MovieConnectionGame, float]] = {}  # game_id -> (game, created_at)
+GAME_TTL_SECONDS = 7200  # 2 hours
+MAX_GAMES = 5000
+
+def cleanup_expired_games():
+    now = time.time()
+    expired = [gid for gid, (_, ts) in games.items() if now - ts > GAME_TTL_SECONDS]
+    for gid in expired:
+        del games[gid]
 
 # ---------- Helpers ----------
 def build_actor_node_dict(actor_id: str) -> dict:
@@ -274,11 +300,75 @@ def build_actor_node_dict(actor_id: str) -> dict:
 
 def build_movie_dict(movie_id: int, movie_data: dict) -> dict:
     """Build movie connector from movie data."""
+    # Get poster_path from movie_data, or fall back to ACTOR_MOVIE_INDEX
+    poster_path = movie_data.get('poster_path')
+    if not poster_path and ACTOR_MOVIE_INDEX:
+        indexed_movie = ACTOR_MOVIE_INDEX.get('movies', {}).get(movie_id)
+        if indexed_movie:
+            poster_path = indexed_movie.get('poster_path')
+
     return {
         "id": movie_id,
         "title": movie_data.get('title', 'Unknown'),
-        "posterUrl": tmdb_img(movie_data.get('poster_path'), 'w500')
+        "posterUrl": tmdb_img(poster_path, 'w500')
     }
+
+def calculate_path_similarity(path1, path2, graph):
+    """Calculate Jaccard similarity between two paths (0=different, 1=identical)."""
+    # Extract movie IDs from edges (using most popular movie per edge)
+    movies1 = set()
+    for i in range(len(path1) - 1):
+        edge_data = graph.edges[path1[i], path1[i + 1]]
+        movies = edge_data.get('movies', [])
+        if movies:
+            movie = max(movies, key=lambda m: m.get('popularity', 0))
+            movies1.add(movie['id'])
+
+    movies2 = set()
+    for i in range(len(path2) - 1):
+        edge_data = graph.edges[path2[i], path2[i + 1]]
+        movies = edge_data.get('movies', [])
+        if movies:
+            movie = max(movies, key=lambda m: m.get('popularity', 0))
+            movies2.add(movie['id'])
+
+    # Extract intermediate actors (exclude start/end)
+    actors1 = set(path1[1:-1])
+    actors2 = set(path2[1:-1])
+
+    # Weighted Jaccard: movies 70%, actors 30%
+    movie_jaccard = len(movies1 & movies2) / len(movies1 | movies2) if (movies1 or movies2) else 0
+    actor_jaccard = len(actors1 & actors2) / len(actors1 | actors2) if (actors1 or actors2) else 0
+
+    return 0.7 * movie_jaccard + 0.3 * actor_jaccard
+
+def select_diverse_paths(all_paths, max_paths=3):
+    """Greedy algorithm to select diverse paths."""
+    if len(all_paths) <= max_paths:
+        return all_paths
+
+    selected = []
+
+    # Step 1: Start with most popular path
+    best_path = max(all_paths, key=lambda p: sum(
+        max((m.get('popularity', 0) for m in GRAPH.edges[p[i], p[i+1]].get('movies', [])), default=0)
+        for i in range(len(p) - 1)
+    ))
+    selected.append(best_path)
+    remaining = [p for p in all_paths if p != best_path]
+
+    # Step 2: Greedily add most diverse paths
+    while len(selected) < max_paths and remaining:
+        best_candidate = max(
+            remaining,
+            key=lambda c: min(
+                calculate_path_similarity(c, s, GRAPH) for s in selected
+            )
+        )
+        selected.append(best_candidate)
+        remaining.remove(best_candidate)
+
+    return selected
 
 def build_path_response(game: MovieConnectionGame) -> dict:
     """Convert game state to frontend path structure."""
@@ -306,14 +396,14 @@ def graph_not_ready_response():
         status_code=503,
         content={
             "error": "Graph not ready",
-            "message": "The CineLinks data graph is still loading or missing. Please refresh in a few seconds."
+            "message": "The Movie Links data graph is still loading or missing. Please refresh in a few seconds."
         },
     )
 
 # ---------- Routes ----------
 @app.get("/health")
 def health():
-    return {"ok": True, "ready": GRAPH_READY, "service": "CineLinks API"}
+    return {"ok": True, "ready": GRAPH_READY, "service": "Movie Links API"}
 
 @app.get("/meta")
 def meta():
@@ -368,7 +458,7 @@ def get_daily_pair():
     }
 
 @app.get("/autocomplete/actors")
-def autocomplete_actors(q: str = Query(..., min_length=1), limit: int = 10):
+def autocomplete_actors(q: str = Query(..., min_length=1, max_length=100), limit: int = Query(10, ge=1, le=50)):
     if not GRAPH_READY:
         return graph_not_ready_response()
     needle = norm(q)
@@ -384,7 +474,7 @@ def autocomplete_actors(q: str = Query(..., min_length=1), limit: int = 10):
     return {"query": q, "results": out}
 
 @app.get("/autocomplete/movies")
-def autocomplete_movies(q: str = Query(..., min_length=1), limit: int = 10):
+def autocomplete_movies(q: str = Query(..., min_length=1, max_length=100), limit: int = Query(10, ge=1, le=50)):
     if not GRAPH_READY:
         return graph_not_ready_response()
     needle = norm(q)
@@ -436,14 +526,15 @@ def create_game(request: CreateGameRequest = CreateGameRequest()):
             # Fallback: use any two actors if all are connected
             start, target = random.sample(starting_actors, 2)
 
+    cleanup_expired_games()
+
     game_id = str(uuid4())
-    games[game_id] = MovieConnectionGame(
+    games[game_id] = (MovieConnectionGame(
         GRAPH, start, target,
-        max_incorrect_guesses=3,
         resolve_actor=resolve_actor_nodes,
         resolve_movie=resolve_movie_nodes,
         actor_movie_index=ACTOR_MOVIE_INDEX,
-    )
+    ), time.time())
 
     return {
         "gameId": game_id,
@@ -462,18 +553,15 @@ def submit_guess(game_id: str, input: NewGuessInput):
     if not GRAPH_READY:
         return graph_not_ready_response()
 
-    game = games.get(game_id)
-    if not game:
+    entry = games.get(game_id)
+    if not entry:
         raise HTTPException(status_code=404, detail="Game not found")
+    game = entry[0]
 
     # Validate guess using existing logic
     success, message, poster_url = game.guess(input.movieId, input.actorName)
 
     path_response = build_path_response(game)
-    print(f"[DEBUG] Path response pendingMovie: {path_response.get('pendingMovie')}")
-    print(f"[DEBUG] Game pending_movie_dict: {game.pending_movie_dict}")
-    print(f"[DEBUG] movies_used count: {len(game.movies_used)}")
-    print(f"[DEBUG] movies_used: {game.movies_used}")
 
     return {
         "success": success,
@@ -482,9 +570,8 @@ def submit_guess(game_id: str, input: NewGuessInput):
         "state": {
             "completed": game.completed,
             "totalGuesses": game.total_guesses,
-            "moves_taken": len(game.movies_used),  # Count completed connections (movie+actor pairs)
-            "incorrectGuesses": game.incorrect_guesses,
-            "remainingAttempts": game.max_incorrect - game.incorrect_guesses
+            "moves_taken": len(game.movies_used),
+            "incorrectGuesses": game.incorrect_guesses
         }
     }
 
@@ -494,9 +581,10 @@ def swap_actors(game_id: str):
     if not GRAPH_READY:
         return graph_not_ready_response()
 
-    game = games.get(game_id)
-    if not game:
+    entry = games.get(game_id)
+    if not entry:
         raise HTTPException(status_code=404, detail="Game not found")
+    game = entry[0]
 
     # Only allow swap if no moves have been made
     if len(game.movies_used) > 0:
@@ -528,9 +616,10 @@ def give_up_game(game_id: str):
     if not GRAPH_READY:
         return graph_not_ready_response()
 
-    game = games.get(game_id)
-    if not game:
+    entry = games.get(game_id)
+    if not entry:
         raise HTTPException(status_code=404, detail="Game not found")
+    game = entry[0]
 
     success, message = game.give_up()
 
@@ -543,9 +632,8 @@ def give_up_game(game_id: str):
         "state": {
             "completed": game.completed,
             "totalGuesses": game.total_guesses,
-            "moves_taken": len(game.movies_used),  # Count completed connections
+            "moves_taken": len(game.movies_used),
             "incorrectGuesses": game.incorrect_guesses,
-            "remainingAttempts": 0,
             "gaveUp": game.gave_up
         }
     }
@@ -560,9 +648,10 @@ def get_optimal_path(game_id: str):
     if not GRAPH_READY:
         return graph_not_ready_response()
 
-    game = games.get(game_id)
-    if not game:
+    entry = games.get(game_id)
+    if not entry:
         raise HTTPException(status_code=404, detail="Game not found")
+    game = entry[0]
 
     # Compute ALL shortest paths
     try:
@@ -615,9 +704,56 @@ def get_optimal_path(game_id: str):
         "segments": segments
     }
 
+@app.get("/api/game/{game_id}/optimal-paths")
+def get_optimal_paths(game_id: str, max_paths: int = 3):
+    """Return up to 3 diverse shortest paths."""
+    if not GRAPH_READY:
+        return graph_not_ready_response()
+
+    entry = games.get(game_id)
+    if not entry:
+        raise HTTPException(status_code=404, detail="Game not found")
+    game = entry[0]
+
+    # Get all shortest paths (limit to 100 for performance)
+    try:
+        all_paths_iter = nx.all_shortest_paths(GRAPH, game.start, game.target)
+        all_paths = list(itertools.islice(all_paths_iter, 100))
+    except nx.NetworkXNoPath:
+        raise HTTPException(status_code=500, detail="No path exists")
+
+    # Select diverse paths
+    selected_paths = select_diverse_paths(all_paths, max_paths)
+
+    # Build response for each path
+    paths_response = []
+    for actor_path in selected_paths:
+        segments = []
+        for i in range(len(actor_path) - 1):
+            current_actor = actor_path[i]
+            next_actor = actor_path[i + 1]
+            edge_data = GRAPH.edges[current_actor, next_actor]
+            movies = edge_data.get('movies', [])
+
+            if movies:
+                # Pick most popular movie
+                movie = max(movies, key=lambda m: m.get('popularity', 0))
+                segments.append({
+                    "movie": build_movie_dict(movie['id'], movie),
+                    "actor": build_actor_node_dict(next_actor)
+                })
+
+        paths_response.append({
+            "startActor": build_actor_node_dict(game.start),
+            "targetActor": build_actor_node_dict(game.target),
+            "segments": segments
+        })
+
+    return {"paths": paths_response, "count": len(paths_response)}
+
 # ---------- Initialize ----------
 try:
     load_graph()
 except Exception as e:
-    print(f"[CineLinks] Startup: could not load graph ({e})")
+    print(f"[Movie Links] Startup: could not load graph ({e})")
     GRAPH_READY = False

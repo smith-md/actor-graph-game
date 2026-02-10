@@ -1,16 +1,19 @@
 """
-Daily Puzzle Manager for CineLinks
+Daily Puzzle Manager for Movie Links
 
 Manages deterministic daily puzzle generation with actor reuse exclusion.
 Ensures all users get the same puzzle on the same day.
 """
 
+import logging
 import os
 import pickle
 import random
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 from typing import Tuple, Dict
+
+logger = logging.getLogger("movielinks.daily_puzzle")
 
 
 class DailyPuzzleManager:
@@ -42,10 +45,10 @@ class DailyPuzzleManager:
             try:
                 with open(self.state_file, "rb") as f:
                     state = pickle.load(f)
-                    print(f"[DailyPuzzle] Loaded state with {len(state.get('puzzles', {}))} puzzles")
+                    logger.info("Loaded state with %d puzzles", len(state.get('puzzles', {})))
                     return state
             except Exception as e:
-                print(f"[DailyPuzzle] Failed to load state: {e}, initializing fresh")
+                logger.error("Failed to load state: %s, initializing fresh", e)
 
         return {"puzzles": {}, "recent_actors": {}}
 
@@ -55,7 +58,7 @@ class DailyPuzzleManager:
             with open(self.state_file, "wb") as f:
                 pickle.dump(self.state, f)
         except Exception as e:
-            print(f"[DailyPuzzle] Failed to save state: {e}")
+            logger.error("Failed to save state: %s", e)
 
     def _cleanup_old_actors(self, cutoff_date: str):
         """
@@ -72,7 +75,7 @@ class DailyPuzzleManager:
         }
         removed = original_count - len(self.state["recent_actors"])
         if removed > 0:
-            print(f"[DailyPuzzle] Cleaned up {removed} old actor entries")
+            logger.info("Cleaned up %d old actor entries", removed)
 
     def _get_available_actors(self, exclude_days: int) -> list:
         """
@@ -96,7 +99,7 @@ class DailyPuzzleManager:
         ]
 
         available = [a for a in all_starting_actors if a not in recent_actor_ids]
-        print(f"[DailyPuzzle] Available actors (exclude {exclude_days}d): {len(available)}/{len(all_starting_actors)}")
+        logger.info("Available actors (exclude %dd): %d/%d", exclude_days, len(available), len(all_starting_actors))
         return available
 
     def _is_valid_pair(self, actor_a: str, actor_b: str) -> bool:
@@ -143,10 +146,10 @@ class DailyPuzzleManager:
         # Check if puzzle already exists for this date
         if puzzle_id in self.state["puzzles"]:
             puzzle = self.state["puzzles"][puzzle_id]
-            print(f"[DailyPuzzle] Using cached puzzle for {puzzle_id}")
+            logger.info("Using cached puzzle for %s", puzzle_id)
             return puzzle["start_actor"], puzzle["target_actor"]
 
-        print(f"[DailyPuzzle] Generating new puzzle for {puzzle_id}")
+        logger.info("Generating new puzzle for %s", puzzle_id)
 
         # Generate new puzzle with deterministic seed
         puzzle_seed = int(puzzle_id)  # YYYYMMDD as integer seed
@@ -157,7 +160,7 @@ class DailyPuzzleManager:
             available_actors = self._get_available_actors(exclusion_days)
 
             if len(available_actors) < 2:
-                print(f"[DailyPuzzle] Not enough actors for {exclusion_days}-day exclusion, trying shorter window")
+                logger.info("Not enough actors for %d-day exclusion, trying shorter window", exclusion_days)
                 continue  # Try shorter exclusion window
 
             # Try up to 100 random pairs to find valid combination
@@ -168,7 +171,7 @@ class DailyPuzzleManager:
 
                 if self._is_valid_pair(start_actor, target_actor):
                     # Valid puzzle found - save it
-                    print(f"[DailyPuzzle] Found valid pair after {attempts} attempts (exclusion: {exclusion_days}d)")
+                    logger.info("Found valid pair after %d attempts (exclusion: %dd)", attempts, exclusion_days)
 
                     self.state["puzzles"][puzzle_id] = {
                         "start_actor": start_actor,
@@ -191,7 +194,7 @@ class DailyPuzzleManager:
                     return start_actor, target_actor
 
         # Fallback: if no valid pair found even without exclusion, use any two
-        print(f"[DailyPuzzle] WARNING: Using fallback (any pair) for {puzzle_id}")
+        logger.warning("Using fallback (any pair) for %s", puzzle_id)
         all_starting_actors = [
             n for n in self.graph.nodes()
             if self.graph.nodes[n].get('in_starting_pool', False)
