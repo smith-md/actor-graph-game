@@ -141,6 +141,7 @@ def extract_cast_from_movies(movies, top_n_cast=10):
 
     NEW: Captures cast_order for StartActorScore computation and vote_count
     for audience validation threshold.
+    CACHE: Now caches individual movie credits and details for faster rebuilds.
 
     Args:
         movies: List of movie dicts
@@ -152,23 +153,46 @@ def extract_cast_from_movies(movies, top_n_cast=10):
     print(f"=== Extracting Top {top_n_cast} Cast with Billing Order from {len(movies)} Movies ===")
 
     movie_cast_data = {}
+    cache_hits = 0
+    api_calls = 0
 
     for i, movie in enumerate(tqdm(movies, desc="Fetching cast & details")):
         movie_id = movie["id"]
 
-        try:
-            # Get credits (cast with billing order)
-            credits_url = f"{BASE_URL}/movie/{movie_id}/credits"
-            params = {"api_key": API_KEY}
-            credits_response = requests.get(credits_url, params=params, timeout=10)
-            credits_response.raise_for_status()
-            credits_data = credits_response.json()
+        # Check cache for credits and details
+        credits_cache_path = os.path.join(CACHE_DIR, f"movie_{movie_id}_credits.json")
+        details_cache_path = os.path.join(CACHE_DIR, f"movie_{movie_id}_details.json")
 
-            # Get movie details (for vote_count)
-            details_url = f"{BASE_URL}/movie/{movie_id}"
-            details_response = requests.get(details_url, params=params, timeout=10)
-            details_response.raise_for_status()
-            details_data = details_response.json()
+        try:
+            # Try loading from cache
+            if os.path.exists(credits_cache_path) and os.path.exists(details_cache_path):
+                with open(credits_cache_path, 'r', encoding='utf-8') as f:
+                    credits_data = json.load(f)
+                with open(details_cache_path, 'r', encoding='utf-8') as f:
+                    details_data = json.load(f)
+                cache_hits += 1
+            else:
+                # Fetch from API
+                credits_url = f"{BASE_URL}/movie/{movie_id}/credits"
+                params = {"api_key": API_KEY}
+                credits_response = requests.get(credits_url, params=params, timeout=10)
+                credits_response.raise_for_status()
+                credits_data = credits_response.json()
+
+                details_url = f"{BASE_URL}/movie/{movie_id}"
+                details_response = requests.get(details_url, params=params, timeout=10)
+                details_response.raise_for_status()
+                details_data = details_response.json()
+
+                # Save to cache
+                os.makedirs(CACHE_DIR, exist_ok=True)
+                with open(credits_cache_path, 'w', encoding='utf-8') as f:
+                    json.dump(credits_data, f, ensure_ascii=False, indent=2)
+                with open(details_cache_path, 'w', encoding='utf-8') as f:
+                    json.dump(details_data, f, ensure_ascii=False, indent=2)
+
+                api_calls += 1
+                time.sleep(0.15)  # Delay only for API calls
 
             cast_list = []
             for person in credits_data.get("cast", [])[:top_n_cast]:
@@ -192,13 +216,12 @@ def extract_cast_from_movies(movies, top_n_cast=10):
                     "original_language": details_data.get("original_language", "")  # NEW: For language filtering
                 }
 
-            time.sleep(0.15)  # Longer delay due to 2 API calls
-
         except Exception as e:
             print(f"Error fetching data for movie {movie_id}: {e}")
             continue
 
-    print(f"OK: Extracted cast with billing order from {len(movie_cast_data)} movies\n")
+    print(f"OK: Extracted cast with billing order from {len(movie_cast_data)} movies")
+    print(f"    Cache hits: {cache_hits}, API calls: {api_calls}\n")
     return movie_cast_data
 
 
@@ -439,7 +462,7 @@ def compute_start_actor_score(actor_id, actor_movies_list):
         - reason: str (if not eligible)
     """
     # Thresholds (per PRD)
-    MIN_VOTE_COUNT = 10000
+    MIN_VOTE_COUNT = 3000  # Lowered to include more movies like "The Place Beyond The Pines"
     MAX_CAST_ORDER = 5
     MIN_ELIGIBLE_CREDITS = 3
     K = 15  # Top-K aggregation
@@ -867,7 +890,7 @@ def build_full_actor_graph(movie_cast_data):
                 edge_movies[edge].append({
                     "id": movie_id,
                     "title": movie_data["title"],
-                    "poster_path": None,  # Will be populated if needed
+                    "poster_path": movie_data.get("poster_path"),
                     "popularity": movie_data["popularity"],
                     "cast_size": movie_data["cast_size"],
                     "release_date": movie_data["release_date"]
@@ -908,6 +931,77 @@ def build_full_actor_graph(movie_cast_data):
     print(f"  Avg degree: {2 * G.number_of_edges() / G.number_of_nodes():.2f}\n")
 
     return G
+
+
+def prune_degree_one_nodes(G):
+    """
+    Iteratively remove nodes with degree <= 1 until none remain.
+
+    Degree-0 actors (isolated) and degree-1 actors (dead-ends) are removed:
+    - Degree-0: No connections at all, can't be part of any path
+    - Degree-1: Can only be reached from one direction, leads nowhere else
+
+    Removing them improves gameplay by ensuring every actor has multiple pathways.
+
+    Note: Pruning is iterative because removing a degree-1 node may
+    reduce another node's degree to 1, requiring multiple passes.
+
+    Args:
+        G: NetworkX graph (modified in place)
+
+    Returns:
+        Tuple of (G, stats_dict) where stats contains pruning metrics
+    """
+    stats = {
+        "initial_nodes": G.number_of_nodes(),
+        "initial_edges": G.number_of_edges()
+    }
+
+    iterations = 0
+    total_removed = 0
+
+    while True:
+        # Remove both degree-0 (isolated) and degree-1 (dead-end) nodes
+        low_degree = [n for n, d in G.degree() if d <= 1]
+        if not low_degree:
+            break
+        G.remove_nodes_from(low_degree)
+        total_removed += len(low_degree)
+        iterations += 1
+
+    stats["final_nodes"] = G.number_of_nodes()
+    stats["final_edges"] = G.number_of_edges()
+    stats["iterations"] = iterations
+    stats["nodes_removed"] = total_removed
+    stats["edges_removed"] = stats["initial_edges"] - stats["final_edges"]
+
+    # Calculate percentages
+    if stats["initial_nodes"] > 0:
+        stats["nodes_removed_pct"] = (stats["nodes_removed"] / stats["initial_nodes"]) * 100
+    else:
+        stats["nodes_removed_pct"] = 0.0
+
+    if stats["initial_edges"] > 0:
+        stats["edges_removed_pct"] = (stats["edges_removed"] / stats["initial_edges"]) * 100
+    else:
+        stats["edges_removed_pct"] = 0.0
+
+    return G, stats
+
+
+def print_pruning_stats(stats):
+    """Print low-degree pruning statistics."""
+    print("\n" + "=" * 50)
+    print("LOW-DEGREE PRUNING STATISTICS (degree <= 1)")
+    print("=" * 50)
+    print(f"Initial nodes:    {stats['initial_nodes']:,}")
+    print(f"Initial edges:    {stats['initial_edges']:,}")
+    print(f"Nodes removed:    {stats['nodes_removed']:,} ({stats['nodes_removed_pct']:.1f}%)")
+    print(f"Edges removed:    {stats['edges_removed']:,} ({stats['edges_removed_pct']:.1f}%)")
+    print(f"Final nodes:      {stats['final_nodes']:,}")
+    print(f"Final edges:      {stats['final_edges']:,}")
+    print(f"Pruning passes:   {stats['iterations']}")
+    print("=" * 50 + "\n")
 
 
 def minmax_normalize(values_dict):
@@ -1095,13 +1189,28 @@ def enrich_playable_actor_connections(G, playable_actors, movie_cast_data):
     movies_processed = 0
 
     for movie_id, movie_data in tqdm(movie_cast_data.items(), desc="Enriching with full cast"):
-        # Fetch FULL cast from TMDb (not just top 10)
+        # Fetch FULL cast from TMDb (or use cache)
+        credits_cache_path = os.path.join(CACHE_DIR, f"movie_{movie_id}_credits.json")
+
         try:
-            credits_url = f"{BASE_URL}/movie/{movie_id}/credits"
-            params = {"api_key": API_KEY}
-            response = requests.get(credits_url, params=params, timeout=10)
-            response.raise_for_status()
-            credits_data = response.json()
+            # Try loading from cache first
+            if os.path.exists(credits_cache_path):
+                with open(credits_cache_path, 'r', encoding='utf-8') as f:
+                    credits_data = json.load(f)
+            else:
+                # Fetch from API if not cached
+                credits_url = f"{BASE_URL}/movie/{movie_id}/credits"
+                params = {"api_key": API_KEY}
+                response = requests.get(credits_url, params=params, timeout=10)
+                response.raise_for_status()
+                credits_data = response.json()
+
+                # Save to cache
+                os.makedirs(CACHE_DIR, exist_ok=True)
+                with open(credits_cache_path, 'w', encoding='utf-8') as f:
+                    json.dump(credits_data, f, ensure_ascii=False, indent=2)
+
+                time.sleep(0.1)  # Delay only for API calls
 
             # Find all cast members who are in playable_actors
             playable_cast_in_movie = []
@@ -1253,7 +1362,7 @@ def main():
     parser.add_argument(
         "--starting",
         type=int,
-        default=100,
+        default=150,
         help="Number of actors for starting pool"
     )
     parser.add_argument(
@@ -1273,6 +1382,11 @@ def main():
         action="store_true",
         help="Force refresh TMDb cache (re-fetch from API)"
     )
+    parser.add_argument(
+        "--no-trim",
+        action="store_true",
+        help="Skip trimming step (keep full graph with non-playable actors)"
+    )
 
     args = parser.parse_args()
 
@@ -1284,7 +1398,7 @@ def main():
     print(f"\n{'='*70}")
     print(f"BUILDING ACTOR-ACTOR GRAPH WITH CENTRALITY MEASURES")
     print(f"{'='*70}")
-    print(f"API Key: {API_KEY[:10]}...")
+    print(f"API Key: {'*' * 10}... (loaded from .env)")
     print(f"Target: {args.top} playable actors, {args.starting} starting pool")
     print(f"{'='*70}\n")
 
@@ -1310,7 +1424,11 @@ def main():
     # Step 3: Build full actor graph
     G = build_full_actor_graph(movie_cast_data)
 
-    # Step 4: Compute centrality measures
+    # Step 3.5: Prune degree-1 nodes (dead-ends)
+    G, pruning_stats = prune_degree_one_nodes(G)
+    print_pruning_stats(pruning_stats)
+
+    # Step 4: Compute centrality measures (on pruned graph)
     G = compute_centrality_measures(G)
 
     # Step 5: Select playable actors (top 500)
@@ -1363,14 +1481,29 @@ def main():
     index_path = args.out.replace('.gpickle', '_actor_movie_index.pickle')
     persist_actor_movie_index(actor_movie_index, index_path)
 
+    # Step 12: Trim to playable actors only (overwrites output files)
+    if not args.no_trim:
+        from trim_graph import trim_pipeline
+        print("\n--- Step 12: Trim graph to playable actors only ---")
+        trim_pipeline(
+            graph_path=args.out,
+            index_path=index_path,
+            out_graph_path=args.out,
+            out_index_path=index_path,
+            dry_run=False,
+        )
+
     # Final summary
     print("="*70)
     print("SUMMARY")
     print("="*70)
+    print(f"Graph before pruning:     {pruning_stats['initial_nodes']} actors, {pruning_stats['initial_edges']} edges")
+    print(f"Pruned (degree-1):        {pruning_stats['nodes_removed']} actors ({pruning_stats['nodes_removed_pct']:.1f}%)")
     print(f"Total actors in graph:    {G.number_of_nodes()}")
     print(f"Total edges:              {G.number_of_edges()}")
     print(f"Playable actors:          {len(playable_actors)}")
     print(f"Starting pool:            {len(starting_pool_nodes)} (by StartActorScore)")
+    print(f"Trimmed:                  {'no (--no-trim)' if args.no_trim else 'yes'}")
     print(f"Graph file:               {args.out}")
     print(f"  Size:                   {os.path.getsize(args.out) / (1024*1024):.2f} MB")
     print(f"Index file:               {index_path}")

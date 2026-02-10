@@ -892,14 +892,7 @@ export default function App() {
                       setMovieSuggestions([]);
                     }}
                     renderItem={(item) => (
-                      <div>
-                        <div style={{ fontWeight: 500 }}>{item.title}</div>
-                        {item.year && (
-                          <div style={{ fontSize: '12px', color: '#6b7280' }}>
-                            {item.year}
-                          </div>
-                        )}
-                      </div>
+                      <div style={{ fontWeight: 500 }}>{item.title}</div>
                     )}
                   />
                 )}
