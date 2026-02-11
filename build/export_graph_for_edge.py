@@ -79,7 +79,7 @@ def build_neighbors_data(graph, actor_movie_index):
                 movie_list.append({
                     "id": m['id'],
                     "title": m['title'],
-                    "poster": m.get('poster_path', ''),
+                    "poster": m.get('poster_path') or '',
                     "pop": round(m.get('popularity', 0), 1)  # Compact popularity
                 })
 
@@ -157,14 +157,14 @@ def build_movies_metadata(graph, actor_movie_index):
                 movies[movie_id] = {
                     "id": movie_id,
                     "title": m['title'],
-                    "poster": m.get('poster_path', ''),
+                    "poster": m.get('poster_path') or '',
                     "_year": _extract_year(m.get('release_date')),
                 }
 
     # Supplement with actor_movie_index if available (fill missing posters/years)
     if actor_movie_index:
         for movie_id, m in actor_movie_index.get('movies', {}).items():
-            poster = m.get('poster_path', '')
+            poster = m.get('poster_path') or ''
             year = _extract_year(m.get('release_date'))
             if movie_id not in movies:
                 movies[movie_id] = {

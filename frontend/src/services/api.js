@@ -102,12 +102,15 @@ export async function prefetchNeighbors(actorId) {
  * Get actors metadata
  * Returns { actors: { [id]: { id, name, image, pool } }, graphVersion }
  */
-export async function getActorsMetadata() {
-  const cacheKey = 'actors-metadata';
+export async function getActorsMetadata(graphVersion) {
+  const cacheKey = `actors-metadata:${graphVersion || ''}`;
   const cached = metadataCache.get(cacheKey);
   if (cached) return cached;
 
-  const response = await fetchWithRetry(`${API_BASE}/api/metadata/actors`);
+  const url = graphVersion
+    ? `${API_BASE}/api/metadata/actors?v=${graphVersion}`
+    : `${API_BASE}/api/metadata/actors`;
+  const response = await fetchWithRetry(url);
   const data = await response.json();
   metadataCache.set(cacheKey, data);
   return data;
@@ -117,12 +120,15 @@ export async function getActorsMetadata() {
  * Get movies metadata
  * Returns { movies: { [id]: { id, title, poster, pop } }, graphVersion }
  */
-export async function getMoviesMetadata() {
-  const cacheKey = 'movies-metadata';
+export async function getMoviesMetadata(graphVersion) {
+  const cacheKey = `movies-metadata:${graphVersion || ''}`;
   const cached = metadataCache.get(cacheKey);
   if (cached) return cached;
 
-  const response = await fetchWithRetry(`${API_BASE}/api/metadata/movies`);
+  const url = graphVersion
+    ? `${API_BASE}/api/metadata/movies?v=${graphVersion}`
+    : `${API_BASE}/api/metadata/movies`;
+  const response = await fetchWithRetry(url);
   const data = await response.json();
   metadataCache.set(cacheKey, data);
   return data;
