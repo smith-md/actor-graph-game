@@ -218,19 +218,44 @@ body { margin: 0; background: #0b0f14; }
 /* Mobile Layout Condensation - Path Visualization Padding */
 @media (min-width: 769px) {
   .path-visualization {
-    padding: 100px 20px 80px 20px;
+    padding: 100px 8px 80px 8px;
   }
 }
 
 @media (max-width: 480px) {
   .path-visualization {
-    padding: 70px 20px 60px 20px !important;
+    padding: 70px 8px 60px 8px !important;
   }
 }
 
 @media (max-width: 390px) {
   .path-visualization {
-    padding: 56px 20px 50px 20px !important;
+    padding: 56px 8px 50px 8px !important;
+  }
+}
+
+/* Path row layout for snaking visualization */
+.path-row {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  min-width: fit-content;
+}
+
+.row-connector {
+  display: flex;
+  width: 100%;
+}
+
+.row-connector-line {
+  width: 2px;
+  height: 40px;
+  background-color: #6b7280;
+}
+
+@media (max-width: 480px) {
+  .row-connector-line {
+    height: 30px;
   }
 }
 
@@ -315,7 +340,7 @@ body { margin: 0; background: #0b0f14; }
 }
 
 .main-container-padding {
-  padding: 48px;
+  padding: 24px;
 }
 
 @media (max-width: 480px) {

@@ -43,8 +43,11 @@ export default function App() {
 
   // Daily puzzle state
   const [puzzleId, setPuzzleId] = useState("");
+  const puzzleIdRef = useRef("");
   const [elapsedSeconds, setElapsedSeconds] = useState(0);
+  const elapsedSecondsRef = useRef(0);
   const [timerStartTime, setTimerStartTime] = useState(null);
+  const timerStartTimeRef = useRef(null);
 
   // Modal state for interactive graph guessing
   const [showGuessModal, setShowGuessModal] = useState(false);
@@ -61,28 +64,21 @@ export default function App() {
     setTarget(engine.resolveActor(engine.targetActorId));
   };
 
-  // localStorage helpers
-  const getCurrentPuzzleId = () => {
-    const now = new Date();
-    const year = now.getUTCFullYear();
-    const month = String(now.getUTCMonth() + 1).padStart(2, '0');
-    const day = String(now.getUTCDate()).padStart(2, '0');
-    return `${year}${month}${day}`;
-  };
-
+  // localStorage helpers — use refs to avoid stale closures in saveGameState
   const calculateElapsedSeconds = () => {
-    if (!timerStartTime) return elapsedSeconds;
+    if (!timerStartTimeRef.current) return elapsedSecondsRef.current;
     const now = Date.now();
-    const sessionSeconds = Math.floor((now - timerStartTime) / 1000);
-    return elapsedSeconds + sessionSeconds;
+    const sessionSeconds = Math.floor((now - timerStartTimeRef.current) / 1000);
+    return elapsedSecondsRef.current + sessionSeconds;
   };
 
   const saveGameState = () => {
     const engine = engineRef.current;
-    if (!engine || !puzzleId) return;
+    const pid = puzzleIdRef.current;
+    if (!engine || !pid) return;
 
     const gameState = {
-      puzzleId,
+      puzzleId: pid,
       engineData: engine.serialize(),
       elapsedSeconds: calculateElapsedSeconds(),
       lastSaved: new Date().toISOString()
@@ -95,15 +91,14 @@ export default function App() {
     }
   };
 
-  const loadGameState = () => {
+  const loadGameState = (currentPuzzleDate) => {
     try {
       const saved = localStorage.getItem('cinelinks-game-state');
       if (!saved) return null;
 
       const gameState = JSON.parse(saved);
-      const currentPuzzleId = getCurrentPuzzleId();
 
-      if (gameState.puzzleId !== currentPuzzleId) {
+      if (gameState.puzzleId !== currentPuzzleDate) {
         localStorage.removeItem('cinelinks-game-state');
         return null;
       }
@@ -149,13 +144,16 @@ export default function App() {
     setActor("");
     setSelectedActorId(null);
     setElapsedSeconds(0);
+    elapsedSecondsRef.current = 0;
     setTimerStartTime(null);
+    timerStartTimeRef.current = null;
     setGameReady(false);
 
     try {
       // Get today's puzzle first (need graphVersion for cache busting)
       const puzzleData = await api.getPuzzle();
       setPuzzleId(puzzleData.date);
+      puzzleIdRef.current = puzzleData.date;
 
       // Ensure metadata is loaded (pass graphVersion for cache busting)
       let actorsMeta = actorsMetaRef.current;
@@ -179,7 +177,9 @@ export default function App() {
       // Sync UI state from engine
       syncFromEngine();
       setGameReady(true);
-      setTimerStartTime(Date.now());
+      const now = Date.now();
+      setTimerStartTime(now);
+      timerStartTimeRef.current = now;
 
       // Save initial state
       setTimeout(() => saveGameState(), 100);
@@ -202,8 +202,13 @@ export default function App() {
     );
     engineRef.current = engine;
     setPuzzleId(savedState.puzzleId);
-    setElapsedSeconds(savedState.elapsedSeconds || 0);
-    setTimerStartTime(Date.now());
+    puzzleIdRef.current = savedState.puzzleId;
+    const savedElapsed = savedState.elapsedSeconds || 0;
+    setElapsedSeconds(savedElapsed);
+    elapsedSecondsRef.current = savedElapsed;
+    const now = Date.now();
+    setTimerStartTime(now);
+    timerStartTimeRef.current = now;
     syncFromEngine();
     setGameReady(true);
   };
@@ -229,8 +234,8 @@ export default function App() {
         const puzzleData = await api.getPuzzle();
         const { actorsMeta, moviesMeta } = await loadMetadata(puzzleData.graphVersion);
 
-        // Try to restore saved game
-        const savedState = loadGameState();
+        // Try to restore saved game (compare against server-provided date)
+        const savedState = loadGameState(puzzleData.date);
         if (savedState && savedState.engineData) {
           hydrateFromSaved(savedState, actorsMeta, moviesMeta);
           setLoading(false);
@@ -281,8 +286,11 @@ export default function App() {
     syncFromEngine();
 
     // Stop timer
-    setElapsedSeconds(calculateElapsedSeconds());
+    const finalElapsed = calculateElapsedSeconds();
+    setElapsedSeconds(finalElapsed);
+    elapsedSecondsRef.current = finalElapsed;
     setTimerStartTime(null);
+    timerStartTimeRef.current = null;
 
     // Clear saved state
     clearGameState();
@@ -379,8 +387,11 @@ export default function App() {
             setMessageType("success");
 
             // Stop timer
-            setElapsedSeconds(calculateElapsedSeconds());
+            const finalElapsed = calculateElapsedSeconds();
+            setElapsedSeconds(finalElapsed);
+            elapsedSecondsRef.current = finalElapsed;
             setTimerStartTime(null);
+            timerStartTimeRef.current = null;
 
             // Clear saved state on win
             clearGameState();
@@ -950,76 +961,141 @@ export default function App() {
   );
 }
 
+function useSegmentsPerRow() {
+  const getCount = () => {
+    const w = window.innerWidth;
+    if (w <= 480) return 2;
+    if (w <= 768) return 3;
+    return 4;
+  };
+  const [count, setCount] = useState(getCount);
+  useEffect(() => {
+    const onResize = () => setCount(getCount());
+    window.addEventListener('resize', onResize);
+    return () => window.removeEventListener('resize', onResize);
+  }, []);
+  return count;
+}
+
+function RowConnector({ alignRight }) {
+  return (
+    <div className="row-connector" style={{
+      justifyContent: alignRight ? 'flex-end' : 'flex-start',
+      paddingLeft: alignRight ? 0 : '40px',
+      paddingRight: alignRight ? '40px' : 0
+    }}>
+      <div className="row-connector-line" />
+    </div>
+  );
+}
+
 function PathVisualization({ path, start, onEmptyNodeClick, isOptimal = false }) {
-  // Show start actor even without path, or use path.startActor if available
+  const segmentsPerRow = useSegmentsPerRow();
   const startActor = path?.startActor || start;
   if (!startActor) return null;
 
   const segments = path?.segments || [];
   const pendingMovie = path?.pendingMovie;
 
-  // Determine what empty placeholder to show next
-  // If there's a pending movie, we need an actor guess
-  // Otherwise, if last segment has both movie and actor, we need a movie guess
   const needsActorGuess = pendingMovie !== null && pendingMovie !== undefined;
   const needsMovieGuess = !needsActorGuess && (segments.length === 0 || segments[segments.length - 1].actor);
 
-  return (
-    <div className="path-visualization" style={{
-      overflowX: 'visible',
-      overflowY: 'visible'
-    }}>
-      <div style={{
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: isOptimal ? 'center' : 'flex-start',
-        gap: '0',
-        minWidth: 'fit-content',
-        position: 'relative'
-      }}>
-        {/* Start Actor */}
-        <ActorNodeInPath actor={startActor} index={0} />
-
-        {/* Segments (movie + actor pairs) */}
-        {segments.map((segment, i) => (
-          <React.Fragment key={i}>
-            {segment.movie && (
-              <MovieSegment
-                movie={segment.movie}
-                index={i}
-                isOptimal={isOptimal}
-              />
-            )}
-            {segment.actor && (
-              <ActorNodeInPath actor={segment.actor} index={i + 1} />
-            )}
-          </React.Fragment>
-        ))}
-
-        {/* Pending movie (guessed but not yet paired with actor) */}
-        {pendingMovie && (
-          <MovieSegment
-            movie={pendingMovie}
-            index={segments.length}
-            isOptimal={isOptimal}
-          />
-        )}
-
-        {/* Empty placeholder for next guess - only in interactive mode */}
-        {!isOptimal && onEmptyNodeClick && (
-          <>
-            {needsMovieGuess && (
-              <EmptyMovieNode
-                onClick={() => onEmptyNodeClick('movie')}
-                index={segments.length}
-              />
-            )}
-            {needsActorGuess && (
-              <EmptyActorNode onClick={() => onEmptyNodeClick('actor')} />
-            )}
-          </>
-        )}
+  // For optimal paths, render single row (centered, scrollable)
+  if (isOptimal) {
+    return (
+      <div className="path-visualization" style={{ overflowX: 'visible', overflowY: 'visible' }}>
+        <div style={{
+          display: 'flex',
+          alignItems: 'center',
+          justifyContent: 'center',
+          gap: '0',
+          minWidth: 'fit-content',
+          position: 'relative'
+        }}>
+          <ActorNodeInPath actor={startActor} index={0} />
+          {segments.map((segment, i) => (
+            <React.Fragment key={i}>
+              {segment.movie && <MovieSegment movie={segment.movie} index={i} isOptimal={true} />}
+              {segment.actor && <ActorNodeInPath actor={segment.actor} index={i + 1} />}
+            </React.Fragment>
+          ))}
+        </div>
       </div>
+    );
+  }
+
+  // Chunk segments into rows of N
+  const rows = [];
+  for (let i = 0; i < segments.length; i += segmentsPerRow) {
+    rows.push(segments.slice(i, i + segmentsPerRow));
+  }
+  // Ensure at least one row for the start actor + placeholders
+  if (rows.length === 0) rows.push([]);
+
+  return (
+    <div className="path-visualization" style={{ overflowX: 'visible', overflowY: 'visible' }}>
+      {rows.map((rowSegments, rowIdx) => {
+        const isReversed = rowIdx % 2 === 1;
+        const isLastRow = rowIdx === rows.length - 1;
+
+        // Build the items for this row
+        const items = [];
+
+        // First row starts with the start actor
+        if (rowIdx === 0) {
+          items.push(<ActorNodeInPath key="start" actor={startActor} index={0} />);
+        }
+
+        // Add segments for this row
+        rowSegments.forEach((segment, i) => {
+          const globalIdx = rowIdx * segmentsPerRow + i;
+          if (segment.movie) {
+            items.push(
+              <MovieSegment key={`m-${globalIdx}`} movie={segment.movie} index={globalIdx} isOptimal={false} />
+            );
+          }
+          if (segment.actor) {
+            items.push(
+              <ActorNodeInPath key={`a-${globalIdx}`} actor={segment.actor} index={globalIdx + 1} />
+            );
+          }
+        });
+
+        // Last row gets pending movie + placeholders
+        if (isLastRow) {
+          if (pendingMovie) {
+            items.push(
+              <MovieSegment key="pending" movie={pendingMovie} index={segments.length} isOptimal={false} />
+            );
+          }
+          if (onEmptyNodeClick) {
+            if (needsMovieGuess) {
+              items.push(
+                <EmptyMovieNode key="empty-movie" onClick={() => onEmptyNodeClick('movie')} index={segments.length} />
+              );
+            }
+            if (needsActorGuess) {
+              items.push(
+                <EmptyActorNode key="empty-actor" onClick={() => onEmptyNodeClick('actor')} />
+              );
+            }
+          }
+        }
+
+        return (
+          <React.Fragment key={rowIdx}>
+            {rowIdx > 0 && (
+              <RowConnector alignRight={rowIdx % 2 === 1} />
+            )}
+            <div className="path-row" style={{
+              flexDirection: isReversed ? 'row-reverse' : 'row',
+              position: 'relative'
+            }}>
+              {items}
+            </div>
+          </React.Fragment>
+        );
+      })}
     </div>
   );
 }
