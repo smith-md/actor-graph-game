@@ -121,10 +121,10 @@ export default function App() {
   };
 
   // Load metadata (actors + movies) and build search index
-  const loadMetadata = async () => {
+  const loadMetadata = async (graphVersion) => {
     const [actorsData, moviesData] = await Promise.all([
-      api.getActorsMetadata(),
-      api.getMoviesMetadata()
+      api.getActorsMetadata(graphVersion),
+      api.getMoviesMetadata(graphVersion)
     ]);
 
     actorsMetaRef.current = actorsData.actors || actorsData;
@@ -153,18 +153,18 @@ export default function App() {
     setGameReady(false);
 
     try {
-      // Ensure metadata is loaded
+      // Get today's puzzle first (need graphVersion for cache busting)
+      const puzzleData = await api.getPuzzle();
+      setPuzzleId(puzzleData.date);
+
+      // Ensure metadata is loaded (pass graphVersion for cache busting)
       let actorsMeta = actorsMetaRef.current;
       let moviesMeta = moviesMetaRef.current;
       if (!actorsMeta || !moviesMeta) {
-        const meta = await loadMetadata();
+        const meta = await loadMetadata(puzzleData.graphVersion);
         actorsMeta = meta.actorsMeta;
         moviesMeta = meta.moviesMeta;
       }
-
-      // Get today's puzzle
-      const puzzleData = await api.getPuzzle();
-      setPuzzleId(puzzleData.date);
 
       // Create client-side game engine
       const engine = new GameEngine(
@@ -218,15 +218,16 @@ export default function App() {
       if (!hasSeenOnboarding) {
         setIsReopenedTutorial(false);
         setShowOnboarding(true);
-        // Still load metadata in background while onboarding shows
-        loadMetadata().catch(() => {});
+        // Fetch puzzle first to get graphVersion for cache busting
+        api.getPuzzle().then(p => loadMetadata(p.graphVersion)).catch(() => {});
         return;
       }
 
-      // Load metadata first
+      // Load metadata first (fetch puzzle for graphVersion cache busting)
       setLoading(true);
       try {
-        const { actorsMeta, moviesMeta } = await loadMetadata();
+        const puzzleData = await api.getPuzzle();
+        const { actorsMeta, moviesMeta } = await loadMetadata(puzzleData.graphVersion);
 
         // Try to restore saved game
         const savedState = loadGameState();
