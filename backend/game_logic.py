@@ -166,7 +166,7 @@ class MovieConnectionGame:
         self.movies_used = []  # List of movie dicts
 
         self.completed = False
-        self.max_incorrect = max_incorrect_guesses
+        self.max_incorrect = float('inf')
         self.incorrect_guesses = 0
         self.total_guesses = 0
         self.gave_up = False
@@ -177,9 +177,23 @@ class MovieConnectionGame:
         # NEW: Store comprehensive index for validation
         self.actor_movie_index = actor_movie_index
 
+        # Pre-compute shortest path distance
+        try:
+            self.shortest_distance = nx.shortest_path_length(graph, start_actor_node, target_actor_node)
+        except nx.NetworkXNoPath:
+            self.shortest_distance = None
+
         # NEW: Store pending movie for two-step guessing
         self.pending_movie_id = None
         self.pending_movie_dict = None
+
+    def _is_movie_already_used(self, movie_id: int) -> bool:
+        """Check if a movie was already used in a correct guess."""
+        return any(m['id'] == movie_id for m in self.movies_used)
+
+    def _is_actor_already_used(self, actor_node: str) -> bool:
+        """Check if an actor is already in the path (from correct guesses)."""
+        return actor_node in self.path
 
     def guess(self, movie_id: Optional[int] = None, actor_name: Optional[str] = None):
         """
@@ -203,21 +217,32 @@ class MovieConnectionGame:
         # Case 2: Actor-only guess (second step, requires pending movie)
         if movie_id is None and actor_name is not None:
             if self.pending_movie_id is None:
-                return False, "❌ You must guess a movie first.", None
+                return False, "You must guess a movie first.", None
             return self._guess_actor_with_pending_movie(actor_name)
 
         # Case 3: Both provided (legacy support or error)
         if movie_id is not None and actor_name is not None:
             # Legacy: complete guess in one step
-            self.total_guesses += 1
+            # Check for duplicate movie FIRST (no penalty for duplicates)
+            if self._is_movie_already_used(movie_id):
+                movie_title = self.actor_movie_index.get("movies", {}).get(movie_id, {}).get("title", f"Movie #{movie_id}")
+                return False, f"You've already used \"{movie_title}\". Try a different one.", None
 
             candidate_actors = self.resolve_actor(actor_name)
             if not candidate_actors:
+                self.total_guesses += 1
                 self._inc_incorrect()
-                return False, f"❌ I couldn't find an actor matching \"{actor_name}\". Try the autocomplete.", None
+                return False, f"I couldn't find an actor matching \"{actor_name}\". Try the autocomplete.", None
+
+            # Check if all candidate actors have already been used (no penalty for duplicates)
+            non_used_candidates = [c for c in candidate_actors if not self._is_actor_already_used(c)]
+            if not non_used_candidates:
+                return False, f"You've already used {actor_name}. Try a different one.", None
+
+            self.total_guesses += 1
 
             movie_dict, next_actor_node = pick_movie_and_actor(
-                self.graph, self.current, movie_id, candidate_actors, self.actor_movie_index
+                self.graph, self.current, movie_id, non_used_candidates, self.actor_movie_index
             )
 
             if not movie_dict:
@@ -225,12 +250,12 @@ class MovieConnectionGame:
                 movie_title = self._get_movie_title(movie_id)
                 actor_exists = any(
                     self.graph.has_edge(self.current, candidate)
-                    for candidate in candidate_actors
+                    for candidate in non_used_candidates
                 )
                 if actor_exists:
-                    return False, f"❌ \"{movie_title}\" doesn't connect {self._label(self.current)} and {actor_name}. They might have worked together in a different movie.", None
+                    return False, f"\"{movie_title}\" doesn't connect {self._label(self.current)} and {actor_name}. They might have worked together in a different movie.", None
                 else:
-                    return False, f"❌ {self._label(self.current)} and {actor_name} aren't directly connected in this graph. Try a different actor.", None
+                    return False, f"{self._label(self.current)} and {actor_name} aren't directly connected in this graph. Try a different actor.", None
 
             poster_url = f"https://image.tmdb.org/t/p/w500{movie_dict['poster_path']}" if movie_dict.get('poster_path') else None
             self.current = next_actor_node
@@ -243,25 +268,30 @@ class MovieConnectionGame:
             return True, f"✅ Valid move to {self._label(self.current)}.", poster_url
 
         # Case 4: Neither provided
-        return False, "❌ You must provide either a movie or an actor.", None
+        return False, "You must provide either a movie or an actor.", None
 
     def _guess_movie_only(self, movie_id: int):
         """Validate and store a movie guess (first step of progressive guessing)."""
+        # Check for duplicate movie FIRST (no penalty for duplicates) - only blocks previously correct movies
+        if self._is_movie_already_used(movie_id):
+            movie_title = self.actor_movie_index.get("movies", {}).get(movie_id, {}).get("title", f"Movie #{movie_id}")
+            return False, f"You've already used \"{movie_title}\". Try a different one.", None
+
         self.total_guesses += 1
 
         # Check if movie exists in index and involves current actor
         if not self.actor_movie_index:
-            return False, "❌ Cannot validate movie.", None
+            return False, "Cannot validate movie.", None
 
         if movie_id not in self.actor_movie_index.get("movies", {}):
             self._inc_incorrect()
-            return False, f"❌ Movie not found in database.", None
+            return False, "Movie not found in database.", None
 
         # Check if current actor is in this movie
         try:
             current_actor_tmdb_id = int(self.current.split("_")[1])
         except (IndexError, ValueError):
-            return False, "❌ Invalid actor ID format.", None
+            return False, "Invalid actor ID format.", None
 
         current_actor_movies = self.actor_movie_index.get("actor_movies", {}).get(current_actor_tmdb_id, [])
         current_has_movie = any(m["movie_id"] == movie_id for m in current_actor_movies)
@@ -269,7 +299,7 @@ class MovieConnectionGame:
         if not current_has_movie:
             self._inc_incorrect()
             movie_data = self.actor_movie_index["movies"][movie_id]
-            return False, f"❌ {self._label(self.current)} didn't appear in \"{movie_data['title']}\".", None
+            return False, f"{self._label(self.current)} didn't appear in \"{movie_data['title']}\".", None
 
         # Valid movie! Store as pending
         movie_data = self.actor_movie_index["movies"][movie_id]
@@ -288,21 +318,27 @@ class MovieConnectionGame:
 
     def _guess_actor_with_pending_movie(self, actor_name: str):
         """Validate actor guess using pending movie (second step)."""
-        self.total_guesses += 1
-
         candidate_actors = self.resolve_actor(actor_name)
         if not candidate_actors:
+            self.total_guesses += 1
             self._inc_incorrect()
-            return False, f"❌ I couldn't find an actor matching \"{actor_name}\". Try the autocomplete.", None
+            return False, f"I couldn't find an actor matching \"{actor_name}\". Try the autocomplete.", None
 
-        # Validate actor with pending movie
+        # Check if all candidate actors are already in the path (no penalty for duplicates)
+        non_used_candidates = [c for c in candidate_actors if not self._is_actor_already_used(c)]
+        if not non_used_candidates:
+            return False, f"You've already used {actor_name}. Try a different one.", None
+
+        self.total_guesses += 1
+
+        # Validate actor with pending movie (only check non-used candidates)
         movie_dict, next_actor_node = pick_movie_and_actor(
-            self.graph, self.current, self.pending_movie_id, candidate_actors, self.actor_movie_index
+            self.graph, self.current, self.pending_movie_id, non_used_candidates, self.actor_movie_index
         )
 
         if not movie_dict:
             self._inc_incorrect()
-            return False, f"❌ {actor_name} didn't appear in \"{self.pending_movie_dict['title']}\" with {self._label(self.current)}.", None
+            return False, f"{actor_name} didn't appear in \"{self.pending_movie_dict['title']}\" with {self._label(self.current)}.", None
 
         # Valid move! Complete the segment
         poster_url = f"https://image.tmdb.org/t/p/w500{movie_dict['poster_path']}" if movie_dict.get('poster_path') else None
@@ -325,7 +361,7 @@ class MovieConnectionGame:
         """
         Give up on the game. Counts as a loss.
 
-        Sets completed=True, incorrect_guesses to max, and gave_up=True.
+        Sets completed=True and gave_up=True.
         Can be called at any time during the game.
 
         Returns:
@@ -335,7 +371,6 @@ class MovieConnectionGame:
             return False, "Game is already complete."
 
         self.completed = True
-        self.incorrect_guesses = self.max_incorrect
         self.gave_up = True
 
         return True, "You gave up. Game over."
@@ -394,6 +429,6 @@ class MovieConnectionGame:
             "completed": self.completed,
             "total_guesses": self.total_guesses,
             "incorrect_guesses": self.incorrect_guesses,
-            "remaining_attempts": self.max_incorrect - self.incorrect_guesses,
             "gave_up": self.gave_up,
+            "shortest_distance": self.shortest_distance,
         }

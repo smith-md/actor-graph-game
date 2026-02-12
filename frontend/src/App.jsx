@@ -524,7 +524,7 @@ export default function App() {
                 position: 'relative',
                 display: 'inline-block'
               }}>
-                MOVIE LINKS
+                ACTOR LINKS
                 <span style={{
                   position: 'absolute',
                   left: '100%',

@@ -246,7 +246,7 @@ def main():
         print("ERROR: TMDB_API_KEY not found in environment!")
         return
     
-    print(f"API Key found: {API_KEY[:10]}...")
+    print(f"API Key found: {'*' * 10}... (loaded from .env)")
 
     
     G = build_graph(args.top)
