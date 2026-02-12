@@ -28,6 +28,8 @@ yarn-error.log*
 # Build outputs
 frontend/dist/
 frontend/build/
+build/edge_data/
+build/edge_export/
 
 # Generated graph files (can be rebuilt with build script)
 *.gpickle
@@ -50,6 +52,14 @@ Thumbs.db
 
 # Cloudflare Workers config (contains KV namespace IDs)
 workers/wrangler.toml
+.wrangler/
+
+# Local virtualenvs
+backend/venv/
+
+# Windows reserved-path artifacts
+nul
+backend/nul
 
 # Local settings
 .claude/settings.local.json
