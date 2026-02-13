@@ -1065,7 +1065,7 @@ function PathVisualization({ path, start, onEmptyNodeClick, isOptimal = false })
         if (isLastRow) {
           if (pendingMovie) {
             items.push(
-              <MovieSegment key="pending" movie={pendingMovie} index={segments.length} isOptimal={false} />
+              <MovieSegment key="pending" movie={pendingMovie} index={segments.length} isOptimal={false} hidePoster={true} />
             );
           }
           if (onEmptyNodeClick) {
@@ -1315,7 +1315,7 @@ function ActorNodeInPath({ actor, index = 0 }) {
   );
 }
 
-function MovieSegment({ movie, index, isOptimal = false }) {
+function MovieSegment({ movie, index, isOptimal = false, hidePoster = false }) {
   // Alternate movies above (even index) and below (odd index) the center line
   const isAbove = index % 2 === 0;
   const lineColor = '#6b7280';
@@ -1365,7 +1365,23 @@ function MovieSegment({ movie, index, isOptimal = false }) {
             border: '2px solid #e5e7eb',
             backgroundColor: 'white'
           }}>
-            {movie.posterUrl ? (
+            {hidePoster ? (
+              <div style={{
+                width: '100%',
+                aspectRatio: '2/3',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                backgroundColor: '#f3f4f6',
+                color: '#6b7280',
+                fontSize: '12px',
+                padding: '8px',
+                textAlign: 'center',
+                fontWeight: '500'
+              }}>
+                {movie.title}
+              </div>
+            ) : movie.posterUrl ? (
               <img
                 src={movie.posterUrl}
                 alt={movie.title}
@@ -1887,7 +1903,7 @@ function OnboardingModal({ onStartGame, onClose, isReopen = false }) {
             Repeat with the previously guessed actor until you connect to the target actor.
           </li>
           <li>
-            You do <strong>not</strong> have a limited number of guesses. However, you cannot guess the same movie or the same actor more than once (only applies to guesses that were previously correct).
+            You have a limited number of guesses but you cannot guess the same movie or the same actor more than once (only applies to guesses that were previously correct).
           </li>
         </ol>
 
