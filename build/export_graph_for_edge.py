@@ -122,7 +122,8 @@ def build_actors_metadata(graph):
             "id": actor_id,
             "name": data.get('name', 'Unknown'),
             "image": data.get('profile_path') or data.get('image', ''),
-            "pool": data.get('in_starting_pool', False)
+            "pool": data.get('in_starting_pool', False),
+            "deg": graph.degree(node),
         }
 
     return actors
@@ -374,7 +375,7 @@ def main():
     parser.add_argument(
         "--out",
         type=str,
-        default="./edge_data",
+        default="./edge_export",
         help="Output directory"
     )
     parser.add_argument(

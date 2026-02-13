@@ -30,6 +30,7 @@ interface ActorMetadata {
     name: string;
     image: string;
     pool: boolean;
+    deg: number;
   };
 }
 
@@ -209,14 +210,15 @@ async function generateRevealData(env: Env, dateKey: string): Promise<object | n
       }
     }
 
-    // Rank intermediaries alphabetically
+    // Rank intermediaries by degree (most connected first)
     const rankedIntermediaries = intermediaries
       .map(id => ({
         id,
         name: actorMetadata[id]?.name || 'Unknown',
         image: actorMetadata[id]?.image || '',
+        deg: actorMetadata[id]?.deg || 0,
       }))
-      .sort((a, b) => a.name.localeCompare(b.name));
+      .sort((a, b) => b.deg - a.deg);
 
     // Build best path from first intermediary
     let bestPath = null;
