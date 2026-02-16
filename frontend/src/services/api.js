@@ -1,5 +1,5 @@
 /**
- * Edge API service for CineLinks
+ * Edge API service for Actor Links
  * Connects to Cloudflare Workers API with caching
  */
 

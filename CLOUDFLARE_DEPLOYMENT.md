@@ -1,6 +1,6 @@
-# CineLinks Cloudflare Deployment Guide
+# Actor Links Cloudflare Deployment Guide
 
-This guide covers deploying CineLinks to Cloudflare using:
+This guide covers deploying Actor Links to Cloudflare using:
 - **Cloudflare Pages** - Frontend (React app)
 - **Cloudflare Workers** - Backend API (Edge-optimized)
 - **Cloudflare R2** - Graph data storage
@@ -17,7 +17,7 @@ This guide covers deploying CineLinks to Cloudflare using:
 │  │  Cloudflare Pages │         │    Cloudflare Workers     │   │
 │  │    (Frontend)     │────────▶│      (Edge API)           │   │
 │  │                   │         │                           │   │
-│  │  cinelinks.app    │         │  api.cinelinks.app        │   │
+│  │  actorlinks.app    │         │  api.actorlinks.app        │   │
 │  └───────────────────┘         └───────────┬───────────────┘   │
 │                                            │                    │
 │                                ┌───────────┴───────────┐       │
@@ -51,7 +51,7 @@ This guide covers deploying CineLinks to Cloudflare using:
 ### 1.1 Create R2 Bucket
 
 ```bash
-wrangler r2 bucket create cinelinks-graph
+wrangler r2 bucket create actorlinks-graph
 ```
 
 ### 1.2 Create KV Namespace
@@ -155,7 +155,7 @@ curl http://localhost:8787/api/metadata
 npm run deploy
 ```
 
-Note the deployed URL (e.g., `https://cinelinks-api.YOUR_SUBDOMAIN.workers.dev`).
+Note the deployed URL (e.g., `https://actorlinks-api.YOUR_SUBDOMAIN.workers.dev`).
 
 ---
 
@@ -167,7 +167,7 @@ Note the deployed URL (e.g., `https://cinelinks-api.YOUR_SUBDOMAIN.workers.dev`)
 2. Click **Create a project** > **Connect to Git**
 3. Select your repository
 4. Configure build settings:
-   - **Project name**: `cinelinks`
+   - **Project name**: `actorlinks`
    - **Production branch**: `main`
    - **Framework preset**: `Vite`
    - **Build command**: `npm run build`
@@ -176,7 +176,7 @@ Note the deployed URL (e.g., `https://cinelinks-api.YOUR_SUBDOMAIN.workers.dev`)
 
 5. Add environment variable:
    - **Variable name**: `VITE_API_URL`
-   - **Value**: `https://cinelinks-api.YOUR_SUBDOMAIN.workers.dev`
+   - **Value**: `https://actorlinks-api.YOUR_SUBDOMAIN.workers.dev`
 
 6. Click **Save and Deploy**
 
@@ -188,7 +188,7 @@ npm install
 npm run build
 
 # Deploy using wrangler
-npx wrangler pages deploy dist --project-name=cinelinks
+npx wrangler pages deploy dist --project-name=actorlinks
 ```
 
 ---
@@ -197,26 +197,26 @@ npx wrangler pages deploy dist --project-name=cinelinks
 
 ### 5.1 Frontend Domain
 
-1. Go to **Pages** > **cinelinks** > **Custom domains**
-2. Add your domain (e.g., `cinelinks.app`)
+1. Go to **Pages** > **actorlinks** > **Custom domains**
+2. Add your domain (e.g., `actorlinks.app`)
 3. Follow DNS configuration instructions
 
 ### 5.2 API Domain
 
-1. Go to **Workers & Pages** > **cinelinks-api** > **Triggers**
-2. Add custom route (e.g., `api.cinelinks.app/*`)
+1. Go to **Workers & Pages** > **actorlinks-api** > **Triggers**
+2. Add custom route (e.g., `api.actorlinks.app/*`)
 3. Configure DNS:
    ```
    Type: CNAME
    Name: api
-   Target: cinelinks-api.YOUR_SUBDOMAIN.workers.dev
+   Target: actorlinks-api.YOUR_SUBDOMAIN.workers.dev
    Proxy: ON (orange cloud)
    ```
 
 ### 5.3 Update Frontend Environment
 
 Update Pages environment variable:
-- `VITE_API_URL` = `https://api.cinelinks.app`
+- `VITE_API_URL` = `https://api.actorlinks.app`
 
 ---
 
@@ -226,7 +226,7 @@ The Workers cron job generates daily puzzles at 5 AM UTC. To initialize immediat
 
 ### Option A: Manual Trigger via Dashboard
 
-1. Go to **Workers & Pages** > **cinelinks-api**
+1. Go to **Workers & Pages** > **actorlinks-api**
 2. Click **Triggers** tab
 3. Find the cron trigger and click **Trigger now**
 
@@ -252,7 +252,7 @@ wrangler dev --test-scheduled
 
 | Variable | Description | Example |
 |----------|-------------|---------|
-| `VITE_API_URL` | Workers API URL | `https://api.cinelinks.app` |
+| `VITE_API_URL` | Workers API URL | `https://api.actorlinks.app` |
 
 ---
 
@@ -301,23 +301,23 @@ npm run tail
 ### Check R2 Contents
 
 ```bash
-wrangler r2 object list cinelinks-graph --prefix "graph/v20260206/"
+wrangler r2 object list actorlinks-graph --prefix "graph/v20260206/"
 ```
 
 ### Test API Endpoints
 
 ```bash
 # Health check
-curl https://api.cinelinks.app/health
+curl https://api.actorlinks.app/health
 
 # Get today's puzzle
-curl https://api.cinelinks.app/api/puzzle/today
+curl https://api.actorlinks.app/api/puzzle/today
 
 # Get actor neighbors
-curl https://api.cinelinks.app/api/actors/287/neighbors
+curl https://api.actorlinks.app/api/actors/287/neighbors
 
 # Get metadata
-curl https://api.cinelinks.app/api/metadata
+curl https://api.actorlinks.app/api/metadata
 ```
 
 ---
@@ -343,7 +343,7 @@ For most hobby/small-scale deployments, the free tier is sufficient.
 
 - Ensure R2 upload completed successfully
 - Verify `GRAPH_VERSION` in wrangler.toml matches uploaded version
-- Check R2 bucket contents: `wrangler r2 object list cinelinks-graph`
+- Check R2 bucket contents: `wrangler r2 object list actorlinks-graph`
 
 ### "CORS errors in browser"
 
@@ -370,7 +370,7 @@ For most hobby/small-scale deployments, the free tier is sufficient.
 ```bash
 # === One-time Setup ===
 wrangler login
-wrangler r2 bucket create cinelinks-graph
+wrangler r2 bucket create actorlinks-graph
 wrangler kv:namespace create PUZZLE_KV
 
 # === Deploy Workers ===
@@ -382,7 +382,7 @@ npm run deploy
 cd frontend
 npm install
 npm run build
-npx wrangler pages deploy dist --project-name=cinelinks
+npx wrangler pages deploy dist --project-name=actorlinks
 
 # === Update Graph ===
 cd build

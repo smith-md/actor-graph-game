@@ -1,5 +1,5 @@
 """
-Daily Puzzle Manager for Movie Links
+Daily Puzzle Manager for Actor Links
 
 Manages deterministic daily puzzle generation with actor reuse exclusion.
 Ensures all users get the same puzzle on the same day.
@@ -13,7 +13,7 @@ from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
 from typing import Tuple, Dict
 
-logger = logging.getLogger("movielinks.daily_puzzle")
+logger = logging.getLogger("actorlinks.daily_puzzle")
 
 
 class DailyPuzzleManager:

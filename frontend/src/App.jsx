@@ -85,7 +85,7 @@ export default function App() {
     };
 
     try {
-      localStorage.setItem('cinelinks-game-state', JSON.stringify(gameState));
+      localStorage.setItem('actorlinks-game-state', JSON.stringify(gameState));
     } catch (err) {
       console.error("Failed to save game state:", err);
     }
@@ -93,26 +93,26 @@ export default function App() {
 
   const loadGameState = (currentPuzzleDate) => {
     try {
-      const saved = localStorage.getItem('cinelinks-game-state');
+      const saved = localStorage.getItem('actorlinks-game-state');
       if (!saved) return null;
 
       const gameState = JSON.parse(saved);
 
       if (gameState.puzzleId !== currentPuzzleDate) {
-        localStorage.removeItem('cinelinks-game-state');
+        localStorage.removeItem('actorlinks-game-state');
         return null;
       }
 
       return gameState;
     } catch (err) {
       console.error("Failed to load game state:", err);
-      localStorage.removeItem('cinelinks-game-state');
+      localStorage.removeItem('actorlinks-game-state');
       return null;
     }
   };
 
   const clearGameState = () => {
-    localStorage.removeItem('cinelinks-game-state');
+    localStorage.removeItem('actorlinks-game-state');
   };
 
   // Load metadata (actors + movies) and build search index
@@ -219,7 +219,7 @@ export default function App() {
       // Health check (non-blocking)
       api.checkHealth().then(data => setHealthStatus(data)).catch(() => setHealthStatus({ ok: false }));
 
-      const hasSeenOnboarding = localStorage.getItem('cinelinks-onboarding-seen');
+      const hasSeenOnboarding = localStorage.getItem('actorlinks-onboarding-seen');
       if (!hasSeenOnboarding) {
         setIsReopenedTutorial(false);
         setShowOnboarding(true);
@@ -482,13 +482,13 @@ export default function App() {
   }, [gameReady, puzzleId, path, state, elapsedSeconds, timerStartTime]);
 
   const handleStartGame = async () => {
-    localStorage.setItem('cinelinks-onboarding-seen', 'true');
+    localStorage.setItem('actorlinks-onboarding-seen', 'true');
     setShowOnboarding(false);
     startDailyPuzzle();
   };
 
   const handleCloseOnboarding = () => {
-    localStorage.setItem('cinelinks-onboarding-seen', 'true');
+    localStorage.setItem('actorlinks-onboarding-seen', 'true');
     setShowOnboarding(false);
     if (!gameReady) {
       startDailyPuzzle();

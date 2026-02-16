@@ -1,7 +1,7 @@
 {
-  "name": "cinelinks-api",
+  "name": "actorlinks-api",
   "version": "1.0.0",
-  "description": "CineLinks Edge API - Cloudflare Workers",
+  "description": "Actor Links Edge API - Cloudflare Workers",
   "main": "src/index.ts",
   "scripts": {
     "dev": "wrangler dev",

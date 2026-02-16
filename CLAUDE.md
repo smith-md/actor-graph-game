@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-**CineLinks** is a full-stack web application where players find connections between actors through movies they've appeared in (inspired by "Six Degrees of Kevin Bacon"). The architecture consists of:
+**Actor Links** is a full-stack web application where players find connections between actors through movies they've appeared in (inspired by "Six Degrees of Kevin Bacon"). The architecture consists of:
 
 - **Backend**: FastAPI Python server with game logic and graph algorithms
 - **Frontend**: React + Vite single-page application
@@ -156,7 +156,7 @@ npm run build
 # Backend
 # No special build step; deploy using uvicorn or gunicorn
 # In production, set environment variables:
-# - CINELINKS_GRAPH_PATH (path to graph file)
+# - ACTORLINKS_GRAPH_PATH (path to graph file)
 # - Update CORS origins from "*" to specific domains
 ```
 
@@ -185,7 +185,7 @@ curl http://localhost:8000/start_game
 **Backend** (`backend/`):
 - `main.py` - FastAPI app, endpoints, graph loading, session management
 - `game_logic.py` - `MovieConnectionGame` class with validation logic
-- `cinelinks_meta.py` - Metadata/verification utility
+- `actorlinks_meta.py` - Metadata/verification utility
 - `global_actor_movie_graph.gpickle` - Pre-built graph (loaded on startup)
 - `venv/` - Python virtual environment
 
@@ -213,7 +213,7 @@ Backend loads graph once at startup (`main.py` startup event):
 3. Create lookup maps for fast autocomplete queries
 4. Compute graph fingerprint for integrity checking
 
-**Environment Variable**: `CINELINKS_GRAPH_PATH` (defaults to `global_actor_movie_graph.gpickle`)
+**Environment Variable**: `ACTORLINKS_GRAPH_PATH` (defaults to `global_actor_movie_graph.gpickle`)
 
 ### Name Normalization
 
@@ -279,7 +279,7 @@ Backend generates path graph visualization:
 - **`backend/daily_puzzle.py`**: Daily puzzle generation with 20-day actor exclusion
 - **`frontend/src/App.jsx`**: All UI - modify for visual changes, new features, layout
 - **`build/build_actor_actor_graph.py`**: Graph construction - modify MIN_VOTE_COUNT (line 442) to adjust movie inclusion threshold
-- **`cinelinks-readme.md`**, **`cinelinks-api.md`**, **`cinelinks-game-rules.md`**: Project documentation with detailed info
+- **`cinelinks-readme.md`**, **`cinelinks-api.md`**, **`cinelinks-game-rules.md`**: Project documentation (legacy naming)
 
 ## Dependencies Summary
 

@@ -1,4 +1,4 @@
-Write-Host "Starting CineLinks..." -ForegroundColor Cyan
+Write-Host "Starting Actor Links..." -ForegroundColor Cyan
 Write-Host ""
 
 # Start backend in a new PowerShell window

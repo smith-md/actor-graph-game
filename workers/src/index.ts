@@ -1,5 +1,5 @@
 /**
- * CineLinks Edge API
+ * Actor Links Edge API
  *
  * Cloudflare Worker for serving game data from R2 storage
  */
@@ -64,7 +64,7 @@ export default {
       if (path === '/health' || path === '/') {
         return jsonResponse({
           ok: true,
-          service: 'CineLinks Edge API',
+          service: 'Actor Links Edge API',
           version: env.GRAPH_VERSION,
         });
       }

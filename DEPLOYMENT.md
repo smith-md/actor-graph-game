@@ -1,6 +1,6 @@
-# CineLinks Hybrid Architecture Deployment Guide
+# Actor Links Hybrid Architecture Deployment Guide
 
-This guide covers deploying the CineLinks game using the hybrid architecture:
+This guide covers deploying the Actor Links game using the hybrid architecture:
 - **Frontend**: Cloudflare Pages (static React app)
 - **Edge API**: Cloudflare Workers
 - **Data Storage**: Cloudflare R2 (graph) + KV (puzzles)
@@ -43,7 +43,7 @@ wrangler login
 
 ### Create R2 Bucket
 ```bash
-wrangler r2 bucket create cinelinks-graph
+wrangler r2 bucket create actorlinks-graph
 ```
 
 ### Create KV Namespace
@@ -84,13 +84,13 @@ npm install
 npm run deploy
 ```
 
-Note the URL returned (e.g., `https://cinelinks-api.your-subdomain.workers.dev`)
+Note the URL returned (e.g., `https://actorlinks-api.your-subdomain.workers.dev`)
 
 ## Step 5: Configure Frontend
 
 Update `frontend/.env` for production:
 ```bash
-VITE_API_URL=https://cinelinks-api.your-subdomain.workers.dev
+VITE_API_URL=https://actorlinks-api.your-subdomain.workers.dev
 VITE_USE_EDGE_API=true
 ```
 
@@ -104,7 +104,7 @@ cd frontend
 npm run build
 
 # Deploy to Pages
-wrangler pages deploy dist --project-name=cinelinks
+wrangler pages deploy dist --project-name=actorlinks
 ```
 
 ### Option B: GitHub Integration
@@ -122,17 +122,17 @@ wrangler pages deploy dist --project-name=cinelinks
 ### Test Edge API
 ```bash
 # Health check
-curl https://cinelinks-api.your-subdomain.workers.dev/health
+curl https://actorlinks-api.your-subdomain.workers.dev/health
 
 # Get today's puzzle
-curl https://cinelinks-api.your-subdomain.workers.dev/api/puzzle/today
+curl https://actorlinks-api.your-subdomain.workers.dev/api/puzzle/today
 
 # Get actor neighbors
-curl https://cinelinks-api.your-subdomain.workers.dev/api/actors/287/neighbors
+curl https://actorlinks-api.your-subdomain.workers.dev/api/actors/287/neighbors
 ```
 
 ### Test Frontend
-Visit your Pages URL (e.g., `https://cinelinks.pages.dev`)
+Visit your Pages URL (e.g., `https://actorlinks.pages.dev`)
 
 ## Updating the Graph
 
@@ -171,7 +171,7 @@ When you need to update the actor graph:
 ### Frontend (.env)
 | Variable | Description | Example |
 |----------|-------------|---------|
-| VITE_API_URL | Edge API URL | "https://cinelinks-api.workers.dev" |
+| VITE_API_URL | Edge API URL | "https://actorlinks-api.workers.dev" |
 | VITE_USE_EDGE_API | Enable edge mode | "true" |
 
 ## Troubleshooting

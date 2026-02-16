@@ -1,6 +1,6 @@
-# CineLinks Edge API
+# Actor Links Edge API
 
-Cloudflare Workers API for the CineLinks game. Provides edge-optimized endpoints for daily puzzles and game data.
+Cloudflare Workers API for the Actor Links game. Provides edge-optimized endpoints for daily puzzles and game data.
 
 ## Architecture
 
@@ -26,7 +26,7 @@ Cloudflare Workers (Edge API)
 1. **Node.js** 18+ installed
 2. **Wrangler CLI** installed: `npm install -g wrangler`
 3. **Cloudflare Account** with:
-   - R2 bucket created: `wrangler r2 bucket create cinelinks-graph`
+   - R2 bucket created: `wrangler r2 bucket create actorlinks-graph`
    - KV namespace created: `wrangler kv:namespace create PUZZLE_KV`
 
 ## Setup

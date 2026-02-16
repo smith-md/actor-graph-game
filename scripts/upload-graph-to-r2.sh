@@ -4,7 +4,7 @@
 # Prerequisites:
 # 1. Install wrangler: npm install -g wrangler
 # 2. Login to Cloudflare: wrangler login
-# 3. Create R2 bucket: wrangler r2 bucket create cinelinks-graph
+# 3. Create R2 bucket: wrangler r2 bucket create actorlinks-graph
 #
 # Usage: ./scripts/upload-graph-to-r2.sh [graph_version]
 # Example: ./scripts/upload-graph-to-r2.sh v20250205
@@ -12,7 +12,7 @@
 set -e
 
 # Configuration
-BUCKET_NAME="cinelinks-graph"
+BUCKET_NAME="actorlinks-graph"
 EXPORT_DIR="build/edge_export"
 
 # Get graph version from argument or generate from date
@@ -22,7 +22,7 @@ else
     GRAPH_VERSION="v$(date +%Y%m%d)"
 fi
 
-echo "=== CineLinks Graph Upload to R2 ==="
+echo "=== Actor Links Graph Upload to R2 ==="
 echo "Bucket: $BUCKET_NAME"
 echo "Graph Version: $GRAPH_VERSION"
 echo "Source: $EXPORT_DIR"

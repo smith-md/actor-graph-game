@@ -1,0 +1,35 @@
+name = "actorlinks-api"
+main = "src/index.ts"
+compatibility_date = "2024-01-01"
+compatibility_flags = ["nodejs_compat"]
+
+# R2 bucket for graph data
+[[r2_buckets]]
+binding = "GRAPH_BUCKET"
+bucket_name = "actorlinks-graph"
+
+# KV namespace for daily puzzles and metadata
+[[kv_namespaces]]
+binding = "PUZZLE_KV"
+id = "3344ff5880664463ab910ef3047f98ac"
+preview_id = "c6a93dc80789411e871fd6ef83f63252"
+
+# Environment variables
+[vars]
+GRAPH_VERSION = "v20260209"
+TMDB_IMAGE_BASE = "https://image.tmdb.org/t/p"
+
+# Development settings
+[dev]
+port = 8787
+local_protocol = "http"
+
+# Production routes
+# [env.production]
+# routes = [
+#   { pattern = "api.actorlinks.app/*", zone_name = "actorlinks.app" }
+# ]
+
+# Cron triggers for daily puzzle generation
+[triggers]
+crons = ["0 5 * * *"]  # 5 AM UTC daily (midnight Central)

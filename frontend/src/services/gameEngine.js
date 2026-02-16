@@ -1,5 +1,5 @@
 /**
- * Client-side game engine for CineLinks
+ * Client-side game engine for Actor Links
  * Manages all game state: path, validation, win/loss tracking
  */
 

@@ -49,7 +49,7 @@ class LRUCache {
 }
 
 // IndexedDB wrapper for persistent storage
-const DB_NAME = 'cinelinks-cache';
+const DB_NAME = 'actorlinks-cache';
 const DB_VERSION = 1;
 const STORE_NAME = 'neighbors';
 

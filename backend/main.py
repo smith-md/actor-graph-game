@@ -12,7 +12,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from starlette.middleware.base import BaseHTTPMiddleware
 from pydantic import BaseModel
 
-logger = logging.getLogger("movielinks")
+logger = logging.getLogger("actorlinks")
 
 from game_logic import MovieConnectionGame
 from daily_puzzle import DailyPuzzleManager
@@ -20,8 +20,8 @@ from daily_puzzle import DailyPuzzleManager
 is_prod = os.getenv("ENV", "dev") == "production"
 
 app = FastAPI(
-    title="Movie Links API",
-    description="Movie Links — connect two actors through shared movies.",
+    title="Actor Links API",
+    description="Actor Links — connect two actors through shared movies.",
     version="0.1.0",
     docs_url=None if is_prod else "/docs",
     redoc_url=None if is_prod else "/redoc",
@@ -53,7 +53,7 @@ app.add_middleware(
 GRAPH = None
 GRAPH_READY = False
 GRAPH_CHECKSUM = ""
-GRAPH_PATH = os.getenv("CINELINKS_GRAPH_PATH", "global_actor_actor_graph.gpickle")
+GRAPH_PATH = os.getenv("ACTORLINKS_GRAPH_PATH", "global_actor_actor_graph.gpickle")
 ACTOR_MOVIE_INDEX = None  # NEW: Comprehensive actor-movie index for StartActorScore & full movie coverage
 ACTOR_INDEX, MOVIE_INDEX = [], []
 ACTOR_BY_NORM, MOVIE_BY_NORM = {}, {}
@@ -153,7 +153,7 @@ def load_graph():
     """Load the prebuilt graph AND actor-movie index using pickle."""
     global GRAPH, GRAPH_READY, GRAPH_CHECKSUM, ACTOR_INDEX, MOVIE_INDEX, ACTOR_BY_NORM, MOVIE_BY_NORM, ACTOR_MOVIE_INDEX, DAILY_PUZZLE_MANAGER
     if not os.path.exists(GRAPH_PATH):
-        print(f"[Movie Links] Graph file not found at {GRAPH_PATH}")
+        print(f"[Actor Links] Graph file not found at {GRAPH_PATH}")
         GRAPH_READY = False
         return
 
@@ -167,31 +167,31 @@ def load_graph():
         if os.path.exists(index_path):
             with open(index_path, "rb") as f:
                 ACTOR_MOVIE_INDEX = pickle.load(f)
-            print(f"[Movie Links] Loaded actor-movie index: {index_path}")
-            print(f"[Movie Links]   Movies: {len(ACTOR_MOVIE_INDEX['movies'])}, Actors: {len(ACTOR_MOVIE_INDEX['actor_movies'])}")
+            print(f"[Actor Links] Loaded actor-movie index: {index_path}")
+            print(f"[Actor Links]   Movies: {len(ACTOR_MOVIE_INDEX['movies'])}, Actors: {len(ACTOR_MOVIE_INDEX['actor_movies'])}")
         else:
-            print(f"[Movie Links] WARNING: Actor-movie index not found at {index_path}")
-            print(f"[Movie Links] Movie autocomplete will have limited coverage (edge metadata only)")
+            print(f"[Actor Links] WARNING: Actor-movie index not found at {index_path}")
+            print(f"[Actor Links] Movie autocomplete will have limited coverage (edge metadata only)")
             ACTOR_MOVIE_INDEX = None
 
         GRAPH_READY = True
         GRAPH_CHECKSUM = compute_graph_fingerprint(GRAPH)
         ACTOR_INDEX, MOVIE_INDEX = build_indexes(GRAPH, ACTOR_MOVIE_INDEX)  # Pass index to build_indexes
         ACTOR_BY_NORM, MOVIE_BY_NORM = build_lookup_maps(GRAPH, ACTOR_INDEX, MOVIE_INDEX)
-        print(f"[Movie Links] Loaded graph: {GRAPH_PATH}")
-        print(f"[Movie Links] Nodes={GRAPH.number_of_nodes()} | Edges={GRAPH.number_of_edges()} | Movies indexed={len(MOVIE_INDEX)}")
+        print(f"[Actor Links] Loaded graph: {GRAPH_PATH}")
+        print(f"[Actor Links] Nodes={GRAPH.number_of_nodes()} | Edges={GRAPH.number_of_edges()} | Movies indexed={len(MOVIE_INDEX)}")
 
         # Log playable and starting pool counts
         playable_count = sum(1 for _, d in GRAPH.nodes(data=True) if d.get("in_playable_graph", False))
         starting_count = sum(1 for _, d in GRAPH.nodes(data=True) if d.get("in_starting_pool", False))
-        print(f"[Movie Links] Playable actors: {playable_count}")
-        print(f"[Movie Links] Starting pool: {starting_count}")
+        print(f"[Actor Links] Playable actors: {playable_count}")
+        print(f"[Actor Links] Starting pool: {starting_count}")
 
         # Initialize daily puzzle manager
         DAILY_PUZZLE_MANAGER = DailyPuzzleManager(GRAPH)
-        print(f"[Movie Links] Daily puzzle manager initialized")
+        print(f"[Actor Links] Daily puzzle manager initialized")
     except Exception as e:
-        print(f"[Movie Links] Failed to load graph: {e}")
+        print(f"[Actor Links] Failed to load graph: {e}")
         GRAPH = None
         GRAPH_READY = False
         GRAPH_CHECKSUM = ""
@@ -396,14 +396,14 @@ def graph_not_ready_response():
         status_code=503,
         content={
             "error": "Graph not ready",
-            "message": "The Movie Links data graph is still loading or missing. Please refresh in a few seconds."
+            "message": "The Actor Links data graph is still loading or missing. Please refresh in a few seconds."
         },
     )
 
 # ---------- Routes ----------
 @app.get("/health")
 def health():
-    return {"ok": True, "ready": GRAPH_READY, "service": "Movie Links API"}
+    return {"ok": True, "ready": GRAPH_READY, "service": "Actor Links API"}
 
 @app.get("/meta")
 def meta():
@@ -755,5 +755,5 @@ def get_optimal_paths(game_id: str, max_paths: int = 3):
 try:
     load_graph()
 except Exception as e:
-    print(f"[Movie Links] Startup: could not load graph ({e})")
+    print(f"[Actor Links] Startup: could not load graph ({e})")
     GRAPH_READY = False

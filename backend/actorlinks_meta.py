@@ -30,6 +30,6 @@ if __name__ == "__main__":
         print_meta("ENV A", m1); print_meta("ENV B", m2); sys.exit(compare(m1, m2))
     else:
         print("Usage:")
-        print("  python cinelinks_meta.py https://api.staging.example.com")
-        print("  python cinelinks_meta.py https://api.staging.example.com https://api.prod.example.com")
+        print("  python actorlinks_meta.py https://api.staging.example.com")
+        print("  python actorlinks_meta.py https://api.staging.example.com https://api.prod.example.com")
         sys.exit(1)

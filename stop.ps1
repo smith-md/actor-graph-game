@@ -1,4 +1,4 @@
-Write-Host "Stopping CineLinks..." -ForegroundColor Cyan
+Write-Host "Stopping Actor Links..." -ForegroundColor Cyan
 Write-Host ""
 
 $ports = @(8000, 5173)

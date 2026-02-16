@@ -3,7 +3,7 @@
 # Prerequisites:
 # 1. Install wrangler: npm install -g wrangler
 # 2. Login to Cloudflare: wrangler login
-# 3. Create R2 bucket: wrangler r2 bucket create movelinks-graph
+# 3. Create R2 bucket: wrangler r2 bucket create actorlinks-graph
 #
 # Usage: .\scripts\upload-graph-to-r2.ps1 [-GraphVersion "v20250205"]
 
@@ -14,10 +14,10 @@ param(
 $ErrorActionPreference = "Stop"
 
 # Configuration
-$BucketName = "movielinks-graph"
+$BucketName = "actorlinks-graph"
 $ExportDir = "build\edge_export"
 
-Write-Host "=== CineLinks Graph Upload to R2 ===" -ForegroundColor Cyan
+Write-Host "=== Actor Links Graph Upload to R2 ===" -ForegroundColor Cyan
 Write-Host "Bucket: $BucketName"
 Write-Host "Graph Version: $GraphVersion"
 Write-Host "Source: $ExportDir"
