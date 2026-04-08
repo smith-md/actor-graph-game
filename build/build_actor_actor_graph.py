@@ -1164,6 +1164,118 @@ def select_playable_actors(G, top_n=500):
     return G, selected
 
 
+def fetch_movies_from_actor_credits(playable_actors, movie_cast_data, min_vote_count=200):
+    """
+    For each playable actor, fetch their full TMDb movie credits and add any
+    movies not already in movie_cast_data (filtered by vote_count).
+
+    This captures films like EDtv that don't rank highly in TMDb's popularity
+    sort but are legitimately well-known movies featuring playable actors.
+
+    Args:
+        playable_actors: Set/list of actor node IDs (format: "actor_{tmdb_id}")
+        movie_cast_data: Existing movie data dict (will be updated in place)
+        min_vote_count: Minimum TMDb vote count to include a new movie
+
+    Returns:
+        Updated movie_cast_data with newly discovered movies added
+    """
+    print(f"\n=== Fetching Movies from Actor Credits ({len(playable_actors)} actors, min {min_vote_count} votes) ===")
+
+    playable_tmdb_ids = {int(node.replace('actor_', '')) for node in playable_actors}
+    existing_movie_ids = set(movie_cast_data.keys())
+    new_movie_ids = set()
+
+    # Step 1: Collect all movie IDs from each actor's credits
+    for actor_tmdb_id in tqdm(playable_tmdb_ids, desc="Scanning actor credits"):
+        cache_path = os.path.join(CACHE_DIR, f"actor_{actor_tmdb_id}_movie_credits.json")
+
+        try:
+            if os.path.exists(cache_path):
+                with open(cache_path, 'r', encoding='utf-8') as f:
+                    credits = json.load(f)
+            else:
+                url = f"{BASE_URL}/person/{actor_tmdb_id}/movie_credits"
+                response = requests.get(url, params={"api_key": API_KEY}, timeout=10)
+                response.raise_for_status()
+                credits = response.json()
+
+                os.makedirs(CACHE_DIR, exist_ok=True)
+                with open(cache_path, 'w', encoding='utf-8') as f:
+                    json.dump(credits, f, ensure_ascii=False, indent=2)
+                time.sleep(0.15)
+
+            for movie in credits.get("cast", []):
+                movie_id = movie["id"]
+                if movie_id not in existing_movie_ids and movie.get("vote_count", 0) >= min_vote_count:
+                    new_movie_ids.add(movie_id)
+
+        except Exception as e:
+            print(f"Error fetching credits for actor {actor_tmdb_id}: {e}")
+
+    print(f"Found {len(new_movie_ids)} new movies to add from actor credits")
+
+    # Step 2: Fetch full cast + details for each new movie
+    added = 0
+    for movie_id in tqdm(new_movie_ids, desc="Fetching new movie details"):
+        credits_cache_path = os.path.join(CACHE_DIR, f"movie_{movie_id}_credits.json")
+        details_cache_path = os.path.join(CACHE_DIR, f"movie_{movie_id}_details.json")
+
+        try:
+            if os.path.exists(credits_cache_path) and os.path.exists(details_cache_path):
+                with open(credits_cache_path, 'r', encoding='utf-8') as f:
+                    credits_data = json.load(f)
+                with open(details_cache_path, 'r', encoding='utf-8') as f:
+                    details_data = json.load(f)
+            else:
+                params = {"api_key": API_KEY}
+
+                credits_response = requests.get(f"{BASE_URL}/movie/{movie_id}/credits", params=params, timeout=10)
+                credits_response.raise_for_status()
+                credits_data = credits_response.json()
+
+                details_response = requests.get(f"{BASE_URL}/movie/{movie_id}", params=params, timeout=10)
+                details_response.raise_for_status()
+                details_data = details_response.json()
+
+                os.makedirs(CACHE_DIR, exist_ok=True)
+                with open(credits_cache_path, 'w', encoding='utf-8') as f:
+                    json.dump(credits_data, f, ensure_ascii=False, indent=2)
+                with open(details_cache_path, 'w', encoding='utf-8') as f:
+                    json.dump(details_data, f, ensure_ascii=False, indent=2)
+
+                time.sleep(0.15)
+
+            cast_list = []
+            for person in credits_data.get("cast", [])[:30]:
+                cast_list.append({
+                    "id": person["id"],
+                    "name": person["name"],
+                    "profile_path": person.get("profile_path"),
+                    "cast_order": person.get("order", 999),
+                    "character": person.get("character", "")
+                })
+
+            if cast_list:
+                movie_cast_data[movie_id] = {
+                    "title": details_data.get("title", "Unknown"),
+                    "popularity": details_data.get("popularity", 0),
+                    "release_date": details_data.get("release_date", ""),
+                    "vote_count": details_data.get("vote_count", 0),
+                    "poster_path": details_data.get("poster_path"),
+                    "cast": cast_list,
+                    "cast_size": len(cast_list),
+                    "original_language": details_data.get("original_language", "")
+                }
+                added += 1
+
+        except Exception as e:
+            print(f"Error fetching movie {movie_id}: {e}")
+
+    print(f"OK: Added {added} new movies from actor credits\n")
+    return movie_cast_data
+
+
 def enrich_playable_actor_connections(G, playable_actors, movie_cast_data):
     """
     For each movie, fetch FULL cast (not just top 10) and add connections
@@ -1378,6 +1490,12 @@ def main():
         help="Maximum pages of movies to fetch (TMDb limit: 500 pages = 10,000 movies)"
     )
     parser.add_argument(
+        "--enrich-min-votes",
+        type=int,
+        default=200,
+        help="Minimum vote count for movies discovered via actor credits enrichment (default: 200)"
+    )
+    parser.add_argument(
         "--refresh-cache",
         action="store_true",
         help="Force refresh TMDb cache (re-fetch from API)"
@@ -1433,6 +1551,11 @@ def main():
 
     # Step 5: Select playable actors (top 500)
     G, playable_actors = select_playable_actors(G, top_n=args.top)
+
+    # Step 5.3: Fetch movies from actor credits (captures films missing from popularity list)
+    movie_cast_data = fetch_movies_from_actor_credits(
+        playable_actors, movie_cast_data, min_vote_count=args.enrich_min_votes
+    )
 
     # Step 5.5: Enrich with full cast for playable actors (NEW - ensures all valid pairings)
     G = enrich_playable_actor_connections(G, playable_actors, movie_cast_data)
