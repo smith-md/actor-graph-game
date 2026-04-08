@@ -714,12 +714,12 @@ export default function App() {
                 )}
 
                 {/* Path Visualization - Always show with interactive empty nodes */}
-                {(!state?.completed || state?.gaveUp) && start && (
+                {start && (
                   <div>
                     <PathVisualization
                       path={path}
                       start={start}
-                      onEmptyNodeClick={state?.gaveUp ? null : openGuessModal}
+                      onEmptyNodeClick={(!state?.completed && !state?.gaveUp) ? openGuessModal : null}
                       isOptimal={false}
                     />
                   </div>
@@ -1047,11 +1047,17 @@ function PathVisualization({ path, start, onEmptyNodeClick, isOptimal = false })
         }
 
         // Add segments for this row
+        // rowStartAbove ensures movies at row-wrap junctions point the same direction
+        // (both away from the connector), preventing overlap between adjacent rows.
+        // For even segmentsPerRow: odd rows flip polarity so the junction movie matches.
+        // For odd segmentsPerRow: polarity naturally matches, no flip needed.
+        const rowStartAbove = (rowIdx % 2 === 0) || (segmentsPerRow % 2 !== 0);
         rowSegments.forEach((segment, i) => {
           const globalIdx = rowIdx * segmentsPerRow + i;
+          const correctedIdx = rowStartAbove ? i : i + 1;
           if (segment.movie) {
             items.push(
-              <MovieSegment key={`m-${globalIdx}`} movie={segment.movie} index={globalIdx} isOptimal={false} />
+              <MovieSegment key={`m-${globalIdx}`} movie={segment.movie} index={correctedIdx} isOptimal={false} />
             );
           }
           if (segment.actor) {
@@ -1063,15 +1069,17 @@ function PathVisualization({ path, start, onEmptyNodeClick, isOptimal = false })
 
         // Last row gets pending movie + placeholders
         if (isLastRow) {
+          const emptyLocalIdx = rowSegments.length;
+          const correctedEmptyIdx = rowStartAbove ? emptyLocalIdx : emptyLocalIdx + 1;
           if (pendingMovie) {
             items.push(
-              <MovieSegment key="pending" movie={pendingMovie} index={segments.length} isOptimal={false} hidePoster={true} />
+              <MovieSegment key="pending" movie={pendingMovie} index={correctedEmptyIdx} isOptimal={false} hidePoster={true} />
             );
           }
           if (onEmptyNodeClick) {
             if (needsMovieGuess) {
               items.push(
-                <EmptyMovieNode key="empty-movie" onClick={() => onEmptyNodeClick('movie')} index={segments.length} />
+                <EmptyMovieNode key="empty-movie" onClick={() => onEmptyNodeClick('movie')} index={correctedEmptyIdx} />
               );
             }
             if (needsActorGuess) {
